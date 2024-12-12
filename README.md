@@ -46,7 +46,6 @@
     <li>💻 First Author - Shortest Path Graph Theory Solver V1.0 (Software Copyright)</li>
     <li>📄 Fourth Author - "Stock Price Prediction Research Based on LSTM and Random Forest Models" (ISTASR, Google Scholar For SEM Press Indexed)</li>
     <li>🔬 Patent Application [2024203380730] - "A Communication Cable Distribution Equipment"</li>
-    <li>🔬 Patent Application [2024112419170] - "A Silicon-based Electro-optic Modulator with Enhanced Modulation Bandwidth and Its Manufacturing Method"</li>
     <li>🔬 Patent Application [2024105703242] - "A Mechanical Energy Conversion and Power Generation Device" (Substantive Examination Phase)</li>
     <li>🔬 Patent Application [2024104975733] - "An Underwater Visible Light Communication System" (Substantive Examination Phase)</li>
     <li>🔬 Patent Application [2024102913925] - "AI-based Maritime Multimodal Transport Path Optimization System" (Substantive Examination Phase)</li>
