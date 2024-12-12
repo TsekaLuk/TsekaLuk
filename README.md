@@ -17,14 +17,14 @@
     <li>🥇 First Prize in Huawei ICT Competition 2023-2024 Campus Selection</li>
     <li>🥉 Third Prize in Huawei ICT Competition 2023-2024 Jiangsu Province</li>
     <li>🥈 Second Prize in the 14th Charoen Pokphand Cup National College Market Research Competition (Jiangsu Province)</li>
-    <li>🥇 First Prize & Innovation Award in the 9th Dimension Cup Mathematical Modeling Challenge 2024</li>
+    <li>🏆 First Prize & Innovation Award in the 9th Dimension Cup Mathematical Modeling Challenge 2024</li>
     <li>🥈 Second Prize in the 7th "FLTRP Cup" Cross-cultural Competence Competition (Campus Selection)</li>
     <li>🥇 First Prize in College Mathematical Modeling Competition Campus Selection 2024</li>
     <li>🥈 Second Prize in Higher Education Press Cup National Mathematical Modeling Competition (Jiangsu Division) 2024</li>
     <li>🥉 Third Prize in the 7th China University Intelligent Robot Innovation Competition 2024</li>
     <li>🥈 Second Prize in Jiangsu Province College Student Electronic Design Competition (TI Cup) 2024</li>
     <li>🥈 Second Prize in Global Campus AI Algorithm Elite Competition (Jiangsu Division) 2024</li>
-    <li>🥈 Second Prize in Global Campus AI Algorithm Elite Competition National Finals 2024</li>
+    <li>🥉 Third Prize in Global Campus AI Algorithm Elite Competition National Finals 2024</li>
   </ul>
 </details>
 
