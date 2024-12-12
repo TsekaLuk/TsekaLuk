@@ -2,9 +2,56 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=720&height=45&lines=Passionate+AI+Researcher+%7C+Deep+Learning+Practitioner;Machine+Learning+Engineer+%7C+Computer+Vision+Enthusiast;Software+Developer+%7C+Cloud+Solutions+Architect;Research-Focused+Engineer+%7C+MLOps+Student;Continuous+Learner+%7C+Open+Source+Contributor"/>
 </div>
 
+<!-- Trophy -->
+<h3 align="left" style="font-family:'Signifier';color:#F2D0A7;font-weight:300;margin:1.5em 0 0.8em;font-style:italic">Trophy & Achievements</h3>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=TsekaLuk&theme=nord&no-frame=true&no-bg=true&row=1&column=7&margin-w=16"/>
 </div>
+
+<details>
+  <summary style="font-family:'Söhne';color:#A3BF78;cursor:pointer;margin:1em 0">🏆 Competitions & Awards</summary>
+  <ul style="font-family:'Söhne';list-style-type:none;padding-left:0">
+    <li>🥇 First Prize in National College English Competition (Category C) 2023</li>
+    <li>🥉 Third Prize in the 3rd China University Big Data Challenge 2023</li>
+    <li>🏆 Special Prize in the 9th Central and Western China Foreign Language Translation Competition Finals 2023</li>
+    <li>🥇 First Prize in Huawei ICT Competition 2023-2024 Campus Selection</li>
+    <li>🥉 Third Prize in Huawei ICT Competition 2023-2024 Jiangsu Province</li>
+    <li>🥈 Second Prize in the 14th Charoen Pokphand Cup National College Market Research Competition (Jiangsu Province)</li>
+    <li>🥇 First Prize & Innovation Award in the 9th Dimension Cup Mathematical Modeling Challenge 2024</li>
+    <li>🥈 Second Prize in the 7th "FLTRP Cup" Cross-cultural Competence Competition (Campus Selection)</li>
+    <li>🥇 First Prize in College Mathematical Modeling Competition Campus Selection 2024</li>
+    <li>🥈 Second Prize in Higher Education Press Cup National Mathematical Modeling Competition (Jiangsu Division) 2024</li>
+    <li>🥉 Third Prize in the 7th China University Intelligent Robot Innovation Competition 2024</li>
+    <li>🥈 Second Prize in Jiangsu Province College Student Electronic Design Competition (TI Cup) 2024</li>
+    <li>🥈 Second Prize in Global Campus AI Algorithm Elite Competition (Jiangsu Division) 2024</li>
+    <li>🥈 Second Prize in Global Campus AI Algorithm Elite Competition National Finals 2024</li>
+  </ul>
+</details>
+
+<details>
+  <summary style="font-family:'Söhne';color:#A3BF78;cursor:pointer;margin:1em 0">📜 Certifications</summary>
+  <ul style="font-family:'Söhne';list-style-type:none;padding-left:0">
+    <li>🔰 HCIA-Datacom (Huawei Certified ICT Associate - Datacom)</li>
+    <li>🔰 HarmonyOS Advanced Application Developer Certification</li>
+    <li>🔰 Datawhale Certified Prompt Engineer</li>
+    <li>🔰 Innovative Entrepreneurship and Leadership Management Program Certificate - Macau University of Science and Technology Graduate School</li>
+  </ul>
+</details>
+
+<details>
+  <summary style="font-family:'Söhne';color:#A3BF78;cursor:pointer;margin:1em 0">📝 Publications & Patents</summary>
+  <ul style="font-family:'Söhne';list-style-type:none;padding-left:0">
+    <li>💻 Second Author - Power System Efficiency Optimization Decision Support Platform V1.0 (Software Copyright)</li>
+    <li>💻 Third Author - OD Algorithm-based Data Multi-classification System V1.0 (Software Copyright)</li>
+    <li>💻 First Author - Shortest Path Graph Theory Solver V1.0 (Software Copyright)</li>
+    <li>📄 Fourth Author - "Stock Price Prediction Research Based on LSTM and Random Forest Models" (ISTASR, Google Scholar For SEM Press Indexed)</li>
+    <li>🔬 Patent Application [2024203380730] - "A Communication Cable Distribution Equipment"</li>
+    <li>🔬 Patent Application [2024112419170] - "A Silicon-based Electro-optic Modulator with Enhanced Modulation Bandwidth and Its Manufacturing Method"</li>
+    <li>🔬 Patent Application [2024105703242] - "A Mechanical Energy Conversion and Power Generation Device" (Substantive Examination Phase)</li>
+    <li>🔬 Patent Application [2024104975733] - "An Underwater Visible Light Communication System" (Substantive Examination Phase)</li>
+    <li>🔬 Patent Application [2024102913925] - "AI-based Maritime Multimodal Transport Path Optimization System" (Substantive Examination Phase)</li>
+  </ul>
+</details>
 
 <br/><br/>
 
