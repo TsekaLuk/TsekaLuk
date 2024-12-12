@@ -11,7 +11,7 @@
 <details>
   <summary style="font-family:'Söhne';color:#A3BF78;cursor:pointer;margin:1em 0">🏆 Competitions & Awards</summary>
   <ul style="font-family:'Söhne';list-style-type:none;padding-left:0">
-    <li>🥇 First Prize in National College English Competition (Category C) 2023</li>
+    <li>🥇 First Prize in National College English Competition (Category C) Campus Selection 2023</li>
     <li>🥉 Third Prize in the 3rd China University Big Data Challenge 2023</li>
     <li>🏆 Special Prize in the 9th Central and Western China Foreign Language Translation Competition Finals 2023</li>
     <li>🥇 First Prize in Huawei ICT Competition 2023-2024 Campus Selection</li>
