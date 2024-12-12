@@ -113,7 +113,7 @@
 
 <br/>
 
-<div class="footer-stats">
+<div align="center" class="footer-stats">
   <img src="https://komarev.com/ghpvc/?username=TsekaLuk&style=for-the-badge&color=65A69A&labelColor=727A8C&font=JetBrains+Mono"/>
   <a href="https://github.com/TsekaLuk?tab=followers">
     <img src="https://img.shields.io/github/followers/TsekaLuk?style=for-the-badge&color=65A69A&labelColor=727A8C&font=JetBrains+Mono"/>
