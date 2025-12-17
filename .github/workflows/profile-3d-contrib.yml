@@ -9,7 +9,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
-    permissions: 
+    permissions:
       contents: write
     steps:
       - uses: actions/checkout@v3
