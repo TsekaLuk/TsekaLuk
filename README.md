@@ -27,207 +27,137 @@
     <li>🥉 Third Prize in Global Campus AI Algorithm Elite Competition National Finals 2024</li>
   </ul>
 </details>
-<!-- Header -->
+<!-- Top Anchor -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Tseka%20Luk&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Founder%20%26%20CEO%20@%20Nebutra%20Intelligence&descAlignY=51&descAlign=62"/>
-</div>
 
-<!-- Typing Bio -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3578E5&center=true&vCenter=true&width=500&lines=Founder+%26+CEO+%40+Nebutra+Intelligence;AI-Native+Innovator+%7C+Full+Stack+Engineer;Building+the+Future+of+SaaS;One-Person+unicorn+company" alt="Typing SVG" />
-  </a>
-</div>
+<!-- Header Capsule -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Tseka%20Luk&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Founder%20%26%20CEO%20@%20Nebutra%20Intelligence&descAlignY=55&descAlign=60"/>
 
-<div align="center">
-  
-  [![Email](https://img.shields.io/badge/Email-contact%40tsekaluk.dev-blue?style=flat-square&logo=gmail)](mailto:contact@tsekaluk.dev)
-  [![Website](https://img.shields.io/badge/Website-nebutra.com-blueviolet?style=flat-square&logo=google-chrome)](https://nebutra.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-TsekaLuk-black?style=flat-square&logo=github)](https://github.com/TsekaLuk)
-  
+<!-- Dynamic Bio (Typing) -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2E7EEE&center=true&vCenter=true&width=600&lines=Founder+%26+CEO+%40+Nebutra+Intelligence;AI-Native+Innovator+%7C+Full+Stack+Engineer;Building+the+Future+of+SaaS;One-Person+Unicorn+Company+(OPC)" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Social Badges (Minimalist) -->
+<p>
+  <a href="mailto:contact@tsekaluk.dev"><img src="https://img.shields.io/badge/Email-contact%40tsekaluk.dev-black?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://nebutra.com"><img src="https://img.shields.io/badge/Website-nebutra.com-7C3AED?style=flat-square&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://github.com/TsekaLuk"><img src="https://img.shields.io/badge/GitHub-TsekaLuk-181717?style=flat-square&logo=github&logoColor=white"/></a>
+</p>
+
 </div>
 
 ---
 
-### 🚀 About Nebutra Intelligence
+### 🚀 **Nebutra Intelligence**
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./brand-icons/logo-horizontal-zh.svg">
     <source media="(prefers-color-scheme: light)" srcset="./brand-icons/logo-horizontal-zh.svg">
-    <img alt="Nebutra Intelligence Logo" src="./brand-icons/logo-horizontal-zh.svg" width="60%">
+    <img alt="Nebutra Intelligence Logo" src="./brand-icons/logo-horizontal-zh.svg" width="55%">
   </picture>
 </div>
 
 > **"Nebula · Nurture · Ultra · Future"**  
-> *We bridge the gap between AI capabilities and real-world business value.*
+> *Bridging the gap between AI capabilities and real-world business value.*
 
-As the **Founder & CEO**, I operate **Nebutra Intelligence** as an **AI-Native OPC (One-Person Company)**. By leveraging a "Founder + Digital Agents" architecture, I achieve the output of a 7-person team.
+As **Founder & CEO**, I operate **Nebutra Intelligence** as an **AI-Native OPC (One-Person Company)**. Leveraging a "Founder + Digital Agents" architecture, I deliver the output of a 7-person agile team.
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Stage-Pre--Seed-success?style=for-the-badge&logo=rocket"/>
-  <img src="https://img.shields.io/badge/Runway-18%2B%20Months-success?style=for-the-badge&logo=time"/>
-  <img src="https://img.shields.io/badge/Team-OPC%20(1%20%2B%20AI%20Agents)-blue?style=for-the-badge&logo=org"/>
-  <img src="https://img.shields.io/badge/Revenue-Generating-success?style=for-the-badge&logo=cashapp"/>
-</div>
 
-**Our Vision**: To democratize entrepreneurship through AI + System Design, making it easier for strangers to collaborate and build value.
+| **Stage** | **Runway** | **Team Structure** | **Revenue** |
+| :---: | :---: | :---: | :---: |
+| ![Pre-Seed](https://img.shields.io/badge/Pre--Seed-Ready-success?style=for-the-badge) | ![Runway](https://img.shields.io/badge/18%2B_Months-Secure-success?style=for-the-badge) | ![Team](https://img.shields.io/badge/OPC-1_%2B_Agents-blue?style=for-the-badge) | ![Revenue](https://img.shields.io/badge/Generating-Active-success?style=for-the-badge) |
+
+</div>
 
 ---
 
-### 🏆 Achievements & Honors
+### ⚡ **Selected Works & Open Source**
 
-I combine academic rigor with engineering pragmatism.
+*   **[any2md](https://github.com/TsekaLuk/any2md)** (Python) - Multi-format document to Markdown converter (PDF/PPT/PNG) keeping tables/formulas.
+*   **[Cursor-export-extension](https://github.com/TsekaLuk/Cursor-export-extension)** (TypeScript) - Chrome extension to export Cursor IDE sessions to structured Markdown.
+*   **[CDTMP-Agent-Instructions](https://github.com/TsekaLuk/CDTMP-Agent-Instructions)** - Complex Task Agent context persistence instruction set.
+*   **[hydrogem-web](https://github.com/TsekaLuk/hydrogem-web)** (React/TS) - Real-time water quality monitoring system with 5s refresh & alerts.
 
-<!-- Trophies (Restored by Request) -->
-<div align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=TsekaLuk&theme=dracula&no-frame=true&no-bg=true&margin-w=4" /> 
+---
+
+### 🛠 **The Tech Stack**
+
+*"Value-Oriented Engineering" — I don't just write code; I build systems that solve problems.*
+
+#### **AI Engineering & Generative Models**
+![OpenAI](https://img.shields.io/badge/OpenAI_Core-412991?style=flat-square&logo=openai&logoColor=white) ![Anthropic](https://img.shields.io/badge/Anthropic-D14836?style=flat-square&logo=anthropic&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![ComfyUI](https://img.shields.io/badge/ComfyUI-4752C4?style=flat-square&logo=discord&logoColor=white) ![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=flat-square&logo=midjourney&logoColor=white) ![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-101010?style=flat-square&logo=stabilityai&logoColor=white)
+
+#### **Core Development**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+#### **Product & Data Science**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+
+#### **Expertise Domains**
+`AI Theory` `SaaS Architecture` `Product Design` `Financial Modeling` `Agentic Workflows` `Prompt Engineering`
+
+---
+
+### 🏆 **Achievements & Honors**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TsekaLuk&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10" />
 </div>
 
 <details open>
-<summary><strong>🏅 Core Highlights</strong></summary>
+<summary><strong>🏅 Selected Highlights (2024-2025)</strong></summary>
 
-| Category | Award / Achievement | Year |
+| Year | Level | Award |
 | :--- | :--- | :--- |
-| **Global** | 🇺🇸 **MCM/ICM Honorable Mention** (Math Modeling) | 2025 |
-| **National** | 🇨🇳 **1st Prize** APMCM (Asia-Pacific Modeling) | 2024 |
-| **National** | 🇨🇳 **Patent Holder**: Communication Cable Equipment | 2024 |
-| **National** | 🇨🇳 **2nd Prize** "Brand Planning Competition" | 2025 |
-| **Software** | 💻 **3** National Software Copyrights (Algorithms/Systems) | 2024 |
+| **2025** | 🌍 Global | **MCM/ICM Honorable Mention** (Math Modeling) |
+| **2025** | 🇨🇳 National | **1st Prize** Brand Planning Competition |
+| **2024** | 🇨🇳 National | **1st Prize** APMCM (Asia-Pacific Modeling) |
+| **2024** | 🇨🇳 National | **Patent Holder**: Communication Cable Equipment |
+| **2024** | 🇨🇳 National | **3x Software Copyrights** (Algorithms/Systems) |
 
 </details>
 
 <details>
-<summary><strong>🥇 Comprehensive Awards List</strong></summary>
+<summary><strong>📜 Full Awards List (Click to expand)</strong></summary>
 
 *   **National Level**:
-    *   MCM/ICM Honorable Mention (2025)
-    *   1st Prize, APMCM (2024)
-    *   1st Prize, National Commercial Elite Challenge - Brand Planning (2025)
+    *   Excellent Award, "Blue Bridge Cup" C/C++ Finals (2025)
     *   1st Prize & Special Innovation Award, "Shuwei Cup" Math Modeling (2024)
     *   3rd Prize, Global Campus AI Algorithm Elite Competition Finals (2024)
     *   3rd Prize, China University Intelligent Robot Creative Competition (2024)
-    *   Excellent Award, "Blue Bridge Cup" C/C++ Finals (2025)
 *   **Provincial Level**:
     *   1st Prize, Market Research and Analysis Competition (Jiangsu) (2025)
     *   1st Prize, "Blue Bridge Cup" C/C++ (Jiangsu) (2025)
     *   2nd Prize, CUMCM (Jiangsu) (2024)
     *   2nd Prize, TI Cup Electronics Design (2024)
-    *   2nd Prize, Global Campus AI Algorithm Elite Competition (Jiangsu) (2024)
     *   3rd Prize, Huawei ICT Competition (Network Track) (2024)
-
 </details>
 
 ---
 
-### 🛠 Tech Stack
-
-**"Value-Oriented Engineering"** — I don't just write code; I build systems that solve problems.
+### 📊 **Engineering Analytics**
 
 <div align="center">
 
-**Artificial Intelligence & Machine Learning**  
+<!-- Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TsekaLuk/TsekaLuk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TsekaLuk/TsekaLuk/output/github-contribution-grid-snake.svg">
+  <img alt="Snake Animation" src="https://raw.githubusercontent.com/TsekaLuk/TsekaLuk/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+<!-- Metrics -->
+<img src="https://github.com/TsekaLuk/TsekaLuk/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+
 <br/>
-<img src="https://img.shields.io/badge/OpenAI%20Core-412991?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Anthropic-D14836?style=flat-square&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
-<img src="https://img.shields.io/badge/JAX-00C853?style=flat-square&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" />
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Ascend-C90000?style=flat-square&logo=huawei&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/PaddlePaddle-00A0E9?style=flat-square&logo=baidu&logoColor=white" />
-<img src="https://img.shields.io/badge/NVIDIA%20Isaac-76B900?style=flat-square&logo=nvidia&logoColor=white" />
 
-**Creative AI & Generative Models**  
-<br/>
-<img src="https://img.shields.io/badge/Midjourney-000000?style=flat-square&logo=midjourney&logoColor=white" />
-<img src="https://img.shields.io/badge/ComfyUI-4752C4?style=flat-square&logo=discord&logoColor=white" />
-<img src="https://img.shields.io/badge/Stable%20Diffusion-101010?style=flat-square&logo=stabilityai&logoColor=white" />
-<img src="https://img.shields.io/badge/ControlNet-000000?style=flat-square&logo=artstation&logoColor=white" />
-<img src="https://img.shields.io/badge/Civitai-2B3137?style=flat-square&logo=civitai&logoColor=white" />
-
-**Development & Engineering**  
-<br/>
-<img src="https://img.shields.io/badge/JetBrains-000000?style=flat-square&logo=jetbrains&logoColor=white" />
-<img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Keil_uVision_5-002B49?style=flat-square&logo=arm&logoColor=white" />
-<img src="https://img.shields.io/badge/Bolt.new-000000?style=flat-square&logo=lightning&logoColor=white" />
-<img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
-<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
-<img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-
-**Programming Languages**  
-<br/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/MATLAB-e16737?style=flat-square&logo=mathworks&logoColor=white" />
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-
-**Scientific Computing & Research**  
-<br/>
-<img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white" />
-<img src="https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white" />
-<img src="https://img.shields.io/badge/Gurobi-E31937?style=flat-square&logo=gurobi&logoColor=white" />
-<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white" />
-<img src="https://img.shields.io/badge/OriginLab-F24E1E?style=flat-square&logo=origin&logoColor=white" />
-<img src="https://img.shields.io/badge/SPSS-003399?style=flat-square&logo=ibm&logoColor=white" />
-<img src="https://img.shields.io/badge/Mathematica-DD1100?style=flat-square&logo=wolframmathematica&logoColor=white" />
-
-</div>
-
----
-
-### 📊 Engineering Analytics
-
-<div align="center">
-  <!-- Snake Animation -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TsekaLuk/TsekaLuk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TsekaLuk/TsekaLuk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TsekaLuk/TsekaLuk/output/github-contribution-grid-snake.svg">
-  </picture>
-  
-  <br/>
-
-  <!-- Iso-Calendar & Metrics (Premium) -->
-  <img src="https://github.com/TsekaLuk/TsekaLuk/blob/main/github-metrics.svg" alt="Metrics" width="100%">
-  
-  <br/>
-  
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph"/>
+<!-- 3D Graph (Signature) -->
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph"/>
 
 </div>
 
