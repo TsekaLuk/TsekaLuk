@@ -56,6 +56,14 @@
 
 ### 🚀 About Nebutra Intelligence
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./brand-icons/logo-horizontal-zh.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./brand-icons/logo-horizontal-zh.svg">
+    <img alt="Nebutra Intelligence Logo" src="./brand-icons/logo-horizontal-zh.svg" width="60%">
+  </picture>
+</div>
+
 > **"Nebula · Nurture · Ultra · Future"**  
 > *We bridge the gap between AI capabilities and real-world business value.*
 
