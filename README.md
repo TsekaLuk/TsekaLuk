@@ -56,7 +56,7 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TsekaLuk&show_icons=true&hide_border=true&bg_color=00000000&title_color=F2D0A7&text_color=FFFFFF&icon_color=F26938&hide_title=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TsekaLuk&hide_border=true&background=00000000&stroke=65A69A&ring=65A69A&fire=F26938&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F2D0A7&sideLabels=F2D0A7&dates=A3BF78"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=TsekaLuk&hide_border=true&background=00000000&stroke=65A69A&ring=65A69A&fire=F26938&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F2D0A7&sideLabels=F2D0A7&dates=A3BF78"/>
 </div>
 
 <h1 class="title">Technology Stack</h1>
