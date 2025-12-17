@@ -32,10 +32,8 @@
 
 <!-- Static Header with Logo (Reliable) -->
 <br/>
-<img src="./brand-icons/logo-horizontal-en.svg" width="60%" alt="Nebutra Intelligence"/>
+<img src="./brand-icons/logo-horizontal-zh.svg" width="60%" alt="Nebutra Intelligence"/>
 <br/>
-
-<h1 style="border-bottom: none;">Tseka Luk</h1>
 
 <!-- Dynamic Bio (Typing) -->
 <a href="https://git.io/typing-svg">
@@ -60,7 +58,7 @@
 > **"Nebula · Nurture · Ultra · Future"**  
 > *Bridging the gap between AI capabilities and real-world business value.*
 
-As **Founder & CEO**, I operate **Nebutra Intelligence** as an **AI-Native OPC (One-Person Company)**. Leveraging a "Founder + Digital Agents" architecture, I deliver the output of a 7-person agile team.
+As **Founder & CEO**, I operate **Nebutra Intelligence** as an **AI-Native OPC (One-Person Company)**. Leveraging a "Founder + Digital Agents" architecture.
 
 <div align="center">
 
@@ -75,29 +73,60 @@ As **Founder & CEO**, I operate **Nebutra Intelligence** as an **AI-Native OPC (
 
 ### 🛠 **Expertise & Tech Stack**
 
-*"Value-Oriented Engineering" — I don't just vibe code; I design systems that solve problems.*
+*"Value-Oriented Engineering" — I don't just write code; I design systems that solve problems.*
 
-#### **AI Theory & Engineering**
-| Domain | Skills & Concepts |
-| :--- | :--- |
-| **Theory** | Statistical Learning, Optimization, Information Theory, Graph Theory, Neural Networks (CNN/RNN/LSTM), Transformers, Attention Mechanism, LLMs, Diffusion Models, GAN/VAE, Knowledge Graphs |
-| **Engineering** | PyTorch, TensorFlow, PaddlePaddle, HuggingFace, LangChain, Ollama, OpenAI/Claude/Gemini APIs, Prompt Engineering (CoT/ToT), Context Engineering, Knowledge Distillation |
-| **GenAI** | Midjourney, Stable Diffusion, ComfyUI, ControlNet, LoRA, Flux, Black Forest Labs, ElevenLabs (TTS), Runway, Pika |
+<div align="center">
 
-#### **Development & Architectures**
-| Domain | Stack |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![MATLAB](https://img.shields.io/badge/-MATLAB-e16737?logo=mathworks&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white) |
-| **Web** | ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white) |
-| **Infra** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) |
-| **Web3** | Solidity, Ethereum, Smart Contracts, DAO Governance, Tokenomics |
+**AI Engineering & Generative Models**
+<br/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Anthropic-D14836?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Midjourney-000000?style=flat-square&logo=midjourney&logoColor=white" />
+<img src="https://img.shields.io/badge/Stable_Diffusion-101010?style=flat-square&logo=stabilityai&logoColor=white" />
+<img src="https://img.shields.io/badge/ComfyUI-4752C4?style=flat-square&logo=discord&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Runway-000000?style=flat-square&logo=runway&logoColor=white" />
+<img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logo=elevenlabs&logoColor=white" />
 
-#### **Product, Data & Tools**
-| Domain | Skills |
-| :--- | :--- |
-| **Product** | PRD Writing, User Personas, SWOT Analysis, UI/UX Prototyping (Figma/Framer/V0), SaaS Architecture |
-| **Data** | Pandas, NumPy, SciPy, Matplotlib, SPSS, OriginLab, Gurobi, Mathematica |
-| **Tools** | Cursor (Expert), VSCode, JetBrains, Obsidian, Notion, Docker, LaTeX |
+**Next-Gen Tools & AI Coding**
+<br/>
+<img src="https://img.shields.io/badge/Cursor-Expert-black?style=flat-square&logo=cursor&logoColor=white" />
+<img src="https://img.shields.io/badge/Lovable-FF4F00?style=flat-square&logo=heart&logoColor=white" />
+<img src="https://img.shields.io/badge/Warp.dev-01B9C5?style=flat-square&logo=warp&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude_Code-D14836?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Kiro-000000?style=flat-square&logo=terminal&logoColor=white" />
+<img src="https://img.shields.io/badge/V0.dev-000000?style=flat-square&logo=vercel&logoColor=white" />
+
+**Product, Design & Analytics**
+<br/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white" />
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SPSS-003399?style=flat-square&logo=ibm&logoColor=white" />
+<img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
+
+**Full Stack Engineering**
+<br/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+
+</div>
 
 ---
 
