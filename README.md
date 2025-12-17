@@ -30,8 +30,12 @@
 <!-- Top Anchor -->
 <div align="center">
 
-<!-- Header Capsule -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Tseka%20Luk&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Founder%20%26%20CEO%20@%20Nebutra%20Intelligence&descAlignY=55&descAlign=60"/>
+<!-- Static Header with Logo (Reliable) -->
+<br/>
+<img src="./brand-icons/logo-horizontal-en.svg" width="60%" alt="Nebutra Intelligence"/>
+<br/>
+
+<h1 style="border-bottom: none;">Tseka Luk</h1>
 
 <!-- Dynamic Bio (Typing) -->
 <a href="https://git.io/typing-svg">
@@ -52,14 +56,6 @@
 ---
 
 ### 🚀 **Nebutra Intelligence**
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./brand-icons/logo-horizontal-zh.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./brand-icons/logo-horizontal-zh.svg">
-    <img alt="Nebutra Intelligence Logo" src="./brand-icons/logo-horizontal-zh.svg" width="55%">
-  </picture>
-</div>
 
 > **"Nebula · Nurture · Ultra · Future"**  
 > *Bridging the gap between AI capabilities and real-world business value.*
@@ -85,29 +81,35 @@ As **Founder & CEO**, I operate **Nebutra Intelligence** as an **AI-Native OPC (
 
 ---
 
-### 🛠 **The Tech Stack**
+### 🛠 **Expertise & Tech Stack**
 
 *"Value-Oriented Engineering" — I don't just write code; I build systems that solve problems.*
 
-#### **AI Engineering & Generative Models**
-![OpenAI](https://img.shields.io/badge/OpenAI_Core-412991?style=flat-square&logo=openai&logoColor=white) ![Anthropic](https://img.shields.io/badge/Anthropic-D14836?style=flat-square&logo=anthropic&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![ComfyUI](https://img.shields.io/badge/ComfyUI-4752C4?style=flat-square&logo=discord&logoColor=white) ![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=flat-square&logo=midjourney&logoColor=white) ![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-101010?style=flat-square&logo=stabilityai&logoColor=white)
+#### **AI Theory & Engineering**
+| Domain | Skills & Concepts |
+| :--- | :--- |
+| **Theory** | Statistical Learning, Optimization, Information Theory, Graph Theory, Neural Networks (CNN/RNN/LSTM), Transformers, Attention Mechanism, LLMs, Diffusion Models, GAN/VAE, Knowledge Graphs |
+| **Engineering** | PyTorch, TensorFlow, PaddlePaddle, HuggingFace, LangChain, Ollama, OpenAI/Claude/Gemini APIs, Prompt Engineering (CoT/ToT), Context Engineering, Knowledge Distillation |
+| **GenAI** | Midjourney, Stable Diffusion, ComfyUI, ControlNet, LoRA, Flux, Black Forest Labs, ElevenLabs (TTS), Runway, Pika |
 
-#### **Core Development**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+#### **Development & Architectures**
+| Domain | Stack |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![MATLAB](https://img.shields.io/badge/-MATLAB-e16737?logo=mathworks&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white) |
+| **Web** | ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white) |
+| **Infra** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) |
+| **Web3** | Solidity, Ethereum, Smart Contracts, DAO Governance, Tokenomics |
 
-#### **Product & Data Science**
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
-
-#### **Expertise Domains**
-`AI Theory` `SaaS Architecture` `Product Design` `Financial Modeling` `Agentic Workflows` `Prompt Engineering`
+#### **Product, Data & Tools**
+| Domain | Skills |
+| :--- | :--- |
+| **Product** | PRD Writing, User Personas, SWOT Analysis, UI/UX Prototyping (Figma/Framer/V0), SaaS Architecture |
+| **Data** | Pandas, NumPy, SciPy, Matplotlib, SPSS, OriginLab, Gurobi, Mathematica |
+| **Tools** | Cursor (Expert), VSCode, JetBrains, Obsidian, Notion, Docker, LaTeX |
 
 ---
 
 ### 🏆 **Achievements & Honors**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TsekaLuk&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10" />
-</div>
 
 <details open>
 <summary><strong>🏅 Selected Highlights (2024-2025)</strong></summary>
@@ -123,19 +125,24 @@ As **Founder & CEO**, I operate **Nebutra Intelligence** as an **AI-Native OPC (
 </details>
 
 <details>
-<summary><strong>📜 Full Awards List (Click to expand)</strong></summary>
+<summary><strong>📜 Full Awards List</strong></summary>
 
 *   **National Level**:
-    *   Excellent Award, "Blue Bridge Cup" C/C++ Finals (2025)
+    *   MCM/ICM Honorable Mention (2025)
+    *   1st Prize, APMCM (2024)
+    *   1st Prize, National Commercial Elite Challenge - Brand Planning (2025)
     *   1st Prize & Special Innovation Award, "Shuwei Cup" Math Modeling (2024)
     *   3rd Prize, Global Campus AI Algorithm Elite Competition Finals (2024)
     *   3rd Prize, China University Intelligent Robot Creative Competition (2024)
+    *   Excellent Award, "Blue Bridge Cup" C/C++ Finals (2025)
 *   **Provincial Level**:
     *   1st Prize, Market Research and Analysis Competition (Jiangsu) (2025)
     *   1st Prize, "Blue Bridge Cup" C/C++ (Jiangsu) (2025)
     *   2nd Prize, CUMCM (Jiangsu) (2024)
     *   2nd Prize, TI Cup Electronics Design (2024)
+    *   2nd Prize, Global Campus AI Algorithm Elite Competition (Jiangsu) (2024)
     *   3rd Prize, Huawei ICT Competition (Network Track) (2024)
+
 </details>
 
 ---
