@@ -70,20 +70,12 @@ As **Founder & CEO**, I operate **Nebutra Intelligence** as an **AI-Native OPC (
 
 </div>
 
----
-
-### ⚡ **Selected Works & Open Source**
-
-*   **[any2md](https://github.com/TsekaLuk/any2md)** (Python) - Multi-format document to Markdown converter (PDF/PPT/PNG) keeping tables/formulas.
-*   **[Cursor-export-extension](https://github.com/TsekaLuk/Cursor-export-extension)** (TypeScript) - Chrome extension to export Cursor IDE sessions to structured Markdown.
-*   **[CDTMP-Agent-Instructions](https://github.com/TsekaLuk/CDTMP-Agent-Instructions)** - Complex Task Agent context persistence instruction set.
-*   **[hydrogem-web](https://github.com/TsekaLuk/hydrogem-web)** (React/TS) - Real-time water quality monitoring system with 5s refresh & alerts.
 
 ---
 
 ### 🛠 **Expertise & Tech Stack**
 
-*"Value-Oriented Engineering" — I don't just write code; I build systems that solve problems.*
+*"Value-Oriented Engineering" — I don't just vibe code; I design systems that solve problems.*
 
 #### **AI Theory & Engineering**
 | Domain | Skills & Concepts |
