@@ -84,6 +84,11 @@ As the **Founder & CEO**, I operate **Nebutra Intelligence** as an **AI-Native O
 
 I combine academic rigor with engineering pragmatism.
 
+<!-- Trophies (Restored by Request) -->
+<div align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=TsekaLuk&theme=dracula&no-frame=true&no-bg=true&margin-w=4" /> 
+</div>
+
 <details open>
 <summary><strong>🏅 Core Highlights</strong></summary>
 
@@ -92,7 +97,7 @@ I combine academic rigor with engineering pragmatism.
 | **Global** | 🇺🇸 **MCM/ICM Honorable Mention** (Math Modeling) | 2025 |
 | **National** | 🇨🇳 **1st Prize** APMCM (Asia-Pacific Modeling) | 2024 |
 | **National** | 🇨🇳 **Patent Holder**: Communication Cable Equipment | 2024 |
-| **National** | 🇨🇳 **1st Prize** "Brand Planning Competition" | 2025 |
+| **National** | 🇨🇳 **2nd Prize** "Brand Planning Competition" | 2025 |
 | **Software** | 💻 **3** National Software Copyrights (Algorithms/Systems) | 2024 |
 
 </details>
@@ -133,8 +138,13 @@ I combine academic rigor with engineering pragmatism.
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/JAX-00C853?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" />
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Ascend-C90000?style=flat-square&logo=huawei&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/PaddlePaddle-00A0E9?style=flat-square&logo=baidu&logoColor=white" />
 <img src="https://img.shields.io/badge/NVIDIA%20Isaac-76B900?style=flat-square&logo=nvidia&logoColor=white" />
 
 **Creative AI & Generative Models**  
@@ -142,31 +152,64 @@ I combine academic rigor with engineering pragmatism.
 <img src="https://img.shields.io/badge/Midjourney-000000?style=flat-square&logo=midjourney&logoColor=white" />
 <img src="https://img.shields.io/badge/ComfyUI-4752C4?style=flat-square&logo=discord&logoColor=white" />
 <img src="https://img.shields.io/badge/Stable%20Diffusion-101010?style=flat-square&logo=stabilityai&logoColor=white" />
+<img src="https://img.shields.io/badge/ControlNet-000000?style=flat-square&logo=artstation&logoColor=white" />
+<img src="https://img.shields.io/badge/Civitai-2B3137?style=flat-square&logo=civitai&logoColor=white" />
 
 **Development & Engineering**  
 <br/>
+<img src="https://img.shields.io/badge/JetBrains-000000?style=flat-square&logo=jetbrains&logoColor=white" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Keil_uVision_5-002B49?style=flat-square&logo=arm&logoColor=white" />
+<img src="https://img.shields.io/badge/Bolt.new-000000?style=flat-square&logo=lightning&logoColor=white" />
+<img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
+<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
+<img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
 
 **Programming Languages**  
 <br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
 <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/MATLAB-e16737?style=flat-square&logo=mathworks&logoColor=white" />
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 
 **Scientific Computing & Research**  
 <br/>
 <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white" />
 <img src="https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white" />
+<img src="https://img.shields.io/badge/Gurobi-E31937?style=flat-square&logo=gurobi&logoColor=white" />
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white" />
+<img src="https://img.shields.io/badge/OriginLab-F24E1E?style=flat-square&logo=origin&logoColor=white" />
+<img src="https://img.shields.io/badge/SPSS-003399?style=flat-square&logo=ibm&logoColor=white" />
+<img src="https://img.shields.io/badge/Mathematica-DD1100?style=flat-square&logo=wolframmathematica&logoColor=white" />
 
 </div>
 
