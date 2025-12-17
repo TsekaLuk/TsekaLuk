@@ -91,6 +91,14 @@ As **Founder & CEO**, I operate **Nebutra Intelligence** as an **AI-Native OPC (
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Runway-000000?style=flat-square&logo=runway&logoColor=white" />
 <img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logo=elevenlabs&logoColor=white" />
+<!-- Restored Concept Skills -->
+<br/>
+<img src="https://img.shields.io/badge/Skill-Prompt_Engineering-FFD21E?style=flat-square" />
+<img src="https://img.shields.io/badge/Skill-Context_Engineering-FFD21E?style=flat-square" />
+<img src="https://img.shields.io/badge/Skill-RAG_Systems-FFD21E?style=flat-square" />
+<img src="https://img.shields.io/badge/Theory-Graph_Neural_Networks-5C3EE8?style=flat-square" />
+<img src="https://img.shields.io/badge/Theory-Transformers-5C3EE8?style=flat-square" />
+<img src="https://img.shields.io/badge/Theory-Diffusion_Models-5C3EE8?style=flat-square" />
 
 **Next-Gen Tools & AI Coding**
 <br/>
@@ -112,6 +120,14 @@ As **Founder & CEO**, I operate **Nebutra Intelligence** as an **AI-Native OPC (
 <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/SPSS-003399?style=flat-square&logo=ibm&logoColor=white" />
 <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
+<!-- Restored Product/Data Concepts -->
+<br/>
+<img src="https://img.shields.io/badge/Product-SaaS_Architecture-00C7B7?style=flat-square" />
+<img src="https://img.shields.io/badge/Product-Financial_Modeling-00C7B7?style=flat-square" />
+<img src="https://img.shields.io/badge/Product-User_Personas-00C7B7?style=flat-square" />
+<img src="https://img.shields.io/badge/Math-Optimization-013243?style=flat-square" />
+<img src="https://img.shields.io/badge/Math-Statistical_Learning-013243?style=flat-square" />
+<img src="https://img.shields.io/badge/Math-Graph_Theory-013243?style=flat-square" />
 
 **Full Stack Engineering**
 <br/>
@@ -125,6 +141,12 @@ As **Founder & CEO**, I operate **Nebutra Intelligence** as an **AI-Native OPC (
 <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+<!-- Restored Web3 -->
+<br/>
+<img src="https://img.shields.io/badge/Web3-Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
+<img src="https://img.shields.io/badge/Web3-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
+<img src="https://img.shields.io/badge/Web3-Smart_Contracts-363636?style=flat-square" />
+<img src="https://img.shields.io/badge/Web3-Tokenomics-363636?style=flat-square" />
 
 </div>
 
