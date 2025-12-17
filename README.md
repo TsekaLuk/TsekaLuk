@@ -40,7 +40,7 @@
 <!-- Typing Bio -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3578E5&center=true&vCenter=true&width=500&lines=Founder+%26+CEO+%40+Nebutra+Intelligence;AI-Native+Innovator+%7C+Full+Stack+Engineer;MCM%2FICM+Honorable+Mention+Winner;Building+the+Future+of+SaaS" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3578E5&center=true&vCenter=true&width=500&lines=Founder+%26+CEO+%40+Nebutra+Intelligence;AI-Native+Innovator+%7C+Full+Stack+Engineer;Building+the+Future+of+SaaS;One-Person+unicorn+company" alt="Typing SVG" />
   </a>
 </div>
 
@@ -59,12 +59,12 @@
 > **"Nebula · Nurture · Ultra · Future"**  
 > *We bridge the gap between AI capabilities and real-world business value.*
 
-As the **Founder & CEO**, I lead a **7-person AI-Native team** building the next generation of intelligent SaaS. We operate effectively with a "Founder + Digital Employees" architecture, achieving 10x efficiency.
+As the **Founder & CEO**, I operate **Nebutra Intelligence** as an **AI-Native OPC (One-Person Company)**. By leveraging a "Founder + Digital Agents" architecture, I achieve the output of a 7-person team.
 
 <div align="center">
   <img src="https://img.shields.io/badge/Stage-Pre--Seed-success?style=for-the-badge&logo=rocket"/>
   <img src="https://img.shields.io/badge/Runway-18%2B%20Months-success?style=for-the-badge&logo=time"/>
-  <img src="https://img.shields.io/badge/Team-7%20(AI%20Native)-blue?style=for-the-badge&logo=org"/>
+  <img src="https://img.shields.io/badge/Team-OPC%20(1%20%2B%20AI%20Agents)-blue?style=for-the-badge&logo=org"/>
   <img src="https://img.shields.io/badge/Revenue-Generating-success?style=for-the-badge&logo=cashapp"/>
 </div>
 
@@ -72,21 +72,43 @@ As the **Founder & CEO**, I lead a **7-person AI-Native team** building the next
 
 ---
 
-### 🏆 Key Achievements
+### 🏆 Achievements & Honors
 
 I combine academic rigor with engineering pragmatism.
 
-<div align="center">
+<details open>
+<summary><strong>🏅 Core Highlights</strong></summary>
 
 | Category | Award / Achievement | Year |
 | :--- | :--- | :--- |
 | **Global** | 🇺🇸 **MCM/ICM Honorable Mention** (Math Modeling) | 2025 |
 | **National** | 🇨🇳 **1st Prize** APMCM (Asia-Pacific Modeling) | 2024 |
 | **National** | 🇨🇳 **Patent Holder**: Communication Cable Equipment | 2024 |
-| **Innovation** | 🚀 **1st Prize** "Brand Planning Competition" | 2025 |
-| **Engineering** | 💻 **1st Prize** "Blue Bridge" Cup (C/C++) | 2025 |
+| **National** | 🇨🇳 **1st Prize** "Brand Planning Competition" | 2025 |
+| **Software** | 💻 **3** National Software Copyrights (Algorithms/Systems) | 2024 |
 
-</div>
+</details>
+
+<details>
+<summary><strong>🥇 Comprehensive Awards List</strong></summary>
+
+*   **National Level**:
+    *   MCM/ICM Honorable Mention (2025)
+    *   1st Prize, APMCM (2024)
+    *   1st Prize, National Commercial Elite Challenge - Brand Planning (2025)
+    *   1st Prize & Special Innovation Award, "Shuwei Cup" Math Modeling (2024)
+    *   3rd Prize, Global Campus AI Algorithm Elite Competition Finals (2024)
+    *   3rd Prize, China University Intelligent Robot Creative Competition (2024)
+    *   Excellent Award, "Blue Bridge Cup" C/C++ Finals (2025)
+*   **Provincial Level**:
+    *   1st Prize, Market Research and Analysis Competition (Jiangsu) (2025)
+    *   1st Prize, "Blue Bridge Cup" C/C++ (Jiangsu) (2025)
+    *   2nd Prize, CUMCM (Jiangsu) (2024)
+    *   2nd Prize, TI Cup Electronics Design (2024)
+    *   2nd Prize, Global Campus AI Algorithm Elite Competition (Jiangsu) (2024)
+    *   3rd Prize, Huawei ICT Competition (Network Track) (2024)
+
+</details>
 
 ---
 
@@ -95,7 +117,49 @@ I combine academic rigor with engineering pragmatism.
 **"Value-Oriented Engineering"** — I don't just write code; I build systems that solve problems.
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,fastapi,docker,postgres,git,pytorch,idea,vscode,figma,notion&perline=15" />
+
+**Artificial Intelligence & Machine Learning**  
+<br/>
+<img src="https://img.shields.io/badge/OpenAI%20Core-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Anthropic-D14836?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/NVIDIA%20Isaac-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+
+**Creative AI & Generative Models**  
+<br/>
+<img src="https://img.shields.io/badge/Midjourney-000000?style=flat-square&logo=midjourney&logoColor=white" />
+<img src="https://img.shields.io/badge/ComfyUI-4752C4?style=flat-square&logo=discord&logoColor=white" />
+<img src="https://img.shields.io/badge/Stable%20Diffusion-101010?style=flat-square&logo=stabilityai&logoColor=white" />
+
+**Development & Engineering**  
+<br/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+
+**Programming Languages**  
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+
+**Scientific Computing & Research**  
+<br/>
+<img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white" />
+
 </div>
 
 ---
