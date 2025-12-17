@@ -8,11 +8,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=TsekaLuk&theme=nord&no-frame=true&no-bg=true&row=1&column=7&margin-w=16"/>
 </div> -->
 
-<h3 align="left" style="font-family:'Signifier';color:#F2D0A7;font-weight:300;margin:1.5em 0 0.8em;font-style:italic">Contribution Graph</h3>
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph"/>
-</div>
-
 <details>
   <summary style="font-family:'Söhne';color:#A3BF78;cursor:pointer;margin:1em 0">🏆 Competitions & Awards</summary>
   <ul style="font-family:'Söhne';list-style-type:none;padding-left:0">
