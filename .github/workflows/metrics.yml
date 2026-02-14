@@ -34,3 +34,6 @@ jobs:
                   plugin_notable_repositories: yes
                   plugin_notable_from: all
                   plugin_notable_types: commit, pull_request
+                  plugin_rss: yes
+                  plugin_rss_source: https://raw.githubusercontent.com/TsekaLuk/TsekaLuk/main/feeds/blog-radar.xml
+                  plugin_rss_limit: 6

@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>TsekaLuk Blog Radar</title>
+    <link>https://github.com/TsekaLuk/TsekaLuk</link>
+    <description>Merged feed from 92 subscriptions</description>
+    <lastBuildDate>Sat, 14 Feb 2026 06:14:19 +0000</lastBuildDate>
+    <item>
+      <title>Quoting Thoughtworks</title>
+      <link>https://simonwillison.net/2026/Feb/14/thoughtworks/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/14/thoughtworks/#atom-everything</guid>
+      <pubDate>Fri, 13 Feb 2026 20:54:41 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>The (very) old "repaint mode" GUI approach</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/tech/RepaintModeGUI</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/tech/RepaintModeGUI</guid>
+      <pubDate>Fri, 13 Feb 2026 20:34:18 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>AI twitter's favourite lie: everyone wants to be a developer</title>
+      <link>https://www.joanwestenberg.com/ai-twitters-favourite-lie-everyone-wants-to-be-a-developer/</link>
+      <guid isPermaLink="true">https://www.joanwestenberg.com/ai-twitters-favourite-lie-everyone-wants-to-be-a-developer/</guid>
+      <pubDate>Fri, 13 Feb 2026 17:13:26 +0000</pubDate>
+      <description>Westenberg.</description>
+    </item>
+    <item>
+      <title>Launch it 3 times</title>
+      <link>https://anildash.com/2026/02/13/launch-it-three-times/</link>
+      <guid isPermaLink="true">https://anildash.com/2026/02/13/launch-it-three-times/</guid>
+      <pubDate>Fri, 13 Feb 2026 16:00:00 +0000</pubDate>
+      <description>Anil Dash</description>
+    </item>
+    <item>
+      <title>Anthropic's public benefit mission</title>
+      <link>https://simonwillison.net/2026/Feb/13/anthropic-public-benefit-mission/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/13/anthropic-public-benefit-mission/#atom-everything</guid>
+      <pubDate>Fri, 13 Feb 2026 15:59:51 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>The evolution of OpenAI's mission statement</title>
+      <link>https://simonwillison.net/2026/Feb/13/openai-mission-statement/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/13/openai-mission-statement/#atom-everything</guid>
+      <pubDate>Fri, 13 Feb 2026 15:38:29 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Irony, Irony laced with Karma, and Terror</title>
+      <link>https://garymarcus.substack.com/p/irony-irony-laced-with-karma-and</link>
+      <guid isPermaLink="true">https://garymarcus.substack.com/p/irony-irony-laced-with-karma-and</guid>
+      <pubDate>Fri, 13 Feb 2026 13:50:15 +0000</pubDate>
+      <description>Marcus on AI</description>
+    </item>
+    <item>
+      <title>Premium: The AI Data Center Financial Crisis</title>
+      <link>https://www.wheresyoured.at/data-center-crisis/</link>
+      <guid isPermaLink="true">https://www.wheresyoured.at/data-center-crisis/</guid>
+      <pubDate>Fri, 13 Feb 2026 11:08:34 +0000</pubDate>
+      <description>Ed Zitron's Where's Your Ed At</description>
+    </item>
+    <item>
+      <title>This Week on The Analog Antiquarian</title>
+      <link>https://www.filfre.net/2026/02/this-week-on-the-analog-antiquarian/</link>
+      <guid isPermaLink="true">https://www.filfre.net/2026/02/this-week-on-the-analog-antiquarian/</guid>
+      <pubDate>Fri, 13 Feb 2026 09:17:50 +0000</pubDate>
+      <description>The Digital Antiquarian</description>
+    </item>
+    <item>
+      <title>Testing Reachy Mini - Hugging Face's Pi powered robot</title>
+      <link>https://www.jeffgeerling.com/blog/2026/testing-reachy-mini-hugging-face-robot/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/testing-reachy-mini-hugging-face-robot/</guid>
+      <pubDate>Fri, 13 Feb 2026 07:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>How can I distinguish between the numeric keypad 0 and the top-row 0 in the WM_CHAR message?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260213-00/?p=112062</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260213-00/?p=112062</guid>
+      <pubDate>Fri, 13 Feb 2026 07:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>The Small Web is Tricky to Find</title>
+      <link>https://matduggan.com/the-small-web-is-tricky-to-find/</link>
+      <guid isPermaLink="true">https://matduggan.com/the-small-web-is-tricky-to-find/</guid>
+      <pubDate>Fri, 13 Feb 2026 04:50:36 +0000</pubDate>
+      <description>matduggan.com</description>
+    </item>
+    <item>
+      <title>Gadget Review: Topdon TS004 Thermal Monocular ★★★★⯪</title>
+      <link>https://shkspr.mobi/blog/2026/02/gadget-review-topdon-ts004-thermal-monocular/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/02/gadget-review-topdon-ts004-thermal-monocular/</guid>
+      <pubDate>Fri, 13 Feb 2026 04:34:17 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Factional Drift: We cluster into factions online</title>
+      <link>https://idiallo.com/blog/factional-drift-online?src=feed</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/factional-drift-online?src=feed</guid>
+      <pubDate>Fri, 13 Feb 2026 04:00:00 +0000</pubDate>
+      <description>iDiallo.com</description>
+    </item>
+    <item>
+      <title>Pluralistic: Trump antitrust is dead (13 Feb 2026)</title>
+      <link>https://pluralistic.net/2026/02/13/khanservatives/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/02/13/khanservatives/</guid>
+      <pubDate>Fri, 13 Feb 2026 00:29:38 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Members only: "Won't Fix" self help</title>
+      <link>https://www.joanwestenberg.com/members-only-wont-fix-self-help/</link>
+      <guid isPermaLink="true">https://www.joanwestenberg.com/members-only-wont-fix-self-help/</guid>
+      <pubDate>Fri, 13 Feb 2026 00:18:24 +0000</pubDate>
+      <description>Westenberg.</description>
+    </item>
+    <item>
+      <title>Testing Linux memory limits is a bit of a pain</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/MemoryLimitTestingPain</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/MemoryLimitTestingPain</guid>
+      <pubDate>Thu, 12 Feb 2026 20:23:09 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>Expressing a prime as the sum of two squares</title>
+      <link>https://www.johndcook.com/blog/2026/02/12/pythagorean-primes/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/02/12/pythagorean-primes/</guid>
+      <pubDate>Thu, 12 Feb 2026 18:34:58 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Breaking: OpenAI is probably toast</title>
+      <link>https://garymarcus.substack.com/p/breaking-openai-is-probably-toast</link>
+      <guid isPermaLink="true">https://garymarcus.substack.com/p/breaking-openai-is-probably-toast</guid>
+      <pubDate>Thu, 12 Feb 2026 16:38:32 +0000</pubDate>
+      <description>Marcus on AI</description>
+    </item>
+    <item>
+      <title>The Final Bottleneck</title>
+      <link>https://lucumr.pocoo.org/2026/2/13/the-final-bottleneck/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/2/13/the-final-bottleneck/</guid>
+      <pubDate>Thu, 12 Feb 2026 16:00:00 +0000</pubDate>
+      <description>Armin Ronacher's Thoughts and Writings</description>
+    </item>
+    <item>
+      <title>Respectful Open Source</title>
+      <link>https://nesbitt.io/2026/02/13/respectful-open-source.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/02/13/respectful-open-source.html</guid>
+      <pubDate>Thu, 12 Feb 2026 16:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>Attack of the SaaS clones</title>
+      <link>https://martinalderson.com/posts/attack-of-the-clones/?utm_source=rss</link>
+      <guid isPermaLink="true">https://martinalderson.com/posts/attack-of-the-clones/?utm_source=rss</guid>
+      <pubDate>Thu, 12 Feb 2026 16:00:00 +0000</pubDate>
+      <description>Martin Alderson</description>
+    </item>
+    <item>
+      <title>Promises are cheap</title>
+      <link>https://garymarcus.substack.com/p/promises-are-cheap</link>
+      <guid isPermaLink="true">https://garymarcus.substack.com/p/promises-are-cheap</guid>
+      <pubDate>Thu, 12 Feb 2026 13:45:05 +0000</pubDate>
+      <description>Marcus on AI</description>
+    </item>
+    <item>
+      <title>Introducing GPT‑5.3‑Codex‑Spark</title>
+      <link>https://simonwillison.net/2026/Feb/12/codex-spark/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/12/codex-spark/#atom-everything</guid>
+      <pubDate>Thu, 12 Feb 2026 13:16:07 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Quoting Anthropic</title>
+      <link>https://simonwillison.net/2026/Feb/12/anthropic/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/12/anthropic/#atom-everything</guid>
+      <pubDate>Thu, 12 Feb 2026 12:22:14 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Covering electricity price increases from our data centers</title>
+      <link>https://simonwillison.net/2026/Feb/12/covering-electricity-price-increases/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/12/covering-electricity-price-increases/#atom-everything</guid>
+      <pubDate>Thu, 12 Feb 2026 12:01:23 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Gemini 3 Deep Think</title>
+      <link>https://simonwillison.net/2026/Feb/12/gemini-3-deep-think/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/12/gemini-3-deep-think/#atom-everything</guid>
+      <pubDate>Thu, 12 Feb 2026 10:12:17 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>An AI Agent Published a Hit Piece on Me</title>
+      <link>https://simonwillison.net/2026/Feb/12/an-ai-agent-published-a-hit-piece-on-me/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/12/an-ai-agent-published-a-hit-piece-on-me/#atom-everything</guid>
+      <pubDate>Thu, 12 Feb 2026 09:45:05 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Gurman: New Siri Might Be Delayed Again</title>
+      <link>https://www.bloomberg.com/news/articles/2026-02-11/apple-s-ios-26-4-siri-update-runs-into-snags-in-internal-testing-ios-26-5-27</link>
+      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-02-11/apple-s-ios-26-4-siri-update-runs-into-snags-in-internal-testing-ios-26-5-27</guid>
+      <pubDate>Thu, 12 Feb 2026 09:24:34 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>More MacOS 26.3 Finder Column View Silliness</title>
+      <link>https://lapcatsoftware.com/articles/2026/2/4.html</link>
+      <guid isPermaLink="true">https://lapcatsoftware.com/articles/2026/2/4.html</guid>
+      <pubDate>Thu, 12 Feb 2026 09:13:31 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Supervisor, not overseer</title>
+      <link>https://simonwillison.net/2026/Feb/12/supervisor/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/12/supervisor/#atom-everything</guid>
+      <pubDate>Thu, 12 Feb 2026 08:47:04 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>I Told You So</title>
+      <link>https://geohot.github.io//blog/jekyll/update/2026/02/13/i-told-you-so.html</link>
+      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/02/13/i-told-you-so.html</guid>
+      <pubDate>Thu, 12 Feb 2026 08:00:00 +0000</pubDate>
+      <description>the singularity is nearer</description>
+    </item>
+    <item>
+      <title>How can I distinguish between the numeric keypad 0 and the top-row 0 in the WM_KEY­DOWN message?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260212-00/?p=112059</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260212-00/?p=112059</guid>
+      <pubDate>Thu, 12 Feb 2026 07:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>Trends in US Construction Productivity</title>
+      <link>https://www.construction-physics.com/p/trends-in-us-construction-productivity</link>
+      <guid isPermaLink="true">https://www.construction-physics.com/p/trends-in-us-construction-productivity</guid>
+      <pubDate>Thu, 12 Feb 2026 05:03:20 +0000</pubDate>
+      <description>Construction Physics</description>
+    </item>
+    <item>
+      <title>Book Review: On the Calculation of Volume - Solvej Balle ★★★★★</title>
+      <link>https://shkspr.mobi/blog/2026/02/book-review-on-the-calculation-of-volume-solvej-balle/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/02/book-review-on-the-calculation-of-volume-solvej-balle/</guid>
+      <pubDate>Thu, 12 Feb 2026 04:34:54 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>The Many Flavors of Ignore Files</title>
+      <link>https://nesbitt.io/2026/02/12/the-many-flavors-of-ignore-files.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/02/12/the-many-flavors-of-ignore-files.html</guid>
+      <pubDate>Thu, 12 Feb 2026 02:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>Pluralistic: Doctors' union may yet save the NHS from Palantir (12 Feb 2026)</title>
+      <link>https://pluralistic.net/2026/02/12/palantir-is-ice/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/02/12/palantir-is-ice/</guid>
+      <pubDate>Thu, 12 Feb 2026 00:42:04 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Undo in Vi and its successors, and my views on the mess</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/unix/ViUndoMyViews</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/unix/ViUndoMyViews</guid>
+      <pubDate>Wed, 11 Feb 2026 20:19:15 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>Markdown.exe</title>
+      <link>https://idiallo.com/byte-size/markdown-exe?src=feed</link>
+      <guid isPermaLink="true">https://idiallo.com/byte-size/markdown-exe?src=feed</guid>
+      <pubDate>Wed, 11 Feb 2026 18:48:05 +0000</pubDate>
+      <description>iDiallo.com</description>
+    </item>
+    <item>
+      <title>The Discourse has been Automated</title>
+      <link>https://xeiaso.net/notes/2026/the-discourse-has-been-automated/</link>
+      <guid isPermaLink="true">https://xeiaso.net/notes/2026/the-discourse-has-been-automated/</guid>
+      <pubDate>Wed, 11 Feb 2026 16:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>Inside an alpha-beta scintillator:</title>
+      <link>https://maurycyz.com/misc/ah_teardown/</link>
+      <guid isPermaLink="true">https://maurycyz.com/misc/ah_teardown/</guid>
+      <pubDate>Wed, 11 Feb 2026 16:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
+    </item>
+    <item>
+      <title>Coding agents as the new compilers</title>
+      <link>https://anildash.com/2026/02/11/coding-agents-as-the-new-compilers/</link>
+      <guid isPermaLink="true">https://anildash.com/2026/02/11/coding-agents-as-the-new-compilers/</guid>
+      <pubDate>Wed, 11 Feb 2026 16:00:00 +0000</pubDate>
+      <description>Anil Dash</description>
+    </item>
+    <item>
+      <title>Apple Creator Studio Usage Restrictions</title>
+      <link>https://arstechnica.com/gadgets/2026/01/seven-things-to-know-about-how-apples-creator-studio-subscriptions-work/</link>
+      <guid isPermaLink="true">https://arstechnica.com/gadgets/2026/01/seven-things-to-know-about-how-apples-creator-studio-subscriptions-work/</guid>
+      <pubDate>Wed, 11 Feb 2026 13:04:07 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Quoting Andrew Deck for Niemen Lab</title>
+      <link>https://simonwillison.net/2026/Feb/11/manosphere-report/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/11/manosphere-report/#atom-everything</guid>
+      <pubDate>Wed, 11 Feb 2026 12:59:03 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>About that Matt Shumer post that has nearly 50 million views</title>
+      <link>https://garymarcus.substack.com/p/about-that-matt-shumer-post-that</link>
+      <guid isPermaLink="true">https://garymarcus.substack.com/p/about-that-matt-shumer-post-that</guid>
+      <pubDate>Wed, 11 Feb 2026 12:56:58 +0000</pubDate>
+      <description>Marcus on AI</description>
+    </item>
+    <item>
+      <title>Skills in OpenAI API</title>
+      <link>https://simonwillison.net/2026/Feb/11/skills-in-openai-api/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/11/skills-in-openai-api/#atom-everything</guid>
+      <pubDate>Wed, 11 Feb 2026 11:19:22 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Unresponsive Buttons on My Fastest Hardware Ever</title>
+      <link>https://blog.jim-nielsen.com/2026/unresponsive-buttons/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/unresponsive-buttons/</guid>
+      <pubDate>Wed, 11 Feb 2026 11:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
+    </item>
+    <item>
+      <title>GLM-5: From Vibe Coding to Agentic Engineering</title>
+      <link>https://simonwillison.net/2026/Feb/11/glm-5/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/11/glm-5/#atom-everything</guid>
+      <pubDate>Wed, 11 Feb 2026 10:56:14 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Proving What's Possible</title>
+      <link>https://buttondown.com/hillelwayne/archive/proving-whats-possible/</link>
+      <guid isPermaLink="true">https://buttondown.com/hillelwayne/archive/proving-whats-possible/</guid>
+      <pubDate>Wed, 11 Feb 2026 10:36:53 +0000</pubDate>
+      <description>Computer Things</description>
+    </item>
+    <item>
+      <title>cysqlite - a new sqlite driver</title>
+      <link>https://simonwillison.net/2026/Feb/11/cysqlite/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/11/cysqlite/#atom-everything</guid>
+      <pubDate>Wed, 11 Feb 2026 09:34:40 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>The literal enshittification of The United States</title>
+      <link>https://garymarcus.substack.com/p/the-literal-enshittification-of-the</link>
+      <guid isPermaLink="true">https://garymarcus.substack.com/p/the-literal-enshittification-of-the</guid>
+      <pubDate>Wed, 11 Feb 2026 09:19:02 +0000</pubDate>
+      <description>Marcus on AI</description>
+    </item>
+    <item>
+      <title>How do I suppress the hover effects when I put a Win32 common controls ListView in single-click mode?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260211-00/?p=112057</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260211-00/?p=112057</guid>
+      <pubDate>Wed, 11 Feb 2026 07:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>Aligning one matrix with another</title>
+      <link>https://www.johndcook.com/blog/2026/02/11/orthogonal-procrustes/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/02/11/orthogonal-procrustes/</guid>
+      <pubDate>Wed, 11 Feb 2026 05:23:50 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Gadget Review: Epomaker TH87 ISO Mechanical Keyboard ★★★★⯪</title>
+      <link>https://shkspr.mobi/blog/2026/02/gadget-review-epomaker-th87-iso-mechanical-keyboard/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/02/gadget-review-epomaker-th87-iso-mechanical-keyboard/</guid>
+      <pubDate>Wed, 11 Feb 2026 04:34:46 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Last year, all my non-programmer friends built apps</title>
+      <link>https://idiallo.com/blog/my-non-programmer-friends-built-apps?src=feed</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/my-non-programmer-friends-built-apps?src=feed</guid>
+      <pubDate>Wed, 11 Feb 2026 04:00:00 +0000</pubDate>
+      <description>iDiallo.com</description>
+    </item>
+    <item>
+      <title>Pluralistic: Europe takes a big step towards a post-dollar world (11 Feb 2026)</title>
+      <link>https://pluralistic.net/2026/02/11/post-dollar-world/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/02/11/post-dollar-world/</guid>
+      <pubDate>Wed, 11 Feb 2026 02:09:05 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Package Management Consulting</title>
+      <link>https://nesbitt.io/2026/02/11/package-management-consulting.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/02/11/package-management-consulting.html</guid>
+      <pubDate>Wed, 11 Feb 2026 02:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>Moving to make many of my SSH logins not report things on login</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MovingToSilentLogins</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MovingToSilentLogins</guid>
+      <pubDate>Tue, 10 Feb 2026 20:32:49 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>Communities are not fungible</title>
+      <link>https://www.joanwestenberg.com/communities-are-not-fungible/</link>
+      <guid isPermaLink="true">https://www.joanwestenberg.com/communities-are-not-fungible/</guid>
+      <pubDate>Tue, 10 Feb 2026 20:18:45 +0000</pubDate>
+      <description>Westenberg.</description>
+    </item>
+    <item>
+      <title>Matrix ain't it chief</title>
+      <link>https://xeiaso.net/notes/2026/dont-use-matrix/</link>
+      <guid isPermaLink="true">https://xeiaso.net/notes/2026/dont-use-matrix/</guid>
+      <pubDate>Tue, 10 Feb 2026 16:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>On screwing up</title>
+      <link>https://seangoedecke.com/screwing-up/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/screwing-up/</guid>
+      <pubDate>Tue, 10 Feb 2026 16:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Programming Aphorisms</title>
+      <link>https://matklad.github.io/2026/02/11/programming-aphorisms.html</link>
+      <guid isPermaLink="true">https://matklad.github.io/2026/02/11/programming-aphorisms.html</guid>
+      <pubDate>Tue, 10 Feb 2026 16:00:00 +0000</pubDate>
+      <description>matklad</description>
+    </item>
+    <item>
+      <title>BREAKING: LLM “reasoning” continues to be deeply flawed</title>
+      <link>https://garymarcus.substack.com/p/breaking-llm-reasoning-continues</link>
+      <guid isPermaLink="true">https://garymarcus.substack.com/p/breaking-llm-reasoning-continues</guid>
+      <pubDate>Tue, 10 Feb 2026 13:31:52 +0000</pubDate>
+      <description>Marcus on AI</description>
+    </item>
+    <item>
+      <title>Introducing Showboat and Rodney, so agents can demo what they’ve built</title>
+      <link>https://simonwillison.net/2026/Feb/10/showboat-and-rodney/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/10/showboat-and-rodney/#atom-everything</guid>
+      <pubDate>Tue, 10 Feb 2026 09:45:29 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Some disconcerting facts about AI and banking that may have profound consequences</title>
+      <link>https://garymarcus.substack.com/p/some-disconcerting-facts-about-ai</link>
+      <guid isPermaLink="true">https://garymarcus.substack.com/p/some-disconcerting-facts-about-ai</guid>
+      <pubDate>Tue, 10 Feb 2026 08:51:06 +0000</pubDate>
+      <description>Marcus on AI</description>
+    </item>
+    <item>
+      <title>How did Windows 95 get permission to put the Weezer video Buddy Holly on the CD?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260210-00/?p=112052</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260210-00/?p=112052</guid>
+      <pubDate>Tue, 10 Feb 2026 07:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>Revisionist History – Aliens, Secrets and Conspiracies</title>
+      <link>https://steveblank.com/2026/02/10/revisionist-history-aliens-secrets-and-conspiracies/</link>
+      <guid isPermaLink="true">https://steveblank.com/2026/02/10/revisionist-history-aliens-secrets-and-conspiracies/</guid>
+      <pubDate>Tue, 10 Feb 2026 06:00:42 +0000</pubDate>
+      <description>Steve Blank</description>
+    </item>
+    <item>
+      <title>Book Review: Ashes To Admin - Tales from the Caseload of a Council Funeral Officer by Evie King ★★★★★</title>
+      <link>https://shkspr.mobi/blog/2026/02/book-review-ashes-to-admin-tales-from-the-caseload-of-a-council-funeral-officer-by-evie-king/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/02/book-review-ashes-to-admin-tales-from-the-caseload-of-a-council-funeral-officer-by-evie-king/</guid>
+      <pubDate>Tue, 10 Feb 2026 04:34:05 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Lockfiles Killed Vendoring</title>
+      <link>https://nesbitt.io/2026/02/10/lockfiles-killed-vendoring.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/02/10/lockfiles-killed-vendoring.html</guid>
+      <pubDate>Tue, 10 Feb 2026 02:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>Pluralistic: The Nuremberg Caucus (10 Feb 2026)</title>
+      <link>https://pluralistic.net/2026/02/10/miller-in-the-dock/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/02/10/miller-in-the-dock/</guid>
+      <pubDate>Tue, 10 Feb 2026 01:40:42 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>A fun Python puzzle with circular imports</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/python/PythonCircularImportPuzzle</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/python/PythonCircularImportPuzzle</guid>
+      <pubDate>Mon, 09 Feb 2026 20:12:25 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>[Sponsor] WorkOS Pipes: Ship Third-Party Integrations Without Rebuilding OAuth</title>
+      <link>https://workos.com/docs/pipes?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q12026&amp;utm_content=no_rebuild</link>
+      <guid isPermaLink="true">https://workos.com/docs/pipes?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q12026&amp;utm_content=no_rebuild</guid>
+      <pubDate>Mon, 09 Feb 2026 17:43:40 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Humanity's last programming language</title>
+      <link>https://xeiaso.net/blog/2026/markdownlang/</link>
+      <guid isPermaLink="true">https://xeiaso.net/blog/2026/markdownlang/</guid>
+      <pubDate>Mon, 09 Feb 2026 16:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>Structured Context Engineering for File-Native Agentic Systems</title>
+      <link>https://simonwillison.net/2026/Feb/9/structured-context-engineering-for-file-native-agentic-systems/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/9/structured-context-engineering-for-file-native-agentic-systems/#atom-everything</guid>
+      <pubDate>Mon, 09 Feb 2026 15:56:51 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Wilks' Tolerance Intervals</title>
+      <link>https://entropicthoughts.com/wilks-tolerance-intervals</link>
+      <guid isPermaLink="true">https://entropicthoughts.com/wilks-tolerance-intervals</guid>
+      <pubDate>Mon, 09 Feb 2026 15:00:00 +0000</pubDate>
+      <description>Entropic Thoughts</description>
+    </item>
+    <item>
+      <title>A Brief History of App Icons From Apple’s Creator Studio</title>
+      <link>https://blog.jim-nielsen.com/2026/history-of-creator-studio-icons/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/history-of-creator-studio-icons/</guid>
+      <pubDate>Mon, 09 Feb 2026 11:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
+    </item>
+    <item>
+      <title>AI Doesn’t Reduce Work—It Intensifies It</title>
+      <link>https://simonwillison.net/2026/Feb/9/ai-intensifies-work/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/9/ai-intensifies-work/#atom-everything</guid>
+      <pubDate>Mon, 09 Feb 2026 08:43:07 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>What should I do if a wait call reports WAIT_ABANDONED?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260209-00/?p=112049</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260209-00/?p=112049</guid>
+      <pubDate>Mon, 09 Feb 2026 07:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>Gadget Review: Orico Power Strip (UK) ★★⯪☆☆</title>
+      <link>https://shkspr.mobi/blog/2026/02/gadget-review-orico-power-strip-uk/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/02/gadget-review-orico-power-strip-uk/</guid>
+      <pubDate>Mon, 09 Feb 2026 04:34:42 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>GitButler CLI Is Really Good</title>
+      <link>https://matduggan.com/gitbutler-cli-is-really-good/</link>
+      <guid isPermaLink="true">https://matduggan.com/gitbutler-cli-is-really-good/</guid>
+      <pubDate>Mon, 09 Feb 2026 04:33:02 +0000</pubDate>
+      <description>matduggan.com</description>
+    </item>
+    <item>
+      <title>Microsoft Should Watch The Expanse</title>
+      <link>https://idiallo.com/blog/microsoft-should-watch-the-expanse?src=feed</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/microsoft-should-watch-the-expanse?src=feed</guid>
+      <pubDate>Mon, 09 Feb 2026 04:00:00 +0000</pubDate>
+      <description>iDiallo.com</description>
+    </item>
+    <item>
+      <title>Pluralistic: The Epstein class and collapse porn (09 Feb 2026)</title>
+      <link>https://pluralistic.net/2026/02/09/sloppy-steve/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/02/09/sloppy-steve/</guid>
+      <pubDate>Mon, 09 Feb 2026 02:29:37 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Package Manager Podcast Episodes</title>
+      <link>https://nesbitt.io/2026/02/09/package-manager-podcast-episodes.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/02/09/package-manager-podcast-episodes.html</guid>
+      <pubDate>Mon, 09 Feb 2026 02:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>The pitch deck is dead. Write a pitch.md instead.</title>
+      <link>https://www.joanwestenberg.com/the-pitch-deck-is-dead-write-a-pitch-md-instead/</link>
+      <guid isPermaLink="true">https://www.joanwestenberg.com/the-pitch-deck-is-dead-write-a-pitch-md-instead/</guid>
+      <pubDate>Sun, 08 Feb 2026 22:49:33 +0000</pubDate>
+      <description>Westenberg.</description>
+    </item>
+    <item>
+      <title>System tests</title>
+      <link>https://keygen.sh/blog/system-tests/</link>
+      <guid isPermaLink="true">https://keygen.sh/blog/system-tests/</guid>
+      <pubDate>Sun, 08 Feb 2026 22:00:00 +0000</pubDate>
+      <description>Keygen Blog</description>
+    </item>
+    <item>
+      <title>Systemd and blocking connections to localhost, including via 'any'</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdAndConnectToAny</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdAndConnectToAny</guid>
+      <pubDate>Sun, 08 Feb 2026 20:21:16 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>Weekly Update 490</title>
+      <link>https://www.troyhunt.com/weekly-update-490/</link>
+      <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-490/</guid>
+      <pubDate>Sun, 08 Feb 2026 20:19:39 +0000</pubDate>
+      <description>Troy Hunt</description>
+    </item>
+    <item>
+      <title>A Language For Agents</title>
+      <link>https://lucumr.pocoo.org/2026/2/9/a-language-for-agents/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/2/9/a-language-for-agents/</guid>
+      <pubDate>Sun, 08 Feb 2026 16:00:00 +0000</pubDate>
+      <description>Armin Ronacher's Thoughts and Writings</description>
+    </item>
+    <item>
+      <title>Super Bowl Matchup: Anthropic vs OpenAI</title>
+      <link>https://garymarcus.substack.com/p/super-bowl-matchup-anthropic-vs-openai</link>
+      <guid isPermaLink="true">https://garymarcus.substack.com/p/super-bowl-matchup-anthropic-vs-openai</guid>
+      <pubDate>Sun, 08 Feb 2026 13:20:33 +0000</pubDate>
+      <description>Marcus on AI</description>
+    </item>
+    <item>
+      <title>Every Man a Microservice</title>
+      <link>https://grantslatton.com/every-man-a-microservice</link>
+      <guid isPermaLink="true">https://grantslatton.com/every-man-a-microservice</guid>
+      <pubDate>Sun, 08 Feb 2026 09:54:20 +0000</pubDate>
+      <description>Grant Slatton's Blog</description>
+    </item>
+    <item>
+      <title>Kākāpō mug by Karen James</title>
+      <link>https://simonwillison.net/2026/Feb/8/kakapo-mug/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/8/kakapo-mug/#atom-everything</guid>
+      <pubDate>Sun, 08 Feb 2026 09:25:07 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Computing large Fibonacci numbers</title>
+      <link>https://www.johndcook.com/blog/2026/02/08/computing-large-fibonacci-numbers/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/02/08/computing-large-fibonacci-numbers/</guid>
+      <pubDate>Sun, 08 Feb 2026 05:51:25 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Fibonacci numbers and time-space tradeoffs</title>
+      <link>https://www.johndcook.com/blog/2026/02/08/time-space-tradeoffs/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/02/08/time-space-tradeoffs/</guid>
+      <pubDate>Sun, 08 Feb 2026 05:51:08 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Book Review: Me vs Brain - An Overthinker’s Guide to Life by Hayley Morris ★★★★☆</title>
+      <link>https://shkspr.mobi/blog/2026/02/book-review-me-vs-brain-an-overthinkers-guide-to-life-by-hayley-morris/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/02/book-review-me-vs-brain-an-overthinkers-guide-to-life-by-hayley-morris/</guid>
+      <pubDate>Sun, 08 Feb 2026 04:34:02 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Postscript</title>
+      <link>https://feed.tedium.co/link/15204/17272194/washington-post-layoffs-perspective</link>
+      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17272194/washington-post-layoffs-perspective</guid>
+      <pubDate>Sat, 07 Feb 2026 20:58:23 +0000</pubDate>
+      <description>Tedium: The Dull Side of the Internet.</description>
+    </item>
+    <item>
+      <title>The original vi is a product of its time (and its time has passed)</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/unix/ViIsAProductOfItsTime</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/unix/ViIsAProductOfItsTime</guid>
+      <pubDate>Sat, 07 Feb 2026 19:50:02 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>Quoting Thomas Ptacek</title>
+      <link>https://simonwillison.net/2026/Feb/8/thomas-ptacek/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/8/thomas-ptacek/#atom-everything</guid>
+      <pubDate>Sat, 07 Feb 2026 18:25:53 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>The Scriptovision Super Micro Script video titler is almost a home computer</title>
+      <link>https://oldvcr.blogspot.com/2026/02/the-scriptovision-super-micro-script.html</link>
+      <guid isPermaLink="true">https://oldvcr.blogspot.com/2026/02/the-scriptovision-super-micro-script.html</guid>
+      <pubDate>Sat, 07 Feb 2026 17:56:00 +0000</pubDate>
+      <description>Old Vintage Computing Research</description>
+    </item>
+    <item>
+      <title>Large tech companies don't need heroes</title>
+      <link>https://seangoedecke.com/heroism/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/heroism/</guid>
+      <pubDate>Sat, 07 Feb 2026 16:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Sandwich Bill of Materials</title>
+      <link>https://nesbitt.io/2026/02/08/sandwich-bill-of-materials.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/02/08/sandwich-bill-of-materials.html</guid>
+      <pubDate>Sat, 07 Feb 2026 16:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>How to generate good looking reports with Claude Code, Cowork or Codex</title>
+      <link>https://martinalderson.com/posts/how-to-make-great-looking-consistent-reports-with-claude-code-cowork-codex/?utm_source=rss</link>
+      <guid isPermaLink="true">https://martinalderson.com/posts/how-to-make-great-looking-consistent-reports-with-claude-code-cowork-codex/?utm_source=rss</guid>
+      <pubDate>Sat, 07 Feb 2026 16:00:00 +0000</pubDate>
+      <description>Martin Alderson</description>
+    </item>
+    <item>
+      <title>Self-improving CLAUDE.md files</title>
+      <link>https://martinalderson.com/posts/self-improving-claude-md-files/?utm_source=rss</link>
+      <guid isPermaLink="true">https://martinalderson.com/posts/self-improving-claude-md-files/?utm_source=rss</guid>
+      <pubDate>Sat, 07 Feb 2026 16:00:00 +0000</pubDate>
+      <description>Martin Alderson</description>
+    </item>
+    <item>
+      <title>forecourt networking</title>
+      <link>https://computer.rip/2026-02-08-forecourt-networking.html</link>
+      <guid isPermaLink="true">https://computer.rip/2026-02-08-forecourt-networking.html</guid>
+      <pubDate>Sat, 07 Feb 2026 16:00:00 +0000</pubDate>
+      <description>computers are bad</description>
+    </item>
+    <item>
+      <title>Vouch</title>
+      <link>https://simonwillison.net/2026/Feb/7/vouch/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/7/vouch/#atom-everything</guid>
+      <pubDate>Sat, 07 Feb 2026 15:57:57 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Claude: Speed up responses with fast mode</title>
+      <link>https://simonwillison.net/2026/Feb/7/claude-fast-mode/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/7/claude-fast-mode/#atom-everything</guid>
+      <pubDate>Sat, 07 Feb 2026 15:10:33 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Quoting David Crawshaw</title>
+      <link>https://simonwillison.net/2026/Feb/7/david-crawshaw/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/7/david-crawshaw/#atom-everything</guid>
+      <pubDate>Sat, 07 Feb 2026 13:31:44 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Updates 7 februari: Tweede Kamer, TV Bureau Buitenland</title>
+      <link>https://berthub.eu/articles/posts/update-7-februari/</link>
+      <guid isPermaLink="true">https://berthub.eu/articles/posts/update-7-februari/</guid>
+      <pubDate>Sat, 07 Feb 2026 13:00:09 +0000</pubDate>
+      <description>Bert Hubert's writings</description>
+    </item>
+    <item>
+      <title>How StrongDM's AI team build serious software without even looking at the code</title>
+      <link>https://simonwillison.net/2026/Feb/7/software-factory/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/7/software-factory/#atom-everything</guid>
+      <pubDate>Sat, 07 Feb 2026 07:40:48 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Exploring a Modern SMPTE 2110 Broadcast Truck With My Dad</title>
+      <link>https://www.jeffgeerling.com/blog/2026/exploring-a-modern-smpte-2110-broadcast-truck-with-my-dad/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/exploring-a-modern-smpte-2110-broadcast-truck-with-my-dad/</guid>
+      <pubDate>Sat, 07 Feb 2026 07:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>Minimum of cosine sum</title>
+      <link>https://www.johndcook.com/blog/2026/02/07/chowla/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/02/07/chowla/</guid>
+      <pubDate>Sat, 07 Feb 2026 06:02:45 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Reputation Scores for GitHub Accounts</title>
+      <link>https://shkspr.mobi/blog/2026/02/reputation-scores-for-github-accounts/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/02/reputation-scores-for-github-accounts/</guid>
+      <pubDate>Sat, 07 Feb 2026 04:34:52 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Pluralistic: End of the line for video essays (07 Feb 2026)</title>
+      <link>https://pluralistic.net/2026/02/07/aimsters-revenge/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/02/07/aimsters-revenge/</guid>
+      <pubDate>Sat, 07 Feb 2026 00:12:57 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>How we failed to notice a power failure</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/NotNoticingPowerFailure</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/NotNoticingPowerFailure</guid>
+      <pubDate>Fri, 06 Feb 2026 20:25:50 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>Zendesk, get your shit together please</title>
+      <link>https://xeiaso.net/notes/2026/zendesk-get-shit-together/</link>
+      <guid isPermaLink="true">https://xeiaso.net/notes/2026/zendesk-get-shit-together/</guid>
+      <pubDate>Fri, 06 Feb 2026 16:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>Writing an LLM from scratch, part 32d -- Interventions: adding attention bias</title>
+      <link>https://www.gilesthomas.com/2026/02/llm-from-scratch-32d-interventions-adding-attention-bias</link>
+      <guid isPermaLink="true">https://www.gilesthomas.com/2026/02/llm-from-scratch-32d-interventions-adding-attention-bias</guid>
+      <pubDate>Fri, 06 Feb 2026 15:55:00 +0000</pubDate>
+      <description>Giles' blog</description>
+    </item>
+    <item>
+      <title>Quoting Tom Dale</title>
+      <link>https://simonwillison.net/2026/Feb/6/tom-dale/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/6/tom-dale/#atom-everything</guid>
+      <pubDate>Fri, 06 Feb 2026 15:41:31 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Eigenvalue homework problems are backward</title>
+      <link>https://www.johndcook.com/blog/2026/02/06/eigenvalue-roots/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/02/06/eigenvalue-roots/</guid>
+      <pubDate>Fri, 06 Feb 2026 15:31:11 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>A Quiet Townhouse, A Great Gift</title>
+      <link>https://feed.tedium.co/link/15204/17271801/new-york-plaques-historic-moments</link>
+      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17271801/new-york-plaques-historic-moments</guid>
+      <pubDate>Fri, 06 Feb 2026 15:29:20 +0000</pubDate>
+      <description>Tedium: The Dull Side of the Internet.</description>
+    </item>
+    <item>
+      <title>Running Pydantic's Monty Rust sandboxed Python subset in WebAssembly</title>
+      <link>https://simonwillison.net/2026/Feb/6/pydantic-monty/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/6/pydantic-monty/#atom-everything</guid>
+      <pubDate>Fri, 06 Feb 2026 14:31:31 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Study Finds Obvious Truth Everybody Knows</title>
+      <link>https://blog.jim-nielsen.com/2026/study-finds-obvious-truth/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/study-finds-obvious-truth/</guid>
+      <pubDate>Fri, 06 Feb 2026 11:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
+    </item>
+  </channel>
+</rss>

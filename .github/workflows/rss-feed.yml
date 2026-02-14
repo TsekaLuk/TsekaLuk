@@ -1,0 +1,41 @@
+name: Build RSS Feed
+on:
+    # Refresh merged feed periodically
+    schedule: [{ cron: "0 */6 * * *" }]
+    # (optional) Run manually
+    workflow_dispatch:
+    # Rebuild when feed list or builder changes
+    push:
+        branches: ["main"]
+        paths:
+            - ".github/rss/blog-feeds.opml"
+            - "scripts/build_merged_rss.py"
+            - ".github/workflows/rss-feed.yml"
+jobs:
+    build-rss:
+        runs-on: ubuntu-latest
+        permissions:
+            contents: write
+        steps:
+            - uses: actions/checkout@v4
+
+            - uses: actions/setup-python@v5
+              with:
+                  python-version: "3.11"
+
+            - name: Install dependencies
+              run: python -m pip install --upgrade pip feedparser
+
+            - name: Build merged RSS
+              run: |
+                  python scripts/build_merged_rss.py \
+                    --opml .github/rss/blog-feeds.opml \
+                    --output feeds/blog-radar.xml \
+                    --limit 120 \
+                    --timeout 10
+
+            - name: Commit merged feed
+              uses: stefanzweifel/git-auto-commit-action@v5
+              with:
+                  commit_message: "chore(rss): refresh merged feed"
+                  file_pattern: feeds/blog-radar.xml
