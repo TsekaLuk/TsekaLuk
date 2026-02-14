@@ -29,3 +29,14 @@ jobs:
                         font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif !important;
                         font-weight: 600 !important;
                       }
+                  plugin_achievements: yes
+                  plugin_achievements_display: compact
+                  plugin_achievements_threshold: X
+                  plugin_achievements_only: >-
+                      polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
+                      scripter, packager, explorer, infographile, manager
+                  plugin_notable: yes
+                  plugin_notable_indepth: yes
+                  plugin_notable_repositories: yes
+                  plugin_notable_from: all
+                  plugin_notable_types: commit, pull_request
