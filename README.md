@@ -174,9 +174,7 @@ As **Founder & CEO**, I operate **Nebutra Intelligence** as an **AI-Native OPC (
 
 </details>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TsekaLuk&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" alt="GitHub Achievements"/>
-</div>
+<p align="center"><em>Live contribution highlights are shown in the Engineering Analytics section below.</em></p>
 
 ---
 
