@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=1100&height=45&lines=Mockery+is+physically+limited+to+340m%2Fs.+We+just+go+supersonic.+Silence+begins+at+Mach+1.+%E2%80%94%E2%80%94+Tseka+Luk;Machine+Learning+Engineer+%7C+Computer+Vision+Enthusiast;Software+Developer+%7C+Cloud+Solutions+Architect;Research-Focused+Engineer+%7C+MLOps+Student;Continuous+Learner+%7C+Open+Source+Contributor"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&color=111827&center=true&vCenter=true&random=false&width=1100&height=45&lines=Mockery+is+physically+limited+to+340m%2Fs.+We+just+go+supersonic.+Silence+begins+at+Mach+1.+--+Tseka+Luk;Machine+Learning+Engineer+%7C+Computer+Vision+Enthusiast;Software+Developer+%7C+Cloud+Solutions+Architect;Research-Focused+Engineer+%7C+MLOps+Student;Continuous+Learner+%7C+Open+Source+Contributor&v=20260214a"/>
 </div>
 
 <!-- Trophy -->
