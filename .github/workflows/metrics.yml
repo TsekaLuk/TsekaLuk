@@ -29,17 +29,3 @@ jobs:
                         font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif !important;
                         font-weight: 600 !important;
                       }
-                  plugin_languages: yes
-                  plugin_languages_ignored: >-
-                      html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
-                      gnuplot
-                  plugin_languages_limit: 8
-                  plugin_languages_sections: most-used
-                  plugin_languages_threshold: 0%
-                  plugin_languages_details: bytes-size, percentage
-                  plugin_languages_indepth: yes
-                  plugin_languages_indepth_custom: >-
-                      TsekaLuk/any2md,TsekaLuk/Cursor-export-extension,TsekaLuk/hydrogem-web,
-                      TsekaLuk/Snake-Poison
-                  plugin_languages_analysis_timeout: 20
-                  plugin_languages_analysis_timeout_repositories: 6
