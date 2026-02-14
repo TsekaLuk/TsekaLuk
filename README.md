@@ -8,25 +8,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=TsekaLuk&theme=nord&no-frame=true&no-bg=true&row=1&column=7&margin-w=16"/>
 </div> -->
 
-<details>
-  <summary style="font-family:'Söhne';color:#A3BF78;cursor:pointer;margin:1em 0">🏆 Competitions & Awards</summary>
-  <ul style="font-family:'Söhne';list-style-type:none;padding-left:0">
-    <li>🥇 First Prize in National College English Competition (Category C) Campus Selection 2023</li>
-    <li>🥉 Third Prize in the 3rd China University Big Data Challenge 2023</li>
-    <li>🏆 Special Prize in the 9th Central and Western China Foreign Language Translation Competition Finals 2023</li>
-    <li>🥇 First Prize in Huawei ICT Competition 2023-2024 Campus Selection</li>
-    <li>🥉 Third Prize in Huawei ICT Competition 2023-2024 Jiangsu Province</li>
-    <li>🥈 Second Prize in the 14th Charoen Pokphand Cup National College Market Research Competition (Jiangsu Province)</li>
-    <li>🏆 First Prize & Innovation Award in the 9th Dimension Cup Mathematical Modeling Challenge 2024</li>
-    <li>🥈 Second Prize in the 7th "FLTRP Cup" Cross-cultural Competence Competition (Campus Selection)</li>
-    <li>🥇 First Prize in College Mathematical Modeling Competition Campus Selection 2024</li>
-    <li>🥈 Second Prize in Higher Education Press Cup National Mathematical Modeling Competition (Jiangsu Division) 2024</li>
-    <li>🥉 Third Prize in the 7th China University Intelligent Robot Innovation Competition 2024</li>
-    <li>🥈 Second Prize in Jiangsu Province College Student Electronic Design Competition (TI Cup) 2024</li>
-    <li>🥈 Second Prize in Global Campus AI Algorithm Elite Competition (Jiangsu Division) 2024</li>
-    <li>🥉 Third Prize in Global Campus AI Algorithm Elite Competition National Finals 2024</li>
-  </ul>
-</details>
 <!-- Top Anchor -->
 <div align="center">
 
@@ -190,6 +171,18 @@ As **Founder & CEO**, I operate **Nebutra Intelligence** as an **AI-Native OPC (
 
 ---
 
+### 🕒 **Recent Activity**
+
+<!--RECENT_ACTIVITY:last_update-->
+Last Updated: Not yet
+<!--RECENT_ACTIVITY:last_update_end-->
+
+<!--RECENT_ACTIVITY:start-->
+1. ⏳ Activity feed will appear here after the workflow runs.
+<!--RECENT_ACTIVITY:end-->
+
+---
+
 ### 📊 **Engineering Analytics**
 
 <div align="center">
@@ -203,11 +196,6 @@ As **Founder & CEO**, I operate **Nebutra Intelligence** as an **AI-Native OPC (
 
 <!-- Metrics -->
 <img src="https://github.com/TsekaLuk/TsekaLuk/blob/main/github-metrics.svg" alt="Metrics" width="100%">
-
-<br/>
-
-<!-- 3D Graph (Signature) -->
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph"/>
 
 </div>
 
