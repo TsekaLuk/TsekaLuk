@@ -23,6 +23,11 @@
 
 <br/>
 
+<p>
+  <img src="https://img.shields.io/badge/MBTI-INTP--T-4E8DF5?style=flat-square" alt="MBTI INTP-T"/>
+  <img src="https://img.shields.io/badge/Adaptive_Mask-ENTJ-0F766E?style=flat-square" alt="Adaptive Mask ENTJ"/>
+</p>
+
 <!-- Social Badges (Minimalist) -->
 <p>
   <a href="mailto:contact@tsekaluk.dev"><img src="https://img.shields.io/badge/Email-contact%40tsekaluk.dev-black?style=flat-square&logo=gmail&logoColor=white"/></a>
