@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 14 Feb 2026 13:05:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 18:46:38 +0000</lastBuildDate>
+    <item>
+      <title>Instruction decoding in the Intel 8087 floating-point chip</title>
+      <link>http://www.righto.com/2026/02/8087-instruction-decoding.html</link>
+      <guid isPermaLink="true">http://www.righto.com/2026/02/8087-instruction-decoding.html</guid>
+      <pubDate>Sat, 14 Feb 2026 16:48:00 +0000</pubDate>
+      <description>Ken Shirriff's blog</description>
+    </item>
+    <item>
+      <title>Design Deconstruction</title>
+      <link>https://feed.tedium.co/link/15204/17276365/text-based-design-mindset</link>
+      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17276365/text-based-design-mindset</guid>
+      <pubDate>Sat, 14 Feb 2026 16:15:04 +0000</pubDate>
+      <description>Tedium: The Dull Side of the Internet.</description>
+    </item>
     <item>
       <title>Reading list 02/14/26</title>
       <link>https://www.construction-physics.com/p/reading-list-021426</link>
@@ -25,6 +39,13 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Feb/14/thoughtworks/#atom-everything</guid>
       <pubDate>Sat, 14 Feb 2026 04:54:41 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>The (very) old "repaint mode" GUI approach</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/tech/RepaintModeGUI</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/tech/RepaintModeGUI</guid>
+      <pubDate>Sat, 14 Feb 2026 04:34:18 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>AI twitter's favourite lie: everyone wants to be a developer</title>
@@ -132,6 +153,13 @@
       <description>Westenberg.</description>
     </item>
     <item>
+      <title>Testing Linux memory limits is a bit of a pain</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/MemoryLimitTestingPain</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/MemoryLimitTestingPain</guid>
+      <pubDate>Fri, 13 Feb 2026 04:23:09 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
       <title>Expressing a prime as the sum of two squares</title>
       <link>https://www.johndcook.com/blog/2026/02/12/pythagorean-primes/</link>
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/02/12/pythagorean-primes/</guid>
@@ -139,18 +167,18 @@
       <description>John D. Cook</description>
     </item>
     <item>
-      <title>Good riddance, 4o</title>
-      <link>https://mahadk.com/posts/4o/</link>
-      <guid isPermaLink="true">https://mahadk.com/posts/4o/</guid>
-      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Mahad Kalam</description>
-    </item>
-    <item>
       <title>The Final Bottleneck</title>
       <link>https://lucumr.pocoo.org/2026/2/13/the-final-bottleneck/</link>
       <guid isPermaLink="true">https://lucumr.pocoo.org/2026/2/13/the-final-bottleneck/</guid>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
       <description>Armin Ronacher's Thoughts and Writings</description>
+    </item>
+    <item>
+      <title>Good riddance, 4o</title>
+      <link>https://mahadk.com/posts/4o/</link>
+      <guid isPermaLink="true">https://mahadk.com/posts/4o/</guid>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Mahad Kalam</description>
     </item>
     <item>
       <title>Respectful Open Source</title>
@@ -265,6 +293,13 @@
       <description>Pluralistic: Daily links from Cory Doctorow</description>
     </item>
     <item>
+      <title>Undo in Vi and its successors, and my views on the mess</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/unix/ViUndoMyViews</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/unix/ViUndoMyViews</guid>
+      <pubDate>Thu, 12 Feb 2026 04:19:15 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
       <title>Markdown.exe</title>
       <link>https://idiallo.com/byte-size/markdown-exe?src=feed</link>
       <guid isPermaLink="true">https://idiallo.com/byte-size/markdown-exe?src=feed</guid>
@@ -342,13 +377,6 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>Kimwolf Botnet Swamps Anonymity Network I2P</title>
-      <link>https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/</link>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/</guid>
-      <pubDate>Wed, 11 Feb 2026 16:08:11 +0000</pubDate>
-      <description>Krebs on Security</description>
-    </item>
-    <item>
       <title>How do I suppress the hover effects when I put a Win32 common controls ListView in single-click mode?</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260211-00/?p=112057</link>
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260211-00/?p=112057</guid>
@@ -391,18 +419,18 @@
       <description>Andrew Nesbitt</description>
     </item>
     <item>
+      <title>Moving to make many of my SSH logins not report things on login</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MovingToSilentLogins</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MovingToSilentLogins</guid>
+      <pubDate>Wed, 11 Feb 2026 04:32:49 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
       <title>Communities are not fungible</title>
       <link>https://www.joanwestenberg.com/communities-are-not-fungible/</link>
       <guid isPermaLink="true">https://www.joanwestenberg.com/communities-are-not-fungible/</guid>
       <pubDate>Wed, 11 Feb 2026 04:18:45 +0000</pubDate>
       <description>Westenberg.</description>
-    </item>
-    <item>
-      <title>Matrix ain't it chief</title>
-      <link>https://xeiaso.net/notes/2026/dont-use-matrix/</link>
-      <guid isPermaLink="true">https://xeiaso.net/notes/2026/dont-use-matrix/</guid>
-      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>On screwing up</title>
@@ -412,18 +440,18 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
+      <title>Matrix ain't it chief</title>
+      <link>https://xeiaso.net/notes/2026/dont-use-matrix/</link>
+      <guid isPermaLink="true">https://xeiaso.net/notes/2026/dont-use-matrix/</guid>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
+    </item>
+    <item>
       <title>Programming Aphorisms</title>
       <link>https://matklad.github.io/2026/02/11/programming-aphorisms.html</link>
       <guid isPermaLink="true">https://matklad.github.io/2026/02/11/programming-aphorisms.html</guid>
       <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
       <description>matklad</description>
-    </item>
-    <item>
-      <title>Patch Tuesday, February 2026 Edition</title>
-      <link>https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/</link>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/</guid>
-      <pubDate>Tue, 10 Feb 2026 21:49:53 +0000</pubDate>
-      <description>Krebs on Security</description>
     </item>
     <item>
       <title>Introducing Showboat and Rodney, so agents can demo what they’ve built</title>
@@ -466,6 +494,13 @@
       <guid isPermaLink="true">https://pluralistic.net/2026/02/10/miller-in-the-dock/</guid>
       <pubDate>Tue, 10 Feb 2026 09:40:42 +0000</pubDate>
       <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>A fun Python puzzle with circular imports</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/python/PythonCircularImportPuzzle</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/python/PythonCircularImportPuzzle</guid>
+      <pubDate>Tue, 10 Feb 2026 04:12:25 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>[Sponsor] WorkOS Pipes: Ship Third-Party Integrations Without Rebuilding OAuth</title>
@@ -566,6 +601,13 @@
       <description>Keygen Blog</description>
     </item>
     <item>
+      <title>Systemd and blocking connections to localhost, including via 'any'</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdAndConnectToAny</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdAndConnectToAny</guid>
+      <pubDate>Mon, 09 Feb 2026 04:21:16 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
       <title>Weekly Update 490</title>
       <link>https://www.troyhunt.com/weekly-update-490/</link>
       <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-490/</guid>
@@ -620,6 +662,13 @@
       <guid isPermaLink="true">https://feed.tedium.co/link/15204/17272194/washington-post-layoffs-perspective</guid>
       <pubDate>Sun, 08 Feb 2026 04:58:23 +0000</pubDate>
       <description>Tedium: The Dull Side of the Internet.</description>
+    </item>
+    <item>
+      <title>The original vi is a product of its time (and its time has passed)</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/unix/ViIsAProductOfItsTime</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/unix/ViIsAProductOfItsTime</guid>
+      <pubDate>Sun, 08 Feb 2026 03:50:02 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>Quoting Thomas Ptacek</title>
@@ -741,6 +790,13 @@
       <description>Pluralistic: Daily links from Cory Doctorow</description>
     </item>
     <item>
+      <title>How we failed to notice a power failure</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/NotNoticingPowerFailure</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/NotNoticingPowerFailure</guid>
+      <pubDate>Sat, 07 Feb 2026 04:25:50 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
       <title>Zendesk, get your shit together please</title>
       <link>https://xeiaso.net/notes/2026/zendesk-get-shit-together/</link>
       <guid isPermaLink="true">https://xeiaso.net/notes/2026/zendesk-get-shit-together/</guid>
@@ -788,62 +844,6 @@
       <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/study-finds-obvious-truth/</guid>
       <pubDate>Fri, 06 Feb 2026 19:00:00 +0000</pubDate>
       <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
-      <title>An Update on Heroku</title>
-      <link>https://simonwillison.net/2026/Feb/6/an-update-on-heroku/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/6/an-update-on-heroku/#atom-everything</guid>
-      <pubDate>Fri, 06 Feb 2026 18:44:21 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Premium: The Hater's Guide To Microsoft</title>
-      <link>https://www.wheresyoured.at/premium-the-haters-guide-to-microsoft/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/premium-the-haters-guide-to-microsoft/</guid>
-      <pubDate>Fri, 06 Feb 2026 17:34:14 +0000</pubDate>
-      <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>Ultima IX</title>
-      <link>https://www.filfre.net/2026/02/ultima-ix/</link>
-      <guid isPermaLink="true">https://www.filfre.net/2026/02/ultima-ix/</guid>
-      <pubDate>Fri, 06 Feb 2026 17:09:05 +0000</pubDate>
-      <description>The Digital Antiquarian</description>
-    </item>
-    <item>
-      <title>The first good Raspberry Pi Laptop</title>
-      <link>https://www.jeffgeerling.com/blog/2026/the-first-good-raspberry-pi-laptop/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/the-first-good-raspberry-pi-laptop/</guid>
-      <pubDate>Fri, 06 Feb 2026 15:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
-      <title>How can I prevent the user from changing the widths of ListView columns in version 5 of the common controls?, part 2</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260206-00/?p=112045</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260206-00/?p=112045</guid>
-      <pubDate>Fri, 06 Feb 2026 15:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Reading List 02/06/2026</title>
-      <link>https://www.construction-physics.com/p/reading-list-02062026</link>
-      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-02062026</guid>
-      <pubDate>Fri, 06 Feb 2026 13:03:43 +0000</pubDate>
-      <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>Book Review: Diversifying Open Source - An Open Standards Playbook for Inclusive and Equitable Tech Projects by Paloma Oliveira ★★★★☆</title>
-      <link>https://shkspr.mobi/blog/2026/02/book-review-diversifying-open-source-an-open-standards-playbook-for-inclusive-and-equitable-tech-projects-by-paloma-oliveira/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/02/book-review-diversifying-open-source-an-open-standards-playbook-for-inclusive-and-equitable-tech-projects-by-paloma-oliveira/</guid>
-      <pubDate>Fri, 06 Feb 2026 12:34:05 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Open Molten Claw</title>
-      <link>https://idiallo.com/blog/open-molten-claw?src=feed</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/open-molten-claw?src=feed</guid>
-      <pubDate>Fri, 06 Feb 2026 12:00:00 +0000</pubDate>
-      <description>iDiallo.com</description>
     </item>
   </channel>
 </rss>
