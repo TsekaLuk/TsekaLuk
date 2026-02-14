@@ -174,8 +174,6 @@ As **Founder & CEO**, I operate **Nebutra Intelligence** as an **AI-Native OPC (
 
 </details>
 
-<p align="center"><em>Live contribution highlights are shown in the Engineering Analytics section below.</em></p>
-
 ---
 
 ### 🕒 **Recent Activity**
