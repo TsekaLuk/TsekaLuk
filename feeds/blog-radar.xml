@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 15 Feb 2026 06:59:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 13:06:54 +0000</lastBuildDate>
+    <item>
+      <title>Social Media Payments and Perverse Incentives</title>
+      <link>https://shkspr.mobi/blog/2026/02/social-media-payments-and-perverse-incentives/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/02/social-media-payments-and-perverse-incentives/</guid>
+      <pubDate>Sun, 15 Feb 2026 12:34:23 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
     <item>
       <title>How Generative and Agentic AI Shift Concern from Technical Debt to Cognitive Debt</title>
       <link>https://simonwillison.net/2026/Feb/15/cognitive-debt/#atom-everything</link>
@@ -32,6 +39,13 @@
       <guid isPermaLink="true">https://seangoedecke.com/fast-llm-inference/</guid>
       <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Separating Download from Install in Docker Builds</title>
+      <link>https://nesbitt.io/2026/02/15/separating-download-from-install-in-docker-builds.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/02/15/separating-download-from-install-in-docker-builds.html</guid>
+      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
     </item>
     <item>
       <title>Quoting Boris Cherny</title>
@@ -137,6 +151,13 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/02/14/package-management-namespaces.html</guid>
       <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>How Michael Abrash doubled Quake framerate</title>
+      <link>https://fabiensanglard.net/quake_asm_optimizations/index.html</link>
+      <guid isPermaLink="true">https://fabiensanglard.net/quake_asm_optimizations/index.html</guid>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Fabien Sanglard</description>
     </item>
     <item>
       <title>Launch it 3 times</title>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/02/07/chowla/</guid>
       <pubDate>Sat, 07 Feb 2026 14:02:45 +0000</pubDate>
       <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Reputation Scores for GitHub Accounts</title>
-      <link>https://shkspr.mobi/blog/2026/02/reputation-scores-for-github-accounts/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/02/reputation-scores-for-github-accounts/</guid>
-      <pubDate>Sat, 07 Feb 2026 12:34:52 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Pluralistic: End of the line for video essays (07 Feb 2026)</title>
-      <link>https://pluralistic.net/2026/02/07/aimsters-revenge/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/02/07/aimsters-revenge/</guid>
-      <pubDate>Sat, 07 Feb 2026 08:12:57 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Zendesk, get your shit together please</title>
-      <link>https://xeiaso.net/notes/2026/zendesk-get-shit-together/</link>
-      <guid isPermaLink="true">https://xeiaso.net/notes/2026/zendesk-get-shit-together/</guid>
-      <pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
     </item>
   </channel>
 </rss>
