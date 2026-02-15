@@ -4,7 +4,42 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 14 Feb 2026 18:46:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 02:53:41 +0000</lastBuildDate>
+    <item>
+      <title>Two different tricks for fast LLM inference</title>
+      <link>https://seangoedecke.com/fast-llm-inference/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/fast-llm-inference/</guid>
+      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Quoting Boris Cherny</title>
+      <link>https://simonwillison.net/2026/Feb/14/boris/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/14/boris/#atom-everything</guid>
+      <pubDate>Sat, 14 Feb 2026 23:59:09 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Wagon’s algorithm in Python</title>
+      <link>https://www.johndcook.com/blog/2026/02/14/wagons-algorithm-in-python/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/02/14/wagons-algorithm-in-python/</guid>
+      <pubDate>Sat, 14 Feb 2026 23:06:41 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Finding a square root of -1 mod p</title>
+      <link>https://www.johndcook.com/blog/2026/02/14/square-root-minus-1-mod-p/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/02/14/square-root-minus-1-mod-p/</guid>
+      <pubDate>Sat, 14 Feb 2026 22:07:05 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Finding a non-square mod p</title>
+      <link>https://www.johndcook.com/blog/2026/02/14/finding-a-non-square/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/02/14/finding-a-non-square/</guid>
+      <pubDate>Sat, 14 Feb 2026 21:35:54 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
     <item>
       <title>Instruction decoding in the Intel 8087 floating-point chip</title>
       <link>http://www.righto.com/2026/02/8087-instruction-decoding.html</link>
@@ -20,11 +55,32 @@
       <description>Tedium: The Dull Side of the Internet.</description>
     </item>
     <item>
+      <title>tiny corp’s product – a training box</title>
+      <link>https://geohot.github.io//blog/jekyll/update/2026/02/15/tiny-corp-product.html</link>
+      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/02/15/tiny-corp-product.html</guid>
+      <pubDate>Sat, 14 Feb 2026 16:00:00 +0000</pubDate>
+      <description>the singularity is nearer</description>
+    </item>
+    <item>
+      <title>Microsoft Game Pass Ultimate Billing Fraud</title>
+      <link>https://jayd.ml/2026/02/14/microsoft-game-pass-fraud.html</link>
+      <guid isPermaLink="true">https://jayd.ml/2026/02/14/microsoft-game-pass-fraud.html</guid>
+      <pubDate>Sat, 14 Feb 2026 14:38:00 +0000</pubDate>
+      <description>Jayden’s Blog</description>
+    </item>
+    <item>
       <title>Reading list 02/14/26</title>
       <link>https://www.construction-physics.com/p/reading-list-021426</link>
       <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-021426</guid>
       <pubDate>Sat, 14 Feb 2026 13:01:32 +0000</pubDate>
       <description>Construction Physics</description>
+    </item>
+    <item>
+      <title>Windows 2000 Minesweeper recreated in Godot 4.1</title>
+      <link>https://jayd.ml/2026/02/14/godot-minesweeper.html</link>
+      <guid isPermaLink="true">https://jayd.ml/2026/02/14/godot-minesweeper.html</guid>
+      <pubDate>Sat, 14 Feb 2026 13:00:00 +0000</pubDate>
+      <description>Jayden’s Blog</description>
     </item>
     <item>
       <title>Book Review: 20 Goto 10 - 10101001 facts about retro computers by Steven Goodwin ★★★★☆</title>
@@ -41,18 +97,18 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>The (very) old "repaint mode" GUI approach</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/tech/RepaintModeGUI</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/tech/RepaintModeGUI</guid>
-      <pubDate>Sat, 14 Feb 2026 04:34:18 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
       <title>AI twitter's favourite lie: everyone wants to be a developer</title>
       <link>https://www.joanwestenberg.com/ai-twitters-favourite-lie-everyone-wants-to-be-a-developer/</link>
       <guid isPermaLink="true">https://www.joanwestenberg.com/ai-twitters-favourite-lie-everyone-wants-to-be-a-developer/</guid>
       <pubDate>Sat, 14 Feb 2026 01:13:26 +0000</pubDate>
       <description>Westenberg.</description>
+    </item>
+    <item>
+      <title>Justifying text-wrap: pretty</title>
+      <link>https://matklad.github.io/2026/02/14/justifying-text-wrap-pretty.html</link>
+      <guid isPermaLink="true">https://matklad.github.io/2026/02/14/justifying-text-wrap-pretty.html</guid>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
+      <description>matklad</description>
     </item>
     <item>
       <title>Package Management Namespaces</title>
@@ -153,13 +209,6 @@
       <description>Westenberg.</description>
     </item>
     <item>
-      <title>Testing Linux memory limits is a bit of a pain</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/MemoryLimitTestingPain</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/MemoryLimitTestingPain</guid>
-      <pubDate>Fri, 13 Feb 2026 04:23:09 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
       <title>Expressing a prime as the sum of two squares</title>
       <link>https://www.johndcook.com/blog/2026/02/12/pythagorean-primes/</link>
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/02/12/pythagorean-primes/</guid>
@@ -167,18 +216,18 @@
       <description>John D. Cook</description>
     </item>
     <item>
-      <title>The Final Bottleneck</title>
-      <link>https://lucumr.pocoo.org/2026/2/13/the-final-bottleneck/</link>
-      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/2/13/the-final-bottleneck/</guid>
-      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Armin Ronacher's Thoughts and Writings</description>
-    </item>
-    <item>
       <title>Good riddance, 4o</title>
       <link>https://mahadk.com/posts/4o/</link>
       <guid isPermaLink="true">https://mahadk.com/posts/4o/</guid>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
       <description>Mahad Kalam</description>
+    </item>
+    <item>
+      <title>The Final Bottleneck</title>
+      <link>https://lucumr.pocoo.org/2026/2/13/the-final-bottleneck/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/2/13/the-final-bottleneck/</guid>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
       <title>Respectful Open Source</title>
@@ -293,13 +342,6 @@
       <description>Pluralistic: Daily links from Cory Doctorow</description>
     </item>
     <item>
-      <title>Undo in Vi and its successors, and my views on the mess</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/unix/ViUndoMyViews</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/unix/ViUndoMyViews</guid>
-      <pubDate>Thu, 12 Feb 2026 04:19:15 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
       <title>Markdown.exe</title>
       <link>https://idiallo.com/byte-size/markdown-exe?src=feed</link>
       <guid isPermaLink="true">https://idiallo.com/byte-size/markdown-exe?src=feed</guid>
@@ -377,6 +419,13 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
+      <title>Kimwolf Botnet Swamps Anonymity Network I2P</title>
+      <link>https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/</link>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/</guid>
+      <pubDate>Wed, 11 Feb 2026 16:08:11 +0000</pubDate>
+      <description>Krebs on Security</description>
+    </item>
+    <item>
       <title>How do I suppress the hover effects when I put a Win32 common controls ListView in single-click mode?</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260211-00/?p=112057</link>
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260211-00/?p=112057</guid>
@@ -419,13 +468,6 @@
       <description>Andrew Nesbitt</description>
     </item>
     <item>
-      <title>Moving to make many of my SSH logins not report things on login</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MovingToSilentLogins</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MovingToSilentLogins</guid>
-      <pubDate>Wed, 11 Feb 2026 04:32:49 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
       <title>Communities are not fungible</title>
       <link>https://www.joanwestenberg.com/communities-are-not-fungible/</link>
       <guid isPermaLink="true">https://www.joanwestenberg.com/communities-are-not-fungible/</guid>
@@ -452,6 +494,13 @@
       <guid isPermaLink="true">https://matklad.github.io/2026/02/11/programming-aphorisms.html</guid>
       <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
       <description>matklad</description>
+    </item>
+    <item>
+      <title>Patch Tuesday, February 2026 Edition</title>
+      <link>https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/</link>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/</guid>
+      <pubDate>Tue, 10 Feb 2026 21:49:53 +0000</pubDate>
+      <description>Krebs on Security</description>
     </item>
     <item>
       <title>Introducing Showboat and Rodney, so agents can demo what they’ve built</title>
@@ -494,13 +543,6 @@
       <guid isPermaLink="true">https://pluralistic.net/2026/02/10/miller-in-the-dock/</guid>
       <pubDate>Tue, 10 Feb 2026 09:40:42 +0000</pubDate>
       <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>A fun Python puzzle with circular imports</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/python/PythonCircularImportPuzzle</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/python/PythonCircularImportPuzzle</guid>
-      <pubDate>Tue, 10 Feb 2026 04:12:25 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>[Sponsor] WorkOS Pipes: Ship Third-Party Integrations Without Rebuilding OAuth</title>
@@ -601,13 +643,6 @@
       <description>Keygen Blog</description>
     </item>
     <item>
-      <title>Systemd and blocking connections to localhost, including via 'any'</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdAndConnectToAny</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdAndConnectToAny</guid>
-      <pubDate>Mon, 09 Feb 2026 04:21:16 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
       <title>Weekly Update 490</title>
       <link>https://www.troyhunt.com/weekly-update-490/</link>
       <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-490/</guid>
@@ -662,13 +697,6 @@
       <guid isPermaLink="true">https://feed.tedium.co/link/15204/17272194/washington-post-layoffs-perspective</guid>
       <pubDate>Sun, 08 Feb 2026 04:58:23 +0000</pubDate>
       <description>Tedium: The Dull Side of the Internet.</description>
-    </item>
-    <item>
-      <title>The original vi is a product of its time (and its time has passed)</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/unix/ViIsAProductOfItsTime</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/unix/ViIsAProductOfItsTime</guid>
-      <pubDate>Sun, 08 Feb 2026 03:50:02 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>Quoting Thomas Ptacek</title>
@@ -790,13 +818,6 @@
       <description>Pluralistic: Daily links from Cory Doctorow</description>
     </item>
     <item>
-      <title>How we failed to notice a power failure</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/NotNoticingPowerFailure</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/NotNoticingPowerFailure</guid>
-      <pubDate>Sat, 07 Feb 2026 04:25:50 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
       <title>Zendesk, get your shit together please</title>
       <link>https://xeiaso.net/notes/2026/zendesk-get-shit-together/</link>
       <guid isPermaLink="true">https://xeiaso.net/notes/2026/zendesk-get-shit-together/</guid>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/02/06/eigenvalue-roots/</guid>
       <pubDate>Fri, 06 Feb 2026 23:31:11 +0000</pubDate>
       <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>A Quiet Townhouse, A Great Gift</title>
-      <link>https://feed.tedium.co/link/15204/17271801/new-york-plaques-historic-moments</link>
-      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17271801/new-york-plaques-historic-moments</guid>
-      <pubDate>Fri, 06 Feb 2026 23:29:20 +0000</pubDate>
-      <description>Tedium: The Dull Side of the Internet.</description>
-    </item>
-    <item>
-      <title>Running Pydantic's Monty Rust sandboxed Python subset in WebAssembly</title>
-      <link>https://simonwillison.net/2026/Feb/6/pydantic-monty/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/6/pydantic-monty/#atom-everything</guid>
-      <pubDate>Fri, 06 Feb 2026 22:31:31 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Study Finds Obvious Truth Everybody Knows</title>
-      <link>https://blog.jim-nielsen.com/2026/study-finds-obvious-truth/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/study-finds-obvious-truth/</guid>
-      <pubDate>Fri, 06 Feb 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
     </item>
   </channel>
 </rss>
