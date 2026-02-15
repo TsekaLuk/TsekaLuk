@@ -4,7 +4,42 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 15 Feb 2026 13:06:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 18:47:53 +0000</lastBuildDate>
+    <item>
+      <title>Gwtar: a static efficient single-file HTML format</title>
+      <link>https://simonwillison.net/2026/Feb/15/gwtar/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/15/gwtar/#atom-everything</guid>
+      <pubDate>Sun, 15 Feb 2026 18:26:08 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Three months of OpenClaw</title>
+      <link>https://simonwillison.net/2026/Feb/15/openclaw/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/15/openclaw/#atom-everything</guid>
+      <pubDate>Sun, 15 Feb 2026 17:23:28 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Hideki Sato has died</title>
+      <link>https://oldvcr.blogspot.com/2026/02/hideki-sato-has-died.html</link>
+      <guid isPermaLink="true">https://oldvcr.blogspot.com/2026/02/hideki-sato-has-died.html</guid>
+      <pubDate>Sun, 15 Feb 2026 16:57:00 +0000</pubDate>
+      <description>Old Vintage Computing Research</description>
+    </item>
+    <item>
+      <title>My Courses Site is Moving to a New Home</title>
+      <link>https://blog.miguelgrinberg.com/post/my-courses-site-is-moving-to-a-new-home</link>
+      <guid isPermaLink="true">https://blog.miguelgrinberg.com/post/my-courses-site-is-moving-to-a-new-home</guid>
+      <pubDate>Sun, 15 Feb 2026 15:15:29 +0000</pubDate>
+      <description>Miguel Grinberg's Blog</description>
+    </item>
+    <item>
+      <title>Quoting Eric Meyer</title>
+      <link>https://simonwillison.net/2026/Feb/15/eric-meyer/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/15/eric-meyer/#atom-everything</guid>
+      <pubDate>Sun, 15 Feb 2026 13:36:20 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Social Media Payments and Perverse Incentives</title>
       <link>https://shkspr.mobi/blog/2026/02/social-media-payments-and-perverse-incentives/</link>
@@ -258,18 +293,18 @@
       <description>John D. Cook</description>
     </item>
     <item>
-      <title>Good riddance, 4o</title>
-      <link>https://mahadk.com/posts/4o/</link>
-      <guid isPermaLink="true">https://mahadk.com/posts/4o/</guid>
-      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Mahad Kalam</description>
-    </item>
-    <item>
       <title>The Final Bottleneck</title>
       <link>https://lucumr.pocoo.org/2026/2/13/the-final-bottleneck/</link>
       <guid isPermaLink="true">https://lucumr.pocoo.org/2026/2/13/the-final-bottleneck/</guid>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
       <description>Armin Ronacher's Thoughts and Writings</description>
+    </item>
+    <item>
+      <title>Good riddance, 4o</title>
+      <link>https://mahadk.com/posts/4o/</link>
+      <guid isPermaLink="true">https://mahadk.com/posts/4o/</guid>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Mahad Kalam</description>
     </item>
     <item>
       <title>Respectful Open Source</title>
@@ -809,41 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Feb/7/claude-fast-mode/#atom-everything</guid>
       <pubDate>Sat, 07 Feb 2026 23:10:33 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Quoting David Crawshaw</title>
-      <link>https://simonwillison.net/2026/Feb/7/david-crawshaw/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/7/david-crawshaw/#atom-everything</guid>
-      <pubDate>Sat, 07 Feb 2026 21:31:44 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Updates 7 februari: Tweede Kamer, TV Bureau Buitenland</title>
-      <link>https://berthub.eu/articles/posts/update-7-februari/</link>
-      <guid isPermaLink="true">https://berthub.eu/articles/posts/update-7-februari/</guid>
-      <pubDate>Sat, 07 Feb 2026 21:00:09 +0000</pubDate>
-      <description>Bert Hubert's writings</description>
-    </item>
-    <item>
-      <title>How StrongDM's AI team build serious software without even looking at the code</title>
-      <link>https://simonwillison.net/2026/Feb/7/software-factory/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/7/software-factory/#atom-everything</guid>
-      <pubDate>Sat, 07 Feb 2026 15:40:48 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Exploring a Modern SMPTE 2110 Broadcast Truck With My Dad</title>
-      <link>https://www.jeffgeerling.com/blog/2026/exploring-a-modern-smpte-2110-broadcast-truck-with-my-dad/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/exploring-a-modern-smpte-2110-broadcast-truck-with-my-dad/</guid>
-      <pubDate>Sat, 07 Feb 2026 15:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
-      <title>Minimum of cosine sum</title>
-      <link>https://www.johndcook.com/blog/2026/02/07/chowla/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/02/07/chowla/</guid>
-      <pubDate>Sat, 07 Feb 2026 14:02:45 +0000</pubDate>
-      <description>John D. Cook</description>
     </item>
   </channel>
 </rss>
