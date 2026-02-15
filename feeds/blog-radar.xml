@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 15 Feb 2026 02:53:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 06:59:47 +0000</lastBuildDate>
+    <item>
+      <title>How Generative and Agentic AI Shift Concern from Technical Debt to Cognitive Debt</title>
+      <link>https://simonwillison.net/2026/Feb/15/cognitive-debt/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/15/cognitive-debt/#atom-everything</guid>
+      <pubDate>Sun, 15 Feb 2026 05:20:11 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Launching Interop 2026</title>
+      <link>https://simonwillison.net/2026/Feb/15/interop-2026/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/15/interop-2026/#atom-everything</guid>
+      <pubDate>Sun, 15 Feb 2026 04:33:22 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>The empire always falls</title>
+      <link>https://www.joanwestenberg.com/the-empire-always-falls/</link>
+      <guid isPermaLink="true">https://www.joanwestenberg.com/the-empire-always-falls/</guid>
+      <pubDate>Sun, 15 Feb 2026 04:06:02 +0000</pubDate>
+      <description>Westenberg.</description>
+    </item>
     <item>
       <title>Two different tricks for fast LLM inference</title>
       <link>https://seangoedecke.com/fast-llm-inference/</link>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://xeiaso.net/notes/2026/zendesk-get-shit-together/</guid>
       <pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
-    </item>
-    <item>
-      <title>Writing an LLM from scratch, part 32d -- Interventions: adding attention bias</title>
-      <link>https://www.gilesthomas.com/2026/02/llm-from-scratch-32d-interventions-adding-attention-bias</link>
-      <guid isPermaLink="true">https://www.gilesthomas.com/2026/02/llm-from-scratch-32d-interventions-adding-attention-bias</guid>
-      <pubDate>Fri, 06 Feb 2026 23:55:00 +0000</pubDate>
-      <description>Giles' blog</description>
-    </item>
-    <item>
-      <title>Quoting Tom Dale</title>
-      <link>https://simonwillison.net/2026/Feb/6/tom-dale/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/6/tom-dale/#atom-everything</guid>
-      <pubDate>Fri, 06 Feb 2026 23:41:31 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Eigenvalue homework problems are backward</title>
-      <link>https://www.johndcook.com/blog/2026/02/06/eigenvalue-roots/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/02/06/eigenvalue-roots/</guid>
-      <pubDate>Fri, 06 Feb 2026 23:31:11 +0000</pubDate>
-      <description>John D. Cook</description>
     </item>
   </channel>
 </rss>
