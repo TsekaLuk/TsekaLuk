@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 16 Feb 2026 02:49:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 07:14:52 +0000</lastBuildDate>
     <item>
       <title>The AI Vampire</title>
       <link>https://simonwillison.net/2026/Feb/15/the-ai-vampire/#atom-everything</link>
@@ -349,18 +349,18 @@
       <description>John D. Cook</description>
     </item>
     <item>
-      <title>Good riddance, 4o</title>
-      <link>https://mahadk.com/posts/4o/</link>
-      <guid isPermaLink="true">https://mahadk.com/posts/4o/</guid>
-      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Mahad Kalam</description>
-    </item>
-    <item>
       <title>The Final Bottleneck</title>
       <link>https://lucumr.pocoo.org/2026/2/13/the-final-bottleneck/</link>
       <guid isPermaLink="true">https://lucumr.pocoo.org/2026/2/13/the-final-bottleneck/</guid>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
       <description>Armin Ronacher's Thoughts and Writings</description>
+    </item>
+    <item>
+      <title>Good riddance, 4o</title>
+      <link>https://mahadk.com/posts/4o/</link>
+      <guid isPermaLink="true">https://mahadk.com/posts/4o/</guid>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Mahad Kalam</description>
     </item>
     <item>
       <title>Respectful Open Source</title>
@@ -608,18 +608,18 @@
       <description>Westenberg.</description>
     </item>
     <item>
-      <title>Matrix ain't it chief</title>
-      <link>https://xeiaso.net/notes/2026/dont-use-matrix/</link>
-      <guid isPermaLink="true">https://xeiaso.net/notes/2026/dont-use-matrix/</guid>
-      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
       <title>On screwing up</title>
       <link>https://seangoedecke.com/screwing-up/</link>
       <guid isPermaLink="true">https://seangoedecke.com/screwing-up/</guid>
       <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Matrix ain't it chief</title>
+      <link>https://xeiaso.net/notes/2026/dont-use-matrix/</link>
+      <guid isPermaLink="true">https://xeiaso.net/notes/2026/dont-use-matrix/</guid>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>Programming Aphorisms</title>
