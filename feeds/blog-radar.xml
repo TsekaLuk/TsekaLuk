@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 17 Feb 2026 07:09:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 13:20:29 +0000</lastBuildDate>
+    <item>
+      <title>Gadget Review: Epomaker Split 70 Mechanical Keyboard ★★★★⯪</title>
+      <link>https://shkspr.mobi/blog/2026/02/gadget-review-epomaker-split-70-mechanical-keyboard/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/02/gadget-review-epomaker-split-70-mechanical-keyboard/</guid>
+      <pubDate>Tue, 17 Feb 2026 12:34:09 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Pluralistic: What's a "gig work minimum wage" (17 Feb 2026)</title>
+      <link>https://pluralistic.net/2026/02/17/no-piecework/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/02/17/no-piecework/</guid>
+      <pubDate>Tue, 17 Feb 2026 10:56:49 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Platform Strings</title>
+      <link>https://nesbitt.io/2026/02/17/platform-strings.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/02/17/platform-strings.html</guid>
+      <pubDate>Tue, 17 Feb 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
     <item>
       <title>Weekly Update 491</title>
       <link>https://www.troyhunt.com/weekly-update-491/</link>
@@ -53,6 +74,13 @@
       <guid isPermaLink="true">https://martinalderson.com/posts/anthropic-found-500-zero-days/?utm_source=rss</guid>
       <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
       <description>Martin Alderson</description>
+    </item>
+    <item>
+      <title>Learning KeyBee</title>
+      <link>https://entropicthoughts.com/learning-keybee</link>
+      <guid isPermaLink="true">https://entropicthoughts.com/learning-keybee</guid>
+      <pubDate>Mon, 16 Feb 2026 23:00:00 +0000</pubDate>
+      <description>Entropic Thoughts</description>
     </item>
     <item>
       <title>AI is destroying Open Source, and it's not even good yet</title>
@@ -510,18 +538,18 @@
       <description>John D. Cook</description>
     </item>
     <item>
-      <title>Good riddance, 4o</title>
-      <link>https://mahadk.com/posts/4o/</link>
-      <guid isPermaLink="true">https://mahadk.com/posts/4o/</guid>
-      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Mahad Kalam</description>
-    </item>
-    <item>
       <title>The Final Bottleneck</title>
       <link>https://lucumr.pocoo.org/2026/2/13/the-final-bottleneck/</link>
       <guid isPermaLink="true">https://lucumr.pocoo.org/2026/2/13/the-final-bottleneck/</guid>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
       <description>Armin Ronacher's Thoughts and Writings</description>
+    </item>
+    <item>
+      <title>Good riddance, 4o</title>
+      <link>https://mahadk.com/posts/4o/</link>
+      <guid isPermaLink="true">https://mahadk.com/posts/4o/</guid>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Mahad Kalam</description>
     </item>
     <item>
       <title>Respectful Open Source</title>
@@ -713,13 +741,6 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>Kimwolf Botnet Swamps Anonymity Network I2P</title>
-      <link>https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/</link>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/</guid>
-      <pubDate>Wed, 11 Feb 2026 16:08:11 +0000</pubDate>
-      <description>Krebs on Security</description>
-    </item>
-    <item>
       <title>How do I suppress the hover effects when I put a Win32 common controls ListView in single-click mode?</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260211-00/?p=112057</link>
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260211-00/?p=112057</guid>
@@ -790,13 +811,6 @@
       <description>matklad</description>
     </item>
     <item>
-      <title>Patch Tuesday, February 2026 Edition</title>
-      <link>https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/</link>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/</guid>
-      <pubDate>Tue, 10 Feb 2026 21:49:53 +0000</pubDate>
-      <description>Krebs on Security</description>
-    </item>
-    <item>
       <title>Introducing Showboat and Rodney, so agents can demo what they’ve built</title>
       <link>https://simonwillison.net/2026/Feb/10/showboat-and-rodney/#atom-everything</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Feb/10/showboat-and-rodney/#atom-everything</guid>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/02/10/lockfiles-killed-vendoring.html</guid>
       <pubDate>Tue, 10 Feb 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Pluralistic: The Nuremberg Caucus (10 Feb 2026)</title>
-      <link>https://pluralistic.net/2026/02/10/miller-in-the-dock/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/02/10/miller-in-the-dock/</guid>
-      <pubDate>Tue, 10 Feb 2026 09:40:42 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Humanity's last programming language</title>
-      <link>https://xeiaso.net/blog/2026/markdownlang/</link>
-      <guid isPermaLink="true">https://xeiaso.net/blog/2026/markdownlang/</guid>
-      <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
     </item>
   </channel>
 </rss>
