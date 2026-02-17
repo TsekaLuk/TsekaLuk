@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 17 Feb 2026 02:45:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 07:09:07 +0000</lastBuildDate>
+    <item>
+      <title>Weekly Update 491</title>
+      <link>https://www.troyhunt.com/weekly-update-491/</link>
+      <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-491/</guid>
+      <pubDate>Tue, 17 Feb 2026 05:09:12 +0000</pubDate>
+      <description>Troy Hunt</description>
+    </item>
+    <item>
+      <title>Nano Banana Pro diff to webcomic</title>
+      <link>https://simonwillison.net/2026/Feb/17/release-notes-webcomic/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/17/release-notes-webcomic/#atom-everything</guid>
+      <pubDate>Tue, 17 Feb 2026 04:51:58 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Qwen3.5: Towards Native Multimodal Agents</title>
+      <link>https://simonwillison.net/2026/Feb/17/qwen35/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/17/qwen35/#atom-everything</guid>
+      <pubDate>Tue, 17 Feb 2026 04:30:57 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Two new Showboat tools: Chartroom and datasette-showboat</title>
       <link>https://simonwillison.net/2026/Feb/17/chartroom-and-datasette-showboat/#atom-everything</link>
@@ -258,18 +279,18 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>Deep Blue: Chess vs Programming</title>
-      <link>https://susam.net/deep-blue.html</link>
-      <guid isPermaLink="true">https://susam.net/deep-blue.html</guid>
-      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Susam Pal</description>
-    </item>
-    <item>
       <title>Separating Download from Install in Docker Builds</title>
       <link>https://nesbitt.io/2026/02/15/separating-download-from-install-in-docker-builds.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/02/15/separating-download-from-install-in-docker-builds.html</guid>
       <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>Deep Blue: Chess vs Programming</title>
+      <link>https://susam.net/deep-blue.html</link>
+      <guid isPermaLink="true">https://susam.net/deep-blue.html</guid>
+      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Susam Pal</description>
     </item>
     <item>
       <title>Quoting Boris Cherny</title>
@@ -370,18 +391,18 @@
       <description>matklad</description>
     </item>
     <item>
-      <title>Soju User Delete Hash</title>
-      <link>https://susam.net/soju-user-delete-hash.html</link>
-      <guid isPermaLink="true">https://susam.net/soju-user-delete-hash.html</guid>
-      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Susam Pal</description>
-    </item>
-    <item>
       <title>Package Management Namespaces</title>
       <link>https://nesbitt.io/2026/02/14/package-management-namespaces.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/02/14/package-management-namespaces.html</guid>
       <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>Soju User Delete Hash</title>
+      <link>https://susam.net/soju-user-delete-hash.html</link>
+      <guid isPermaLink="true">https://susam.net/soju-user-delete-hash.html</guid>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Susam Pal</description>
     </item>
     <item>
       <title>How Michael Abrash doubled Quake framerate</title>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://xeiaso.net/blog/2026/markdownlang/</guid>
       <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
-    </item>
-    <item>
-      <title>Structured Context Engineering for File-Native Agentic Systems</title>
-      <link>https://simonwillison.net/2026/Feb/9/structured-context-engineering-for-file-native-agentic-systems/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/9/structured-context-engineering-for-file-native-agentic-systems/#atom-everything</guid>
-      <pubDate>Mon, 09 Feb 2026 23:56:51 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Wilks' Tolerance Intervals</title>
-      <link>https://entropicthoughts.com/wilks-tolerance-intervals</link>
-      <guid isPermaLink="true">https://entropicthoughts.com/wilks-tolerance-intervals</guid>
-      <pubDate>Mon, 09 Feb 2026 23:00:00 +0000</pubDate>
-      <description>Entropic Thoughts</description>
-    </item>
-    <item>
-      <title>A Brief History of App Icons From Apple’s Creator Studio</title>
-      <link>https://blog.jim-nielsen.com/2026/history-of-creator-studio-icons/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/history-of-creator-studio-icons/</guid>
-      <pubDate>Mon, 09 Feb 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
     </item>
   </channel>
 </rss>
