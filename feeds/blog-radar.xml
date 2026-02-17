@@ -4,7 +4,56 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 17 Feb 2026 13:20:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 19:07:10 +0000</lastBuildDate>
+    <item>
+      <title>★ Apple Releases iOS 26 Adoption Rates, and They’re Pretty Much in Line With the Last Few Years</title>
+      <link>https://daringfireball.net/2026/02/apple_releases_ios_26_adoption_rates</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/02/apple_releases_ios_26_adoption_rates</guid>
+      <pubDate>Tue, 17 Feb 2026 18:49:55 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>How to Force Restart an iPhone</title>
+      <link>https://support.apple.com/guide/iphone/force-restart-iphone-iph8903c3ee6/ios</link>
+      <guid isPermaLink="true">https://support.apple.com/guide/iphone/force-restart-iphone-iph8903c3ee6/ios</guid>
+      <pubDate>Tue, 17 Feb 2026 17:20:01 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>I swear the UFO is coming any minute</title>
+      <link>https://www.experimental-history.com/p/i-swear-the-ufo-is-coming-any-minute</link>
+      <guid isPermaLink="true">https://www.experimental-history.com/p/i-swear-the-ufo-is-coming-any-minute</guid>
+      <pubDate>Tue, 17 Feb 2026 16:15:11 +0000</pubDate>
+      <description>Experimental History</description>
+    </item>
+    <item>
+      <title>Microspeak: Escrow</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260217-00/?p=112067</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260217-00/?p=112067</guid>
+      <pubDate>Tue, 17 Feb 2026 15:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>Quoting ROUGH DRAFT 8/2/66</title>
+      <link>https://simonwillison.net/2026/Feb/17/rough-draft-8266/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/17/rough-draft-8266/#atom-everything</guid>
+      <pubDate>Tue, 17 Feb 2026 14:49:04 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>First kākāpō chick in four years hatches on Valentine's Day</title>
+      <link>https://simonwillison.net/2026/Feb/17/first-kakapo-chick-in-four-years/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/17/first-kakapo-chick-in-four-years/#atom-everything</guid>
+      <pubDate>Tue, 17 Feb 2026 14:09:43 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Quoting Dimitris Papailiopoulos</title>
+      <link>https://simonwillison.net/2026/Feb/17/dimitris-papailiopoulos/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/17/dimitris-papailiopoulos/#atom-everything</guid>
+      <pubDate>Tue, 17 Feb 2026 14:04:44 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Gadget Review: Epomaker Split 70 Mechanical Keyboard ★★★★⯪</title>
       <link>https://shkspr.mobi/blog/2026/02/gadget-review-epomaker-split-70-mechanical-keyboard/</link>
@@ -116,6 +165,13 @@
       <guid isPermaLink="true">https://berthub.eu/articles/posts/betere-kamerdocumenten-en-innovatie/</guid>
       <pubDate>Mon, 16 Feb 2026 16:00:00 +0000</pubDate>
       <description>Bert Hubert's writings</description>
+    </item>
+    <item>
+      <title>It rather involved being on the other side of the airtight hatchway: Tricking(?) a program into reading files</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260216-00/?p=112065</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260216-00/?p=112065</guid>
+      <pubDate>Mon, 16 Feb 2026 15:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>1998 Ebook!</title>
@@ -307,18 +363,18 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>Separating Download from Install in Docker Builds</title>
-      <link>https://nesbitt.io/2026/02/15/separating-download-from-install-in-docker-builds.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/02/15/separating-download-from-install-in-docker-builds.html</guid>
-      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
       <title>Deep Blue: Chess vs Programming</title>
       <link>https://susam.net/deep-blue.html</link>
       <guid isPermaLink="true">https://susam.net/deep-blue.html</guid>
       <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
       <description>Susam Pal</description>
+    </item>
+    <item>
+      <title>Separating Download from Install in Docker Builds</title>
+      <link>https://nesbitt.io/2026/02/15/separating-download-from-install-in-docker-builds.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/02/15/separating-download-from-install-in-docker-builds.html</guid>
+      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
     </item>
     <item>
       <title>Quoting Boris Cherny</title>
@@ -419,18 +475,18 @@
       <description>matklad</description>
     </item>
     <item>
-      <title>Package Management Namespaces</title>
-      <link>https://nesbitt.io/2026/02/14/package-management-namespaces.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/02/14/package-management-namespaces.html</guid>
-      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
       <title>Soju User Delete Hash</title>
       <link>https://susam.net/soju-user-delete-hash.html</link>
       <guid isPermaLink="true">https://susam.net/soju-user-delete-hash.html</guid>
       <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
       <description>Susam Pal</description>
+    </item>
+    <item>
+      <title>Package Management Namespaces</title>
+      <link>https://nesbitt.io/2026/02/14/package-management-namespaces.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/02/14/package-management-namespaces.html</guid>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
     </item>
     <item>
       <title>How Michael Abrash doubled Quake framerate</title>
@@ -741,6 +797,13 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
+      <title>Kimwolf Botnet Swamps Anonymity Network I2P</title>
+      <link>https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/</link>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/</guid>
+      <pubDate>Wed, 11 Feb 2026 16:08:11 +0000</pubDate>
+      <description>Krebs on Security</description>
+    </item>
+    <item>
       <title>How do I suppress the hover effects when I put a Win32 common controls ListView in single-click mode?</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260211-00/?p=112057</link>
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260211-00/?p=112057</guid>
@@ -780,69 +843,6 @@
       <link>https://nesbitt.io/2026/02/11/package-management-consulting.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/02/11/package-management-consulting.html</guid>
       <pubDate>Wed, 11 Feb 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Communities are not fungible</title>
-      <link>https://www.joanwestenberg.com/communities-are-not-fungible/</link>
-      <guid isPermaLink="true">https://www.joanwestenberg.com/communities-are-not-fungible/</guid>
-      <pubDate>Wed, 11 Feb 2026 04:18:45 +0000</pubDate>
-      <description>Westenberg.</description>
-    </item>
-    <item>
-      <title>On screwing up</title>
-      <link>https://seangoedecke.com/screwing-up/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/screwing-up/</guid>
-      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>Matrix ain't it chief</title>
-      <link>https://xeiaso.net/notes/2026/dont-use-matrix/</link>
-      <guid isPermaLink="true">https://xeiaso.net/notes/2026/dont-use-matrix/</guid>
-      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
-      <title>Programming Aphorisms</title>
-      <link>https://matklad.github.io/2026/02/11/programming-aphorisms.html</link>
-      <guid isPermaLink="true">https://matklad.github.io/2026/02/11/programming-aphorisms.html</guid>
-      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
-      <description>matklad</description>
-    </item>
-    <item>
-      <title>Introducing Showboat and Rodney, so agents can demo what they’ve built</title>
-      <link>https://simonwillison.net/2026/Feb/10/showboat-and-rodney/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/10/showboat-and-rodney/#atom-everything</guid>
-      <pubDate>Tue, 10 Feb 2026 17:45:29 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>How did Windows 95 get permission to put the Weezer video Buddy Holly on the CD?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260210-00/?p=112052</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260210-00/?p=112052</guid>
-      <pubDate>Tue, 10 Feb 2026 15:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Revisionist History – Aliens, Secrets and Conspiracies</title>
-      <link>https://steveblank.com/2026/02/10/revisionist-history-aliens-secrets-and-conspiracies/</link>
-      <guid isPermaLink="true">https://steveblank.com/2026/02/10/revisionist-history-aliens-secrets-and-conspiracies/</guid>
-      <pubDate>Tue, 10 Feb 2026 14:00:42 +0000</pubDate>
-      <description>Steve Blank</description>
-    </item>
-    <item>
-      <title>Book Review: Ashes To Admin - Tales from the Caseload of a Council Funeral Officer by Evie King ★★★★★</title>
-      <link>https://shkspr.mobi/blog/2026/02/book-review-ashes-to-admin-tales-from-the-caseload-of-a-council-funeral-officer-by-evie-king/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/02/book-review-ashes-to-admin-tales-from-the-caseload-of-a-council-funeral-officer-by-evie-king/</guid>
-      <pubDate>Tue, 10 Feb 2026 12:34:05 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Lockfiles Killed Vendoring</title>
-      <link>https://nesbitt.io/2026/02/10/lockfiles-killed-vendoring.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/02/10/lockfiles-killed-vendoring.html</guid>
-      <pubDate>Tue, 10 Feb 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
     </item>
   </channel>
