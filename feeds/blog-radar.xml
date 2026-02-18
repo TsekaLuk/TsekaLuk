@@ -4,7 +4,42 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 17 Feb 2026 19:07:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 02:48:40 +0000</lastBuildDate>
+    <item>
+      <title>The case for gatekeeping, or: why medieval guilds had it figured out</title>
+      <link>https://www.joanwestenberg.com/the-case-for-gatekeeping-or-why-medieval-guilds-had-it-figured-out/</link>
+      <guid isPermaLink="true">https://www.joanwestenberg.com/the-case-for-gatekeeping-or-why-medieval-guilds-had-it-figured-out/</guid>
+      <pubDate>Wed, 18 Feb 2026 02:21:09 +0000</pubDate>
+      <description>Westenberg.</description>
+    </item>
+    <item>
+      <title>Apple Invites Media to Special ‘Experience’ in New York, London, and Shanghai on March 4</title>
+      <link>https://www.macrumors.com/2026/02/16/apple-announces-special-event-in-new-york/</link>
+      <guid isPermaLink="true">https://www.macrumors.com/2026/02/16/apple-announces-special-event-in-new-york/</guid>
+      <pubDate>Wed, 18 Feb 2026 00:08:45 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Introducing Claude Sonnet 4.6</title>
+      <link>https://simonwillison.net/2026/Feb/17/claude-sonnet-46/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/17/claude-sonnet-46/#atom-everything</guid>
+      <pubDate>Tue, 17 Feb 2026 23:58:58 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Rodney v0.4.0</title>
+      <link>https://simonwillison.net/2026/Feb/17/rodney/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/17/rodney/#atom-everything</guid>
+      <pubDate>Tue, 17 Feb 2026 23:02:33 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>De digitale coalitieplannen: gaat het ook echt gebeuren?</title>
+      <link>https://berthub.eu/articles/posts/digitale-coalitieplannen/</link>
+      <guid isPermaLink="true">https://berthub.eu/articles/posts/digitale-coalitieplannen/</guid>
+      <pubDate>Tue, 17 Feb 2026 19:50:00 +0000</pubDate>
+      <description>Bert Hubert's writings</description>
+    </item>
     <item>
       <title>★ Apple Releases iOS 26 Adoption Rates, and They’re Pretty Much in Line With the Last Few Years</title>
       <link>https://daringfireball.net/2026/02/apple_releases_ios_26_adoption_rates</link>
@@ -116,6 +151,13 @@
       <guid isPermaLink="true">https://seangoedecke.com/generate-skills-afterwards/</guid>
       <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>The New Try Yarn Spinner</title>
+      <link>https://hey.paris/posts/new-try-yarn-spinner/</link>
+      <guid isPermaLink="true">https://hey.paris/posts/new-try-yarn-spinner/</guid>
+      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Dr Paris Buttfield-Addison</description>
     </item>
     <item>
       <title>Anthropic's 500 vulns are the tip of the iceberg</title>
@@ -363,18 +405,18 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>Deep Blue: Chess vs Programming</title>
-      <link>https://susam.net/deep-blue.html</link>
-      <guid isPermaLink="true">https://susam.net/deep-blue.html</guid>
-      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Susam Pal</description>
-    </item>
-    <item>
       <title>Separating Download from Install in Docker Builds</title>
       <link>https://nesbitt.io/2026/02/15/separating-download-from-install-in-docker-builds.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/02/15/separating-download-from-install-in-docker-builds.html</guid>
       <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>Deep Blue: Chess vs Programming</title>
+      <link>https://susam.net/deep-blue.html</link>
+      <guid isPermaLink="true">https://susam.net/deep-blue.html</guid>
+      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Susam Pal</description>
     </item>
     <item>
       <title>Quoting Boris Cherny</title>
@@ -475,18 +517,18 @@
       <description>matklad</description>
     </item>
     <item>
-      <title>Soju User Delete Hash</title>
-      <link>https://susam.net/soju-user-delete-hash.html</link>
-      <guid isPermaLink="true">https://susam.net/soju-user-delete-hash.html</guid>
-      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Susam Pal</description>
-    </item>
-    <item>
       <title>Package Management Namespaces</title>
       <link>https://nesbitt.io/2026/02/14/package-management-namespaces.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/02/14/package-management-namespaces.html</guid>
       <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>Soju User Delete Hash</title>
+      <link>https://susam.net/soju-user-delete-hash.html</link>
+      <guid isPermaLink="true">https://susam.net/soju-user-delete-hash.html</guid>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Susam Pal</description>
     </item>
     <item>
       <title>How Michael Abrash doubled Quake framerate</title>
@@ -741,6 +783,13 @@
       <description>Maurycy's Blog</description>
     </item>
     <item>
+      <title>From ZNC to Soju</title>
+      <link>https://susam.net/from-znc-to-soju.html</link>
+      <guid isPermaLink="true">https://susam.net/from-znc-to-soju.html</guid>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Susam Pal</description>
+    </item>
+    <item>
       <title>Coding agents as the new compilers</title>
       <link>https://anildash.com/2026/02/11/coding-agents-as-the-new-compilers/</link>
       <guid isPermaLink="true">https://anildash.com/2026/02/11/coding-agents-as-the-new-compilers/</guid>
@@ -790,60 +839,11 @@
       <description>Computer Things</description>
     </item>
     <item>
-      <title>cysqlite - a new sqlite driver</title>
-      <link>https://simonwillison.net/2026/Feb/11/cysqlite/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/11/cysqlite/#atom-everything</guid>
-      <pubDate>Wed, 11 Feb 2026 17:34:40 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Kimwolf Botnet Swamps Anonymity Network I2P</title>
-      <link>https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/</link>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/</guid>
-      <pubDate>Wed, 11 Feb 2026 16:08:11 +0000</pubDate>
-      <description>Krebs on Security</description>
-    </item>
-    <item>
       <title>How do I suppress the hover effects when I put a Win32 common controls ListView in single-click mode?</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260211-00/?p=112057</link>
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260211-00/?p=112057</guid>
       <pubDate>Wed, 11 Feb 2026 15:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Aligning one matrix with another</title>
-      <link>https://www.johndcook.com/blog/2026/02/11/orthogonal-procrustes/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/02/11/orthogonal-procrustes/</guid>
-      <pubDate>Wed, 11 Feb 2026 13:23:50 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Gadget Review: Epomaker TH87 ISO Mechanical Keyboard ★★★★⯪</title>
-      <link>https://shkspr.mobi/blog/2026/02/gadget-review-epomaker-th87-iso-mechanical-keyboard/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/02/gadget-review-epomaker-th87-iso-mechanical-keyboard/</guid>
-      <pubDate>Wed, 11 Feb 2026 12:34:46 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Last year, all my non-programmer friends built apps</title>
-      <link>https://idiallo.com/blog/my-non-programmer-friends-built-apps?src=feed</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/my-non-programmer-friends-built-apps?src=feed</guid>
-      <pubDate>Wed, 11 Feb 2026 12:00:00 +0000</pubDate>
-      <description>iDiallo.com</description>
-    </item>
-    <item>
-      <title>Pluralistic: Europe takes a big step towards a post-dollar world (11 Feb 2026)</title>
-      <link>https://pluralistic.net/2026/02/11/post-dollar-world/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/02/11/post-dollar-world/</guid>
-      <pubDate>Wed, 11 Feb 2026 10:09:05 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Package Management Consulting</title>
-      <link>https://nesbitt.io/2026/02/11/package-management-consulting.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/02/11/package-management-consulting.html</guid>
-      <pubDate>Wed, 11 Feb 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
     </item>
   </channel>
 </rss>
