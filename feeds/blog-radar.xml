@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 18 Feb 2026 02:48:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 07:11:02 +0000</lastBuildDate>
+    <item>
+      <title>Markdown’s Moment</title>
+      <link>https://feed.tedium.co/link/15204/17278321/markdown-growing-influence-cloudflare-ai</link>
+      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17278321/markdown-growing-influence-cloudflare-ai</guid>
+      <pubDate>Wed, 18 Feb 2026 04:01:53 +0000</pubDate>
+      <description>Tedium: The Dull Side of the Internet.</description>
+    </item>
     <item>
       <title>The case for gatekeeping, or: why medieval guilds had it figured out</title>
       <link>https://www.joanwestenberg.com/the-case-for-gatekeeping-or-why-medieval-guilds-had-it-figured-out/</link>
@@ -405,18 +412,18 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>Separating Download from Install in Docker Builds</title>
-      <link>https://nesbitt.io/2026/02/15/separating-download-from-install-in-docker-builds.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/02/15/separating-download-from-install-in-docker-builds.html</guid>
-      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
       <title>Deep Blue: Chess vs Programming</title>
       <link>https://susam.net/deep-blue.html</link>
       <guid isPermaLink="true">https://susam.net/deep-blue.html</guid>
       <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
       <description>Susam Pal</description>
+    </item>
+    <item>
+      <title>Separating Download from Install in Docker Builds</title>
+      <link>https://nesbitt.io/2026/02/15/separating-download-from-install-in-docker-builds.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/02/15/separating-download-from-install-in-docker-builds.html</guid>
+      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
     </item>
     <item>
       <title>Quoting Boris Cherny</title>
@@ -517,18 +524,18 @@
       <description>matklad</description>
     </item>
     <item>
-      <title>Package Management Namespaces</title>
-      <link>https://nesbitt.io/2026/02/14/package-management-namespaces.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/02/14/package-management-namespaces.html</guid>
-      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
       <title>Soju User Delete Hash</title>
       <link>https://susam.net/soju-user-delete-hash.html</link>
       <guid isPermaLink="true">https://susam.net/soju-user-delete-hash.html</guid>
       <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
       <description>Susam Pal</description>
+    </item>
+    <item>
+      <title>Package Management Namespaces</title>
+      <link>https://nesbitt.io/2026/02/14/package-management-namespaces.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/02/14/package-management-namespaces.html</guid>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
     </item>
     <item>
       <title>How Michael Abrash doubled Quake framerate</title>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://buttondown.com/hillelwayne/archive/proving-whats-possible/</guid>
       <pubDate>Wed, 11 Feb 2026 18:36:53 +0000</pubDate>
       <description>Computer Things</description>
-    </item>
-    <item>
-      <title>How do I suppress the hover effects when I put a Win32 common controls ListView in single-click mode?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260211-00/?p=112057</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260211-00/?p=112057</guid>
-      <pubDate>Wed, 11 Feb 2026 15:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
     </item>
   </channel>
 </rss>
