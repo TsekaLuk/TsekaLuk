@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 19 Feb 2026 07:10:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 13:23:32 +0000</lastBuildDate>
+    <item>
+      <title>Is the Future “AWS for Everything”?</title>
+      <link>https://www.construction-physics.com/p/is-the-future-aws-for-everything</link>
+      <guid isPermaLink="true">https://www.construction-physics.com/p/is-the-future-aws-for-everything</guid>
+      <pubDate>Thu, 19 Feb 2026 13:01:06 +0000</pubDate>
+      <description>Construction Physics</description>
+    </item>
     <item>
       <title>Experimenting with sponsorship for my blog and newsletter</title>
       <link>https://simonwillison.net/2026/Feb/19/sponsorship/#atom-everything</link>
@@ -32,6 +39,13 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Feb/19/ladybird/#atom-everything</guid>
       <pubDate>Thu, 19 Feb 2026 01:25:33 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Go Modules for Package Management Tooling</title>
+      <link>https://nesbitt.io/2026/02/19/go-modules-for-package-management-tooling.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/02/19/go-modules-for-package-management-tooling.html</guid>
+      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
     </item>
     <item>
       <title>Paul Ford: ‘The A.I. Disruption Has Arrived, and It Sure Is Fun’</title>
@@ -76,6 +90,20 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
+      <title>Stream of Consciousness Driven Development</title>
+      <link>https://buttondown.com/hillelwayne/archive/stream-of-consciousness-driven-development/</link>
+      <guid isPermaLink="true">https://buttondown.com/hillelwayne/archive/stream-of-consciousness-driven-development/</guid>
+      <pubDate>Wed, 18 Feb 2026 16:33:08 +0000</pubDate>
+      <description>Computer Things</description>
+    </item>
+    <item>
+      <title>AI is the Best Thing to Happen to Art</title>
+      <link>https://geohot.github.io//blog/jekyll/update/2026/02/19/ai-art.html</link>
+      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/02/19/ai-art.html</guid>
+      <pubDate>Wed, 18 Feb 2026 16:00:00 +0000</pubDate>
+      <description>the singularity is nearer</description>
+    </item>
+    <item>
       <title>Could Write­Process­Memory be made faster by avoiding the intermediate buffer?</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260218-00/?p=112069</link>
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260218-00/?p=112069</guid>
@@ -88,13 +116,6 @@
       <guid isPermaLink="true">https://steveblank.com/2026/02/18/you-only-think-they-work-for-you/</guid>
       <pubDate>Wed, 18 Feb 2026 14:00:39 +0000</pubDate>
       <description>Steve Blank</description>
-    </item>
-    <item>
-      <title>Book Review: All Systems Red - The Murderbot Diaries by Martha Wells ★★⯪☆☆</title>
-      <link>https://shkspr.mobi/blog/2026/02/book-review-all-systems-red-the-murderbot-diaries-by-martha-wells/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/02/book-review-all-systems-red-the-murderbot-diaries-by-martha-wells/</guid>
-      <pubDate>Wed, 18 Feb 2026 12:34:05 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Thinking Improves Thinking</title>
@@ -230,13 +251,6 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>Gadget Review: Epomaker Split 70 Mechanical Keyboard ★★★★⯪</title>
-      <link>https://shkspr.mobi/blog/2026/02/gadget-review-epomaker-split-70-mechanical-keyboard/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/02/gadget-review-epomaker-split-70-mechanical-keyboard/</guid>
-      <pubDate>Tue, 17 Feb 2026 12:34:09 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>Pluralistic: What's a "gig work minimum wage" (17 Feb 2026)</title>
       <link>https://pluralistic.net/2026/02/17/no-piecework/</link>
       <guid isPermaLink="true">https://pluralistic.net/2026/02/17/no-piecework/</guid>
@@ -361,13 +375,6 @@
       <guid isPermaLink="true">https://www.filfre.net/2026/02/1998-ebook/</guid>
       <pubDate>Mon, 16 Feb 2026 13:32:30 +0000</pubDate>
       <description>The Digital Antiquarian</description>
-    </item>
-    <item>
-      <title>Book Review: This Is How They Tell Me the World Ends - Nicole Perlroth ★⯪☆☆☆</title>
-      <link>https://shkspr.mobi/blog/2026/02/book-review-this-is-how-they-tell-me-the-world-ends-nicole-perlroth/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/02/book-review-this-is-how-they-tell-me-the-world-ends-nicole-perlroth/</guid>
-      <pubDate>Mon, 16 Feb 2026 12:34:55 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>I Sold Out for $20 a Month and All I Got Was This Perfectly Generated Terraform</title>
@@ -503,13 +510,6 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>Social Media Payments and Perverse Incentives</title>
-      <link>https://shkspr.mobi/blog/2026/02/social-media-payments-and-perverse-incentives/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/02/social-media-payments-and-perverse-incentives/</guid>
-      <pubDate>Sun, 15 Feb 2026 12:34:23 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>How Generative and Agentic AI Shift Concern from Technical Debt to Cognitive Debt</title>
       <link>https://simonwillison.net/2026/Feb/15/cognitive-debt/#atom-everything</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Feb/15/cognitive-debt/#atom-everything</guid>
@@ -629,13 +629,6 @@
       <description>Jayden’s Blog</description>
     </item>
     <item>
-      <title>Book Review: 20 Goto 10 - 10101001 facts about retro computers by Steven Goodwin ★★★★☆</title>
-      <link>https://shkspr.mobi/blog/2026/02/book-review-20-goto-10-10101001-facts-about-retro-computers-by-steven-goodwin/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/02/book-review-20-goto-10-10101001-facts-about-retro-computers-by-steven-goodwin/</guid>
-      <pubDate>Sat, 14 Feb 2026 12:34:34 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>Quoting Thoughtworks</title>
       <link>https://simonwillison.net/2026/Feb/14/thoughtworks/#atom-everything</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Feb/14/thoughtworks/#atom-everything</guid>
@@ -741,13 +734,6 @@
       <description>matduggan.com</description>
     </item>
     <item>
-      <title>Gadget Review: Topdon TS004 Thermal Monocular ★★★★⯪</title>
-      <link>https://shkspr.mobi/blog/2026/02/gadget-review-topdon-ts004-thermal-monocular/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/02/gadget-review-topdon-ts004-thermal-monocular/</guid>
-      <pubDate>Fri, 13 Feb 2026 12:34:17 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>Factional Drift: How online discussion clusters into factions</title>
       <link>https://idiallo.com/blog/factional-drift-online?src=feed</link>
       <guid isPermaLink="true">https://idiallo.com/blog/factional-drift-online?src=feed</guid>
@@ -844,6 +830,20 @@
       <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/02/13/i-told-you-so.html</guid>
       <pubDate>Thu, 12 Feb 2026 16:00:00 +0000</pubDate>
       <description>the singularity is nearer</description>
+    </item>
+    <item>
+      <title>How can I distinguish between the numeric keypad 0 and the top-row 0 in the WM_KEY­DOWN message?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260212-00/?p=112059</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260212-00/?p=112059</guid>
+      <pubDate>Thu, 12 Feb 2026 15:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>Trends in US Construction Productivity</title>
+      <link>https://www.construction-physics.com/p/trends-in-us-construction-productivity</link>
+      <guid isPermaLink="true">https://www.construction-physics.com/p/trends-in-us-construction-productivity</guid>
+      <pubDate>Thu, 12 Feb 2026 13:03:20 +0000</pubDate>
+      <description>Construction Physics</description>
     </item>
   </channel>
 </rss>
