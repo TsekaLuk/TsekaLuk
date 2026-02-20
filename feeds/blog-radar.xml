@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 20 Feb 2026 02:42:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 07:05:59 +0000</lastBuildDate>
+    <item>
+      <title>Life Update: On medical leave</title>
+      <link>https://xeiaso.net/notes/2026/life-update-medical-leave/</link>
+      <guid isPermaLink="true">https://xeiaso.net/notes/2026/life-update-medical-leave/</guid>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
+    </item>
     <item>
       <title>IMAX and Apple Collaborate to Screen F1 Races Live in Theaters</title>
       <link>https://www.motorsport.com/f1/news/f1-to-screen-live-in-imax-theatres-in-2026-as-apple-tv-unveils-new-us-viewing-experience/10798974/</link>
@@ -67,13 +74,6 @@
       <guid isPermaLink="true">https://www.formula1.com/en/latest/article/official-grand-prix-start-times-for-2026-f1-season-confirmed.2UgPfArqH76tzlOYh21jSG</guid>
       <pubDate>Thu, 19 Feb 2026 04:41:38 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>How GNU Tar handles deleted things in incremental tar archives</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/GNUTarIncrementalDeletes</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/GNUTarIncrementalDeletes</guid>
-      <pubDate>Thu, 19 Feb 2026 04:10:50 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>LadybirdBrowser/ladybird: Abandon Swift adoption</title>
@@ -179,13 +179,6 @@
       <guid isPermaLink="true">https://keygen.sh/blog/value-extraction/</guid>
       <pubDate>Wed, 18 Feb 2026 06:00:00 +0000</pubDate>
       <description>Keygen Blog</description>
-    </item>
-    <item>
-      <title>Two challenges of incremental backups</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/tech/IncrementalBackupsTwoChallenges</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/tech/IncrementalBackupsTwoChallenges</guid>
-      <pubDate>Wed, 18 Feb 2026 04:25:12 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>Markdown’s Moment</title>
@@ -349,13 +342,6 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>Understanding the limitation of 'do in new frame/window' in GNU Emacs</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsNewWhateverLimitation</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsNewWhateverLimitation</guid>
-      <pubDate>Tue, 17 Feb 2026 03:09:55 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
       <title>Two new Showboat tools: Chartroom and datasette-showboat</title>
       <link>https://simonwillison.net/2026/Feb/17/chartroom-and-datasette-showboat/#atom-everything</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Feb/17/chartroom-and-datasette-showboat/#atom-everything</guid>
@@ -473,13 +459,6 @@
       <guid isPermaLink="true">https://pluralistic.net/2026/02/16/fast-good-cheap/</guid>
       <pubDate>Mon, 16 Feb 2026 08:22:26 +0000</pubDate>
       <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Sometimes giving syndication feed readers good errors is a mistake</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/web/FeedReaderErrorsProblemII</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/web/FeedReaderErrorsProblemII</guid>
-      <pubDate>Mon, 16 Feb 2026 03:56:00 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>Diagnostics Factory</title>
@@ -615,18 +594,18 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>The problem of delivering errors to syndication feed readers</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/web/FeedReaderErrorsProblem</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/web/FeedReaderErrorsProblem</guid>
-      <pubDate>Sun, 15 Feb 2026 04:30:32 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
       <title>The empire always falls</title>
       <link>https://www.joanwestenberg.com/the-empire-always-falls/</link>
       <guid isPermaLink="true">https://www.joanwestenberg.com/the-empire-always-falls/</guid>
       <pubDate>Sun, 15 Feb 2026 04:06:02 +0000</pubDate>
       <description>Westenberg.</description>
+    </item>
+    <item>
+      <title>Your feed reader is fetching from a limited network area</title>
+      <link>https://utcc.utoronto.ca/~cks/cspace-gen-http429.html</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/cspace-gen-http429.html</guid>
+      <pubDate>Sun, 15 Feb 2026 03:54:10 +0000</pubDate>
+      <description>Wandering Thoughts: Your feed reader is fetching from a limited network area</description>
     </item>
     <item>
       <title>Two different tricks for fast LLM inference</title>
@@ -636,18 +615,18 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>Separating Download from Install in Docker Builds</title>
-      <link>https://nesbitt.io/2026/02/15/separating-download-from-install-in-docker-builds.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/02/15/separating-download-from-install-in-docker-builds.html</guid>
-      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
       <title>Deep Blue: Chess vs Programming</title>
       <link>https://susam.net/deep-blue.html</link>
       <guid isPermaLink="true">https://susam.net/deep-blue.html</guid>
       <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
       <description>Susam Pal</description>
+    </item>
+    <item>
+      <title>Separating Download from Install in Docker Builds</title>
+      <link>https://nesbitt.io/2026/02/15/separating-download-from-install-in-docker-builds.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/02/15/separating-download-from-install-in-docker-builds.html</guid>
+      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
     </item>
     <item>
       <title>Quoting Boris Cherny</title>
@@ -734,13 +713,6 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>The (very) old "repaint mode" GUI approach</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/tech/RepaintModeGUI</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/tech/RepaintModeGUI</guid>
-      <pubDate>Sat, 14 Feb 2026 04:34:18 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
       <title>AI twitter's favourite lie: everyone wants to be a developer</title>
       <link>https://www.joanwestenberg.com/ai-twitters-favourite-lie-everyone-wants-to-be-a-developer/</link>
       <guid isPermaLink="true">https://www.joanwestenberg.com/ai-twitters-favourite-lie-everyone-wants-to-be-a-developer/</guid>
@@ -755,18 +727,18 @@
       <description>matklad</description>
     </item>
     <item>
-      <title>Package Management Namespaces</title>
-      <link>https://nesbitt.io/2026/02/14/package-management-namespaces.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/02/14/package-management-namespaces.html</guid>
-      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
       <title>Soju User Delete Hash</title>
       <link>https://susam.net/soju-user-delete-hash.html</link>
       <guid isPermaLink="true">https://susam.net/soju-user-delete-hash.html</guid>
       <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
       <description>Susam Pal</description>
+    </item>
+    <item>
+      <title>Package Management Namespaces</title>
+      <link>https://nesbitt.io/2026/02/14/package-management-namespaces.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/02/14/package-management-namespaces.html</guid>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
     </item>
     <item>
       <title>How Michael Abrash doubled Quake framerate</title>
@@ -844,6 +816,34 @@
       <guid isPermaLink="true">https://shkspr.mobi/blog/2026/02/gadget-review-topdon-ts004-thermal-monocular/</guid>
       <pubDate>Fri, 13 Feb 2026 12:34:17 +0000</pubDate>
       <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Factional Drift: How online discussion clusters into factions</title>
+      <link>https://idiallo.com/blog/factional-drift-online?src=feed</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/factional-drift-online?src=feed</guid>
+      <pubDate>Fri, 13 Feb 2026 12:00:00 +0000</pubDate>
+      <description>iDiallo.com</description>
+    </item>
+    <item>
+      <title>Pluralistic: Trump antitrust is dead (13 Feb 2026)</title>
+      <link>https://pluralistic.net/2026/02/13/khanservatives/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/02/13/khanservatives/</guid>
+      <pubDate>Fri, 13 Feb 2026 08:29:38 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Members only: "Won't Fix" self help</title>
+      <link>https://www.joanwestenberg.com/members-only-wont-fix-self-help/</link>
+      <guid isPermaLink="true">https://www.joanwestenberg.com/members-only-wont-fix-self-help/</guid>
+      <pubDate>Fri, 13 Feb 2026 08:18:24 +0000</pubDate>
+      <description>Westenberg.</description>
+    </item>
+    <item>
+      <title>Expressing a prime as the sum of two squares</title>
+      <link>https://www.johndcook.com/blog/2026/02/12/pythagorean-primes/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/02/12/pythagorean-primes/</guid>
+      <pubDate>Fri, 13 Feb 2026 02:34:58 +0000</pubDate>
+      <description>John D. Cook</description>
     </item>
   </channel>
 </rss>
