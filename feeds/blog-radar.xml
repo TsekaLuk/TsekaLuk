@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 21 Feb 2026 06:54:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Feb 2026 13:03:52 +0000</lastBuildDate>
+    <item>
+      <title>OpenBenches at FOSDEM</title>
+      <link>https://shkspr.mobi/blog/2026/02/openbenches-at-fosdem/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/02/openbenches-at-fosdem/</guid>
+      <pubDate>Sat, 21 Feb 2026 12:34:03 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
     <item>
       <title>Quoting Thibault Sottiaux</title>
       <link>https://simonwillison.net/2026/Feb/21/thibault-sottiaux/#atom-everything</link>
@@ -18,6 +25,20 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Feb/21/claws/#atom-everything</guid>
       <pubDate>Sat, 21 Feb 2026 00:37:45 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Wrapping Code Comments</title>
+      <link>https://matklad.github.io/2026/02/21/wrapping-code-comments.html</link>
+      <guid isPermaLink="true">https://matklad.github.io/2026/02/21/wrapping-code-comments.html</guid>
+      <pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
+      <description>matklad</description>
+    </item>
+    <item>
+      <title>Whale Fall</title>
+      <link>https://nesbitt.io/2026/02/21/whale-fall.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/02/21/whale-fall.html</guid>
+      <pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
     </item>
     <item>
       <title>Adding TILs, releases, museums, tools and research to my blog</title>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://www.joanwestenberg.com/ai-twitters-favourite-lie-everyone-wants-to-be-a-developer/</guid>
       <pubDate>Sat, 14 Feb 2026 01:13:26 +0000</pubDate>
       <description>Westenberg.</description>
-    </item>
-    <item>
-      <title>Justifying text-wrap: pretty</title>
-      <link>https://matklad.github.io/2026/02/14/justifying-text-wrap-pretty.html</link>
-      <guid isPermaLink="true">https://matklad.github.io/2026/02/14/justifying-text-wrap-pretty.html</guid>
-      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
-      <description>matklad</description>
-    </item>
-    <item>
-      <title>Soju User Delete Hash</title>
-      <link>https://susam.net/soju-user-delete-hash.html</link>
-      <guid isPermaLink="true">https://susam.net/soju-user-delete-hash.html</guid>
-      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Susam Pal</description>
-    </item>
-    <item>
-      <title>Package Management Namespaces</title>
-      <link>https://nesbitt.io/2026/02/14/package-management-namespaces.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/02/14/package-management-namespaces.html</guid>
-      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
     </item>
   </channel>
 </rss>
