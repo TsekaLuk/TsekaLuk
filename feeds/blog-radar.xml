@@ -4,7 +4,49 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 20 Feb 2026 18:58:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Feb 2026 02:36:13 +0000</lastBuildDate>
+    <item>
+      <title>Quoting Thibault Sottiaux</title>
+      <link>https://simonwillison.net/2026/Feb/21/thibault-sottiaux/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/21/thibault-sottiaux/#atom-everything</guid>
+      <pubDate>Sat, 21 Feb 2026 01:30:21 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Andrej Karpathy talks about "Claws"</title>
+      <link>https://simonwillison.net/2026/Feb/21/claws/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/21/claws/#atom-everything</guid>
+      <pubDate>Sat, 21 Feb 2026 00:37:45 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Adding TILs, releases, museums, tools and research to my blog</title>
+      <link>https://simonwillison.net/2026/Feb/20/beats/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/20/beats/#atom-everything</guid>
+      <pubDate>Fri, 20 Feb 2026 23:47:10 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>The unbearable weight of cruft</title>
+      <link>https://www.joanwestenberg.com/the-unbearable-weight-of-cruft/</link>
+      <guid isPermaLink="true">https://www.joanwestenberg.com/the-unbearable-weight-of-cruft/</guid>
+      <pubDate>Fri, 20 Feb 2026 22:54:49 +0000</pubDate>
+      <description>Westenberg.</description>
+    </item>
+    <item>
+      <title>Taalas serves Llama 3.1 8B at 17,000 tokens/second</title>
+      <link>https://simonwillison.net/2026/Feb/20/taalas/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/20/taalas/#atom-everything</guid>
+      <pubDate>Fri, 20 Feb 2026 22:10:04 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA</title>
+      <link>https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/</link>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/</guid>
+      <pubDate>Fri, 20 Feb 2026 20:00:30 +0000</pubDate>
+      <description>Krebs on Security</description>
+    </item>
     <item>
       <title>Premium: The Hater's Guide to Anthropic</title>
       <link>https://www.wheresyoured.at/premium-the-haters-guide-to-anthropic/</link>
@@ -55,18 +97,18 @@
       <description>Terence Eden’s Blog</description>
     </item>
     <item>
+      <title>Teleoperation is Always the Butt of the Joke</title>
+      <link>https://idiallo.com/blog/teleoperation-is-the-butt-of-the-joke?src=feed</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/teleoperation-is-the-butt-of-the-joke?src=feed</guid>
+      <pubDate>Fri, 20 Feb 2026 12:00:00 +0000</pubDate>
+      <description>iDiallo.com</description>
+    </item>
+    <item>
       <title>Quoting Thariq Shihipar</title>
       <link>https://simonwillison.net/2026/Feb/20/thariq-shihipar/#atom-everything</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Feb/20/thariq-shihipar/#atom-everything</guid>
       <pubDate>Fri, 20 Feb 2026 07:13:19 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Parsing hours and minutes into a useful time in basic Python</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/python/HoursMinutesToTime</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/python/HoursMinutesToTime</guid>
-      <pubDate>Fri, 20 Feb 2026 03:48:34 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>CloudPebble Returns! Plus New Pure JavaScript and Round 2 SDK</title>
@@ -158,13 +200,6 @@
       <guid isPermaLink="true">https://www.formula1.com/en/latest/article/official-grand-prix-start-times-for-2026-f1-season-confirmed.2UgPfArqH76tzlOYh21jSG</guid>
       <pubDate>Thu, 19 Feb 2026 04:41:38 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>How GNU Tar handles deleted things in incremental tar archives</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/GNUTarIncrementalDeletes</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/GNUTarIncrementalDeletes</guid>
-      <pubDate>Thu, 19 Feb 2026 04:10:50 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>LadybirdBrowser/ladybird: Abandon Swift adoption</title>
@@ -270,13 +305,6 @@
       <guid isPermaLink="true">https://keygen.sh/blog/value-extraction/</guid>
       <pubDate>Wed, 18 Feb 2026 06:00:00 +0000</pubDate>
       <description>Keygen Blog</description>
-    </item>
-    <item>
-      <title>Two challenges of incremental backups</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/tech/IncrementalBackupsTwoChallenges</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/tech/IncrementalBackupsTwoChallenges</guid>
-      <pubDate>Wed, 18 Feb 2026 04:25:12 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>Markdown’s Moment</title>
@@ -440,13 +468,6 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>Understanding the limitation of 'do in new frame/window' in GNU Emacs</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsNewWhateverLimitation</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsNewWhateverLimitation</guid>
-      <pubDate>Tue, 17 Feb 2026 03:09:55 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
       <title>Two new Showboat tools: Chartroom and datasette-showboat</title>
       <link>https://simonwillison.net/2026/Feb/17/chartroom-and-datasette-showboat/#atom-everything</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Feb/17/chartroom-and-datasette-showboat/#atom-everything</guid>
@@ -564,13 +585,6 @@
       <guid isPermaLink="true">https://pluralistic.net/2026/02/16/fast-good-cheap/</guid>
       <pubDate>Mon, 16 Feb 2026 08:22:26 +0000</pubDate>
       <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Sometimes giving syndication feed readers good errors is a mistake</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/web/FeedReaderErrorsProblemII</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/web/FeedReaderErrorsProblemII</guid>
-      <pubDate>Mon, 16 Feb 2026 03:56:00 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>Diagnostics Factory</title>
@@ -699,25 +713,18 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>Launching Interop 2026</title>
-      <link>https://simonwillison.net/2026/Feb/15/interop-2026/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/15/interop-2026/#atom-everything</guid>
-      <pubDate>Sun, 15 Feb 2026 04:33:22 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>The problem of delivering errors to syndication feed readers</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/web/FeedReaderErrorsProblem</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/web/FeedReaderErrorsProblem</guid>
-      <pubDate>Sun, 15 Feb 2026 04:30:32 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
       <title>The empire always falls</title>
       <link>https://www.joanwestenberg.com/the-empire-always-falls/</link>
       <guid isPermaLink="true">https://www.joanwestenberg.com/the-empire-always-falls/</guid>
       <pubDate>Sun, 15 Feb 2026 04:06:02 +0000</pubDate>
       <description>Westenberg.</description>
+    </item>
+    <item>
+      <title>Your feed reader is fetching from a limited network area</title>
+      <link>https://utcc.utoronto.ca/~cks/cspace-gen-http429.html</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/cspace-gen-http429.html</guid>
+      <pubDate>Sun, 15 Feb 2026 03:54:10 +0000</pubDate>
+      <description>Wandering Thoughts: Your feed reader is fetching from a limited network area</description>
     </item>
     <item>
       <title>Two different tricks for fast LLM inference</title>
@@ -739,13 +746,6 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/02/15/separating-download-from-install-in-docker-builds.html</guid>
       <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Quoting Boris Cherny</title>
-      <link>https://simonwillison.net/2026/Feb/14/boris/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/14/boris/#atom-everything</guid>
-      <pubDate>Sat, 14 Feb 2026 23:59:09 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
     <item>
       <title>Wagon’s algorithm in Python</title>
@@ -818,20 +818,6 @@
       <description>Terence Eden’s Blog</description>
     </item>
     <item>
-      <title>Quoting Thoughtworks</title>
-      <link>https://simonwillison.net/2026/Feb/14/thoughtworks/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/14/thoughtworks/#atom-everything</guid>
-      <pubDate>Sat, 14 Feb 2026 04:54:41 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>The (very) old "repaint mode" GUI approach</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/tech/RepaintModeGUI</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/tech/RepaintModeGUI</guid>
-      <pubDate>Sat, 14 Feb 2026 04:34:18 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
       <title>AI twitter's favourite lie: everyone wants to be a developer</title>
       <link>https://www.joanwestenberg.com/ai-twitters-favourite-lie-everyone-wants-to-be-a-developer/</link>
       <guid isPermaLink="true">https://www.joanwestenberg.com/ai-twitters-favourite-lie-everyone-wants-to-be-a-developer/</guid>
@@ -844,6 +830,20 @@
       <guid isPermaLink="true">https://matklad.github.io/2026/02/14/justifying-text-wrap-pretty.html</guid>
       <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
       <description>matklad</description>
+    </item>
+    <item>
+      <title>Soju User Delete Hash</title>
+      <link>https://susam.net/soju-user-delete-hash.html</link>
+      <guid isPermaLink="true">https://susam.net/soju-user-delete-hash.html</guid>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Susam Pal</description>
+    </item>
+    <item>
+      <title>Package Management Namespaces</title>
+      <link>https://nesbitt.io/2026/02/14/package-management-namespaces.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/02/14/package-management-namespaces.html</guid>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
     </item>
   </channel>
 </rss>
