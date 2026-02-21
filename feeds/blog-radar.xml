@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 21 Feb 2026 13:03:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Feb 2026 18:46:47 +0000</lastBuildDate>
+    <item>
+      <title>Computing big, certified Fibonacci numbers</title>
+      <link>https://www.johndcook.com/blog/2026/02/21/big-certified-fibonacci/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/02/21/big-certified-fibonacci/</guid>
+      <pubDate>Sat, 21 Feb 2026 18:13:13 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Reading List 02/21/26</title>
+      <link>https://www.construction-physics.com/p/reading-list-022126</link>
+      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-022126</guid>
+      <pubDate>Sat, 21 Feb 2026 13:37:44 +0000</pubDate>
+      <description>Construction Physics</description>
+    </item>
     <item>
       <title>OpenBenches at FOSDEM</title>
       <link>https://shkspr.mobi/blog/2026/02/openbenches-at-fosdem/</link>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://jayd.ml/2026/02/14/godot-minesweeper.html</guid>
       <pubDate>Sat, 14 Feb 2026 13:00:00 +0000</pubDate>
       <description>Jayden’s Blog</description>
-    </item>
-    <item>
-      <title>Book Review: 20 Goto 10 - 10101001 facts about retro computers by Steven Goodwin ★★★★☆</title>
-      <link>https://shkspr.mobi/blog/2026/02/book-review-20-goto-10-10101001-facts-about-retro-computers-by-steven-goodwin/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/02/book-review-20-goto-10-10101001-facts-about-retro-computers-by-steven-goodwin/</guid>
-      <pubDate>Sat, 14 Feb 2026 12:34:34 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>AI twitter's favourite lie: everyone wants to be a developer</title>
-      <link>https://www.joanwestenberg.com/ai-twitters-favourite-lie-everyone-wants-to-be-a-developer/</link>
-      <guid isPermaLink="true">https://www.joanwestenberg.com/ai-twitters-favourite-lie-everyone-wants-to-be-a-developer/</guid>
-      <pubDate>Sat, 14 Feb 2026 01:13:26 +0000</pubDate>
-      <description>Westenberg.</description>
     </item>
   </channel>
 </rss>
