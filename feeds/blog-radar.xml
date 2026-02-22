@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 21 Feb 2026 18:46:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Feb 2026 02:48:49 +0000</lastBuildDate>
+    <item>
+      <title>10,000,000th Fibonacci number</title>
+      <link>https://www.johndcook.com/blog/2026/02/21/f10000000/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/02/21/f10000000/</guid>
+      <pubDate>Sun, 22 Feb 2026 01:00:31 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Nvidia was only invited to invest</title>
+      <link>https://idiallo.com/byte-size/nvidia-was-only-invited-to-invest?src=feed</link>
+      <guid isPermaLink="true">https://idiallo.com/byte-size/nvidia-was-only-invited-to-invest?src=feed</guid>
+      <pubDate>Sat, 21 Feb 2026 23:35:48 +0000</pubDate>
+      <description>iDiallo.com</description>
+    </item>
     <item>
       <title>Computing big, certified Fibonacci numbers</title>
       <link>https://www.johndcook.com/blog/2026/02/21/big-certified-fibonacci/</link>
@@ -46,6 +60,13 @@
       <guid isPermaLink="true">https://matklad.github.io/2026/02/21/wrapping-code-comments.html</guid>
       <pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
       <description>matklad</description>
+    </item>
+    <item>
+      <title>Track Zelda release anniversaries in your calendar</title>
+      <link>https://evanhahn.com/zelda-anniversary-calendar/</link>
+      <guid isPermaLink="true">https://evanhahn.com/zelda-anniversary-calendar/</guid>
+      <pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Evan Hahn (dot com)</description>
     </item>
     <item>
       <title>Whale Fall</title>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/02/15/tiny-corp-product.html</guid>
       <pubDate>Sat, 14 Feb 2026 16:00:00 +0000</pubDate>
       <description>the singularity is nearer</description>
-    </item>
-    <item>
-      <title>Microsoft Game Pass Ultimate Billing Fraud</title>
-      <link>https://jayd.ml/2026/02/14/microsoft-game-pass-fraud.html</link>
-      <guid isPermaLink="true">https://jayd.ml/2026/02/14/microsoft-game-pass-fraud.html</guid>
-      <pubDate>Sat, 14 Feb 2026 14:38:00 +0000</pubDate>
-      <description>Jayden’s Blog</description>
-    </item>
-    <item>
-      <title>Reading list 02/14/26</title>
-      <link>https://www.construction-physics.com/p/reading-list-021426</link>
-      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-021426</guid>
-      <pubDate>Sat, 14 Feb 2026 13:01:32 +0000</pubDate>
-      <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>Windows 2000 Minesweeper recreated in Godot 4.1</title>
-      <link>https://jayd.ml/2026/02/14/godot-minesweeper.html</link>
-      <guid isPermaLink="true">https://jayd.ml/2026/02/14/godot-minesweeper.html</guid>
-      <pubDate>Sat, 14 Feb 2026 13:00:00 +0000</pubDate>
-      <description>Jayden’s Blog</description>
     </item>
   </channel>
 </rss>
