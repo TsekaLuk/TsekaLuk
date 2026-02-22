@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 22 Feb 2026 13:05:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Feb 2026 18:46:52 +0000</lastBuildDate>
+    <item>
+      <title>Exahash, Zettahash, Yottahash</title>
+      <link>https://www.johndcook.com/blog/2026/02/22/zettahash/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/02/22/zettahash/</guid>
+      <pubDate>Sun, 22 Feb 2026 18:30:40 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>How I think about Codex</title>
+      <link>https://simonwillison.net/2026/Feb/22/how-i-think-about-codex/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/22/how-i-think-about-codex/#atom-everything</guid>
+      <pubDate>Sun, 22 Feb 2026 15:53:43 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>How close are we to a vision for 2010?</title>
       <link>https://shkspr.mobi/blog/2026/02/how-close-are-we-to-a-vision-for-2010/</link>
@@ -783,13 +797,6 @@
       <description>Terence Eden’s Blog</description>
     </item>
     <item>
-      <title>How Generative and Agentic AI Shift Concern from Technical Debt to Cognitive Debt</title>
-      <link>https://simonwillison.net/2026/Feb/15/cognitive-debt/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/15/cognitive-debt/#atom-everything</guid>
-      <pubDate>Sun, 15 Feb 2026 05:20:11 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
       <title>The empire always falls</title>
       <link>https://www.joanwestenberg.com/the-empire-always-falls/</link>
       <guid isPermaLink="true">https://www.joanwestenberg.com/the-empire-always-falls/</guid>
@@ -811,18 +818,18 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>Deep Blue: Chess vs Programming</title>
-      <link>https://susam.net/deep-blue.html</link>
-      <guid isPermaLink="true">https://susam.net/deep-blue.html</guid>
-      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Susam Pal</description>
-    </item>
-    <item>
       <title>Separating Download from Install in Docker Builds</title>
       <link>https://nesbitt.io/2026/02/15/separating-download-from-install-in-docker-builds.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/02/15/separating-download-from-install-in-docker-builds.html</guid>
       <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>Deep Blue: Chess vs Programming</title>
+      <link>https://susam.net/deep-blue.html</link>
+      <guid isPermaLink="true">https://susam.net/deep-blue.html</guid>
+      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Susam Pal</description>
     </item>
     <item>
       <title>Wagon’s algorithm in Python</title>
@@ -836,13 +843,6 @@
       <link>https://www.johndcook.com/blog/2026/02/14/square-root-minus-1-mod-p/</link>
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/02/14/square-root-minus-1-mod-p/</guid>
       <pubDate>Sat, 14 Feb 2026 22:07:05 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Finding a non-square mod p</title>
-      <link>https://www.johndcook.com/blog/2026/02/14/finding-a-non-square/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/02/14/finding-a-non-square/</guid>
-      <pubDate>Sat, 14 Feb 2026 21:35:54 +0000</pubDate>
       <description>John D. Cook</description>
     </item>
   </channel>
