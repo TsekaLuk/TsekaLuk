@@ -4,7 +4,63 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 23 Feb 2026 07:15:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 13:21:53 +0000</lastBuildDate>
+    <item>
+      <title>Reply guy</title>
+      <link>https://simonwillison.net/2026/Feb/23/reply-guy/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/23/reply-guy/#atom-everything</guid>
+      <pubDate>Mon, 23 Feb 2026 13:11:57 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Quoting Summer Yue</title>
+      <link>https://simonwillison.net/2026/Feb/23/summer-yue/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/23/summer-yue/#atom-everything</guid>
+      <pubDate>Mon, 23 Feb 2026 13:01:13 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Tritone substitution</title>
+      <link>https://www.johndcook.com/blog/2026/02/23/tritone-sub/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/02/23/tritone-sub/</guid>
+      <pubDate>Mon, 23 Feb 2026 12:50:12 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Book Review: A Geography of Time by Robert V. Levine ★★★☆☆</title>
+      <link>https://shkspr.mobi/blog/2026/02/book-review-a-geography-of-time-by-robert-v-levine/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/02/book-review-a-geography-of-time-by-robert-v-levine/</guid>
+      <pubDate>Mon, 23 Feb 2026 12:34:07 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>The Little Red Dot</title>
+      <link>https://idiallo.com/blog/little-red-dot?src=feed</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/little-red-dot?src=feed</guid>
+      <pubDate>Mon, 23 Feb 2026 12:00:00 +0000</pubDate>
+      <description>iDiallo.com</description>
+    </item>
+    <item>
+      <title>Everyone in AI is building the wrong thing for the same reason</title>
+      <link>https://www.joanwestenberg.com/everyone-in-ai-is-building-the-wrong-thing-for-the-same-reason/</link>
+      <guid isPermaLink="true">https://www.joanwestenberg.com/everyone-in-ai-is-building-the-wrong-thing-for-the-same-reason/</guid>
+      <pubDate>Mon, 23 Feb 2026 11:09:55 +0000</pubDate>
+      <description>Westenberg.</description>
+    </item>
+    <item>
+      <title>Pluralistic: Deplatform yourself (23 Feb 2026)</title>
+      <link>https://pluralistic.net/2026/02/23/goodharts-lawbreaker/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/02/23/goodharts-lawbreaker/</guid>
+      <pubDate>Mon, 23 Feb 2026 10:52:48 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Where Do Specifications Fit in the Dependency Tree?</title>
+      <link>https://nesbitt.io/2026/02/23/where-do-specifications-fit-in-the-dependency-tree.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/02/23/where-do-specifications-fit-in-the-dependency-tree.html</guid>
+      <pubDate>Mon, 23 Feb 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
     <item>
       <title>Red/green TDD</title>
       <link>https://simonwillison.net/guides/agentic-engineering-patterns/red-green-tdd/#atom-everything</link>
@@ -783,67 +839,11 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Em dash</title>
-      <link>https://simonwillison.net/2026/Feb/15/em-dashes/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/15/em-dashes/#atom-everything</guid>
-      <pubDate>Sun, 15 Feb 2026 21:40:46 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Deep Blue</title>
-      <link>https://simonwillison.net/2026/Feb/15/deep-blue/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/15/deep-blue/#atom-everything</guid>
-      <pubDate>Sun, 15 Feb 2026 21:06:44 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
       <title>Race between primes of the forms 4k + 1 and 4k + 3</title>
       <link>https://www.johndcook.com/blog/2026/02/15/chebyshev-bias/</link>
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/02/15/chebyshev-bias/</guid>
       <pubDate>Sun, 15 Feb 2026 19:19:08 +0000</pubDate>
       <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Hideki Sato has died</title>
-      <link>https://oldvcr.blogspot.com/2026/02/hideki-sato-has-died.html</link>
-      <guid isPermaLink="true">https://oldvcr.blogspot.com/2026/02/hideki-sato-has-died.html</guid>
-      <pubDate>Sun, 15 Feb 2026 16:57:00 +0000</pubDate>
-      <description>Old Vintage Computing Research</description>
-    </item>
-    <item>
-      <title>Cost of Housing</title>
-      <link>https://geohot.github.io//blog/jekyll/update/2026/02/16/cost-of-housing.html</link>
-      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/02/16/cost-of-housing.html</guid>
-      <pubDate>Sun, 15 Feb 2026 16:00:00 +0000</pubDate>
-      <description>the singularity is nearer</description>
-    </item>
-    <item>
-      <title>My Courses Site is Moving to a New Home</title>
-      <link>https://blog.miguelgrinberg.com/post/my-courses-site-is-moving-to-a-new-home</link>
-      <guid isPermaLink="true">https://blog.miguelgrinberg.com/post/my-courses-site-is-moving-to-a-new-home</guid>
-      <pubDate>Sun, 15 Feb 2026 15:15:29 +0000</pubDate>
-      <description>Miguel Grinberg's Blog</description>
-    </item>
-    <item>
-      <title>Social Media Payments and Perverse Incentives</title>
-      <link>https://shkspr.mobi/blog/2026/02/social-media-payments-and-perverse-incentives/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/02/social-media-payments-and-perverse-incentives/</guid>
-      <pubDate>Sun, 15 Feb 2026 12:34:23 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>The empire always falls</title>
-      <link>https://www.joanwestenberg.com/the-empire-always-falls/</link>
-      <guid isPermaLink="true">https://www.joanwestenberg.com/the-empire-always-falls/</guid>
-      <pubDate>Sun, 15 Feb 2026 04:06:02 +0000</pubDate>
-      <description>Westenberg.</description>
-    </item>
-    <item>
-      <title>Your feed reader is fetching from a limited network area</title>
-      <link>https://utcc.utoronto.ca/~cks/cspace-gen-http429.html</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/cspace-gen-http429.html</guid>
-      <pubDate>Sun, 15 Feb 2026 03:54:10 +0000</pubDate>
-      <description>Wandering Thoughts: Your feed reader is fetching from a limited network area</description>
     </item>
   </channel>
 </rss>
