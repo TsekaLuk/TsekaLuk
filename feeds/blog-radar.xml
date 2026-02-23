@@ -4,7 +4,63 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 23 Feb 2026 13:21:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 19:15:31 +0000</lastBuildDate>
+    <item>
+      <title>Making Icon Sets Easy With Web Origami</title>
+      <link>https://blog.jim-nielsen.com/2026/origami-icons/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/origami-icons/</guid>
+      <pubDate>Mon, 23 Feb 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
+    </item>
+    <item>
+      <title>Ladybird adopts Rust, with help from AI</title>
+      <link>https://simonwillison.net/2026/Feb/23/ladybird-adopts-rust/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/23/ladybird-adopts-rust/#atom-everything</guid>
+      <pubDate>Mon, 23 Feb 2026 18:52:53 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Writing about Agentic Engineering Patterns</title>
+      <link>https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/#atom-everything</guid>
+      <pubDate>Mon, 23 Feb 2026 17:43:02 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>New Blog Post: Some Silly Z3 Scripts I Wrote</title>
+      <link>https://buttondown.com/hillelwayne/archive/new-blog-post-some-silly-z3-scripts-i-wrote/</link>
+      <guid isPermaLink="true">https://buttondown.com/hillelwayne/archive/new-blog-post-some-silly-z3-scripts-i-wrote/</guid>
+      <pubDate>Mon, 23 Feb 2026 16:49:10 +0000</pubDate>
+      <description>Computer Things</description>
+    </item>
+    <item>
+      <title>Writing code is cheap now</title>
+      <link>https://simonwillison.net/guides/agentic-engineering-patterns/code-is-cheap/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/guides/agentic-engineering-patterns/code-is-cheap/#atom-everything</guid>
+      <pubDate>Mon, 23 Feb 2026 16:20:42 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Quoting Paul Ford</title>
+      <link>https://simonwillison.net/2026/Feb/23/paul-ford/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/23/paul-ford/#atom-everything</guid>
+      <pubDate>Mon, 23 Feb 2026 16:00:32 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Customizing the ways the dialog manager dismisses itself: Detecting the ESC key, second (failed) attempt</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260223-00/?p=112080</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260223-00/?p=112080</guid>
+      <pubDate>Mon, 23 Feb 2026 15:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>Pockets of Humanity</title>
+      <link>https://herman.bearblog.dev/pockets-of-humanity/</link>
+      <guid isPermaLink="true">https://herman.bearblog.dev/pockets-of-humanity/</guid>
+      <pubDate>Mon, 23 Feb 2026 13:25:00 +0000</pubDate>
+      <description>Herman's blog</description>
+    </item>
     <item>
       <title>Reply guy</title>
       <link>https://simonwillison.net/2026/Feb/23/reply-guy/#atom-everything</link>
@@ -671,20 +727,6 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>Qwen3.5: Towards Native Multimodal Agents</title>
-      <link>https://simonwillison.net/2026/Feb/17/qwen35/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/17/qwen35/#atom-everything</guid>
-      <pubDate>Tue, 17 Feb 2026 04:30:57 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Two new Showboat tools: Chartroom and datasette-showboat</title>
-      <link>https://simonwillison.net/2026/Feb/17/chartroom-and-datasette-showboat/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/17/chartroom-and-datasette-showboat/#atom-everything</guid>
-      <pubDate>Tue, 17 Feb 2026 00:43:45 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
       <title>LLM-generated skills work, if you generate them afterwards</title>
       <link>https://seangoedecke.com/generate-skills-afterwards/</link>
       <guid isPermaLink="true">https://seangoedecke.com/generate-skills-afterwards/</guid>
@@ -732,13 +774,6 @@
       <guid isPermaLink="true">https://feed.tedium.co/link/15204/17277502/corporate-turnaround-code-names-history</guid>
       <pubDate>Mon, 16 Feb 2026 20:39:22 +0000</pubDate>
       <description>Tedium: The Dull Side of the Internet.</description>
-    </item>
-    <item>
-      <title>Rodney and Claude Code for Desktop</title>
-      <link>https://simonwillison.net/2026/Feb/16/rodney-claude-code/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/16/rodney-claude-code/#atom-everything</guid>
-      <pubDate>Mon, 16 Feb 2026 16:38:57 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
     <item>
       <title>Betere Kamerstukken, en hoe lastig innovatie is</title>
@@ -809,41 +844,6 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/02/16/changelog.html</guid>
       <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Type-based alias analysis in the Toy Optimizer</title>
-      <link>https://bernsteinbear.com/blog/toy-tbaa/?utm_source=rss</link>
-      <guid isPermaLink="true">https://bernsteinbear.com/blog/toy-tbaa/?utm_source=rss</guid>
-      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Max Bernstein's Blog</description>
-    </item>
-    <item>
-      <title>The AI Vampire</title>
-      <link>https://simonwillison.net/2026/Feb/15/the-ai-vampire/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/15/the-ai-vampire/#atom-everything</guid>
-      <pubDate>Sun, 15 Feb 2026 23:59:36 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>WorkOS Pipes</title>
-      <link>https://workos.com/docs/pipes?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q12026&amp;utm_content=no_rebuild</link>
-      <guid isPermaLink="true">https://workos.com/docs/pipes?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q12026&amp;utm_content=no_rebuild</guid>
-      <pubDate>Sun, 15 Feb 2026 23:39:14 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Joanna Stern Signs Off From The Wall Street Journal</title>
-      <link>https://www.wsj.com/tech/personal-tech/12-years-consumer-tech-phones-ev-ai-74107804?st=YtTDdM&amp;reflink=desktopwebshare_permalink</link>
-      <guid isPermaLink="true">https://www.wsj.com/tech/personal-tech/12-years-consumer-tech-phones-ev-ai-74107804?st=YtTDdM&amp;reflink=desktopwebshare_permalink</guid>
-      <pubDate>Sun, 15 Feb 2026 23:37:04 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Race between primes of the forms 4k + 1 and 4k + 3</title>
-      <link>https://www.johndcook.com/blog/2026/02/15/chebyshev-bias/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/02/15/chebyshev-bias/</guid>
-      <pubDate>Sun, 15 Feb 2026 19:19:08 +0000</pubDate>
-      <description>John D. Cook</description>
     </item>
   </channel>
 </rss>
