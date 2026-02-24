@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 24 Feb 2026 02:46:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 07:10:30 +0000</lastBuildDate>
     <item>
       <title>Copy and paste law</title>
       <link>https://www.johndcook.com/blog/2026/02/23/copy-and-paste-law/</link>
@@ -214,6 +214,13 @@
       <guid isPermaLink="true">https://seangoedecke.com/continuous-learning/</guid>
       <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Be careful with LLM "Agents"</title>
+      <link>https://maurycyz.com/misc/sandbox_llms/</link>
+      <guid isPermaLink="true">https://maurycyz.com/misc/sandbox_llms/</guid>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
     </item>
     <item>
       <title>Which web frameworks are most token-efficient for AI agents?</title>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://entropicthoughts.com/learning-keybee</guid>
       <pubDate>Mon, 16 Feb 2026 23:00:00 +0000</pubDate>
       <description>Entropic Thoughts</description>
-    </item>
-    <item>
-      <title>AI is destroying Open Source, and it's not even good yet</title>
-      <link>https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/</guid>
-      <pubDate>Mon, 16 Feb 2026 21:30:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
     </item>
   </channel>
 </rss>
