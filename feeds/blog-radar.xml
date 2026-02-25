@@ -4,7 +4,70 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 24 Feb 2026 19:12:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 02:47:14 +0000</lastBuildDate>
+    <item>
+      <title>Everything is awesome (why I'm an optimist)</title>
+      <link>https://www.joanwestenberg.com/everything-is-awesome-why-im-an-optimist/</link>
+      <guid isPermaLink="true">https://www.joanwestenberg.com/everything-is-awesome-why-im-an-optimist/</guid>
+      <pubDate>Wed, 25 Feb 2026 01:39:00 +0000</pubDate>
+      <description>Westenberg.</description>
+    </item>
+    <item>
+      <title>Linear walkthroughs</title>
+      <link>https://simonwillison.net/guides/agentic-engineering-patterns/linear-walkthroughs/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/guides/agentic-engineering-patterns/linear-walkthroughs/#atom-everything</guid>
+      <pubDate>Wed, 25 Feb 2026 01:07:10 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>[Sponsor] Hands-On Workshop: Fix It Faster — Crash Reporting, Tracing, and Logs for iOS in Sentry</title>
+      <link>https://sentry.io/resources/ios-workshop-jan-2026/?utm_source=daringfireball&amp;utm_medium=paid-display&amp;utm_campaign=general-fy27q1-evergreen&amp;utm_content=static-ad-mobilerss-trysentry</link>
+      <guid isPermaLink="true">https://sentry.io/resources/ios-workshop-jan-2026/?utm_source=daringfireball&amp;utm_medium=paid-display&amp;utm_campaign=general-fy27q1-evergreen&amp;utm_content=static-ad-mobilerss-trysentry</guid>
+      <pubDate>Wed, 25 Feb 2026 01:00:30 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>A curious trig identity</title>
+      <link>https://www.johndcook.com/blog/2026/02/24/a-curious-trig-identity/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/02/24/a-curious-trig-identity/</guid>
+      <pubDate>Tue, 24 Feb 2026 23:33:41 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Upgrade: ‘The Shifting Sands of Liquid Glass’</title>
+      <link>https://www.relay.fm/upgrade/604</link>
+      <guid isPermaLink="true">https://www.relay.fm/upgrade/604</guid>
+      <pubDate>Tue, 24 Feb 2026 23:29:21 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Apple in 2025: The Six Colors Report Card</title>
+      <link>https://sixcolors.com/post/2026/02/2025reportcard/</link>
+      <guid isPermaLink="true">https://sixcolors.com/post/2026/02/2025reportcard/</guid>
+      <pubDate>Tue, 24 Feb 2026 21:49:10 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Apple Will Begin Manufacturing Mac Minis in Houston Later This Year</title>
+      <link>https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/</link>
+      <guid isPermaLink="true">https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/</guid>
+      <pubDate>Tue, 24 Feb 2026 19:35:12 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>PageMaker Pioneer Paul Brainerd Dies at 78</title>
+      <link>https://www.geekwire.com/2026/pagemaker-pioneer-paul-brainerd-1947-2026-aldus-founder-devoted-his-second-chapter-to-the-planet/</link>
+      <guid isPermaLink="true">https://www.geekwire.com/2026/pagemaker-pioneer-paul-brainerd-1947-2026-aldus-founder-devoted-his-second-chapter-to-the-planet/</guid>
+      <pubDate>Tue, 24 Feb 2026 19:27:07 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>FTC Chairman Sends Letter to Apple Complaining That MAGA ‘News’ Sources Aren’t Represented in Apple News</title>
+      <link>https://www.macrumors.com/2026/02/12/tim-cook-faces-ftc-warning-apple-news/</link>
+      <guid isPermaLink="true">https://www.macrumors.com/2026/02/12/tim-cook-faces-ftc-warning-apple-news/</guid>
+      <pubDate>Tue, 24 Feb 2026 19:18:42 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>The Steve Jobs Archive: ‘Letters to a Young Creator’</title>
       <link>https://letters.stevejobsarchive.com/laurene-powell-jobs</link>
@@ -321,13 +384,6 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>Be careful with LLM "Agents"</title>
-      <link>https://maurycyz.com/misc/sandbox_llms/</link>
-      <guid isPermaLink="true">https://maurycyz.com/misc/sandbox_llms/</guid>
-      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
-    </item>
-    <item>
       <title>Insider amnesia</title>
       <link>https://seangoedecke.com/insider-amnesia/</link>
       <guid isPermaLink="true">https://seangoedecke.com/insider-amnesia/</guid>
@@ -340,6 +396,13 @@
       <guid isPermaLink="true">https://seangoedecke.com/continuous-learning/</guid>
       <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Be careful with LLM "Agents"</title>
+      <link>https://maurycyz.com/misc/sandbox_llms/</link>
+      <guid isPermaLink="true">https://maurycyz.com/misc/sandbox_llms/</guid>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
     </item>
     <item>
       <title>Which web frameworks are most token-efficient for AI agents?</title>
@@ -361,13 +424,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Feb/22/raspberry-pi-openclaw/#atom-everything</guid>
       <pubDate>Sun, 22 Feb 2026 23:54:39 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Sentry</title>
-      <link>https://sentry.io/resources/ios-workshop-jan-2026/?utm_source=daringfireball&amp;utm_medium=paid-display&amp;utm_campaign=general-fy27q1-evergreen&amp;utm_content=static-ad-mobilerss-trysentry</link>
-      <guid isPermaLink="true">https://sentry.io/resources/ios-workshop-jan-2026/?utm_source=daringfireball&amp;utm_medium=paid-display&amp;utm_campaign=general-fy27q1-evergreen&amp;utm_content=static-ad-mobilerss-trysentry</guid>
-      <pubDate>Sun, 22 Feb 2026 20:58:55 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
     <item>
       <title>Bitcoin mining difficulty</title>
@@ -788,62 +844,6 @@
       <guid isPermaLink="true">https://feed.tedium.co/link/15204/17278321/markdown-growing-influence-cloudflare-ai</guid>
       <pubDate>Wed, 18 Feb 2026 04:01:53 +0000</pubDate>
       <description>Tedium: The Dull Side of the Internet.</description>
-    </item>
-    <item>
-      <title>The case for gatekeeping, or: why medieval guilds had it figured out</title>
-      <link>https://www.joanwestenberg.com/the-case-for-gatekeeping-or-why-medieval-guilds-had-it-figured-out/</link>
-      <guid isPermaLink="true">https://www.joanwestenberg.com/the-case-for-gatekeeping-or-why-medieval-guilds-had-it-figured-out/</guid>
-      <pubDate>Wed, 18 Feb 2026 02:21:09 +0000</pubDate>
-      <description>Westenberg.</description>
-    </item>
-    <item>
-      <title>Apple Invites Media to Special ‘Experience’ in New York, London, and Shanghai on March 4</title>
-      <link>https://www.macrumors.com/2026/02/16/apple-announces-special-event-in-new-york/</link>
-      <guid isPermaLink="true">https://www.macrumors.com/2026/02/16/apple-announces-special-event-in-new-york/</guid>
-      <pubDate>Wed, 18 Feb 2026 00:08:45 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>February Pebble Production and Software Updates</title>
-      <link>https://repebble.com/blog/february-pebble-production-and-software-updates</link>
-      <guid isPermaLink="true">https://repebble.com/blog/february-pebble-production-and-software-updates</guid>
-      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Eric Migicovsky's Blog RSS Feed</description>
-    </item>
-    <item>
-      <title>Anubis v1.25.0: Necron</title>
-      <link>https://github.com/TecharoHQ/anubis/releases/tag/v1.25.0</link>
-      <guid isPermaLink="true">https://github.com/TecharoHQ/anubis/releases/tag/v1.25.0</guid>
-      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
-      <title>What Package Registries Could Borrow from OCI</title>
-      <link>https://nesbitt.io/2026/02/18/what-package-registries-could-borrow-from-oci.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/02/18/what-package-registries-could-borrow-from-oci.html</guid>
-      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>How did we end up threatening our kids’ lives with AI?</title>
-      <link>https://anildash.com/2026/02/18/threatening-kids-with-AI/</link>
-      <guid isPermaLink="true">https://anildash.com/2026/02/18/threatening-kids-with-AI/</guid>
-      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Anil Dash</description>
-    </item>
-    <item>
-      <title>Introducing Claude Sonnet 4.6</title>
-      <link>https://simonwillison.net/2026/Feb/17/claude-sonnet-46/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/17/claude-sonnet-46/#atom-everything</guid>
-      <pubDate>Tue, 17 Feb 2026 23:58:58 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Rodney v0.4.0</title>
-      <link>https://simonwillison.net/2026/Feb/17/rodney/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/17/rodney/#atom-everything</guid>
-      <pubDate>Tue, 17 Feb 2026 23:02:33 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
