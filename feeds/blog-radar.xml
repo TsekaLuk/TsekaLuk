@@ -4,7 +4,56 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 25 Feb 2026 13:22:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 19:15:15 +0000</lastBuildDate>
+    <item>
+      <title>Claude Code Remote Control</title>
+      <link>https://simonwillison.net/2026/Feb/25/claude-code-remote-control/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/25/claude-code-remote-control/#atom-everything</guid>
+      <pubDate>Wed, 25 Feb 2026 17:33:24 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>★ My 2025 Apple Report Card</title>
+      <link>https://daringfireball.net/2026/02/my_2025_apple_report_card</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/02/my_2025_apple_report_card</guid>
+      <pubDate>Wed, 25 Feb 2026 16:49:10 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>I vibe coded my dream macOS presentation app</title>
+      <link>https://simonwillison.net/2026/Feb/25/present/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/25/present/#atom-everything</guid>
+      <pubDate>Wed, 25 Feb 2026 16:46:19 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Major Candy Brands Are Switching From Actual Chocolate to ‘Chocolately Candy’ (Read: Brown Candle Wax)</title>
+      <link>https://www.jezebel.com/fake-milk-chocolate-replacements-brands-reeses-hershey-ferrero-compound-coating-candy-climate-change</link>
+      <guid isPermaLink="true">https://www.jezebel.com/fake-milk-chocolate-replacements-brands-reeses-hershey-ferrero-compound-coating-candy-climate-change</guid>
+      <pubDate>Wed, 25 Feb 2026 15:33:41 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Intercepting messages before Is­Dialog­Message can process them</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260225-00/?p=112087</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260225-00/?p=112087</guid>
+      <pubDate>Wed, 25 Feb 2026 15:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>I Am Nothing if Not a Man of Science</title>
+      <link>https://mastodon.social/@gruber/116131665730352697</link>
+      <guid isPermaLink="true">https://mastodon.social/@gruber/116131665730352697</guid>
+      <pubDate>Wed, 25 Feb 2026 14:19:34 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>They’re Vibe-Coding Spam Now</title>
+      <link>https://feed.tedium.co/link/15204/17283566/vibe-coded-email-spam</link>
+      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17283566/vibe-coded-email-spam</guid>
+      <pubDate>Wed, 25 Feb 2026 14:01:46 +0000</pubDate>
+      <description>Tedium: The Dull Side of the Internet.</description>
+    </item>
     <item>
       <title>Book Review: Of Monsters and Mainframes - Barbara Truelove ★★★⯪☆</title>
       <link>https://shkspr.mobi/blog/2026/02/book-review-of-monsters-and-mainframes-barbara-truelove/</link>
@@ -67,6 +116,13 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/02/25/two-kinds-of-attestation.html</guid>
       <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>A fuzzer for the Toy Optimizer</title>
+      <link>https://bernsteinbear.com/blog/toy-fuzzer/?utm_source=rss</link>
+      <guid isPermaLink="true">https://bernsteinbear.com/blog/toy-fuzzer/?utm_source=rss</guid>
+      <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Max Bernstein's Blog</description>
     </item>
     <item>
       <title>A curious trig identity</title>
@@ -788,62 +844,6 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/02/19/go-modules-for-package-management-tooling.html</guid>
       <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Paul Ford: ‘The A.I. Disruption Has Arrived, and It Sure Is Fun’</title>
-      <link>https://www.nytimes.com/2026/02/18/opinion/ai-software.html?unlocked_article_code=1.NFA.djaw.TBlAp8kE_N-i</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/02/18/opinion/ai-software.html?unlocked_article_code=1.NFA.djaw.TBlAp8kE_N-i</guid>
-      <pubDate>Wed, 18 Feb 2026 21:15:10 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Frigate with Hailo for object detection on a Raspberry Pi</title>
-      <link>https://www.jeffgeerling.com/blog/2026/frigate-with-hailo-for-object-detection-on-a-raspberry-pi/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/frigate-with-hailo-for-object-detection-on-a-raspberry-pi/</guid>
-      <pubDate>Wed, 18 Feb 2026 20:50:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
-      <title>A Few Rambling Observations on Care</title>
-      <link>https://blog.jim-nielsen.com/2026/observations-on-care/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/observations-on-care/</guid>
-      <pubDate>Wed, 18 Feb 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
-      <title>Typing without having to type</title>
-      <link>https://simonwillison.net/2026/Feb/18/typing/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/18/typing/#atom-everything</guid>
-      <pubDate>Wed, 18 Feb 2026 18:56:56 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>The A.I. Disruption We’ve Been Waiting for Has Arrived</title>
-      <link>https://simonwillison.net/2026/Feb/18/the-ai-disruption/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/18/the-ai-disruption/#atom-everything</guid>
-      <pubDate>Wed, 18 Feb 2026 17:07:31 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Quoting Martin Fowler</title>
-      <link>https://simonwillison.net/2026/Feb/18/martin-fowler/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/18/martin-fowler/#atom-everything</guid>
-      <pubDate>Wed, 18 Feb 2026 16:50:07 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Stream of Consciousness Driven Development</title>
-      <link>https://buttondown.com/hillelwayne/archive/stream-of-consciousness-driven-development/</link>
-      <guid isPermaLink="true">https://buttondown.com/hillelwayne/archive/stream-of-consciousness-driven-development/</guid>
-      <pubDate>Wed, 18 Feb 2026 16:33:08 +0000</pubDate>
-      <description>Computer Things</description>
-    </item>
-    <item>
-      <title>AI is the Best Thing to Happen to Art</title>
-      <link>https://geohot.github.io//blog/jekyll/update/2026/02/19/ai-art.html</link>
-      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/02/19/ai-art.html</guid>
-      <pubDate>Wed, 18 Feb 2026 16:00:00 +0000</pubDate>
-      <description>the singularity is nearer</description>
     </item>
   </channel>
 </rss>
