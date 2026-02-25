@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 25 Feb 2026 02:47:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 07:11:35 +0000</lastBuildDate>
+    <item>
+      <title>Quoting Kellan Elliott-McCrea</title>
+      <link>https://simonwillison.net/2026/Feb/25/kellan-elliott-mccrea/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/25/kellan-elliott-mccrea/#atom-everything</guid>
+      <pubDate>Wed, 25 Feb 2026 03:30:32 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Everything is awesome (why I'm an optimist)</title>
       <link>https://www.joanwestenberg.com/everything-is-awesome-why-im-an-optimist/</link>
@@ -531,18 +538,18 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>Wrapping Code Comments</title>
-      <link>https://matklad.github.io/2026/02/21/wrapping-code-comments.html</link>
-      <guid isPermaLink="true">https://matklad.github.io/2026/02/21/wrapping-code-comments.html</guid>
-      <pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
-      <description>matklad</description>
-    </item>
-    <item>
       <title>Track Zelda release anniversaries in your calendar</title>
       <link>https://evanhahn.com/zelda-anniversary-calendar/</link>
       <guid isPermaLink="true">https://evanhahn.com/zelda-anniversary-calendar/</guid>
       <pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
       <description>Evan Hahn (dot com)</description>
+    </item>
+    <item>
+      <title>Wrapping Code Comments</title>
+      <link>https://matklad.github.io/2026/02/21/wrapping-code-comments.html</link>
+      <guid isPermaLink="true">https://matklad.github.io/2026/02/21/wrapping-code-comments.html</guid>
+      <pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
+      <description>matklad</description>
     </item>
     <item>
       <title>Whale Fall</title>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://keygen.sh/blog/value-extraction/</guid>
       <pubDate>Wed, 18 Feb 2026 06:00:00 +0000</pubDate>
       <description>Keygen Blog</description>
-    </item>
-    <item>
-      <title>Markdown’s Moment</title>
-      <link>https://feed.tedium.co/link/15204/17278321/markdown-growing-influence-cloudflare-ai</link>
-      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17278321/markdown-growing-influence-cloudflare-ai</guid>
-      <pubDate>Wed, 18 Feb 2026 04:01:53 +0000</pubDate>
-      <description>Tedium: The Dull Side of the Internet.</description>
     </item>
   </channel>
 </rss>
