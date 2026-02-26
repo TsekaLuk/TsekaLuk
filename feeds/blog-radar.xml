@@ -4,7 +4,63 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 26 Feb 2026 13:23:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 19:02:07 +0000</lastBuildDate>
+    <item>
+      <title>‘Steve Jobs in Exile’</title>
+      <link>https://geoffreycain.net/steve-jobs-in-exile/</link>
+      <guid isPermaLink="true">https://geoffreycain.net/steve-jobs-in-exile/</guid>
+      <pubDate>Thu, 26 Feb 2026 18:04:33 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Microsoft Adds Additional Markdown Features to Windows Notepad</title>
+      <link>https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/</link>
+      <guid isPermaLink="true">https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/</guid>
+      <pubDate>Thu, 26 Feb 2026 17:50:08 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Prediction ‘Market’ Kalshi Accuses MrBeast Editor of Insider Trading</title>
+      <link>https://www.npr.org/2026/02/25/nx-s1-5726050/kalshi-insider-trading-enforcement-actions</link>
+      <guid isPermaLink="true">https://www.npr.org/2026/02/25/nx-s1-5726050/kalshi-insider-trading-enforcement-actions</guid>
+      <pubDate>Thu, 26 Feb 2026 17:36:26 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Research Firm Says Podcasts Have Passed AM/FM Talk Radio in Spoken-Word Listening Time</title>
+      <link>https://www.edisonresearch.com/podcasts-lead-am-fm-in-spoken-word-listening-marking-a-first/</link>
+      <guid isPermaLink="true">https://www.edisonresearch.com/podcasts-lead-am-fm-in-spoken-word-listening-marking-a-first/</guid>
+      <pubDate>Thu, 26 Feb 2026 17:27:04 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>New York Sues Valve, Says Its ‘Loot Boxes’ Are Gambling</title>
+      <link>https://www.reuters.com/legal/government/new-york-sues-video-game-developer-valve-says-its-loot-boxes-are-gambling-2026-02-25/</link>
+      <guid isPermaLink="true">https://www.reuters.com/legal/government/new-york-sues-video-game-developer-valve-says-its-loot-boxes-are-gambling-2026-02-25/</guid>
+      <pubDate>Thu, 26 Feb 2026 17:14:58 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>On NVIDIA and Analyslop</title>
+      <link>https://www.wheresyoured.at/on-nvidia-and-analyslop/</link>
+      <guid isPermaLink="true">https://www.wheresyoured.at/on-nvidia-and-analyslop/</guid>
+      <pubDate>Thu, 26 Feb 2026 16:22:58 +0000</pubDate>
+      <description>Ed Zitron's Where's Your Ed At</description>
+    </item>
+    <item>
+      <title>Intercepting messages inside Is­Dialog­Message, installing the message filter</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260226-00/?p=112090</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260226-00/?p=112090</guid>
+      <pubDate>Thu, 26 Feb 2026 15:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>Amerika runt binnenkort onze BTW</title>
+      <link>https://berthub.eu/articles/posts/btw-as-an-american-service/</link>
+      <guid isPermaLink="true">https://berthub.eu/articles/posts/btw-as-an-american-service/</guid>
+      <pubDate>Thu, 26 Feb 2026 13:44:09 +0000</pubDate>
+      <description>Bert Hubert's writings</description>
+    </item>
     <item>
       <title>This time is different</title>
       <link>https://shkspr.mobi/blog/2026/02/this-time-is-different/</link>
@@ -60,6 +116,13 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/02/25/hyperbolic-versions-of-latest-posts/</guid>
       <pubDate>Thu, 26 Feb 2026 01:10:37 +0000</pubDate>
       <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Using OpenCode in CI/CD for AI pull request reviews</title>
+      <link>https://martinalderson.com/posts/using-opencode-in-cicd-for-ai-pull-request-reviews/?utm_source=rss</link>
+      <guid isPermaLink="true">https://martinalderson.com/posts/using-opencode-in-cicd-for-ai-pull-request-reviews/?utm_source=rss</guid>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Martin Alderson</description>
     </item>
     <item>
       <title>Talking through the tech reckoning</title>
@@ -781,69 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Feb/20/beats/#atom-everything</guid>
       <pubDate>Fri, 20 Feb 2026 23:47:10 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>The unbearable weight of cruft</title>
-      <link>https://www.joanwestenberg.com/the-unbearable-weight-of-cruft/</link>
-      <guid isPermaLink="true">https://www.joanwestenberg.com/the-unbearable-weight-of-cruft/</guid>
-      <pubDate>Fri, 20 Feb 2026 22:54:49 +0000</pubDate>
-      <description>Westenberg.</description>
-    </item>
-    <item>
-      <title>Taalas serves Llama 3.1 8B at 17,000 tokens/second</title>
-      <link>https://simonwillison.net/2026/Feb/20/taalas/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/20/taalas/#atom-everything</guid>
-      <pubDate>Fri, 20 Feb 2026 22:10:04 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA</title>
-      <link>https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/</link>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/</guid>
-      <pubDate>Fri, 20 Feb 2026 20:00:30 +0000</pubDate>
-      <description>Krebs on Security</description>
-    </item>
-    <item>
-      <title>Premium: The Hater's Guide to Anthropic</title>
-      <link>https://www.wheresyoured.at/premium-the-haters-guide-to-anthropic/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/premium-the-haters-guide-to-anthropic/</guid>
-      <pubDate>Fri, 20 Feb 2026 18:26:41 +0000</pubDate>
-      <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>Gabriel Knight 3: Blood of the Sacred, Blood of the Damned</title>
-      <link>https://www.filfre.net/2026/02/gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned/</link>
-      <guid isPermaLink="true">https://www.filfre.net/2026/02/gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned/</guid>
-      <pubDate>Fri, 20 Feb 2026 17:24:46 +0000</pubDate>
-      <description>The Digital Antiquarian</description>
-    </item>
-    <item>
-      <title>ggml.ai joins Hugging Face to ensure the long-term progress of Local AI</title>
-      <link>https://simonwillison.net/2026/Feb/20/ggmlai-joins-hugging-face/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/20/ggmlai-joins-hugging-face/#atom-everything</guid>
-      <pubDate>Fri, 20 Feb 2026 17:12:55 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>The 2026/2027 Seattle Symphony subscription season at a glance</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260220-01/?p=112076</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260220-01/?p=112076</guid>
-      <pubDate>Fri, 20 Feb 2026 15:00:01 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Customizing the ways the dialog manager dismisses itself: Detecting the ESC key, first (failed) attempt</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260220-00/?p=112074</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260220-00/?p=112074</guid>
-      <pubDate>Fri, 20 Feb 2026 15:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Pluralistic: A perforated corporate veil (20 Feb 2026)</title>
-      <link>https://pluralistic.net/2026/02/20/karioca-konzernrecht/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/02/20/karioca-konzernrecht/</guid>
-      <pubDate>Fri, 20 Feb 2026 14:53:08 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
     </item>
   </channel>
 </rss>
