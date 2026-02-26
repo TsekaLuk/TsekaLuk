@@ -9,25 +9,29 @@
 
 <!-- Static Header with Logo (Reliable) -->
 <br/>
-<img src="./brand-icons/logo-horizontal-zh.svg" width="60%" alt="Nebutra Intelligence"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./brand-icons/logo-inverse.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./brand-icons/logo-horizontal-zh.svg">
+  <img src="./brand-icons/logo-horizontal-zh.svg" width="60%" alt="Nebutra Intelligence — AI-Native One-Person Company"/>
+</picture>
 <br/>
 
 <!-- Dynamic Bio (Typing) -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2E7EEE&center=true&vCenter=true&width=600&lines=Founder+%26+CEO+%40+Nebutra+Intelligence;AI-Native+Innovator+%7C+Full+Stack+Engineer;Building+the+Future+of+SaaS;One-Person+Unicorn+Company+(OPC)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=65A69A&center=true&vCenter=true&width=600&lines=Founder+%26+CEO+%40+Nebutra+Intelligence;AI-Native+Innovator+%7C+Full+Stack+Engineer;Building+the+Future+of+SaaS;One-Person+Unicorn+Company+(OPC)" alt="Founder & CEO @ Nebutra Intelligence | AI-Native Innovator | Full Stack Engineer" />
 </a>
 
 <br/>
 
 <p>
-  <img src="https://img.shields.io/badge/MBTI-INTP--T-4E8DF5?style=flat-square" alt="MBTI INTP-T"/>
-  <img src="https://img.shields.io/badge/Adaptive_Mask-ENTJ-0F766E?style=flat-square" alt="Adaptive Mask ENTJ"/>
+  <img src="https://img.shields.io/badge/MBTI-INTP--T-65A69A?style=flat-square" alt="MBTI INTP-T"/>
+  <img src="https://img.shields.io/badge/Adaptive_Mask-ENTJ-727A8C?style=flat-square" alt="Adaptive Mask ENTJ"/>
 </p>
 
 <!-- Social Badges (Minimalist) -->
 <p>
   <a href="mailto:contact@tsekaluk.dev"><img src="https://img.shields.io/badge/Email-contact%40tsekaluk.dev-black?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://nebutra.com"><img src="https://img.shields.io/badge/Website-nebutra.com-7C3AED?style=flat-square&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://nebutra.com"><img src="https://img.shields.io/badge/Website-nebutra.com-65A69A?style=flat-square&logo=google-chrome&logoColor=white"/></a>
   <a href="https://github.com/TsekaLuk"><img src="https://img.shields.io/badge/GitHub-TsekaLuk-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
@@ -60,7 +64,7 @@ As **Founder & CEO**, I operate **Nebutra Intelligence** as an **AI-Native OPC (
 <div align="center">
 
 **AI Engineering & Generative Models**
-<br/>
+<br/><br/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Anthropic-D14836?style=flat-square&logo=anthropic&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=google&logoColor=white" />
@@ -82,8 +86,10 @@ As **Founder & CEO**, I operate **Nebutra Intelligence** as an **AI-Native OPC (
 <img src="https://img.shields.io/badge/Theory-Transformers-5C3EE8?style=flat-square" />
 <img src="https://img.shields.io/badge/Theory-Diffusion_Models-5C3EE8?style=flat-square" />
 
-**Next-Gen Tools & AI Coding**
 <br/>
+
+**Next-Gen Tools & AI Coding**
+<br/><br/>
 <img src="https://img.shields.io/badge/Cursor-Expert-black?style=flat-square&logo=cursor&logoColor=white" />
 <img src="https://img.shields.io/badge/Lovable-FF4F00?style=flat-square&logo=heart&logoColor=white" />
 <img src="https://img.shields.io/badge/Warp.dev-01B9C5?style=flat-square&logo=warp&logoColor=white" />
@@ -93,8 +99,10 @@ As **Founder & CEO**, I operate **Nebutra Intelligence** as an **AI-Native OPC (
 <img src="https://img.shields.io/badge/Kiro-000000?style=flat-square&logo=terminal&logoColor=white" />
 <img src="https://img.shields.io/badge/V0.dev-000000?style=flat-square&logo=vercel&logoColor=white" />
 
-**Product, Design & Analytics**
 <br/>
+
+**Product, Design & Analytics**
+<br/><br/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white" />
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
@@ -111,8 +119,10 @@ As **Founder & CEO**, I operate **Nebutra Intelligence** as an **AI-Native OPC (
 <img src="https://img.shields.io/badge/Math-Statistical_Learning-013243?style=flat-square" />
 <img src="https://img.shields.io/badge/Math-Graph_Theory-013243?style=flat-square" />
 
-**Full Stack Engineering**
 <br/>
+
+**Full Stack Engineering**
+<br/><br/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -189,6 +199,15 @@ Last Updated: Thursday, February 26th, 2026, 8:54:24 PM
 
 ---
 
+### 📡 **Blog Radar**
+
+*What I'm reading — auto-updated from 80+ subscribed tech blogs.*
+
+<!--BLOG_RADAR:start-->
+<!--BLOG_RADAR:end-->
+
+---
+
 ### 📊 **Engineering Analytics**
 
 <div align="center">
@@ -197,11 +216,11 @@ Last Updated: Thursday, February 26th, 2026, 8:54:24 PM
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TsekaLuk/TsekaLuk/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TsekaLuk/TsekaLuk/output/github-contribution-grid-snake.svg">
-  <img alt="Snake Animation" src="https://raw.githubusercontent.com/TsekaLuk/TsekaLuk/output/github-contribution-grid-snake.svg" width="100%">
+  <img alt="GitHub contribution grid animated as a snake game" src="https://raw.githubusercontent.com/TsekaLuk/TsekaLuk/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
 <!-- Metrics -->
-<img src="https://github.com/TsekaLuk/TsekaLuk/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+<img src="https://github.com/TsekaLuk/TsekaLuk/blob/main/github-metrics.svg" alt="TsekaLuk GitHub metrics — contributions, activity, community stats" width="100%">
 
 </div>
 
@@ -218,4 +237,6 @@ Last Updated: Thursday, February 26th, 2026, 8:54:24 PM
   <a href="https://github.com/TsekaLuk?tab=followers">
     <img src="https://img.shields.io/github/followers/TsekaLuk?style=for-the-badge&color=65A69A&labelColor=727A8C&font=JetBrains+Mono"/>
   </a>
+  <br/><br/>
+  <sub>Ship fast · Think deep · Build alone</sub>
 </div>

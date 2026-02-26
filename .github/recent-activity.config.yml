@@ -1,7 +1,7 @@
 settings:
   username: "TsekaLuk"
   commit_msg: "⚡ Update README with recent activity"
-  max_lines: 6
+  max_lines: 10
   readme_file: "./README.md"
   disabled_events:
     - "comments"
