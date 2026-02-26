@@ -4,7 +4,77 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 25 Feb 2026 19:15:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 02:42:19 +0000</lastBuildDate>
+    <item>
+      <title>Notes on Linear Algebra for Polynomials</title>
+      <link>https://eli.thegreenplace.net/2026/notes-on-linear-algebra-for-polynomials/</link>
+      <guid isPermaLink="true">https://eli.thegreenplace.net/2026/notes-on-linear-algebra-for-polynomials/</guid>
+      <pubDate>Thu, 26 Feb 2026 02:34:00 +0000</pubDate>
+      <description>Eli Bendersky's website</description>
+    </item>
+    <item>
+      <title>Members Only: Your anonymity set has collapsed and you don't know it yet</title>
+      <link>https://www.joanwestenberg.com/members-only-your-anonymity-set-has-collapsed-and-you-dont-know-it-yet/</link>
+      <guid isPermaLink="true">https://www.joanwestenberg.com/members-only-your-anonymity-set-has-collapsed-and-you-dont-know-it-yet/</guid>
+      <pubDate>Thu, 26 Feb 2026 01:41:29 +0000</pubDate>
+      <description>Westenberg.</description>
+    </item>
+    <item>
+      <title>Hyperbolic versions of latest posts</title>
+      <link>https://www.johndcook.com/blog/2026/02/25/hyperbolic-versions-of-latest-posts/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/02/25/hyperbolic-versions-of-latest-posts/</guid>
+      <pubDate>Thu, 26 Feb 2026 01:10:37 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>‘H-Bomb: A Frank Lloyd Wright Typographic Mystery’</title>
+      <link>https://www.inconspicuous.info/p/h-bomb-a-frank-lloyd-wright-typographic</link>
+      <guid isPermaLink="true">https://www.inconspicuous.info/p/h-bomb-a-frank-lloyd-wright-typographic</guid>
+      <pubDate>Wed, 25 Feb 2026 23:53:00 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Terry Godier: ‘Phantom Obligation’</title>
+      <link>https://www.terrygodier.com/phantom-obligation</link>
+      <guid isPermaLink="true">https://www.terrygodier.com/phantom-obligation</guid>
+      <pubDate>Wed, 25 Feb 2026 23:52:42 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Bill Gates Apologizes to Foundation Staff Over Epstein Ties</title>
+      <link>https://www.wsj.com/articles/bill-gates-apologizes-to-foundation-staff-over-epstein-ties-67f39ef5</link>
+      <guid isPermaLink="true">https://www.wsj.com/articles/bill-gates-apologizes-to-foundation-staff-over-epstein-ties-67f39ef5</guid>
+      <pubDate>Wed, 25 Feb 2026 23:38:45 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Greg Knauss: ‘Lose Myself’</title>
+      <link>https://www.eod.com/blog/2026/02/lose-myself/</link>
+      <guid isPermaLink="true">https://www.eod.com/blog/2026/02/lose-myself/</guid>
+      <pubDate>Wed, 25 Feb 2026 22:53:08 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>The Talk Show: ‘Serious Opinionators’</title>
+      <link>https://daringfireball.net/thetalkshow/2026/02/25/ep-441</link>
+      <guid isPermaLink="true">https://daringfireball.net/thetalkshow/2026/02/25/ep-441</guid>
+      <pubDate>Wed, 25 Feb 2026 22:17:57 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>tldraw issue: Move tests to closed source repo</title>
+      <link>https://simonwillison.net/2026/Feb/25/closed-tests/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/25/closed-tests/#atom-everything</guid>
+      <pubDate>Wed, 25 Feb 2026 21:06:53 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Samsung Galaxy S26 Ultra’s Privacy Display</title>
+      <link>https://9to5google.com/2026/02/25/samsung-galaxy-s26-ultra-privacy-display-demo-hands-on/</link>
+      <guid isPermaLink="true">https://9to5google.com/2026/02/25/samsung-galaxy-s26-ultra-privacy-display-demo-hands-on/</guid>
+      <pubDate>Wed, 25 Feb 2026 20:59:30 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Claude Code Remote Control</title>
       <link>https://simonwillison.net/2026/Feb/25/claude-code-remote-control/#atom-everything</link>
@@ -27,7 +97,14 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>Major Candy Brands Are Switching From Actual Chocolate to ‘Chocolately Candy’ (Read: Brown Candle Wax)</title>
+      <title>The Last Gasps of the Rent Seeking Class</title>
+      <link>https://geohot.github.io//blog/jekyll/update/2026/02/26/the-last-gasps-of-the-rent-seeking-class.html</link>
+      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/02/26/the-last-gasps-of-the-rent-seeking-class.html</guid>
+      <pubDate>Wed, 25 Feb 2026 16:00:00 +0000</pubDate>
+      <description>the singularity is nearer</description>
+    </item>
+    <item>
+      <title>Major Candy Brands Are Switching From Actual Chocolate to ‘Chocolatey Candy’ (Read: Brown Candle Wax)</title>
       <link>https://www.jezebel.com/fake-milk-chocolate-replacements-brands-reeses-hershey-ferrero-compound-coating-candy-climate-change</link>
       <guid isPermaLink="true">https://www.jezebel.com/fake-milk-chocolate-replacements-brands-reeses-hershey-ferrero-compound-coating-candy-climate-change</guid>
       <pubDate>Wed, 25 Feb 2026 15:33:41 +0000</pubDate>
@@ -83,6 +160,13 @@
       <description>John D. Cook</description>
     </item>
     <item>
+      <title>Systemd resource controls on user.slice and system.slice work fine</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdUserAndSystemSliceLimits</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdUserAndSystemSliceLimits</guid>
+      <pubDate>Wed, 25 Feb 2026 03:54:52 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
       <title>Quoting Kellan Elliott-McCrea</title>
       <link>https://simonwillison.net/2026/Feb/25/kellan-elliott-mccrea/#atom-everything</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Feb/25/kellan-elliott-mccrea/#atom-everything</guid>
@@ -109,6 +193,13 @@
       <guid isPermaLink="true">https://sentry.io/resources/ios-workshop-jan-2026/?utm_source=daringfireball&amp;utm_medium=paid-display&amp;utm_campaign=general-fy27q1-evergreen&amp;utm_content=static-ad-mobilerss-trysentry</guid>
       <pubDate>Wed, 25 Feb 2026 01:00:30 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Against Query Based Compilers</title>
+      <link>https://matklad.github.io/2026/02/25/against-query-based-compilers.html</link>
+      <guid isPermaLink="true">https://matklad.github.io/2026/02/25/against-query-based-compilers.html</guid>
+      <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
+      <description>matklad</description>
     </item>
     <item>
       <title>Two Kinds of Attestation</title>
@@ -277,6 +368,13 @@
       <guid isPermaLink="true">https://pluralistic.net/2026/02/24/mamdani-thought/</guid>
       <pubDate>Tue, 24 Feb 2026 09:38:16 +0000</pubDate>
       <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Gnome, GSettings, gconf, and which one you want</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/DconfVsGconfInGnome</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/DconfVsGconfInGnome</guid>
+      <pubDate>Tue, 24 Feb 2026 03:22:41 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>Copy and paste law</title>
@@ -524,6 +622,13 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
+      <title>PDUs can fail (eventually) and some things related to this</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PDUsCanFailEventually</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PDUsCanFailEventually</guid>
+      <pubDate>Sun, 22 Feb 2026 23:23:37 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
       <title>Bitcoin mining difficulty</title>
       <link>https://www.johndcook.com/blog/2026/02/22/bitcoin-mining-difficulty/</link>
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/02/22/bitcoin-mining-difficulty/</guid>
@@ -573,6 +678,13 @@
       <description>Andrew Nesbitt</description>
     </item>
     <item>
+      <title>The importance of limiting syndication feed requests in some way</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/web/FeedLimitingImportance</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/web/FeedLimitingImportance</guid>
+      <pubDate>Sun, 22 Feb 2026 01:27:33 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
       <title>10,000,000th Fibonacci number</title>
       <link>https://www.johndcook.com/blog/2026/02/21/f10000000/</link>
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/02/21/f10000000/</guid>
@@ -613,6 +725,13 @@
       <guid isPermaLink="true">https://shkspr.mobi/blog/2026/02/openbenches-at-fosdem/</guid>
       <pubDate>Sat, 21 Feb 2026 12:34:03 +0000</pubDate>
       <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Consider mentioning your little personal scripts to your co-workers</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MentionLittleScripts</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MentionLittleScripts</guid>
+      <pubDate>Sat, 21 Feb 2026 03:59:13 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>Quoting Thibault Sottiaux</title>
@@ -725,125 +844,6 @@
       <guid isPermaLink="true">https://shkspr.mobi/blog/2026/02/book-review-families-and-how-to-survive-them-by-john-cleese-and-robin-skynner/</guid>
       <pubDate>Fri, 20 Feb 2026 12:34:57 +0000</pubDate>
       <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Teleoperation is Always the Butt of the Joke</title>
-      <link>https://idiallo.com/blog/teleoperation-is-the-butt-of-the-joke?src=feed</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/teleoperation-is-the-butt-of-the-joke?src=feed</guid>
-      <pubDate>Fri, 20 Feb 2026 12:00:00 +0000</pubDate>
-      <description>iDiallo.com</description>
-    </item>
-    <item>
-      <title>Quoting Thariq Shihipar</title>
-      <link>https://simonwillison.net/2026/Feb/20/thariq-shihipar/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/20/thariq-shihipar/#atom-everything</guid>
-      <pubDate>Fri, 20 Feb 2026 07:13:19 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>CloudPebble Returns! Plus New Pure JavaScript and Round 2 SDK</title>
-      <link>https://repebble.com/blog/cloudpebble-returns-plus-pure-javascript-and-round-2-sdk</link>
-      <guid isPermaLink="true">https://repebble.com/blog/cloudpebble-returns-plus-pure-javascript-and-round-2-sdk</guid>
-      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Eric Migicovsky's Blog RSS Feed</description>
-    </item>
-    <item>
-      <title>Life Update: On medical leave</title>
-      <link>https://xeiaso.net/notes/2026/life-update-medical-leave/</link>
-      <guid isPermaLink="true">https://xeiaso.net/notes/2026/life-update-medical-leave/</guid>
-      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
-      <title>ActivityPub</title>
-      <link>https://nesbitt.io/2026/02/20/activitypub.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/02/20/activitypub.html</guid>
-      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Recovering lost code</title>
-      <link>https://simonwillison.net/2026/Feb/19/recovering-lost-code/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/19/recovering-lost-code/#atom-everything</guid>
-      <pubDate>Thu, 19 Feb 2026 23:48:35 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>IMAX and Apple Collaborate to Screen F1 Races Live in Theaters</title>
-      <link>https://www.motorsport.com/f1/news/f1-to-screen-live-in-imax-theatres-in-2026-as-apple-tv-unveils-new-us-viewing-experience/10798974/</link>
-      <guid isPermaLink="true">https://www.motorsport.com/f1/news/f1-to-screen-live-in-imax-theatres-in-2026-as-apple-tv-unveils-new-us-viewing-experience/10798974/</guid>
-      <pubDate>Thu, 19 Feb 2026 23:29:06 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Gemini 3.1 Pro</title>
-      <link>https://simonwillison.net/2026/Feb/19/gemini-31-pro/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/19/gemini-31-pro/#atom-everything</guid>
-      <pubDate>Thu, 19 Feb 2026 17:58:37 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Exploring the signals the dialog manager uses for dismissing a dialog</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260219-00/?p=112072</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260219-00/?p=112072</guid>
-      <pubDate>Thu, 19 Feb 2026 15:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Pluralistic: Six Years of Pluralistic (19 Feb 2026)</title>
-      <link>https://pluralistic.net/2026/02/19/now-we-are-six/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/02/19/now-we-are-six/</guid>
-      <pubDate>Thu, 19 Feb 2026 14:08:05 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Is the Future “AWS for Everything”?</title>
-      <link>https://www.construction-physics.com/p/is-the-future-aws-for-everything</link>
-      <guid isPermaLink="true">https://www.construction-physics.com/p/is-the-future-aws-for-everything</guid>
-      <pubDate>Thu, 19 Feb 2026 13:01:06 +0000</pubDate>
-      <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>AI is a NAND Maximiser</title>
-      <link>https://shkspr.mobi/blog/2026/02/ai-is-a-nand-maximiser/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/02/ai-is-a-nand-maximiser/</guid>
-      <pubDate>Thu, 19 Feb 2026 12:34:33 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Experimenting with sponsorship for my blog and newsletter</title>
-      <link>https://simonwillison.net/2026/Feb/19/sponsorship/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/19/sponsorship/#atom-everything</guid>
-      <pubDate>Thu, 19 Feb 2026 05:44:29 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>SWE-bench February 2026 leaderboard update</title>
-      <link>https://simonwillison.net/2026/Feb/19/swe-bench/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/19/swe-bench/#atom-everything</guid>
-      <pubDate>Thu, 19 Feb 2026 04:48:47 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>One More Spitball Idea for Apple’s March 4 Media Event ‘Experience’: Immersive F1 on Vision Pro?</title>
-      <link>https://www.formula1.com/en/latest/article/official-grand-prix-start-times-for-2026-f1-season-confirmed.2UgPfArqH76tzlOYh21jSG</link>
-      <guid isPermaLink="true">https://www.formula1.com/en/latest/article/official-grand-prix-start-times-for-2026-f1-season-confirmed.2UgPfArqH76tzlOYh21jSG</guid>
-      <pubDate>Thu, 19 Feb 2026 04:41:38 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>LadybirdBrowser/ladybird: Abandon Swift adoption</title>
-      <link>https://simonwillison.net/2026/Feb/19/ladybird/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/19/ladybird/#atom-everything</guid>
-      <pubDate>Thu, 19 Feb 2026 01:25:33 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Go Modules for Package Management Tooling</title>
-      <link>https://nesbitt.io/2026/02/19/go-modules-for-package-management-tooling.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/02/19/go-modules-for-package-management-tooling.html</guid>
-      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
     </item>
   </channel>
 </rss>
