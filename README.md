@@ -208,11 +208,11 @@ Last Updated: Saturday, February 28th, 2026, 2:34:39 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Book Review: Weird Things Customers Say in Bookshops by Jen Campbell ★★☆☆☆](https://shkspr.mobi/blog/2026/02/book-review-weird-things-customers-say-in-bookshops-by-jen-campbell/) — *Terence Eden’s Blog* `02-27`
-- [xkcd 2347](https://nesbitt.io/2026/02/27/xkcd-2347.html) — *Andrew Nesbitt* `02-27`
-- [Apple Announces F1 Broadcast Details, and a Surprising Netflix Partnership](https://sixcolors.com/post/2026/02/apple-announces-f1-details-and-a-surprising-netflix-partnership/) — *Daring Fireball* `02-27`
-- [Energym](https://www.aicandy.be/giorgio-1) — *Daring Fireball* `02-27`
-- [Netflix Backs Out of Bid for Warner Bros., Paving Way for Paramount Takeover](https://www.nytimes.com/2026/02/26/business/warner-bros-discovery-paramount-deal-netflix.html?unlocked_article_code=1.PVA.3639.2yWKES49z8Os) — *Daring Fireball* `02-27`
+- [How to Block the ‘Upgrade to Tahoe’ Alerts and System Settings Indicator](https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/) — *Daring Fireball* `02-27`
+- [★ A Sometimes-Hidden Setting Controls What Happens When You Tap a Call in the iOS 26 Phone App](https://daringfireball.net/2026/02/sometimes_hidden_setting_phone_app) — *Daring Fireball* `02-27`
+- [Free Claude Max for (large project) open source maintainers](https://simonwillison.net/2026/Feb/27/claude-max-oss-six-months/#atom-everything) — *Simon Willison's Weblog* `02-27`
+- [An AI agent coding skeptic tries AI agent coding, in excessive detail](https://minimaxir.com/2026/02/ai-agent-coding/) — *Max Woolf's Blog* `02-27`
+- [Unicode Explorer using binary search over fetch() HTTP range requests](https://simonwillison.net/2026/Feb/27/unicode-explorer/#atom-everything) — *Simon Willison's Weblog* `02-27`
 <!--BLOG_RADAR:end-->
 
 ---

@@ -4,7 +4,77 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 27 Feb 2026 13:14:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 18:55:46 +0000</lastBuildDate>
+    <item>
+      <title>How to Block the ‘Upgrade to Tahoe’ Alerts and System Settings Indicator</title>
+      <link>https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/</link>
+      <guid isPermaLink="true">https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/</guid>
+      <pubDate>Fri, 27 Feb 2026 18:45:16 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>★ A Sometimes-Hidden Setting Controls What Happens When You Tap a Call in the iOS 26 Phone App</title>
+      <link>https://daringfireball.net/2026/02/sometimes_hidden_setting_phone_app</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/02/sometimes_hidden_setting_phone_app</guid>
+      <pubDate>Fri, 27 Feb 2026 18:12:53 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Free Claude Max for (large project) open source maintainers</title>
+      <link>https://simonwillison.net/2026/Feb/27/claude-max-oss-six-months/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/27/claude-max-oss-six-months/#atom-everything</guid>
+      <pubDate>Fri, 27 Feb 2026 18:08:22 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>An AI agent coding skeptic tries AI agent coding, in excessive detail</title>
+      <link>https://minimaxir.com/2026/02/ai-agent-coding/</link>
+      <guid isPermaLink="true">https://minimaxir.com/2026/02/ai-agent-coding/</guid>
+      <pubDate>Fri, 27 Feb 2026 18:00:00 +0000</pubDate>
+      <description>Max Woolf's Blog</description>
+    </item>
+    <item>
+      <title>Unicode Explorer using binary search over fetch() HTTP range requests</title>
+      <link>https://simonwillison.net/2026/Feb/27/unicode-explorer/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/27/unicode-explorer/#atom-everything</guid>
+      <pubDate>Fri, 27 Feb 2026 17:50:54 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Premium: The Hater's Guide to Private Equity</title>
+      <link>https://www.wheresyoured.at/hatersguide-pe/</link>
+      <guid isPermaLink="true">https://www.wheresyoured.at/hatersguide-pe/</guid>
+      <pubDate>Fri, 27 Feb 2026 17:07:32 +0000</pubDate>
+      <description>Ed Zitron's Where's Your Ed At</description>
+    </item>
+    <item>
+      <title>TUDUMB</title>
+      <link>https://spyglass.org/netflix-warner-bros-paramount-deal/</link>
+      <guid isPermaLink="true">https://spyglass.org/netflix-warner-bros-paramount-deal/</guid>
+      <pubDate>Fri, 27 Feb 2026 16:32:49 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>This Week on The Analog Antiquarian</title>
+      <link>https://www.filfre.net/2026/02/this-week-on-the-analog-antiquarian/</link>
+      <guid isPermaLink="true">https://www.filfre.net/2026/02/this-week-on-the-analog-antiquarian/</guid>
+      <pubDate>Fri, 27 Feb 2026 16:22:23 +0000</pubDate>
+      <description>The Digital Antiquarian</description>
+    </item>
+    <item>
+      <title>Block Lays Off 4,000 (of 10,000) Employees</title>
+      <link>https://www.cnbc.com/2026/02/26/block-laying-off-about-4000-employees-nearly-half-of-its-workforce.html</link>
+      <guid isPermaLink="true">https://www.cnbc.com/2026/02/26/block-laying-off-about-4000-employees-nearly-half-of-its-workforce.html</guid>
+      <pubDate>Fri, 27 Feb 2026 15:33:15 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Upgrading my Open Source Pi Surveillance Server with Frigate</title>
+      <link>https://www.jeffgeerling.com/blog/2026/upgrading-my-open-source-pi-surveillance-server-frigate/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/upgrading-my-open-source-pi-surveillance-server-frigate/</guid>
+      <pubDate>Fri, 27 Feb 2026 15:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
+    </item>
     <item>
       <title>Book Review: Weird Things Customers Say in Bookshops by Jen Campbell ★★☆☆☆</title>
       <link>https://shkspr.mobi/blog/2026/02/book-review-weird-things-customers-say-in-bookshops-by-jen-campbell/</link>
@@ -774,76 +844,6 @@
       <guid isPermaLink="true">https://maurycyz.com/misc/sandbox_llms/</guid>
       <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
       <description>Maurycy's Blog</description>
-    </item>
-    <item>
-      <title>Which web frameworks are most token-efficient for AI agents?</title>
-      <link>https://martinalderson.com/posts/which-web-frameworks-are-most-token-efficient-for-ai-agents/?utm_source=rss</link>
-      <guid isPermaLink="true">https://martinalderson.com/posts/which-web-frameworks-are-most-token-efficient-for-ai-agents/?utm_source=rss</guid>
-      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Martin Alderson</description>
-    </item>
-    <item>
-      <title>The Claude C Compiler: What It Reveals About the Future of Software</title>
-      <link>https://simonwillison.net/2026/Feb/22/ccc/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/22/ccc/#atom-everything</guid>
-      <pubDate>Sun, 22 Feb 2026 23:58:43 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>London Stock Exchange: Raspberry Pi Holdings plc</title>
-      <link>https://simonwillison.net/2026/Feb/22/raspberry-pi-openclaw/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/22/raspberry-pi-openclaw/#atom-everything</guid>
-      <pubDate>Sun, 22 Feb 2026 23:54:39 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Bitcoin mining difficulty</title>
-      <link>https://www.johndcook.com/blog/2026/02/22/bitcoin-mining-difficulty/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/02/22/bitcoin-mining-difficulty/</guid>
-      <pubDate>Sun, 22 Feb 2026 19:17:58 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>How AI Labs Proliferate</title>
-      <link>https://blog.jim-nielsen.com/2026/how-ai-labs-proliferate/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/how-ai-labs-proliferate/</guid>
-      <pubDate>Sun, 22 Feb 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
-      <title>Exahash, Zettahash, Yottahash</title>
-      <link>https://www.johndcook.com/blog/2026/02/22/zettahash/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/02/22/zettahash/</guid>
-      <pubDate>Sun, 22 Feb 2026 18:30:40 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>How I think about Codex</title>
-      <link>https://simonwillison.net/2026/Feb/22/how-i-think-about-codex/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/22/how-i-think-about-codex/#atom-everything</guid>
-      <pubDate>Sun, 22 Feb 2026 15:53:43 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>How close are we to a vision for 2010?</title>
-      <link>https://shkspr.mobi/blog/2026/02/how-close-are-we-to-a-vision-for-2010/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/02/how-close-are-we-to-a-vision-for-2010/</guid>
-      <pubDate>Sun, 22 Feb 2026 12:34:58 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>The Orality Theory of Everything</title>
-      <link>https://www.theatlantic.com/ideas/2026/02/social-media-literacy-crisis/686076/?utm_source=feed</link>
-      <guid isPermaLink="true">https://www.theatlantic.com/ideas/2026/02/social-media-literacy-crisis/686076/?utm_source=feed</guid>
-      <pubDate>Sun, 22 Feb 2026 12:00:00 +0000</pubDate>
-      <description>Derek Thompson | The Atlantic</description>
-    </item>
-    <item>
-      <title>Forge-Specific Repository Folders</title>
-      <link>https://nesbitt.io/2026/02/22/forge-specific-repository-folders.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/02/22/forge-specific-repository-folders.html</guid>
-      <pubDate>Sun, 22 Feb 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
     </item>
   </channel>
 </rss>
