@@ -208,11 +208,11 @@ Last Updated: Friday, February 27th, 2026, 8:45:11 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Book Review: Weird Things Customers Say in Bookshops by Jen Campbell ★★☆☆☆](https://shkspr.mobi/blog/2026/02/book-review-weird-things-customers-say-in-bookshops-by-jen-campbell/) — *Terence Eden’s Blog* `02-27`
+- [xkcd 2347](https://nesbitt.io/2026/02/27/xkcd-2347.html) — *Andrew Nesbitt* `02-27`
 - [Apple Announces F1 Broadcast Details, and a Surprising Netflix Partnership](https://sixcolors.com/post/2026/02/apple-announces-f1-details-and-a-surprising-netflix-partnership/) — *Daring Fireball* `02-27`
 - [Energym](https://www.aicandy.be/giorgio-1) — *Daring Fireball* `02-27`
 - [Netflix Backs Out of Bid for Warner Bros., Paving Way for Paramount Takeover](https://www.nytimes.com/2026/02/26/business/warner-bros-discovery-paramount-deal-netflix.html?unlocked_article_code=1.PVA.3639.2yWKES49z8Os) — *Daring Fireball* `02-27`
-- [iPhone and iPad Approved to Handle Classified NATO Information](https://nr.apple.com/Do0I6B8WX0) — *Daring Fireball* `02-26`
-- [Hoard things you know how to do](https://simonwillison.net/guides/agentic-engineering-patterns/hoard-things-you-know-how-to-do/#atom-everything) — *Simon Willison's Weblog* `02-26`
 <!--BLOG_RADAR:end-->
 
 ---

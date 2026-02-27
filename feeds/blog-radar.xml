@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 27 Feb 2026 10:07:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 13:14:46 +0000</lastBuildDate>
+    <item>
+      <title>Book Review: Weird Things Customers Say in Bookshops by Jen Campbell ★★☆☆☆</title>
+      <link>https://shkspr.mobi/blog/2026/02/book-review-weird-things-customers-say-in-bookshops-by-jen-campbell/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/02/book-review-weird-things-customers-say-in-bookshops-by-jen-campbell/</guid>
+      <pubDate>Fri, 27 Feb 2026 12:34:11 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>xkcd 2347</title>
+      <link>https://nesbitt.io/2026/02/27/xkcd-2347.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/02/27/xkcd-2347.html</guid>
+      <pubDate>Fri, 27 Feb 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
     <item>
       <title>Apple Announces F1 Broadcast Details, and a Surprising Netflix Partnership</title>
       <link>https://sixcolors.com/post/2026/02/apple-announces-f1-details-and-a-surprising-netflix-partnership/</link>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/02/22/forge-specific-repository-folders.html</guid>
       <pubDate>Sun, 22 Feb 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>10,000,000th Fibonacci number</title>
-      <link>https://www.johndcook.com/blog/2026/02/21/f10000000/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/02/21/f10000000/</guid>
-      <pubDate>Sun, 22 Feb 2026 01:00:31 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Nerd Quiz #4</title>
-      <link>https://susam.net/code/news/nq/4.0.0.html</link>
-      <guid isPermaLink="true">https://susam.net/code/news/nq/4.0.0.html</guid>
-      <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Susam Pal</description>
     </item>
   </channel>
 </rss>
