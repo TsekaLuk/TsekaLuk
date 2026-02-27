@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 27 Feb 2026 02:40:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 07:04:09 +0000</lastBuildDate>
     <item>
       <title>Apple Announces F1 Broadcast Details, and a Surprising Netflix Partnership</title>
       <link>https://sixcolors.com/post/2026/02/apple-announces-f1-details-and-a-surprising-netflix-partnership/</link>
@@ -95,6 +95,13 @@
       <guid isPermaLink="true">https://www.wheresyoured.at/on-nvidia-and-analyslop/</guid>
       <pubDate>Thu, 26 Feb 2026 16:22:58 +0000</pubDate>
       <description>Ed Zitron's Where's Your Ed At</description>
+    </item>
+    <item>
+      <title>The Insane Stupidity of UBI</title>
+      <link>https://geohot.github.io//blog/jekyll/update/2026/02/27/the-insane-stupidity-of-ubi.html</link>
+      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/02/27/the-insane-stupidity-of-ubi.html</guid>
+      <pubDate>Thu, 26 Feb 2026 16:00:00 +0000</pubDate>
+      <description>the singularity is nearer</description>
     </item>
     <item>
       <title>Intercepting messages inside Is­Dialog­Message, installing the message filter</title>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://susam.net/code/news/nq/4.0.0.html</guid>
       <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
       <description>Susam Pal</description>
-    </item>
-    <item>
-      <title>Nvidia was only invited to invest</title>
-      <link>https://idiallo.com/byte-size/nvidia-was-only-invited-to-invest?src=feed</link>
-      <guid isPermaLink="true">https://idiallo.com/byte-size/nvidia-was-only-invited-to-invest?src=feed</guid>
-      <pubDate>Sat, 21 Feb 2026 23:35:48 +0000</pubDate>
-      <description>iDiallo.com</description>
     </item>
   </channel>
 </rss>
