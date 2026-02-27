@@ -26,16 +26,18 @@ jobs:
             - name: Install dependencies
               run: python -m pip install --upgrade pip feedparser
 
-            - name: Build merged RSS
+            - name: Build merged RSS and update README snippet
               run: |
                   python scripts/build_merged_rss.py \
                     --opml .github/rss/blog-feeds.opml \
                     --output feeds/blog-radar.xml \
                     --limit 120 \
-                    --timeout 10
+                    --timeout 10 \
+                    --readme-snippet README.md \
+                    --snippet-count 5
 
-            - name: Commit merged feed
+            - name: Commit merged feed and README
               uses: stefanzweifel/git-auto-commit-action@v5
               with:
                   commit_message: "chore(rss): refresh merged feed"
-                  file_pattern: feeds/blog-radar.xml
+                  file_pattern: "feeds/blog-radar.xml README.md"

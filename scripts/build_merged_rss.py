@@ -5,7 +5,8 @@ Build a merged RSS feed from an OPML subscription list.
 Usage:
   python scripts/build_merged_rss.py \
     --opml .github/rss/blog-feeds.opml \
-    --output feeds/blog-radar.xml
+    --output feeds/blog-radar.xml \
+    --readme-snippet feeds/blog-radar-snippet.md
 """
 
 from __future__ import annotations
@@ -13,6 +14,8 @@ from __future__ import annotations
 import argparse
 import concurrent.futures
 import datetime as dt
+import logging
+import re
 import time
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -25,6 +28,7 @@ from xml.sax.saxutils import escape
 
 import feedparser
 
+log = logging.getLogger("rss-radar")
 
 UTC = dt.timezone.utc
 
@@ -77,7 +81,8 @@ def clean_text(value: str) -> str:
     return " ".join((value or "").split())
 
 
-def parse_single_feed(url: str, timeout_sec: float) -> tuple[str, list[FeedItem]]:
+def parse_single_feed(url: str, timeout_sec: float) -> tuple[str, list[FeedItem], str | None]:
+    """Returns (url, items, error_message_or_None)."""
     try:
         raw = fetch_bytes(url, timeout_sec)
         parsed = feedparser.parse(raw)
@@ -98,20 +103,28 @@ def parse_single_feed(url: str, timeout_sec: float) -> tuple[str, list[FeedItem]
                     published=published,
                 )
             )
-        return url, items
-    except Exception:
-        return url, []
+        return url, items, None
+    except Exception as exc:
+        log.warning("FAILED %s — %s: %s", url, type(exc).__name__, exc)
+        return url, [], f"{type(exc).__name__}: {exc}"
 
 
-def merge_items(feed_urls: Iterable[str], timeout_sec: float) -> list[FeedItem]:
+def merge_items(feed_urls: Iterable[str], timeout_sec: float) -> tuple[list[FeedItem], list[str], list[str]]:
+    """Returns (merged_items, ok_urls, failed_urls)."""
     merged: list[FeedItem] = []
+    ok_urls: list[str] = []
+    failed_urls: list[str] = []
     with concurrent.futures.ThreadPoolExecutor(max_workers=16) as pool:
         futures = [
             pool.submit(parse_single_feed, url=url, timeout_sec=timeout_sec)
             for url in feed_urls
         ]
         for fut in concurrent.futures.as_completed(futures):
-            _, items = fut.result()
+            url, items, err = fut.result()
+            if err is not None:
+                failed_urls.append(url)
+            else:
+                ok_urls.append(url)
             merged.extend(items)
     # De-duplicate by canonical link; keep newest instance.
     latest_by_link: dict[str, FeedItem] = {}
@@ -119,7 +132,8 @@ def merge_items(feed_urls: Iterable[str], timeout_sec: float) -> list[FeedItem]:
         prev = latest_by_link.get(item.link)
         if prev is None or item.published > prev.published:
             latest_by_link[item.link] = item
-    return sorted(latest_by_link.values(), key=lambda x: x.published, reverse=True)
+    sorted_items = sorted(latest_by_link.values(), key=lambda x: x.published, reverse=True)
+    return sorted_items, ok_urls, failed_urls
 
 
 def render_rss(items: list[FeedItem], title: str, link: str, description: str) -> str:
@@ -149,25 +163,83 @@ def render_rss(items: list[FeedItem], title: str, link: str, description: str) -
     return "\n".join(lines) + "\n"
 
 
+def render_readme_snippet(items: list[FeedItem], count: int = 5) -> str:
+    """Render a markdown list of the most recent items for README injection."""
+    md_lines: list[str] = []
+    for item in items[:count]:
+        date_str = item.published.strftime("%m-%d")
+        md_lines.append(f"- [{item.title}]({item.link}) — *{item.source}* `{date_str}`")
+    return "\n".join(md_lines)
+
+
+def inject_readme_snippet(readme_path: Path, snippet: str) -> bool:
+    """Replace content between BLOG_RADAR markers in README. Returns True if changed."""
+    content = readme_path.read_text(encoding="utf-8")
+    pattern = r"(<!--BLOG_RADAR:start-->\n).*?(<!--BLOG_RADAR:end-->)"
+    replacement = rf"\g<1>{snippet}\n\2"
+    new_content, count = re.subn(pattern, replacement, content, flags=re.DOTALL)
+    if count == 0:
+        log.warning("BLOG_RADAR markers not found in %s", readme_path)
+        return False
+    if new_content == content:
+        return False
+    readme_path.write_text(new_content, encoding="utf-8")
+    return True
+
+
 def main() -> int:
+    logging.basicConfig(level=logging.INFO, format="%(levelname)s %(message)s")
+
     parser = argparse.ArgumentParser()
     parser.add_argument("--opml", required=True, type=Path)
     parser.add_argument("--output", required=True, type=Path)
     parser.add_argument("--limit", type=int, default=120)
     parser.add_argument("--timeout", type=float, default=8.0)
+    parser.add_argument("--readme-snippet", type=Path, default=None,
+                        help="Path to README.md — inject Blog Radar snippet between markers")
+    parser.add_argument("--snippet-count", type=int, default=5,
+                        help="Number of items to show in README snippet")
+    parser.add_argument("--strict", action="store_true",
+                        help="Exit with error if >50%% of feeds fail")
     args = parser.parse_args()
 
     urls = parse_opml(args.opml)
-    items = merge_items(urls, timeout_sec=args.timeout)[: max(0, args.limit)]
+    all_items, ok_urls, failed_urls = merge_items(urls, timeout_sec=args.timeout)
+    items = all_items[: max(0, args.limit)]
 
+    # Summary
+    total = len(urls)
+    ok = len(ok_urls)
+    failed = len(failed_urls)
+    failed_hosts = [urlparse(u).netloc for u in failed_urls[:5]]
+    summary_parts = [f"OK: {ok}/{total}"]
+    if failed:
+        hosts_str = ", ".join(failed_hosts)
+        if failed > 5:
+            hosts_str += f", ... (+{failed - 5} more)"
+        summary_parts.append(f"FAILED: {failed} ({hosts_str})")
+    log.info("feeds=%d items=%d | %s", total, len(items), " | ".join(summary_parts))
+
+    # Write RSS XML
     title = "TsekaLuk Blog Radar"
     link = "https://github.com/TsekaLuk/TsekaLuk"
-    description = f"Merged feed from {len(urls)} subscriptions"
+    description = f"Merged feed from {total} subscriptions"
     rss_xml = render_rss(items, title=title, link=link, description=description)
 
     args.output.parent.mkdir(parents=True, exist_ok=True)
     args.output.write_text(rss_xml, encoding="utf-8")
-    print(f"feeds={len(urls)} items={len(items)} output={args.output}")
+
+    # README snippet injection
+    if args.readme_snippet is not None:
+        snippet = render_readme_snippet(items, count=args.snippet_count)
+        changed = inject_readme_snippet(args.readme_snippet, snippet)
+        log.info("README snippet: %s", "updated" if changed else "unchanged")
+
+    # Strict mode
+    if args.strict and total > 0 and failed / total > 0.5:
+        log.error("Strict mode: %d/%d feeds failed (>50%%)", failed, total)
+        return 1
+
     return 0
 
 
