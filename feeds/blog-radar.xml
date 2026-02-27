@@ -4,7 +4,56 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 26 Feb 2026 19:02:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 02:40:57 +0000</lastBuildDate>
+    <item>
+      <title>Apple Announces F1 Broadcast Details, and a Surprising Netflix Partnership</title>
+      <link>https://sixcolors.com/post/2026/02/apple-announces-f1-details-and-a-surprising-netflix-partnership/</link>
+      <guid isPermaLink="true">https://sixcolors.com/post/2026/02/apple-announces-f1-details-and-a-surprising-netflix-partnership/</guid>
+      <pubDate>Fri, 27 Feb 2026 01:30:25 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Energym</title>
+      <link>https://www.aicandy.be/giorgio-1</link>
+      <guid isPermaLink="true">https://www.aicandy.be/giorgio-1</guid>
+      <pubDate>Fri, 27 Feb 2026 00:37:25 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Netflix Backs Out of Bid for Warner Bros., Paving Way for Paramount Takeover</title>
+      <link>https://www.nytimes.com/2026/02/26/business/warner-bros-discovery-paramount-deal-netflix.html?unlocked_article_code=1.PVA.3639.2yWKES49z8Os</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/02/26/business/warner-bros-discovery-paramount-deal-netflix.html?unlocked_article_code=1.PVA.3639.2yWKES49z8Os</guid>
+      <pubDate>Fri, 27 Feb 2026 00:17:31 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>iPhone and iPad Approved to Handle Classified NATO Information</title>
+      <link>https://nr.apple.com/Do0I6B8WX0</link>
+      <guid isPermaLink="true">https://nr.apple.com/Do0I6B8WX0</guid>
+      <pubDate>Thu, 26 Feb 2026 21:42:15 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Hoard things you know how to do</title>
+      <link>https://simonwillison.net/guides/agentic-engineering-patterns/hoard-things-you-know-how-to-do/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/guides/agentic-engineering-patterns/hoard-things-you-know-how-to-do/#atom-everything</guid>
+      <pubDate>Thu, 26 Feb 2026 20:33:27 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>How to Securely Erase an old Hard Drive on macOS Tahoe</title>
+      <link>https://www.jeffgeerling.com/blog/2026/securely-erase-hard-drive-macos-tahoe/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/securely-erase-hard-drive-macos-tahoe/</guid>
+      <pubDate>Thu, 26 Feb 2026 20:30:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>Quoting Andrej Karpathy</title>
+      <link>https://simonwillison.net/2026/Feb/26/andrej-karpathy/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/26/andrej-karpathy/#atom-everything</guid>
+      <pubDate>Thu, 26 Feb 2026 19:03:27 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>‘Steve Jobs in Exile’</title>
       <link>https://geoffreycain.net/steve-jobs-in-exile/</link>
@@ -76,6 +125,13 @@
       <description>Pluralistic: Daily links from Cory Doctorow</description>
     </item>
     <item>
+      <title>Nevenfuncties / secondary positions</title>
+      <link>https://berthub.eu/articles/nevenfuncties/</link>
+      <guid isPermaLink="true">https://berthub.eu/articles/nevenfuncties/</guid>
+      <pubDate>Thu, 26 Feb 2026 10:22:53 +0000</pubDate>
+      <description>Bert Hubert's writings</description>
+    </item>
+    <item>
       <title>Git in Postgres</title>
       <link>https://nesbitt.io/2026/02/26/git-in-postgres.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/02/26/git-in-postgres.html</guid>
@@ -116,6 +172,13 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/02/25/hyperbolic-versions-of-latest-posts/</guid>
       <pubDate>Thu, 26 Feb 2026 01:10:37 +0000</pubDate>
       <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Introducing gzpeek, a tool to parse gzip metadata</title>
+      <link>https://evanhahn.com/introducing-gzpeek/</link>
+      <guid isPermaLink="true">https://evanhahn.com/introducing-gzpeek/</guid>
+      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Evan Hahn (dot com)</description>
     </item>
     <item>
       <title>Using OpenCode in CI/CD for AI pull request reviews</title>
@@ -781,69 +844,6 @@
       <guid isPermaLink="true">https://idiallo.com/byte-size/nvidia-was-only-invited-to-invest?src=feed</guid>
       <pubDate>Sat, 21 Feb 2026 23:35:48 +0000</pubDate>
       <description>iDiallo.com</description>
-    </item>
-    <item>
-      <title>Computing big, certified Fibonacci numbers</title>
-      <link>https://www.johndcook.com/blog/2026/02/21/big-certified-fibonacci/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/02/21/big-certified-fibonacci/</guid>
-      <pubDate>Sat, 21 Feb 2026 18:13:13 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Reading List 02/21/26</title>
-      <link>https://www.construction-physics.com/p/reading-list-022126</link>
-      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-022126</guid>
-      <pubDate>Sat, 21 Feb 2026 13:37:44 +0000</pubDate>
-      <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>OpenBenches at FOSDEM</title>
-      <link>https://shkspr.mobi/blog/2026/02/openbenches-at-fosdem/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/02/openbenches-at-fosdem/</guid>
-      <pubDate>Sat, 21 Feb 2026 12:34:03 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Quoting Thibault Sottiaux</title>
-      <link>https://simonwillison.net/2026/Feb/21/thibault-sottiaux/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/21/thibault-sottiaux/#atom-everything</guid>
-      <pubDate>Sat, 21 Feb 2026 01:30:21 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Andrej Karpathy talks about "Claws"</title>
-      <link>https://simonwillison.net/2026/Feb/21/claws/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/21/claws/#atom-everything</guid>
-      <pubDate>Sat, 21 Feb 2026 00:37:45 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Wrapping Code Comments</title>
-      <link>https://matklad.github.io/2026/02/21/wrapping-code-comments.html</link>
-      <guid isPermaLink="true">https://matklad.github.io/2026/02/21/wrapping-code-comments.html</guid>
-      <pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
-      <description>matklad</description>
-    </item>
-    <item>
-      <title>Track Zelda release anniversaries in your calendar</title>
-      <link>https://evanhahn.com/zelda-anniversary-calendar/</link>
-      <guid isPermaLink="true">https://evanhahn.com/zelda-anniversary-calendar/</guid>
-      <pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Evan Hahn (dot com)</description>
-    </item>
-    <item>
-      <title>Whale Fall</title>
-      <link>https://nesbitt.io/2026/02/21/whale-fall.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/02/21/whale-fall.html</guid>
-      <pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Adding TILs, releases, museums, tools and research to my blog</title>
-      <link>https://simonwillison.net/2026/Feb/20/beats/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/20/beats/#atom-everything</guid>
-      <pubDate>Fri, 20 Feb 2026 23:47:10 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
