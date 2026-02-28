@@ -208,11 +208,11 @@ Last Updated: Sunday, March 1st, 2026, 2:25:40 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [30 months to 3MWh - some more home battery stats](https://shkspr.mobi/blog/2026/02/30-months-to-3mwh-some-more-home-battery-stats/) — *Terence Eden’s Blog* `02-28`
-- [Who is the Kimwolf Botmaster “Dort”?](https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/) — *Krebs on Security* `02-28`
-- [Pluralistic: California can stop Larry Ellison from buying Warners (28 Feb 2026)](https://pluralistic.net/2026/02/28/golden-mean/) — *Pluralistic: Daily links from Cory Doctorow* `02-28`
-- [npm Data Subject Access Request](https://nesbitt.io/2026/02/28/npm-data-subject-access-request.html) — *Andrew Nesbitt* `02-28`
-- [A Cookie for Dario? — Anthropic and selling death](https://anildash.com/2026/02/27/a-cookie-for-dario/) — *Anil Dash* `02-28`
+- [The Most Important Micros](https://www.abortretry.fail/p/the-most-important-micros) — *Abort Retry Fail* `02-28`
+- [Working with file extensions in bash scripts](https://www.johndcook.com/blog/2026/02/28/file-extensions-bash/) — *John D. Cook* `02-28`
+- [That's it, I'm cancelling my ChatGPT](https://idiallo.com/byte-size/im-cancelling-my-chatgpt-openai-account?src=feed) — *iDiallo.com* `02-28`
+- [Trump’s Enormous Gamble on Regime Change in Iran](https://www.theatlantic.com/ideas/2026/02/trumps-iran-regime-change-attack-gamble/686190/?gift=aQyUJR7AIw1mJWdQ6Ed6yOWB4bfod1kQqCyz2RXbHaY) — *Daring Fireball* `02-28`
+- [LLM Use in the Python Source Code](https://blog.miguelgrinberg.com/post/llm-use-in-the-python-source-code) — *Miguel Grinberg's Blog* `02-28`
 <!--BLOG_RADAR:end-->
 
 ---

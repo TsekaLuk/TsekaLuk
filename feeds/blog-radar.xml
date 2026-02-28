@@ -4,7 +4,49 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 28 Feb 2026 13:00:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 18:42:36 +0000</lastBuildDate>
+    <item>
+      <title>The Most Important Micros</title>
+      <link>https://www.abortretry.fail/p/the-most-important-micros</link>
+      <guid isPermaLink="true">https://www.abortretry.fail/p/the-most-important-micros</guid>
+      <pubDate>Sat, 28 Feb 2026 18:23:23 +0000</pubDate>
+      <description>Abort Retry Fail</description>
+    </item>
+    <item>
+      <title>Working with file extensions in bash scripts</title>
+      <link>https://www.johndcook.com/blog/2026/02/28/file-extensions-bash/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/02/28/file-extensions-bash/</guid>
+      <pubDate>Sat, 28 Feb 2026 18:20:37 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>That's it, I'm cancelling my ChatGPT</title>
+      <link>https://idiallo.com/byte-size/im-cancelling-my-chatgpt-openai-account?src=feed</link>
+      <guid isPermaLink="true">https://idiallo.com/byte-size/im-cancelling-my-chatgpt-openai-account?src=feed</guid>
+      <pubDate>Sat, 28 Feb 2026 17:39:08 +0000</pubDate>
+      <description>iDiallo.com</description>
+    </item>
+    <item>
+      <title>Trump’s Enormous Gamble on Regime Change in Iran</title>
+      <link>https://www.theatlantic.com/ideas/2026/02/trumps-iran-regime-change-attack-gamble/686190/?gift=aQyUJR7AIw1mJWdQ6Ed6yOWB4bfod1kQqCyz2RXbHaY</link>
+      <guid isPermaLink="true">https://www.theatlantic.com/ideas/2026/02/trumps-iran-regime-change-attack-gamble/686190/?gift=aQyUJR7AIw1mJWdQ6Ed6yOWB4bfod1kQqCyz2RXbHaY</guid>
+      <pubDate>Sat, 28 Feb 2026 16:04:41 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>LLM Use in the Python Source Code</title>
+      <link>https://blog.miguelgrinberg.com/post/llm-use-in-the-python-source-code</link>
+      <guid isPermaLink="true">https://blog.miguelgrinberg.com/post/llm-use-in-the-python-source-code</guid>
+      <pubDate>Sat, 28 Feb 2026 15:14:18 +0000</pubDate>
+      <description>Miguel Grinberg's Blog</description>
+    </item>
+    <item>
+      <title>Reading List 02/28/26</title>
+      <link>https://www.construction-physics.com/p/reading-list-022826</link>
+      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-022826</guid>
+      <pubDate>Sat, 28 Feb 2026 13:54:39 +0000</pubDate>
+      <description>Construction Physics</description>
+    </item>
     <item>
       <title>30 months to 3MWh - some more home battery stats</title>
       <link>https://shkspr.mobi/blog/2026/02/30-months-to-3mwh-some-more-home-battery-stats/</link>
@@ -32,6 +74,13 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/02/28/npm-data-subject-access-request.html</guid>
       <pubDate>Sat, 28 Feb 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>Notes from February 2026</title>
+      <link>https://evanhahn.com/notes-from-february-2026/</link>
+      <guid isPermaLink="true">https://evanhahn.com/notes-from-february-2026/</guid>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Evan Hahn (dot com)</description>
     </item>
     <item>
       <title>A Cookie for Dario? — Anthropic and selling death</title>
@@ -795,55 +844,6 @@
       <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/origami-icons/</guid>
       <pubDate>Mon, 23 Feb 2026 19:00:00 +0000</pubDate>
       <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
-      <title>Ladybird adopts Rust, with help from AI</title>
-      <link>https://simonwillison.net/2026/Feb/23/ladybird-adopts-rust/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/23/ladybird-adopts-rust/#atom-everything</guid>
-      <pubDate>Mon, 23 Feb 2026 18:52:53 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Writing about Agentic Engineering Patterns</title>
-      <link>https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/#atom-everything</guid>
-      <pubDate>Mon, 23 Feb 2026 17:43:02 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>New Blog Post: Some Silly Z3 Scripts I Wrote</title>
-      <link>https://buttondown.com/hillelwayne/archive/new-blog-post-some-silly-z3-scripts-i-wrote/</link>
-      <guid isPermaLink="true">https://buttondown.com/hillelwayne/archive/new-blog-post-some-silly-z3-scripts-i-wrote/</guid>
-      <pubDate>Mon, 23 Feb 2026 16:49:10 +0000</pubDate>
-      <description>Computer Things</description>
-    </item>
-    <item>
-      <title>Writing code is cheap now</title>
-      <link>https://simonwillison.net/guides/agentic-engineering-patterns/code-is-cheap/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/guides/agentic-engineering-patterns/code-is-cheap/#atom-everything</guid>
-      <pubDate>Mon, 23 Feb 2026 16:20:42 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Quoting Paul Ford</title>
-      <link>https://simonwillison.net/2026/Feb/23/paul-ford/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/23/paul-ford/#atom-everything</guid>
-      <pubDate>Mon, 23 Feb 2026 16:00:32 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Customizing the ways the dialog manager dismisses itself: Detecting the ESC key, second (failed) attempt</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260223-00/?p=112080</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260223-00/?p=112080</guid>
-      <pubDate>Mon, 23 Feb 2026 15:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Pockets of Humanity</title>
-      <link>https://herman.bearblog.dev/pockets-of-humanity/</link>
-      <guid isPermaLink="true">https://herman.bearblog.dev/pockets-of-humanity/</guid>
-      <pubDate>Mon, 23 Feb 2026 13:25:00 +0000</pubDate>
-      <description>Herman's blog</description>
     </item>
   </channel>
 </rss>
