@@ -208,11 +208,11 @@ Last Updated: Saturday, February 28th, 2026, 8:34:30 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [30 months to 3MWh - some more home battery stats](https://shkspr.mobi/blog/2026/02/30-months-to-3mwh-some-more-home-battery-stats/) — *Terence Eden’s Blog* `02-28`
+- [Who is the Kimwolf Botmaster “Dort”?](https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/) — *Krebs on Security* `02-28`
+- [Pluralistic: California can stop Larry Ellison from buying Warners (28 Feb 2026)](https://pluralistic.net/2026/02/28/golden-mean/) — *Pluralistic: Daily links from Cory Doctorow* `02-28`
+- [npm Data Subject Access Request](https://nesbitt.io/2026/02/28/npm-data-subject-access-request.html) — *Andrew Nesbitt* `02-28`
 - [A Cookie for Dario? — Anthropic and selling death](https://anildash.com/2026/02/27/a-cookie-for-dario/) — *Anil Dash* `02-28`
-- [Please, please, please stop using passkeys for encrypting user data](https://simonwillison.net/2026/Feb/27/passkeys/#atom-everything) — *Simon Willison's Weblog* `02-27`
-- [An AI agent coding skeptic tries AI agent coding, in excessive detail](https://simonwillison.net/2026/Feb/27/ai-agent-coding-in-excessive-detail/#atom-everything) — *Simon Willison's Weblog* `02-27`
-- [West Virginia’s Anti-Apple CSAM Lawsuit Would Help Child Predators Walk Free](https://www.techdirt.com/2026/02/25/west-virginias-anti-apple-csam-lawsuit-would-help-child-predators-walk-free/) — *Daring Fireball* `02-27`
-- [Computers and the Internet: A Two-Edged Sword](https://blog.jim-nielsen.com/2026/two-edged-sword-of-computers-and-internet/) — *Jim Nielsen’s Blog* `02-27`
 <!--BLOG_RADAR:end-->
 
 ---
