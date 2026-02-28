@@ -4,7 +4,42 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 27 Feb 2026 18:55:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 02:29:52 +0000</lastBuildDate>
+    <item>
+      <title>A Cookie for Dario? — Anthropic and selling death</title>
+      <link>https://anildash.com/2026/02/27/a-cookie-for-dario/</link>
+      <guid isPermaLink="true">https://anildash.com/2026/02/27/a-cookie-for-dario/</guid>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Anil Dash</description>
+    </item>
+    <item>
+      <title>Please, please, please stop using passkeys for encrypting user data</title>
+      <link>https://simonwillison.net/2026/Feb/27/passkeys/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/27/passkeys/#atom-everything</guid>
+      <pubDate>Fri, 27 Feb 2026 22:49:32 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>An AI agent coding skeptic tries AI agent coding, in excessive detail</title>
+      <link>https://simonwillison.net/2026/Feb/27/ai-agent-coding-in-excessive-detail/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/27/ai-agent-coding-in-excessive-detail/#atom-everything</guid>
+      <pubDate>Fri, 27 Feb 2026 20:43:41 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>West Virginia’s Anti-Apple CSAM Lawsuit Would Help Child Predators Walk Free</title>
+      <link>https://www.techdirt.com/2026/02/25/west-virginias-anti-apple-csam-lawsuit-would-help-child-predators-walk-free/</link>
+      <guid isPermaLink="true">https://www.techdirt.com/2026/02/25/west-virginias-anti-apple-csam-lawsuit-would-help-child-predators-walk-free/</guid>
+      <pubDate>Fri, 27 Feb 2026 19:28:44 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Computers and the Internet: A Two-Edged Sword</title>
+      <link>https://blog.jim-nielsen.com/2026/two-edged-sword-of-computers-and-internet/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/two-edged-sword-of-computers-and-internet/</guid>
+      <pubDate>Fri, 27 Feb 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
+    </item>
     <item>
       <title>How to Block the ‘Upgrade to Tahoe’ Alerts and System Settings Indicator</title>
       <link>https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/</link>
@@ -76,11 +111,25 @@
       <description>Jeff Geerling</description>
     </item>
     <item>
+      <title>Intercepting messages inside Is­Dialog­Message, fine-tuning the message filter</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260227-00/?p=112094</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260227-00/?p=112094</guid>
+      <pubDate>Fri, 27 Feb 2026 15:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
+    <item>
       <title>Book Review: Weird Things Customers Say in Bookshops by Jen Campbell ★★☆☆☆</title>
       <link>https://shkspr.mobi/blog/2026/02/book-review-weird-things-customers-say-in-bookshops-by-jen-campbell/</link>
       <guid isPermaLink="true">https://shkspr.mobi/blog/2026/02/book-review-weird-things-customers-say-in-bookshops-by-jen-campbell/</guid>
       <pubDate>Fri, 27 Feb 2026 12:34:11 +0000</pubDate>
       <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>We Need Process, But Process Gets in the Way</title>
+      <link>https://idiallo.com/blog/when-process-get-in-the-way?src=feed</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/when-process-get-in-the-way?src=feed</guid>
+      <pubDate>Fri, 27 Feb 2026 12:00:00 +0000</pubDate>
+      <description>iDiallo.com</description>
     </item>
     <item>
       <title>xkcd 2347</title>
@@ -109,6 +158,13 @@
       <guid isPermaLink="true">https://www.nytimes.com/2026/02/26/business/warner-bros-discovery-paramount-deal-netflix.html?unlocked_article_code=1.PVA.3639.2yWKES49z8Os</guid>
       <pubDate>Fri, 27 Feb 2026 00:17:31 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>cash issuing terminals</title>
+      <link>https://computer.rip/2026-02-27-ibm-atm.html</link>
+      <guid isPermaLink="true">https://computer.rip/2026-02-27-ibm-atm.html</guid>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
+      <description>computers are bad</description>
     </item>
     <item>
       <title>iPhone and iPad Approved to Handle Classified NATO Information</title>
@@ -788,62 +844,6 @@
       <guid isPermaLink="true">https://shkspr.mobi/blog/2026/02/book-review-a-geography-of-time-by-robert-v-levine/</guid>
       <pubDate>Mon, 23 Feb 2026 12:34:07 +0000</pubDate>
       <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>The Little Red Dot</title>
-      <link>https://idiallo.com/blog/little-red-dot?src=feed</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/little-red-dot?src=feed</guid>
-      <pubDate>Mon, 23 Feb 2026 12:00:00 +0000</pubDate>
-      <description>iDiallo.com</description>
-    </item>
-    <item>
-      <title>Everyone in AI is building the wrong thing for the same reason</title>
-      <link>https://www.joanwestenberg.com/everyone-in-ai-is-building-the-wrong-thing-for-the-same-reason/</link>
-      <guid isPermaLink="true">https://www.joanwestenberg.com/everyone-in-ai-is-building-the-wrong-thing-for-the-same-reason/</guid>
-      <pubDate>Mon, 23 Feb 2026 11:09:55 +0000</pubDate>
-      <description>Westenberg.</description>
-    </item>
-    <item>
-      <title>Pluralistic: Deplatform yourself (23 Feb 2026)</title>
-      <link>https://pluralistic.net/2026/02/23/goodharts-lawbreaker/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/02/23/goodharts-lawbreaker/</guid>
-      <pubDate>Mon, 23 Feb 2026 10:52:48 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Where Do Specifications Fit in the Dependency Tree?</title>
-      <link>https://nesbitt.io/2026/02/23/where-do-specifications-fit-in-the-dependency-tree.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/02/23/where-do-specifications-fit-in-the-dependency-tree.html</guid>
-      <pubDate>Mon, 23 Feb 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Red/green TDD</title>
-      <link>https://simonwillison.net/guides/agentic-engineering-patterns/red-green-tdd/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/guides/agentic-engineering-patterns/red-green-tdd/#atom-everything</guid>
-      <pubDate>Mon, 23 Feb 2026 07:12:28 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Insider amnesia</title>
-      <link>https://seangoedecke.com/insider-amnesia/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/insider-amnesia/</guid>
-      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>What's so hard about continuous learning?</title>
-      <link>https://seangoedecke.com/continuous-learning/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/continuous-learning/</guid>
-      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>Be careful with LLM "Agents"</title>
-      <link>https://maurycyz.com/misc/sandbox_llms/</link>
-      <guid isPermaLink="true">https://maurycyz.com/misc/sandbox_llms/</guid>
-      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
     </item>
   </channel>
 </rss>

@@ -208,11 +208,11 @@ Last Updated: Saturday, February 28th, 2026, 9:23:00 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [How to Block the ‘Upgrade to Tahoe’ Alerts and System Settings Indicator](https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/) — *Daring Fireball* `02-27`
-- [★ A Sometimes-Hidden Setting Controls What Happens When You Tap a Call in the iOS 26 Phone App](https://daringfireball.net/2026/02/sometimes_hidden_setting_phone_app) — *Daring Fireball* `02-27`
-- [Free Claude Max for (large project) open source maintainers](https://simonwillison.net/2026/Feb/27/claude-max-oss-six-months/#atom-everything) — *Simon Willison's Weblog* `02-27`
-- [An AI agent coding skeptic tries AI agent coding, in excessive detail](https://minimaxir.com/2026/02/ai-agent-coding/) — *Max Woolf's Blog* `02-27`
-- [Unicode Explorer using binary search over fetch() HTTP range requests](https://simonwillison.net/2026/Feb/27/unicode-explorer/#atom-everything) — *Simon Willison's Weblog* `02-27`
+- [A Cookie for Dario? — Anthropic and selling death](https://anildash.com/2026/02/27/a-cookie-for-dario/) — *Anil Dash* `02-28`
+- [Please, please, please stop using passkeys for encrypting user data](https://simonwillison.net/2026/Feb/27/passkeys/#atom-everything) — *Simon Willison's Weblog* `02-27`
+- [An AI agent coding skeptic tries AI agent coding, in excessive detail](https://simonwillison.net/2026/Feb/27/ai-agent-coding-in-excessive-detail/#atom-everything) — *Simon Willison's Weblog* `02-27`
+- [West Virginia’s Anti-Apple CSAM Lawsuit Would Help Child Predators Walk Free](https://www.techdirt.com/2026/02/25/west-virginias-anti-apple-csam-lawsuit-would-help-child-predators-walk-free/) — *Daring Fireball* `02-27`
+- [Computers and the Internet: A Two-Edged Sword](https://blog.jim-nielsen.com/2026/two-edged-sword-of-computers-and-internet/) — *Jim Nielsen’s Blog* `02-27`
 <!--BLOG_RADAR:end-->
 
 ---
