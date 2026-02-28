@@ -185,20 +185,20 @@ As **Founder & CEO**, I operate **Nebutra Intelligence** as an **AI-Native OPC (
 ### 🕒 **Recent Activity**
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, February 28th, 2026, 9:23:00 AM
+Last Updated: Saturday, February 28th, 2026, 2:30:48 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-- ⬆️ Pushed updates to [TsekaLuk/Master-Entrance-Exam](https://github.com/TsekaLuk/Master-Entrance-Exam)<br>
-- ⬆️ Pushed updates to [TsekaLuk/Master-Entrance-Exam](https://github.com/TsekaLuk/Master-Entrance-Exam)<br>
-- ⬆️ Pushed updates to [TsekaLuk/Master-Entrance-Exam](https://github.com/TsekaLuk/Master-Entrance-Exam)<br>
-- ⬆️ Pushed updates to [TsekaLuk/Master-Entrance-Exam](https://github.com/TsekaLuk/Master-Entrance-Exam)<br>
-- ⬆️ Pushed updates to [TsekaLuk/Master-Entrance-Exam](https://github.com/TsekaLuk/Master-Entrance-Exam)<br>
-- ⬆️ Pushed updates to [TsekaLuk/Master-Entrance-Exam](https://github.com/TsekaLuk/Master-Entrance-Exam)<br>
-- ⬆️ Pushed updates to [TsekaLuk/Master-Entrance-Exam](https://github.com/TsekaLuk/Master-Entrance-Exam)<br>
-- ⬆️ Pushed updates to [TsekaLuk/Master-Entrance-Exam](https://github.com/TsekaLuk/Master-Entrance-Exam)<br>
-- ⬆️ Pushed updates to [TsekaLuk/Master-Entrance-Exam](https://github.com/TsekaLuk/Master-Entrance-Exam)<br>
-- ⬆️ Pushed updates to [TsekaLuk/Master-Entrance-Exam](https://github.com/TsekaLuk/Master-Entrance-Exam)<br>
+- ✌️ Released [v2.1.0 — Word/PPT/Image support + Language & Model params](https://github.com/Nebutra/MinerU-Skill/releases/tag/v2.1.0) in [Nebutra/MinerU-Skill](https://github.com/Nebutra/MinerU-Skill)<br>
+- ⬆️ Pushed updates to [Nebutra/MinerU-Skill](https://github.com/Nebutra/MinerU-Skill)<br>
+- ⬆️ Pushed updates to [Nebutra/MinerU-Skill](https://github.com/Nebutra/MinerU-Skill)<br>
+- ⬆️ Pushed updates to [Nebutra/MinerU-Skill](https://github.com/Nebutra/MinerU-Skill)<br>
+- ✌️ Released [v2.1.0 — Word/PPT/Image support + Language & Model params](https://github.com/Nebutra/MinerU-Skill/releases/tag/v2.1.0) in [Nebutra/MinerU-Skill](https://github.com/Nebutra/MinerU-Skill)<br>
+- ⬆️ Pushed updates to [Nebutra/MinerU-Skill](https://github.com/Nebutra/MinerU-Skill)<br>
+- ⬆️ Pushed updates to [Nebutra/MinerU-Skill](https://github.com/Nebutra/MinerU-Skill)<br>
+- ⬆️ Pushed updates to [Nebutra/MinerU-Skill](https://github.com/Nebutra/MinerU-Skill)<br>
+- ❗ Opened issue [#884](https://github.com/hesreallyhim/awesome-claude-code/issues/884) in [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)<br>
+- 💪 Opened PR [#187](undefined) in [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
