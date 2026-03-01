@@ -208,11 +208,11 @@ Last Updated: Sunday, March 1st, 2026, 9:51:29 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [&ldquo;How old are you?&rdquo; Asked the OS](https://idiallo.com/byte-size/how-old-are-you-asked-the-os?src=feed) — *iDiallo.com* `03-01`
+- [Interactive explanations](https://simonwillison.net/guides/agentic-engineering-patterns/interactive-explanations/#atom-everything) — *Simon Willison's Weblog* `02-28`
 - [The Most Important Micros](https://www.abortretry.fail/p/the-most-important-micros) — *Abort Retry Fail* `02-28`
 - [Working with file extensions in bash scripts](https://www.johndcook.com/blog/2026/02/28/file-extensions-bash/) — *John D. Cook* `02-28`
 - [That's it, I'm cancelling my ChatGPT](https://idiallo.com/byte-size/im-cancelling-my-chatgpt-openai-account?src=feed) — *iDiallo.com* `02-28`
-- [Trump’s Enormous Gamble on Regime Change in Iran](https://www.theatlantic.com/ideas/2026/02/trumps-iran-regime-change-attack-gamble/686190/?gift=aQyUJR7AIw1mJWdQ6Ed6yOWB4bfod1kQqCyz2RXbHaY) — *Daring Fireball* `02-28`
-- [LLM Use in the Python Source Code](https://blog.miguelgrinberg.com/post/llm-use-in-the-python-source-code) — *Miguel Grinberg's Blog* `02-28`
 <!--BLOG_RADAR:end-->
 
 ---

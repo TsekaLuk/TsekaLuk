@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 28 Feb 2026 18:42:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 02:56:14 +0000</lastBuildDate>
+    <item>
+      <title>&amp;ldquo;How old are you?&amp;rdquo; Asked the OS</title>
+      <link>https://idiallo.com/byte-size/how-old-are-you-asked-the-os?src=feed</link>
+      <guid isPermaLink="true">https://idiallo.com/byte-size/how-old-are-you-asked-the-os?src=feed</guid>
+      <pubDate>Sun, 01 Mar 2026 01:43:17 +0000</pubDate>
+      <description>iDiallo.com</description>
+    </item>
+    <item>
+      <title>Interactive explanations</title>
+      <link>https://simonwillison.net/guides/agentic-engineering-patterns/interactive-explanations/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/guides/agentic-engineering-patterns/interactive-explanations/#atom-everything</guid>
+      <pubDate>Sat, 28 Feb 2026 23:09:39 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>The Most Important Micros</title>
       <link>https://www.abortretry.fail/p/the-most-important-micros</link>
@@ -83,9 +97,23 @@
       <description>Evan Hahn (dot com)</description>
     </item>
     <item>
+      <title>HN Skins 0.1.0</title>
+      <link>https://susam.net/code/news/hnskins/0.1.0.html</link>
+      <guid isPermaLink="true">https://susam.net/code/news/hnskins/0.1.0.html</guid>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Susam Pal</description>
+    </item>
+    <item>
       <title>A Cookie for Dario? — Anthropic and selling death</title>
       <link>https://anildash.com/2026/02/27/a-cookie-for-dario/</link>
       <guid isPermaLink="true">https://anildash.com/2026/02/27/a-cookie-for-dario/</guid>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Anil Dash</description>
+    </item>
+    <item>
+      <title>Why Apple’s move to video could endanger podcasting's greatest power</title>
+      <link>https://anildash.com/2026/02/28/apple-video-podcast-power/</link>
+      <guid isPermaLink="true">https://anildash.com/2026/02/28/apple-video-podcast-power/</guid>
       <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
       <description>Anil Dash</description>
     </item>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://www.joanwestenberg.com/thoughts-on-farcaster/</guid>
       <pubDate>Mon, 23 Feb 2026 22:07:22 +0000</pubDate>
       <description>Westenberg.</description>
-    </item>
-    <item>
-      <title>Trader Joe’s Dark Chocolate Peanut Butter Cups</title>
-      <link>https://www.traderjoes.com/home/products/pdp/dark-chocolate-peanut-butter-cups-094064</link>
-      <guid isPermaLink="true">https://www.traderjoes.com/home/products/pdp/dark-chocolate-peanut-butter-cups-094064</guid>
-      <pubDate>Mon, 23 Feb 2026 21:40:48 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Grandson of Inventor of Reese’s Peanut Butter Cups Goes Public With the Obvious: They Taste Like Shit Now</title>
-      <link>https://apnews.com/article/reeses-peanut-butter-cups-hershey-chocolate-1a66ec75247fd146888b7a747a740cd3</link>
-      <guid isPermaLink="true">https://apnews.com/article/reeses-peanut-butter-cups-hershey-chocolate-1a66ec75247fd146888b7a747a740cd3</guid>
-      <pubDate>Mon, 23 Feb 2026 21:28:14 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Giant Steps</title>
-      <link>https://www.johndcook.com/blog/2026/02/23/giant-steps/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/02/23/giant-steps/</guid>
-      <pubDate>Mon, 23 Feb 2026 19:20:23 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Making Icon Sets Easy With Web Origami</title>
-      <link>https://blog.jim-nielsen.com/2026/origami-icons/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/origami-icons/</guid>
-      <pubDate>Mon, 23 Feb 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
     </item>
   </channel>
 </rss>
