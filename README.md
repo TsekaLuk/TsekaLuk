@@ -208,11 +208,11 @@ Last Updated: Sunday, March 1st, 2026, 8:37:10 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Book Review: Under Fire - Black Britain in Wartime by Stephen Bourne ★★★★☆](https://shkspr.mobi/blog/2026/03/book-review-under-fire-black-britain-in-wartime-by-stephen-bourne/) — *Terence Eden’s Blog* `03-01`
+- [Quoting claude.com/import-memory](https://simonwillison.net/2026/Mar/1/claude-import-memory/#atom-everything) — *Simon Willison's Weblog* `03-01`
+- [Redis patterns for coding](http://antirez.com/news/161) — *<antirez>* `03-01`
 - [Notes on Lagrange Interpolating Polynomials](https://eli.thegreenplace.net/2026/notes-on-lagrange-interpolating-polynomials/) — *Eli Bendersky's website* `03-01`
 - [&ldquo;How old are you?&rdquo; Asked the OS](https://idiallo.com/byte-size/how-old-are-you-asked-the-os?src=feed) — *iDiallo.com* `03-01`
-- [Interactive explanations](https://simonwillison.net/guides/agentic-engineering-patterns/interactive-explanations/#atom-everything) — *Simon Willison's Weblog* `02-28`
-- [The Most Important Micros](https://www.abortretry.fail/p/the-most-important-micros) — *Abort Retry Fail* `02-28`
-- [Working with file extensions in bash scripts](https://www.johndcook.com/blog/2026/02/28/file-extensions-bash/) — *John D. Cook* `02-28`
 <!--BLOG_RADAR:end-->
 
 ---

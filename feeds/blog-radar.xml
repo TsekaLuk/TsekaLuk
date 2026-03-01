@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 01 Mar 2026 06:56:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 13:03:53 +0000</lastBuildDate>
+    <item>
+      <title>Book Review: Under Fire - Black Britain in Wartime by Stephen Bourne ★★★★☆</title>
+      <link>https://shkspr.mobi/blog/2026/03/book-review-under-fire-black-britain-in-wartime-by-stephen-bourne/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/03/book-review-under-fire-black-britain-in-wartime-by-stephen-bourne/</guid>
+      <pubDate>Sun, 01 Mar 2026 12:34:27 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Quoting claude.com/import-memory</title>
+      <link>https://simonwillison.net/2026/Mar/1/claude-import-memory/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/1/claude-import-memory/#atom-everything</guid>
+      <pubDate>Sun, 01 Mar 2026 11:21:45 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Redis patterns for coding</title>
+      <link>http://antirez.com/news/161</link>
+      <guid isPermaLink="true">http://antirez.com/news/161</guid>
+      <pubDate>Sun, 01 Mar 2026 09:55:09 +0000</pubDate>
+      <description>&lt;antirez&gt;</description>
+    </item>
     <item>
       <title>Notes on Lagrange Interpolating Polynomials</title>
       <link>https://eli.thegreenplace.net/2026/notes-on-lagrange-interpolating-polynomials/</link>
@@ -18,6 +39,13 @@
       <guid isPermaLink="true">https://idiallo.com/byte-size/how-old-are-you-asked-the-os?src=feed</guid>
       <pubDate>Sun, 01 Mar 2026 01:43:17 +0000</pubDate>
       <description>iDiallo.com</description>
+    </item>
+    <item>
+      <title>Downstream Testing</title>
+      <link>https://nesbitt.io/2026/03/01/downstream-testing.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/03/01/downstream-testing.html</guid>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
     </item>
     <item>
       <title>Interactive explanations</title>
@@ -370,7 +398,7 @@
       <description>The Old New Thing</description>
     </item>
     <item>
-      <title>Amerika runt binnenkort onze BTW</title>
+      <title>Amerika runt binnenkort onze btw</title>
       <link>https://berthub.eu/articles/posts/btw-as-an-american-service/</link>
       <guid isPermaLink="true">https://berthub.eu/articles/posts/btw-as-an-american-service/</guid>
       <pubDate>Thu, 26 Feb 2026 13:44:09 +0000</pubDate>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://netnewswire.blog/2026/01/27/netnewswire-for-mac.html</guid>
       <pubDate>Tue, 24 Feb 2026 01:00:00 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Weekly Update 492</title>
-      <link>https://www.troyhunt.com/weekly-update-492/</link>
-      <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-492/</guid>
-      <pubDate>Tue, 24 Feb 2026 00:38:59 +0000</pubDate>
-      <description>Troy Hunt</description>
-    </item>
-    <item>
-      <title>The Pants-Shitting Saga of Resizing Windows on MacOS 26 Tahoe Continues</title>
-      <link>https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/</link>
-      <guid isPermaLink="true">https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/</guid>
-      <pubDate>Tue, 24 Feb 2026 00:31:00 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Portable monitors are good</title>
-      <link>https://xeiaso.net/blog/2026/portable-monitors-are-good/</link>
-      <guid isPermaLink="true">https://xeiaso.net/blog/2026/portable-monitors-are-good/</guid>
-      <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
-      <title>Taking action against AI harms</title>
-      <link>https://anildash.com/2026/02/23/taking-action-ai-harms/</link>
-      <guid isPermaLink="true">https://anildash.com/2026/02/23/taking-action-ai-harms/</guid>
-      <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Anil Dash</description>
     </item>
   </channel>
 </rss>
