@@ -208,11 +208,11 @@ Last Updated: Monday, March 2nd, 2026, 2:26:15 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Shell variable ~-](https://www.johndcook.com/blog/2026/03/01/tilde-dash/) — *John D. Cook* `03-01`
+- [Sentry](https://sentry.io/resources/ios-workshop-jan-2026/?utm_source=daringfireball&utm_medium=paid-display&utm_campaign=general-fy27q1-evergreen&utm_content=static-ad-mobilerss-trysentry) — *Daring Fireball* `03-01`
+- [The Talk Show: ‘Bad Dates’](https://daringfireball.net/thetalkshow/2026/02/28/ep-442) — *Daring Fireball* `03-01`
 - [Book Review: Under Fire - Black Britain in Wartime by Stephen Bourne ★★★★☆](https://shkspr.mobi/blog/2026/03/book-review-under-fire-black-britain-in-wartime-by-stephen-bourne/) — *Terence Eden’s Blog* `03-01`
 - [Quoting claude.com/import-memory](https://simonwillison.net/2026/Mar/1/claude-import-memory/#atom-everything) — *Simon Willison's Weblog* `03-01`
-- [Redis patterns for coding](http://antirez.com/news/161) — *<antirez>* `03-01`
-- [Notes on Lagrange Interpolating Polynomials](https://eli.thegreenplace.net/2026/notes-on-lagrange-interpolating-polynomials/) — *Eli Bendersky's website* `03-01`
-- [&ldquo;How old are you?&rdquo; Asked the OS](https://idiallo.com/byte-size/how-old-are-you-asked-the-os?src=feed) — *iDiallo.com* `03-01`
 <!--BLOG_RADAR:end-->
 
 ---
