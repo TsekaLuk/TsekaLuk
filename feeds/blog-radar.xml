@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 01 Mar 2026 02:56:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 06:56:16 +0000</lastBuildDate>
+    <item>
+      <title>Notes on Lagrange Interpolating Polynomials</title>
+      <link>https://eli.thegreenplace.net/2026/notes-on-lagrange-interpolating-polynomials/</link>
+      <guid isPermaLink="true">https://eli.thegreenplace.net/2026/notes-on-lagrange-interpolating-polynomials/</guid>
+      <pubDate>Sun, 01 Mar 2026 02:58:00 +0000</pubDate>
+      <description>Eli Bendersky's website</description>
+    </item>
     <item>
       <title>&amp;ldquo;How old are you?&amp;rdquo; Asked the OS</title>
       <link>https://idiallo.com/byte-size/how-old-are-you-asked-the-os?src=feed</link>
@@ -88,6 +95,13 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/02/28/npm-data-subject-access-request.html</guid>
       <pubDate>Sat, 28 Feb 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>Why does C have the best file API?</title>
+      <link>https://maurycyz.com/misc/c_files/</link>
+      <guid isPermaLink="true">https://maurycyz.com/misc/c_files/</guid>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
     </item>
     <item>
       <title>Notes from February 2026</title>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://anildash.com/2026/02/23/taking-action-ai-harms/</guid>
       <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
       <description>Anil Dash</description>
-    </item>
-    <item>
-      <title>Flake Checks in Shell</title>
-      <link>https://entropicthoughts.com/flake-checks-in-shell</link>
-      <guid isPermaLink="true">https://entropicthoughts.com/flake-checks-in-shell</guid>
-      <pubDate>Mon, 23 Feb 2026 23:00:00 +0000</pubDate>
-      <description>Entropic Thoughts</description>
-    </item>
-    <item>
-      <title>Thoughts on Farcaster</title>
-      <link>https://www.joanwestenberg.com/thoughts-on-farcaster/</link>
-      <guid isPermaLink="true">https://www.joanwestenberg.com/thoughts-on-farcaster/</guid>
-      <pubDate>Mon, 23 Feb 2026 22:07:22 +0000</pubDate>
-      <description>Westenberg.</description>
     </item>
   </channel>
 </rss>
