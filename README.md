@@ -208,11 +208,11 @@ Last Updated: Monday, March 2nd, 2026, 9:43:44 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Expert Beginners and Lone Wolves will dominate this early LLM era](https://www.jeffgeerling.com/blog/2026/expert-beginners-and-lone-wolves-dominate-llm-era/) — *Jeff Geerling* `03-01`
+- ["Why hack the DHS? I can think of a couple Pretti Good reasons!"](https://micahflee.com/why-hack-the-dhs-i-can-think-of-a-couple-pretti-good-reasons/) — *micahflee* `03-01`
 - [Shell variable ~-](https://www.johndcook.com/blog/2026/03/01/tilde-dash/) — *John D. Cook* `03-01`
 - [Sentry](https://sentry.io/resources/ios-workshop-jan-2026/?utm_source=daringfireball&utm_medium=paid-display&utm_campaign=general-fy27q1-evergreen&utm_content=static-ad-mobilerss-trysentry) — *Daring Fireball* `03-01`
 - [The Talk Show: ‘Bad Dates’](https://daringfireball.net/thetalkshow/2026/02/28/ep-442) — *Daring Fireball* `03-01`
-- [Book Review: Under Fire - Black Britain in Wartime by Stephen Bourne ★★★★☆](https://shkspr.mobi/blog/2026/03/book-review-under-fire-black-britain-in-wartime-by-stephen-bourne/) — *Terence Eden’s Blog* `03-01`
-- [Quoting claude.com/import-memory](https://simonwillison.net/2026/Mar/1/claude-import-memory/#atom-everything) — *Simon Willison's Weblog* `03-01`
 <!--BLOG_RADAR:end-->
 
 ---

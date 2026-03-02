@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 01 Mar 2026 18:44:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 02:43:44 +0000</lastBuildDate>
+    <item>
+      <title>Expert Beginners and Lone Wolves will dominate this early LLM era</title>
+      <link>https://www.jeffgeerling.com/blog/2026/expert-beginners-and-lone-wolves-dominate-llm-era/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/expert-beginners-and-lone-wolves-dominate-llm-era/</guid>
+      <pubDate>Sun, 01 Mar 2026 22:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>"Why hack the DHS? I can think of a couple Pretti Good reasons!"</title>
+      <link>https://micahflee.com/why-hack-the-dhs-i-can-think-of-a-couple-pretti-good-reasons/</link>
+      <guid isPermaLink="true">https://micahflee.com/why-hack-the-dhs-i-can-think-of-a-couple-pretti-good-reasons/</guid>
+      <pubDate>Sun, 01 Mar 2026 21:21:35 +0000</pubDate>
+      <description>micahflee</description>
+    </item>
     <item>
       <title>Shell variable ~-</title>
       <link>https://www.johndcook.com/blog/2026/03/01/tilde-dash/</link>
@@ -76,11 +90,25 @@
       <description>Xe Iaso's blog</description>
     </item>
     <item>
+      <title>The two kinds of error</title>
+      <link>https://evanhahn.com/the-two-kinds-of-error/</link>
+      <guid isPermaLink="true">https://evanhahn.com/the-two-kinds-of-error/</guid>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Evan Hahn (dot com)</description>
+    </item>
+    <item>
       <title>Downstream Testing</title>
       <link>https://nesbitt.io/2026/03/01/downstream-testing.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/03/01/downstream-testing.html</guid>
       <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>Why on-device agentic AI can't keep up</title>
+      <link>https://martinalderson.com/posts/why-on-device-agentic-ai-cant-keep-up/?utm_source=rss</link>
+      <guid isPermaLink="true">https://martinalderson.com/posts/why-on-device-agentic-ai-cant-keep-up/?utm_source=rss</guid>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Martin Alderson</description>
     </item>
     <item>
       <title>Interactive explanations</title>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260224-00/?p=112082</guid>
       <pubDate>Tue, 24 Feb 2026 15:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Time to Move On – The Reason Relationships End</title>
-      <link>https://steveblank.com/2026/02/24/time-to-move-on-the-reason-relationships-end/</link>
-      <guid isPermaLink="true">https://steveblank.com/2026/02/24/time-to-move-on-the-reason-relationships-end/</guid>
-      <pubDate>Tue, 24 Feb 2026 14:00:57 +0000</pubDate>
-      <description>Steve Blank</description>
-    </item>
-    <item>
-      <title>Adding OpenStreetMap login to Auth0</title>
-      <link>https://shkspr.mobi/blog/2026/02/adding-openstreetmap-login-to-auth0/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/02/adding-openstreetmap-login-to-auth0/</guid>
-      <pubDate>Tue, 24 Feb 2026 12:34:21 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>First run the tests</title>
-      <link>https://simonwillison.net/guides/agentic-engineering-patterns/first-run-the-tests/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/guides/agentic-engineering-patterns/first-run-the-tests/#atom-everything</guid>
-      <pubDate>Tue, 24 Feb 2026 12:30:05 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Vulnerability as a Service</title>
-      <link>https://herman.bearblog.dev/vulnerability-as-a-service/</link>
-      <guid isPermaLink="true">https://herman.bearblog.dev/vulnerability-as-a-service/</guid>
-      <pubDate>Tue, 24 Feb 2026 11:43:00 +0000</pubDate>
-      <description>Herman's blog</description>
     </item>
   </channel>
 </rss>
