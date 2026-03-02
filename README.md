@@ -208,11 +208,11 @@ Last Updated: Tuesday, March 3rd, 2026, 2:38:40 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Adding "Log In With Mastodon" to Auth0](https://shkspr.mobi/blog/2026/03/adding-log-in-with-mastodon-to-auth0/) — *Terence Eden’s Blog* `03-02`
-- [Why we feel an aversion towards LLM articles](https://idiallo.com/blog/why-we-hate-llm-articles?src=feed) — *iDiallo.com* `03-02`
-- [Transitive Trust](https://nesbitt.io/2026/03/02/transitive-trust.html) — *Andrew Nesbitt* `03-02`
-- [Pluralistic: No one wants to read your AI slop (02 Mar 2026)](https://pluralistic.net/2026/03/02/nonconsensual-slopping/) — *Pluralistic: Daily links from Cory Doctorow* `03-02`
-- [Weekly Update 493](https://www.troyhunt.com/weekly-update-493/) — *Troy Hunt* `03-02`
+- [‘Anthropic and Alignment’](https://stratechery.com/2026/anthropic-and-alignment/) — *Daring Fireball* `03-02`
+- [WSJ: ‘Trump Administration Shuns Anthropic, Embraces OpenAI in Clash Over Guardrails’](https://www.wsj.com/tech/ai/trump-will-end-government-use-of-anthropics-ai-models-ff3550d9) — *Daring Fireball* `03-02`
+- [Seasonal Color Updates to Apple’s iPhone Cases and Apple Watch Bands](https://www.macrumors.com/2026/03/02/iphone-cases-apple-accessories-new-colors/) — *Daring Fireball* `03-02`
+- [Apple Introduces New iPad Air With M4](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/) — *Daring Fireball* `03-02`
+- [GIF optimization tool using WebAssembly and Gifsicle](https://simonwillison.net/guides/agentic-engineering-patterns/gif-optimization/#atom-everything) — *Simon Willison's Weblog* `03-02`
 <!--BLOG_RADAR:end-->
 
 ---

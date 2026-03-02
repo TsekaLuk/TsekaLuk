@@ -4,7 +4,63 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 02 Mar 2026 13:15:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 18:59:17 +0000</lastBuildDate>
+    <item>
+      <title>‘Anthropic and Alignment’</title>
+      <link>https://stratechery.com/2026/anthropic-and-alignment/</link>
+      <guid isPermaLink="true">https://stratechery.com/2026/anthropic-and-alignment/</guid>
+      <pubDate>Mon, 02 Mar 2026 18:20:13 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>WSJ: ‘Trump Administration Shuns Anthropic, Embraces OpenAI in Clash Over Guardrails’</title>
+      <link>https://www.wsj.com/tech/ai/trump-will-end-government-use-of-anthropics-ai-models-ff3550d9</link>
+      <guid isPermaLink="true">https://www.wsj.com/tech/ai/trump-will-end-government-use-of-anthropics-ai-models-ff3550d9</guid>
+      <pubDate>Mon, 02 Mar 2026 17:56:51 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Seasonal Color Updates to Apple’s iPhone Cases and Apple Watch Bands</title>
+      <link>https://www.macrumors.com/2026/03/02/iphone-cases-apple-accessories-new-colors/</link>
+      <guid isPermaLink="true">https://www.macrumors.com/2026/03/02/iphone-cases-apple-accessories-new-colors/</guid>
+      <pubDate>Mon, 02 Mar 2026 17:52:59 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Apple Introduces New iPad Air With M4</title>
+      <link>https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/</link>
+      <guid isPermaLink="true">https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/</guid>
+      <pubDate>Mon, 02 Mar 2026 17:40:30 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>GIF optimization tool using WebAssembly and Gifsicle</title>
+      <link>https://simonwillison.net/guides/agentic-engineering-patterns/gif-optimization/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/guides/agentic-engineering-patterns/gif-optimization/#atom-everything</guid>
+      <pubDate>Mon, 02 Mar 2026 16:35:10 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Differential equation with a small delay</title>
+      <link>https://www.johndcook.com/blog/2026/03/02/small-delay/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/03/02/small-delay/</guid>
+      <pubDate>Mon, 02 Mar 2026 16:08:49 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Apple Introduces the iPhone 17e</title>
+      <link>https://www.apple.com/newsroom/2026/03/apple-introduces-iphone-17e/</link>
+      <guid isPermaLink="true">https://www.apple.com/newsroom/2026/03/apple-introduces-iphone-17e/</guid>
+      <pubDate>Mon, 02 Mar 2026 15:03:16 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>February sponsors-only newsletter</title>
+      <link>https://simonwillison.net/2026/Mar/2/february-newsletter/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/2/february-newsletter/#atom-everything</guid>
+      <pubDate>Mon, 02 Mar 2026 14:53:15 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Adding "Log In With Mastodon" to Auth0</title>
       <link>https://shkspr.mobi/blog/2026/03/adding-log-in-with-mastodon-to-auth0/</link>
@@ -13,7 +69,7 @@
       <description>Terence Eden’s Blog</description>
     </item>
     <item>
-      <title>Why we feel an aversion towards LLM articles</title>
+      <title>Mo Samuels wrote this post</title>
       <link>https://idiallo.com/blog/why-we-hate-llm-articles?src=feed</link>
       <guid isPermaLink="true">https://idiallo.com/blog/why-we-hate-llm-articles?src=feed</guid>
       <pubDate>Mon, 02 Mar 2026 12:00:00 +0000</pubDate>
@@ -788,62 +844,6 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/02/24/a-curious-trig-identity/</guid>
       <pubDate>Tue, 24 Feb 2026 23:33:41 +0000</pubDate>
       <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Upgrade: ‘The Shifting Sands of Liquid Glass’</title>
-      <link>https://www.relay.fm/upgrade/604</link>
-      <guid isPermaLink="true">https://www.relay.fm/upgrade/604</guid>
-      <pubDate>Tue, 24 Feb 2026 23:29:21 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Apple in 2025: The Six Colors Report Card</title>
-      <link>https://sixcolors.com/post/2026/02/2025reportcard/</link>
-      <guid isPermaLink="true">https://sixcolors.com/post/2026/02/2025reportcard/</guid>
-      <pubDate>Tue, 24 Feb 2026 21:49:10 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Apple Will Begin Manufacturing Mac Minis in Houston Later This Year</title>
-      <link>https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/</link>
-      <guid isPermaLink="true">https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/</guid>
-      <pubDate>Tue, 24 Feb 2026 19:35:12 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>PageMaker Pioneer Paul Brainerd Dies at 78</title>
-      <link>https://www.geekwire.com/2026/pagemaker-pioneer-paul-brainerd-1947-2026-aldus-founder-devoted-his-second-chapter-to-the-planet/</link>
-      <guid isPermaLink="true">https://www.geekwire.com/2026/pagemaker-pioneer-paul-brainerd-1947-2026-aldus-founder-devoted-his-second-chapter-to-the-planet/</guid>
-      <pubDate>Tue, 24 Feb 2026 19:27:07 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>FTC Chairman Sends Letter to Apple Complaining That MAGA ‘News’ Sources Aren’t Represented in Apple News</title>
-      <link>https://www.macrumors.com/2026/02/12/tim-cook-faces-ftc-warning-apple-news/</link>
-      <guid isPermaLink="true">https://www.macrumors.com/2026/02/12/tim-cook-faces-ftc-warning-apple-news/</guid>
-      <pubDate>Tue, 24 Feb 2026 19:18:42 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The Steve Jobs Archive: ‘Letters to a Young Creator’</title>
-      <link>https://letters.stevejobsarchive.com/laurene-powell-jobs</link>
-      <guid isPermaLink="true">https://letters.stevejobsarchive.com/laurene-powell-jobs</guid>
-      <pubDate>Tue, 24 Feb 2026 19:11:17 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Acme Weather</title>
-      <link>https://acmeweather.com/blog/introducing-acme-weather</link>
-      <guid isPermaLink="true">https://acmeweather.com/blog/introducing-acme-weather</guid>
-      <pubDate>Tue, 24 Feb 2026 18:49:52 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>An OpenClaw AI Agent Wrote and Published a Hit Piece on a Software Library Maintainer Who Rejected Its Code Submission</title>
-      <link>https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/</link>
-      <guid isPermaLink="true">https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/</guid>
-      <pubDate>Tue, 24 Feb 2026 18:01:28 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
