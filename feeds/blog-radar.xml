@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 02 Mar 2026 02:43:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 07:08:19 +0000</lastBuildDate>
     <item>
       <title>Expert Beginners and Lone Wolves will dominate this early LLM era</title>
       <link>https://www.jeffgeerling.com/blog/2026/expert-beginners-and-lone-wolves-dominate-llm-era/</link>
@@ -18,6 +18,13 @@
       <guid isPermaLink="true">https://micahflee.com/why-hack-the-dhs-i-can-think-of-a-couple-pretti-good-reasons/</guid>
       <pubDate>Sun, 01 Mar 2026 21:21:35 +0000</pubDate>
       <description>micahflee</description>
+    </item>
+    <item>
+      <title>Book Notes: “Blood In The Machine” by Brian Merchant</title>
+      <link>https://blog.jim-nielsen.com/2026/book-notes-blood-in-the-machine/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/book-notes-blood-in-the-machine/</guid>
+      <pubDate>Sun, 01 Mar 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
     </item>
     <item>
       <title>Shell variable ~-</title>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Feb/24/go-size-analyzer/#atom-everything</guid>
       <pubDate>Tue, 24 Feb 2026 16:10:06 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Customizing the ways the dialog manager dismisses itself: Isolating the Close pathway</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260224-00/?p=112082</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260224-00/?p=112082</guid>
-      <pubDate>Tue, 24 Feb 2026 15:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
     </item>
   </channel>
 </rss>

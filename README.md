@@ -210,9 +210,9 @@ Last Updated: Monday, March 2nd, 2026, 2:50:49 PM
 <!--BLOG_RADAR:start-->
 - [Expert Beginners and Lone Wolves will dominate this early LLM era](https://www.jeffgeerling.com/blog/2026/expert-beginners-and-lone-wolves-dominate-llm-era/) — *Jeff Geerling* `03-01`
 - ["Why hack the DHS? I can think of a couple Pretti Good reasons!"](https://micahflee.com/why-hack-the-dhs-i-can-think-of-a-couple-pretti-good-reasons/) — *micahflee* `03-01`
+- [Book Notes: “Blood In The Machine” by Brian Merchant](https://blog.jim-nielsen.com/2026/book-notes-blood-in-the-machine/) — *Jim Nielsen’s Blog* `03-01`
 - [Shell variable ~-](https://www.johndcook.com/blog/2026/03/01/tilde-dash/) — *John D. Cook* `03-01`
 - [Sentry](https://sentry.io/resources/ios-workshop-jan-2026/?utm_source=daringfireball&utm_medium=paid-display&utm_campaign=general-fy27q1-evergreen&utm_content=static-ad-mobilerss-trysentry) — *Daring Fireball* `03-01`
-- [The Talk Show: ‘Bad Dates’](https://daringfireball.net/thetalkshow/2026/02/28/ep-442) — *Daring Fireball* `03-01`
 <!--BLOG_RADAR:end-->
 
 ---
