@@ -4,7 +4,49 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 02 Mar 2026 07:08:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 13:15:50 +0000</lastBuildDate>
+    <item>
+      <title>Adding "Log In With Mastodon" to Auth0</title>
+      <link>https://shkspr.mobi/blog/2026/03/adding-log-in-with-mastodon-to-auth0/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/03/adding-log-in-with-mastodon-to-auth0/</guid>
+      <pubDate>Mon, 02 Mar 2026 12:34:48 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Why we feel an aversion towards LLM articles</title>
+      <link>https://idiallo.com/blog/why-we-hate-llm-articles?src=feed</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/why-we-hate-llm-articles?src=feed</guid>
+      <pubDate>Mon, 02 Mar 2026 12:00:00 +0000</pubDate>
+      <description>iDiallo.com</description>
+    </item>
+    <item>
+      <title>Transitive Trust</title>
+      <link>https://nesbitt.io/2026/03/02/transitive-trust.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/03/02/transitive-trust.html</guid>
+      <pubDate>Mon, 02 Mar 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>Pluralistic: No one wants to read your AI slop (02 Mar 2026)</title>
+      <link>https://pluralistic.net/2026/03/02/nonconsensual-slopping/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/03/02/nonconsensual-slopping/</guid>
+      <pubDate>Mon, 02 Mar 2026 09:22:11 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Weekly Update 493</title>
+      <link>https://www.troyhunt.com/weekly-update-493/</link>
+      <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-493/</guid>
+      <pubDate>Mon, 02 Mar 2026 07:51:14 +0000</pubDate>
+      <description>Troy Hunt</description>
+    </item>
+    <item>
+      <title>The Unbound Scepter</title>
+      <link>https://xeiaso.net/blog/2026/seroquel-xanax-trip-report/</link>
+      <guid isPermaLink="true">https://xeiaso.net/blog/2026/seroquel-xanax-trip-report/</guid>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
+    </item>
     <item>
       <title>Expert Beginners and Lone Wolves will dominate this early LLM era</title>
       <link>https://www.jeffgeerling.com/blog/2026/expert-beginners-and-lone-wolves-dominate-llm-era/</link>
@@ -802,48 +844,6 @@
       <guid isPermaLink="true">https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/</guid>
       <pubDate>Tue, 24 Feb 2026 18:01:28 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code</title>
-      <link>http://antirez.com/news/160</link>
-      <guid isPermaLink="true">http://antirez.com/news/160</guid>
-      <pubDate>Tue, 24 Feb 2026 17:58:02 +0000</pubDate>
-      <description>&lt;antirez&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI Acquired OpenClaw and Hired Peter Steinberger</title>
-      <link>https://x.com/sama/status/2023150230905159801</link>
-      <guid isPermaLink="true">https://x.com/sama/status/2023150230905159801</guid>
-      <pubDate>Tue, 24 Feb 2026 17:53:15 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>How Jeffrey Epstein Ingratiated Himself With Top Microsoft Executives</title>
-      <link>https://www.nytimes.com/2026/02/24/technology/jeffrey-epstein-microsoft-executives.html?unlocked_article_code=1.OlA.6mOw.2gNT6rp9X0SS</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/02/24/technology/jeffrey-epstein-microsoft-executives.html?unlocked_article_code=1.OlA.6mOw.2gNT6rp9X0SS</guid>
-      <pubDate>Tue, 24 Feb 2026 17:42:24 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Inside Microsoft’s Xbox Leadership Shake-Up</title>
-      <link>https://www.theverge.com/tech/883015/microsoft-xbox-new-ceo-shakeup-notepad?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InRTTTJnMGhOeHUiLCJwIjoiL3RlY2gvODgzMDE1L21pY3Jvc29mdC14Ym94LW5ldy1jZW8tc2hha2V1cC1ub3RlcGFkIiwiZXhwIjoxNzcyMzg1MDQ2LCJpYXQiOjE3NzE5NTMwNDZ9.e7qs5kHGt3-WwS9kfU9b59hS8SP6Z1OLePryV76Mzu4</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/883015/microsoft-xbox-new-ceo-shakeup-notepad?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InRTTTJnMGhOeHUiLCJwIjoiL3RlY2gvODgzMDE1L21pY3Jvc29mdC14Ym94LW5ldy1jZW8tc2hha2V1cC1ub3RlcGFkIiwiZXhwIjoxNzcyMzg1MDQ2LCJpYXQiOjE3NzE5NTMwNDZ9.e7qs5kHGt3-WwS9kfU9b59hS8SP6Z1OLePryV76Mzu4</guid>
-      <pubDate>Tue, 24 Feb 2026 17:23:33 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Times New Resistance</title>
-      <link>https://www.abbyhaddican.com/times-new-resistance</link>
-      <guid isPermaLink="true">https://www.abbyhaddican.com/times-new-resistance</guid>
-      <pubDate>Tue, 24 Feb 2026 16:19:23 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>go-size-analyzer</title>
-      <link>https://simonwillison.net/2026/Feb/24/go-size-analyzer/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/24/go-size-analyzer/#atom-everything</guid>
-      <pubDate>Tue, 24 Feb 2026 16:10:06 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>

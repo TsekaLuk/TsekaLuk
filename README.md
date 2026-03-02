@@ -208,11 +208,11 @@ Last Updated: Monday, March 2nd, 2026, 8:44:33 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Expert Beginners and Lone Wolves will dominate this early LLM era](https://www.jeffgeerling.com/blog/2026/expert-beginners-and-lone-wolves-dominate-llm-era/) — *Jeff Geerling* `03-01`
-- ["Why hack the DHS? I can think of a couple Pretti Good reasons!"](https://micahflee.com/why-hack-the-dhs-i-can-think-of-a-couple-pretti-good-reasons/) — *micahflee* `03-01`
-- [Book Notes: “Blood In The Machine” by Brian Merchant](https://blog.jim-nielsen.com/2026/book-notes-blood-in-the-machine/) — *Jim Nielsen’s Blog* `03-01`
-- [Shell variable ~-](https://www.johndcook.com/blog/2026/03/01/tilde-dash/) — *John D. Cook* `03-01`
-- [Sentry](https://sentry.io/resources/ios-workshop-jan-2026/?utm_source=daringfireball&utm_medium=paid-display&utm_campaign=general-fy27q1-evergreen&utm_content=static-ad-mobilerss-trysentry) — *Daring Fireball* `03-01`
+- [Adding "Log In With Mastodon" to Auth0](https://shkspr.mobi/blog/2026/03/adding-log-in-with-mastodon-to-auth0/) — *Terence Eden’s Blog* `03-02`
+- [Why we feel an aversion towards LLM articles](https://idiallo.com/blog/why-we-hate-llm-articles?src=feed) — *iDiallo.com* `03-02`
+- [Transitive Trust](https://nesbitt.io/2026/03/02/transitive-trust.html) — *Andrew Nesbitt* `03-02`
+- [Pluralistic: No one wants to read your AI slop (02 Mar 2026)](https://pluralistic.net/2026/03/02/nonconsensual-slopping/) — *Pluralistic: Daily links from Cory Doctorow* `03-02`
+- [Weekly Update 493](https://www.troyhunt.com/weekly-update-493/) — *Troy Hunt* `03-02`
 <!--BLOG_RADAR:end-->
 
 ---
