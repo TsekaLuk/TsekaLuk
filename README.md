@@ -208,11 +208,11 @@ Last Updated: Tuesday, March 3rd, 2026, 9:45:55 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [‘Anthropic and Alignment’](https://stratechery.com/2026/anthropic-and-alignment/) — *Daring Fireball* `03-02`
-- [WSJ: ‘Trump Administration Shuns Anthropic, Embraces OpenAI in Clash Over Guardrails’](https://www.wsj.com/tech/ai/trump-will-end-government-use-of-anthropics-ai-models-ff3550d9) — *Daring Fireball* `03-02`
-- [Seasonal Color Updates to Apple’s iPhone Cases and Apple Watch Bands](https://www.macrumors.com/2026/03/02/iphone-cases-apple-accessories-new-colors/) — *Daring Fireball* `03-02`
-- [Apple Introduces New iPad Air With M4](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/) — *Daring Fireball* `03-02`
-- [GIF optimization tool using WebAssembly and Gifsicle](https://simonwillison.net/guides/agentic-engineering-patterns/gif-optimization/#atom-everything) — *Simon Willison's Weblog* `03-02`
+- [[Sponsor] npx workos: An AI Agent That Writes Auth Directly Into Your Codebase](https://workos.com/docs/authkit/cli-installer?utm_source=tldrdev&utm_medium=newsletter&utm_campaign=q12026) — *Daring Fireball* `03-03`
+- [★ HazeOver — Mac Utility for Highlighting the Frontmost Window](https://daringfireball.net/2026/03/hazeover) — *Daring Fireball* `03-02`
+- [Unsung Heroes: Flickr’s URLs Scheme](https://unsung.aresluna.org/unsung-heroes-flickrs-urls-scheme/) — *Daring Fireball* `03-02`
+- [I built a pint-sized Macintosh](https://www.jeffgeerling.com/blog/2026/pint-sized-macintosh-pico-micro-mac/) — *Jeff Geerling* `03-02`
+- [ChangeTheHeaders](https://underpassapp.com/news/2025/3/4.html) — *Daring Fireball* `03-02`
 <!--BLOG_RADAR:end-->
 
 ---

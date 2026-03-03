@@ -4,7 +4,63 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 02 Mar 2026 18:59:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 02:46:33 +0000</lastBuildDate>
+    <item>
+      <title>[Sponsor] npx workos: An AI Agent That Writes Auth Directly Into Your Codebase</title>
+      <link>https://workos.com/docs/authkit/cli-installer?utm_source=tldrdev&amp;utm_medium=newsletter&amp;utm_campaign=q12026</link>
+      <guid isPermaLink="true">https://workos.com/docs/authkit/cli-installer?utm_source=tldrdev&amp;utm_medium=newsletter&amp;utm_campaign=q12026</guid>
+      <pubDate>Tue, 03 Mar 2026 00:20:21 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>★ HazeOver — Mac Utility for Highlighting the Frontmost Window</title>
+      <link>https://daringfireball.net/2026/03/hazeover</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/03/hazeover</guid>
+      <pubDate>Mon, 02 Mar 2026 23:41:11 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Unsung Heroes: Flickr’s URLs Scheme</title>
+      <link>https://unsung.aresluna.org/unsung-heroes-flickrs-urls-scheme/</link>
+      <guid isPermaLink="true">https://unsung.aresluna.org/unsung-heroes-flickrs-urls-scheme/</guid>
+      <pubDate>Mon, 02 Mar 2026 22:59:41 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>I built a pint-sized Macintosh</title>
+      <link>https://www.jeffgeerling.com/blog/2026/pint-sized-macintosh-pico-micro-mac/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/pint-sized-macintosh-pico-micro-mac/</guid>
+      <pubDate>Mon, 02 Mar 2026 21:15:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>ChangeTheHeaders</title>
+      <link>https://underpassapp.com/news/2025/3/4.html</link>
+      <guid isPermaLink="true">https://underpassapp.com/news/2025/3/4.html</guid>
+      <pubDate>Mon, 02 Mar 2026 21:10:50 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>What sort of horrible things happen if my dialog has a non-button with the control ID of IDCANCEL?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260302-53/?p=112098</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260302-53/?p=112098</guid>
+      <pubDate>Mon, 02 Mar 2026 20:55:53 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>Welcome (Back) to Macintosh</title>
+      <link>https://take.surf/2026/03/01/welcome-back-to-macintosh</link>
+      <guid isPermaLink="true">https://take.surf/2026/03/01/welcome-back-to-macintosh</guid>
+      <pubDate>Mon, 02 Mar 2026 20:27:52 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>SerpApi Filed Motion to Dismiss Google’s Lawsuit</title>
+      <link>https://serpapi.com/blog/google-v-serpapi-motion-to-dismiss-why-were-in-the-right/</link>
+      <guid isPermaLink="true">https://serpapi.com/blog/google-v-serpapi-motion-to-dismiss-why-were-in-the-right/</guid>
+      <pubDate>Mon, 02 Mar 2026 20:03:02 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>‘Anthropic and Alignment’</title>
       <link>https://stratechery.com/2026/anthropic-and-alignment/</link>
@@ -788,62 +844,6 @@
       <guid isPermaLink="true">https://pluralistic.net/2026/02/25/most-favored-nation/</guid>
       <pubDate>Wed, 25 Feb 2026 11:07:59 +0000</pubDate>
       <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Trig of inverse trig</title>
-      <link>https://www.johndcook.com/blog/2026/02/25/trig-of-inverse-trig/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/02/25/trig-of-inverse-trig/</guid>
-      <pubDate>Wed, 25 Feb 2026 11:00:54 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Quoting Kellan Elliott-McCrea</title>
-      <link>https://simonwillison.net/2026/Feb/25/kellan-elliott-mccrea/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/25/kellan-elliott-mccrea/#atom-everything</guid>
-      <pubDate>Wed, 25 Feb 2026 03:30:32 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Everything is awesome (why I'm an optimist)</title>
-      <link>https://www.joanwestenberg.com/everything-is-awesome-why-im-an-optimist/</link>
-      <guid isPermaLink="true">https://www.joanwestenberg.com/everything-is-awesome-why-im-an-optimist/</guid>
-      <pubDate>Wed, 25 Feb 2026 01:39:00 +0000</pubDate>
-      <description>Westenberg.</description>
-    </item>
-    <item>
-      <title>Linear walkthroughs</title>
-      <link>https://simonwillison.net/guides/agentic-engineering-patterns/linear-walkthroughs/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/guides/agentic-engineering-patterns/linear-walkthroughs/#atom-everything</guid>
-      <pubDate>Wed, 25 Feb 2026 01:07:10 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Against Query Based Compilers</title>
-      <link>https://matklad.github.io/2026/02/25/against-query-based-compilers.html</link>
-      <guid isPermaLink="true">https://matklad.github.io/2026/02/25/against-query-based-compilers.html</guid>
-      <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
-      <description>matklad</description>
-    </item>
-    <item>
-      <title>Two Kinds of Attestation</title>
-      <link>https://nesbitt.io/2026/02/25/two-kinds-of-attestation.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/02/25/two-kinds-of-attestation.html</guid>
-      <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>A fuzzer for the Toy Optimizer</title>
-      <link>https://bernsteinbear.com/blog/toy-fuzzer/?utm_source=rss</link>
-      <guid isPermaLink="true">https://bernsteinbear.com/blog/toy-fuzzer/?utm_source=rss</guid>
-      <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Max Bernstein's Blog</description>
-    </item>
-    <item>
-      <title>A curious trig identity</title>
-      <link>https://www.johndcook.com/blog/2026/02/24/a-curious-trig-identity/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/02/24/a-curious-trig-identity/</guid>
-      <pubDate>Tue, 24 Feb 2026 23:33:41 +0000</pubDate>
-      <description>John D. Cook</description>
     </item>
   </channel>
 </rss>
