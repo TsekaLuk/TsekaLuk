@@ -208,11 +208,11 @@ Last Updated: Wednesday, March 4th, 2026, 2:40:23 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Game Review: Unravel Two ★★★⯪☆](https://shkspr.mobi/blog/2026/03/game-review-unravel-two/) — *Terence Eden’s Blog* `03-03`
-- [Nobody Gets Promoted for Simplicity](https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/) — *Terrible Software* `03-03`
-- [Package Management is Naming All the Way Down](https://nesbitt.io/2026/03/03/package-management-is-naming-all-the-way-down.html) — *Andrew Nesbitt* `03-03`
-- [Betting Against Substack](https://feed.tedium.co/link/15204/17288375/betting-against-substack) — *Tedium: The Dull Side of the Internet.* `03-03`
-- [An AI Odyssey, Part 1: Correctness Conundrum](https://www.johndcook.com/blog/2026/03/02/an-ai-odyssey-part-1-correctness-conundrum/) — *John D. Cook* `03-03`
+- [w0rdz aRe 1mpoRtAnt](https://blog.jim-nielsen.com/2026/w0rdz-aRe-1mpoRtAnt/) — *Jim Nielsen’s Blog* `03-03`
+- [Pluralistic: Supreme Court saves artists from AI (03 Mar 2026)](https://pluralistic.net/2026/03/03/its-a-trap-2/) — *Pluralistic: Daily links from Cory Doctorow* `03-03`
+- [Apple Debuts M5 Pro and M5 Max, and Renames Its M-Series CPU Cores](https://www.apple.com/newsroom/2026/03/apple-debuts-m5-pro-and-m5-max-to-supercharge-the-most-demanding-pro-workflows/) — *Daring Fireball* `03-03`
+- [The one science reform we can all agree on, but we're too cowardly to do](https://www.experimental-history.com/p/the-one-science-reform-we-can-all) — *Experimental History* `03-03`
+- [The AI Bubble Is An Information War](https://www.wheresyoured.at/the-ai-bubble-is-an-information-war/) — *Ed Zitron's Where's Your Ed At* `03-03`
 <!--BLOG_RADAR:end-->
 
 ---

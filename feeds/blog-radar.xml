@@ -4,7 +4,49 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 03 Mar 2026 13:14:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 19:02:12 +0000</lastBuildDate>
+    <item>
+      <title>w0rdz aRe 1mpoRtAnt</title>
+      <link>https://blog.jim-nielsen.com/2026/w0rdz-aRe-1mpoRtAnt/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/w0rdz-aRe-1mpoRtAnt/</guid>
+      <pubDate>Tue, 03 Mar 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
+    </item>
+    <item>
+      <title>Pluralistic: Supreme Court saves artists from AI (03 Mar 2026)</title>
+      <link>https://pluralistic.net/2026/03/03/its-a-trap-2/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/03/03/its-a-trap-2/</guid>
+      <pubDate>Tue, 03 Mar 2026 18:26:13 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Apple Debuts M5 Pro and M5 Max, and Renames Its M-Series CPU Cores</title>
+      <link>https://www.apple.com/newsroom/2026/03/apple-debuts-m5-pro-and-m5-max-to-supercharge-the-most-demanding-pro-workflows/</link>
+      <guid isPermaLink="true">https://www.apple.com/newsroom/2026/03/apple-debuts-m5-pro-and-m5-max-to-supercharge-the-most-demanding-pro-workflows/</guid>
+      <pubDate>Tue, 03 Mar 2026 18:11:32 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>The one science reform we can all agree on, but we're too cowardly to do</title>
+      <link>https://www.experimental-history.com/p/the-one-science-reform-we-can-all</link>
+      <guid isPermaLink="true">https://www.experimental-history.com/p/the-one-science-reform-we-can-all</guid>
+      <pubDate>Tue, 03 Mar 2026 17:47:57 +0000</pubDate>
+      <description>Experimental History</description>
+    </item>
+    <item>
+      <title>The AI Bubble Is An Information War</title>
+      <link>https://www.wheresyoured.at/the-ai-bubble-is-an-information-war/</link>
+      <guid isPermaLink="true">https://www.wheresyoured.at/the-ai-bubble-is-an-information-war/</guid>
+      <pubDate>Tue, 03 Mar 2026 17:18:22 +0000</pubDate>
+      <description>Ed Zitron's Where's Your Ed At</description>
+    </item>
+    <item>
+      <title>Free Books</title>
+      <link>https://buttondown.com/hillelwayne/archive/free-books/</link>
+      <guid isPermaLink="true">https://buttondown.com/hillelwayne/archive/free-books/</guid>
+      <pubDate>Tue, 03 Mar 2026 16:34:33 +0000</pubDate>
+      <description>Computer Things</description>
+    </item>
     <item>
       <title>Game Review: Unravel Two ★★★⯪☆</title>
       <link>https://shkspr.mobi/blog/2026/03/game-review-unravel-two/</link>
@@ -802,48 +844,6 @@
       <guid isPermaLink="true">https://daringfireball.net/thetalkshow/2026/02/25/ep-441</guid>
       <pubDate>Wed, 25 Feb 2026 22:17:57 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>tldraw issue: Move tests to closed source repo</title>
-      <link>https://simonwillison.net/2026/Feb/25/closed-tests/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/25/closed-tests/#atom-everything</guid>
-      <pubDate>Wed, 25 Feb 2026 21:06:53 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Samsung Galaxy S26 Ultra’s Privacy Display</title>
-      <link>https://9to5google.com/2026/02/25/samsung-galaxy-s26-ultra-privacy-display-demo-hands-on/</link>
-      <guid isPermaLink="true">https://9to5google.com/2026/02/25/samsung-galaxy-s26-ultra-privacy-display-demo-hands-on/</guid>
-      <pubDate>Wed, 25 Feb 2026 20:59:30 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Claude Code Remote Control</title>
-      <link>https://simonwillison.net/2026/Feb/25/claude-code-remote-control/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/25/claude-code-remote-control/#atom-everything</guid>
-      <pubDate>Wed, 25 Feb 2026 17:33:24 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>★ My 2025 Apple Report Card</title>
-      <link>https://daringfireball.net/2026/02/my_2025_apple_report_card</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/02/my_2025_apple_report_card</guid>
-      <pubDate>Wed, 25 Feb 2026 16:49:10 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>I vibe coded my dream macOS presentation app</title>
-      <link>https://simonwillison.net/2026/Feb/25/present/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/25/present/#atom-everything</guid>
-      <pubDate>Wed, 25 Feb 2026 16:46:19 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>The Last Gasps of the Rent Seeking Class</title>
-      <link>https://geohot.github.io//blog/jekyll/update/2026/02/26/the-last-gasps-of-the-rent-seeking-class.html</link>
-      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/02/26/the-last-gasps-of-the-rent-seeking-class.html</guid>
-      <pubDate>Wed, 25 Feb 2026 16:00:00 +0000</pubDate>
-      <description>the singularity is nearer</description>
     </item>
   </channel>
 </rss>
