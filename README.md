@@ -208,11 +208,11 @@ Last Updated: Tuesday, March 3rd, 2026, 2:43:14 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Betting Against Substack](https://feed.tedium.co/link/15204/17288375/betting-against-substack) — *Tedium: The Dull Side of the Internet.* `03-03`
+- [An AI Odyssey, Part 1: Correctness Conundrum](https://www.johndcook.com/blog/2026/03/02/an-ai-odyssey-part-1-correctness-conundrum/) — *John D. Cook* `03-03`
 - [[Sponsor] npx workos: An AI Agent That Writes Auth Directly Into Your Codebase](https://workos.com/docs/authkit/cli-installer?utm_source=tldrdev&utm_medium=newsletter&utm_campaign=q12026) — *Daring Fireball* `03-03`
+- [Giving LLMs a personality is just good engineering](https://seangoedecke.com/giving-llms-a-personality/) — *seangoedecke.com RSS feed* `03-03`
 - [★ HazeOver — Mac Utility for Highlighting the Frontmost Window](https://daringfireball.net/2026/03/hazeover) — *Daring Fireball* `03-02`
-- [Unsung Heroes: Flickr’s URLs Scheme](https://unsung.aresluna.org/unsung-heroes-flickrs-urls-scheme/) — *Daring Fireball* `03-02`
-- [I built a pint-sized Macintosh](https://www.jeffgeerling.com/blog/2026/pint-sized-macintosh-pico-micro-mac/) — *Jeff Geerling* `03-02`
-- [ChangeTheHeaders](https://underpassapp.com/news/2025/3/4.html) — *Daring Fireball* `03-02`
 <!--BLOG_RADAR:end-->
 
 ---

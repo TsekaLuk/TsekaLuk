@@ -4,13 +4,34 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 03 Mar 2026 02:46:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 07:02:55 +0000</lastBuildDate>
+    <item>
+      <title>Betting Against Substack</title>
+      <link>https://feed.tedium.co/link/15204/17288375/betting-against-substack</link>
+      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17288375/betting-against-substack</guid>
+      <pubDate>Tue, 03 Mar 2026 04:56:00 +0000</pubDate>
+      <description>Tedium: The Dull Side of the Internet.</description>
+    </item>
+    <item>
+      <title>An AI Odyssey, Part 1: Correctness Conundrum</title>
+      <link>https://www.johndcook.com/blog/2026/03/02/an-ai-odyssey-part-1-correctness-conundrum/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/03/02/an-ai-odyssey-part-1-correctness-conundrum/</guid>
+      <pubDate>Tue, 03 Mar 2026 02:40:22 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
     <item>
       <title>[Sponsor] npx workos: An AI Agent That Writes Auth Directly Into Your Codebase</title>
       <link>https://workos.com/docs/authkit/cli-installer?utm_source=tldrdev&amp;utm_medium=newsletter&amp;utm_campaign=q12026</link>
       <guid isPermaLink="true">https://workos.com/docs/authkit/cli-installer?utm_source=tldrdev&amp;utm_medium=newsletter&amp;utm_campaign=q12026</guid>
       <pubDate>Tue, 03 Mar 2026 00:20:21 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Giving LLMs a personality is just good engineering</title>
+      <link>https://seangoedecke.com/giving-llms-a-personality/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/giving-llms-a-personality/</guid>
+      <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>★ HazeOver — Mac Utility for Highlighting the Frontmost Window</title>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://feed.tedium.co/link/15204/17283566/vibe-coded-email-spam</guid>
       <pubDate>Wed, 25 Feb 2026 14:01:46 +0000</pubDate>
       <description>Tedium: The Dull Side of the Internet.</description>
-    </item>
-    <item>
-      <title>Book Review: Of Monsters and Mainframes - Barbara Truelove ★★★⯪☆</title>
-      <link>https://shkspr.mobi/blog/2026/02/book-review-of-monsters-and-mainframes-barbara-truelove/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/02/book-review-of-monsters-and-mainframes-barbara-truelove/</guid>
-      <pubDate>Wed, 25 Feb 2026 12:34:02 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>When access to knowledge is no longer the limitation</title>
-      <link>https://idiallo.com/blog/access-to-knowledge-is-no-longer-a-limitation?src=feed</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/access-to-knowledge-is-no-longer-a-limitation?src=feed</guid>
-      <pubDate>Wed, 25 Feb 2026 12:00:00 +0000</pubDate>
-      <description>iDiallo.com</description>
-    </item>
-    <item>
-      <title>Pluralistic: The whole economy pays the Amazon tax (25 Feb 2026)</title>
-      <link>https://pluralistic.net/2026/02/25/most-favored-nation/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/02/25/most-favored-nation/</guid>
-      <pubDate>Wed, 25 Feb 2026 11:07:59 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
     </item>
   </channel>
 </rss>
