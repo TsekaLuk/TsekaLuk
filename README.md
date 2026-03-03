@@ -208,11 +208,11 @@ Last Updated: Tuesday, March 3rd, 2026, 8:46:32 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Game Review: Unravel Two ★★★⯪☆](https://shkspr.mobi/blog/2026/03/game-review-unravel-two/) — *Terence Eden’s Blog* `03-03`
+- [Nobody Gets Promoted for Simplicity](https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/) — *Terrible Software* `03-03`
+- [Package Management is Naming All the Way Down](https://nesbitt.io/2026/03/03/package-management-is-naming-all-the-way-down.html) — *Andrew Nesbitt* `03-03`
 - [Betting Against Substack](https://feed.tedium.co/link/15204/17288375/betting-against-substack) — *Tedium: The Dull Side of the Internet.* `03-03`
 - [An AI Odyssey, Part 1: Correctness Conundrum](https://www.johndcook.com/blog/2026/03/02/an-ai-odyssey-part-1-correctness-conundrum/) — *John D. Cook* `03-03`
-- [[Sponsor] npx workos: An AI Agent That Writes Auth Directly Into Your Codebase](https://workos.com/docs/authkit/cli-installer?utm_source=tldrdev&utm_medium=newsletter&utm_campaign=q12026) — *Daring Fireball* `03-03`
-- [Giving LLMs a personality is just good engineering](https://seangoedecke.com/giving-llms-a-personality/) — *seangoedecke.com RSS feed* `03-03`
-- [★ HazeOver — Mac Utility for Highlighting the Frontmost Window](https://daringfireball.net/2026/03/hazeover) — *Daring Fireball* `03-02`
 <!--BLOG_RADAR:end-->
 
 ---

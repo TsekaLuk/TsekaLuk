@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 03 Mar 2026 07:02:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 13:14:16 +0000</lastBuildDate>
+    <item>
+      <title>Game Review: Unravel Two ★★★⯪☆</title>
+      <link>https://shkspr.mobi/blog/2026/03/game-review-unravel-two/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/03/game-review-unravel-two/</guid>
+      <pubDate>Tue, 03 Mar 2026 12:34:43 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Nobody Gets Promoted for Simplicity</title>
+      <link>https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/</link>
+      <guid isPermaLink="true">https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/</guid>
+      <pubDate>Tue, 03 Mar 2026 12:22:26 +0000</pubDate>
+      <description>Terrible Software</description>
+    </item>
+    <item>
+      <title>Package Management is Naming All the Way Down</title>
+      <link>https://nesbitt.io/2026/03/03/package-management-is-naming-all-the-way-down.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/03/03/package-management-is-naming-all-the-way-down.html</guid>
+      <pubDate>Tue, 03 Mar 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
     <item>
       <title>Betting Against Substack</title>
       <link>https://feed.tedium.co/link/15204/17288375/betting-against-substack</link>
@@ -39,6 +60,13 @@
       <guid isPermaLink="true">https://daringfireball.net/2026/03/hazeover</guid>
       <pubDate>Mon, 02 Mar 2026 23:41:11 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Teaching Children to Bicycle</title>
+      <link>https://entropicthoughts.com/teaching-children-to-bicycle</link>
+      <guid isPermaLink="true">https://entropicthoughts.com/teaching-children-to-bicycle</guid>
+      <pubDate>Mon, 02 Mar 2026 23:00:00 +0000</pubDate>
+      <description>Entropic Thoughts</description>
     </item>
     <item>
       <title>Unsung Heroes: Flickr’s URLs Scheme</title>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/02/26/the-last-gasps-of-the-rent-seeking-class.html</guid>
       <pubDate>Wed, 25 Feb 2026 16:00:00 +0000</pubDate>
       <description>the singularity is nearer</description>
-    </item>
-    <item>
-      <title>Major Candy Brands Are Switching From Actual Chocolate to ‘Chocolatey Candy’ (Read: Brown Candle Wax)</title>
-      <link>https://www.jezebel.com/fake-milk-chocolate-replacements-brands-reeses-hershey-ferrero-compound-coating-candy-climate-change</link>
-      <guid isPermaLink="true">https://www.jezebel.com/fake-milk-chocolate-replacements-brands-reeses-hershey-ferrero-compound-coating-candy-climate-change</guid>
-      <pubDate>Wed, 25 Feb 2026 15:33:41 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Intercepting messages before Is­Dialog­Message can process them</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260225-00/?p=112087</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260225-00/?p=112087</guid>
-      <pubDate>Wed, 25 Feb 2026 15:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>I Am Nothing if Not a Man of Science</title>
-      <link>https://mastodon.social/@gruber/116131665730352697</link>
-      <guid isPermaLink="true">https://mastodon.social/@gruber/116131665730352697</guid>
-      <pubDate>Wed, 25 Feb 2026 14:19:34 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>They’re Vibe-Coding Spam Now</title>
-      <link>https://feed.tedium.co/link/15204/17283566/vibe-coded-email-spam</link>
-      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17283566/vibe-coded-email-spam</guid>
-      <pubDate>Wed, 25 Feb 2026 14:01:46 +0000</pubDate>
-      <description>Tedium: The Dull Side of the Internet.</description>
     </item>
   </channel>
 </rss>
