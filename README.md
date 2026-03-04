@@ -208,11 +208,11 @@ Last Updated: Wednesday, March 4th, 2026, 9:29:00 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [w0rdz aRe 1mpoRtAnt](https://blog.jim-nielsen.com/2026/w0rdz-aRe-1mpoRtAnt/) — *Jim Nielsen’s Blog* `03-03`
-- [Pluralistic: Supreme Court saves artists from AI (03 Mar 2026)](https://pluralistic.net/2026/03/03/its-a-trap-2/) — *Pluralistic: Daily links from Cory Doctorow* `03-03`
-- [Apple Debuts M5 Pro and M5 Max, and Renames Its M-Series CPU Cores](https://www.apple.com/newsroom/2026/03/apple-debuts-m5-pro-and-m5-max-to-supercharge-the-most-demanding-pro-workflows/) — *Daring Fireball* `03-03`
-- [The one science reform we can all agree on, but we're too cowardly to do](https://www.experimental-history.com/p/the-one-science-reform-we-can-all) — *Experimental History* `03-03`
-- [The AI Bubble Is An Information War](https://www.wheresyoured.at/the-ai-bubble-is-an-information-war/) — *Ed Zitron's Where's Your Ed At* `03-03`
+- [Quoting Donald Knuth](https://simonwillison.net/2026/Mar/3/donald-knuth/#atom-everything) — *Simon Willison's Weblog* `03-03`
+- [Gemini 3.1 Flash-Lite](https://simonwillison.net/2026/Mar/3/gemini-31-flash-lite/#atom-everything) — *Simon Willison's Weblog* `03-03`
+- [Apple Announces Updated Studio Display and All-New Studio Display XDR](https://www.apple.com/newsroom/2026/03/apple-unveils-new-studio-display-and-all-new-studio-display-xdr/) — *Daring Fireball* `03-03`
+- [New MacBook Air With M5](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/) — *Daring Fireball* `03-03`
+- [A soft-landing manual for the second gilded age](https://www.joanwestenberg.com/a-soft-landing-manual-for-the-second-gilded-age/) — *Westenberg.* `03-03`
 <!--BLOG_RADAR:end-->
 
 ---

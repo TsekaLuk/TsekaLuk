@@ -4,7 +4,56 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 03 Mar 2026 19:02:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 02:39:15 +0000</lastBuildDate>
+    <item>
+      <title>Quoting Donald Knuth</title>
+      <link>https://simonwillison.net/2026/Mar/3/donald-knuth/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/3/donald-knuth/#atom-everything</guid>
+      <pubDate>Tue, 03 Mar 2026 23:59:04 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Gemini 3.1 Flash-Lite</title>
+      <link>https://simonwillison.net/2026/Mar/3/gemini-31-flash-lite/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/3/gemini-31-flash-lite/#atom-everything</guid>
+      <pubDate>Tue, 03 Mar 2026 21:53:54 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Apple Announces Updated Studio Display and All-New Studio Display XDR</title>
+      <link>https://www.apple.com/newsroom/2026/03/apple-unveils-new-studio-display-and-all-new-studio-display-xdr/</link>
+      <guid isPermaLink="true">https://www.apple.com/newsroom/2026/03/apple-unveils-new-studio-display-and-all-new-studio-display-xdr/</guid>
+      <pubDate>Tue, 03 Mar 2026 21:25:07 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>New MacBook Air With M5</title>
+      <link>https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/</link>
+      <guid isPermaLink="true">https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/</guid>
+      <pubDate>Tue, 03 Mar 2026 21:08:42 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>A soft-landing manual for the second gilded age</title>
+      <link>https://www.joanwestenberg.com/a-soft-landing-manual-for-the-second-gilded-age/</link>
+      <guid isPermaLink="true">https://www.joanwestenberg.com/a-soft-landing-manual-for-the-second-gilded-age/</guid>
+      <pubDate>Tue, 03 Mar 2026 21:06:34 +0000</pubDate>
+      <description>Westenberg.</description>
+    </item>
+    <item>
+      <title>Apple Might Have Prematurely Leaked the Name ‘MacBook Neo’</title>
+      <link>https://www.macrumors.com/2026/03/03/apple-accidentally-leaks-macbook-neo/</link>
+      <guid isPermaLink="true">https://www.macrumors.com/2026/03/03/apple-accidentally-leaks-macbook-neo/</guid>
+      <pubDate>Tue, 03 Mar 2026 20:59:43 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Apple Introduces MacBook Pro Models With M5 Pro and M5 Max Chips</title>
+      <link>https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/</link>
+      <guid isPermaLink="true">https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/</guid>
+      <pubDate>Tue, 03 Mar 2026 20:01:28 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>w0rdz aRe 1mpoRtAnt</title>
       <link>https://blog.jim-nielsen.com/2026/w0rdz-aRe-1mpoRtAnt/</link>
@@ -46,6 +95,13 @@
       <guid isPermaLink="true">https://buttondown.com/hillelwayne/archive/free-books/</guid>
       <pubDate>Tue, 03 Mar 2026 16:34:33 +0000</pubDate>
       <description>Computer Things</description>
+    </item>
+    <item>
+      <title>Just for fun: A survey of write protect notches on floppy disks and other media</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260303-00/?p=112104</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260303-00/?p=112104</guid>
+      <pubDate>Tue, 03 Mar 2026 15:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Game Review: Unravel Two ★★★⯪☆</title>
@@ -95,6 +151,13 @@
       <guid isPermaLink="true">https://seangoedecke.com/giving-llms-a-personality/</guid>
       <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Why Improve Your Writing?</title>
+      <link>https://refactoringenglish.com/chapters/why-improve-your-writing/</link>
+      <guid isPermaLink="true">https://refactoringenglish.com/chapters/why-improve-your-writing/</guid>
+      <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Refactoring English</description>
     </item>
     <item>
       <title>★ HazeOver — Mac Utility for Highlighting the Frontmost Window</title>
@@ -629,6 +692,13 @@
       <description>Daring Fireball</description>
     </item>
     <item>
+      <title>Feb '26 Notes</title>
+      <link>https://susam.net/notes-2026-02.html</link>
+      <guid isPermaLink="true">https://susam.net/notes-2026-02.html</guid>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Susam Pal</description>
+    </item>
+    <item>
       <title>cash issuing terminals</title>
       <link>https://computer.rip/2026-02-27-ibm-atm.html</link>
       <guid isPermaLink="true">https://computer.rip/2026-02-27-ibm-atm.html</guid>
@@ -774,76 +844,6 @@
       <guid isPermaLink="true">https://eli.thegreenplace.net/2026/notes-on-linear-algebra-for-polynomials/</guid>
       <pubDate>Thu, 26 Feb 2026 02:34:00 +0000</pubDate>
       <description>Eli Bendersky's website</description>
-    </item>
-    <item>
-      <title>Members Only: Your anonymity set has collapsed and you don't know it yet</title>
-      <link>https://www.joanwestenberg.com/members-only-your-anonymity-set-has-collapsed-and-you-dont-know-it-yet/</link>
-      <guid isPermaLink="true">https://www.joanwestenberg.com/members-only-your-anonymity-set-has-collapsed-and-you-dont-know-it-yet/</guid>
-      <pubDate>Thu, 26 Feb 2026 01:41:29 +0000</pubDate>
-      <description>Westenberg.</description>
-    </item>
-    <item>
-      <title>Hyperbolic versions of latest posts</title>
-      <link>https://www.johndcook.com/blog/2026/02/25/hyperbolic-versions-of-latest-posts/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/02/25/hyperbolic-versions-of-latest-posts/</guid>
-      <pubDate>Thu, 26 Feb 2026 01:10:37 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Introducing gzpeek, a tool to parse gzip metadata</title>
-      <link>https://evanhahn.com/introducing-gzpeek/</link>
-      <guid isPermaLink="true">https://evanhahn.com/introducing-gzpeek/</guid>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Evan Hahn (dot com)</description>
-    </item>
-    <item>
-      <title>Using OpenCode in CI/CD for AI pull request reviews</title>
-      <link>https://martinalderson.com/posts/using-opencode-in-cicd-for-ai-pull-request-reviews/?utm_source=rss</link>
-      <guid isPermaLink="true">https://martinalderson.com/posts/using-opencode-in-cicd-for-ai-pull-request-reviews/?utm_source=rss</guid>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Martin Alderson</description>
-    </item>
-    <item>
-      <title>Talking through the tech reckoning</title>
-      <link>https://anildash.com/2026/02/25/talking-through-the-tech-reckoning/</link>
-      <guid isPermaLink="true">https://anildash.com/2026/02/25/talking-through-the-tech-reckoning/</guid>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Anil Dash</description>
-    </item>
-    <item>
-      <title>‘H-Bomb: A Frank Lloyd Wright Typographic Mystery’</title>
-      <link>https://www.inconspicuous.info/p/h-bomb-a-frank-lloyd-wright-typographic</link>
-      <guid isPermaLink="true">https://www.inconspicuous.info/p/h-bomb-a-frank-lloyd-wright-typographic</guid>
-      <pubDate>Wed, 25 Feb 2026 23:53:00 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Terry Godier: ‘Phantom Obligation’</title>
-      <link>https://www.terrygodier.com/phantom-obligation</link>
-      <guid isPermaLink="true">https://www.terrygodier.com/phantom-obligation</guid>
-      <pubDate>Wed, 25 Feb 2026 23:52:42 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Bill Gates Apologizes to Foundation Staff Over Epstein Ties</title>
-      <link>https://www.wsj.com/articles/bill-gates-apologizes-to-foundation-staff-over-epstein-ties-67f39ef5</link>
-      <guid isPermaLink="true">https://www.wsj.com/articles/bill-gates-apologizes-to-foundation-staff-over-epstein-ties-67f39ef5</guid>
-      <pubDate>Wed, 25 Feb 2026 23:38:45 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Greg Knauss: ‘Lose Myself’</title>
-      <link>https://www.eod.com/blog/2026/02/lose-myself/</link>
-      <guid isPermaLink="true">https://www.eod.com/blog/2026/02/lose-myself/</guid>
-      <pubDate>Wed, 25 Feb 2026 22:53:08 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The Talk Show: ‘Serious Opinionators’</title>
-      <link>https://daringfireball.net/thetalkshow/2026/02/25/ep-441</link>
-      <guid isPermaLink="true">https://daringfireball.net/thetalkshow/2026/02/25/ep-441</guid>
-      <pubDate>Wed, 25 Feb 2026 22:17:57 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
