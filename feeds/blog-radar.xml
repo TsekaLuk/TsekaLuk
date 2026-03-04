@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 04 Mar 2026 06:59:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 13:13:10 +0000</lastBuildDate>
+    <item>
+      <title>How many hours do you need to work to afford a pint of beer?</title>
+      <link>https://shkspr.mobi/blog/2026/03/how-many-hours-do-you-need-to-work-to-afford-a-pint-of-beer/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/03/how-many-hours-do-you-need-to-work-to-afford-a-pint-of-beer/</guid>
+      <pubDate>Wed, 04 Mar 2026 12:34:22 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Interruption-Driven Development</title>
+      <link>https://idiallo.com/blog/interruption-driven-development?src=feed</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/interruption-driven-development?src=feed</guid>
+      <pubDate>Wed, 04 Mar 2026 12:00:00 +0000</pubDate>
+      <description>iDiallo.com</description>
+    </item>
+    <item>
+      <title>Package Managers Need to Cool Down</title>
+      <link>https://nesbitt.io/2026/03/04/package-managers-need-to-cool-down.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/03/04/package-managers-need-to-cool-down.html</guid>
+      <pubDate>Wed, 04 Mar 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
     <item>
       <title>Quoting Donald Knuth</title>
       <link>https://simonwillison.net/2026/Mar/3/donald-knuth/#atom-everything</link>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://berthub.eu/articles/nevenfuncties/</guid>
       <pubDate>Thu, 26 Feb 2026 10:22:53 +0000</pubDate>
       <description>Bert Hubert's writings</description>
-    </item>
-    <item>
-      <title>Git in Postgres</title>
-      <link>https://nesbitt.io/2026/02/26/git-in-postgres.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/02/26/git-in-postgres.html</guid>
-      <pubDate>Thu, 26 Feb 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Google API Keys Weren't Secrets. But then Gemini Changed the Rules.</title>
-      <link>https://simonwillison.net/2026/Feb/26/google-api-keys/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/26/google-api-keys/#atom-everything</guid>
-      <pubDate>Thu, 26 Feb 2026 04:28:55 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Quoting Benedict Evans</title>
-      <link>https://simonwillison.net/2026/Feb/26/benedict-evans/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Feb/26/benedict-evans/#atom-everything</guid>
-      <pubDate>Thu, 26 Feb 2026 03:44:56 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>

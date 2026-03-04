@@ -208,11 +208,11 @@ Last Updated: Wednesday, March 4th, 2026, 8:42:32 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [How many hours do you need to work to afford a pint of beer?](https://shkspr.mobi/blog/2026/03/how-many-hours-do-you-need-to-work-to-afford-a-pint-of-beer/) — *Terence Eden’s Blog* `03-04`
+- [Interruption-Driven Development](https://idiallo.com/blog/interruption-driven-development?src=feed) — *iDiallo.com* `03-04`
+- [Package Managers Need to Cool Down](https://nesbitt.io/2026/03/04/package-managers-need-to-cool-down.html) — *Andrew Nesbitt* `03-04`
 - [Quoting Donald Knuth](https://simonwillison.net/2026/Mar/3/donald-knuth/#atom-everything) — *Simon Willison's Weblog* `03-03`
 - [Gemini 3.1 Flash-Lite](https://simonwillison.net/2026/Mar/3/gemini-31-flash-lite/#atom-everything) — *Simon Willison's Weblog* `03-03`
-- [Apple Announces Updated Studio Display and All-New Studio Display XDR](https://www.apple.com/newsroom/2026/03/apple-unveils-new-studio-display-and-all-new-studio-display-xdr/) — *Daring Fireball* `03-03`
-- [New MacBook Air With M5](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/) — *Daring Fireball* `03-03`
-- [A soft-landing manual for the second gilded age](https://www.joanwestenberg.com/a-soft-landing-manual-for-the-second-gilded-age/) — *Westenberg.* `03-03`
 <!--BLOG_RADAR:end-->
 
 ---
