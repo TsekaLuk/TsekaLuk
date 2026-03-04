@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 04 Mar 2026 02:39:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 06:59:19 +0000</lastBuildDate>
     <item>
       <title>Quoting Donald Knuth</title>
       <link>https://simonwillison.net/2026/Mar/3/donald-knuth/#atom-everything</link>
@@ -151,6 +151,13 @@
       <guid isPermaLink="true">https://seangoedecke.com/giving-llms-a-personality/</guid>
       <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Remove annoying website elements</title>
+      <link>https://maurycyz.com/projects/fixsite/</link>
+      <guid isPermaLink="true">https://maurycyz.com/projects/fixsite/</guid>
+      <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
     </item>
     <item>
       <title>Why Improve Your Writing?</title>
@@ -412,6 +419,13 @@
       <description>Evan Hahn (dot com)</description>
     </item>
     <item>
+      <title>HN Skins 0.2.0</title>
+      <link>https://susam.net/code/news/hnskins/0.2.0.html</link>
+      <guid isPermaLink="true">https://susam.net/code/news/hnskins/0.2.0.html</guid>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Susam Pal</description>
+    </item>
+    <item>
       <title>Downstream Testing</title>
       <link>https://nesbitt.io/2026/03/01/downstream-testing.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/03/01/downstream-testing.html</guid>
@@ -515,13 +529,6 @@
       <guid isPermaLink="true">https://evanhahn.com/notes-from-february-2026/</guid>
       <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
       <description>Evan Hahn (dot com)</description>
-    </item>
-    <item>
-      <title>HN Skins 0.2.0</title>
-      <link>https://susam.net/code/news/hnskins/0.2.0.html</link>
-      <guid isPermaLink="true">https://susam.net/code/news/hnskins/0.2.0.html</guid>
-      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Susam Pal</description>
     </item>
     <item>
       <title>HN Skins 0.1.0</title>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Feb/26/benedict-evans/#atom-everything</guid>
       <pubDate>Thu, 26 Feb 2026 03:44:56 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Notes on Linear Algebra for Polynomials</title>
-      <link>https://eli.thegreenplace.net/2026/notes-on-linear-algebra-for-polynomials/</link>
-      <guid isPermaLink="true">https://eli.thegreenplace.net/2026/notes-on-linear-algebra-for-polynomials/</guid>
-      <pubDate>Thu, 26 Feb 2026 02:34:00 +0000</pubDate>
-      <description>Eli Bendersky's website</description>
     </item>
   </channel>
 </rss>
