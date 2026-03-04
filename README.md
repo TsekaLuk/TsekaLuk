@@ -208,11 +208,11 @@ Last Updated: Thursday, March 5th, 2026, 2:40:34 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [How many hours do you need to work to afford a pint of beer?](https://shkspr.mobi/blog/2026/03/how-many-hours-do-you-need-to-work-to-afford-a-pint-of-beer/) — *Terence Eden’s Blog* `03-04`
-- [Interruption-Driven Development](https://idiallo.com/blog/interruption-driven-development?src=feed) — *iDiallo.com* `03-04`
-- [Package Managers Need to Cool Down](https://nesbitt.io/2026/03/04/package-managers-need-to-cool-down.html) — *Andrew Nesbitt* `03-04`
-- [Quoting Donald Knuth](https://simonwillison.net/2026/Mar/3/donald-knuth/#atom-everything) — *Simon Willison's Weblog* `03-03`
-- [Gemini 3.1 Flash-Lite](https://simonwillison.net/2026/Mar/3/gemini-31-flash-lite/#atom-everything) — *Simon Willison's Weblog* `03-03`
+- [Studio Display vs. Studio Display XDR](https://www.apple.com/displays/) — *Daring Fireball* `03-04`
+- [Anti-patterns: things to avoid](https://simonwillison.net/guides/agentic-engineering-patterns/anti-patterns/#atom-everything) — *Simon Willison's Weblog* `03-04`
+- [Compatibility Notes on the New Studio Displays](https://www.macrumors.com/2026/03/03/apple-studio-display-no-intel-mac-support/) — *Daring Fireball* `03-04`
+- [Something is afoot in the land of Qwen](https://simonwillison.net/2026/Mar/4/qwen/#atom-everything) — *Simon Willison's Weblog* `03-04`
+- [Aha, I found a counterexample to the documentation that says that Query­Performance­Counter never fails](https://devblogs.microsoft.com/oldnewthing/20260304-00/?p=112110) — *The Old New Thing* `03-04`
 <!--BLOG_RADAR:end-->
 
 ---
