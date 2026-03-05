@@ -208,11 +208,11 @@ Last Updated: Thursday, March 5th, 2026, 9:43:03 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [★ Thoughts and Observations on the MacBook Neo](https://daringfireball.net/2026/03/599_not_a_piece_of_junk_macbook_neo) — *Daring Fireball* `03-04`
 - [Studio Display vs. Studio Display XDR](https://www.apple.com/displays/) — *Daring Fireball* `03-04`
 - [Anti-patterns: things to avoid](https://simonwillison.net/guides/agentic-engineering-patterns/anti-patterns/#atom-everything) — *Simon Willison's Weblog* `03-04`
 - [Compatibility Notes on the New Studio Displays](https://www.macrumors.com/2026/03/03/apple-studio-display-no-intel-mac-support/) — *Daring Fireball* `03-04`
 - [Something is afoot in the land of Qwen](https://simonwillison.net/2026/Mar/4/qwen/#atom-everything) — *Simon Willison's Weblog* `03-04`
-- [Aha, I found a counterexample to the documentation that says that Query­Performance­Counter never fails](https://devblogs.microsoft.com/oldnewthing/20260304-00/?p=112110) — *The Old New Thing* `03-04`
 <!--BLOG_RADAR:end-->
 
 ---

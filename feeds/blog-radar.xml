@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 04 Mar 2026 19:01:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 02:41:57 +0000</lastBuildDate>
+    <item>
+      <title>★ Thoughts and Observations on the MacBook Neo</title>
+      <link>https://daringfireball.net/2026/03/599_not_a_piece_of_junk_macbook_neo</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/03/599_not_a_piece_of_junk_macbook_neo</guid>
+      <pubDate>Wed, 04 Mar 2026 20:40:11 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Studio Display vs. Studio Display XDR</title>
       <link>https://www.apple.com/displays/</link>
@@ -836,13 +843,6 @@
       <link>https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/</link>
       <guid isPermaLink="true">https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/</guid>
       <pubDate>Thu, 26 Feb 2026 17:50:08 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Prediction ‘Market’ Kalshi Accuses MrBeast Editor of Insider Trading</title>
-      <link>https://www.npr.org/2026/02/25/nx-s1-5726050/kalshi-insider-trading-enforcement-actions</link>
-      <guid isPermaLink="true">https://www.npr.org/2026/02/25/nx-s1-5726050/kalshi-insider-trading-enforcement-actions</guid>
-      <pubDate>Thu, 26 Feb 2026 17:36:26 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
   </channel>
