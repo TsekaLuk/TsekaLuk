@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 05 Mar 2026 02:41:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 07:02:40 +0000</lastBuildDate>
     <item>
       <title>★ Thoughts and Observations on the MacBook Neo</title>
       <link>https://daringfireball.net/2026/03/599_not_a_piece_of_junk_macbook_neo</link>
@@ -237,18 +237,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Remove annoying banners</title>
-      <link>https://maurycyz.com/projects/fixsite/</link>
-      <guid isPermaLink="true">https://maurycyz.com/projects/fixsite/</guid>
-      <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
-    </item>
-    <item>
       <title>Giving LLMs a personality is just good engineering</title>
       <link>https://seangoedecke.com/giving-llms-a-personality/</link>
       <guid isPermaLink="true">https://seangoedecke.com/giving-llms-a-personality/</guid>
       <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Remove annoying banners</title>
+      <link>https://maurycyz.com/projects/fixsite/</link>
+      <guid isPermaLink="true">https://maurycyz.com/projects/fixsite/</guid>
+      <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
     </item>
     <item>
       <title>Why Improve Your Writing?</title>
@@ -734,18 +734,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Upgrading my Open Source Pi Surveillance Server with Frigate</title>
-      <link>https://www.jeffgeerling.com/blog/2026/upgrading-my-open-source-pi-surveillance-server-frigate/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/upgrading-my-open-source-pi-surveillance-server-frigate/</guid>
-      <pubDate>Fri, 27 Feb 2026 15:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
       <title>Intercepting messages inside Is­Dialog­Message, fine-tuning the message filter</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260227-00/?p=112094</link>
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260227-00/?p=112094</guid>
       <pubDate>Fri, 27 Feb 2026 15:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>Upgrading my Open Source Pi Surveillance Server with Frigate</title>
+      <link>https://www.jeffgeerling.com/blog/2026/upgrading-my-open-source-pi-surveillance-server-frigate/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/upgrading-my-open-source-pi-surveillance-server-frigate/</guid>
+      <pubDate>Fri, 27 Feb 2026 15:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
     </item>
     <item>
       <title>Book Review: Weird Things Customers Say in Bookshops by Jen Campbell ★★☆☆☆</title>
@@ -791,8 +791,8 @@
     </item>
     <item>
       <title>Feb '26 Notes</title>
-      <link>https://susam.net/notes-2026-02.html</link>
-      <guid isPermaLink="true">https://susam.net/notes-2026-02.html</guid>
+      <link>https://susam.net/26b.html</link>
+      <guid isPermaLink="true">https://susam.net/26b.html</guid>
       <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
       <description>Susam Pal</description>
     </item>
