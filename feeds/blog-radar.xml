@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 05 Mar 2026 07:02:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 13:17:03 +0000</lastBuildDate>
+    <item>
+      <title>Book Review: Katabasis by R. F. Kuang ★★★★⯪</title>
+      <link>https://shkspr.mobi/blog/2026/03/book-review-katabasis-by-r-f-kuang/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/03/book-review-katabasis-by-r-f-kuang/</guid>
+      <pubDate>Thu, 05 Mar 2026 12:34:44 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Package Manager Magic Files</title>
+      <link>https://nesbitt.io/2026/03/05/package-manager-magic-files.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/03/05/package-manager-magic-files.html</guid>
+      <pubDate>Thu, 05 Mar 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
     <item>
       <title>★ Thoughts and Observations on the MacBook Neo</title>
       <link>https://daringfireball.net/2026/03/599_not_a_piece_of_junk_macbook_neo</link>
@@ -237,18 +251,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Giving LLMs a personality is just good engineering</title>
-      <link>https://seangoedecke.com/giving-llms-a-personality/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/giving-llms-a-personality/</guid>
-      <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
       <title>Remove annoying banners</title>
       <link>https://maurycyz.com/projects/fixsite/</link>
       <guid isPermaLink="true">https://maurycyz.com/projects/fixsite/</guid>
       <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
       <description>Maurycy's Blog</description>
+    </item>
+    <item>
+      <title>Giving LLMs a personality is just good engineering</title>
+      <link>https://seangoedecke.com/giving-llms-a-personality/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/giving-llms-a-personality/</guid>
+      <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>Why Improve Your Writing?</title>
@@ -734,18 +748,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Intercepting messages inside Is­Dialog­Message, fine-tuning the message filter</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260227-00/?p=112094</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260227-00/?p=112094</guid>
-      <pubDate>Fri, 27 Feb 2026 15:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
       <title>Upgrading my Open Source Pi Surveillance Server with Frigate</title>
       <link>https://www.jeffgeerling.com/blog/2026/upgrading-my-open-source-pi-surveillance-server-frigate/</link>
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/upgrading-my-open-source-pi-surveillance-server-frigate/</guid>
       <pubDate>Fri, 27 Feb 2026 15:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>Intercepting messages inside Is­Dialog­Message, fine-tuning the message filter</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260227-00/?p=112094</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260227-00/?p=112094</guid>
+      <pubDate>Fri, 27 Feb 2026 15:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Book Review: Weird Things Customers Say in Bookshops by Jen Campbell ★★☆☆☆</title>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Feb/26/andrej-karpathy/#atom-everything</guid>
       <pubDate>Thu, 26 Feb 2026 19:03:27 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>‘Steve Jobs in Exile’</title>
-      <link>https://geoffreycain.net/steve-jobs-in-exile/</link>
-      <guid isPermaLink="true">https://geoffreycain.net/steve-jobs-in-exile/</guid>
-      <pubDate>Thu, 26 Feb 2026 18:04:33 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Microsoft Adds Additional Markdown Features to Windows Notepad</title>
-      <link>https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/</link>
-      <guid isPermaLink="true">https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/</guid>
-      <pubDate>Thu, 26 Feb 2026 17:50:08 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
