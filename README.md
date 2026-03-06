@@ -208,11 +208,11 @@ Last Updated: Friday, March 6th, 2026, 8:41:53 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [A History of Operation Breakthrough](https://www.construction-physics.com/p/a-history-of-operation-breakthrough) — *Construction Physics* `03-06`
+- [Firmware Update for the Treedix TRX5-0816 Cable Tester](https://shkspr.mobi/blog/2026/03/firmware-update-for-the-treedix-trx5-0816-cable-tester/) — *Terence Eden’s Blog* `03-06`
+- [Boy I was wrong about the Fediverse](https://matduggan.com/boy-i-was-wrong-about-the-fediverse/) — *matduggan.com* `03-06`
+- [.gitlocal](https://nesbitt.io/2026/03/06/gitlocal.html) — *Andrew Nesbitt* `03-06`
 - [Agentic manual testing](https://simonwillison.net/guides/agentic-engineering-patterns/agentic-manual-testing/#atom-everything) — *Simon Willison's Weblog* `03-06`
-- [Clinejection — Compromising Cline's Production Releases just by Prompting an Issue Triager](https://simonwillison.net/2026/Mar/6/clinejection/#atom-everything) — *Simon Willison's Weblog* `03-06`
-- [Introducing GPT‑5.4](https://simonwillison.net/2026/Mar/5/introducing-gpt54/#atom-everything) — *Simon Willison's Weblog* `03-05`
-- [Steve Jobs in 2007, on Apple’s Pursuit of PC Market Share: ‘We Just Can’t Ship Junk’](https://www.youtube.com/watch?v=U37Ds3RvyoM) — *Daring Fireball* `03-05`
-- [Pluralistic: Blowtorching the frog (05 Mar 2026) executive-dysfunction](https://pluralistic.net/2026/03/05/executive-dysfunction/) — *Pluralistic: Daily links from Cory Doctorow* `03-05`
 <!--BLOG_RADAR:end-->
 
 ---
