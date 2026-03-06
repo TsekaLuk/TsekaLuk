@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 06 Mar 2026 02:39:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 07:01:01 +0000</lastBuildDate>
+    <item>
+      <title>Agentic manual testing</title>
+      <link>https://simonwillison.net/guides/agentic-engineering-patterns/agentic-manual-testing/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/guides/agentic-engineering-patterns/agentic-manual-testing/#atom-everything</guid>
+      <pubDate>Fri, 06 Mar 2026 05:43:54 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Clinejection — Compromising Cline's Production Releases just by Prompting an Issue Triager</title>
+      <link>https://simonwillison.net/2026/Mar/6/clinejection/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/6/clinejection/#atom-everything</guid>
+      <pubDate>Fri, 06 Mar 2026 02:39:04 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Introducing GPT‑5.4</title>
       <link>https://simonwillison.net/2026/Mar/5/introducing-gpt54/#atom-everything</link>
@@ -503,6 +517,13 @@
       <description>John D. Cook</description>
     </item>
     <item>
+      <title>My current policy on AI writing for my blog</title>
+      <link>https://simonwillison.net/2026/Mar/1/ai-writing/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/1/ai-writing/#atom-everything</guid>
+      <pubDate>Sun, 01 Mar 2026 16:06:43 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
       <title>Sentry</title>
       <link>https://sentry.io/resources/ios-workshop-jan-2026/?utm_source=daringfireball&amp;utm_medium=paid-display&amp;utm_campaign=general-fy27q1-evergreen&amp;utm_content=static-ad-mobilerss-trysentry</link>
       <guid isPermaLink="true">https://sentry.io/resources/ios-workshop-jan-2026/?utm_source=daringfireball&amp;utm_medium=paid-display&amp;utm_campaign=general-fy27q1-evergreen&amp;utm_content=static-ad-mobilerss-trysentry</guid>
@@ -564,6 +585,13 @@
       <guid isPermaLink="true">https://xeiaso.net/blog/2026/killing-my-inner-necron/</guid>
       <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>The two kinds of error</title>
+      <link>https://evanhahn.com/the-two-kinds-of-error/</link>
+      <guid isPermaLink="true">https://evanhahn.com/the-two-kinds-of-error/</guid>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Evan Hahn (dot com)</description>
     </item>
     <item>
       <title>Downstream Testing</title>
@@ -669,6 +697,13 @@
       <guid isPermaLink="true">https://maurycyz.com/misc/c_files/</guid>
       <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
       <description>Maurycy's Blog</description>
+    </item>
+    <item>
+      <title>Notes from February 2026</title>
+      <link>https://evanhahn.com/notes-from-february-2026/</link>
+      <guid isPermaLink="true">https://evanhahn.com/notes-from-february-2026/</guid>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+      <description>Evan Hahn (dot com)</description>
     </item>
     <item>
       <title>HN Skins 0.1.0</title>
@@ -783,18 +818,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Intercepting messages inside Is­Dialog­Message, fine-tuning the message filter</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260227-00/?p=112094</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260227-00/?p=112094</guid>
-      <pubDate>Fri, 27 Feb 2026 15:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
       <title>Upgrading my Open Source Pi Surveillance Server with Frigate</title>
       <link>https://www.jeffgeerling.com/blog/2026/upgrading-my-open-source-pi-surveillance-server-frigate/</link>
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/upgrading-my-open-source-pi-surveillance-server-frigate/</guid>
       <pubDate>Fri, 27 Feb 2026 15:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>Intercepting messages inside Is­Dialog­Message, fine-tuning the message filter</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260227-00/?p=112094</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260227-00/?p=112094</guid>
+      <pubDate>Fri, 27 Feb 2026 15:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Book Review: Weird Things Customers Say in Bookshops by Jen Campbell ★★☆☆☆</title>
@@ -809,41 +844,6 @@
       <guid isPermaLink="true">https://idiallo.com/blog/when-process-get-in-the-way?src=feed</guid>
       <pubDate>Fri, 27 Feb 2026 12:00:00 +0000</pubDate>
       <description>iDiallo.com</description>
-    </item>
-    <item>
-      <title>xkcd 2347</title>
-      <link>https://nesbitt.io/2026/02/27/xkcd-2347.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/02/27/xkcd-2347.html</guid>
-      <pubDate>Fri, 27 Feb 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Apple Announces F1 Broadcast Details, and a Surprising Netflix Partnership</title>
-      <link>https://sixcolors.com/post/2026/02/apple-announces-f1-details-and-a-surprising-netflix-partnership/</link>
-      <guid isPermaLink="true">https://sixcolors.com/post/2026/02/apple-announces-f1-details-and-a-surprising-netflix-partnership/</guid>
-      <pubDate>Fri, 27 Feb 2026 01:30:25 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Energym</title>
-      <link>https://www.aicandy.be/giorgio-1</link>
-      <guid isPermaLink="true">https://www.aicandy.be/giorgio-1</guid>
-      <pubDate>Fri, 27 Feb 2026 00:37:25 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Netflix Backs Out of Bid for Warner Bros., Paving Way for Paramount Takeover</title>
-      <link>https://www.nytimes.com/2026/02/26/business/warner-bros-discovery-paramount-deal-netflix.html?unlocked_article_code=1.PVA.3639.2yWKES49z8Os</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/02/26/business/warner-bros-discovery-paramount-deal-netflix.html?unlocked_article_code=1.PVA.3639.2yWKES49z8Os</guid>
-      <pubDate>Fri, 27 Feb 2026 00:17:31 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Feb '26 Notes</title>
-      <link>https://susam.net/26b.html</link>
-      <guid isPermaLink="true">https://susam.net/26b.html</guid>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Susam Pal</description>
     </item>
   </channel>
 </rss>

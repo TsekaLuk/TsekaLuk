@@ -208,11 +208,11 @@ Last Updated: Friday, March 6th, 2026, 2:40:22 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Agentic manual testing](https://simonwillison.net/guides/agentic-engineering-patterns/agentic-manual-testing/#atom-everything) — *Simon Willison's Weblog* `03-06`
+- [Clinejection — Compromising Cline's Production Releases just by Prompting an Issue Triager](https://simonwillison.net/2026/Mar/6/clinejection/#atom-everything) — *Simon Willison's Weblog* `03-06`
 - [Introducing GPT‑5.4](https://simonwillison.net/2026/Mar/5/introducing-gpt54/#atom-everything) — *Simon Willison's Weblog* `03-05`
 - [Steve Jobs in 2007, on Apple’s Pursuit of PC Market Share: ‘We Just Can’t Ship Junk’](https://www.youtube.com/watch?v=U37Ds3RvyoM) — *Daring Fireball* `03-05`
 - [Pluralistic: Blowtorching the frog (05 Mar 2026) executive-dysfunction](https://pluralistic.net/2026/03/05/executive-dysfunction/) — *Pluralistic: Daily links from Cory Doctorow* `03-05`
-- [Can coding agents relicense open source through a “clean room” implementation of code?](https://simonwillison.net/2026/Mar/5/chardet/#atom-everything) — *Simon Willison's Weblog* `03-05`
-- [The mystery of the posted message that was dispatched before reaching the main message loop](https://devblogs.microsoft.com/oldnewthing/20260305-00/?p=112114) — *The Old New Thing* `03-05`
 <!--BLOG_RADAR:end-->
 
 ---
