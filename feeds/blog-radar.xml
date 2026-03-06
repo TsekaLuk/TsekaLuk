@@ -4,13 +4,41 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 05 Mar 2026 19:22:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 02:39:50 +0000</lastBuildDate>
+    <item>
+      <title>Introducing GPT‑5.4</title>
+      <link>https://simonwillison.net/2026/Mar/5/introducing-gpt54/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/5/introducing-gpt54/#atom-everything</guid>
+      <pubDate>Thu, 05 Mar 2026 23:56:09 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Steve Jobs in 2007, on Apple’s Pursuit of PC Market Share: ‘We Just Can’t Ship Junk’</title>
+      <link>https://www.youtube.com/watch?v=U37Ds3RvyoM</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=U37Ds3RvyoM</guid>
+      <pubDate>Thu, 05 Mar 2026 19:43:16 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Pluralistic: Blowtorching the frog (05 Mar 2026) executive-dysfunction</title>
+      <link>https://pluralistic.net/2026/03/05/executive-dysfunction/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/03/05/executive-dysfunction/</guid>
+      <pubDate>Thu, 05 Mar 2026 19:31:30 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
     <item>
       <title>Can coding agents relicense open source through a “clean room” implementation of code?</title>
       <link>https://simonwillison.net/2026/Mar/5/chardet/#atom-everything</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Mar/5/chardet/#atom-everything</guid>
       <pubDate>Thu, 05 Mar 2026 16:49:33 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>The mystery of the posted message that was dispatched before reaching the main message loop</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260305-00/?p=112114</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260305-00/?p=112114</guid>
+      <pubDate>Thu, 05 Mar 2026 15:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Book Review: Katabasis by R. F. Kuang ★★★★⯪</title>
@@ -412,7 +440,7 @@
       <description>Terence Eden’s Blog</description>
     </item>
     <item>
-      <title>Mo Samuels wrote this post</title>
+      <title>Mo Samuels wrote this blog post</title>
       <link>https://idiallo.com/blog/why-we-hate-llm-articles?src=feed</link>
       <guid isPermaLink="true">https://idiallo.com/blog/why-we-hate-llm-articles?src=feed</guid>
       <pubDate>Mon, 02 Mar 2026 12:00:00 +0000</pubDate>
@@ -538,13 +566,6 @@
       <description>Xe Iaso's blog</description>
     </item>
     <item>
-      <title>The two kinds of error</title>
-      <link>https://evanhahn.com/the-two-kinds-of-error/</link>
-      <guid isPermaLink="true">https://evanhahn.com/the-two-kinds-of-error/</guid>
-      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Evan Hahn (dot com)</description>
-    </item>
-    <item>
       <title>Downstream Testing</title>
       <link>https://nesbitt.io/2026/03/01/downstream-testing.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/03/01/downstream-testing.html</guid>
@@ -648,13 +669,6 @@
       <guid isPermaLink="true">https://maurycyz.com/misc/c_files/</guid>
       <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
       <description>Maurycy's Blog</description>
-    </item>
-    <item>
-      <title>Notes from February 2026</title>
-      <link>https://evanhahn.com/notes-from-february-2026/</link>
-      <guid isPermaLink="true">https://evanhahn.com/notes-from-february-2026/</guid>
-      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
-      <description>Evan Hahn (dot com)</description>
     </item>
     <item>
       <title>HN Skins 0.1.0</title>
@@ -769,18 +783,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Upgrading my Open Source Pi Surveillance Server with Frigate</title>
-      <link>https://www.jeffgeerling.com/blog/2026/upgrading-my-open-source-pi-surveillance-server-frigate/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/upgrading-my-open-source-pi-surveillance-server-frigate/</guid>
-      <pubDate>Fri, 27 Feb 2026 15:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
       <title>Intercepting messages inside Is­Dialog­Message, fine-tuning the message filter</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260227-00/?p=112094</link>
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260227-00/?p=112094</guid>
       <pubDate>Fri, 27 Feb 2026 15:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>Upgrading my Open Source Pi Surveillance Server with Frigate</title>
+      <link>https://www.jeffgeerling.com/blog/2026/upgrading-my-open-source-pi-surveillance-server-frigate/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/upgrading-my-open-source-pi-surveillance-server-frigate/</guid>
+      <pubDate>Fri, 27 Feb 2026 15:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
     </item>
     <item>
       <title>Book Review: Weird Things Customers Say in Bookshops by Jen Campbell ★★☆☆☆</title>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://susam.net/26b.html</guid>
       <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
       <description>Susam Pal</description>
-    </item>
-    <item>
-      <title>cash issuing terminals</title>
-      <link>https://computer.rip/2026-02-27-ibm-atm.html</link>
-      <guid isPermaLink="true">https://computer.rip/2026-02-27-ibm-atm.html</guid>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
-      <description>computers are bad</description>
-    </item>
-    <item>
-      <title>iPhone and iPad Approved to Handle Classified NATO Information</title>
-      <link>https://nr.apple.com/Do0I6B8WX0</link>
-      <guid isPermaLink="true">https://nr.apple.com/Do0I6B8WX0</guid>
-      <pubDate>Thu, 26 Feb 2026 21:42:15 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>

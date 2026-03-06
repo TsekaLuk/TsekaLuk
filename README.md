@@ -208,11 +208,11 @@ Last Updated: Friday, March 6th, 2026, 9:45:01 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Introducing GPT‑5.4](https://simonwillison.net/2026/Mar/5/introducing-gpt54/#atom-everything) — *Simon Willison's Weblog* `03-05`
+- [Steve Jobs in 2007, on Apple’s Pursuit of PC Market Share: ‘We Just Can’t Ship Junk’](https://www.youtube.com/watch?v=U37Ds3RvyoM) — *Daring Fireball* `03-05`
+- [Pluralistic: Blowtorching the frog (05 Mar 2026) executive-dysfunction](https://pluralistic.net/2026/03/05/executive-dysfunction/) — *Pluralistic: Daily links from Cory Doctorow* `03-05`
 - [Can coding agents relicense open source through a “clean room” implementation of code?](https://simonwillison.net/2026/Mar/5/chardet/#atom-everything) — *Simon Willison's Weblog* `03-05`
-- [Book Review: Katabasis by R. F. Kuang ★★★★⯪](https://shkspr.mobi/blog/2026/03/book-review-katabasis-by-r-f-kuang/) — *Terence Eden’s Blog* `03-05`
-- [Package Manager Magic Files](https://nesbitt.io/2026/03/05/package-manager-magic-files.html) — *Andrew Nesbitt* `03-05`
-- [AI And The Ship of Theseus](https://lucumr.pocoo.org/2026/3/5/theseus/) — *Armin Ronacher's Thoughts and Writings* `03-05`
-- [JJ LSP Follow Up](https://matklad.github.io/2026/03/05/jj-lsp-followup.html) — *matklad* `03-05`
+- [The mystery of the posted message that was dispatched before reaching the main message loop](https://devblogs.microsoft.com/oldnewthing/20260305-00/?p=112114) — *The Old New Thing* `03-05`
 <!--BLOG_RADAR:end-->
 
 ---
