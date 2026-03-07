@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 07 Mar 2026 13:02:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 18:43:38 +0000</lastBuildDate>
+    <item>
+      <title>Codex for Open Source</title>
+      <link>https://simonwillison.net/2026/Mar/7/codex-for-open-source/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/7/codex-for-open-source/#atom-everything</guid>
+      <pubDate>Sat, 07 Mar 2026 18:13:39 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Pluralistic: The web is bearable with RSS (07 Mar 2026)</title>
+      <link>https://pluralistic.net/2026/03/07/reader-mode/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/03/07/reader-mode/</guid>
+      <pubDate>Sat, 07 Mar 2026 18:02:49 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Reading List 03/07/2026</title>
+      <link>https://www.construction-physics.com/p/reading-list-03072026</link>
+      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-03072026</guid>
+      <pubDate>Sat, 07 Mar 2026 13:03:12 +0000</pubDate>
+      <description>Construction Physics</description>
+    </item>
     <item>
       <title>Book Review: The Electronic Criminals by Robert Farr (1975) ★★★⯪☆</title>
       <link>https://shkspr.mobi/blog/2026/03/book-review-the-electronic-criminals-by-robert-farr-1975/</link>
@@ -18,6 +39,20 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/03/07/announcing-new-working-groups.html</guid>
       <pubDate>Sat, 07 Mar 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>Your terminal program has to be where xterm's ziconbeep feature is handled</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/unix/XTermHasToDoZiconbeep</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/unix/XTermHasToDoZiconbeep</guid>
+      <pubDate>Sat, 07 Mar 2026 03:26:47 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>Using Clankers to Help Me Process Surgery</title>
+      <link>https://xeiaso.net/blog/2026/surgery-recovery-clankers/</link>
+      <guid isPermaLink="true">https://xeiaso.net/blog/2026/surgery-recovery-clankers/</guid>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>Daring Fireball Weekly Sponsorship Openings</title>
@@ -174,6 +209,13 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
+      <title>How I think systemd IP address restrictions on socket units works</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdSocketIPRestrictions</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdSocketIPRestrictions</guid>
+      <pubDate>Fri, 06 Mar 2026 04:43:52 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
       <title>Clinejection — Compromising Cline's Production Releases just by Prompting an Issue Triager</title>
       <link>https://simonwillison.net/2026/Mar/6/clinejection/#atom-everything</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Mar/6/clinejection/#atom-everything</guid>
@@ -181,18 +223,18 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>Advice for staying in the hospital for a week</title>
-      <link>https://xeiaso.net/blog/2026/hospital-advice/</link>
-      <guid isPermaLink="true">https://xeiaso.net/blog/2026/hospital-advice/</guid>
-      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
       <title>I don't know if my job will still exist in ten years</title>
       <link>https://seangoedecke.com/will-my-job-still-exist/</link>
       <guid isPermaLink="true">https://seangoedecke.com/will-my-job-still-exist/</guid>
       <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Advice for staying in the hospital for a week</title>
+      <link>https://xeiaso.net/blog/2026/hospital-advice/</link>
+      <guid isPermaLink="true">https://xeiaso.net/blog/2026/hospital-advice/</guid>
+      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>Introducing GPT‑5.4</title>
@@ -242,6 +284,13 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/03/05/package-manager-magic-files.html</guid>
       <pubDate>Thu, 05 Mar 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>Sometimes, non-general solutions are the right answer</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/python/HardcodingCanBeTheRightAnswer</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/python/HardcodingCanBeTheRightAnswer</guid>
+      <pubDate>Thu, 05 Mar 2026 03:33:13 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>AI And The Ship of Theseus</title>
@@ -340,6 +389,13 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/03/04/package-managers-need-to-cool-down.html</guid>
       <pubDate>Wed, 04 Mar 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>A taxonomy of text output (from tools that want to be too clever)</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ProgramTextOutputTaxonomy</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ProgramTextOutputTaxonomy</guid>
+      <pubDate>Wed, 04 Mar 2026 01:41:02 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>Maybe there’s a pattern here?</title>
@@ -475,6 +531,13 @@
       <description>Tedium: The Dull Side of the Internet.</description>
     </item>
     <item>
+      <title>Log messages are mostly for the people operating your software</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/programming/LogMessagesAreForOperation</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/programming/LogMessagesAreForOperation</guid>
+      <pubDate>Tue, 03 Mar 2026 04:48:37 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
       <title>An AI Odyssey, Part 1: Correctness Conundrum</title>
       <link>https://www.johndcook.com/blog/2026/03/02/an-ai-odyssey-part-1-correctness-conundrum/</link>
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/03/02/an-ai-odyssey-part-1-correctness-conundrum/</guid>
@@ -489,18 +552,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Remove annoying banners</title>
-      <link>https://maurycyz.com/projects/fixsite/</link>
-      <guid isPermaLink="true">https://maurycyz.com/projects/fixsite/</guid>
-      <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
-    </item>
-    <item>
       <title>Giving LLMs a personality is just good engineering</title>
       <link>https://seangoedecke.com/giving-llms-a-personality/</link>
       <guid isPermaLink="true">https://seangoedecke.com/giving-llms-a-personality/</guid>
       <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Remove annoying banners</title>
+      <link>https://maurycyz.com/projects/fixsite/</link>
+      <guid isPermaLink="true">https://maurycyz.com/projects/fixsite/</guid>
+      <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
     </item>
     <item>
       <title>Why Improve Your Writing?</title>
@@ -657,6 +720,13 @@
       <description>Troy Hunt</description>
     </item>
     <item>
+      <title>The things that make me so attached to xterm as my terminal program</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/unix/XTermWhyAttached</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/unix/XTermWhyAttached</guid>
+      <pubDate>Mon, 02 Mar 2026 04:27:43 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
       <title>The Unbound Scepter</title>
       <link>https://xeiaso.net/blog/2026/seroquel-xanax-trip-report/</link>
       <guid isPermaLink="true">https://xeiaso.net/blog/2026/seroquel-xanax-trip-report/</guid>
@@ -741,6 +811,13 @@
       <description>&lt;antirez&gt;</description>
     </item>
     <item>
+      <title>Sometimes the simplest version of a text table is printed from a command</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SimpleTextViaCommands</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SimpleTextViaCommands</guid>
+      <pubDate>Sun, 01 Mar 2026 03:17:38 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
       <title>Notes on Lagrange Interpolating Polynomials</title>
       <link>https://eli.thegreenplace.net/2026/notes-on-lagrange-interpolating-polynomials/</link>
       <guid isPermaLink="true">https://eli.thegreenplace.net/2026/notes-on-lagrange-interpolating-polynomials/</guid>
@@ -767,83 +844,6 @@
       <guid isPermaLink="true">https://evanhahn.com/the-two-kinds-of-error/</guid>
       <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
       <description>Evan Hahn (dot com)</description>
-    </item>
-    <item>
-      <title>Downstream Testing</title>
-      <link>https://nesbitt.io/2026/03/01/downstream-testing.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/03/01/downstream-testing.html</guid>
-      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>HN Skins 0.2.0</title>
-      <link>https://susam.net/code/news/hnskins/0.2.0.html</link>
-      <guid isPermaLink="true">https://susam.net/code/news/hnskins/0.2.0.html</guid>
-      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Susam Pal</description>
-    </item>
-    <item>
-      <title>Space News, March 2026</title>
-      <link>https://hey.paris/posts/spacenews-march-2026/</link>
-      <guid isPermaLink="true">https://hey.paris/posts/spacenews-march-2026/</guid>
-      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Dr Paris Buttfield-Addison</description>
-    </item>
-    <item>
-      <title>Why on-device agentic AI can't keep up</title>
-      <link>https://martinalderson.com/posts/why-on-device-agentic-ai-cant-keep-up/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
-      <guid isPermaLink="true">https://martinalderson.com/posts/why-on-device-agentic-ai-cant-keep-up/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
-      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Martin Alderson</description>
-    </item>
-    <item>
-      <title>Interactive explanations</title>
-      <link>https://simonwillison.net/guides/agentic-engineering-patterns/interactive-explanations/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/guides/agentic-engineering-patterns/interactive-explanations/#atom-everything</guid>
-      <pubDate>Sat, 28 Feb 2026 23:09:39 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>The Most Important Micros</title>
-      <link>https://www.abortretry.fail/p/the-most-important-micros</link>
-      <guid isPermaLink="true">https://www.abortretry.fail/p/the-most-important-micros</guid>
-      <pubDate>Sat, 28 Feb 2026 18:23:23 +0000</pubDate>
-      <description>Abort Retry Fail</description>
-    </item>
-    <item>
-      <title>Working with file extensions in bash scripts</title>
-      <link>https://www.johndcook.com/blog/2026/02/28/file-extensions-bash/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/02/28/file-extensions-bash/</guid>
-      <pubDate>Sat, 28 Feb 2026 18:20:37 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>That's it, I'm cancelling my ChatGPT</title>
-      <link>https://idiallo.com/byte-size/im-cancelling-my-chatgpt-openai-account?src=feed</link>
-      <guid isPermaLink="true">https://idiallo.com/byte-size/im-cancelling-my-chatgpt-openai-account?src=feed</guid>
-      <pubDate>Sat, 28 Feb 2026 17:39:08 +0000</pubDate>
-      <description>iDiallo.com</description>
-    </item>
-    <item>
-      <title>Trump’s Enormous Gamble on Regime Change in Iran</title>
-      <link>https://www.theatlantic.com/ideas/2026/02/trumps-iran-regime-change-attack-gamble/686190/?gift=aQyUJR7AIw1mJWdQ6Ed6yOWB4bfod1kQqCyz2RXbHaY</link>
-      <guid isPermaLink="true">https://www.theatlantic.com/ideas/2026/02/trumps-iran-regime-change-attack-gamble/686190/?gift=aQyUJR7AIw1mJWdQ6Ed6yOWB4bfod1kQqCyz2RXbHaY</guid>
-      <pubDate>Sat, 28 Feb 2026 16:04:41 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>LLM Use in the Python Source Code</title>
-      <link>https://blog.miguelgrinberg.com/post/llm-use-in-the-python-source-code</link>
-      <guid isPermaLink="true">https://blog.miguelgrinberg.com/post/llm-use-in-the-python-source-code</guid>
-      <pubDate>Sat, 28 Feb 2026 15:14:18 +0000</pubDate>
-      <description>Miguel Grinberg's Blog</description>
-    </item>
-    <item>
-      <title>Reading List 02/28/26</title>
-      <link>https://www.construction-physics.com/p/reading-list-022826</link>
-      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-022826</guid>
-      <pubDate>Sat, 28 Feb 2026 13:54:39 +0000</pubDate>
-      <description>Construction Physics</description>
     </item>
   </channel>
 </rss>

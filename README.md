@@ -208,11 +208,11 @@ Last Updated: Sunday, March 8th, 2026, 2:26:16 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Codex for Open Source](https://simonwillison.net/2026/Mar/7/codex-for-open-source/#atom-everything) — *Simon Willison's Weblog* `03-07`
+- [Pluralistic: The web is bearable with RSS (07 Mar 2026)](https://pluralistic.net/2026/03/07/reader-mode/) — *Pluralistic: Daily links from Cory Doctorow* `03-07`
+- [Reading List 03/07/2026](https://www.construction-physics.com/p/reading-list-03072026) — *Construction Physics* `03-07`
 - [Book Review: The Electronic Criminals by Robert Farr (1975) ★★★⯪☆](https://shkspr.mobi/blog/2026/03/book-review-the-electronic-criminals-by-robert-farr-1975/) — *Terence Eden’s Blog* `03-07`
 - [Announcing New Working Groups](https://nesbitt.io/2026/03/07/announcing-new-working-groups.html) — *Andrew Nesbitt* `03-07`
-- [Daring Fireball Weekly Sponsorship Openings](https://daringfireball.net/feeds/sponsors/) — *Daring Fireball* `03-06`
-- [Quoting Ally Piechowski](https://simonwillison.net/2026/Mar/6/ally-piechowski/#atom-everything) — *Simon Willison's Weblog* `03-06`
-- [Google’s Threat Intelligence Group on Coruna a Powerful iOS Exploit Kit of Mysterious Origin](https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit) — *Daring Fireball* `03-06`
 <!--BLOG_RADAR:end-->
 
 ---
