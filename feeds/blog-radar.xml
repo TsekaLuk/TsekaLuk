@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 06 Mar 2026 18:57:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 02:32:41 +0000</lastBuildDate>
+    <item>
+      <title>Daring Fireball Weekly Sponsorship Openings</title>
+      <link>https://daringfireball.net/feeds/sponsors/</link>
+      <guid isPermaLink="true">https://daringfireball.net/feeds/sponsors/</guid>
+      <pubDate>Fri, 06 Mar 2026 21:59:49 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Quoting Ally Piechowski</title>
+      <link>https://simonwillison.net/2026/Mar/6/ally-piechowski/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/6/ally-piechowski/#atom-everything</guid>
+      <pubDate>Fri, 06 Mar 2026 21:58:33 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Google’s Threat Intelligence Group on Coruna a Powerful iOS Exploit Kit of Mysterious Origin</title>
+      <link>https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit</link>
+      <guid isPermaLink="true">https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit</guid>
+      <pubDate>Fri, 06 Mar 2026 20:32:47 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>‘The Window Chrome of Our Discontent’</title>
+      <link>https://pxlnv.com/blog/window-chrome-of-our-discontent/</link>
+      <guid isPermaLink="true">https://pxlnv.com/blog/window-chrome-of-our-discontent/</guid>
+      <pubDate>Fri, 06 Mar 2026 20:21:12 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>The Verge Interviews Tim Sweeney After Victory in ‘Epic v. Google’</title>
       <link>https://www.theverge.com/23996474/epic-tim-sweeney-interview-win-google-antitrust-lawsuit-district-court</link>
@@ -111,6 +139,13 @@
       <description>matduggan.com</description>
     </item>
     <item>
+      <title>It Depends</title>
+      <link>https://idiallo.com/blog/it-depends-experts-never-give-straight-answers?src=feed</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/it-depends-experts-never-give-straight-answers?src=feed</guid>
+      <pubDate>Fri, 06 Mar 2026 12:00:00 +0000</pubDate>
+      <description>iDiallo.com</description>
+    </item>
+    <item>
       <title>.gitlocal</title>
       <link>https://nesbitt.io/2026/03/06/gitlocal.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/03/06/gitlocal.html</guid>
@@ -123,13 +158,6 @@
       <guid isPermaLink="true">https://simonwillison.net/guides/agentic-engineering-patterns/agentic-manual-testing/#atom-everything</guid>
       <pubDate>Fri, 06 Mar 2026 05:43:54 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>How I think systemd IP address restrictions on socket units works</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdSocketIPRestrictions</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdSocketIPRestrictions</guid>
-      <pubDate>Fri, 06 Mar 2026 04:43:52 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>Clinejection — Compromising Cline's Production Releases just by Prompting an Issue Triager</title>
@@ -200,13 +228,6 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/03/05/package-manager-magic-files.html</guid>
       <pubDate>Thu, 05 Mar 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Sometimes, non-general solutions are the right answer</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/python/HardcodingCanBeTheRightAnswer</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/python/HardcodingCanBeTheRightAnswer</guid>
-      <pubDate>Thu, 05 Mar 2026 03:33:13 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>AI And The Ship of Theseus</title>
@@ -305,13 +326,6 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/03/04/package-managers-need-to-cool-down.html</guid>
       <pubDate>Wed, 04 Mar 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>A taxonomy of text output (from tools that want to be too clever)</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ProgramTextOutputTaxonomy</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ProgramTextOutputTaxonomy</guid>
-      <pubDate>Wed, 04 Mar 2026 01:41:02 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>Maybe there’s a pattern here?</title>
@@ -445,13 +459,6 @@
       <guid isPermaLink="true">https://feed.tedium.co/link/15204/17288375/betting-against-substack</guid>
       <pubDate>Tue, 03 Mar 2026 04:56:00 +0000</pubDate>
       <description>Tedium: The Dull Side of the Internet.</description>
-    </item>
-    <item>
-      <title>Log messages are mostly for the people operating your software</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/programming/LogMessagesAreForOperation</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/programming/LogMessagesAreForOperation</guid>
-      <pubDate>Tue, 03 Mar 2026 04:48:37 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>An AI Odyssey, Part 1: Correctness Conundrum</title>
@@ -636,13 +643,6 @@
       <description>Troy Hunt</description>
     </item>
     <item>
-      <title>The things that make me so attached to xterm as my terminal program</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/unix/XTermWhyAttached</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/unix/XTermWhyAttached</guid>
-      <pubDate>Mon, 02 Mar 2026 04:27:43 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
       <title>The Unbound Scepter</title>
       <link>https://xeiaso.net/blog/2026/seroquel-xanax-trip-report/</link>
       <guid isPermaLink="true">https://xeiaso.net/blog/2026/seroquel-xanax-trip-report/</guid>
@@ -725,13 +725,6 @@
       <guid isPermaLink="true">http://antirez.com/news/161</guid>
       <pubDate>Sun, 01 Mar 2026 09:55:09 +0000</pubDate>
       <description>&lt;antirez&gt;</description>
-    </item>
-    <item>
-      <title>Sometimes the simplest version of a text table is printed from a command</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SimpleTextViaCommands</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SimpleTextViaCommands</guid>
-      <pubDate>Sun, 01 Mar 2026 03:17:38 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>Notes on Lagrange Interpolating Polynomials</title>
@@ -844,6 +837,13 @@
       <guid isPermaLink="true">https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</guid>
       <pubDate>Sat, 28 Feb 2026 12:01:57 +0000</pubDate>
       <description>Krebs on Security</description>
+    </item>
+    <item>
+      <title>Pluralistic: California can stop Larry Ellison from buying Warners (28 Feb 2026)</title>
+      <link>https://pluralistic.net/2026/02/28/golden-mean/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/02/28/golden-mean/</guid>
+      <pubDate>Sat, 28 Feb 2026 11:11:44 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
     </item>
   </channel>
 </rss>

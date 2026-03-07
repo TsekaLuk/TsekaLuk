@@ -208,11 +208,11 @@ Last Updated: Saturday, March 7th, 2026, 9:26:06 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Daring Fireball Weekly Sponsorship Openings](https://daringfireball.net/feeds/sponsors/) — *Daring Fireball* `03-06`
+- [Quoting Ally Piechowski](https://simonwillison.net/2026/Mar/6/ally-piechowski/#atom-everything) — *Simon Willison's Weblog* `03-06`
+- [Google’s Threat Intelligence Group on Coruna a Powerful iOS Exploit Kit of Mysterious Origin](https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit) — *Daring Fireball* `03-06`
+- [‘The Window Chrome of Our Discontent’](https://pxlnv.com/blog/window-chrome-of-our-discontent/) — *Daring Fireball* `03-06`
 - [The Verge Interviews Tim Sweeney After Victory in ‘Epic v. Google’](https://www.theverge.com/23996474/epic-tim-sweeney-interview-win-google-antitrust-lawsuit-district-court) — *Daring Fireball* `03-06`
-- [Tim Sweeney Signed Away His Right to Criticize Google’s Play Store Until 2032](https://www.theverge.com/news/889595/tim-sweeney-signed-away-his-right-to-criticize-google-until-2032) — *Daring Fireball* `03-06`
-- [Anthropic and the Pentagon](https://simonwillison.net/2026/Mar/6/anthropic-and-the-pentagon/#atom-everything) — *Simon Willison's Weblog* `03-06`
-- [How cosplaying Ancient Rome led to the scientific revolution](https://www.dwarkesh.com/p/ada-palmer) — *Dwarkesh Podcast* `03-06`
-- [The Mystery of Rennes-le-Château, Part 1: The Priest’s Treasure](https://www.filfre.net/2026/03/the-mystery-of-rennes-le-chateau-part-1-the-priests-treasure/) — *The Digital Antiquarian* `03-06`
 <!--BLOG_RADAR:end-->
 
 ---
