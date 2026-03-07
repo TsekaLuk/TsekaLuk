@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 07 Mar 2026 06:53:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 13:02:21 +0000</lastBuildDate>
+    <item>
+      <title>Book Review: The Electronic Criminals by Robert Farr (1975) ★★★⯪☆</title>
+      <link>https://shkspr.mobi/blog/2026/03/book-review-the-electronic-criminals-by-robert-farr-1975/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/03/book-review-the-electronic-criminals-by-robert-farr-1975/</guid>
+      <pubDate>Sat, 07 Mar 2026 12:34:04 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Announcing New Working Groups</title>
+      <link>https://nesbitt.io/2026/03/07/announcing-new-working-groups.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/03/07/announcing-new-working-groups.html</guid>
+      <pubDate>Sat, 07 Mar 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
     <item>
       <title>Daring Fireball Weekly Sponsorship Openings</title>
       <link>https://daringfireball.net/feeds/sponsors/</link>
@@ -167,18 +181,18 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>I don't know if my job will still exist in ten years</title>
-      <link>https://seangoedecke.com/will-my-job-still-exist/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/will-my-job-still-exist/</guid>
-      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
       <title>Advice for staying in the hospital for a week</title>
       <link>https://xeiaso.net/blog/2026/hospital-advice/</link>
       <guid isPermaLink="true">https://xeiaso.net/blog/2026/hospital-advice/</guid>
       <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>I don't know if my job will still exist in ten years</title>
+      <link>https://seangoedecke.com/will-my-job-still-exist/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/will-my-job-still-exist/</guid>
+      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>Introducing GPT‑5.4</title>
@@ -475,18 +489,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Giving LLMs a personality is just good engineering</title>
-      <link>https://seangoedecke.com/giving-llms-a-personality/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/giving-llms-a-personality/</guid>
-      <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
       <title>Remove annoying banners</title>
       <link>https://maurycyz.com/projects/fixsite/</link>
       <guid isPermaLink="true">https://maurycyz.com/projects/fixsite/</guid>
       <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
       <description>Maurycy's Blog</description>
+    </item>
+    <item>
+      <title>Giving LLMs a personality is just good engineering</title>
+      <link>https://seangoedecke.com/giving-llms-a-personality/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/giving-llms-a-personality/</guid>
+      <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>Why Improve Your Writing?</title>
@@ -769,6 +783,13 @@
       <description>Susam Pal</description>
     </item>
     <item>
+      <title>Space News, March 2026</title>
+      <link>https://hey.paris/posts/spacenews-march-2026/</link>
+      <guid isPermaLink="true">https://hey.paris/posts/spacenews-march-2026/</guid>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Dr Paris Buttfield-Addison</description>
+    </item>
+    <item>
       <title>Why on-device agentic AI can't keep up</title>
       <link>https://martinalderson.com/posts/why-on-device-agentic-ai-cant-keep-up/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
       <guid isPermaLink="true">https://martinalderson.com/posts/why-on-device-agentic-ai-cant-keep-up/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-022826</guid>
       <pubDate>Sat, 28 Feb 2026 13:54:39 +0000</pubDate>
       <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>30 months to 3MWh - some more home battery stats</title>
-      <link>https://shkspr.mobi/blog/2026/02/30-months-to-3mwh-some-more-home-battery-stats/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/02/30-months-to-3mwh-some-more-home-battery-stats/</guid>
-      <pubDate>Sat, 28 Feb 2026 12:34:19 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Who is the Kimwolf Botmaster “Dort”?</title>
-      <link>https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</link>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/</guid>
-      <pubDate>Sat, 28 Feb 2026 12:01:57 +0000</pubDate>
-      <description>Krebs on Security</description>
-    </item>
-    <item>
-      <title>Pluralistic: California can stop Larry Ellison from buying Warners (28 Feb 2026)</title>
-      <link>https://pluralistic.net/2026/02/28/golden-mean/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/02/28/golden-mean/</guid>
-      <pubDate>Sat, 28 Feb 2026 11:11:44 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
     </item>
   </channel>
 </rss>

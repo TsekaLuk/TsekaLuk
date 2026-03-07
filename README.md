@@ -208,11 +208,11 @@ Last Updated: Saturday, March 7th, 2026, 8:35:47 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Book Review: The Electronic Criminals by Robert Farr (1975) ★★★⯪☆](https://shkspr.mobi/blog/2026/03/book-review-the-electronic-criminals-by-robert-farr-1975/) — *Terence Eden’s Blog* `03-07`
+- [Announcing New Working Groups](https://nesbitt.io/2026/03/07/announcing-new-working-groups.html) — *Andrew Nesbitt* `03-07`
 - [Daring Fireball Weekly Sponsorship Openings](https://daringfireball.net/feeds/sponsors/) — *Daring Fireball* `03-06`
 - [Quoting Ally Piechowski](https://simonwillison.net/2026/Mar/6/ally-piechowski/#atom-everything) — *Simon Willison's Weblog* `03-06`
 - [Google’s Threat Intelligence Group on Coruna a Powerful iOS Exploit Kit of Mysterious Origin](https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit) — *Daring Fireball* `03-06`
-- [‘The Window Chrome of Our Discontent’](https://pxlnv.com/blog/window-chrome-of-our-discontent/) — *Daring Fireball* `03-06`
-- [The Verge Interviews Tim Sweeney After Victory in ‘Epic v. Google’](https://www.theverge.com/23996474/epic-tim-sweeney-interview-win-google-antitrust-lawsuit-district-court) — *Daring Fireball* `03-06`
 <!--BLOG_RADAR:end-->
 
 ---
