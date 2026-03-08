@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 08 Mar 2026 02:45:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 06:54:24 +0000</lastBuildDate>
     <item>
       <title>‘npx workos’</title>
       <link>https://workos.com/docs/authkit/cli-installer?utm_source=tldrdev&amp;utm_medium=newsletter&amp;utm_campaign=q12026</link>
@@ -167,18 +167,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>A PTP Wall Clock is impractical and a little too precise</title>
-      <link>https://www.jeffgeerling.com/blog/2026/ptp-wall-clock-impractical-too-precise/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/ptp-wall-clock-impractical-too-precise/</guid>
-      <pubDate>Fri, 06 Mar 2026 15:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
       <title>When Read­Directory­ChangesW reports that a deletion occurred, how can I learn more about the deleted thing?</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260306-00/?p=112116</link>
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260306-00/?p=112116</guid>
       <pubDate>Fri, 06 Mar 2026 15:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>A PTP Wall Clock is impractical and a little too precise</title>
+      <link>https://www.jeffgeerling.com/blog/2026/ptp-wall-clock-impractical-too-precise/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/ptp-wall-clock-impractical-too-precise/</guid>
+      <pubDate>Fri, 06 Mar 2026 15:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
     </item>
     <item>
       <title>Lijstduwer, Felipe Rodriquez Award, BNR, NRC, btw en meer</title>
