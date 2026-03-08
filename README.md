@@ -208,11 +208,11 @@ Last Updated: Sunday, March 8th, 2026, 8:36:53 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [What's the source of Einstein's "citizen of the world" quip?](https://shkspr.mobi/blog/2026/03/whats-the-source-of-einsteins-citizen-of-the-world-quip/) — *Terence Eden’s Blog* `03-08`
+- [If It Quacks Like a Package Manager](https://nesbitt.io/2026/03/08/if-it-quacks-like-a-package-manager.html) — *Andrew Nesbitt* `03-08`
 - [‘npx workos’](https://workos.com/docs/authkit/cli-installer?utm_source=tldrdev&utm_medium=newsletter&utm_campaign=q12026) — *Daring Fireball* `03-07`
 - [Codex for Open Source](https://simonwillison.net/2026/Mar/7/codex-for-open-source/#atom-everything) — *Simon Willison's Weblog* `03-07`
 - [Pluralistic: The web is bearable with RSS (07 Mar 2026)](https://pluralistic.net/2026/03/07/reader-mode/) — *Pluralistic: Daily links from Cory Doctorow* `03-07`
-- [Reading List 03/07/2026](https://www.construction-physics.com/p/reading-list-03072026) — *Construction Physics* `03-07`
-- [Book Review: The Electronic Criminals by Robert Farr (1975) ★★★⯪☆](https://shkspr.mobi/blog/2026/03/book-review-the-electronic-criminals-by-robert-farr-1975/) — *Terence Eden’s Blog* `03-07`
 <!--BLOG_RADAR:end-->
 
 ---

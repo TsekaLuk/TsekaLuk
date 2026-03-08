@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 08 Mar 2026 06:54:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 13:03:56 +0000</lastBuildDate>
+    <item>
+      <title>What's the source of Einstein's "citizen of the world" quip?</title>
+      <link>https://shkspr.mobi/blog/2026/03/whats-the-source-of-einsteins-citizen-of-the-world-quip/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/03/whats-the-source-of-einsteins-citizen-of-the-world-quip/</guid>
+      <pubDate>Sun, 08 Mar 2026 12:34:03 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>If It Quacks Like a Package Manager</title>
+      <link>https://nesbitt.io/2026/03/08/if-it-quacks-like-a-package-manager.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/03/08/if-it-quacks-like-a-package-manager.html</guid>
+      <pubDate>Sun, 08 Mar 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
     <item>
       <title>‘npx workos’</title>
       <link>https://workos.com/docs/authkit/cli-installer?utm_source=tldrdev&amp;utm_medium=newsletter&amp;utm_campaign=q12026</link>
@@ -167,18 +181,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>When Read­Directory­ChangesW reports that a deletion occurred, how can I learn more about the deleted thing?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260306-00/?p=112116</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260306-00/?p=112116</guid>
-      <pubDate>Fri, 06 Mar 2026 15:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
       <title>A PTP Wall Clock is impractical and a little too precise</title>
       <link>https://www.jeffgeerling.com/blog/2026/ptp-wall-clock-impractical-too-precise/</link>
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/ptp-wall-clock-impractical-too-precise/</guid>
       <pubDate>Fri, 06 Mar 2026 15:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>When Read­Directory­ChangesW reports that a deletion occurred, how can I learn more about the deleted thing?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260306-00/?p=112116</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260306-00/?p=112116</guid>
+      <pubDate>Fri, 06 Mar 2026 15:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Lijstduwer, Felipe Rodriquez Award, BNR, NRC, btw en meer</title>
@@ -237,18 +251,18 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>I don't know if my job will still exist in ten years</title>
-      <link>https://seangoedecke.com/will-my-job-still-exist/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/will-my-job-still-exist/</guid>
-      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
       <title>Advice for staying in the hospital for a week</title>
       <link>https://xeiaso.net/blog/2026/hospital-advice/</link>
       <guid isPermaLink="true">https://xeiaso.net/blog/2026/hospital-advice/</guid>
       <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>I don't know if my job will still exist in ten years</title>
+      <link>https://seangoedecke.com/will-my-job-still-exist/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/will-my-job-still-exist/</guid>
+      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>Introducing GPT‑5.4</title>
@@ -811,13 +825,6 @@
       <description>Evan Hahn (dot com)</description>
     </item>
     <item>
-      <title>HN Skins 0.2.0</title>
-      <link>https://susam.net/code/news/hnskins/0.2.0.html</link>
-      <guid isPermaLink="true">https://susam.net/code/news/hnskins/0.2.0.html</guid>
-      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Susam Pal</description>
-    </item>
-    <item>
       <title>Downstream Testing</title>
       <link>https://nesbitt.io/2026/03/01/downstream-testing.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/03/01/downstream-testing.html</guid>
@@ -825,25 +832,18 @@
       <description>Andrew Nesbitt</description>
     </item>
     <item>
+      <title>HN Skins 0.2.0</title>
+      <link>https://susam.net/code/news/hnskins/0.2.0.html</link>
+      <guid isPermaLink="true">https://susam.net/code/news/hnskins/0.2.0.html</guid>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Susam Pal</description>
+    </item>
+    <item>
       <title>Space News, March 2026</title>
       <link>https://hey.paris/posts/spacenews-march-2026/</link>
       <guid isPermaLink="true">https://hey.paris/posts/spacenews-march-2026/</guid>
       <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
       <description>Dr Paris Buttfield-Addison</description>
-    </item>
-    <item>
-      <title>Why on-device agentic AI can't keep up</title>
-      <link>https://martinalderson.com/posts/why-on-device-agentic-ai-cant-keep-up/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
-      <guid isPermaLink="true">https://martinalderson.com/posts/why-on-device-agentic-ai-cant-keep-up/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
-      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Martin Alderson</description>
-    </item>
-    <item>
-      <title>Interactive explanations</title>
-      <link>https://simonwillison.net/guides/agentic-engineering-patterns/interactive-explanations/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/guides/agentic-engineering-patterns/interactive-explanations/#atom-everything</guid>
-      <pubDate>Sat, 28 Feb 2026 23:09:39 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
