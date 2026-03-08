@@ -208,11 +208,11 @@ Last Updated: Monday, March 9th, 2026, 2:26:31 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [What's the source of Einstein's "citizen of the world" quip?](https://shkspr.mobi/blog/2026/03/whats-the-source-of-einsteins-citizen-of-the-world-quip/) — *Terence Eden’s Blog* `03-08`
-- [If It Quacks Like a Package Manager](https://nesbitt.io/2026/03/08/if-it-quacks-like-a-package-manager.html) — *Andrew Nesbitt* `03-08`
-- [‘npx workos’](https://workos.com/docs/authkit/cli-installer?utm_source=tldrdev&utm_medium=newsletter&utm_campaign=q12026) — *Daring Fireball* `03-07`
-- [Codex for Open Source](https://simonwillison.net/2026/Mar/7/codex-for-open-source/#atom-everything) — *Simon Willison's Weblog* `03-07`
-- [Pluralistic: The web is bearable with RSS (07 Mar 2026)](https://pluralistic.net/2026/03/07/reader-mode/) — *Pluralistic: Daily links from Cory Doctorow* `03-07`
+- [How much certainty is worthwhile?](https://www.johndcook.com/blog/2026/03/08/how-much-certainty-is-worthwhile/) — *John D. Cook* `03-08`
+- [Can Coding Agents Relicense Open Source Through a ‘Clean Room’ Implementation of Code?](https://simonwillison.net/2026/Mar/5/chardet/) — *Daring Fireball* `03-08`
+- [Donald Knuth on Claude Opus Solving a Computer Science Problem](https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf) — *Daring Fireball* `03-08`
+- [GNU and the AI reimplementations](http://antirez.com/news/162) — *<antirez>* `03-08`
+- [Steve Lemay Hits Apple’s Leadership Page](https://www.apple.com/leadership/steve-lemay/) — *Daring Fireball* `03-08`
 <!--BLOG_RADAR:end-->
 
 ---
