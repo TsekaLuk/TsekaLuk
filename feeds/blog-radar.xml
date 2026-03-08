@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 07 Mar 2026 18:43:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 02:45:49 +0000</lastBuildDate>
+    <item>
+      <title>‘npx workos’</title>
+      <link>https://workos.com/docs/authkit/cli-installer?utm_source=tldrdev&amp;utm_medium=newsletter&amp;utm_campaign=q12026</link>
+      <guid isPermaLink="true">https://workos.com/docs/authkit/cli-installer?utm_source=tldrdev&amp;utm_medium=newsletter&amp;utm_campaign=q12026</guid>
+      <pubDate>Sat, 07 Mar 2026 22:53:37 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Codex for Open Source</title>
       <link>https://simonwillison.net/2026/Mar/7/codex-for-open-source/#atom-everything</link>
@@ -41,18 +48,32 @@
       <description>Andrew Nesbitt</description>
     </item>
     <item>
-      <title>Your terminal program has to be where xterm's ziconbeep feature is handled</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/unix/XTermHasToDoZiconbeep</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/unix/XTermHasToDoZiconbeep</guid>
-      <pubDate>Sat, 07 Mar 2026 03:26:47 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
       <title>Using Clankers to Help Me Process Surgery</title>
       <link>https://xeiaso.net/blog/2026/surgery-recovery-clankers/</link>
       <guid isPermaLink="true">https://xeiaso.net/blog/2026/surgery-recovery-clankers/</guid>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>Remove annoying banners</title>
+      <link>https://maurycyz.com/projects/fixsite/</link>
+      <guid isPermaLink="true">https://maurycyz.com/projects/fixsite/</guid>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
+    </item>
+    <item>
+      <title>HN Skins 0.3.0</title>
+      <link>https://susam.net/code/news/hnskins/0.3.0.html</link>
+      <guid isPermaLink="true">https://susam.net/code/news/hnskins/0.3.0.html</guid>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Susam Pal</description>
+    </item>
+    <item>
+      <title>Is the AI Compute Crunch Here?</title>
+      <link>https://martinalderson.com/posts/is-the-ai-compute-crunch-here/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
+      <guid isPermaLink="true">https://martinalderson.com/posts/is-the-ai-compute-crunch-here/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Martin Alderson</description>
     </item>
     <item>
       <title>Daring Fireball Weekly Sponsorship Openings</title>
@@ -69,7 +90,7 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>Google’s Threat Intelligence Group on Coruna a Powerful iOS Exploit Kit of Mysterious Origin</title>
+      <title>Google’s Threat Intelligence Group on Coruna, a Powerful iOS Exploit Kit of Mysterious Origin</title>
       <link>https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit</link>
       <guid isPermaLink="true">https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit</guid>
       <pubDate>Fri, 06 Mar 2026 20:32:47 +0000</pubDate>
@@ -104,7 +125,7 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>How cosplaying Ancient Rome led to the scientific revolution</title>
+      <title>The Library of Alexandria isn’t where most ancient knowledge was lost</title>
       <link>https://www.dwarkesh.com/p/ada-palmer</link>
       <guid isPermaLink="true">https://www.dwarkesh.com/p/ada-palmer</guid>
       <pubDate>Fri, 06 Mar 2026 17:14:20 +0000</pubDate>
@@ -209,13 +230,6 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>How I think systemd IP address restrictions on socket units works</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdSocketIPRestrictions</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdSocketIPRestrictions</guid>
-      <pubDate>Fri, 06 Mar 2026 04:43:52 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
       <title>Clinejection — Compromising Cline's Production Releases just by Prompting an Issue Triager</title>
       <link>https://simonwillison.net/2026/Mar/6/clinejection/#atom-everything</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Mar/6/clinejection/#atom-everything</guid>
@@ -284,13 +298,6 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/03/05/package-manager-magic-files.html</guid>
       <pubDate>Thu, 05 Mar 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Sometimes, non-general solutions are the right answer</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/python/HardcodingCanBeTheRightAnswer</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/python/HardcodingCanBeTheRightAnswer</guid>
-      <pubDate>Thu, 05 Mar 2026 03:33:13 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>AI And The Ship of Theseus</title>
@@ -389,13 +396,6 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/03/04/package-managers-need-to-cool-down.html</guid>
       <pubDate>Wed, 04 Mar 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>A taxonomy of text output (from tools that want to be too clever)</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ProgramTextOutputTaxonomy</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ProgramTextOutputTaxonomy</guid>
-      <pubDate>Wed, 04 Mar 2026 01:41:02 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>Maybe there’s a pattern here?</title>
@@ -531,13 +531,6 @@
       <description>Tedium: The Dull Side of the Internet.</description>
     </item>
     <item>
-      <title>Log messages are mostly for the people operating your software</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/programming/LogMessagesAreForOperation</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/programming/LogMessagesAreForOperation</guid>
-      <pubDate>Tue, 03 Mar 2026 04:48:37 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
       <title>An AI Odyssey, Part 1: Correctness Conundrum</title>
       <link>https://www.johndcook.com/blog/2026/03/02/an-ai-odyssey-part-1-correctness-conundrum/</link>
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/03/02/an-ai-odyssey-part-1-correctness-conundrum/</guid>
@@ -545,25 +538,11 @@
       <description>John D. Cook</description>
     </item>
     <item>
-      <title>[Sponsor] npx workos: An AI Agent That Writes Auth Directly Into Your Codebase</title>
-      <link>https://workos.com/docs/authkit/cli-installer?utm_source=tldrdev&amp;utm_medium=newsletter&amp;utm_campaign=q12026</link>
-      <guid isPermaLink="true">https://workos.com/docs/authkit/cli-installer?utm_source=tldrdev&amp;utm_medium=newsletter&amp;utm_campaign=q12026</guid>
-      <pubDate>Tue, 03 Mar 2026 00:20:21 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
       <title>Giving LLMs a personality is just good engineering</title>
       <link>https://seangoedecke.com/giving-llms-a-personality/</link>
       <guid isPermaLink="true">https://seangoedecke.com/giving-llms-a-personality/</guid>
       <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>Remove annoying banners</title>
-      <link>https://maurycyz.com/projects/fixsite/</link>
-      <guid isPermaLink="true">https://maurycyz.com/projects/fixsite/</guid>
-      <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
     </item>
     <item>
       <title>Why Improve Your Writing?</title>
@@ -720,13 +699,6 @@
       <description>Troy Hunt</description>
     </item>
     <item>
-      <title>The things that make me so attached to xterm as my terminal program</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/unix/XTermWhyAttached</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/unix/XTermWhyAttached</guid>
-      <pubDate>Mon, 02 Mar 2026 04:27:43 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
       <title>The Unbound Scepter</title>
       <link>https://xeiaso.net/blog/2026/seroquel-xanax-trip-report/</link>
       <guid isPermaLink="true">https://xeiaso.net/blog/2026/seroquel-xanax-trip-report/</guid>
@@ -811,13 +783,6 @@
       <description>&lt;antirez&gt;</description>
     </item>
     <item>
-      <title>Sometimes the simplest version of a text table is printed from a command</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SimpleTextViaCommands</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SimpleTextViaCommands</guid>
-      <pubDate>Sun, 01 Mar 2026 03:17:38 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
       <title>Notes on Lagrange Interpolating Polynomials</title>
       <link>https://eli.thegreenplace.net/2026/notes-on-lagrange-interpolating-polynomials/</link>
       <guid isPermaLink="true">https://eli.thegreenplace.net/2026/notes-on-lagrange-interpolating-polynomials/</guid>
@@ -844,6 +809,41 @@
       <guid isPermaLink="true">https://evanhahn.com/the-two-kinds-of-error/</guid>
       <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
       <description>Evan Hahn (dot com)</description>
+    </item>
+    <item>
+      <title>HN Skins 0.2.0</title>
+      <link>https://susam.net/code/news/hnskins/0.2.0.html</link>
+      <guid isPermaLink="true">https://susam.net/code/news/hnskins/0.2.0.html</guid>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Susam Pal</description>
+    </item>
+    <item>
+      <title>Downstream Testing</title>
+      <link>https://nesbitt.io/2026/03/01/downstream-testing.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/03/01/downstream-testing.html</guid>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>Space News, March 2026</title>
+      <link>https://hey.paris/posts/spacenews-march-2026/</link>
+      <guid isPermaLink="true">https://hey.paris/posts/spacenews-march-2026/</guid>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Dr Paris Buttfield-Addison</description>
+    </item>
+    <item>
+      <title>Why on-device agentic AI can't keep up</title>
+      <link>https://martinalderson.com/posts/why-on-device-agentic-ai-cant-keep-up/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
+      <guid isPermaLink="true">https://martinalderson.com/posts/why-on-device-agentic-ai-cant-keep-up/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Martin Alderson</description>
+    </item>
+    <item>
+      <title>Interactive explanations</title>
+      <link>https://simonwillison.net/guides/agentic-engineering-patterns/interactive-explanations/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/guides/agentic-engineering-patterns/interactive-explanations/#atom-everything</guid>
+      <pubDate>Sat, 28 Feb 2026 23:09:39 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
