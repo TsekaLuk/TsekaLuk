@@ -208,11 +208,11 @@ Last Updated: Tuesday, March 10th, 2026, 2:43:51 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Book Review: There Is No Antimemetics Division by qntm ★★★★★](https://shkspr.mobi/blog/2026/03/book-review-there-is-no-antimemetics-division-by-qntm/) — *Terence Eden’s Blog* `03-09`
-- [Why Am I Paranoid, You Say?](https://idiallo.com/blog/why-am-i-paranoid?src=feed) — *iDiallo.com* `03-09`
-- [100 Posts](https://nesbitt.io/2026/03/09/100-posts.html) — *Andrew Nesbitt* `03-09`
-- [Vibe Coding Trip Report: Making a sponsor panel](https://xeiaso.net/blog/2026/vibe-coding-sponsor-panel/) — *Xe Iaso's blog* `03-09`
-- [The Noble Path](https://www.joanwestenberg.com/the-noble-path/) — *Westenberg.* `03-08`
+- [Pluralistic: Billionaires are a danger to themselves and (especially) us (09 Mar 2026)](https://pluralistic.net/2026/03/09/autocrats-of-trade-2/) — *Pluralistic: Daily links from Cory Doctorow* `03-09`
+- [I don’t know what is Apple’s endgame for the Fn/Globe key, and I’m not sure Apple knows either](https://aresluna.org/fn) — *Aresluna* `03-09`
+- [Production query plans without production data](https://simonwillison.net/2026/Mar/9/production-query-plans-without-production-data/#atom-everything) — *Simon Willison's Weblog* `03-09`
+- [Low-Wage Contractors in Kenya See What Users See While Using Meta’s AI Smart Glasses](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything) — *Daring Fireball* `03-09`
+- [The fine print giveth and the bold print taketh away: The countdown timer](https://devblogs.microsoft.com/oldnewthing/20260309-01/?p=112120) — *The Old New Thing* `03-09`
 <!--BLOG_RADAR:end-->
 
 ---
