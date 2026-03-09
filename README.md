@@ -208,11 +208,11 @@ Last Updated: Monday, March 9th, 2026, 8:51:37 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Book Review: There Is No Antimemetics Division by qntm ★★★★★](https://shkspr.mobi/blog/2026/03/book-review-there-is-no-antimemetics-division-by-qntm/) — *Terence Eden’s Blog* `03-09`
+- [Why Am I Paranoid, You Say?](https://idiallo.com/blog/why-am-i-paranoid?src=feed) — *iDiallo.com* `03-09`
+- [100 Posts](https://nesbitt.io/2026/03/09/100-posts.html) — *Andrew Nesbitt* `03-09`
 - [Vibe Coding Trip Report: Making a sponsor panel](https://xeiaso.net/blog/2026/vibe-coding-sponsor-panel/) — *Xe Iaso's blog* `03-09`
 - [The Noble Path](https://www.joanwestenberg.com/the-noble-path/) — *Westenberg.* `03-08`
-- [How AI Assistants are Moving the Security Goalposts](https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/) — *Krebs on Security* `03-08`
-- [Two of My Favorite Things Together at Last: Pies and Subdomains](https://blog.jim-nielsen.com/2026/pies-and-subdomains/) — *Jim Nielsen’s Blog* `03-08`
-- [How much certainty is worthwhile?](https://www.johndcook.com/blog/2026/03/08/how-much-certainty-is-worthwhile/) — *John D. Cook* `03-08`
 <!--BLOG_RADAR:end-->
 
 ---

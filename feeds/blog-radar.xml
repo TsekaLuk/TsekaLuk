@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 09 Mar 2026 07:11:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 13:20:33 +0000</lastBuildDate>
+    <item>
+      <title>Book Review: There Is No Antimemetics Division by qntm ★★★★★</title>
+      <link>https://shkspr.mobi/blog/2026/03/book-review-there-is-no-antimemetics-division-by-qntm/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/03/book-review-there-is-no-antimemetics-division-by-qntm/</guid>
+      <pubDate>Mon, 09 Mar 2026 12:34:47 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Why Am I Paranoid, You Say?</title>
+      <link>https://idiallo.com/blog/why-am-i-paranoid?src=feed</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/why-am-i-paranoid?src=feed</guid>
+      <pubDate>Mon, 09 Mar 2026 12:00:00 +0000</pubDate>
+      <description>iDiallo.com</description>
+    </item>
+    <item>
+      <title>100 Posts</title>
+      <link>https://nesbitt.io/2026/03/09/100-posts.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/03/09/100-posts.html</guid>
+      <pubDate>Mon, 09 Mar 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
     <item>
       <title>Vibe Coding Trip Report: Making a sponsor panel</title>
       <link>https://xeiaso.net/blog/2026/vibe-coding-sponsor-panel/</link>
@@ -95,6 +116,13 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/03/08/if-it-quacks-like-a-package-manager.html</guid>
       <pubDate>Sun, 08 Mar 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>Some Thorns Have Roses</title>
+      <link>https://xeiaso.net/blog/2026/some-thorns-have-roses/</link>
+      <guid isPermaLink="true">https://xeiaso.net/blog/2026/some-thorns-have-roses/</guid>
+      <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>Introducing llm-eliza</title>
@@ -342,18 +370,18 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>Advice for staying in the hospital for a week</title>
-      <link>https://xeiaso.net/blog/2026/hospital-advice/</link>
-      <guid isPermaLink="true">https://xeiaso.net/blog/2026/hospital-advice/</guid>
-      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
       <title>I don't know if my job will still exist in ten years</title>
       <link>https://seangoedecke.com/will-my-job-still-exist/</link>
       <guid isPermaLink="true">https://seangoedecke.com/will-my-job-still-exist/</guid>
       <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Advice for staying in the hospital for a week</title>
+      <link>https://xeiaso.net/blog/2026/hospital-advice/</link>
+      <guid isPermaLink="true">https://xeiaso.net/blog/2026/hospital-advice/</guid>
+      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>Introducing GPT‑5.4</title>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/expert-beginners-and-lone-wolves-dominate-llm-era/</guid>
       <pubDate>Sun, 01 Mar 2026 22:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
-    </item>
-    <item>
-      <title>"Why hack the DHS? I can think of a couple Pretti Good reasons!"</title>
-      <link>https://micahflee.com/why-hack-the-dhs-i-can-think-of-a-couple-pretti-good-reasons/</link>
-      <guid isPermaLink="true">https://micahflee.com/why-hack-the-dhs-i-can-think-of-a-couple-pretti-good-reasons/</guid>
-      <pubDate>Sun, 01 Mar 2026 21:21:35 +0000</pubDate>
-      <description>micahflee</description>
-    </item>
-    <item>
-      <title>Book Notes: “Blood In The Machine” by Brian Merchant</title>
-      <link>https://blog.jim-nielsen.com/2026/book-notes-blood-in-the-machine/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/book-notes-blood-in-the-machine/</guid>
-      <pubDate>Sun, 01 Mar 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
-      <title>Shell variable ~-</title>
-      <link>https://www.johndcook.com/blog/2026/03/01/tilde-dash/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/03/01/tilde-dash/</guid>
-      <pubDate>Sun, 01 Mar 2026 18:15:16 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>My current policy on AI writing for my blog</title>
-      <link>https://simonwillison.net/2026/Mar/1/ai-writing/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/1/ai-writing/#atom-everything</guid>
-      <pubDate>Sun, 01 Mar 2026 16:06:43 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
