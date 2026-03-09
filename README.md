@@ -208,11 +208,11 @@ Last Updated: Monday, March 9th, 2026, 9:44:51 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Vibe Coding Trip Report: Making a sponsor panel](https://xeiaso.net/blog/2026/vibe-coding-sponsor-panel/) — *Xe Iaso's blog* `03-09`
+- [The Noble Path](https://www.joanwestenberg.com/the-noble-path/) — *Westenberg.* `03-08`
+- [How AI Assistants are Moving the Security Goalposts](https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/) — *Krebs on Security* `03-08`
 - [How much certainty is worthwhile?](https://www.johndcook.com/blog/2026/03/08/how-much-certainty-is-worthwhile/) — *John D. Cook* `03-08`
 - [Can Coding Agents Relicense Open Source Through a ‘Clean Room’ Implementation of Code?](https://simonwillison.net/2026/Mar/5/chardet/) — *Daring Fireball* `03-08`
-- [Donald Knuth on Claude Opus Solving a Computer Science Problem](https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf) — *Daring Fireball* `03-08`
-- [GNU and the AI reimplementations](http://antirez.com/news/162) — *<antirez>* `03-08`
-- [Steve Lemay Hits Apple’s Leadership Page](https://www.apple.com/leadership/steve-lemay/) — *Daring Fireball* `03-08`
 <!--BLOG_RADAR:end-->
 
 ---

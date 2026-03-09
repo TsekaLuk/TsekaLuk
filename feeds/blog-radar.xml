@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 08 Mar 2026 18:45:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 02:47:41 +0000</lastBuildDate>
+    <item>
+      <title>Vibe Coding Trip Report: Making a sponsor panel</title>
+      <link>https://xeiaso.net/blog/2026/vibe-coding-sponsor-panel/</link>
+      <guid isPermaLink="true">https://xeiaso.net/blog/2026/vibe-coding-sponsor-panel/</guid>
+      <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>The Noble Path</title>
+      <link>https://www.joanwestenberg.com/the-noble-path/</link>
+      <guid isPermaLink="true">https://www.joanwestenberg.com/the-noble-path/</guid>
+      <pubDate>Sun, 08 Mar 2026 23:56:18 +0000</pubDate>
+      <description>Westenberg.</description>
+    </item>
+    <item>
+      <title>How AI Assistants are Moving the Security Goalposts</title>
+      <link>https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/</link>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/</guid>
+      <pubDate>Sun, 08 Mar 2026 23:35:42 +0000</pubDate>
+      <description>Krebs on Security</description>
+    </item>
     <item>
       <title>How much certainty is worthwhile?</title>
       <link>https://www.johndcook.com/blog/2026/03/08/how-much-certainty-is-worthwhile/</link>
@@ -76,6 +97,13 @@
       <description>Evan Hahn (dot com)</description>
     </item>
     <item>
+      <title>The Neo solves Apple’s embarrassment</title>
+      <link>https://anildash.com/2026/03/08/neo-apple-embarassment/</link>
+      <guid isPermaLink="true">https://anildash.com/2026/03/08/neo-apple-embarassment/</guid>
+      <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Anil Dash</description>
+    </item>
+    <item>
       <title>‘npx workos’</title>
       <link>https://workos.com/docs/authkit/cli-installer?utm_source=tldrdev&amp;utm_medium=newsletter&amp;utm_campaign=q12026</link>
       <guid isPermaLink="true">https://workos.com/docs/authkit/cli-installer?utm_source=tldrdev&amp;utm_medium=newsletter&amp;utm_campaign=q12026</guid>
@@ -118,18 +146,18 @@
       <description>Andrew Nesbitt</description>
     </item>
     <item>
-      <title>Remove annoying banners</title>
-      <link>https://maurycyz.com/projects/fixsite/</link>
-      <guid isPermaLink="true">https://maurycyz.com/projects/fixsite/</guid>
-      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
-    </item>
-    <item>
       <title>Using Clankers to Help Me Process Surgery</title>
       <link>https://xeiaso.net/blog/2026/surgery-recovery-clankers/</link>
       <guid isPermaLink="true">https://xeiaso.net/blog/2026/surgery-recovery-clankers/</guid>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>Remove annoying banners</title>
+      <link>https://maurycyz.com/projects/fixsite/</link>
+      <guid isPermaLink="true">https://maurycyz.com/projects/fixsite/</guid>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
     </item>
     <item>
       <title>HN Skins 0.3.0</title>
@@ -216,18 +244,18 @@
       <description>Miguel Grinberg's Blog</description>
     </item>
     <item>
-      <title>When Read­Directory­ChangesW reports that a deletion occurred, how can I learn more about the deleted thing?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260306-00/?p=112116</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260306-00/?p=112116</guid>
-      <pubDate>Fri, 06 Mar 2026 15:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
       <title>A PTP Wall Clock is impractical and a little too precise</title>
       <link>https://www.jeffgeerling.com/blog/2026/ptp-wall-clock-impractical-too-precise/</link>
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/ptp-wall-clock-impractical-too-precise/</guid>
       <pubDate>Fri, 06 Mar 2026 15:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>When Read­Directory­ChangesW reports that a deletion occurred, how can I learn more about the deleted thing?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260306-00/?p=112116</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260306-00/?p=112116</guid>
+      <pubDate>Fri, 06 Mar 2026 15:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>The MacBook Neo’s Price, Looking to the Past and Future</title>
@@ -307,18 +335,18 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>I don't know if my job will still exist in ten years</title>
-      <link>https://seangoedecke.com/will-my-job-still-exist/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/will-my-job-still-exist/</guid>
-      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
       <title>Advice for staying in the hospital for a week</title>
       <link>https://xeiaso.net/blog/2026/hospital-advice/</link>
       <guid isPermaLink="true">https://xeiaso.net/blog/2026/hospital-advice/</guid>
       <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>I don't know if my job will still exist in ten years</title>
+      <link>https://seangoedecke.com/will-my-job-still-exist/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/will-my-job-still-exist/</guid>
+      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>Introducing GPT‑5.4</title>
@@ -387,7 +415,7 @@
       <title>★ Thoughts and Observations on the MacBook Neo</title>
       <link>https://daringfireball.net/2026/03/599_not_a_piece_of_junk_macbook_neo</link>
       <guid isPermaLink="true">https://daringfireball.net/2026/03/599_not_a_piece_of_junk_macbook_neo</guid>
-      <pubDate>Wed, 04 Mar 2026 20:40:11 +0000</pubDate>
+      <pubDate>Wed, 04 Mar 2026 19:40:11 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
     <item>
@@ -622,18 +650,18 @@
       <description>Refactoring English</description>
     </item>
     <item>
-      <title>★ HazeOver — Mac Utility for Highlighting the Frontmost Window</title>
-      <link>https://daringfireball.net/2026/03/hazeover</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/03/hazeover</guid>
-      <pubDate>Mon, 02 Mar 2026 23:41:11 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
       <title>Teaching Children to Bicycle</title>
       <link>https://entropicthoughts.com/teaching-children-to-bicycle</link>
       <guid isPermaLink="true">https://entropicthoughts.com/teaching-children-to-bicycle</guid>
       <pubDate>Mon, 02 Mar 2026 23:00:00 +0000</pubDate>
       <description>Entropic Thoughts</description>
+    </item>
+    <item>
+      <title>★ HazeOver — Mac Utility for Highlighting the Frontmost Window</title>
+      <link>https://daringfireball.net/2026/03/hazeover</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/03/hazeover</guid>
+      <pubDate>Mon, 02 Mar 2026 22:41:11 +0000</pubDate>
+      <description>Daring Fireball</description>
     </item>
     <item>
       <title>Unsung Heroes: Flickr’s URLs Scheme</title>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://sentry.io/resources/ios-workshop-jan-2026/?utm_source=daringfireball&amp;utm_medium=paid-display&amp;utm_campaign=general-fy27q1-evergreen&amp;utm_content=static-ad-mobilerss-trysentry</guid>
       <pubDate>Sun, 01 Mar 2026 14:44:23 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The Talk Show: ‘Bad Dates’</title>
-      <link>https://daringfireball.net/thetalkshow/2026/02/28/ep-442</link>
-      <guid isPermaLink="true">https://daringfireball.net/thetalkshow/2026/02/28/ep-442</guid>
-      <pubDate>Sun, 01 Mar 2026 14:43:02 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Book Review: Under Fire - Black Britain in Wartime by Stephen Bourne ★★★★☆</title>
-      <link>https://shkspr.mobi/blog/2026/03/book-review-under-fire-black-britain-in-wartime-by-stephen-bourne/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/03/book-review-under-fire-black-britain-in-wartime-by-stephen-bourne/</guid>
-      <pubDate>Sun, 01 Mar 2026 12:34:27 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Quoting claude.com/import-memory</title>
-      <link>https://simonwillison.net/2026/Mar/1/claude-import-memory/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/1/claude-import-memory/#atom-everything</guid>
-      <pubDate>Sun, 01 Mar 2026 11:21:45 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Praatjes</title>
-      <link>https://berthub.eu/articles/praatjes/</link>
-      <guid isPermaLink="true">https://berthub.eu/articles/praatjes/</guid>
-      <pubDate>Sun, 01 Mar 2026 10:22:53 +0000</pubDate>
-      <description>Bert Hubert's writings</description>
     </item>
   </channel>
 </rss>
