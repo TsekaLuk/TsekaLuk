@@ -211,8 +211,8 @@ Last Updated: Monday, March 9th, 2026, 2:55:14 PM
 - [Vibe Coding Trip Report: Making a sponsor panel](https://xeiaso.net/blog/2026/vibe-coding-sponsor-panel/) — *Xe Iaso's blog* `03-09`
 - [The Noble Path](https://www.joanwestenberg.com/the-noble-path/) — *Westenberg.* `03-08`
 - [How AI Assistants are Moving the Security Goalposts](https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/) — *Krebs on Security* `03-08`
+- [Two of My Favorite Things Together at Last: Pies and Subdomains](https://blog.jim-nielsen.com/2026/pies-and-subdomains/) — *Jim Nielsen’s Blog* `03-08`
 - [How much certainty is worthwhile?](https://www.johndcook.com/blog/2026/03/08/how-much-certainty-is-worthwhile/) — *John D. Cook* `03-08`
-- [Can Coding Agents Relicense Open Source Through a ‘Clean Room’ Implementation of Code?](https://simonwillison.net/2026/Mar/5/chardet/) — *Daring Fireball* `03-08`
 <!--BLOG_RADAR:end-->
 
 ---

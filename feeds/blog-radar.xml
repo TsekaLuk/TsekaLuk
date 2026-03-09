@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 09 Mar 2026 02:47:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 07:11:53 +0000</lastBuildDate>
     <item>
       <title>Vibe Coding Trip Report: Making a sponsor panel</title>
       <link>https://xeiaso.net/blog/2026/vibe-coding-sponsor-panel/</link>
@@ -25,6 +25,13 @@
       <guid isPermaLink="true">https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/</guid>
       <pubDate>Sun, 08 Mar 2026 23:35:42 +0000</pubDate>
       <description>Krebs on Security</description>
+    </item>
+    <item>
+      <title>Two of My Favorite Things Together at Last: Pies and Subdomains</title>
+      <link>https://blog.jim-nielsen.com/2026/pies-and-subdomains/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/pies-and-subdomains/</guid>
+      <pubDate>Sun, 08 Mar 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
     </item>
     <item>
       <title>How much certainty is worthwhile?</title>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Mar/1/ai-writing/#atom-everything</guid>
       <pubDate>Sun, 01 Mar 2026 16:06:43 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Sentry</title>
-      <link>https://sentry.io/resources/ios-workshop-jan-2026/?utm_source=daringfireball&amp;utm_medium=paid-display&amp;utm_campaign=general-fy27q1-evergreen&amp;utm_content=static-ad-mobilerss-trysentry</link>
-      <guid isPermaLink="true">https://sentry.io/resources/ios-workshop-jan-2026/?utm_source=daringfireball&amp;utm_medium=paid-display&amp;utm_campaign=general-fy27q1-evergreen&amp;utm_content=static-ad-mobilerss-trysentry</guid>
-      <pubDate>Sun, 01 Mar 2026 14:44:23 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
