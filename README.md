@@ -208,11 +208,11 @@ Last Updated: Tuesday, March 10th, 2026, 2:41:12 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Power glitches can leave computer hardware in weird states](https://utcc.utoronto.ca/~cks/space/blog/tech/PowerGlitchesWeirdHardwareStates) — *Chris's Wiki :: blog* `03-10`
 - [Weekly Update 494](https://www.troyhunt.com/weekly-update-494/) — *Troy Hunt* `03-10`
 - [[Sponsor] Finalist](https://www.finalist.works/finalist-36/) — *Daring Fireball* `03-09`
 - [Trig composition table](https://www.johndcook.com/blog/2026/03/09/trig-composition-table/) — *John D. Cook* `03-09`
 - [★ The iPhone 17e](https://daringfireball.net/2026/03/the_iphone_17e) — *Daring Fireball* `03-09`
-- [MacBook Neo Wallpapers Now Available for All Macs in MacOS Tahoe](https://www.macrumors.com/2026/03/09/macos-tahoe-26-4-beta-4-neo-wallpapers/) — *Daring Fireball* `03-09`
 <!--BLOG_RADAR:end-->
 
 ---
