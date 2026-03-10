@@ -208,11 +208,11 @@ Last Updated: Tuesday, March 10th, 2026, 9:26:55 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Pluralistic: Billionaires are a danger to themselves and (especially) us (09 Mar 2026)](https://pluralistic.net/2026/03/09/autocrats-of-trade-2/) — *Pluralistic: Daily links from Cory Doctorow* `03-09`
-- [I don’t know what is Apple’s endgame for the Fn/Globe key, and I’m not sure Apple knows either](https://aresluna.org/fn) — *Aresluna* `03-09`
-- [Production query plans without production data](https://simonwillison.net/2026/Mar/9/production-query-plans-without-production-data/#atom-everything) — *Simon Willison's Weblog* `03-09`
-- [Low-Wage Contractors in Kenya See What Users See While Using Meta’s AI Smart Glasses](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything) — *Daring Fireball* `03-09`
-- [The fine print giveth and the bold print taketh away: The countdown timer](https://devblogs.microsoft.com/oldnewthing/20260309-01/?p=112120) — *The Old New Thing* `03-09`
+- [Weekly Update 494](https://www.troyhunt.com/weekly-update-494/) — *Troy Hunt* `03-10`
+- [[Sponsor] Finalist](https://www.finalist.works/finalist-36/) — *Daring Fireball* `03-09`
+- [Trig composition table](https://www.johndcook.com/blog/2026/03/09/trig-composition-table/) — *John D. Cook* `03-09`
+- [★ The iPhone 17e](https://daringfireball.net/2026/03/the_iphone_17e) — *Daring Fireball* `03-09`
+- [MacBook Neo Wallpapers Now Available for All Macs in MacOS Tahoe](https://www.macrumors.com/2026/03/09/macos-tahoe-26-4-beta-4-neo-wallpapers/) — *Daring Fireball* `03-09`
 <!--BLOG_RADAR:end-->
 
 ---
