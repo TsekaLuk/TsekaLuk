@@ -208,11 +208,11 @@ Last Updated: Tuesday, March 10th, 2026, 8:48:33 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Power glitches can leave computer hardware in weird states](https://utcc.utoronto.ca/~cks/space/blog/tech/PowerGlitchesWeirdHardwareStates) — *Chris's Wiki :: blog* `03-10`
+- [Unstructured Data and the Joy of having Something Else think for you](https://shkspr.mobi/blog/2026/03/unstructured-data-and-the-joy-of-having-something-else-think-for-you/) — *Terence Eden’s Blog* `03-10`
+- [Just Use Postgres](https://nesbitt.io/2026/03/10/just-use-postgres.html) — *Andrew Nesbitt* `03-10`
+- [Update to the Ghost theme that powers this site](https://matduggan.com/update-to-the-ghost-theme-that-powers-this-site/) — *matduggan.com* `03-10`
 - [Weekly Update 494](https://www.troyhunt.com/weekly-update-494/) — *Troy Hunt* `03-10`
-- [[Sponsor] Finalist](https://www.finalist.works/finalist-36/) — *Daring Fireball* `03-09`
-- [Trig composition table](https://www.johndcook.com/blog/2026/03/09/trig-composition-table/) — *John D. Cook* `03-09`
-- [★ The iPhone 17e](https://daringfireball.net/2026/03/the_iphone_17e) — *Daring Fireball* `03-09`
+- [Rebasing in Magit](https://entropicthoughts.com/rebasing-in-magit) — *Entropic Thoughts* `03-09`
 <!--BLOG_RADAR:end-->
 
 ---
