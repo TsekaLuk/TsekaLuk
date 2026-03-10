@@ -4,7 +4,56 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 10 Mar 2026 13:18:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 19:00:17 +0000</lastBuildDate>
+    <item>
+      <title>Writing an LLM from scratch, part 32e -- Interventions: the learning rate</title>
+      <link>https://www.gilesthomas.com/2026/03/llm-from-scratch-32e-interventions-learning-rate</link>
+      <guid isPermaLink="true">https://www.gilesthomas.com/2026/03/llm-from-scratch-32e-interventions-learning-rate</guid>
+      <pubDate>Tue, 10 Mar 2026 23:55:00 +0000</pubDate>
+      <description>Giles' blog</description>
+    </item>
+    <item>
+      <title>The Beginning Of History</title>
+      <link>https://www.wheresyoured.at/the-beginning-of-history/</link>
+      <guid isPermaLink="true">https://www.wheresyoured.at/the-beginning-of-history/</guid>
+      <pubDate>Tue, 10 Mar 2026 18:34:49 +0000</pubDate>
+      <description>Ed Zitron's Where's Your Ed At</description>
+    </item>
+    <item>
+      <title>LLMs are bad at vibing specifications</title>
+      <link>https://buttondown.com/hillelwayne/archive/llms-are-bad-at-vibing-specifications/</link>
+      <guid isPermaLink="true">https://buttondown.com/hillelwayne/archive/llms-are-bad-at-vibing-specifications/</guid>
+      <pubDate>Tue, 10 Mar 2026 17:12:30 +0000</pubDate>
+      <description>Computer Things</description>
+    </item>
+    <item>
+      <title>Simplifying expressions in SymPy</title>
+      <link>https://www.johndcook.com/blog/2026/03/10/simplifying-expressions-in-sympy/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/03/10/simplifying-expressions-in-sympy/</guid>
+      <pubDate>Tue, 10 Mar 2026 16:08:15 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Pluralistic: Ad-tech is fascist tech (10 Mar 2026)</title>
+      <link>https://pluralistic.net/2026/03/10/ice-tech/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/03/10/ice-tech/</guid>
+      <pubDate>Tue, 10 Mar 2026 15:23:43 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>sinh( arccosh(x) )</title>
+      <link>https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/</guid>
+      <pubDate>Tue, 10 Mar 2026 15:12:03 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>A snappy answer when asked about dressing casually at IBM</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260310-00/?p=112131</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260310-00/?p=112131</guid>
+      <pubDate>Tue, 10 Mar 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
     <item>
       <title>Unstructured Data and the Joy of having Something Else think for you</title>
       <link>https://shkspr.mobi/blog/2026/03/unstructured-data-and-the-joy-of-having-something-else-think-for-you/</link>
@@ -489,18 +538,18 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>Advice for staying in the hospital for a week</title>
-      <link>https://xeiaso.net/blog/2026/hospital-advice/</link>
-      <guid isPermaLink="true">https://xeiaso.net/blog/2026/hospital-advice/</guid>
-      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
       <title>I don't know if my job will still exist in ten years</title>
       <link>https://seangoedecke.com/will-my-job-still-exist/</link>
       <guid isPermaLink="true">https://seangoedecke.com/will-my-job-still-exist/</guid>
       <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Advice for staying in the hospital for a week</title>
+      <link>https://xeiaso.net/blog/2026/hospital-advice/</link>
+      <guid isPermaLink="true">https://xeiaso.net/blog/2026/hospital-advice/</guid>
+      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>Introducing GPT‑5.4</title>
@@ -795,55 +844,6 @@
       <guid isPermaLink="true">https://seangoedecke.com/giving-llms-a-personality/</guid>
       <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>Why Improve Your Writing?</title>
-      <link>https://refactoringenglish.com/chapters/why-improve-your-writing/</link>
-      <guid isPermaLink="true">https://refactoringenglish.com/chapters/why-improve-your-writing/</guid>
-      <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Refactoring English</description>
-    </item>
-    <item>
-      <title>Teaching Children to Bicycle</title>
-      <link>https://entropicthoughts.com/teaching-children-to-bicycle</link>
-      <guid isPermaLink="true">https://entropicthoughts.com/teaching-children-to-bicycle</guid>
-      <pubDate>Mon, 02 Mar 2026 23:00:00 +0000</pubDate>
-      <description>Entropic Thoughts</description>
-    </item>
-    <item>
-      <title>★ HazeOver — Mac Utility for Highlighting the Frontmost Window</title>
-      <link>https://daringfireball.net/2026/03/hazeover</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/03/hazeover</guid>
-      <pubDate>Mon, 02 Mar 2026 22:41:11 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Unsung Heroes: Flickr’s URLs Scheme</title>
-      <link>https://unsung.aresluna.org/unsung-heroes-flickrs-urls-scheme/</link>
-      <guid isPermaLink="true">https://unsung.aresluna.org/unsung-heroes-flickrs-urls-scheme/</guid>
-      <pubDate>Mon, 02 Mar 2026 21:59:41 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>I built a pint-sized Macintosh</title>
-      <link>https://www.jeffgeerling.com/blog/2026/pint-sized-macintosh-pico-micro-mac/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/pint-sized-macintosh-pico-micro-mac/</guid>
-      <pubDate>Mon, 02 Mar 2026 21:15:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
-      <title>What sort of horrible things happen if my dialog has a non-button with the control ID of IDCANCEL?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260302-53/?p=112098</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260302-53/?p=112098</guid>
-      <pubDate>Mon, 02 Mar 2026 20:55:53 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>ChangeTheHeaders</title>
-      <link>https://underpassapp.com/news/2025/3/4.html</link>
-      <guid isPermaLink="true">https://underpassapp.com/news/2025/3/4.html</guid>
-      <pubDate>Mon, 02 Mar 2026 20:10:50 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>

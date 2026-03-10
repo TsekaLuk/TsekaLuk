@@ -208,11 +208,11 @@ Last Updated: Wednesday, March 11th, 2026, 2:40:20 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Unstructured Data and the Joy of having Something Else think for you](https://shkspr.mobi/blog/2026/03/unstructured-data-and-the-joy-of-having-something-else-think-for-you/) — *Terence Eden’s Blog* `03-10`
-- [Just Use Postgres](https://nesbitt.io/2026/03/10/just-use-postgres.html) — *Andrew Nesbitt* `03-10`
-- [Update to the Ghost theme that powers this site](https://matduggan.com/update-to-the-ghost-theme-that-powers-this-site/) — *matduggan.com* `03-10`
-- [Weekly Update 494](https://www.troyhunt.com/weekly-update-494/) — *Troy Hunt* `03-10`
-- [Rebasing in Magit](https://entropicthoughts.com/rebasing-in-magit) — *Entropic Thoughts* `03-09`
+- [Writing an LLM from scratch, part 32e -- Interventions: the learning rate](https://www.gilesthomas.com/2026/03/llm-from-scratch-32e-interventions-learning-rate) — *Giles' blog* `03-10`
+- [The Beginning Of History](https://www.wheresyoured.at/the-beginning-of-history/) — *Ed Zitron's Where's Your Ed At* `03-10`
+- [LLMs are bad at vibing specifications](https://buttondown.com/hillelwayne/archive/llms-are-bad-at-vibing-specifications/) — *Computer Things* `03-10`
+- [Simplifying expressions in SymPy](https://www.johndcook.com/blog/2026/03/10/simplifying-expressions-in-sympy/) — *John D. Cook* `03-10`
+- [Pluralistic: Ad-tech is fascist tech (10 Mar 2026)](https://pluralistic.net/2026/03/10/ice-tech/) — *Pluralistic: Daily links from Cory Doctorow* `03-10`
 <!--BLOG_RADAR:end-->
 
 ---
