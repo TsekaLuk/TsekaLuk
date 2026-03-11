@@ -208,11 +208,11 @@ Last Updated: Wednesday, March 11th, 2026, 9:27:11 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [The Server Older than my Kids!](https://idiallo.com/byte-size/my-server-is-older-than-my-kids?src=feed) — *iDiallo.com* `03-11`
+- [Microsoft Patch Tuesday, March 2026 Edition](https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/) — *Krebs on Security* `03-11`
 - [Writing an LLM from scratch, part 32e -- Interventions: the learning rate](https://www.gilesthomas.com/2026/03/llm-from-scratch-32e-interventions-learning-rate) — *Giles' blog* `03-10`
-- [The Beginning Of History](https://www.wheresyoured.at/the-beginning-of-history/) — *Ed Zitron's Where's Your Ed At* `03-10`
-- [LLMs are bad at vibing specifications](https://buttondown.com/hillelwayne/archive/llms-are-bad-at-vibing-specifications/) — *Computer Things* `03-10`
-- [Simplifying expressions in SymPy](https://www.johndcook.com/blog/2026/03/10/simplifying-expressions-in-sympy/) — *John D. Cook* `03-10`
-- [Pluralistic: Ad-tech is fascist tech (10 Mar 2026)](https://pluralistic.net/2026/03/10/ice-tech/) — *Pluralistic: Daily links from Cory Doctorow* `03-10`
+- [★ The MacBook Neo](https://daringfireball.net/2026/03/the_macbook_neo) — *Daring Fireball* `03-10`
+- [AI should help us produce better code](https://simonwillison.net/guides/agentic-engineering-patterns/better-code/#atom-everything) — *Simon Willison's Weblog* `03-10`
 <!--BLOG_RADAR:end-->
 
 ---

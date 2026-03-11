@@ -4,13 +4,48 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 10 Mar 2026 19:00:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 02:37:48 +0000</lastBuildDate>
+    <item>
+      <title>The Server Older than my Kids!</title>
+      <link>https://idiallo.com/byte-size/my-server-is-older-than-my-kids?src=feed</link>
+      <guid isPermaLink="true">https://idiallo.com/byte-size/my-server-is-older-than-my-kids?src=feed</guid>
+      <pubDate>Wed, 11 Mar 2026 01:38:25 +0000</pubDate>
+      <description>iDiallo.com</description>
+    </item>
+    <item>
+      <title>Microsoft Patch Tuesday, March 2026 Edition</title>
+      <link>https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/</link>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/</guid>
+      <pubDate>Wed, 11 Mar 2026 00:32:51 +0000</pubDate>
+      <description>Krebs on Security</description>
+    </item>
     <item>
       <title>Writing an LLM from scratch, part 32e -- Interventions: the learning rate</title>
       <link>https://www.gilesthomas.com/2026/03/llm-from-scratch-32e-interventions-learning-rate</link>
       <guid isPermaLink="true">https://www.gilesthomas.com/2026/03/llm-from-scratch-32e-interventions-learning-rate</guid>
       <pubDate>Tue, 10 Mar 2026 23:55:00 +0000</pubDate>
       <description>Giles' blog</description>
+    </item>
+    <item>
+      <title>★ The MacBook Neo</title>
+      <link>https://daringfireball.net/2026/03/the_macbook_neo</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/03/the_macbook_neo</guid>
+      <pubDate>Tue, 10 Mar 2026 22:48:40 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>AI should help us produce better code</title>
+      <link>https://simonwillison.net/guides/agentic-engineering-patterns/better-code/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/guides/agentic-engineering-patterns/better-code/#atom-everything</guid>
+      <pubDate>Tue, 10 Mar 2026 22:25:09 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>I'm Not Lying, I'm Hallucinating</title>
+      <link>https://idiallo.com/byte-size/im-not-lying-im-hallucinating?src=feed</link>
+      <guid isPermaLink="true">https://idiallo.com/byte-size/im-not-lying-im-hallucinating?src=feed</guid>
+      <pubDate>Tue, 10 Mar 2026 20:43:30 +0000</pubDate>
+      <description>iDiallo.com</description>
     </item>
     <item>
       <title>The Beginning Of History</title>
@@ -76,11 +111,25 @@
       <description>matduggan.com</description>
     </item>
     <item>
+      <title>Power glitches can leave computer hardware in weird states</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/tech/PowerGlitchesWeirdHardwareStates</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/tech/PowerGlitchesWeirdHardwareStates</guid>
+      <pubDate>Tue, 10 Mar 2026 03:58:36 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
       <title>Weekly Update 494</title>
       <link>https://www.troyhunt.com/weekly-update-494/</link>
       <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-494/</guid>
       <pubDate>Tue, 10 Mar 2026 01:29:35 +0000</pubDate>
       <description>Troy Hunt</description>
+    </item>
+    <item>
+      <title>HN Skins 0.4.0 - Black Bar Updates</title>
+      <link>https://susam.net/code/news/hnskins/0.4.0.html</link>
+      <guid isPermaLink="true">https://susam.net/code/news/hnskins/0.4.0.html</guid>
+      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Susam Pal</description>
     </item>
     <item>
       <title>Rebasing in Magit</title>
@@ -188,6 +237,13 @@
       <description>Andrew Nesbitt</description>
     </item>
     <item>
+      <title>If there are URLs in your HTTP User-Agent, they should exist and work</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/web/UserAgentURLsShouldExist</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/web/UserAgentURLsShouldExist</guid>
+      <pubDate>Mon, 09 Mar 2026 02:18:01 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
       <title>Vibe Coding Trip Report: Making a sponsor panel</title>
       <link>https://xeiaso.net/blog/2026/vibe-coding-sponsor-panel/</link>
       <guid isPermaLink="true">https://xeiaso.net/blog/2026/vibe-coding-sponsor-panel/</guid>
@@ -286,6 +342,13 @@
       <description>Andrew Nesbitt</description>
     </item>
     <item>
+      <title>Restricting IP address access to specific ports in eBPF: a sketch</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/EBPFPerPortIPRestrictions</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/EBPFPerPortIPRestrictions</guid>
+      <pubDate>Sun, 08 Mar 2026 03:04:11 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
       <title>Some Thorns Have Roses</title>
       <link>https://xeiaso.net/blog/2026/some-thorns-have-roses/</link>
       <guid isPermaLink="true">https://xeiaso.net/blog/2026/some-thorns-have-roses/</guid>
@@ -347,6 +410,13 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/03/07/announcing-new-working-groups.html</guid>
       <pubDate>Sat, 07 Mar 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>Your terminal program has to be where xterm's ziconbeep feature is handled</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/unix/XTermHasToDoZiconbeep</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/unix/XTermHasToDoZiconbeep</guid>
+      <pubDate>Sat, 07 Mar 2026 03:26:47 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>Using Clankers to Help Me Process Surgery</title>
@@ -531,6 +601,13 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
+      <title>How I think systemd IP address restrictions on socket units works</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdSocketIPRestrictions</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdSocketIPRestrictions</guid>
+      <pubDate>Fri, 06 Mar 2026 04:43:52 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
       <title>Clinejection — Compromising Cline's Production Releases just by Prompting an Issue Triager</title>
       <link>https://simonwillison.net/2026/Mar/6/clinejection/#atom-everything</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Mar/6/clinejection/#atom-everything</guid>
@@ -599,6 +676,13 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/03/05/package-manager-magic-files.html</guid>
       <pubDate>Thu, 05 Mar 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>Sometimes, non-general solutions are the right answer</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/python/HardcodingCanBeTheRightAnswer</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/python/HardcodingCanBeTheRightAnswer</guid>
+      <pubDate>Thu, 05 Mar 2026 03:33:13 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>AI And The Ship of Theseus</title>
@@ -699,6 +783,13 @@
       <description>Andrew Nesbitt</description>
     </item>
     <item>
+      <title>A taxonomy of text output (from tools that want to be too clever)</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ProgramTextOutputTaxonomy</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ProgramTextOutputTaxonomy</guid>
+      <pubDate>Wed, 04 Mar 2026 01:41:02 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
       <title>Maybe there’s a pattern here?</title>
       <link>https://dynomight.net/pattern/</link>
       <guid isPermaLink="true">https://dynomight.net/pattern/</guid>
@@ -753,97 +844,6 @@
       <guid isPermaLink="true">https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/</guid>
       <pubDate>Tue, 03 Mar 2026 19:01:28 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>w0rdz aRe 1mpoRtAnt</title>
-      <link>https://blog.jim-nielsen.com/2026/w0rdz-aRe-1mpoRtAnt/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/w0rdz-aRe-1mpoRtAnt/</guid>
-      <pubDate>Tue, 03 Mar 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
-      <title>Pluralistic: Supreme Court saves artists from AI (03 Mar 2026)</title>
-      <link>https://pluralistic.net/2026/03/03/its-a-trap-2/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/03/03/its-a-trap-2/</guid>
-      <pubDate>Tue, 03 Mar 2026 18:26:13 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>The one science reform we can all agree on, but we're too cowardly to do</title>
-      <link>https://www.experimental-history.com/p/the-one-science-reform-we-can-all</link>
-      <guid isPermaLink="true">https://www.experimental-history.com/p/the-one-science-reform-we-can-all</guid>
-      <pubDate>Tue, 03 Mar 2026 17:47:57 +0000</pubDate>
-      <description>Experimental History</description>
-    </item>
-    <item>
-      <title>The AI Bubble Is An Information War</title>
-      <link>https://www.wheresyoured.at/the-ai-bubble-is-an-information-war/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/the-ai-bubble-is-an-information-war/</guid>
-      <pubDate>Tue, 03 Mar 2026 17:18:22 +0000</pubDate>
-      <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>Apple Debuts M5 Pro and M5 Max, and Renames Its M-Series CPU Cores</title>
-      <link>https://www.apple.com/newsroom/2026/03/apple-debuts-m5-pro-and-m5-max-to-supercharge-the-most-demanding-pro-workflows/</link>
-      <guid isPermaLink="true">https://www.apple.com/newsroom/2026/03/apple-debuts-m5-pro-and-m5-max-to-supercharge-the-most-demanding-pro-workflows/</guid>
-      <pubDate>Tue, 03 Mar 2026 17:11:32 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Free Books</title>
-      <link>https://buttondown.com/hillelwayne/archive/free-books/</link>
-      <guid isPermaLink="true">https://buttondown.com/hillelwayne/archive/free-books/</guid>
-      <pubDate>Tue, 03 Mar 2026 16:34:33 +0000</pubDate>
-      <description>Computer Things</description>
-    </item>
-    <item>
-      <title>Just for fun: A survey of write protect notches on floppy disks and other media</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260303-00/?p=112104</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260303-00/?p=112104</guid>
-      <pubDate>Tue, 03 Mar 2026 15:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Game Review: Unravel Two ★★★⯪☆</title>
-      <link>https://shkspr.mobi/blog/2026/03/game-review-unravel-two/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/03/game-review-unravel-two/</guid>
-      <pubDate>Tue, 03 Mar 2026 12:34:43 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Nobody Gets Promoted for Simplicity</title>
-      <link>https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/</link>
-      <guid isPermaLink="true">https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/</guid>
-      <pubDate>Tue, 03 Mar 2026 12:22:26 +0000</pubDate>
-      <description>Terrible Software</description>
-    </item>
-    <item>
-      <title>Package Management is Naming All the Way Down</title>
-      <link>https://nesbitt.io/2026/03/03/package-management-is-naming-all-the-way-down.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/03/03/package-management-is-naming-all-the-way-down.html</guid>
-      <pubDate>Tue, 03 Mar 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Betting Against Substack</title>
-      <link>https://feed.tedium.co/link/15204/17288375/betting-against-substack</link>
-      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17288375/betting-against-substack</guid>
-      <pubDate>Tue, 03 Mar 2026 04:56:00 +0000</pubDate>
-      <description>Tedium: The Dull Side of the Internet.</description>
-    </item>
-    <item>
-      <title>An AI Odyssey, Part 1: Correctness Conundrum</title>
-      <link>https://www.johndcook.com/blog/2026/03/02/an-ai-odyssey-part-1-correctness-conundrum/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/03/02/an-ai-odyssey-part-1-correctness-conundrum/</guid>
-      <pubDate>Tue, 03 Mar 2026 02:40:22 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Giving LLMs a personality is just good engineering</title>
-      <link>https://seangoedecke.com/giving-llms-a-personality/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/giving-llms-a-personality/</guid>
-      <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
     </item>
   </channel>
 </rss>
