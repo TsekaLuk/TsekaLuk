@@ -208,11 +208,11 @@ Last Updated: Wednesday, March 11th, 2026, 2:44:04 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [The story of one of my worst programming failures](https://utcc.utoronto.ca/~cks/space/blog/programming/DevelopedTooSmallFailure) — *Chris's Wiki :: blog* `03-11`
 - [The Server Older than my Kids!](https://idiallo.com/byte-size/my-server-is-older-than-my-kids?src=feed) — *iDiallo.com* `03-11`
 - [Microsoft Patch Tuesday, March 2026 Edition](https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/) — *Krebs on Security* `03-11`
 - [Writing an LLM from scratch, part 32e -- Interventions: the learning rate](https://www.gilesthomas.com/2026/03/llm-from-scratch-32e-interventions-learning-rate) — *Giles' blog* `03-10`
 - [★ The MacBook Neo](https://daringfireball.net/2026/03/the_macbook_neo) — *Daring Fireball* `03-10`
-- [AI should help us produce better code](https://simonwillison.net/guides/agentic-engineering-patterns/better-code/#atom-everything) — *Simon Willison's Weblog* `03-10`
 <!--BLOG_RADAR:end-->
 
 ---
