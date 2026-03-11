@@ -208,11 +208,11 @@ Last Updated: Wednesday, March 11th, 2026, 8:46:44 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [The story of one of my worst programming failures](https://utcc.utoronto.ca/~cks/space/blog/programming/DevelopedTooSmallFailure) — *Chris's Wiki :: blog* `03-11`
+- [Game Review: It Takes Two ★★★★★](https://shkspr.mobi/blog/2026/03/game-review-it-takes-two/) — *Terence Eden’s Blog* `03-11`
+- [Where did you think the training data was coming from?](https://idiallo.com/blog/where-did-the-training-data-come-from-meta-ai-rayban-glasses?src=feed) — *iDiallo.com* `03-11`
+- [git-pkgs/actions](https://nesbitt.io/2026/03/11/git-pkgs-actions.html) — *Andrew Nesbitt* `03-11`
 - [The Server Older than my Kids!](https://idiallo.com/byte-size/my-server-is-older-than-my-kids?src=feed) — *iDiallo.com* `03-11`
 - [Microsoft Patch Tuesday, March 2026 Edition](https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/) — *Krebs on Security* `03-11`
-- [Writing an LLM from scratch, part 32e -- Interventions: the learning rate](https://www.gilesthomas.com/2026/03/llm-from-scratch-32e-interventions-learning-rate) — *Giles' blog* `03-10`
-- [★ The MacBook Neo](https://daringfireball.net/2026/03/the_macbook_neo) — *Daring Fireball* `03-10`
 <!--BLOG_RADAR:end-->
 
 ---
