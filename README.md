@@ -208,11 +208,11 @@ Last Updated: Thursday, March 12th, 2026, 2:47:15 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [I’m glad the Anthropic fight is happening now](https://www.dwarkesh.com/p/dow-anthropic) — *Dwarkesh Podcast* `03-11`
+- [Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker](https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/) — *Krebs on Security* `03-11`
+- [Quoting John Carmack](https://simonwillison.net/2026/Mar/11/john-carmack/#atom-everything) — *Simon Willison's Weblog* `03-11`
 - [Game Review: It Takes Two ★★★★★](https://shkspr.mobi/blog/2026/03/game-review-it-takes-two/) — *Terence Eden’s Blog* `03-11`
 - [Where did you think the training data was coming from?](https://idiallo.com/blog/where-did-the-training-data-come-from-meta-ai-rayban-glasses?src=feed) — *iDiallo.com* `03-11`
-- [git-pkgs/actions](https://nesbitt.io/2026/03/11/git-pkgs-actions.html) — *Andrew Nesbitt* `03-11`
-- [The Server Older than my Kids!](https://idiallo.com/byte-size/my-server-is-older-than-my-kids?src=feed) — *iDiallo.com* `03-11`
-- [Microsoft Patch Tuesday, March 2026 Edition](https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/) — *Krebs on Security* `03-11`
 <!--BLOG_RADAR:end-->
 
 ---
