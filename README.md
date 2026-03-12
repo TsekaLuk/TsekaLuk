@@ -208,11 +208,11 @@ Last Updated: Thursday, March 12th, 2026, 8:46:13 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers](https://utcc.utoronto.ca/~cks/space/blog/linux/UEFIOnlyBootHasGoneOkay) — *Chris's Wiki :: blog* `03-12`
+- [Historic Energy Price Cap Data (FOI success!)](https://shkspr.mobi/blog/2026/03/historic-energy-price-cap-data-foi-success/) — *Terence Eden’s Blog* `03-12`
+- [The Elusive Cost Savings of the Prefabricated Home](https://www.construction-physics.com/p/the-elusive-cost-savings-of-the-prefabricated) — *Construction Physics* `03-12`
+- [Reviewing ENISA’s Package Manager Advisory](https://nesbitt.io/2026/03/12/reviewing-enisas-package-manager-advisory.html) — *Andrew Nesbitt* `03-12`
+- [Introduction to SQLAlchemy 2 In Practice](https://blog.miguelgrinberg.com/post/introduction-to-sqlalchemy-2-in-practice) — *Miguel Grinberg's Blog* `03-12`
 - [Jason Snell Is on Jeopardy Next Week](https://sixcolors.com/post/2026/03/ill-take-beach-reading-for-1000-ken/) — *Daring Fireball* `03-12`
-- [Another One From the Archive: ‘Web Kit’ vs. ‘WebKit’](https://daringfireball.net/2006/05/web_kit_vs_webkit) — *Daring Fireball* `03-12`
-- [★ Modifier Key Order for Keyboard Shortcuts](https://daringfireball.net/2026/03/modifier_key_order_for_keyboard_shortcuts) — *Daring Fireball* `03-12`
-- [Git Checkout, Reset and Restore](https://susam.net/git-checkout-reset-restore.html) — *Susam Pal* `03-12`
 <!--BLOG_RADAR:end-->
 
 ---
