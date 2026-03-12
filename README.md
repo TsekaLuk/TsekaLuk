@@ -208,11 +208,11 @@ Last Updated: Thursday, March 12th, 2026, 2:46:56 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers](https://utcc.utoronto.ca/~cks/space/blog/linux/UEFIOnlyBootHasGoneOkay) — *Chris's Wiki :: blog* `03-12`
 - [Jason Snell Is on Jeopardy Next Week](https://sixcolors.com/post/2026/03/ill-take-beach-reading-for-1000-ken/) — *Daring Fireball* `03-12`
 - [Another One From the Archive: ‘Web Kit’ vs. ‘WebKit’](https://daringfireball.net/2006/05/web_kit_vs_webkit) — *Daring Fireball* `03-12`
 - [★ Modifier Key Order for Keyboard Shortcuts](https://daringfireball.net/2026/03/modifier_key_order_for_keyboard_shortcuts) — *Daring Fireball* `03-12`
 - [Git Checkout, Reset and Restore](https://susam.net/git-checkout-reset-restore.html) — *Susam Pal* `03-12`
-- [Apple Has Changed Several Key Cap Labels From Words to Glyphs on Its Latest MacBook Keyboards](https://x.com/ClassicII_MrMac/status/2028869838870069447) — *Daring Fireball* `03-11`
 <!--BLOG_RADAR:end-->
 
 ---
