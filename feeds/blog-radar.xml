@@ -4,9 +4,79 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 11 Mar 2026 19:02:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 02:43:38 +0000</lastBuildDate>
     <item>
-      <title>I’m glad the Anthropic fight is happening now</title>
+      <title>Jason Snell Is on Jeopardy Next Week</title>
+      <link>https://sixcolors.com/post/2026/03/ill-take-beach-reading-for-1000-ken/</link>
+      <guid isPermaLink="true">https://sixcolors.com/post/2026/03/ill-take-beach-reading-for-1000-ken/</guid>
+      <pubDate>Thu, 12 Mar 2026 00:46:59 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Another One From the Archive: ‘Web Kit’ vs. ‘WebKit’</title>
+      <link>https://daringfireball.net/2006/05/web_kit_vs_webkit</link>
+      <guid isPermaLink="true">https://daringfireball.net/2006/05/web_kit_vs_webkit</guid>
+      <pubDate>Thu, 12 Mar 2026 00:26:22 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>★ Modifier Key Order for Keyboard Shortcuts</title>
+      <link>https://daringfireball.net/2026/03/modifier_key_order_for_keyboard_shortcuts</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/03/modifier_key_order_for_keyboard_shortcuts</guid>
+      <pubDate>Thu, 12 Mar 2026 00:15:20 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Git Checkout, Reset and Restore</title>
+      <link>https://susam.net/git-checkout-reset-restore.html</link>
+      <guid isPermaLink="true">https://susam.net/git-checkout-reset-restore.html</guid>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Susam Pal</description>
+    </item>
+    <item>
+      <title>Apple Has Changed Several Key Cap Labels From Words to Glyphs on Its Latest MacBook Keyboards</title>
+      <link>https://x.com/ClassicII_MrMac/status/2028869838870069447</link>
+      <guid isPermaLink="true">https://x.com/ClassicII_MrMac/status/2028869838870069447</guid>
+      <pubDate>Wed, 11 Mar 2026 23:06:05 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Halide Cofounder Sebastiaan de With Joined Apple’s Design Team in January</title>
+      <link>https://9to5mac.com/2026/01/28/halide-cofounder-sebastiaan-de-with-joins-apples-design-team/</link>
+      <guid isPermaLink="true">https://9to5mac.com/2026/01/28/halide-cofounder-sebastiaan-de-with-joins-apples-design-team/</guid>
+      <pubDate>Wed, 11 Mar 2026 23:00:00 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Sorting algorithms</title>
+      <link>https://simonwillison.net/2026/Mar/11/sorting-algorithms/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/11/sorting-algorithms/#atom-everything</guid>
+      <pubDate>Wed, 11 Mar 2026 22:58:06 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Members Only: We desperately need a Reality Literacy</title>
+      <link>https://www.joanwestenberg.com/we-desperately-need-a-reality-literacy/</link>
+      <guid isPermaLink="true">https://www.joanwestenberg.com/we-desperately-need-a-reality-literacy/</guid>
+      <pubDate>Wed, 11 Mar 2026 22:47:17 +0000</pubDate>
+      <description>Westenberg.</description>
+    </item>
+    <item>
+      <title>Pluralistic: AI "journalists" prove that media bosses don't give a shit (11 Mar 2026)</title>
+      <link>https://pluralistic.net/2026/03/11/modal-dialog-a-palooza/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/03/11/modal-dialog-a-palooza/</guid>
+      <pubDate>Wed, 11 Mar 2026 19:11:59 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>From the DF Archive: ‘And Oranges’</title>
+      <link>https://daringfireball.net/2006/06/and_oranges</link>
+      <guid isPermaLink="true">https://daringfireball.net/2006/06/and_oranges</guid>
+      <pubDate>Wed, 11 Mar 2026 19:02:11 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>The Department of War is making a huge mistake</title>
       <link>https://www.dwarkesh.com/p/dow-anthropic</link>
       <guid isPermaLink="true">https://www.dwarkesh.com/p/dow-anthropic</guid>
       <pubDate>Wed, 11 Mar 2026 18:55:20 +0000</pubDate>
@@ -25,6 +95,13 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Mar/11/john-carmack/#atom-everything</guid>
       <pubDate>Wed, 11 Mar 2026 14:47:09 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>How do compilers ensure that large stack allocations do not skip over the guard page?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260311-00/?p=112134</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260311-00/?p=112134</guid>
+      <pubDate>Wed, 11 Mar 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Game Review: It Takes Two ★★★★★</title>
@@ -60,6 +137,13 @@
       <guid isPermaLink="true">https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/</guid>
       <pubDate>Wed, 11 Mar 2026 00:32:51 +0000</pubDate>
       <description>Krebs on Security</description>
+    </item>
+    <item>
+      <title>I don't know if I like working at higher levels of abstraction</title>
+      <link>https://xeiaso.net/blog/2026/ai-abstraction/</link>
+      <guid isPermaLink="true">https://xeiaso.net/blog/2026/ai-abstraction/</guid>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>Writing an LLM from scratch, part 32e -- Interventions: the learning rate</title>
@@ -538,18 +622,18 @@
       <description>Miguel Grinberg's Blog</description>
     </item>
     <item>
-      <title>When Read­Directory­ChangesW reports that a deletion occurred, how can I learn more about the deleted thing?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260306-00/?p=112116</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260306-00/?p=112116</guid>
-      <pubDate>Fri, 06 Mar 2026 15:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
       <title>A PTP Wall Clock is impractical and a little too precise</title>
       <link>https://www.jeffgeerling.com/blog/2026/ptp-wall-clock-impractical-too-precise/</link>
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/ptp-wall-clock-impractical-too-precise/</guid>
       <pubDate>Fri, 06 Mar 2026 15:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>When Read­Directory­ChangesW reports that a deletion occurred, how can I learn more about the deleted thing?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260306-00/?p=112116</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260306-00/?p=112116</guid>
+      <pubDate>Fri, 06 Mar 2026 15:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>The MacBook Neo’s Price, Looking to the Past and Future</title>
@@ -629,18 +713,18 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>Advice for staying in the hospital for a week</title>
-      <link>https://xeiaso.net/blog/2026/hospital-advice/</link>
-      <guid isPermaLink="true">https://xeiaso.net/blog/2026/hospital-advice/</guid>
-      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
       <title>I don't know if my job will still exist in ten years</title>
       <link>https://seangoedecke.com/will-my-job-still-exist/</link>
       <guid isPermaLink="true">https://seangoedecke.com/will-my-job-still-exist/</guid>
       <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Advice for staying in the hospital for a week</title>
+      <link>https://xeiaso.net/blog/2026/hospital-advice/</link>
+      <guid isPermaLink="true">https://xeiaso.net/blog/2026/hospital-advice/</guid>
+      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>Introducing GPT‑5.4</title>
@@ -760,90 +844,6 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/03/04/an-ai-odyssey-part-2-prompting-peril/</guid>
       <pubDate>Wed, 04 Mar 2026 14:04:30 +0000</pubDate>
       <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>‘In Other Words, Batman Has Become Superman and Robin Has Become Batman’</title>
-      <link>https://sixcolors.com/post/2026/03/apple-gives-in-to-temptation-and-renames-its-cpu-cores/</link>
-      <guid isPermaLink="true">https://sixcolors.com/post/2026/03/apple-gives-in-to-temptation-and-renames-its-cpu-cores/</guid>
-      <pubDate>Wed, 04 Mar 2026 12:42:46 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>How many hours do you need to work to afford a pint of beer?</title>
-      <link>https://shkspr.mobi/blog/2026/03/how-many-hours-do-you-need-to-work-to-afford-a-pint-of-beer/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/03/how-many-hours-do-you-need-to-work-to-afford-a-pint-of-beer/</guid>
-      <pubDate>Wed, 04 Mar 2026 12:34:22 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Interruption-Driven Development</title>
-      <link>https://idiallo.com/blog/interruption-driven-development?src=feed</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/interruption-driven-development?src=feed</guid>
-      <pubDate>Wed, 04 Mar 2026 12:00:00 +0000</pubDate>
-      <description>iDiallo.com</description>
-    </item>
-    <item>
-      <title>Package Managers Need to Cool Down</title>
-      <link>https://nesbitt.io/2026/03/04/package-managers-need-to-cool-down.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/03/04/package-managers-need-to-cool-down.html</guid>
-      <pubDate>Wed, 04 Mar 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Maybe there’s a pattern here?</title>
-      <link>https://dynomight.net/pattern/</link>
-      <guid isPermaLink="true">https://dynomight.net/pattern/</guid>
-      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
-    </item>
-    <item>
-      <title>Quoting Donald Knuth</title>
-      <link>https://simonwillison.net/2026/Mar/3/donald-knuth/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/3/donald-knuth/#atom-everything</guid>
-      <pubDate>Tue, 03 Mar 2026 23:59:04 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Gemini 3.1 Flash-Lite</title>
-      <link>https://simonwillison.net/2026/Mar/3/gemini-31-flash-lite/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/3/gemini-31-flash-lite/#atom-everything</guid>
-      <pubDate>Tue, 03 Mar 2026 21:53:54 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>A soft-landing manual for the second gilded age</title>
-      <link>https://www.joanwestenberg.com/a-soft-landing-manual-for-the-second-gilded-age/</link>
-      <guid isPermaLink="true">https://www.joanwestenberg.com/a-soft-landing-manual-for-the-second-gilded-age/</guid>
-      <pubDate>Tue, 03 Mar 2026 21:06:34 +0000</pubDate>
-      <description>Westenberg.</description>
-    </item>
-    <item>
-      <title>Apple Announces Updated Studio Display and All-New Studio Display XDR</title>
-      <link>https://www.apple.com/newsroom/2026/03/apple-unveils-new-studio-display-and-all-new-studio-display-xdr/</link>
-      <guid isPermaLink="true">https://www.apple.com/newsroom/2026/03/apple-unveils-new-studio-display-and-all-new-studio-display-xdr/</guid>
-      <pubDate>Tue, 03 Mar 2026 20:25:07 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>New MacBook Air With M5</title>
-      <link>https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/</link>
-      <guid isPermaLink="true">https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/</guid>
-      <pubDate>Tue, 03 Mar 2026 20:08:42 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Apple Might Have Prematurely Leaked the Name ‘MacBook Neo’</title>
-      <link>https://www.macrumors.com/2026/03/03/apple-accidentally-leaks-macbook-neo/</link>
-      <guid isPermaLink="true">https://www.macrumors.com/2026/03/03/apple-accidentally-leaks-macbook-neo/</guid>
-      <pubDate>Tue, 03 Mar 2026 19:59:43 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Apple Introduces MacBook Pro Models With M5 Pro and M5 Max Chips</title>
-      <link>https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/</link>
-      <guid isPermaLink="true">https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/</guid>
-      <pubDate>Tue, 03 Mar 2026 19:01:28 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>

@@ -208,11 +208,11 @@ Last Updated: Thursday, March 12th, 2026, 9:27:02 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [I’m glad the Anthropic fight is happening now](https://www.dwarkesh.com/p/dow-anthropic) — *Dwarkesh Podcast* `03-11`
-- [Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker](https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/) — *Krebs on Security* `03-11`
-- [Quoting John Carmack](https://simonwillison.net/2026/Mar/11/john-carmack/#atom-everything) — *Simon Willison's Weblog* `03-11`
-- [Game Review: It Takes Two ★★★★★](https://shkspr.mobi/blog/2026/03/game-review-it-takes-two/) — *Terence Eden’s Blog* `03-11`
-- [Where did you think the training data was coming from?](https://idiallo.com/blog/where-did-the-training-data-come-from-meta-ai-rayban-glasses?src=feed) — *iDiallo.com* `03-11`
+- [Jason Snell Is on Jeopardy Next Week](https://sixcolors.com/post/2026/03/ill-take-beach-reading-for-1000-ken/) — *Daring Fireball* `03-12`
+- [Another One From the Archive: ‘Web Kit’ vs. ‘WebKit’](https://daringfireball.net/2006/05/web_kit_vs_webkit) — *Daring Fireball* `03-12`
+- [★ Modifier Key Order for Keyboard Shortcuts](https://daringfireball.net/2026/03/modifier_key_order_for_keyboard_shortcuts) — *Daring Fireball* `03-12`
+- [Git Checkout, Reset and Restore](https://susam.net/git-checkout-reset-restore.html) — *Susam Pal* `03-12`
+- [Apple Has Changed Several Key Cap Labels From Words to Glyphs on Its Latest MacBook Keyboards](https://x.com/ClassicII_MrMac/status/2028869838870069447) — *Daring Fireball* `03-11`
 <!--BLOG_RADAR:end-->
 
 ---
