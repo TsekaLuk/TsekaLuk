@@ -208,11 +208,11 @@ Last Updated: Friday, March 13th, 2026, 2:44:45 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Historic Energy Price Cap Data (FOI success!)](https://shkspr.mobi/blog/2026/03/historic-energy-price-cap-data-foi-success/) — *Terence Eden’s Blog* `03-12`
-- [The Elusive Cost Savings of the Prefabricated Home](https://www.construction-physics.com/p/the-elusive-cost-savings-of-the-prefabricated) — *Construction Physics* `03-12`
-- [Reviewing ENISA’s Package Manager Advisory](https://nesbitt.io/2026/03/12/reviewing-enisas-package-manager-advisory.html) — *Andrew Nesbitt* `03-12`
-- [Introduction to SQLAlchemy 2 In Practice](https://blog.miguelgrinberg.com/post/introduction-to-sqlalchemy-2-in-practice) — *Miguel Grinberg's Blog* `03-12`
-- [Jason Snell Is on Jeopardy Next Week](https://sixcolors.com/post/2026/03/ill-take-beach-reading-for-1000-ken/) — *Daring Fireball* `03-12`
+- [MacBook Neo Teardown](https://www.youtube.com/watch?v=5k7Lv7f-5CQ) — *Daring Fireball* `03-12`
+- [Can the MacBook Neo replace my M4 Air?](https://www.jeffgeerling.com/blog/2026/macbook-neo-replace-m4-air/) — *Jeff Geerling* `03-12`
+- [Inverse cosine](https://www.johndcook.com/blog/2026/03/12/arccos/) — *John D. Cook* `03-12`
+- [Quoting Les Orchard](https://simonwillison.net/2026/Mar/12/les-orchard/#atom-everything) — *Simon Willison's Weblog* `03-12`
+- [Software Proprioception](https://unsung.aresluna.org/software-proprioception/) — *Daring Fireball* `03-12`
 <!--BLOG_RADAR:end-->
 
 ---
