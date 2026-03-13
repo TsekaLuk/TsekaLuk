@@ -208,11 +208,11 @@ Last Updated: Saturday, March 14th, 2026, 2:34:24 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [An odd font rendering bug in Firefox and Safari](https://shkspr.mobi/blog/2026/03/an-odd-font-rendering-bug-in-firefox-and-safari/) — *Terence Eden’s Blog* `03-13`
-- [It's Work that taught me how to think](https://idiallo.com/blog/work-taught-me-how-to-think?src=feed) — *iDiallo.com* `03-13`
-- [Btw: Software, turnkey, beheerd, as a service](https://berthub.eu/articles/posts/software-turnkey-as-a-service/) — *Bert Hubert's writings* `03-13`
-- [Forge](https://nesbitt.io/2026/03/13/forge.html) — *Andrew Nesbitt* `03-13`
-- [Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations](https://simonwillison.net/2026/Mar/13/liquid/#atom-everything) — *Simon Willison's Weblog* `03-13`
+- [1M context is now generally available for Opus 4.6 and Sonnet 4.6](https://simonwillison.net/2026/Mar/13/1m-context/#atom-everything) — *Simon Willison's Weblog* `03-13`
+- [This Week on The Analog Antiquarian](https://www.filfre.net/2026/03/this-week-on-the-analog-antiquarian/) — *The Digital Antiquarian* `03-13`
+- [Quoting Craig Mod](https://simonwillison.net/2026/Mar/13/craig-mod/#atom-everything) — *Simon Willison's Weblog* `03-13`
+- [NYT: ‘Meta Delays Rollout of New AI Model After Performance Concerns’](https://www.nytimes.com/2026/03/12/technology/meta-avocado-ai-model-delayed.html?unlocked_article_code=1.S1A.vI_6.4j717gwtFem0) — *Daring Fireball* `03-13`
+- [Sports Programming Accounts for Almost 30 Percent of All Ad-Supported TV Viewing](https://deadline.com/2026/03/sports-tv-viewing-advertising-nielsen-1236750721/) — *Daring Fireball* `03-13`
 <!--BLOG_RADAR:end-->
 
 ---
