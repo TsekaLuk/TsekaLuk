@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 13 Mar 2026 07:04:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 13:15:52 +0000</lastBuildDate>
+    <item>
+      <title>An odd font rendering bug in Firefox and Safari</title>
+      <link>https://shkspr.mobi/blog/2026/03/an-odd-font-rendering-bug-in-firefox-and-safari/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/03/an-odd-font-rendering-bug-in-firefox-and-safari/</guid>
+      <pubDate>Fri, 13 Mar 2026 12:34:09 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>It's Work that taught me how to think</title>
+      <link>https://idiallo.com/blog/work-taught-me-how-to-think?src=feed</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/work-taught-me-how-to-think?src=feed</guid>
+      <pubDate>Fri, 13 Mar 2026 12:00:00 +0000</pubDate>
+      <description>iDiallo.com</description>
+    </item>
+    <item>
+      <title>Btw: Software, turnkey, beheerd, as a service</title>
+      <link>https://berthub.eu/articles/posts/software-turnkey-as-a-service/</link>
+      <guid isPermaLink="true">https://berthub.eu/articles/posts/software-turnkey-as-a-service/</guid>
+      <pubDate>Fri, 13 Mar 2026 11:43:53 +0000</pubDate>
+      <description>Bert Hubert's writings</description>
+    </item>
+    <item>
+      <title>Forge</title>
+      <link>https://nesbitt.io/2026/03/13/forge.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/03/13/forge.html</guid>
+      <pubDate>Fri, 13 Mar 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
     <item>
       <title>Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations</title>
       <link>https://simonwillison.net/2026/Mar/13/liquid/#atom-everything</link>
@@ -32,6 +60,13 @@
       <guid isPermaLink="true">https://mahdi.jp/apps/accents</guid>
       <pubDate>Fri, 13 Mar 2026 00:18:06 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>What do coders do after AI?</title>
+      <link>https://anildash.com/2026/03/13/coders-after-ai/</link>
+      <guid isPermaLink="true">https://anildash.com/2026/03/13/coders-after-ai/</guid>
+      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Anil Dash</description>
     </item>
     <item>
       <title>Apple’s Platform Security Guide Adds a Brief Note on the MacBook Neo’s On-Screen Camera Indicator</title>
@@ -153,18 +188,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>The modern formatting addiction in writing</title>
-      <link>https://dynomight.net/formatting/</link>
-      <guid isPermaLink="true">https://dynomight.net/formatting/</guid>
-      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
-    </item>
-    <item>
       <title>The web in 1000 lines of C</title>
       <link>https://maurycyz.com/projects/tinyweb/</link>
       <guid isPermaLink="true">https://maurycyz.com/projects/tinyweb/</guid>
       <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
       <description>Maurycy's Blog</description>
+    </item>
+    <item>
+      <title>The modern formatting addiction in writing</title>
+      <link>https://dynomight.net/formatting/</link>
+      <guid isPermaLink="true">https://dynomight.net/formatting/</guid>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>How I use generative AI on this blog</title>
@@ -699,18 +734,18 @@
       <description>Andrew Nesbitt</description>
     </item>
     <item>
-      <title>Remove annoying banners</title>
-      <link>https://maurycyz.com/projects/fixsite/</link>
-      <guid isPermaLink="true">https://maurycyz.com/projects/fixsite/</guid>
-      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
-    </item>
-    <item>
       <title>Using Clankers to Help Me Process Surgery</title>
       <link>https://xeiaso.net/blog/2026/surgery-recovery-clankers/</link>
       <guid isPermaLink="true">https://xeiaso.net/blog/2026/surgery-recovery-clankers/</guid>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>Remove annoying banners</title>
+      <link>https://maurycyz.com/projects/fixsite/</link>
+      <guid isPermaLink="true">https://maurycyz.com/projects/fixsite/</guid>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
     </item>
     <item>
       <title>HN Skins 0.3.0</title>
@@ -809,41 +844,6 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260306-00/?p=112116</guid>
       <pubDate>Fri, 06 Mar 2026 15:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>The MacBook Neo’s Price, Looking to the Past and Future</title>
-      <link>https://x.com/ethan_is_online/status/2029331836137291941?s=42</link>
-      <guid isPermaLink="true">https://x.com/ethan_is_online/status/2029331836137291941?s=42</guid>
-      <pubDate>Fri, 06 Mar 2026 14:50:39 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>‘Never the Same Game Twice’</title>
-      <link>https://johnmccoy.org/2026/03/05/never-the-same-game-twice/</link>
-      <guid isPermaLink="true">https://johnmccoy.org/2026/03/05/never-the-same-game-twice/</guid>
-      <pubDate>Fri, 06 Mar 2026 14:44:02 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Another Steve Jobs Quote on Lower-Priced Macs</title>
-      <link>https://technologizer.com/2008/10/22/the-case-for-a-mac-netbook/index.html</link>
-      <guid isPermaLink="true">https://technologizer.com/2008/10/22/the-case-for-a-mac-netbook/index.html</guid>
-      <pubDate>Fri, 06 Mar 2026 14:22:21 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Lijstduwer, Felipe Rodriquez Award, BNR, NRC, btw en meer</title>
-      <link>https://berthub.eu/articles/posts/lijstduwer-fra-award-bnr-nrc-btw-meer/</link>
-      <guid isPermaLink="true">https://berthub.eu/articles/posts/lijstduwer-fra-award-bnr-nrc-btw-meer/</guid>
-      <pubDate>Fri, 06 Mar 2026 13:08:09 +0000</pubDate>
-      <description>Bert Hubert's writings</description>
-    </item>
-    <item>
-      <title>A History of Operation Breakthrough</title>
-      <link>https://www.construction-physics.com/p/a-history-of-operation-breakthrough</link>
-      <guid isPermaLink="true">https://www.construction-physics.com/p/a-history-of-operation-breakthrough</guid>
-      <pubDate>Fri, 06 Mar 2026 13:03:16 +0000</pubDate>
-      <description>Construction Physics</description>
     </item>
   </channel>
 </rss>

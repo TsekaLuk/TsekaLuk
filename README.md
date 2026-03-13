@@ -208,11 +208,11 @@ Last Updated: Friday, March 13th, 2026, 8:44:52 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [An odd font rendering bug in Firefox and Safari](https://shkspr.mobi/blog/2026/03/an-odd-font-rendering-bug-in-firefox-and-safari/) — *Terence Eden’s Blog* `03-13`
+- [It's Work that taught me how to think](https://idiallo.com/blog/work-taught-me-how-to-think?src=feed) — *iDiallo.com* `03-13`
+- [Btw: Software, turnkey, beheerd, as a service](https://berthub.eu/articles/posts/software-turnkey-as-a-service/) — *Bert Hubert's writings* `03-13`
+- [Forge](https://nesbitt.io/2026/03/13/forge.html) — *Andrew Nesbitt* `03-13`
 - [Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations](https://simonwillison.net/2026/Mar/13/liquid/#atom-everything) — *Simon Willison's Weblog* `03-13`
-- [Everything's Casino](https://www.joanwestenberg.com/everythings-casino/) — *Westenberg.* `03-13`
-- [Pluralistic: Three more AI psychoses (12 Mar 2026)](https://pluralistic.net/2026/03/12/normal-technology/) — *Pluralistic: Daily links from Cory Doctorow* `03-13`
-- [Accents](https://mahdi.jp/apps/accents) — *Daring Fireball* `03-13`
-- [Apple’s Platform Security Guide Adds a Brief Note on the MacBook Neo’s On-Screen Camera Indicator](https://support.apple.com/guide/security/mac-on-screen-camera-indicator-light-sec75a2d237d/1/web/1) — *Daring Fireball* `03-12`
 <!--BLOG_RADAR:end-->
 
 ---
