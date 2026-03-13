@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 13 Mar 2026 02:41:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 07:04:40 +0000</lastBuildDate>
+    <item>
+      <title>Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations</title>
+      <link>https://simonwillison.net/2026/Mar/13/liquid/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/13/liquid/#atom-everything</guid>
+      <pubDate>Fri, 13 Mar 2026 03:44:34 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Everything's Casino</title>
       <link>https://www.joanwestenberg.com/everythings-casino/</link>
@@ -125,13 +132,6 @@
       <description>Miguel Grinberg's Blog</description>
     </item>
     <item>
-      <title>UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/UEFIOnlyBootHasGoneOkay</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/UEFIOnlyBootHasGoneOkay</guid>
-      <pubDate>Thu, 12 Mar 2026 01:24:33 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
       <title>Jason Snell Is on Jeopardy Next Week</title>
       <link>https://sixcolors.com/post/2026/03/ill-take-beach-reading-for-1000-ken/</link>
       <guid isPermaLink="true">https://sixcolors.com/post/2026/03/ill-take-beach-reading-for-1000-ken/</guid>
@@ -153,6 +153,13 @@
       <description>Daring Fireball</description>
     </item>
     <item>
+      <title>The modern formatting addiction in writing</title>
+      <link>https://dynomight.net/formatting/</link>
+      <guid isPermaLink="true">https://dynomight.net/formatting/</guid>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
+    </item>
+    <item>
       <title>The web in 1000 lines of C</title>
       <link>https://maurycyz.com/projects/tinyweb/</link>
       <guid isPermaLink="true">https://maurycyz.com/projects/tinyweb/</guid>
@@ -167,13 +174,6 @@
       <description>Evan Hahn (dot com)</description>
     </item>
     <item>
-      <title>Git Checkout, Reset and Restore</title>
-      <link>https://susam.net/git-checkout-reset-restore.html</link>
-      <guid isPermaLink="true">https://susam.net/git-checkout-reset-restore.html</guid>
-      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Susam Pal</description>
-    </item>
-    <item>
       <title>Windows 11 after two decades of macOS: okay, but also awful</title>
       <link>https://rakhim.exotext.com/windows-11-experience</link>
       <guid isPermaLink="true">https://rakhim.exotext.com/windows-11-experience</guid>
@@ -181,18 +181,18 @@
       <description>Rakhim's blog</description>
     </item>
     <item>
+      <title>Git Checkout, Reset and Restore</title>
+      <link>https://susam.net/git-checkout-reset-restore.html</link>
+      <guid isPermaLink="true">https://susam.net/git-checkout-reset-restore.html</guid>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Susam Pal</description>
+    </item>
+    <item>
       <title>On Making</title>
       <link>http://beej.us/blog/data/ai-making/</link>
       <guid isPermaLink="true">http://beej.us/blog/data/ai-making/</guid>
       <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
       <description>Beej's Bit Bucket</description>
-    </item>
-    <item>
-      <title>The modern formatting addiction in writing</title>
-      <link>https://dynomight.net/formatting/</link>
-      <guid isPermaLink="true">https://dynomight.net/formatting/</guid>
-      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>Apple Has Changed Several Key Cap Labels From Words to Glyphs on Its Latest U.S. MacBook Keyboards</title>
@@ -298,13 +298,6 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/03/11/git-pkgs-actions.html</guid>
       <pubDate>Wed, 11 Mar 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>The story of one of my worst programming failures</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/programming/DevelopedTooSmallFailure</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/programming/DevelopedTooSmallFailure</guid>
-      <pubDate>Wed, 11 Mar 2026 01:58:42 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>The Server Older than my Kids!</title>
@@ -426,13 +419,6 @@
       <description>matduggan.com</description>
     </item>
     <item>
-      <title>Power glitches can leave computer hardware in weird states</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/tech/PowerGlitchesWeirdHardwareStates</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/tech/PowerGlitchesWeirdHardwareStates</guid>
-      <pubDate>Tue, 10 Mar 2026 03:58:36 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
       <title>Weekly Update 494</title>
       <link>https://www.troyhunt.com/weekly-update-494/</link>
       <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-494/</guid>
@@ -552,13 +538,6 @@
       <description>Andrew Nesbitt</description>
     </item>
     <item>
-      <title>If there are URLs in your HTTP User-Agent, they should exist and work</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/web/UserAgentURLsShouldExist</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/web/UserAgentURLsShouldExist</guid>
-      <pubDate>Mon, 09 Mar 2026 02:18:01 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
       <title>Vibe Coding Trip Report: Making a sponsor panel</title>
       <link>https://xeiaso.net/blog/2026/vibe-coding-sponsor-panel/</link>
       <guid isPermaLink="true">https://xeiaso.net/blog/2026/vibe-coding-sponsor-panel/</guid>
@@ -657,13 +636,6 @@
       <description>Andrew Nesbitt</description>
     </item>
     <item>
-      <title>Restricting IP address access to specific ports in eBPF: a sketch</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/EBPFPerPortIPRestrictions</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/EBPFPerPortIPRestrictions</guid>
-      <pubDate>Sun, 08 Mar 2026 03:04:11 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
       <title>Some Thorns Have Roses</title>
       <link>https://xeiaso.net/blog/2026/some-thorns-have-roses/</link>
       <guid isPermaLink="true">https://xeiaso.net/blog/2026/some-thorns-have-roses/</guid>
@@ -727,11 +699,11 @@
       <description>Andrew Nesbitt</description>
     </item>
     <item>
-      <title>Your terminal program has to be where xterm's ziconbeep feature is handled</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/unix/XTermHasToDoZiconbeep</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/unix/XTermHasToDoZiconbeep</guid>
-      <pubDate>Sat, 07 Mar 2026 03:26:47 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
+      <title>Remove annoying banners</title>
+      <link>https://maurycyz.com/projects/fixsite/</link>
+      <guid isPermaLink="true">https://maurycyz.com/projects/fixsite/</guid>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
     </item>
     <item>
       <title>Using Clankers to Help Me Process Surgery</title>
@@ -739,13 +711,6 @@
       <guid isPermaLink="true">https://xeiaso.net/blog/2026/surgery-recovery-clankers/</guid>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
-    </item>
-    <item>
-      <title>Remove annoying banners</title>
-      <link>https://maurycyz.com/projects/fixsite/</link>
-      <guid isPermaLink="true">https://maurycyz.com/projects/fixsite/</guid>
-      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
     </item>
     <item>
       <title>HN Skins 0.3.0</title>
@@ -844,6 +809,41 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260306-00/?p=112116</guid>
       <pubDate>Fri, 06 Mar 2026 15:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>The MacBook Neo’s Price, Looking to the Past and Future</title>
+      <link>https://x.com/ethan_is_online/status/2029331836137291941?s=42</link>
+      <guid isPermaLink="true">https://x.com/ethan_is_online/status/2029331836137291941?s=42</guid>
+      <pubDate>Fri, 06 Mar 2026 14:50:39 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>‘Never the Same Game Twice’</title>
+      <link>https://johnmccoy.org/2026/03/05/never-the-same-game-twice/</link>
+      <guid isPermaLink="true">https://johnmccoy.org/2026/03/05/never-the-same-game-twice/</guid>
+      <pubDate>Fri, 06 Mar 2026 14:44:02 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Another Steve Jobs Quote on Lower-Priced Macs</title>
+      <link>https://technologizer.com/2008/10/22/the-case-for-a-mac-netbook/index.html</link>
+      <guid isPermaLink="true">https://technologizer.com/2008/10/22/the-case-for-a-mac-netbook/index.html</guid>
+      <pubDate>Fri, 06 Mar 2026 14:22:21 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Lijstduwer, Felipe Rodriquez Award, BNR, NRC, btw en meer</title>
+      <link>https://berthub.eu/articles/posts/lijstduwer-fra-award-bnr-nrc-btw-meer/</link>
+      <guid isPermaLink="true">https://berthub.eu/articles/posts/lijstduwer-fra-award-bnr-nrc-btw-meer/</guid>
+      <pubDate>Fri, 06 Mar 2026 13:08:09 +0000</pubDate>
+      <description>Bert Hubert's writings</description>
+    </item>
+    <item>
+      <title>A History of Operation Breakthrough</title>
+      <link>https://www.construction-physics.com/p/a-history-of-operation-breakthrough</link>
+      <guid isPermaLink="true">https://www.construction-physics.com/p/a-history-of-operation-breakthrough</guid>
+      <pubDate>Fri, 06 Mar 2026 13:03:16 +0000</pubDate>
+      <description>Construction Physics</description>
     </item>
   </channel>
 </rss>
