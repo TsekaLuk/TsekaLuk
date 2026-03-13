@@ -4,7 +4,56 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 12 Mar 2026 19:03:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 02:41:41 +0000</lastBuildDate>
+    <item>
+      <title>Everything's Casino</title>
+      <link>https://www.joanwestenberg.com/everythings-casino/</link>
+      <guid isPermaLink="true">https://www.joanwestenberg.com/everythings-casino/</guid>
+      <pubDate>Fri, 13 Mar 2026 02:38:03 +0000</pubDate>
+      <description>Westenberg.</description>
+    </item>
+    <item>
+      <title>Pluralistic: Three more AI psychoses (12 Mar 2026)</title>
+      <link>https://pluralistic.net/2026/03/12/normal-technology/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/03/12/normal-technology/</guid>
+      <pubDate>Fri, 13 Mar 2026 02:17:20 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Accents</title>
+      <link>https://mahdi.jp/apps/accents</link>
+      <guid isPermaLink="true">https://mahdi.jp/apps/accents</guid>
+      <pubDate>Fri, 13 Mar 2026 00:18:06 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Apple’s Platform Security Guide Adds a Brief Note on the MacBook Neo’s On-Screen Camera Indicator</title>
+      <link>https://support.apple.com/guide/security/mac-on-screen-camera-indicator-light-sec75a2d237d/1/web/1</link>
+      <guid isPermaLink="true">https://support.apple.com/guide/security/mac-on-screen-camera-indicator-light-sec75a2d237d/1/web/1</guid>
+      <pubDate>Thu, 12 Mar 2026 23:48:59 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Eddy Cue Says F1 on Apple TV Opened to Increased Viewership</title>
+      <link>https://www.hollywoodreporter.com/tv/tv-news/apple-tv-formula-1-ratings-eddy-cue-strong-start-1236529359/</link>
+      <guid isPermaLink="true">https://www.hollywoodreporter.com/tv/tv-news/apple-tv-formula-1-ratings-eddy-cue-strong-start-1236529359/</guid>
+      <pubDate>Thu, 12 Mar 2026 23:41:07 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>MALUS - Clean Room as a Service</title>
+      <link>https://simonwillison.net/2026/Mar/12/malus/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/12/malus/#atom-everything</guid>
+      <pubDate>Thu, 12 Mar 2026 20:08:55 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Coding After Coders: The End of Computer Programming as We Know It</title>
+      <link>https://simonwillison.net/2026/Mar/12/coding-after-coders/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/12/coding-after-coders/#atom-everything</guid>
+      <pubDate>Thu, 12 Mar 2026 19:23:44 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>MacBook Neo Teardown</title>
       <link>https://www.youtube.com/watch?v=5k7Lv7f-5CQ</link>
@@ -41,6 +90,13 @@
       <description>Daring Fireball</description>
     </item>
     <item>
+      <title>Windows stack limit checking retrospective: x86-32, also known as i386</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260312-00/?p=112136</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260312-00/?p=112136</guid>
+      <pubDate>Thu, 12 Mar 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
+    <item>
       <title>Historic Energy Price Cap Data (FOI success!)</title>
       <link>https://shkspr.mobi/blog/2026/03/historic-energy-price-cap-data-foi-success/</link>
       <guid isPermaLink="true">https://shkspr.mobi/blog/2026/03/historic-energy-price-cap-data-foi-success/</guid>
@@ -69,6 +125,13 @@
       <description>Miguel Grinberg's Blog</description>
     </item>
     <item>
+      <title>UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/UEFIOnlyBootHasGoneOkay</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/UEFIOnlyBootHasGoneOkay</guid>
+      <pubDate>Thu, 12 Mar 2026 01:24:33 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
       <title>Jason Snell Is on Jeopardy Next Week</title>
       <link>https://sixcolors.com/post/2026/03/ill-take-beach-reading-for-1000-ken/</link>
       <guid isPermaLink="true">https://sixcolors.com/post/2026/03/ill-take-beach-reading-for-1000-ken/</guid>
@@ -90,11 +153,11 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>The modern formatting addiction in writing</title>
-      <link>https://dynomight.net/formatting/</link>
-      <guid isPermaLink="true">https://dynomight.net/formatting/</guid>
+      <title>The web in 1000 lines of C</title>
+      <link>https://maurycyz.com/projects/tinyweb/</link>
+      <guid isPermaLink="true">https://maurycyz.com/projects/tinyweb/</guid>
       <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
+      <description>Maurycy's Blog</description>
     </item>
     <item>
       <title>How I use generative AI on this blog</title>
@@ -123,6 +186,13 @@
       <guid isPermaLink="true">http://beej.us/blog/data/ai-making/</guid>
       <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
       <description>Beej's Bit Bucket</description>
+    </item>
+    <item>
+      <title>The modern formatting addiction in writing</title>
+      <link>https://dynomight.net/formatting/</link>
+      <guid isPermaLink="true">https://dynomight.net/formatting/</guid>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>Apple Has Changed Several Key Cap Labels From Words to Glyphs on Its Latest U.S. MacBook Keyboards</title>
@@ -228,6 +298,13 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/03/11/git-pkgs-actions.html</guid>
       <pubDate>Wed, 11 Mar 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>The story of one of my worst programming failures</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/programming/DevelopedTooSmallFailure</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/programming/DevelopedTooSmallFailure</guid>
+      <pubDate>Wed, 11 Mar 2026 01:58:42 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>The Server Older than my Kids!</title>
@@ -349,6 +426,13 @@
       <description>matduggan.com</description>
     </item>
     <item>
+      <title>Power glitches can leave computer hardware in weird states</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/tech/PowerGlitchesWeirdHardwareStates</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/tech/PowerGlitchesWeirdHardwareStates</guid>
+      <pubDate>Tue, 10 Mar 2026 03:58:36 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
       <title>Weekly Update 494</title>
       <link>https://www.troyhunt.com/weekly-update-494/</link>
       <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-494/</guid>
@@ -468,6 +552,13 @@
       <description>Andrew Nesbitt</description>
     </item>
     <item>
+      <title>If there are URLs in your HTTP User-Agent, they should exist and work</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/web/UserAgentURLsShouldExist</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/web/UserAgentURLsShouldExist</guid>
+      <pubDate>Mon, 09 Mar 2026 02:18:01 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
       <title>Vibe Coding Trip Report: Making a sponsor panel</title>
       <link>https://xeiaso.net/blog/2026/vibe-coding-sponsor-panel/</link>
       <guid isPermaLink="true">https://xeiaso.net/blog/2026/vibe-coding-sponsor-panel/</guid>
@@ -566,6 +657,13 @@
       <description>Andrew Nesbitt</description>
     </item>
     <item>
+      <title>Restricting IP address access to specific ports in eBPF: a sketch</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/EBPFPerPortIPRestrictions</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/EBPFPerPortIPRestrictions</guid>
+      <pubDate>Sun, 08 Mar 2026 03:04:11 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
       <title>Some Thorns Have Roses</title>
       <link>https://xeiaso.net/blog/2026/some-thorns-have-roses/</link>
       <guid isPermaLink="true">https://xeiaso.net/blog/2026/some-thorns-have-roses/</guid>
@@ -629,11 +727,11 @@
       <description>Andrew Nesbitt</description>
     </item>
     <item>
-      <title>Remove annoying banners</title>
-      <link>https://maurycyz.com/projects/fixsite/</link>
-      <guid isPermaLink="true">https://maurycyz.com/projects/fixsite/</guid>
-      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
+      <title>Your terminal program has to be where xterm's ziconbeep feature is handled</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/unix/XTermHasToDoZiconbeep</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/unix/XTermHasToDoZiconbeep</guid>
+      <pubDate>Sat, 07 Mar 2026 03:26:47 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>Using Clankers to Help Me Process Surgery</title>
@@ -641,6 +739,13 @@
       <guid isPermaLink="true">https://xeiaso.net/blog/2026/surgery-recovery-clankers/</guid>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>Remove annoying banners</title>
+      <link>https://maurycyz.com/projects/fixsite/</link>
+      <guid isPermaLink="true">https://maurycyz.com/projects/fixsite/</guid>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
     </item>
     <item>
       <title>HN Skins 0.3.0</title>
@@ -739,111 +844,6 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260306-00/?p=112116</guid>
       <pubDate>Fri, 06 Mar 2026 15:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>The MacBook Neo’s Price, Looking to the Past and Future</title>
-      <link>https://x.com/ethan_is_online/status/2029331836137291941?s=42</link>
-      <guid isPermaLink="true">https://x.com/ethan_is_online/status/2029331836137291941?s=42</guid>
-      <pubDate>Fri, 06 Mar 2026 14:50:39 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>‘Never the Same Game Twice’</title>
-      <link>https://johnmccoy.org/2026/03/05/never-the-same-game-twice/</link>
-      <guid isPermaLink="true">https://johnmccoy.org/2026/03/05/never-the-same-game-twice/</guid>
-      <pubDate>Fri, 06 Mar 2026 14:44:02 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Another Steve Jobs Quote on Lower-Priced Macs</title>
-      <link>https://technologizer.com/2008/10/22/the-case-for-a-mac-netbook/index.html</link>
-      <guid isPermaLink="true">https://technologizer.com/2008/10/22/the-case-for-a-mac-netbook/index.html</guid>
-      <pubDate>Fri, 06 Mar 2026 14:22:21 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Lijstduwer, Felipe Rodriquez Award, BNR, NRC, btw en meer</title>
-      <link>https://berthub.eu/articles/posts/lijstduwer-fra-award-bnr-nrc-btw-meer/</link>
-      <guid isPermaLink="true">https://berthub.eu/articles/posts/lijstduwer-fra-award-bnr-nrc-btw-meer/</guid>
-      <pubDate>Fri, 06 Mar 2026 13:08:09 +0000</pubDate>
-      <description>Bert Hubert's writings</description>
-    </item>
-    <item>
-      <title>A History of Operation Breakthrough</title>
-      <link>https://www.construction-physics.com/p/a-history-of-operation-breakthrough</link>
-      <guid isPermaLink="true">https://www.construction-physics.com/p/a-history-of-operation-breakthrough</guid>
-      <pubDate>Fri, 06 Mar 2026 13:03:16 +0000</pubDate>
-      <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>Firmware Update for the Treedix TRX5-0816 Cable Tester</title>
-      <link>https://shkspr.mobi/blog/2026/03/firmware-update-for-the-treedix-trx5-0816-cable-tester/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/03/firmware-update-for-the-treedix-trx5-0816-cable-tester/</guid>
-      <pubDate>Fri, 06 Mar 2026 12:34:43 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Boy I was wrong about the Fediverse</title>
-      <link>https://matduggan.com/boy-i-was-wrong-about-the-fediverse/</link>
-      <guid isPermaLink="true">https://matduggan.com/boy-i-was-wrong-about-the-fediverse/</guid>
-      <pubDate>Fri, 06 Mar 2026 12:21:23 +0000</pubDate>
-      <description>matduggan.com</description>
-    </item>
-    <item>
-      <title>It Depends</title>
-      <link>https://idiallo.com/blog/it-depends-experts-never-give-straight-answers?src=feed</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/it-depends-experts-never-give-straight-answers?src=feed</guid>
-      <pubDate>Fri, 06 Mar 2026 12:00:00 +0000</pubDate>
-      <description>iDiallo.com</description>
-    </item>
-    <item>
-      <title>.gitlocal</title>
-      <link>https://nesbitt.io/2026/03/06/gitlocal.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/03/06/gitlocal.html</guid>
-      <pubDate>Fri, 06 Mar 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Agentic manual testing</title>
-      <link>https://simonwillison.net/guides/agentic-engineering-patterns/agentic-manual-testing/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/guides/agentic-engineering-patterns/agentic-manual-testing/#atom-everything</guid>
-      <pubDate>Fri, 06 Mar 2026 05:43:54 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Clinejection — Compromising Cline's Production Releases just by Prompting an Issue Triager</title>
-      <link>https://simonwillison.net/2026/Mar/6/clinejection/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/6/clinejection/#atom-everything</guid>
-      <pubDate>Fri, 06 Mar 2026 02:39:04 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>I don't know if my job will still exist in ten years</title>
-      <link>https://seangoedecke.com/will-my-job-still-exist/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/will-my-job-still-exist/</guid>
-      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>Advice for staying in the hospital for a week</title>
-      <link>https://xeiaso.net/blog/2026/hospital-advice/</link>
-      <guid isPermaLink="true">https://xeiaso.net/blog/2026/hospital-advice/</guid>
-      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
-      <title>Introducing GPT‑5.4</title>
-      <link>https://simonwillison.net/2026/Mar/5/introducing-gpt54/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/5/introducing-gpt54/#atom-everything</guid>
-      <pubDate>Thu, 05 Mar 2026 23:56:09 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Pluralistic: Blowtorching the frog (05 Mar 2026) executive-dysfunction</title>
-      <link>https://pluralistic.net/2026/03/05/executive-dysfunction/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/03/05/executive-dysfunction/</guid>
-      <pubDate>Thu, 05 Mar 2026 19:31:30 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
     </item>
   </channel>
 </rss>

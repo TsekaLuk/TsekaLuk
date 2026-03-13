@@ -208,11 +208,11 @@ Last Updated: Friday, March 13th, 2026, 9:42:12 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [MacBook Neo Teardown](https://www.youtube.com/watch?v=5k7Lv7f-5CQ) — *Daring Fireball* `03-12`
-- [Can the MacBook Neo replace my M4 Air?](https://www.jeffgeerling.com/blog/2026/macbook-neo-replace-m4-air/) — *Jeff Geerling* `03-12`
-- [Inverse cosine](https://www.johndcook.com/blog/2026/03/12/arccos/) — *John D. Cook* `03-12`
-- [Quoting Les Orchard](https://simonwillison.net/2026/Mar/12/les-orchard/#atom-everything) — *Simon Willison's Weblog* `03-12`
-- [Software Proprioception](https://unsung.aresluna.org/software-proprioception/) — *Daring Fireball* `03-12`
+- [Everything's Casino](https://www.joanwestenberg.com/everythings-casino/) — *Westenberg.* `03-13`
+- [Pluralistic: Three more AI psychoses (12 Mar 2026)](https://pluralistic.net/2026/03/12/normal-technology/) — *Pluralistic: Daily links from Cory Doctorow* `03-13`
+- [Accents](https://mahdi.jp/apps/accents) — *Daring Fireball* `03-13`
+- [Apple’s Platform Security Guide Adds a Brief Note on the MacBook Neo’s On-Screen Camera Indicator](https://support.apple.com/guide/security/mac-on-screen-camera-indicator-light-sec75a2d237d/1/web/1) — *Daring Fireball* `03-12`
+- [Eddy Cue Says F1 on Apple TV Opened to Increased Viewership](https://www.hollywoodreporter.com/tv/tv-news/apple-tv-formula-1-ratings-eddy-cue-strong-start-1236529359/) — *Daring Fireball* `03-12`
 <!--BLOG_RADAR:end-->
 
 ---
