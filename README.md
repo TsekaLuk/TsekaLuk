@@ -208,11 +208,11 @@ Last Updated: Saturday, March 14th, 2026, 8:38:22 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Last-Run Syndication](https://feed.tedium.co/link/15204/17299183/television-first-run-syndication-decline) — *Tedium: The Dull Side of the Internet.* `03-14`
-- [Big tech engineers need big egos](https://seangoedecke.com/big-tech-needs-big-egos/) — *seangoedecke.com RSS feed* `03-14`
-- [Tim Cook: ‘50 Years of Thinking Different’](https://www.apple.com/50-years-of-thinking-different/) — *Daring Fireball* `03-13`
-- [1M context is now generally available for Opus 4.6 and Sonnet 4.6](https://simonwillison.net/2026/Mar/13/1m-context/#atom-everything) — *Simon Willison's Weblog* `03-13`
-- [This Week on The Analog Antiquarian](https://www.filfre.net/2026/03/this-week-on-the-analog-antiquarian/) — *The Digital Antiquarian* `03-13`
+- [How Can Governments Pay Open Source Maintainers?](https://shkspr.mobi/blog/2026/03/how-can-governments-pay-open-source-maintainers/) — *Terence Eden’s Blog* `03-14`
+- [Reading List 03/14/26](https://www.construction-physics.com/p/reading-list-031426) — *Construction Physics* `03-14`
+- [What’s Going On with FAIR Package Manager](https://nesbitt.io/2026/03/14/whats-going-on-with-fair-package-manager.html) — *Andrew Nesbitt* `03-14`
+- [You Digg?](https://idiallo.com/byte-size/digg-is-gone-again?src=feed) — *iDiallo.com* `03-14`
+- [On today's web, HTTP results depend on the HTTP User-Agent you use](https://utcc.utoronto.ca/~cks/space/blog/web/HTTPResultsAndUserAgents) — *Chris's Wiki :: blog* `03-14`
 <!--BLOG_RADAR:end-->
 
 ---
