@@ -208,11 +208,11 @@ Last Updated: Saturday, March 14th, 2026, 9:28:44 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Last-Run Syndication](https://feed.tedium.co/link/15204/17299183/television-first-run-syndication-decline) — *Tedium: The Dull Side of the Internet.* `03-14`
+- [Big tech engineers need big egos](https://seangoedecke.com/big-tech-needs-big-egos/) — *seangoedecke.com RSS feed* `03-14`
+- [Tim Cook: ‘50 Years of Thinking Different’](https://www.apple.com/50-years-of-thinking-different/) — *Daring Fireball* `03-13`
 - [1M context is now generally available for Opus 4.6 and Sonnet 4.6](https://simonwillison.net/2026/Mar/13/1m-context/#atom-everything) — *Simon Willison's Weblog* `03-13`
 - [This Week on The Analog Antiquarian](https://www.filfre.net/2026/03/this-week-on-the-analog-antiquarian/) — *The Digital Antiquarian* `03-13`
-- [Quoting Craig Mod](https://simonwillison.net/2026/Mar/13/craig-mod/#atom-everything) — *Simon Willison's Weblog* `03-13`
-- [NYT: ‘Meta Delays Rollout of New AI Model After Performance Concerns’](https://www.nytimes.com/2026/03/12/technology/meta-avocado-ai-model-delayed.html?unlocked_article_code=1.S1A.vI_6.4j717gwtFem0) — *Daring Fireball* `03-13`
-- [Sports Programming Accounts for Almost 30 Percent of All Ad-Supported TV Viewing](https://deadline.com/2026/03/sports-tv-viewing-advertising-nielsen-1236750721/) — *Daring Fireball* `03-13`
 <!--BLOG_RADAR:end-->
 
 ---

@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 13 Mar 2026 18:53:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 02:40:04 +0000</lastBuildDate>
+    <item>
+      <title>Last-Run Syndication</title>
+      <link>https://feed.tedium.co/link/15204/17299183/television-first-run-syndication-decline</link>
+      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17299183/television-first-run-syndication-decline</guid>
+      <pubDate>Sat, 14 Mar 2026 01:41:56 +0000</pubDate>
+      <description>Tedium: The Dull Side of the Internet.</description>
+    </item>
+    <item>
+      <title>Big tech engineers need big egos</title>
+      <link>https://seangoedecke.com/big-tech-needs-big-egos/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/big-tech-needs-big-egos/</guid>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Tim Cook: ‘50 Years of Thinking Different’</title>
+      <link>https://www.apple.com/50-years-of-thinking-different/</link>
+      <guid isPermaLink="true">https://www.apple.com/50-years-of-thinking-different/</guid>
+      <pubDate>Fri, 13 Mar 2026 23:49:17 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>1M context is now generally available for Opus 4.6 and Sonnet 4.6</title>
       <link>https://simonwillison.net/2026/Mar/13/1m-context/#atom-everything</link>
@@ -151,6 +172,13 @@
       <guid isPermaLink="true">https://mahdi.jp/apps/accents</guid>
       <pubDate>Fri, 13 Mar 2026 00:18:06 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>How to use the Qwen 3.5 LLMs to OCR documents</title>
+      <link>https://martinalderson.com/posts/how-to-use-qwen-3-5-to-ocr-documents/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
+      <guid isPermaLink="true">https://martinalderson.com/posts/how-to-use-qwen-3-5-to-ocr-documents/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
+      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Martin Alderson</description>
     </item>
     <item>
       <title>What do coders do after AI?</title>
@@ -300,18 +328,18 @@
       <description>Evan Hahn (dot com)</description>
     </item>
     <item>
-      <title>Git Checkout, Reset and Restore</title>
-      <link>https://susam.net/git-checkout-reset-restore.html</link>
-      <guid isPermaLink="true">https://susam.net/git-checkout-reset-restore.html</guid>
-      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Susam Pal</description>
-    </item>
-    <item>
       <title>Windows 11 after two decades of macOS: okay, but also awful</title>
       <link>https://rakhim.exotext.com/windows-11-experience</link>
       <guid isPermaLink="true">https://rakhim.exotext.com/windows-11-experience</guid>
       <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
       <description>Rakhim's blog</description>
+    </item>
+    <item>
+      <title>Git Checkout, Reset and Restore</title>
+      <link>https://susam.net/git-checkout-reset-restore.html</link>
+      <guid isPermaLink="true">https://susam.net/git-checkout-reset-restore.html</guid>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Susam Pal</description>
     </item>
     <item>
       <title>On Making</title>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://shkspr.mobi/blog/2026/03/book-review-the-electronic-criminals-by-robert-farr-1975/</guid>
       <pubDate>Sat, 07 Mar 2026 12:34:04 +0000</pubDate>
       <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Announcing New Working Groups</title>
-      <link>https://nesbitt.io/2026/03/07/announcing-new-working-groups.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/03/07/announcing-new-working-groups.html</guid>
-      <pubDate>Sat, 07 Mar 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Remove annoying banners</title>
-      <link>https://maurycyz.com/projects/fixsite/</link>
-      <guid isPermaLink="true">https://maurycyz.com/projects/fixsite/</guid>
-      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
-    </item>
-    <item>
-      <title>Using Clankers to Help Me Process Surgery</title>
-      <link>https://xeiaso.net/blog/2026/surgery-recovery-clankers/</link>
-      <guid isPermaLink="true">https://xeiaso.net/blog/2026/surgery-recovery-clankers/</guid>
-      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
-      <title>HN Skins 0.3.0</title>
-      <link>https://susam.net/code/news/hnskins/0.3.0.html</link>
-      <guid isPermaLink="true">https://susam.net/code/news/hnskins/0.3.0.html</guid>
-      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Susam Pal</description>
     </item>
   </channel>
 </rss>
