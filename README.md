@@ -208,11 +208,11 @@ Last Updated: Sunday, March 15th, 2026, 2:30:04 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [How Can Governments Pay Open Source Maintainers?](https://shkspr.mobi/blog/2026/03/how-can-governments-pay-open-source-maintainers/) — *Terence Eden’s Blog* `03-14`
-- [Reading List 03/14/26](https://www.construction-physics.com/p/reading-list-031426) — *Construction Physics* `03-14`
-- [What’s Going On with FAIR Package Manager](https://nesbitt.io/2026/03/14/whats-going-on-with-fair-package-manager.html) — *Andrew Nesbitt* `03-14`
-- [You Digg?](https://idiallo.com/byte-size/digg-is-gone-again?src=feed) — *iDiallo.com* `03-14`
-- [On today's web, HTTP results depend on the HTTP User-Agent you use](https://utcc.utoronto.ca/~cks/space/blog/web/HTTPResultsAndUserAgents) — *Chris's Wiki :: blog* `03-14`
+- [Quoting Jannis Leidel](https://simonwillison.net/2026/Mar/14/jannis-leidel/#atom-everything) — *Simon Willison's Weblog* `03-14`
+- [My fireside chat about agentic engineering at the Pragmatic Summit](https://simonwillison.net/2026/Mar/14/pragmatic-summit/#atom-everything) — *Simon Willison's Weblog* `03-14`
+- [Ars Technica Fires Reporter Benj Edwards After He Published Story With AI-Fabricated Quotes](https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes) — *Daring Fireball* `03-14`
+- [Lil Finder Guy](https://basicappleguy.com/basicappleblog/lil-finder-guy) — *Daring Fireball* `03-14`
+- [Pluralistic: Corrupt anticorruption (14 Mar 2026)](https://pluralistic.net/2026/03/14/ill-have-what-xis-having/) — *Pluralistic: Daily links from Cory Doctorow* `03-14`
 <!--BLOG_RADAR:end-->
 
 ---
