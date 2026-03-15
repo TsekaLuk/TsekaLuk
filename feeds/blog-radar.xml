@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 15 Mar 2026 03:18:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 07:08:26 +0000</lastBuildDate>
     <item>
       <title>Matt Mullenweg Documents a Dastardly Clever Apple Account Phishing Scam</title>
       <link>https://ma.tt/2026/03/gone-almost-phishin/</link>
@@ -419,18 +419,18 @@
       <description>Evan Hahn (dot com)</description>
     </item>
     <item>
-      <title>Windows 11 after two decades of macOS: okay, but also awful</title>
-      <link>https://rakhim.exotext.com/windows-11-experience</link>
-      <guid isPermaLink="true">https://rakhim.exotext.com/windows-11-experience</guid>
-      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Rakhim's blog</description>
-    </item>
-    <item>
       <title>Git Checkout, Reset and Restore</title>
       <link>https://susam.net/git-checkout-reset-restore.html</link>
       <guid isPermaLink="true">https://susam.net/git-checkout-reset-restore.html</guid>
       <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
       <description>Susam Pal</description>
+    </item>
+    <item>
+      <title>Windows 11 after two decades of macOS: okay, but also awful</title>
+      <link>https://rakhim.exotext.com/windows-11-experience</link>
+      <guid isPermaLink="true">https://rakhim.exotext.com/windows-11-experience</guid>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Rakhim's blog</description>
     </item>
     <item>
       <title>On Making</title>
