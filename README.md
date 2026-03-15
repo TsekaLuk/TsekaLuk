@@ -208,11 +208,11 @@ Last Updated: Sunday, March 15th, 2026, 8:40:07 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Book Review: Robots in Space - The Secret Lives of Our Planetary Explorers by Dr Ezzy Pearson ★★★⯪☆](https://shkspr.mobi/blog/2026/03/book-review-robots-in-space-the-secret-lives-of-our-planetary-explorers-by-dr-ezzy-pearson/) — *Terence Eden’s Blog* `03-15`
+- [BertVote Gemeenteraadsverkiezingen 2026](https://berthub.eu/articles/posts/bert-vote-gemeenteraad-2026/) — *Bert Hubert's writings* `03-15`
+- [Guided Meditation for Developers](https://nesbitt.io/2026/03/15/guided-meditation-for-developers.html) — *Andrew Nesbitt* `03-15`
 - [Matt Mullenweg Documents a Dastardly Clever Apple Account Phishing Scam](https://ma.tt/2026/03/gone-almost-phishin/) — *Daring Fireball* `03-15`
 - [iFixit’s MacBook Neo Teardown](https://www.ifixit.com/News/116152/macbook-neo-is-the-most-repairable-macbook-in-14-years) — *Daring Fireball* `03-14`
-- [PC Makers Are Not Ready for the MacBook Neo](https://www.theverge.com/report/894090/macbook-neo-pc-windows-laptop-competition-asus-footinmouth) — *Daring Fireball* `03-14`
-- [Quoting Jannis Leidel](https://simonwillison.net/2026/Mar/14/jannis-leidel/#atom-everything) — *Simon Willison's Weblog* `03-14`
-- [My fireside chat about agentic engineering at the Pragmatic Summit](https://simonwillison.net/2026/Mar/14/pragmatic-summit/#atom-everything) — *Simon Willison's Weblog* `03-14`
 <!--BLOG_RADAR:end-->
 
 ---
