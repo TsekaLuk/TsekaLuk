@@ -208,11 +208,11 @@ Last Updated: Monday, March 16th, 2026, 2:31:50 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Book Review: Robots in Space - The Secret Lives of Our Planetary Explorers by Dr Ezzy Pearson ★★★⯪☆](https://shkspr.mobi/blog/2026/03/book-review-robots-in-space-the-secret-lives-of-our-planetary-explorers-by-dr-ezzy-pearson/) — *Terence Eden’s Blog* `03-15`
-- [BertVote Gemeenteraadsverkiezingen 2026](https://berthub.eu/articles/posts/bert-vote-gemeenteraad-2026/) — *Bert Hubert's writings* `03-15`
-- [Guided Meditation for Developers](https://nesbitt.io/2026/03/15/guided-meditation-for-developers.html) — *Andrew Nesbitt* `03-15`
-- [Matt Mullenweg Documents a Dastardly Clever Apple Account Phishing Scam](https://ma.tt/2026/03/gone-almost-phishin/) — *Daring Fireball* `03-15`
-- [iFixit’s MacBook Neo Teardown](https://www.ifixit.com/News/116152/macbook-neo-is-the-most-repairable-macbook-in-14-years) — *Daring Fireball* `03-14`
+- [Finalist 3.6](https://www.finalist.works/finalist-36/) — *Daring Fireball* `03-15`
+- [‘This Is Not the Computer for You’](https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/?ref=birchtree.me) — *Daring Fireball* `03-15`
+- [Blaming AI for Layoffs: ‘It Plays Better’](https://www.resume.org/the-great-turnover-9-in-10-companies-plan-to-hire-in-2026-yet-6-in-10-will-have-layoffs-2/) — *Daring Fireball* `03-15`
+- [Horace Dediu on Apple Sitting Out the AI Spending Race](https://asymco.com/2026/03/10/the-most-brilliant-move-in-corporate-history/) — *Daring Fireball* `03-15`
+- [Reuters: ‘Meta Planning Sweeping Layoffs as AI Costs Mount’](https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/) — *Daring Fireball* `03-15`
 <!--BLOG_RADAR:end-->
 
 ---
