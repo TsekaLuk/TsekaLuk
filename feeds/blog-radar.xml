@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 14 Mar 2026 18:50:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 03:18:24 +0000</lastBuildDate>
+    <item>
+      <title>Matt Mullenweg Documents a Dastardly Clever Apple Account Phishing Scam</title>
+      <link>https://ma.tt/2026/03/gone-almost-phishin/</link>
+      <guid isPermaLink="true">https://ma.tt/2026/03/gone-almost-phishin/</guid>
+      <pubDate>Sun, 15 Mar 2026 00:37:30 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>iFixit’s MacBook Neo Teardown</title>
+      <link>https://www.ifixit.com/News/116152/macbook-neo-is-the-most-repairable-macbook-in-14-years</link>
+      <guid isPermaLink="true">https://www.ifixit.com/News/116152/macbook-neo-is-the-most-repairable-macbook-in-14-years</guid>
+      <pubDate>Sat, 14 Mar 2026 22:06:02 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>PC Makers Are Not Ready for the MacBook Neo</title>
+      <link>https://www.theverge.com/report/894090/macbook-neo-pc-windows-laptop-competition-asus-footinmouth</link>
+      <guid isPermaLink="true">https://www.theverge.com/report/894090/macbook-neo-pc-windows-laptop-competition-asus-footinmouth</guid>
+      <pubDate>Sat, 14 Mar 2026 20:02:36 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Quoting Jannis Leidel</title>
       <link>https://simonwillison.net/2026/Mar/14/jannis-leidel/#atom-everything</link>
@@ -41,6 +62,13 @@
       <description>Pluralistic: Daily links from Cory Doctorow</description>
     </item>
     <item>
+      <title>How Can Governments Pay Open Source Maintainers?</title>
+      <link>https://shkspr.mobi/blog/2026/03/how-can-governments-pay-open-source-maintainers/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/03/how-can-governments-pay-open-source-maintainers/</guid>
+      <pubDate>Sat, 14 Mar 2026 12:34:42 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>Reading List 03/14/26</title>
       <link>https://www.construction-physics.com/p/reading-list-031426</link>
       <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-031426</guid>
@@ -74,6 +102,20 @@
       <guid isPermaLink="true">https://seangoedecke.com/big-tech-needs-big-egos/</guid>
       <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>human.json</title>
+      <link>https://evanhahn.com/human-dot-json/</link>
+      <guid isPermaLink="true">https://evanhahn.com/human-dot-json/</guid>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Evan Hahn (dot com)</description>
+    </item>
+    <item>
+      <title>LotusNotes</title>
+      <link>https://computer.rip/2026-03-14-lotusnotes.html</link>
+      <guid isPermaLink="true">https://computer.rip/2026-03-14-lotusnotes.html</guid>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      <description>computers are bad</description>
     </item>
     <item>
       <title>Tim Cook: ‘50 Years of Thinking Different’</title>
@@ -174,6 +216,13 @@
       <description>The Old New Thing</description>
     </item>
     <item>
+      <title>An odd font rendering bug in Firefox and Safari</title>
+      <link>https://shkspr.mobi/blog/2026/03/an-odd-font-rendering-bug-in-firefox-and-safari/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/03/an-odd-font-rendering-bug-in-firefox-and-safari/</guid>
+      <pubDate>Fri, 13 Mar 2026 12:34:09 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>It's Work that taught me how to think</title>
       <link>https://idiallo.com/blog/work-taught-me-how-to-think?src=feed</link>
       <guid isPermaLink="true">https://idiallo.com/blog/work-taught-me-how-to-think?src=feed</guid>
@@ -265,7 +314,7 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>MacBook Neo Teardown</title>
+      <title>Tech Re-Nu’s MacBook Neo Teardown</title>
       <link>https://www.youtube.com/watch?v=5k7Lv7f-5CQ</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=5k7Lv7f-5CQ</guid>
       <pubDate>Thu, 12 Mar 2026 18:51:48 +0000</pubDate>
@@ -305,6 +354,13 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260312-00/?p=112136</guid>
       <pubDate>Thu, 12 Mar 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>Historic Energy Price Cap Data (FOI success!)</title>
+      <link>https://shkspr.mobi/blog/2026/03/historic-energy-price-cap-data-foi-success/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/03/historic-energy-price-cap-data-foi-success/</guid>
+      <pubDate>Thu, 12 Mar 2026 12:34:01 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>The Elusive Cost Savings of the Prefabricated Home</title>
@@ -349,18 +405,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>The web in 1000 lines of C</title>
-      <link>https://maurycyz.com/projects/tinyweb/</link>
-      <guid isPermaLink="true">https://maurycyz.com/projects/tinyweb/</guid>
-      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
-    </item>
-    <item>
       <title>The modern formatting addiction in writing</title>
       <link>https://dynomight.net/formatting/</link>
       <guid isPermaLink="true">https://dynomight.net/formatting/</guid>
       <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
       <description>DYNOMIGHT</description>
+    </item>
+    <item>
+      <title>How I use generative AI on this blog</title>
+      <link>https://evanhahn.com/how-i-use-gen-ai-on-this-blog/</link>
+      <guid isPermaLink="true">https://evanhahn.com/how-i-use-gen-ai-on-this-blog/</guid>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Evan Hahn (dot com)</description>
     </item>
     <item>
       <title>Windows 11 after two decades of macOS: okay, but also awful</title>
@@ -375,6 +431,20 @@
       <guid isPermaLink="true">https://susam.net/git-checkout-reset-restore.html</guid>
       <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
       <description>Susam Pal</description>
+    </item>
+    <item>
+      <title>On Making</title>
+      <link>http://beej.us/blog/data/ai-making/</link>
+      <guid isPermaLink="true">http://beej.us/blog/data/ai-making/</guid>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Beej's Bit Bucket</description>
+    </item>
+    <item>
+      <title>The web in 1000 lines of C</title>
+      <link>https://maurycyz.com/projects/tinyweb/</link>
+      <guid isPermaLink="true">https://maurycyz.com/projects/tinyweb/</guid>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
     </item>
     <item>
       <title>Apple Has Changed Several Key Cap Labels From Words to Glyphs on Its Latest U.S. MacBook Keyboards</title>
@@ -459,6 +529,13 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260311-00/?p=112134</guid>
       <pubDate>Wed, 11 Mar 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>Game Review: It Takes Two ★★★★★</title>
+      <link>https://shkspr.mobi/blog/2026/03/game-review-it-takes-two/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/03/game-review-it-takes-two/</guid>
+      <pubDate>Wed, 11 Mar 2026 12:34:02 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Where did you think the training data was coming from?</title>
@@ -573,6 +650,13 @@
       <description>The Old New Thing</description>
     </item>
     <item>
+      <title>Unstructured Data and the Joy of having Something Else think for you</title>
+      <link>https://shkspr.mobi/blog/2026/03/unstructured-data-and-the-joy-of-having-something-else-think-for-you/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/03/unstructured-data-and-the-joy-of-having-something-else-think-for-you/</guid>
+      <pubDate>Tue, 10 Mar 2026 12:34:59 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>Just Use Postgres</title>
       <link>https://nesbitt.io/2026/03/10/just-use-postgres.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/03/10/just-use-postgres.html</guid>
@@ -643,6 +727,13 @@
       <description>Pluralistic: Daily links from Cory Doctorow</description>
     </item>
     <item>
+      <title>I don’t know what is Apple’s endgame for the Fn/Globe key, and I’m not sure Apple knows either</title>
+      <link>https://aresluna.org/fn</link>
+      <guid isPermaLink="true">https://aresluna.org/fn</guid>
+      <pubDate>Mon, 09 Mar 2026 16:22:40 +0000</pubDate>
+      <description>Aresluna</description>
+    </item>
+    <item>
       <title>Production query plans without production data</title>
       <link>https://simonwillison.net/2026/Mar/9/production-query-plans-without-production-data/#atom-everything</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Mar/9/production-query-plans-without-production-data/#atom-everything</guid>
@@ -676,6 +767,13 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Mar/9/not-so-boring/#atom-everything</guid>
       <pubDate>Mon, 09 Mar 2026 13:37:45 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Book Review: There Is No Antimemetics Division by qntm ★★★★★</title>
+      <link>https://shkspr.mobi/blog/2026/03/book-review-there-is-no-antimemetics-division-by-qntm/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/03/book-review-there-is-no-antimemetics-division-by-qntm/</guid>
+      <pubDate>Mon, 09 Mar 2026 12:34:47 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Why Am I Paranoid, You Say?</title>
@@ -746,104 +844,6 @@
       <guid isPermaLink="true">https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf</guid>
       <pubDate>Sun, 08 Mar 2026 17:49:08 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>GNU and the AI reimplementations</title>
-      <link>http://antirez.com/news/162</link>
-      <guid isPermaLink="true">http://antirez.com/news/162</guid>
-      <pubDate>Sun, 08 Mar 2026 16:08:41 +0000</pubDate>
-      <description>&lt;antirez&gt;</description>
-    </item>
-    <item>
-      <title>Steve Lemay Hits Apple’s Leadership Page</title>
-      <link>https://www.apple.com/leadership/steve-lemay/</link>
-      <guid isPermaLink="true">https://www.apple.com/leadership/steve-lemay/</guid>
-      <pubDate>Sun, 08 Mar 2026 15:28:36 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Quoting Joseph Weizenbaum</title>
-      <link>https://simonwillison.net/2026/Mar/8/joseph-weizenbaum/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/8/joseph-weizenbaum/#atom-everything</guid>
-      <pubDate>Sun, 08 Mar 2026 14:59:48 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Paywalls For Minimalists</title>
-      <link>https://feed.tedium.co/link/15204/17295750/minimal-paywall-setup-idea</link>
-      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17295750/minimal-paywall-setup-idea</guid>
-      <pubDate>Sun, 08 Mar 2026 13:20:05 +0000</pubDate>
-      <description>Tedium: The Dull Side of the Internet.</description>
-    </item>
-    <item>
-      <title>If It Quacks Like a Package Manager</title>
-      <link>https://nesbitt.io/2026/03/08/if-it-quacks-like-a-package-manager.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/03/08/if-it-quacks-like-a-package-manager.html</guid>
-      <pubDate>Sun, 08 Mar 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Some Thorns Have Roses</title>
-      <link>https://xeiaso.net/blog/2026/some-thorns-have-roses/</link>
-      <guid isPermaLink="true">https://xeiaso.net/blog/2026/some-thorns-have-roses/</guid>
-      <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
-      <title>The Neo solves Apple’s embarrassment</title>
-      <link>https://anildash.com/2026/03/08/neo-apple-embarassment/</link>
-      <guid isPermaLink="true">https://anildash.com/2026/03/08/neo-apple-embarassment/</guid>
-      <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Anil Dash</description>
-    </item>
-    <item>
-      <title>‘npx workos’</title>
-      <link>https://workos.com/docs/authkit/cli-installer?utm_source=tldrdev&amp;utm_medium=newsletter&amp;utm_campaign=q12026</link>
-      <guid isPermaLink="true">https://workos.com/docs/authkit/cli-installer?utm_source=tldrdev&amp;utm_medium=newsletter&amp;utm_campaign=q12026</guid>
-      <pubDate>Sat, 07 Mar 2026 21:53:37 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Codex for Open Source</title>
-      <link>https://simonwillison.net/2026/Mar/7/codex-for-open-source/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/7/codex-for-open-source/#atom-everything</guid>
-      <pubDate>Sat, 07 Mar 2026 18:13:39 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Pluralistic: The web is bearable with RSS (07 Mar 2026)</title>
-      <link>https://pluralistic.net/2026/03/07/reader-mode/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/03/07/reader-mode/</guid>
-      <pubDate>Sat, 07 Mar 2026 18:02:49 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Reading List 03/07/2026</title>
-      <link>https://www.construction-physics.com/p/reading-list-03072026</link>
-      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-03072026</guid>
-      <pubDate>Sat, 07 Mar 2026 13:03:12 +0000</pubDate>
-      <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>Announcing New Working Groups</title>
-      <link>https://nesbitt.io/2026/03/07/announcing-new-working-groups.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/03/07/announcing-new-working-groups.html</guid>
-      <pubDate>Sat, 07 Mar 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Remove annoying banners</title>
-      <link>https://maurycyz.com/projects/fixsite/</link>
-      <guid isPermaLink="true">https://maurycyz.com/projects/fixsite/</guid>
-      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
-    </item>
-    <item>
-      <title>Using Clankers to Help Me Process Surgery</title>
-      <link>https://xeiaso.net/blog/2026/surgery-recovery-clankers/</link>
-      <guid isPermaLink="true">https://xeiaso.net/blog/2026/surgery-recovery-clankers/</guid>
-      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
     </item>
   </channel>
 </rss>

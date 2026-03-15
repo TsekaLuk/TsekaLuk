@@ -208,11 +208,11 @@ Last Updated: Sunday, March 15th, 2026, 9:54:28 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Matt Mullenweg Documents a Dastardly Clever Apple Account Phishing Scam](https://ma.tt/2026/03/gone-almost-phishin/) — *Daring Fireball* `03-15`
+- [iFixit’s MacBook Neo Teardown](https://www.ifixit.com/News/116152/macbook-neo-is-the-most-repairable-macbook-in-14-years) — *Daring Fireball* `03-14`
+- [PC Makers Are Not Ready for the MacBook Neo](https://www.theverge.com/report/894090/macbook-neo-pc-windows-laptop-competition-asus-footinmouth) — *Daring Fireball* `03-14`
 - [Quoting Jannis Leidel](https://simonwillison.net/2026/Mar/14/jannis-leidel/#atom-everything) — *Simon Willison's Weblog* `03-14`
 - [My fireside chat about agentic engineering at the Pragmatic Summit](https://simonwillison.net/2026/Mar/14/pragmatic-summit/#atom-everything) — *Simon Willison's Weblog* `03-14`
-- [Ars Technica Fires Reporter Benj Edwards After He Published Story With AI-Fabricated Quotes](https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes) — *Daring Fireball* `03-14`
-- [Lil Finder Guy](https://basicappleguy.com/basicappleblog/lil-finder-guy) — *Daring Fireball* `03-14`
-- [Pluralistic: Corrupt anticorruption (14 Mar 2026)](https://pluralistic.net/2026/03/14/ill-have-what-xis-having/) — *Pluralistic: Daily links from Cory Doctorow* `03-14`
 <!--BLOG_RADAR:end-->
 
 ---
