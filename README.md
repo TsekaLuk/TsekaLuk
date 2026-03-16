@@ -208,11 +208,11 @@ Last Updated: Monday, March 16th, 2026, 9:56:34 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Finalist 3.6](https://www.finalist.works/finalist-36/) — *Daring Fireball* `03-15`
-- [‘This Is Not the Computer for You’](https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/?ref=birchtree.me) — *Daring Fireball* `03-15`
-- [Blaming AI for Layoffs: ‘It Plays Better’](https://www.resume.org/the-great-turnover-9-in-10-companies-plan-to-hire-in-2026-yet-6-in-10-will-have-layoffs-2/) — *Daring Fireball* `03-15`
-- [Horace Dediu on Apple Sitting Out the AI Spending Race](https://asymco.com/2026/03/10/the-most-brilliant-move-in-corporate-history/) — *Daring Fireball* `03-15`
-- [Reuters: ‘Meta Planning Sweeping Layoffs as AI Costs Mount’](https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/) — *Daring Fireball* `03-15`
+- [Shower Thought: Git Teleportation](https://idiallo.com/byte-size/git-teleportation?src=feed) — *iDiallo.com* `03-16`
+- [Twelve-tone composition](https://www.johndcook.com/blog/2026/03/15/twelve-tone-composition/) — *John D. Cook* `03-15`
+- [CHM Live: Apple at 50](https://www.youtube.com/live/eCSNJgI2LFI) — *Daring Fireball* `03-15`
+- [What is agentic engineering?](https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/#atom-everything) — *Simon Willison's Weblog* `03-15`
+- [The optimized self and the life that got away](https://www.joanwestenberg.com/the-optimized-self-and-the-life-that-got-away/) — *Westenberg.* `03-15`
 <!--BLOG_RADAR:end-->
 
 ---

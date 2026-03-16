@@ -4,7 +4,49 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 15 Mar 2026 18:51:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 03:20:20 +0000</lastBuildDate>
+    <item>
+      <title>Shower Thought: Git Teleportation</title>
+      <link>https://idiallo.com/byte-size/git-teleportation?src=feed</link>
+      <guid isPermaLink="true">https://idiallo.com/byte-size/git-teleportation?src=feed</guid>
+      <pubDate>Mon, 16 Mar 2026 00:23:04 +0000</pubDate>
+      <description>iDiallo.com</description>
+    </item>
+    <item>
+      <title>Twelve-tone composition</title>
+      <link>https://www.johndcook.com/blog/2026/03/15/twelve-tone-composition/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/03/15/twelve-tone-composition/</guid>
+      <pubDate>Sun, 15 Mar 2026 23:39:20 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>CHM Live: Apple at 50</title>
+      <link>https://www.youtube.com/live/eCSNJgI2LFI</link>
+      <guid isPermaLink="true">https://www.youtube.com/live/eCSNJgI2LFI</guid>
+      <pubDate>Sun, 15 Mar 2026 23:00:54 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>What is agentic engineering?</title>
+      <link>https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/#atom-everything</guid>
+      <pubDate>Sun, 15 Mar 2026 22:41:57 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>The optimized self and the life that got away</title>
+      <link>https://www.joanwestenberg.com/the-optimized-self-and-the-life-that-got-away/</link>
+      <guid isPermaLink="true">https://www.joanwestenberg.com/the-optimized-self-and-the-life-that-got-away/</guid>
+      <pubDate>Sun, 15 Mar 2026 22:25:26 +0000</pubDate>
+      <description>Westenberg.</description>
+    </item>
+    <item>
+      <title>Langford series</title>
+      <link>https://www.johndcook.com/blog/2026/03/15/langford-series/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/03/15/langford-series/</guid>
+      <pubDate>Sun, 15 Mar 2026 19:49:13 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
     <item>
       <title>Finalist 3.6</title>
       <link>https://www.finalist.works/finalist-36/</link>
@@ -475,18 +517,18 @@
       <description>Maurycy's Blog</description>
     </item>
     <item>
-      <title>The modern formatting addiction in writing</title>
-      <link>https://dynomight.net/formatting/</link>
-      <guid isPermaLink="true">https://dynomight.net/formatting/</guid>
-      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
-    </item>
-    <item>
       <title>How I use generative AI on this blog</title>
       <link>https://evanhahn.com/how-i-use-gen-ai-on-this-blog/</link>
       <guid isPermaLink="true">https://evanhahn.com/how-i-use-gen-ai-on-this-blog/</guid>
       <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
       <description>Evan Hahn (dot com)</description>
+    </item>
+    <item>
+      <title>The modern formatting addiction in writing</title>
+      <link>https://dynomight.net/formatting/</link>
+      <guid isPermaLink="true">https://dynomight.net/formatting/</guid>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>Windows 11 after two decades of macOS: okay, but also awful</title>
@@ -802,48 +844,6 @@
       <guid isPermaLink="true">https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything</guid>
       <pubDate>Mon, 09 Mar 2026 14:16:19 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The fine print giveth and the bold print taketh away: The countdown timer</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260309-01/?p=112120</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260309-01/?p=112120</guid>
-      <pubDate>Mon, 09 Mar 2026 14:00:01 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Learning to read C++ compiler errors: Ambiguous overloaded operator</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260309-00/?p=112118</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260309-00/?p=112118</guid>
-      <pubDate>Mon, 09 Mar 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Perhaps not Boring Technology after all</title>
-      <link>https://simonwillison.net/2026/Mar/9/not-so-boring/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/9/not-so-boring/#atom-everything</guid>
-      <pubDate>Mon, 09 Mar 2026 13:37:45 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Book Review: There Is No Antimemetics Division by qntm ★★★★★</title>
-      <link>https://shkspr.mobi/blog/2026/03/book-review-there-is-no-antimemetics-division-by-qntm/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/03/book-review-there-is-no-antimemetics-division-by-qntm/</guid>
-      <pubDate>Mon, 09 Mar 2026 12:34:47 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Why Am I Paranoid, You Say?</title>
-      <link>https://idiallo.com/blog/why-am-i-paranoid?src=feed</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/why-am-i-paranoid?src=feed</guid>
-      <pubDate>Mon, 09 Mar 2026 12:00:00 +0000</pubDate>
-      <description>iDiallo.com</description>
-    </item>
-    <item>
-      <title>100 Posts</title>
-      <link>https://nesbitt.io/2026/03/09/100-posts.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/03/09/100-posts.html</guid>
-      <pubDate>Mon, 09 Mar 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
     </item>
   </channel>
 </rss>
