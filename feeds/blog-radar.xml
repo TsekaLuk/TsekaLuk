@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 16 Mar 2026 03:20:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 07:41:36 +0000</lastBuildDate>
+    <item>
+      <title>Why I Love FreeBSD</title>
+      <link>https://it-notes.dragas.net/2026/03/16/why-i-love-freebsd/</link>
+      <guid isPermaLink="true">https://it-notes.dragas.net/2026/03/16/why-i-love-freebsd/</guid>
+      <pubDate>Mon, 16 Mar 2026 08:10:00 +0000</pubDate>
+      <description>IT Notes</description>
+    </item>
+    <item>
+      <title>Making empirical decisions about web access (here in 2026)</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/web/WebAccessDecisionsEmpirical</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/web/WebAccessDecisionsEmpirical</guid>
+      <pubDate>Mon, 16 Mar 2026 02:12:17 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
     <item>
       <title>Shower Thought: Git Teleportation</title>
       <link>https://idiallo.com/byte-size/git-teleportation?src=feed</link>
@@ -46,6 +60,13 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/03/15/langford-series/</guid>
       <pubDate>Sun, 15 Mar 2026 19:49:13 +0000</pubDate>
       <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Food, Software, and Trade-offs</title>
+      <link>https://blog.jim-nielsen.com/2026/food-software-and-trade-offs/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/food-software-and-trade-offs/</guid>
+      <pubDate>Sun, 15 Mar 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
     </item>
     <item>
       <title>Finalist 3.6</title>
@@ -125,6 +146,13 @@
       <description>Daring Fireball</description>
     </item>
     <item>
+      <title>I think dependency cooldowns would be a good idea for Go</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/programming/GoDependencyCooldownsGood</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/programming/GoDependencyCooldownsGood</guid>
+      <pubDate>Sat, 14 Mar 2026 20:26:43 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
       <title>PC Makers Are Not Ready for the MacBook Neo</title>
       <link>https://www.theverge.com/report/894090/macbook-neo-pc-windows-laptop-competition-asus-footinmouth</link>
       <guid isPermaLink="true">https://www.theverge.com/report/894090/macbook-neo-pc-windows-laptop-competition-asus-footinmouth</guid>
@@ -193,6 +221,13 @@
       <guid isPermaLink="true">https://idiallo.com/byte-size/digg-is-gone-again?src=feed</guid>
       <pubDate>Sat, 14 Mar 2026 08:41:00 +0000</pubDate>
       <description>iDiallo.com</description>
+    </item>
+    <item>
+      <title>On today's web, HTTP results depend on the HTTP User-Agent you use</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/web/HTTPResultsAndUserAgents</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/web/HTTPResultsAndUserAgents</guid>
+      <pubDate>Sat, 14 Mar 2026 03:27:19 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>Last-Run Syndication</title>
@@ -356,6 +391,13 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
+      <title>You (I) should document the forms of your Django web application</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/python/DjangoDocumentYourForms</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/python/DjangoDocumentYourForms</guid>
+      <pubDate>Fri, 13 Mar 2026 03:18:17 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
       <title>Everything's Casino</title>
       <link>https://www.joanwestenberg.com/everythings-casino/</link>
       <guid isPermaLink="true">https://www.joanwestenberg.com/everythings-casino/</guid>
@@ -377,18 +419,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>How to use the Qwen 3.5 LLMs to OCR documents</title>
-      <link>https://martinalderson.com/posts/how-to-use-qwen-3-5-to-ocr-documents/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
-      <guid isPermaLink="true">https://martinalderson.com/posts/how-to-use-qwen-3-5-to-ocr-documents/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
-      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Martin Alderson</description>
-    </item>
-    <item>
       <title>What do coders do after AI?</title>
       <link>https://anildash.com/2026/03/13/coders-after-ai/</link>
       <guid isPermaLink="true">https://anildash.com/2026/03/13/coders-after-ai/</guid>
       <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
       <description>Anil Dash</description>
+    </item>
+    <item>
+      <title>How to use the Qwen 3.5 LLMs to OCR documents</title>
+      <link>https://martinalderson.com/posts/how-to-use-qwen-3-5-to-ocr-documents/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
+      <guid isPermaLink="true">https://martinalderson.com/posts/how-to-use-qwen-3-5-to-ocr-documents/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
+      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Martin Alderson</description>
     </item>
     <item>
       <title>Apple’s Platform Security Guide Adds a Brief Note on the MacBook Neo’s On-Screen Camera Indicator</title>
@@ -489,6 +531,13 @@
       <description>Miguel Grinberg's Blog</description>
     </item>
     <item>
+      <title>UEFI-only booting with GRUB has gone okay on our (Ubuntu 24.04) servers</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/UEFIOnlyBootHasGoneOkay</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/UEFIOnlyBootHasGoneOkay</guid>
+      <pubDate>Thu, 12 Mar 2026 01:24:33 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
       <title>Jason Snell Is on Jeopardy Next Week</title>
       <link>https://sixcolors.com/post/2026/03/ill-take-beach-reading-for-1000-ken/</link>
       <guid isPermaLink="true">https://sixcolors.com/post/2026/03/ill-take-beach-reading-for-1000-ken/</guid>
@@ -510,6 +559,13 @@
       <description>Daring Fireball</description>
     </item>
     <item>
+      <title>The modern formatting addiction in writing</title>
+      <link>https://dynomight.net/formatting/</link>
+      <guid isPermaLink="true">https://dynomight.net/formatting/</guid>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
+    </item>
+    <item>
       <title>The web in 1000 lines of C</title>
       <link>https://maurycyz.com/projects/tinyweb/</link>
       <guid isPermaLink="true">https://maurycyz.com/projects/tinyweb/</guid>
@@ -522,13 +578,6 @@
       <guid isPermaLink="true">https://evanhahn.com/how-i-use-gen-ai-on-this-blog/</guid>
       <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
       <description>Evan Hahn (dot com)</description>
-    </item>
-    <item>
-      <title>The modern formatting addiction in writing</title>
-      <link>https://dynomight.net/formatting/</link>
-      <guid isPermaLink="true">https://dynomight.net/formatting/</guid>
-      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>Windows 11 after two decades of macOS: okay, but also awful</title>
@@ -657,6 +706,13 @@
       <description>Andrew Nesbitt</description>
     </item>
     <item>
+      <title>The story of one of my worst programming failures</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/programming/DevelopedTooSmallFailure</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/programming/DevelopedTooSmallFailure</guid>
+      <pubDate>Wed, 11 Mar 2026 01:58:42 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
       <title>The Server Older than my Kids!</title>
       <link>https://idiallo.com/byte-size/my-server-is-older-than-my-kids?src=feed</link>
       <guid isPermaLink="true">https://idiallo.com/byte-size/my-server-is-older-than-my-kids?src=feed</guid>
@@ -776,74 +832,18 @@
       <description>matduggan.com</description>
     </item>
     <item>
+      <title>Power glitches can leave computer hardware in weird states</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/tech/PowerGlitchesWeirdHardwareStates</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/tech/PowerGlitchesWeirdHardwareStates</guid>
+      <pubDate>Tue, 10 Mar 2026 03:58:36 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
       <title>Weekly Update 494</title>
       <link>https://www.troyhunt.com/weekly-update-494/</link>
       <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-494/</guid>
       <pubDate>Tue, 10 Mar 2026 01:29:35 +0000</pubDate>
       <description>Troy Hunt</description>
-    </item>
-    <item>
-      <title>HN Skins 0.4.0</title>
-      <link>https://susam.net/code/news/hnskins/0.4.0.html</link>
-      <guid isPermaLink="true">https://susam.net/code/news/hnskins/0.4.0.html</guid>
-      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Susam Pal</description>
-    </item>
-    <item>
-      <title>Rebasing in Magit</title>
-      <link>https://entropicthoughts.com/rebasing-in-magit</link>
-      <guid isPermaLink="true">https://entropicthoughts.com/rebasing-in-magit</guid>
-      <pubDate>Mon, 09 Mar 2026 23:00:00 +0000</pubDate>
-      <description>Entropic Thoughts</description>
-    </item>
-    <item>
-      <title>Trig composition table</title>
-      <link>https://www.johndcook.com/blog/2026/03/09/trig-composition-table/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/03/09/trig-composition-table/</guid>
-      <pubDate>Mon, 09 Mar 2026 22:16:09 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>★ The iPhone 17e</title>
-      <link>https://daringfireball.net/2026/03/the_iphone_17e</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/03/the_iphone_17e</guid>
-      <pubDate>Mon, 09 Mar 2026 21:57:35 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>MacBook Neo Wallpapers Now Available for All Macs in MacOS Tahoe</title>
-      <link>https://www.macrumors.com/2026/03/09/macos-tahoe-26-4-beta-4-neo-wallpapers/</link>
-      <guid isPermaLink="true">https://www.macrumors.com/2026/03/09/macos-tahoe-26-4-beta-4-neo-wallpapers/</guid>
-      <pubDate>Mon, 09 Mar 2026 19:37:58 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Pluralistic: Billionaires are a danger to themselves and (especially) us (09 Mar 2026)</title>
-      <link>https://pluralistic.net/2026/03/09/autocrats-of-trade-2/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/03/09/autocrats-of-trade-2/</guid>
-      <pubDate>Mon, 09 Mar 2026 16:46:33 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>I don’t know what is Apple’s endgame for the Fn/Globe key, and I’m not sure Apple knows either</title>
-      <link>https://aresluna.org/fn</link>
-      <guid isPermaLink="true">https://aresluna.org/fn</guid>
-      <pubDate>Mon, 09 Mar 2026 16:22:40 +0000</pubDate>
-      <description>Aresluna</description>
-    </item>
-    <item>
-      <title>Production query plans without production data</title>
-      <link>https://simonwillison.net/2026/Mar/9/production-query-plans-without-production-data/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/9/production-query-plans-without-production-data/#atom-everything</guid>
-      <pubDate>Mon, 09 Mar 2026 15:05:15 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Low-Wage Contractors in Kenya See What Users See While Using Meta’s AI Smart Glasses</title>
-      <link>https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything</link>
-      <guid isPermaLink="true">https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything</guid>
-      <pubDate>Mon, 09 Mar 2026 14:16:19 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>

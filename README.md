@@ -208,11 +208,11 @@ Last Updated: Monday, March 16th, 2026, 3:09:32 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Why I Love FreeBSD](https://it-notes.dragas.net/2026/03/16/why-i-love-freebsd/) — *IT Notes* `03-16`
+- [Making empirical decisions about web access (here in 2026)](https://utcc.utoronto.ca/~cks/space/blog/web/WebAccessDecisionsEmpirical) — *Chris's Wiki :: blog* `03-16`
 - [Shower Thought: Git Teleportation](https://idiallo.com/byte-size/git-teleportation?src=feed) — *iDiallo.com* `03-16`
 - [Twelve-tone composition](https://www.johndcook.com/blog/2026/03/15/twelve-tone-composition/) — *John D. Cook* `03-15`
 - [CHM Live: Apple at 50](https://www.youtube.com/live/eCSNJgI2LFI) — *Daring Fireball* `03-15`
-- [What is agentic engineering?](https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/#atom-everything) — *Simon Willison's Weblog* `03-15`
-- [The optimized self and the life that got away](https://www.joanwestenberg.com/the-optimized-self-and-the-life-that-got-away/) — *Westenberg.* `03-15`
 <!--BLOG_RADAR:end-->
 
 ---
