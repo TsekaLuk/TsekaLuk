@@ -4,7 +4,49 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 16 Mar 2026 13:43:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 19:14:33 +0000</lastBuildDate>
+    <item>
+      <title>‘The Last Quiet Thing’</title>
+      <link>https://www.terrygodier.com/the-last-quiet-thing</link>
+      <guid isPermaLink="true">https://www.terrygodier.com/the-last-quiet-thing</guid>
+      <pubDate>Mon, 16 Mar 2026 17:58:00 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Apple Introduces AirPods Max 2</title>
+      <link>https://www.apple.com/newsroom/2026/03/apple-introduces-airpods-max-2-powered-by-h2/</link>
+      <guid isPermaLink="true">https://www.apple.com/newsroom/2026/03/apple-introduces-airpods-max-2-powered-by-h2/</guid>
+      <pubDate>Mon, 16 Mar 2026 17:57:39 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>★ Apple Exclaves and the Secure Design of the MacBook Neo’s On-Screen Camera Indicator</title>
+      <link>https://daringfireball.net/2026/03/apple_enclaves_neo_camera_indicator</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/03/apple_enclaves_neo_camera_indicator</guid>
+      <pubDate>Mon, 16 Mar 2026 17:27:58 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>How coding agents work</title>
+      <link>https://simonwillison.net/guides/agentic-engineering-patterns/how-coding-agents-work/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/guides/agentic-engineering-patterns/how-coding-agents-work/#atom-everything</guid>
+      <pubDate>Mon, 16 Mar 2026 14:01:41 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Windows stack limit checking retrospective: PowerPC</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260316-00/?p=112140</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260316-00/?p=112140</guid>
+      <pubDate>Mon, 16 Mar 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>Pluralistic: Tools vs uses (16 Mar 2026)</title>
+      <link>https://pluralistic.net/2026/03/16/whittle-a-webserver/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/03/16/whittle-a-webserver/</guid>
+      <pubDate>Mon, 16 Mar 2026 13:53:43 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
     <item>
       <title>Some updates to ActivityBot</title>
       <link>https://shkspr.mobi/blog/2026/03/some-updates-to-activitybot/</link>
@@ -802,48 +844,6 @@
       <guid isPermaLink="true">https://matduggan.com/update-to-the-ghost-theme-that-powers-this-site/</guid>
       <pubDate>Tue, 10 Mar 2026 09:26:47 +0000</pubDate>
       <description>matduggan.com</description>
-    </item>
-    <item>
-      <title>Weekly Update 494</title>
-      <link>https://www.troyhunt.com/weekly-update-494/</link>
-      <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-494/</guid>
-      <pubDate>Tue, 10 Mar 2026 01:29:35 +0000</pubDate>
-      <description>Troy Hunt</description>
-    </item>
-    <item>
-      <title>HN Skins 0.4.0</title>
-      <link>https://susam.net/code/news/hnskins/0.4.0.html</link>
-      <guid isPermaLink="true">https://susam.net/code/news/hnskins/0.4.0.html</guid>
-      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Susam Pal</description>
-    </item>
-    <item>
-      <title>Rebasing in Magit</title>
-      <link>https://entropicthoughts.com/rebasing-in-magit</link>
-      <guid isPermaLink="true">https://entropicthoughts.com/rebasing-in-magit</guid>
-      <pubDate>Mon, 09 Mar 2026 23:00:00 +0000</pubDate>
-      <description>Entropic Thoughts</description>
-    </item>
-    <item>
-      <title>Trig composition table</title>
-      <link>https://www.johndcook.com/blog/2026/03/09/trig-composition-table/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/03/09/trig-composition-table/</guid>
-      <pubDate>Mon, 09 Mar 2026 22:16:09 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>★ The iPhone 17e</title>
-      <link>https://daringfireball.net/2026/03/the_iphone_17e</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/03/the_iphone_17e</guid>
-      <pubDate>Mon, 09 Mar 2026 21:57:35 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>MacBook Neo Wallpapers Now Available for All Macs in MacOS Tahoe</title>
-      <link>https://www.macrumors.com/2026/03/09/macos-tahoe-26-4-beta-4-neo-wallpapers/</link>
-      <guid isPermaLink="true">https://www.macrumors.com/2026/03/09/macos-tahoe-26-4-beta-4-neo-wallpapers/</guid>
-      <pubDate>Mon, 09 Mar 2026 19:37:58 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>

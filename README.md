@@ -208,11 +208,11 @@ Last Updated: Tuesday, March 17th, 2026, 2:54:46 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Some updates to ActivityBot](https://shkspr.mobi/blog/2026/03/some-updates-to-activitybot/) — *Terence Eden’s Blog* `03-16`
-- [Why I Love FreeBSD](https://it-notes.dragas.net/2026/03/16/why-i-love-freebsd/) — *IT Notes* `03-16`
-- [Shower Thought: Git Teleportation](https://idiallo.com/byte-size/git-teleportation?src=feed) — *iDiallo.com* `03-16`
-- [Twelve-tone composition](https://www.johndcook.com/blog/2026/03/15/twelve-tone-composition/) — *John D. Cook* `03-15`
-- [CHM Live: Apple at 50](https://www.youtube.com/live/eCSNJgI2LFI) — *Daring Fireball* `03-15`
+- [‘The Last Quiet Thing’](https://www.terrygodier.com/the-last-quiet-thing) — *Daring Fireball* `03-16`
+- [Apple Introduces AirPods Max 2](https://www.apple.com/newsroom/2026/03/apple-introduces-airpods-max-2-powered-by-h2/) — *Daring Fireball* `03-16`
+- [★ Apple Exclaves and the Secure Design of the MacBook Neo’s On-Screen Camera Indicator](https://daringfireball.net/2026/03/apple_enclaves_neo_camera_indicator) — *Daring Fireball* `03-16`
+- [How coding agents work](https://simonwillison.net/guides/agentic-engineering-patterns/how-coding-agents-work/#atom-everything) — *Simon Willison's Weblog* `03-16`
+- [Windows stack limit checking retrospective: PowerPC](https://devblogs.microsoft.com/oldnewthing/20260316-00/?p=112140) — *The Old New Thing* `03-16`
 <!--BLOG_RADAR:end-->
 
 ---
