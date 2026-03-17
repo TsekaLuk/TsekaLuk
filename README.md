@@ -208,11 +208,11 @@ Last Updated: Tuesday, March 17th, 2026, 9:44:20 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [‘The Last Quiet Thing’](https://www.terrygodier.com/the-last-quiet-thing) — *Daring Fireball* `03-16`
-- [Apple Introduces AirPods Max 2](https://www.apple.com/newsroom/2026/03/apple-introduces-airpods-max-2-powered-by-h2/) — *Daring Fireball* `03-16`
-- [★ Apple Exclaves and the Secure Design of the MacBook Neo’s On-Screen Camera Indicator](https://daringfireball.net/2026/03/apple_enclaves_neo_camera_indicator) — *Daring Fireball* `03-16`
-- [How coding agents work](https://simonwillison.net/guides/agentic-engineering-patterns/how-coding-agents-work/#atom-everything) — *Simon Willison's Weblog* `03-16`
-- [Windows stack limit checking retrospective: PowerPC](https://devblogs.microsoft.com/oldnewthing/20260316-00/?p=112140) — *The Old New Thing* `03-16`
+- [[Sponsor] Mux — Video API for Developers](https://www.mux.com/video-api?utm_campaign=fireball&utm_source=DF) — *Daring Fireball* `03-16`
+- [Introducing Mistral Small 4](https://simonwillison.net/2026/Mar/16/mistral-small-4/#atom-everything) — *Simon Willison's Weblog* `03-16`
+- [Use subagents and custom agents in Codex](https://simonwillison.net/2026/Mar/16/codex-subagents/#atom-everything) — *Simon Willison's Weblog* `03-16`
+- [Quoting A member of Anthropic’s alignment-science team](https://simonwillison.net/2026/Mar/16/blackmail/#atom-everything) — *Simon Willison's Weblog* `03-16`
+- [Quoting Guilherme Rambo](https://simonwillison.net/2026/Mar/16/guilherme-rambo/#atom-everything) — *Simon Willison's Weblog* `03-16`
 <!--BLOG_RADAR:end-->
 
 ---
