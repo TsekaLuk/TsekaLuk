@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 17 Mar 2026 07:14:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 13:27:46 +0000</lastBuildDate>
+    <item>
+      <title>Tone row operations</title>
+      <link>https://www.johndcook.com/blog/2026/03/17/tone-row-operations/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/03/17/tone-row-operations/</guid>
+      <pubDate>Tue, 17 Mar 2026 13:22:39 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Your Startup Is Probably Dead On Arrival</title>
+      <link>https://steveblank.com/2026/03/17/your-startup-is-probably-dead-on-arrival/</link>
+      <guid isPermaLink="true">https://steveblank.com/2026/03/17/your-startup-is-probably-dead-on-arrival/</guid>
+      <pubDate>Tue, 17 Mar 2026 13:00:30 +0000</pubDate>
+      <description>Steve Blank</description>
+    </item>
+    <item>
+      <title>Subagents</title>
+      <link>https://simonwillison.net/guides/agentic-engineering-patterns/subagents/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/guides/agentic-engineering-patterns/subagents/#atom-everything</guid>
+      <pubDate>Tue, 17 Mar 2026 12:32:28 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Hedley Davis has died</title>
       <link>https://oldvcr.blogspot.com/2026/03/hedley-davis-has-died.html</link>
@@ -39,6 +60,13 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Mar/16/codex-subagents/#atom-everything</guid>
       <pubDate>Mon, 16 Mar 2026 23:03:56 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Esqueleto Tutorial</title>
+      <link>https://entropicthoughts.com/esqueleto-tutorial</link>
+      <guid isPermaLink="true">https://entropicthoughts.com/esqueleto-tutorial</guid>
+      <pubDate>Mon, 16 Mar 2026 23:00:00 +0000</pubDate>
+      <description>Entropic Thoughts</description>
     </item>
     <item>
       <title>Quoting A member of Anthropic’s alignment-science team</title>
@@ -517,18 +545,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>What do coders do after AI?</title>
-      <link>https://anildash.com/2026/03/13/coders-after-ai/</link>
-      <guid isPermaLink="true">https://anildash.com/2026/03/13/coders-after-ai/</guid>
-      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Anil Dash</description>
-    </item>
-    <item>
       <title>How to use the Qwen 3.5 LLMs to OCR documents</title>
       <link>https://martinalderson.com/posts/how-to-use-qwen-3-5-to-ocr-documents/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
       <guid isPermaLink="true">https://martinalderson.com/posts/how-to-use-qwen-3-5-to-ocr-documents/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
       <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
       <description>Martin Alderson</description>
+    </item>
+    <item>
+      <title>What do coders do after AI?</title>
+      <link>https://anildash.com/2026/03/13/coders-after-ai/</link>
+      <guid isPermaLink="true">https://anildash.com/2026/03/13/coders-after-ai/</guid>
+      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Anil Dash</description>
     </item>
     <item>
       <title>Apple’s Platform Security Guide Adds a Brief Note on the MacBook Neo’s On-Screen Camera Indicator</title>
@@ -671,6 +699,13 @@
       <description>Evan Hahn (dot com)</description>
     </item>
     <item>
+      <title>Git Checkout, Reset and Restore</title>
+      <link>https://susam.net/git-checkout-reset-restore.html</link>
+      <guid isPermaLink="true">https://susam.net/git-checkout-reset-restore.html</guid>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Susam Pal</description>
+    </item>
+    <item>
       <title>Windows 11 after two decades of macOS: okay, but also awful</title>
       <link>https://rakhim.exotext.com/windows-11-experience</link>
       <guid isPermaLink="true">https://rakhim.exotext.com/windows-11-experience</guid>
@@ -678,11 +713,11 @@
       <description>Rakhim's blog</description>
     </item>
     <item>
-      <title>Git Checkout, Reset and Restore</title>
-      <link>https://susam.net/git-checkout-reset-restore.html</link>
-      <guid isPermaLink="true">https://susam.net/git-checkout-reset-restore.html</guid>
+      <title>On Making</title>
+      <link>http://beej.us/blog/data/ai-making/</link>
+      <guid isPermaLink="true">http://beej.us/blog/data/ai-making/</guid>
       <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Susam Pal</description>
+      <description>Beej's Bit Bucket</description>
     </item>
     <item>
       <title>Apple Has Changed Several Key Cap Labels From Words to Glyphs on Its Latest U.S. MacBook Keyboards</title>
@@ -809,41 +844,6 @@
       <guid isPermaLink="true">https://xeiaso.net/blog/2026/ai-abstraction/</guid>
       <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
-    </item>
-    <item>
-      <title>Writing an LLM from scratch, part 32e -- Interventions: the learning rate</title>
-      <link>https://www.gilesthomas.com/2026/03/llm-from-scratch-32e-interventions-learning-rate</link>
-      <guid isPermaLink="true">https://www.gilesthomas.com/2026/03/llm-from-scratch-32e-interventions-learning-rate</guid>
-      <pubDate>Tue, 10 Mar 2026 23:55:00 +0000</pubDate>
-      <description>Giles' blog</description>
-    </item>
-    <item>
-      <title>★ The MacBook Neo</title>
-      <link>https://daringfireball.net/2026/03/the_macbook_neo</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/03/the_macbook_neo</guid>
-      <pubDate>Tue, 10 Mar 2026 22:48:40 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>AI should help us produce better code</title>
-      <link>https://simonwillison.net/guides/agentic-engineering-patterns/better-code/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/guides/agentic-engineering-patterns/better-code/#atom-everything</guid>
-      <pubDate>Tue, 10 Mar 2026 22:25:09 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>I'm Not Lying, I'm Hallucinating</title>
-      <link>https://idiallo.com/byte-size/im-not-lying-im-hallucinating?src=feed</link>
-      <guid isPermaLink="true">https://idiallo.com/byte-size/im-not-lying-im-hallucinating?src=feed</guid>
-      <pubDate>Tue, 10 Mar 2026 20:43:30 +0000</pubDate>
-      <description>iDiallo.com</description>
-    </item>
-    <item>
-      <title>The Beginning Of History</title>
-      <link>https://www.wheresyoured.at/the-beginning-of-history/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/the-beginning-of-history/</guid>
-      <pubDate>Tue, 10 Mar 2026 18:34:49 +0000</pubDate>
-      <description>Ed Zitron's Where's Your Ed At</description>
     </item>
   </channel>
 </rss>

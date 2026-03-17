@@ -208,11 +208,11 @@ Last Updated: Tuesday, March 17th, 2026, 8:59:44 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Tone row operations](https://www.johndcook.com/blog/2026/03/17/tone-row-operations/) — *John D. Cook* `03-17`
+- [Your Startup Is Probably Dead On Arrival](https://steveblank.com/2026/03/17/your-startup-is-probably-dead-on-arrival/) — *Steve Blank* `03-17`
+- [Subagents](https://simonwillison.net/guides/agentic-engineering-patterns/subagents/#atom-everything) — *Simon Willison's Weblog* `03-17`
 - [Hedley Davis has died](https://oldvcr.blogspot.com/2026/03/hedley-davis-has-died.html) — *Old Vintage Computing Research* `03-17`
 - [Weekly Update 495](https://www.troyhunt.com/weekly-update-495/) — *Troy Hunt* `03-17`
-- [[Sponsor] Mux — Video API for Developers](https://www.mux.com/video-api?utm_campaign=fireball&utm_source=DF) — *Daring Fireball* `03-16`
-- [Introducing Mistral Small 4](https://simonwillison.net/2026/Mar/16/mistral-small-4/#atom-everything) — *Simon Willison's Weblog* `03-16`
-- [Use subagents and custom agents in Codex](https://simonwillison.net/2026/Mar/16/codex-subagents/#atom-everything) — *Simon Willison's Weblog* `03-16`
 <!--BLOG_RADAR:end-->
 
 ---
