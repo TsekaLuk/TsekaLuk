@@ -4,7 +4,70 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 17 Mar 2026 13:27:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 19:13:00 +0000</lastBuildDate>
+    <item>
+      <title>You Might Debate It — If You Could See It</title>
+      <link>https://blog.jim-nielsen.com/2026/opacity-of-generative-tools/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/opacity-of-generative-tools/</guid>
+      <pubDate>Fri, 17 Apr 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
+    </item>
+    <item>
+      <title>Why Are We Still Doing This?</title>
+      <link>https://www.wheresyoured.at/why-are-we-still-doing-this/</link>
+      <guid isPermaLink="true">https://www.wheresyoured.at/why-are-we-still-doing-this/</guid>
+      <pubDate>Tue, 17 Mar 2026 16:36:40 +0000</pubDate>
+      <description>Ed Zitron's Where's Your Ed At</description>
+    </item>
+    <item>
+      <title>Quoting Tim Schilling</title>
+      <link>https://simonwillison.net/2026/Mar/17/tim-schilling/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/17/tim-schilling/#atom-everything</guid>
+      <pubDate>Tue, 17 Mar 2026 16:13:37 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Pluralistic: William Gibson vs Margaret Thatcher (17 Mar 2026)</title>
+      <link>https://pluralistic.net/2026/03/17/technopolitics/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/03/17/technopolitics/</guid>
+      <pubDate>Tue, 17 Mar 2026 15:07:57 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Windows stack limit checking retrospective: x86-32 also known as i386, second try</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260317-00/?p=112144</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260317-00/?p=112144</guid>
+      <pubDate>Tue, 17 Mar 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>Samsung Discontinues Its Galaxy Z TriFold After Just Three Months</title>
+      <link>https://www.theverge.com/tech/895879/samsung-galaxy-z-trifold-discontinued-stock-sold-out</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/895879/samsung-galaxy-z-trifold-discontinued-stock-sold-out</guid>
+      <pubDate>Tue, 17 Mar 2026 13:49:53 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Lil Finder Guy Wallpapers</title>
+      <link>https://512pixels.net/2026/03/lil-finder-5k-wallpapers/</link>
+      <guid isPermaLink="true">https://512pixels.net/2026/03/lil-finder-5k-wallpapers/</guid>
+      <pubDate>Tue, 17 Mar 2026 13:41:21 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Help I'm being persecuted</title>
+      <link>https://www.experimental-history.com/p/help-im-being-persecuted</link>
+      <guid isPermaLink="true">https://www.experimental-history.com/p/help-im-being-persecuted</guid>
+      <pubDate>Tue, 17 Mar 2026 13:33:13 +0000</pubDate>
+      <description>Experimental History</description>
+    </item>
+    <item>
+      <title>Powers don’t clear fractions</title>
+      <link>https://www.johndcook.com/blog/2026/03/17/powers-dont-clear-fractions/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/03/17/powers-dont-clear-fractions/</guid>
+      <pubDate>Tue, 17 Mar 2026 13:26:13 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
     <item>
       <title>Tone row operations</title>
       <link>https://www.johndcook.com/blog/2026/03/17/tone-row-operations/</link>
@@ -41,9 +104,16 @@
       <description>Troy Hunt</description>
     </item>
     <item>
+      <title>My homelab will be down for at least 20 days</title>
+      <link>https://xeiaso.net/notes/2026/homelab-is-down/</link>
+      <guid isPermaLink="true">https://xeiaso.net/notes/2026/homelab-is-down/</guid>
+      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
+    </item>
+    <item>
       <title>[Sponsor] Mux — Video API for Developers</title>
-      <link>https://www.mux.com/video-api?utm_campaign=fireball&amp;utm_source=DF</link>
-      <guid isPermaLink="true">https://www.mux.com/video-api?utm_campaign=fireball&amp;utm_source=DF</guid>
+      <link>https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF</link>
+      <guid isPermaLink="true">https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF</guid>
       <pubDate>Mon, 16 Mar 2026 23:47:24 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
@@ -545,18 +615,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>How to use the Qwen 3.5 LLMs to OCR documents</title>
-      <link>https://martinalderson.com/posts/how-to-use-qwen-3-5-to-ocr-documents/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
-      <guid isPermaLink="true">https://martinalderson.com/posts/how-to-use-qwen-3-5-to-ocr-documents/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
-      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Martin Alderson</description>
-    </item>
-    <item>
       <title>What do coders do after AI?</title>
       <link>https://anildash.com/2026/03/13/coders-after-ai/</link>
       <guid isPermaLink="true">https://anildash.com/2026/03/13/coders-after-ai/</guid>
       <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
       <description>Anil Dash</description>
+    </item>
+    <item>
+      <title>How to use the Qwen 3.5 LLMs to OCR documents</title>
+      <link>https://martinalderson.com/posts/how-to-use-qwen-3-5-to-ocr-documents/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
+      <guid isPermaLink="true">https://martinalderson.com/posts/how-to-use-qwen-3-5-to-ocr-documents/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
+      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Martin Alderson</description>
     </item>
     <item>
       <title>Apple’s Platform Security Guide Adds a Brief Note on the MacBook Neo’s On-Screen Camera Indicator</title>
@@ -699,18 +769,18 @@
       <description>Evan Hahn (dot com)</description>
     </item>
     <item>
-      <title>Git Checkout, Reset and Restore</title>
-      <link>https://susam.net/git-checkout-reset-restore.html</link>
-      <guid isPermaLink="true">https://susam.net/git-checkout-reset-restore.html</guid>
-      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Susam Pal</description>
-    </item>
-    <item>
       <title>Windows 11 after two decades of macOS: okay, but also awful</title>
       <link>https://rakhim.exotext.com/windows-11-experience</link>
       <guid isPermaLink="true">https://rakhim.exotext.com/windows-11-experience</guid>
       <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
       <description>Rakhim's blog</description>
+    </item>
+    <item>
+      <title>Git Checkout, Reset and Restore</title>
+      <link>https://susam.net/git-checkout-reset-restore.html</link>
+      <guid isPermaLink="true">https://susam.net/git-checkout-reset-restore.html</guid>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Susam Pal</description>
     </item>
     <item>
       <title>On Making</title>
@@ -774,76 +844,6 @@
       <guid isPermaLink="true">https://www.dwarkesh.com/p/dow-anthropic</guid>
       <pubDate>Wed, 11 Mar 2026 18:55:20 +0000</pubDate>
       <description>Dwarkesh Podcast</description>
-    </item>
-    <item>
-      <title>Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker</title>
-      <link>https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/</link>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/</guid>
-      <pubDate>Wed, 11 Mar 2026 16:20:13 +0000</pubDate>
-      <description>Krebs on Security</description>
-    </item>
-    <item>
-      <title>Changing my mind on UBI</title>
-      <link>https://geohot.github.io//blog/jekyll/update/2026/03/12/changing-my-mind-on-ubi.html</link>
-      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/03/12/changing-my-mind-on-ubi.html</guid>
-      <pubDate>Wed, 11 Mar 2026 16:00:00 +0000</pubDate>
-      <description>the singularity is nearer</description>
-    </item>
-    <item>
-      <title>Quoting John Carmack</title>
-      <link>https://simonwillison.net/2026/Mar/11/john-carmack/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/11/john-carmack/#atom-everything</guid>
-      <pubDate>Wed, 11 Mar 2026 14:47:09 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>How do compilers ensure that large stack allocations do not skip over the guard page?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260311-00/?p=112134</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260311-00/?p=112134</guid>
-      <pubDate>Wed, 11 Mar 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Game Review: It Takes Two ★★★★★</title>
-      <link>https://shkspr.mobi/blog/2026/03/game-review-it-takes-two/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/03/game-review-it-takes-two/</guid>
-      <pubDate>Wed, 11 Mar 2026 12:34:02 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Where did you think the training data was coming from?</title>
-      <link>https://idiallo.com/blog/where-did-the-training-data-come-from-meta-ai-rayban-glasses?src=feed</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/where-did-the-training-data-come-from-meta-ai-rayban-glasses?src=feed</guid>
-      <pubDate>Wed, 11 Mar 2026 12:00:00 +0000</pubDate>
-      <description>iDiallo.com</description>
-    </item>
-    <item>
-      <title>git-pkgs/actions</title>
-      <link>https://nesbitt.io/2026/03/11/git-pkgs-actions.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/03/11/git-pkgs-actions.html</guid>
-      <pubDate>Wed, 11 Mar 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>The Server Older than my Kids!</title>
-      <link>https://idiallo.com/byte-size/my-server-is-older-than-my-kids?src=feed</link>
-      <guid isPermaLink="true">https://idiallo.com/byte-size/my-server-is-older-than-my-kids?src=feed</guid>
-      <pubDate>Wed, 11 Mar 2026 01:38:25 +0000</pubDate>
-      <description>iDiallo.com</description>
-    </item>
-    <item>
-      <title>Microsoft Patch Tuesday, March 2026 Edition</title>
-      <link>https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/</link>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/</guid>
-      <pubDate>Wed, 11 Mar 2026 00:32:51 +0000</pubDate>
-      <description>Krebs on Security</description>
-    </item>
-    <item>
-      <title>I don't know if I like working at higher levels of abstraction</title>
-      <link>https://xeiaso.net/blog/2026/ai-abstraction/</link>
-      <guid isPermaLink="true">https://xeiaso.net/blog/2026/ai-abstraction/</guid>
-      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
     </item>
   </channel>
 </rss>

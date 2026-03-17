@@ -208,11 +208,11 @@ Last Updated: Wednesday, March 18th, 2026, 2:54:43 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Tone row operations](https://www.johndcook.com/blog/2026/03/17/tone-row-operations/) — *John D. Cook* `03-17`
-- [Your Startup Is Probably Dead On Arrival](https://steveblank.com/2026/03/17/your-startup-is-probably-dead-on-arrival/) — *Steve Blank* `03-17`
-- [Subagents](https://simonwillison.net/guides/agentic-engineering-patterns/subagents/#atom-everything) — *Simon Willison's Weblog* `03-17`
-- [Hedley Davis has died](https://oldvcr.blogspot.com/2026/03/hedley-davis-has-died.html) — *Old Vintage Computing Research* `03-17`
-- [Weekly Update 495](https://www.troyhunt.com/weekly-update-495/) — *Troy Hunt* `03-17`
+- [You Might Debate It — If You Could See It](https://blog.jim-nielsen.com/2026/opacity-of-generative-tools/) — *Jim Nielsen’s Blog* `04-17`
+- [Why Are We Still Doing This?](https://www.wheresyoured.at/why-are-we-still-doing-this/) — *Ed Zitron's Where's Your Ed At* `03-17`
+- [Quoting Tim Schilling](https://simonwillison.net/2026/Mar/17/tim-schilling/#atom-everything) — *Simon Willison's Weblog* `03-17`
+- [Pluralistic: William Gibson vs Margaret Thatcher (17 Mar 2026)](https://pluralistic.net/2026/03/17/technopolitics/) — *Pluralistic: Daily links from Cory Doctorow* `03-17`
+- [Windows stack limit checking retrospective: x86-32 also known as i386, second try](https://devblogs.microsoft.com/oldnewthing/20260317-00/?p=112144) — *The Old New Thing* `03-17`
 <!--BLOG_RADAR:end-->
 
 ---
