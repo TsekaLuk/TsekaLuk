@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 18 Mar 2026 02:50:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 07:12:28 +0000</lastBuildDate>
+    <item>
+      <title>Marc Andreessen is wrong about introspection</title>
+      <link>https://www.joanwestenberg.com/marc-andreessen-is-wrong-about-introspection/</link>
+      <guid isPermaLink="true">https://www.joanwestenberg.com/marc-andreessen-is-wrong-about-introspection/</guid>
+      <pubDate>Wed, 18 Mar 2026 06:53:51 +0000</pubDate>
+      <description>Westenberg.</description>
+    </item>
+    <item>
+      <title>Tighter bounds on alternating series remainder</title>
+      <link>https://www.johndcook.com/blog/2026/03/17/alternating-series-remainder/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/03/17/alternating-series-remainder/</guid>
+      <pubDate>Wed, 18 Mar 2026 02:50:12 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Wander the Small Web</title>
+      <link>https://susam.net/wander/</link>
+      <guid isPermaLink="true">https://susam.net/wander/</guid>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Susam Pal</description>
+    </item>
     <item>
       <title>★ Squashing</title>
       <link>https://daringfireball.net/2026/03/squashing</link>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">http://beej.us/blog/data/ai-making/</guid>
       <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
       <description>Beej's Bit Bucket</description>
-    </item>
-    <item>
-      <title>Apple Has Changed Several Key Cap Labels From Words to Glyphs on Its Latest U.S. MacBook Keyboards</title>
-      <link>https://x.com/ClassicII_MrMac/status/2028869838870069447</link>
-      <guid isPermaLink="true">https://x.com/ClassicII_MrMac/status/2028869838870069447</guid>
-      <pubDate>Wed, 11 Mar 2026 23:06:05 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Halide Cofounder Sebastiaan de With Joined Apple’s Design Team in January</title>
-      <link>https://9to5mac.com/2026/01/28/halide-cofounder-sebastiaan-de-with-joins-apples-design-team/</link>
-      <guid isPermaLink="true">https://9to5mac.com/2026/01/28/halide-cofounder-sebastiaan-de-with-joins-apples-design-team/</guid>
-      <pubDate>Wed, 11 Mar 2026 23:00:00 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Are LLMs not getting better?</title>
-      <link>https://entropicthoughts.com/no-swe-bench-improvement</link>
-      <guid isPermaLink="true">https://entropicthoughts.com/no-swe-bench-improvement</guid>
-      <pubDate>Wed, 11 Mar 2026 23:00:00 +0000</pubDate>
-      <description>Entropic Thoughts</description>
     </item>
   </channel>
 </rss>

@@ -208,11 +208,11 @@ Last Updated: Wednesday, March 18th, 2026, 2:56:09 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Marc Andreessen is wrong about introspection](https://www.joanwestenberg.com/marc-andreessen-is-wrong-about-introspection/) — *Westenberg.* `03-18`
+- [Tighter bounds on alternating series remainder](https://www.johndcook.com/blog/2026/03/17/alternating-series-remainder/) — *John D. Cook* `03-18`
+- [Wander the Small Web](https://susam.net/wander/) — *Susam Pal* `03-18`
 - [★ Squashing](https://daringfireball.net/2026/03/squashing) — *Daring Fireball* `03-17`
 - [Quoting Ken Jin](https://simonwillison.net/2026/Mar/17/ken-jin/#atom-everything) — *Simon Willison's Weblog* `03-17`
-- [GPT-5.4 mini and GPT-5.4 nano, which can describe 76,000 photos for $52](https://simonwillison.net/2026/Mar/17/mini-and-nano/#atom-everything) — *Simon Willison's Weblog* `03-17`
-- [Fox Sports to Broadcast U.S.-Venezuela World Baseball Classic Final in Immersive 3D — But Not on Vision Pro](https://x.com/mlbonfox/status/2033902946174271992?s=46) — *Daring Fireball* `03-17`
-- [You Might Debate It — If You Could See It](https://blog.jim-nielsen.com/2026/opacity-of-generative-tools/) — *Jim Nielsen’s Blog* `03-17`
 <!--BLOG_RADAR:end-->
 
 ---
