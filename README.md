@@ -208,11 +208,11 @@ Last Updated: Thursday, March 19th, 2026, 2:52:31 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Meta Is Dropping VR Support From Horizon Worlds](https://www.uploadvr.com/meta-horizon-worlds-dropping-vr-support/) — *Daring Fireball* `03-18`
+- [David Zaslav Set to Receive Up to $887 Million if Paramount Acquisition of Warner Bros Closes](https://finance.yahoo.com/news/warner-bros-discovery-ceo-david-zaslav-set-to-receive-up-to-887-million-if-paramount-deal-closes-144501826.html) — *Daring Fireball* `03-18`
+- [Snowflake Cortex AI Escapes Sandbox and Executes Malware](https://simonwillison.net/2026/Mar/18/snowflake-cortex-ai/#atom-everything) — *Simon Willison's Weblog* `03-18`
+- [Windows stack limit checking retrospective: Alpha AXP](https://devblogs.microsoft.com/oldnewthing/20260318-00/?p=112146) — *The Old New Thing* `03-18`
 - [Finding the right Bottom Hole paper](https://shkspr.mobi/blog/2026/03/finding-the-right-bottom-hole-paper/) — *Terence Eden’s Blog* `03-18`
-- [Communication Is Surveillance by Design](https://idiallo.com/blog/communication-is-surveillance-by-design?src=feed) — *iDiallo.com* `03-18`
-- [Marc Andreessen is wrong about introspection](https://www.joanwestenberg.com/marc-andreessen-is-wrong-about-introspection/) — *Westenberg.* `03-18`
-- [Tighter bounds on alternating series remainder](https://www.johndcook.com/blog/2026/03/17/alternating-series-remainder/) — *John D. Cook* `03-18`
-- [Wander the Small Web](https://susam.net/wander/) — *Susam Pal* `03-18`
 <!--BLOG_RADAR:end-->
 
 ---
