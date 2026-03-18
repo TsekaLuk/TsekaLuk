@@ -4,12 +4,40 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 17 Mar 2026 19:13:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 02:50:18 +0000</lastBuildDate>
+    <item>
+      <title>★ Squashing</title>
+      <link>https://daringfireball.net/2026/03/squashing</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/03/squashing</guid>
+      <pubDate>Tue, 17 Mar 2026 23:47:47 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Quoting Ken Jin</title>
+      <link>https://simonwillison.net/2026/Mar/17/ken-jin/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/17/ken-jin/#atom-everything</guid>
+      <pubDate>Tue, 17 Mar 2026 21:48:26 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>GPT-5.4 mini and GPT-5.4 nano, which can describe 76,000 photos for $52</title>
+      <link>https://simonwillison.net/2026/Mar/17/mini-and-nano/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/17/mini-and-nano/#atom-everything</guid>
+      <pubDate>Tue, 17 Mar 2026 19:39:17 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Fox Sports to Broadcast U.S.-Venezuela World Baseball Classic Final in Immersive 3D — But Not on Vision Pro</title>
+      <link>https://x.com/mlbonfox/status/2033902946174271992?s=46</link>
+      <guid isPermaLink="true">https://x.com/mlbonfox/status/2033902946174271992?s=46</guid>
+      <pubDate>Tue, 17 Mar 2026 19:26:12 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>You Might Debate It — If You Could See It</title>
       <link>https://blog.jim-nielsen.com/2026/opacity-of-generative-tools/</link>
       <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/opacity-of-generative-tools/</guid>
-      <pubDate>Fri, 17 Apr 2026 19:00:00 +0000</pubDate>
+      <pubDate>Tue, 17 Mar 2026 19:00:00 +0000</pubDate>
       <description>Jim Nielsen’s Blog</description>
     </item>
     <item>
@@ -109,6 +137,13 @@
       <guid isPermaLink="true">https://xeiaso.net/notes/2026/homelab-is-down/</guid>
       <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>Using agents and Wine to move off Windows</title>
+      <link>https://martinalderson.com/posts/using-agents-and-wine-to-move-off-windows/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
+      <guid isPermaLink="true">https://martinalderson.com/posts/using-agents-and-wine-to-move-off-windows/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
+      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Martin Alderson</description>
     </item>
     <item>
       <title>[Sponsor] Mux — Video API for Developers</title>
@@ -769,18 +804,18 @@
       <description>Evan Hahn (dot com)</description>
     </item>
     <item>
-      <title>Windows 11 after two decades of macOS: okay, but also awful</title>
-      <link>https://rakhim.exotext.com/windows-11-experience</link>
-      <guid isPermaLink="true">https://rakhim.exotext.com/windows-11-experience</guid>
-      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Rakhim's blog</description>
-    </item>
-    <item>
       <title>Git Checkout, Reset and Restore</title>
       <link>https://susam.net/git-checkout-reset-restore.html</link>
       <guid isPermaLink="true">https://susam.net/git-checkout-reset-restore.html</guid>
       <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
       <description>Susam Pal</description>
+    </item>
+    <item>
+      <title>Windows 11 after two decades of macOS: okay, but also awful</title>
+      <link>https://rakhim.exotext.com/windows-11-experience</link>
+      <guid isPermaLink="true">https://rakhim.exotext.com/windows-11-experience</guid>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Rakhim's blog</description>
     </item>
     <item>
       <title>On Making</title>
@@ -809,41 +844,6 @@
       <guid isPermaLink="true">https://entropicthoughts.com/no-swe-bench-improvement</guid>
       <pubDate>Wed, 11 Mar 2026 23:00:00 +0000</pubDate>
       <description>Entropic Thoughts</description>
-    </item>
-    <item>
-      <title>Sorting algorithms</title>
-      <link>https://simonwillison.net/2026/Mar/11/sorting-algorithms/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/11/sorting-algorithms/#atom-everything</guid>
-      <pubDate>Wed, 11 Mar 2026 22:58:06 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Members Only: We desperately need a Reality Literacy</title>
-      <link>https://www.joanwestenberg.com/we-desperately-need-a-reality-literacy/</link>
-      <guid isPermaLink="true">https://www.joanwestenberg.com/we-desperately-need-a-reality-literacy/</guid>
-      <pubDate>Wed, 11 Mar 2026 22:47:17 +0000</pubDate>
-      <description>Westenberg.</description>
-    </item>
-    <item>
-      <title>Pluralistic: AI "journalists" prove that media bosses don't give a shit (11 Mar 2026)</title>
-      <link>https://pluralistic.net/2026/03/11/modal-dialog-a-palooza/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/03/11/modal-dialog-a-palooza/</guid>
-      <pubDate>Wed, 11 Mar 2026 19:11:59 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>From the DF Archive: ‘And Oranges’</title>
-      <link>https://daringfireball.net/2006/06/and_oranges</link>
-      <guid isPermaLink="true">https://daringfireball.net/2006/06/and_oranges</guid>
-      <pubDate>Wed, 11 Mar 2026 19:02:11 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The most important question nobody's asking about AI</title>
-      <link>https://www.dwarkesh.com/p/dow-anthropic</link>
-      <guid isPermaLink="true">https://www.dwarkesh.com/p/dow-anthropic</guid>
-      <pubDate>Wed, 11 Mar 2026 18:55:20 +0000</pubDate>
-      <description>Dwarkesh Podcast</description>
     </item>
   </channel>
 </rss>

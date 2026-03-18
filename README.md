@@ -208,11 +208,11 @@ Last Updated: Wednesday, March 18th, 2026, 9:48:45 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [You Might Debate It — If You Could See It](https://blog.jim-nielsen.com/2026/opacity-of-generative-tools/) — *Jim Nielsen’s Blog* `04-17`
-- [Why Are We Still Doing This?](https://www.wheresyoured.at/why-are-we-still-doing-this/) — *Ed Zitron's Where's Your Ed At* `03-17`
-- [Quoting Tim Schilling](https://simonwillison.net/2026/Mar/17/tim-schilling/#atom-everything) — *Simon Willison's Weblog* `03-17`
-- [Pluralistic: William Gibson vs Margaret Thatcher (17 Mar 2026)](https://pluralistic.net/2026/03/17/technopolitics/) — *Pluralistic: Daily links from Cory Doctorow* `03-17`
-- [Windows stack limit checking retrospective: x86-32 also known as i386, second try](https://devblogs.microsoft.com/oldnewthing/20260317-00/?p=112144) — *The Old New Thing* `03-17`
+- [★ Squashing](https://daringfireball.net/2026/03/squashing) — *Daring Fireball* `03-17`
+- [Quoting Ken Jin](https://simonwillison.net/2026/Mar/17/ken-jin/#atom-everything) — *Simon Willison's Weblog* `03-17`
+- [GPT-5.4 mini and GPT-5.4 nano, which can describe 76,000 photos for $52](https://simonwillison.net/2026/Mar/17/mini-and-nano/#atom-everything) — *Simon Willison's Weblog* `03-17`
+- [Fox Sports to Broadcast U.S.-Venezuela World Baseball Classic Final in Immersive 3D — But Not on Vision Pro](https://x.com/mlbonfox/status/2033902946174271992?s=46) — *Daring Fireball* `03-17`
+- [You Might Debate It — If You Could See It](https://blog.jim-nielsen.com/2026/opacity-of-generative-tools/) — *Jim Nielsen’s Blog* `03-17`
 <!--BLOG_RADAR:end-->
 
 ---
