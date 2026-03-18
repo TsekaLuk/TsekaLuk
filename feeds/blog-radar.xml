@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 18 Mar 2026 07:12:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 13:42:18 +0000</lastBuildDate>
+    <item>
+      <title>Finding the right Bottom Hole paper</title>
+      <link>https://shkspr.mobi/blog/2026/03/finding-the-right-bottom-hole-paper/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/03/finding-the-right-bottom-hole-paper/</guid>
+      <pubDate>Wed, 18 Mar 2026 12:34:37 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Communication Is Surveillance by Design</title>
+      <link>https://idiallo.com/blog/communication-is-surveillance-by-design?src=feed</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/communication-is-surveillance-by-design?src=feed</guid>
+      <pubDate>Wed, 18 Mar 2026 12:00:00 +0000</pubDate>
+      <description>iDiallo.com</description>
+    </item>
     <item>
       <title>Marc Andreessen is wrong about introspection</title>
       <link>https://www.joanwestenberg.com/marc-andreessen-is-wrong-about-introspection/</link>
@@ -601,18 +615,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Restoring an Xserve G5: When Apple built real servers</title>
-      <link>https://www.jeffgeerling.com/blog/2026/restoring-xserve-g5-apple-server/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/restoring-xserve-g5-apple-server/</guid>
-      <pubDate>Fri, 13 Mar 2026 14:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
       <title>Windows stack limit checking retrospective: MIPS</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260313-00/?p=112138</link>
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260313-00/?p=112138</guid>
       <pubDate>Fri, 13 Mar 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>Restoring an Xserve G5: When Apple built real servers</title>
+      <link>https://www.jeffgeerling.com/blog/2026/restoring-xserve-g5-apple-server/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/restoring-xserve-g5-apple-server/</guid>
+      <pubDate>Fri, 13 Mar 2026 14:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
     </item>
     <item>
       <title>An odd font rendering bug in Firefox and Safari</title>
@@ -671,18 +685,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>What do coders do after AI?</title>
-      <link>https://anildash.com/2026/03/13/coders-after-ai/</link>
-      <guid isPermaLink="true">https://anildash.com/2026/03/13/coders-after-ai/</guid>
-      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Anil Dash</description>
-    </item>
-    <item>
       <title>How to use the Qwen 3.5 LLMs to OCR documents</title>
       <link>https://martinalderson.com/posts/how-to-use-qwen-3-5-to-ocr-documents/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
       <guid isPermaLink="true">https://martinalderson.com/posts/how-to-use-qwen-3-5-to-ocr-documents/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
       <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
       <description>Martin Alderson</description>
+    </item>
+    <item>
+      <title>What do coders do after AI?</title>
+      <link>https://anildash.com/2026/03/13/coders-after-ai/</link>
+      <guid isPermaLink="true">https://anildash.com/2026/03/13/coders-after-ai/</guid>
+      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Anil Dash</description>
     </item>
     <item>
       <title>Apple’s Platform Security Guide Adds a Brief Note on the MacBook Neo’s On-Screen Camera Indicator</title>
@@ -825,25 +839,11 @@
       <description>Evan Hahn (dot com)</description>
     </item>
     <item>
-      <title>Git Checkout, Reset and Restore</title>
-      <link>https://susam.net/git-checkout-reset-restore.html</link>
-      <guid isPermaLink="true">https://susam.net/git-checkout-reset-restore.html</guid>
-      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Susam Pal</description>
-    </item>
-    <item>
       <title>Windows 11 after two decades of macOS: okay, but also awful</title>
       <link>https://rakhim.exotext.com/windows-11-experience</link>
       <guid isPermaLink="true">https://rakhim.exotext.com/windows-11-experience</guid>
       <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
       <description>Rakhim's blog</description>
-    </item>
-    <item>
-      <title>On Making</title>
-      <link>http://beej.us/blog/data/ai-making/</link>
-      <guid isPermaLink="true">http://beej.us/blog/data/ai-making/</guid>
-      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Beej's Bit Bucket</description>
     </item>
   </channel>
 </rss>

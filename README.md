@@ -208,11 +208,11 @@ Last Updated: Wednesday, March 18th, 2026, 8:58:48 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Finding the right Bottom Hole paper](https://shkspr.mobi/blog/2026/03/finding-the-right-bottom-hole-paper/) — *Terence Eden’s Blog* `03-18`
+- [Communication Is Surveillance by Design](https://idiallo.com/blog/communication-is-surveillance-by-design?src=feed) — *iDiallo.com* `03-18`
 - [Marc Andreessen is wrong about introspection](https://www.joanwestenberg.com/marc-andreessen-is-wrong-about-introspection/) — *Westenberg.* `03-18`
 - [Tighter bounds on alternating series remainder](https://www.johndcook.com/blog/2026/03/17/alternating-series-remainder/) — *John D. Cook* `03-18`
 - [Wander the Small Web](https://susam.net/wander/) — *Susam Pal* `03-18`
-- [★ Squashing](https://daringfireball.net/2026/03/squashing) — *Daring Fireball* `03-17`
-- [Quoting Ken Jin](https://simonwillison.net/2026/Mar/17/ken-jin/#atom-everything) — *Simon Willison's Weblog* `03-17`
 <!--BLOG_RADAR:end-->
 
 ---
