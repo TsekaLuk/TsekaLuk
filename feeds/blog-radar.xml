@@ -4,13 +4,34 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 19 Mar 2026 07:07:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 13:22:39 +0000</lastBuildDate>
     <item>
-      <title>One problem with (Python) docstrings is that they're local</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/python/DocstringsAreLocal</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/python/DocstringsAreLocal</guid>
-      <pubDate>Thu, 19 Mar 2026 02:40:17 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
+      <title>Pluralistic: Love of corporate bullshit is correlated with bad judgment (19 Mar 2026)</title>
+      <link>https://pluralistic.net/2026/03/19/jargon-watch/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/03/19/jargon-watch/</guid>
+      <pubDate>Thu, 19 Mar 2026 12:47:06 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>How Much Computing Power is in a Data Center?</title>
+      <link>https://www.construction-physics.com/p/how-much-computing-power-is-in-a</link>
+      <guid isPermaLink="true">https://www.construction-physics.com/p/how-much-computing-power-is-in-a</guid>
+      <pubDate>Thu, 19 Mar 2026 12:01:33 +0000</pubDate>
+      <description>Construction Physics</description>
+    </item>
+    <item>
+      <title>The Fragmented World of Dependency Policy</title>
+      <link>https://nesbitt.io/2026/03/19/the-fragmented-world-of-dependency-policy.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/03/19/the-fragmented-world-of-dependency-policy.html</guid>
+      <pubDate>Thu, 19 Mar 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>On becoming a day person</title>
+      <link>https://herman.bearblog.dev/becoming-a-day-person/</link>
+      <guid isPermaLink="true">https://herman.bearblog.dev/becoming-a-day-person/</guid>
+      <pubDate>Thu, 19 Mar 2026 09:17:00 +0000</pubDate>
+      <description>Herman's blog</description>
     </item>
     <item>
       <title>A lesser-known characterization of the gamma function</title>
@@ -18,6 +39,20 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/03/18/wielandt/</guid>
       <pubDate>Thu, 19 Mar 2026 01:21:53 +0000</pubDate>
       <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Consensus Board Game</title>
+      <link>https://matklad.github.io/2026/03/19/consensus-board-game.html</link>
+      <guid isPermaLink="true">https://matklad.github.io/2026/03/19/consensus-board-game.html</guid>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+      <description>matklad</description>
+    </item>
+    <item>
+      <title>Related UI elements should not appear unrelated</title>
+      <link>https://rakhim.exotext.com/related-ui-elements-should-not-appear-unrelated</link>
+      <guid isPermaLink="true">https://rakhim.exotext.com/related-ui-elements-should-not-appear-unrelated</guid>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Rakhim's blog</description>
     </item>
     <item>
       <title>Autoresearching Apple's "LLM in a Flash" to run Qwen 397B locally</title>
@@ -118,11 +153,11 @@
       <description>John D. Cook</description>
     </item>
     <item>
-      <title>Wayland has good reasons to put the window manager in the display server</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/unix/WaylandAndBuiltinWindowManagers</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/unix/WaylandAndBuiltinWindowManagers</guid>
-      <pubDate>Wed, 18 Mar 2026 02:26:51 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
+      <title>LLMs predict my coffee</title>
+      <link>https://dynomight.net/coffee/</link>
+      <guid isPermaLink="true">https://dynomight.net/coffee/</guid>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>Homelab downtime update: The fight for DNS supremacy</title>
@@ -130,13 +165,6 @@
       <guid isPermaLink="true">https://xeiaso.net/notes/2026/dns-fight/</guid>
       <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
-    </item>
-    <item>
-      <title>LLMs predict my coffee</title>
-      <link>https://dynomight.net/coffee/</link>
-      <guid isPermaLink="true">https://dynomight.net/coffee/</guid>
-      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>Wander the Small Web</title>
@@ -279,13 +307,6 @@
       <description>Troy Hunt</description>
     </item>
     <item>
-      <title>Cleaning old GPG RPM keys that your Fedora install is keeping around</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/FedoraCleaningOldGpgRPMKeys</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/FedoraCleaningOldGpgRPMKeys</guid>
-      <pubDate>Tue, 17 Mar 2026 01:56:30 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
       <title>My homelab will be down for at least 20 days</title>
       <link>https://xeiaso.net/notes/2026/homelab-is-down/</link>
       <guid isPermaLink="true">https://xeiaso.net/notes/2026/homelab-is-down/</guid>
@@ -417,13 +438,6 @@
       <guid isPermaLink="true">https://it-notes.dragas.net/2026/03/16/why-i-love-freebsd/</guid>
       <pubDate>Mon, 16 Mar 2026 08:10:00 +0000</pubDate>
       <description>IT Notes</description>
-    </item>
-    <item>
-      <title>Making empirical decisions about web access (here in 2026)</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/web/WebAccessDecisionsEmpirical</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/web/WebAccessDecisionsEmpirical</guid>
-      <pubDate>Mon, 16 Mar 2026 02:12:17 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>Shower Thought: Git Teleportation</title>
@@ -559,13 +573,6 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>I think dependency cooldowns would be a good idea for Go</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/programming/GoDependencyCooldownsGood</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/programming/GoDependencyCooldownsGood</guid>
-      <pubDate>Sat, 14 Mar 2026 20:26:43 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
       <title>PC Makers Are Not Ready for the MacBook Neo</title>
       <link>https://www.theverge.com/report/894090/macbook-neo-pc-windows-laptop-competition-asus-footinmouth</link>
       <guid isPermaLink="true">https://www.theverge.com/report/894090/macbook-neo-pc-windows-laptop-competition-asus-footinmouth</guid>
@@ -634,13 +641,6 @@
       <guid isPermaLink="true">https://idiallo.com/byte-size/digg-is-gone-again?src=feed</guid>
       <pubDate>Sat, 14 Mar 2026 08:41:00 +0000</pubDate>
       <description>iDiallo.com</description>
-    </item>
-    <item>
-      <title>On today's web, HTTP results depend on the HTTP User-Agent you use</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/web/HTTPResultsAndUserAgents</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/web/HTTPResultsAndUserAgents</guid>
-      <pubDate>Sat, 14 Mar 2026 03:27:19 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>Last-Run Syndication</title>
@@ -804,13 +804,6 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>You (I) should document the forms of your Django web application</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/python/DjangoDocumentYourForms</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/python/DjangoDocumentYourForms</guid>
-      <pubDate>Fri, 13 Mar 2026 03:18:17 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
       <title>Everything's Casino</title>
       <link>https://www.joanwestenberg.com/everythings-casino/</link>
       <guid isPermaLink="true">https://www.joanwestenberg.com/everythings-casino/</guid>
@@ -844,6 +837,13 @@
       <guid isPermaLink="true">https://martinalderson.com/posts/how-to-use-qwen-3-5-to-ocr-documents/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
       <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
       <description>Martin Alderson</description>
+    </item>
+    <item>
+      <title>Apple’s Platform Security Guide Adds a Brief Note on the MacBook Neo’s On-Screen Camera Indicator</title>
+      <link>https://support.apple.com/guide/security/mac-on-screen-camera-indicator-light-sec75a2d237d/1/web/1</link>
+      <guid isPermaLink="true">https://support.apple.com/guide/security/mac-on-screen-camera-indicator-light-sec75a2d237d/1/web/1</guid>
+      <pubDate>Thu, 12 Mar 2026 23:48:59 +0000</pubDate>
+      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>

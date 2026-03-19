@@ -208,11 +208,11 @@ Last Updated: Thursday, March 19th, 2026, 8:53:19 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [One problem with (Python) docstrings is that they're local](https://utcc.utoronto.ca/~cks/space/blog/python/DocstringsAreLocal) — *Chris's Wiki :: blog* `03-19`
+- [Pluralistic: Love of corporate bullshit is correlated with bad judgment (19 Mar 2026)](https://pluralistic.net/2026/03/19/jargon-watch/) — *Pluralistic: Daily links from Cory Doctorow* `03-19`
+- [How Much Computing Power is in a Data Center?](https://www.construction-physics.com/p/how-much-computing-power-is-in-a) — *Construction Physics* `03-19`
+- [The Fragmented World of Dependency Policy](https://nesbitt.io/2026/03/19/the-fragmented-world-of-dependency-policy.html) — *Andrew Nesbitt* `03-19`
+- [On becoming a day person](https://herman.bearblog.dev/becoming-a-day-person/) — *Herman's blog* `03-19`
 - [A lesser-known characterization of the gamma function](https://www.johndcook.com/blog/2026/03/18/wielandt/) — *John D. Cook* `03-19`
-- [Autoresearching Apple's "LLM in a Flash" to run Qwen 397B locally](https://simonwillison.net/2026/Mar/18/llm-in-a-flash/#atom-everything) — *Simon Willison's Weblog* `03-18`
-- [The Talk Show: ‘The Pogue Feature’](https://daringfireball.net/thetalkshow/2026/03/18/ep-443) — *Daring Fireball* `03-18`
-- [★ ‘Your Frustration Is the Product’](https://daringfireball.net/2026/03/your_frustration_is_the_product) — *Daring Fireball* `03-18`
 <!--BLOG_RADAR:end-->
 
 ---
