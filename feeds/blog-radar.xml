@@ -4,7 +4,49 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 18 Mar 2026 19:12:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 02:51:48 +0000</lastBuildDate>
+    <item>
+      <title>A lesser-known characterization of the gamma function</title>
+      <link>https://www.johndcook.com/blog/2026/03/18/wielandt/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/03/18/wielandt/</guid>
+      <pubDate>Thu, 19 Mar 2026 01:21:53 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Autoresearching Apple's "LLM in a Flash" to run Qwen 397B locally</title>
+      <link>https://simonwillison.net/2026/Mar/18/llm-in-a-flash/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/18/llm-in-a-flash/#atom-everything</guid>
+      <pubDate>Wed, 18 Mar 2026 23:56:46 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>The Talk Show: ‘The Pogue Feature’</title>
+      <link>https://daringfireball.net/thetalkshow/2026/03/18/ep-443</link>
+      <guid isPermaLink="true">https://daringfireball.net/thetalkshow/2026/03/18/ep-443</guid>
+      <pubDate>Wed, 18 Mar 2026 23:40:00 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>★ ‘Your Frustration Is the Product’</title>
+      <link>https://daringfireball.net/2026/03/your_frustration_is_the_product</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/03/your_frustration_is_the_product</guid>
+      <pubDate>Wed, 18 Mar 2026 23:39:57 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>How to Identify Your Apple Keyboard Layout by Country or Region</title>
+      <link>https://support.apple.com/en-us/102743</link>
+      <guid isPermaLink="true">https://support.apple.com/en-us/102743</guid>
+      <pubDate>Wed, 18 Mar 2026 21:29:03 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Jony Ive on Redesigning the Christie’s Rostrum</title>
+      <link>https://www.youtube.com/watch?v=HLXDxx06_EM</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=HLXDxx06_EM</guid>
+      <pubDate>Wed, 18 Mar 2026 21:25:50 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Meta Is Dropping VR Support From Horizon Worlds</title>
       <link>https://www.uploadvr.com/meta-horizon-worlds-dropping-vr-support/</link>
@@ -86,6 +128,13 @@
       <title>Wander the Small Web</title>
       <link>https://susam.net/wander/</link>
       <guid isPermaLink="true">https://susam.net/wander/</guid>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Susam Pal</description>
+    </item>
+    <item>
+      <title>Wander 0.1.0</title>
+      <link>https://susam.net/code/news/wander/0.1.0.html</link>
+      <guid isPermaLink="true">https://susam.net/code/news/wander/0.1.0.html</guid>
       <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
       <description>Susam Pal</description>
     </item>
@@ -734,18 +783,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>What do coders do after AI?</title>
-      <link>https://anildash.com/2026/03/13/coders-after-ai/</link>
-      <guid isPermaLink="true">https://anildash.com/2026/03/13/coders-after-ai/</guid>
-      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Anil Dash</description>
-    </item>
-    <item>
       <title>How to use the Qwen 3.5 LLMs to OCR documents</title>
       <link>https://martinalderson.com/posts/how-to-use-qwen-3-5-to-ocr-documents/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
       <guid isPermaLink="true">https://martinalderson.com/posts/how-to-use-qwen-3-5-to-ocr-documents/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
       <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
       <description>Martin Alderson</description>
+    </item>
+    <item>
+      <title>What do coders do after AI?</title>
+      <link>https://anildash.com/2026/03/13/coders-after-ai/</link>
+      <guid isPermaLink="true">https://anildash.com/2026/03/13/coders-after-ai/</guid>
+      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Anil Dash</description>
     </item>
     <item>
       <title>Apple’s Platform Security Guide Adds a Brief Note on the MacBook Neo’s On-Screen Camera Indicator</title>
@@ -795,55 +844,6 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/03/12/arccos/</guid>
       <pubDate>Thu, 12 Mar 2026 16:37:46 +0000</pubDate>
       <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Quoting Les Orchard</title>
-      <link>https://simonwillison.net/2026/Mar/12/les-orchard/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/12/les-orchard/#atom-everything</guid>
-      <pubDate>Thu, 12 Mar 2026 16:28:07 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Software Proprioception</title>
-      <link>https://unsung.aresluna.org/software-proprioception/</link>
-      <guid isPermaLink="true">https://unsung.aresluna.org/software-proprioception/</guid>
-      <pubDate>Thu, 12 Mar 2026 15:32:04 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Windows stack limit checking retrospective: x86-32, also known as i386</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260312-00/?p=112136</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260312-00/?p=112136</guid>
-      <pubDate>Thu, 12 Mar 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Historic Energy Price Cap Data (FOI success!)</title>
-      <link>https://shkspr.mobi/blog/2026/03/historic-energy-price-cap-data-foi-success/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/03/historic-energy-price-cap-data-foi-success/</guid>
-      <pubDate>Thu, 12 Mar 2026 12:34:01 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>The Elusive Cost Savings of the Prefabricated Home</title>
-      <link>https://www.construction-physics.com/p/the-elusive-cost-savings-of-the-prefabricated</link>
-      <guid isPermaLink="true">https://www.construction-physics.com/p/the-elusive-cost-savings-of-the-prefabricated</guid>
-      <pubDate>Thu, 12 Mar 2026 12:03:45 +0000</pubDate>
-      <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>Reviewing ENISA’s Package Manager Advisory</title>
-      <link>https://nesbitt.io/2026/03/12/reviewing-enisas-package-manager-advisory.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/03/12/reviewing-enisas-package-manager-advisory.html</guid>
-      <pubDate>Thu, 12 Mar 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Introduction to SQLAlchemy 2 In Practice</title>
-      <link>https://blog.miguelgrinberg.com/post/introduction-to-sqlalchemy-2-in-practice</link>
-      <guid isPermaLink="true">https://blog.miguelgrinberg.com/post/introduction-to-sqlalchemy-2-in-practice</guid>
-      <pubDate>Thu, 12 Mar 2026 09:43:25 +0000</pubDate>
-      <description>Miguel Grinberg's Blog</description>
     </item>
   </channel>
 </rss>

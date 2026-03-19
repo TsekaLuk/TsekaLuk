@@ -208,11 +208,11 @@ Last Updated: Thursday, March 19th, 2026, 9:49:49 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Meta Is Dropping VR Support From Horizon Worlds](https://www.uploadvr.com/meta-horizon-worlds-dropping-vr-support/) — *Daring Fireball* `03-18`
-- [David Zaslav Set to Receive Up to $887 Million if Paramount Acquisition of Warner Bros Closes](https://finance.yahoo.com/news/warner-bros-discovery-ceo-david-zaslav-set-to-receive-up-to-887-million-if-paramount-deal-closes-144501826.html) — *Daring Fireball* `03-18`
-- [Snowflake Cortex AI Escapes Sandbox and Executes Malware](https://simonwillison.net/2026/Mar/18/snowflake-cortex-ai/#atom-everything) — *Simon Willison's Weblog* `03-18`
-- [Windows stack limit checking retrospective: Alpha AXP](https://devblogs.microsoft.com/oldnewthing/20260318-00/?p=112146) — *The Old New Thing* `03-18`
-- [Finding the right Bottom Hole paper](https://shkspr.mobi/blog/2026/03/finding-the-right-bottom-hole-paper/) — *Terence Eden’s Blog* `03-18`
+- [A lesser-known characterization of the gamma function](https://www.johndcook.com/blog/2026/03/18/wielandt/) — *John D. Cook* `03-19`
+- [Autoresearching Apple's "LLM in a Flash" to run Qwen 397B locally](https://simonwillison.net/2026/Mar/18/llm-in-a-flash/#atom-everything) — *Simon Willison's Weblog* `03-18`
+- [The Talk Show: ‘The Pogue Feature’](https://daringfireball.net/thetalkshow/2026/03/18/ep-443) — *Daring Fireball* `03-18`
+- [★ ‘Your Frustration Is the Product’](https://daringfireball.net/2026/03/your_frustration_is_the_product) — *Daring Fireball* `03-18`
+- [How to Identify Your Apple Keyboard Layout by Country or Region](https://support.apple.com/en-us/102743) — *Daring Fireball* `03-18`
 <!--BLOG_RADAR:end-->
 
 ---
