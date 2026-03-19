@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 19 Mar 2026 02:51:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 07:07:02 +0000</lastBuildDate>
+    <item>
+      <title>One problem with (Python) docstrings is that they're local</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/python/DocstringsAreLocal</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/python/DocstringsAreLocal</guid>
+      <pubDate>Thu, 19 Mar 2026 02:40:17 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
     <item>
       <title>A lesser-known characterization of the gamma function</title>
       <link>https://www.johndcook.com/blog/2026/03/18/wielandt/</link>
@@ -109,6 +116,13 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/03/17/alternating-series-remainder/</guid>
       <pubDate>Wed, 18 Mar 2026 02:50:12 +0000</pubDate>
       <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Wayland has good reasons to put the window manager in the display server</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/unix/WaylandAndBuiltinWindowManagers</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/unix/WaylandAndBuiltinWindowManagers</guid>
+      <pubDate>Wed, 18 Mar 2026 02:26:51 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>Homelab downtime update: The fight for DNS supremacy</title>
@@ -265,6 +279,13 @@
       <description>Troy Hunt</description>
     </item>
     <item>
+      <title>Cleaning old GPG RPM keys that your Fedora install is keeping around</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/FedoraCleaningOldGpgRPMKeys</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/FedoraCleaningOldGpgRPMKeys</guid>
+      <pubDate>Tue, 17 Mar 2026 01:56:30 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
       <title>My homelab will be down for at least 20 days</title>
       <link>https://xeiaso.net/notes/2026/homelab-is-down/</link>
       <guid isPermaLink="true">https://xeiaso.net/notes/2026/homelab-is-down/</guid>
@@ -396,6 +417,13 @@
       <guid isPermaLink="true">https://it-notes.dragas.net/2026/03/16/why-i-love-freebsd/</guid>
       <pubDate>Mon, 16 Mar 2026 08:10:00 +0000</pubDate>
       <description>IT Notes</description>
+    </item>
+    <item>
+      <title>Making empirical decisions about web access (here in 2026)</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/web/WebAccessDecisionsEmpirical</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/web/WebAccessDecisionsEmpirical</guid>
+      <pubDate>Mon, 16 Mar 2026 02:12:17 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>Shower Thought: Git Teleportation</title>
@@ -531,6 +559,13 @@
       <description>Daring Fireball</description>
     </item>
     <item>
+      <title>I think dependency cooldowns would be a good idea for Go</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/programming/GoDependencyCooldownsGood</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/programming/GoDependencyCooldownsGood</guid>
+      <pubDate>Sat, 14 Mar 2026 20:26:43 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
       <title>PC Makers Are Not Ready for the MacBook Neo</title>
       <link>https://www.theverge.com/report/894090/macbook-neo-pc-windows-laptop-competition-asus-footinmouth</link>
       <guid isPermaLink="true">https://www.theverge.com/report/894090/macbook-neo-pc-windows-laptop-competition-asus-footinmouth</guid>
@@ -599,6 +634,13 @@
       <guid isPermaLink="true">https://idiallo.com/byte-size/digg-is-gone-again?src=feed</guid>
       <pubDate>Sat, 14 Mar 2026 08:41:00 +0000</pubDate>
       <description>iDiallo.com</description>
+    </item>
+    <item>
+      <title>On today's web, HTTP results depend on the HTTP User-Agent you use</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/web/HTTPResultsAndUserAgents</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/web/HTTPResultsAndUserAgents</guid>
+      <pubDate>Sat, 14 Mar 2026 03:27:19 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>Last-Run Syndication</title>
@@ -762,6 +804,13 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
+      <title>You (I) should document the forms of your Django web application</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/python/DjangoDocumentYourForms</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/python/DjangoDocumentYourForms</guid>
+      <pubDate>Fri, 13 Mar 2026 03:18:17 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
       <title>Everything's Casino</title>
       <link>https://www.joanwestenberg.com/everythings-casino/</link>
       <guid isPermaLink="true">https://www.joanwestenberg.com/everythings-casino/</guid>
@@ -783,13 +832,6 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>How to use the Qwen 3.5 LLMs to OCR documents</title>
-      <link>https://martinalderson.com/posts/how-to-use-qwen-3-5-to-ocr-documents/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
-      <guid isPermaLink="true">https://martinalderson.com/posts/how-to-use-qwen-3-5-to-ocr-documents/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
-      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Martin Alderson</description>
-    </item>
-    <item>
       <title>What do coders do after AI?</title>
       <link>https://anildash.com/2026/03/13/coders-after-ai/</link>
       <guid isPermaLink="true">https://anildash.com/2026/03/13/coders-after-ai/</guid>
@@ -797,53 +839,11 @@
       <description>Anil Dash</description>
     </item>
     <item>
-      <title>Apple’s Platform Security Guide Adds a Brief Note on the MacBook Neo’s On-Screen Camera Indicator</title>
-      <link>https://support.apple.com/guide/security/mac-on-screen-camera-indicator-light-sec75a2d237d/1/web/1</link>
-      <guid isPermaLink="true">https://support.apple.com/guide/security/mac-on-screen-camera-indicator-light-sec75a2d237d/1/web/1</guid>
-      <pubDate>Thu, 12 Mar 2026 23:48:59 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Eddy Cue Says F1 on Apple TV Opened to Increased Viewership</title>
-      <link>https://www.hollywoodreporter.com/tv/tv-news/apple-tv-formula-1-ratings-eddy-cue-strong-start-1236529359/</link>
-      <guid isPermaLink="true">https://www.hollywoodreporter.com/tv/tv-news/apple-tv-formula-1-ratings-eddy-cue-strong-start-1236529359/</guid>
-      <pubDate>Thu, 12 Mar 2026 23:41:07 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>MALUS - Clean Room as a Service</title>
-      <link>https://simonwillison.net/2026/Mar/12/malus/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/12/malus/#atom-everything</guid>
-      <pubDate>Thu, 12 Mar 2026 20:08:55 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Coding After Coders: The End of Computer Programming as We Know It</title>
-      <link>https://simonwillison.net/2026/Mar/12/coding-after-coders/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/12/coding-after-coders/#atom-everything</guid>
-      <pubDate>Thu, 12 Mar 2026 19:23:44 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Tech Re-Nu’s MacBook Neo Teardown</title>
-      <link>https://www.youtube.com/watch?v=5k7Lv7f-5CQ</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=5k7Lv7f-5CQ</guid>
-      <pubDate>Thu, 12 Mar 2026 18:51:48 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Can the MacBook Neo replace my M4 Air?</title>
-      <link>https://www.jeffgeerling.com/blog/2026/macbook-neo-replace-m4-air/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/macbook-neo-replace-m4-air/</guid>
-      <pubDate>Thu, 12 Mar 2026 17:50:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
-      <title>Inverse cosine</title>
-      <link>https://www.johndcook.com/blog/2026/03/12/arccos/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/03/12/arccos/</guid>
-      <pubDate>Thu, 12 Mar 2026 16:37:46 +0000</pubDate>
-      <description>John D. Cook</description>
+      <title>How to use the Qwen 3.5 LLMs to OCR documents</title>
+      <link>https://martinalderson.com/posts/how-to-use-qwen-3-5-to-ocr-documents/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
+      <guid isPermaLink="true">https://martinalderson.com/posts/how-to-use-qwen-3-5-to-ocr-documents/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
+      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Martin Alderson</description>
     </item>
   </channel>
 </rss>

@@ -208,11 +208,11 @@ Last Updated: Thursday, March 19th, 2026, 2:51:54 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [One problem with (Python) docstrings is that they're local](https://utcc.utoronto.ca/~cks/space/blog/python/DocstringsAreLocal) — *Chris's Wiki :: blog* `03-19`
 - [A lesser-known characterization of the gamma function](https://www.johndcook.com/blog/2026/03/18/wielandt/) — *John D. Cook* `03-19`
 - [Autoresearching Apple's "LLM in a Flash" to run Qwen 397B locally](https://simonwillison.net/2026/Mar/18/llm-in-a-flash/#atom-everything) — *Simon Willison's Weblog* `03-18`
 - [The Talk Show: ‘The Pogue Feature’](https://daringfireball.net/thetalkshow/2026/03/18/ep-443) — *Daring Fireball* `03-18`
 - [★ ‘Your Frustration Is the Product’](https://daringfireball.net/2026/03/your_frustration_is_the_product) — *Daring Fireball* `03-18`
-- [How to Identify Your Apple Keyboard Layout by Country or Region](https://support.apple.com/en-us/102743) — *Daring Fireball* `03-18`
 <!--BLOG_RADAR:end-->
 
 ---
