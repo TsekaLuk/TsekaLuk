@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 20 Mar 2026 07:05:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 13:15:48 +0000</lastBuildDate>
+    <item>
+      <title>I'm OK being left behind, thanks!</title>
+      <link>https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/</guid>
+      <pubDate>Fri, 20 Mar 2026 12:34:02 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Why Is Everyone Supposed to Die If Machines Can Think?</title>
+      <link>https://idiallo.com/blog/everyone-is-supposed-to-die-when-machines-can-think?src=feed</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/everyone-is-supposed-to-die-when-machines-can-think?src=feed</guid>
+      <pubDate>Fri, 20 Mar 2026 12:00:00 +0000</pubDate>
+      <description>iDiallo.com</description>
+    </item>
+    <item>
+      <title>EnshittifAIcation</title>
+      <link>https://it-notes.dragas.net/2026/03/20/enshittifaication/</link>
+      <guid isPermaLink="true">https://it-notes.dragas.net/2026/03/20/enshittifaication/</guid>
+      <pubDate>Fri, 20 Mar 2026 11:00:00 +0000</pubDate>
+      <description>IT Notes</description>
+    </item>
+    <item>
+      <title>Package Manager Mirroring</title>
+      <link>https://nesbitt.io/2026/03/20/package-manager-mirroring.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/03/20/package-manager-mirroring.html</guid>
+      <pubDate>Fri, 20 Mar 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
     <item>
       <title>Feds Disrupt IoT Botnets Behind Huge DDoS Attacks</title>
       <link>https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/</link>
@@ -815,34 +843,6 @@
       <link>https://www.businessinsider.com/anthropic-ceo-ai-90-percent-code-3-to-6-months-2025-3</link>
       <guid isPermaLink="true">https://www.businessinsider.com/anthropic-ceo-ai-90-percent-code-3-to-6-months-2025-3</guid>
       <pubDate>Fri, 13 Mar 2026 16:31:54 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Dylan Patel — Deep dive on the 3 big bottlenecks to scaling AI compute</title>
-      <link>https://www.dwarkesh.com/p/dylan-patel</link>
-      <guid isPermaLink="true">https://www.dwarkesh.com/p/dylan-patel</guid>
-      <pubDate>Fri, 13 Mar 2026 16:00:42 +0000</pubDate>
-      <description>Dwarkesh Podcast</description>
-    </item>
-    <item>
-      <title>Typesetting sheet music with AI</title>
-      <link>https://www.johndcook.com/blog/2026/03/13/typesetting-sheet-music-with-ai/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/03/13/typesetting-sheet-music-with-ai/</guid>
-      <pubDate>Fri, 13 Mar 2026 15:15:50 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>‘Software Bonkers’</title>
-      <link>https://craigmod.com/essays/software_bonkers/</link>
-      <guid isPermaLink="true">https://craigmod.com/essays/software_bonkers/</guid>
-      <pubDate>Fri, 13 Mar 2026 14:54:52 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>‘Grief and the AI Split’</title>
-      <link>https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/</link>
-      <guid isPermaLink="true">https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/</guid>
-      <pubDate>Fri, 13 Mar 2026 14:21:54 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
   </channel>

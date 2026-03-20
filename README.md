@@ -208,11 +208,11 @@ Last Updated: Friday, March 20th, 2026, 8:46:36 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [I'm OK being left behind, thanks!](https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/) — *Terence Eden’s Blog* `03-20`
+- [Why Is Everyone Supposed to Die If Machines Can Think?](https://idiallo.com/blog/everyone-is-supposed-to-die-when-machines-can-think?src=feed) — *iDiallo.com* `03-20`
+- [EnshittifAIcation](https://it-notes.dragas.net/2026/03/20/enshittifaication/) — *IT Notes* `03-20`
+- [Package Manager Mirroring](https://nesbitt.io/2026/03/20/package-manager-mirroring.html) — *Andrew Nesbitt* `03-20`
 - [Feds Disrupt IoT Botnets Behind Huge DDoS Attacks](https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/) — *Krebs on Security* `03-20`
-- [Members Only: How do we define our own flourishing?](https://www.joanwestenberg.com/members-only-how-do-we-define-our-own-flourishing/) — *Westenberg.* `03-20`
-- [SQLAlchemy 2 In Practice - Chapter 1 - Database Setup](https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-1---database-setup) — *Miguel Grinberg's Blog* `03-19`
-- [StopTheMadness Pro and StopTheScript Extensions for Safari](https://mastodon.social/@lapcatsoftware/116252960395480568) — *Daring Fireball* `03-19`
-- [Actual Headline in the Actual New York Times: ‘Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader’](https://www.nytimes.com/2026/03/19/us/politics/trump-japan-pearl-harbor-oval-office-takaichi.html?unlocked_article_code=1.UVA.zau0.UZ5WnBjtPHot) — *Daring Fireball* `03-19`
 <!--BLOG_RADAR:end-->
 
 ---
