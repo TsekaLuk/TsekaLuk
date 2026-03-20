@@ -4,7 +4,56 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 19 Mar 2026 19:08:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 02:42:38 +0000</lastBuildDate>
+    <item>
+      <title>Feds Disrupt IoT Botnets Behind Huge DDoS Attacks</title>
+      <link>https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/</link>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/</guid>
+      <pubDate>Fri, 20 Mar 2026 00:49:19 +0000</pubDate>
+      <description>Krebs on Security</description>
+    </item>
+    <item>
+      <title>Members Only: How do we define our own flourishing?</title>
+      <link>https://www.joanwestenberg.com/members-only-how-do-we-define-our-own-flourishing/</link>
+      <guid isPermaLink="true">https://www.joanwestenberg.com/members-only-how-do-we-define-our-own-flourishing/</guid>
+      <pubDate>Fri, 20 Mar 2026 00:23:59 +0000</pubDate>
+      <description>Westenberg.</description>
+    </item>
+    <item>
+      <title>SQLAlchemy 2 In Practice - Chapter 1 - Database Setup</title>
+      <link>https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-1---database-setup</link>
+      <guid isPermaLink="true">https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-1---database-setup</guid>
+      <pubDate>Thu, 19 Mar 2026 23:25:39 +0000</pubDate>
+      <description>Miguel Grinberg's Blog</description>
+    </item>
+    <item>
+      <title>StopTheMadness Pro and StopTheScript Extensions for Safari</title>
+      <link>https://mastodon.social/@lapcatsoftware/116252960395480568</link>
+      <guid isPermaLink="true">https://mastodon.social/@lapcatsoftware/116252960395480568</guid>
+      <pubDate>Thu, 19 Mar 2026 21:09:32 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Actual Headline in the Actual New York Times: ‘Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader’</title>
+      <link>https://www.nytimes.com/2026/03/19/us/politics/trump-japan-pearl-harbor-oval-office-takaichi.html?unlocked_article_code=1.UVA.zau0.UZ5WnBjtPHot</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/19/us/politics/trump-japan-pearl-harbor-oval-office-takaichi.html?unlocked_article_code=1.UVA.zau0.UZ5WnBjtPHot</guid>
+      <pubDate>Thu, 19 Mar 2026 21:01:52 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>‘Everyone but Trump Understands What He’s Done’</title>
+      <link>https://www.theatlantic.com/ideas/2026/03/trump-iran-war-allies/686423/?gift=aQyUJR7AIw1mJWdQ6Ed6yGfvOucd9Oa8W54yMDTtr2I</link>
+      <guid isPermaLink="true">https://www.theatlantic.com/ideas/2026/03/trump-iran-war-allies/686423/?gift=aQyUJR7AIw1mJWdQ6Ed6yGfvOucd9Oa8W54yMDTtr2I</guid>
+      <pubDate>Thu, 19 Mar 2026 20:09:27 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>The Day Mark Simonson Discovered Type Design</title>
+      <link>https://www.marksimonson.com/notebook/view/the-day-i-discovered-type-design/</link>
+      <guid isPermaLink="true">https://www.marksimonson.com/notebook/view/the-day-i-discovered-type-design/</guid>
+      <pubDate>Thu, 19 Mar 2026 19:15:59 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Google’s New Sideloading Restrictions for Android Include a 24-Hour Waiting Period</title>
       <link>https://www.androidauthority.com/google-android-sideloading-unverified-apps-new-rules-3650343/</link>
@@ -32,6 +81,13 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Mar/19/openai-acquiring-astral/#atom-everything</guid>
       <pubDate>Thu, 19 Mar 2026 16:45:15 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Windows stack limit checking retrospective: amd64, also known as x86-64</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260319-00/?p=112152</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260319-00/?p=112152</guid>
+      <pubDate>Thu, 19 Mar 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Pluralistic: Love of corporate bullshit is correlated with bad judgment (19 Mar 2026)</title>
@@ -67,6 +123,13 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/03/18/wielandt/</guid>
       <pubDate>Thu, 19 Mar 2026 01:21:53 +0000</pubDate>
       <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Life TV: Video with 2 bits to spare</title>
+      <link>https://maurycyz.com/projects/lifetv/</link>
+      <guid isPermaLink="true">https://maurycyz.com/projects/lifetv/</guid>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
     </item>
     <item>
       <title>Consensus Board Game</title>
@@ -181,18 +244,18 @@
       <description>John D. Cook</description>
     </item>
     <item>
-      <title>LLMs predict my coffee</title>
-      <link>https://dynomight.net/coffee/</link>
-      <guid isPermaLink="true">https://dynomight.net/coffee/</guid>
-      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
-    </item>
-    <item>
       <title>Homelab downtime update: The fight for DNS supremacy</title>
       <link>https://xeiaso.net/notes/2026/dns-fight/</link>
       <guid isPermaLink="true">https://xeiaso.net/notes/2026/dns-fight/</guid>
       <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>LLMs predict my coffee</title>
+      <link>https://dynomight.net/coffee/</link>
+      <guid isPermaLink="true">https://dynomight.net/coffee/</guid>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>Wander the Small Web</title>
@@ -781,69 +844,6 @@
       <guid isPermaLink="true">https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/</guid>
       <pubDate>Fri, 13 Mar 2026 14:21:54 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Restoring an Xserve G5: When Apple built real servers</title>
-      <link>https://www.jeffgeerling.com/blog/2026/restoring-xserve-g5-apple-server/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/restoring-xserve-g5-apple-server/</guid>
-      <pubDate>Fri, 13 Mar 2026 14:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
-      <title>Windows stack limit checking retrospective: MIPS</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260313-00/?p=112138</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260313-00/?p=112138</guid>
-      <pubDate>Fri, 13 Mar 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>An odd font rendering bug in Firefox and Safari</title>
-      <link>https://shkspr.mobi/blog/2026/03/an-odd-font-rendering-bug-in-firefox-and-safari/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/03/an-odd-font-rendering-bug-in-firefox-and-safari/</guid>
-      <pubDate>Fri, 13 Mar 2026 12:34:09 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>It's Work that taught me how to think</title>
-      <link>https://idiallo.com/blog/work-taught-me-how-to-think?src=feed</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/work-taught-me-how-to-think?src=feed</guid>
-      <pubDate>Fri, 13 Mar 2026 12:00:00 +0000</pubDate>
-      <description>iDiallo.com</description>
-    </item>
-    <item>
-      <title>Btw: Software, turnkey, beheerd, as a service</title>
-      <link>https://berthub.eu/articles/posts/software-turnkey-as-a-service/</link>
-      <guid isPermaLink="true">https://berthub.eu/articles/posts/software-turnkey-as-a-service/</guid>
-      <pubDate>Fri, 13 Mar 2026 11:43:53 +0000</pubDate>
-      <description>Bert Hubert's writings</description>
-    </item>
-    <item>
-      <title>Forge</title>
-      <link>https://nesbitt.io/2026/03/13/forge.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/03/13/forge.html</guid>
-      <pubDate>Fri, 13 Mar 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations</title>
-      <link>https://simonwillison.net/2026/Mar/13/liquid/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/13/liquid/#atom-everything</guid>
-      <pubDate>Fri, 13 Mar 2026 03:44:34 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Everything's Casino</title>
-      <link>https://www.joanwestenberg.com/everythings-casino/</link>
-      <guid isPermaLink="true">https://www.joanwestenberg.com/everythings-casino/</guid>
-      <pubDate>Fri, 13 Mar 2026 02:38:03 +0000</pubDate>
-      <description>Westenberg.</description>
-    </item>
-    <item>
-      <title>Pluralistic: Three more AI psychoses (12 Mar 2026)</title>
-      <link>https://pluralistic.net/2026/03/12/normal-technology/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/03/12/normal-technology/</guid>
-      <pubDate>Fri, 13 Mar 2026 02:17:20 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
     </item>
   </channel>
 </rss>

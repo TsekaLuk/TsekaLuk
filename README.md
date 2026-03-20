@@ -208,11 +208,11 @@ Last Updated: Friday, March 20th, 2026, 9:44:11 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Google’s New Sideloading Restrictions for Android Include a 24-Hour Waiting Period](https://www.androidauthority.com/google-android-sideloading-unverified-apps-new-rules-3650343/) — *Daring Fireball* `03-19`
-- [Hacker News Discussion on Shubham Bose’s ‘The 49MB Web Page’](https://news.ycombinator.com/item?id=47390945) — *Daring Fireball* `03-19`
-- [★ AppleScript: ‘Save MarsEdit Document to Text File’](https://daringfireball.net/2026/03/applescript_save_marsedit_document_to_text_file) — *Daring Fireball* `03-19`
-- [Thoughts on OpenAI acquiring Astral and uv/ruff/ty](https://simonwillison.net/2026/Mar/19/openai-acquiring-astral/#atom-everything) — *Simon Willison's Weblog* `03-19`
-- [Pluralistic: Love of corporate bullshit is correlated with bad judgment (19 Mar 2026)](https://pluralistic.net/2026/03/19/jargon-watch/) — *Pluralistic: Daily links from Cory Doctorow* `03-19`
+- [Feds Disrupt IoT Botnets Behind Huge DDoS Attacks](https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/) — *Krebs on Security* `03-20`
+- [Members Only: How do we define our own flourishing?](https://www.joanwestenberg.com/members-only-how-do-we-define-our-own-flourishing/) — *Westenberg.* `03-20`
+- [SQLAlchemy 2 In Practice - Chapter 1 - Database Setup](https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-1---database-setup) — *Miguel Grinberg's Blog* `03-19`
+- [StopTheMadness Pro and StopTheScript Extensions for Safari](https://mastodon.social/@lapcatsoftware/116252960395480568) — *Daring Fireball* `03-19`
+- [Actual Headline in the Actual New York Times: ‘Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader’](https://www.nytimes.com/2026/03/19/us/politics/trump-japan-pearl-harbor-oval-office-takaichi.html?unlocked_article_code=1.UVA.zau0.UZ5WnBjtPHot) — *Daring Fireball* `03-19`
 <!--BLOG_RADAR:end-->
 
 ---
