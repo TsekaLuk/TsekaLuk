@@ -208,11 +208,11 @@ Last Updated: Saturday, March 21st, 2026, 2:40:13 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [I'm OK being left behind, thanks!](https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/) — *Terence Eden’s Blog* `03-20`
-- [Why Is Everyone Supposed to Die If Machines Can Think?](https://idiallo.com/blog/everyone-is-supposed-to-die-when-machines-can-think?src=feed) — *iDiallo.com* `03-20`
-- [EnshittifAIcation](https://it-notes.dragas.net/2026/03/20/enshittifaication/) — *IT Notes* `03-20`
-- [Package Manager Mirroring](https://nesbitt.io/2026/03/20/package-manager-mirroring.html) — *Andrew Nesbitt* `03-20`
-- [Feds Disrupt IoT Botnets Behind Huge DDoS Attacks](https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/) — *Krebs on Security* `03-20`
+- [The Mystery of Rennes-le-Château, Part 2: Secret Codes and Hidden Messages](https://www.filfre.net/2026/03/the-mystery-of-rennes-le-chateau-part-2-secret-codes-and-hidden-messages/) — *The Digital Antiquarian* `03-20`
+- [Embedded regex flags](https://www.johndcook.com/blog/2026/03/20/embedded-regex-flags/) — *John D. Cook* `03-20`
+- [Bluesky Raised $100M a Year Ago but for Some Reason Only Disclosed It Now](https://bsky.social/about/blog/03-19-2026-series-b) — *Daring Fireball* `03-20`
+- [Premium: The Hater's Guide To Adobe](https://www.wheresyoured.at/hatersguide-adobe/) — *Ed Zitron's Where's Your Ed At* `03-20`
+- [Terence Tao – Kepler, Newton, and the true nature of mathematical discovery](https://www.dwarkesh.com/p/terence-tao) — *Dwarkesh Podcast* `03-20`
 <!--BLOG_RADAR:end-->
 
 ---

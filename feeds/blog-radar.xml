@@ -4,7 +4,56 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 20 Mar 2026 13:15:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 19:00:23 +0000</lastBuildDate>
+    <item>
+      <title>The Mystery of Rennes-le-Château, Part 2: Secret Codes and Hidden Messages</title>
+      <link>https://www.filfre.net/2026/03/the-mystery-of-rennes-le-chateau-part-2-secret-codes-and-hidden-messages/</link>
+      <guid isPermaLink="true">https://www.filfre.net/2026/03/the-mystery-of-rennes-le-chateau-part-2-secret-codes-and-hidden-messages/</guid>
+      <pubDate>Fri, 20 Mar 2026 18:09:52 +0000</pubDate>
+      <description>The Digital Antiquarian</description>
+    </item>
+    <item>
+      <title>Embedded regex flags</title>
+      <link>https://www.johndcook.com/blog/2026/03/20/embedded-regex-flags/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/03/20/embedded-regex-flags/</guid>
+      <pubDate>Fri, 20 Mar 2026 16:58:42 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Bluesky Raised $100M a Year Ago but for Some Reason Only Disclosed It Now</title>
+      <link>https://bsky.social/about/blog/03-19-2026-series-b</link>
+      <guid isPermaLink="true">https://bsky.social/about/blog/03-19-2026-series-b</guid>
+      <pubDate>Fri, 20 Mar 2026 16:46:01 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Premium: The Hater's Guide To Adobe</title>
+      <link>https://www.wheresyoured.at/hatersguide-adobe/</link>
+      <guid isPermaLink="true">https://www.wheresyoured.at/hatersguide-adobe/</guid>
+      <pubDate>Fri, 20 Mar 2026 16:25:42 +0000</pubDate>
+      <description>Ed Zitron's Where's Your Ed At</description>
+    </item>
+    <item>
+      <title>Terence Tao – Kepler, Newton, and the true nature of mathematical discovery</title>
+      <link>https://www.dwarkesh.com/p/terence-tao</link>
+      <guid isPermaLink="true">https://www.dwarkesh.com/p/terence-tao</guid>
+      <pubDate>Fri, 20 Mar 2026 16:00:55 +0000</pubDate>
+      <description>Dwarkesh Podcast</description>
+    </item>
+    <item>
+      <title>Quiche Browser</title>
+      <link>https://quiche.industries/browser/</link>
+      <guid isPermaLink="true">https://quiche.industries/browser/</guid>
+      <pubDate>Fri, 20 Mar 2026 15:38:27 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>The best laptop Apple ever made</title>
+      <link>https://www.jeffgeerling.com/blog/2026/best-laptop-apple-ever-made/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/best-laptop-apple-ever-made/</guid>
+      <pubDate>Fri, 20 Mar 2026 14:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
+    </item>
     <item>
       <title>I'm OK being left behind, thanks!</title>
       <link>https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/</link>
@@ -32,6 +81,13 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/03/20/package-manager-mirroring.html</guid>
       <pubDate>Fri, 20 Mar 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>DMARC DNS record inheritance and DMARC alignment requirements</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/spam/DMARCAlignmentAndInheritance</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/spam/DMARCAlignmentAndInheritance</guid>
+      <pubDate>Fri, 20 Mar 2026 02:56:30 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>Feds Disrupt IoT Botnets Behind Huge DDoS Attacks</title>
@@ -144,6 +200,13 @@
       <guid isPermaLink="true">https://herman.bearblog.dev/becoming-a-day-person/</guid>
       <pubDate>Thu, 19 Mar 2026 09:17:00 +0000</pubDate>
       <description>Herman's blog</description>
+    </item>
+    <item>
+      <title>One problem with (Python) docstrings is that they're local</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/python/DocstringsAreLocal</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/python/DocstringsAreLocal</guid>
+      <pubDate>Thu, 19 Mar 2026 02:40:17 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>A lesser-known characterization of the gamma function</title>
@@ -270,6 +333,13 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/03/17/alternating-series-remainder/</guid>
       <pubDate>Wed, 18 Mar 2026 02:50:12 +0000</pubDate>
       <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Wayland has good reasons to put the window manager in the display server</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/unix/WaylandAndBuiltinWindowManagers</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/unix/WaylandAndBuiltinWindowManagers</guid>
+      <pubDate>Wed, 18 Mar 2026 02:26:51 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>Homelab downtime update: The fight for DNS supremacy</title>
@@ -426,6 +496,13 @@
       <description>Troy Hunt</description>
     </item>
     <item>
+      <title>Cleaning old GPG RPM keys that your Fedora install is keeping around</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/FedoraCleaningOldGpgRPMKeys</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/FedoraCleaningOldGpgRPMKeys</guid>
+      <pubDate>Tue, 17 Mar 2026 01:56:30 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
       <title>My homelab will be down for at least 20 days</title>
       <link>https://xeiaso.net/notes/2026/homelab-is-down/</link>
       <guid isPermaLink="true">https://xeiaso.net/notes/2026/homelab-is-down/</guid>
@@ -557,6 +634,13 @@
       <guid isPermaLink="true">https://it-notes.dragas.net/2026/03/16/why-i-love-freebsd/</guid>
       <pubDate>Mon, 16 Mar 2026 08:10:00 +0000</pubDate>
       <description>IT Notes</description>
+    </item>
+    <item>
+      <title>Making empirical decisions about web access (here in 2026)</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/web/WebAccessDecisionsEmpirical</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/web/WebAccessDecisionsEmpirical</guid>
+      <pubDate>Mon, 16 Mar 2026 02:12:17 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>Shower Thought: Git Teleportation</title>
@@ -692,6 +776,13 @@
       <description>Daring Fireball</description>
     </item>
     <item>
+      <title>I think dependency cooldowns would be a good idea for Go</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/programming/GoDependencyCooldownsGood</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/programming/GoDependencyCooldownsGood</guid>
+      <pubDate>Sat, 14 Mar 2026 20:26:43 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
       <title>PC Makers Are Not Ready for the MacBook Neo</title>
       <link>https://www.theverge.com/report/894090/macbook-neo-pc-windows-laptop-competition-asus-footinmouth</link>
       <guid isPermaLink="true">https://www.theverge.com/report/894090/macbook-neo-pc-windows-laptop-competition-asus-footinmouth</guid>
@@ -753,97 +844,6 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/03/14/whats-going-on-with-fair-package-manager.html</guid>
       <pubDate>Sat, 14 Mar 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>You Digg?</title>
-      <link>https://idiallo.com/byte-size/digg-is-gone-again?src=feed</link>
-      <guid isPermaLink="true">https://idiallo.com/byte-size/digg-is-gone-again?src=feed</guid>
-      <pubDate>Sat, 14 Mar 2026 08:41:00 +0000</pubDate>
-      <description>iDiallo.com</description>
-    </item>
-    <item>
-      <title>Last-Run Syndication</title>
-      <link>https://feed.tedium.co/link/15204/17299183/television-first-run-syndication-decline</link>
-      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17299183/television-first-run-syndication-decline</guid>
-      <pubDate>Sat, 14 Mar 2026 01:41:56 +0000</pubDate>
-      <description>Tedium: The Dull Side of the Internet.</description>
-    </item>
-    <item>
-      <title>Big tech engineers need big egos</title>
-      <link>https://seangoedecke.com/big-tech-needs-big-egos/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/big-tech-needs-big-egos/</guid>
-      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>human.json</title>
-      <link>https://evanhahn.com/human-dot-json/</link>
-      <guid isPermaLink="true">https://evanhahn.com/human-dot-json/</guid>
-      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Evan Hahn (dot com)</description>
-    </item>
-    <item>
-      <title>LotusNotes</title>
-      <link>https://computer.rip/2026-03-14-lotusnotes.html</link>
-      <guid isPermaLink="true">https://computer.rip/2026-03-14-lotusnotes.html</guid>
-      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
-      <description>computers are bad</description>
-    </item>
-    <item>
-      <title>Tim Cook: ‘50 Years of Thinking Different’</title>
-      <link>https://www.apple.com/50-years-of-thinking-different/</link>
-      <guid isPermaLink="true">https://www.apple.com/50-years-of-thinking-different/</guid>
-      <pubDate>Fri, 13 Mar 2026 23:49:17 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>1M context is now generally available for Opus 4.6 and Sonnet 4.6</title>
-      <link>https://simonwillison.net/2026/Mar/13/1m-context/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/13/1m-context/#atom-everything</guid>
-      <pubDate>Fri, 13 Mar 2026 18:29:13 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>This Week on The Analog Antiquarian</title>
-      <link>https://www.filfre.net/2026/03/this-week-on-the-analog-antiquarian/</link>
-      <guid isPermaLink="true">https://www.filfre.net/2026/03/this-week-on-the-analog-antiquarian/</guid>
-      <pubDate>Fri, 13 Mar 2026 17:33:40 +0000</pubDate>
-      <description>The Digital Antiquarian</description>
-    </item>
-    <item>
-      <title>Quoting Craig Mod</title>
-      <link>https://simonwillison.net/2026/Mar/13/craig-mod/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/13/craig-mod/#atom-everything</guid>
-      <pubDate>Fri, 13 Mar 2026 17:14:29 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>NYT: ‘Meta Delays Rollout of New AI Model After Performance Concerns’</title>
-      <link>https://www.nytimes.com/2026/03/12/technology/meta-avocado-ai-model-delayed.html?unlocked_article_code=1.S1A.vI_6.4j717gwtFem0</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/03/12/technology/meta-avocado-ai-model-delayed.html?unlocked_article_code=1.S1A.vI_6.4j717gwtFem0</guid>
-      <pubDate>Fri, 13 Mar 2026 17:04:44 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Sports Programming Accounts for Almost 30 Percent of All Ad-Supported TV Viewing</title>
-      <link>https://deadline.com/2026/03/sports-tv-viewing-advertising-nielsen-1236750721/</link>
-      <guid isPermaLink="true">https://deadline.com/2026/03/sports-tv-viewing-advertising-nielsen-1236750721/</guid>
-      <pubDate>Fri, 13 Mar 2026 16:55:46 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Premium: The Hater's Guide To The SaaSpocalypse</title>
-      <link>https://www.wheresyoured.at/hatersguide-saas/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/hatersguide-saas/</guid>
-      <pubDate>Fri, 13 Mar 2026 16:53:23 +0000</pubDate>
-      <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>Claim Chowder: Anthropic CEO Dario Amodei on the Percentage of Code Being Generated by AI Today</title>
-      <link>https://www.businessinsider.com/anthropic-ceo-ai-90-percent-code-3-to-6-months-2025-3</link>
-      <guid isPermaLink="true">https://www.businessinsider.com/anthropic-ceo-ai-90-percent-code-3-to-6-months-2025-3</guid>
-      <pubDate>Fri, 13 Mar 2026 16:31:54 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
