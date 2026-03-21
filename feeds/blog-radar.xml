@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 21 Mar 2026 06:55:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 13:04:52 +0000</lastBuildDate>
+    <item>
+      <title>Reading List 03/21/26</title>
+      <link>https://www.construction-physics.com/p/reading-list-032126</link>
+      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-032126</guid>
+      <pubDate>Sat, 21 Mar 2026 12:03:50 +0000</pubDate>
+      <description>Construction Physics</description>
+    </item>
     <item>
       <title>Turbo Pascal 3.02A, deconstructed</title>
       <link>https://simonwillison.net/2026/Mar/20/turbo-pascal/#atom-everything</link>
@@ -90,18 +97,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>The best laptop Apple ever made</title>
-      <link>https://www.jeffgeerling.com/blog/2026/best-laptop-apple-ever-made/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/best-laptop-apple-ever-made/</guid>
-      <pubDate>Fri, 20 Mar 2026 14:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
       <title>Windows stack limit checking retrospective: arm64, also known as AArch64</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260320-00/?p=112154</link>
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260320-00/?p=112154</guid>
       <pubDate>Fri, 20 Mar 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>The best laptop Apple ever made</title>
+      <link>https://www.jeffgeerling.com/blog/2026/best-laptop-apple-ever-made/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/best-laptop-apple-ever-made/</guid>
+      <pubDate>Fri, 20 Mar 2026 14:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
     </item>
     <item>
       <title>I'm OK being left behind, thanks!</title>
@@ -144,6 +151,13 @@
       <guid isPermaLink="true">https://www.joanwestenberg.com/members-only-how-do-we-define-our-own-flourishing/</guid>
       <pubDate>Fri, 20 Mar 2026 00:23:59 +0000</pubDate>
       <description>Westenberg.</description>
+    </item>
+    <item>
+      <title>Some Things Just Take Time</title>
+      <link>https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/</guid>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
       <title>SQLAlchemy 2 In Practice - Chapter 1 - Database Setup</title>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://pluralistic.net/2026/03/14/ill-have-what-xis-having/</guid>
       <pubDate>Sat, 14 Mar 2026 15:15:42 +0000</pubDate>
       <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>How Can Governments Pay Open Source Maintainers?</title>
-      <link>https://shkspr.mobi/blog/2026/03/how-can-governments-pay-open-source-maintainers/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/03/how-can-governments-pay-open-source-maintainers/</guid>
-      <pubDate>Sat, 14 Mar 2026 12:34:42 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Reading List 03/14/26</title>
-      <link>https://www.construction-physics.com/p/reading-list-031426</link>
-      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-031426</guid>
-      <pubDate>Sat, 14 Mar 2026 12:02:30 +0000</pubDate>
-      <description>Construction Physics</description>
     </item>
   </channel>
 </rss>

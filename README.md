@@ -208,11 +208,11 @@ Last Updated: Saturday, March 21st, 2026, 8:36:39 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Reading List 03/21/26](https://www.construction-physics.com/p/reading-list-032126) — *Construction Physics* `03-21`
 - [Turbo Pascal 3.02A, deconstructed](https://simonwillison.net/2026/Mar/20/turbo-pascal/#atom-everything) — *Simon Willison's Weblog* `03-20`
 - [Google Search Is Now Using AI to Rewrite Headlines](https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjI0Q05IV0dlS3EiLCJwIjoiL3RlY2gvODk2NDkwL2dvb2dsZS1yZXBsYWNlLW5ld3MtaGVhZGxpbmVzLWluLXNlYXJjaC1jYW5hcnktY29hbC1taW5lLWV4cGVyaW1lbnQiLCJleHAiOjE3NzQ0NzIwOTAsImlhdCI6MTc3NDA0MDA5MH0.3exwHWG6qdR5YeFLjzS1qvUy3tgfASQhbFZDTbHrkKE&utm_medium=gift-link) — *Daring Fireball* `03-20`
 - [Perhaps Bluesky’s Revelation of an 11-Month Ago $100 Million Investment Was, in Fact, an Act of Transparency](https://bsky.app/profile/flooey.org/post/3mhiznh4d7c2j) — *Daring Fireball* `03-20`
 - [Quoting Kimi.ai @Kimi_Moonshot](https://simonwillison.net/2026/Mar/20/cursor-on-kimi/#atom-everything) — *Simon Willison's Weblog* `03-20`
-- [Re: People Are Not Friction](https://blog.jim-nielsen.com/2026/re-people-arent-friction/) — *Jim Nielsen’s Blog* `03-20`
 <!--BLOG_RADAR:end-->
 
 ---
