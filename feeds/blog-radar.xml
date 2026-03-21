@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 21 Mar 2026 02:35:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 06:55:58 +0000</lastBuildDate>
     <item>
       <title>Turbo Pascal 3.02A, deconstructed</title>
       <link>https://simonwillison.net/2026/Mar/20/turbo-pascal/#atom-everything</link>
@@ -74,6 +74,13 @@
       <guid isPermaLink="true">https://www.dwarkesh.com/p/terence-tao</guid>
       <pubDate>Fri, 20 Mar 2026 16:00:55 +0000</pubDate>
       <description>Dwarkesh Podcast</description>
+    </item>
+    <item>
+      <title>Democracy is a Liability</title>
+      <link>https://geohot.github.io//blog/jekyll/update/2026/03/21/democracy-liability.html</link>
+      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/03/21/democracy-liability.html</guid>
+      <pubDate>Fri, 20 Mar 2026 16:00:00 +0000</pubDate>
+      <description>the singularity is nearer</description>
     </item>
     <item>
       <title>Quiche Browser</title>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-031426</guid>
       <pubDate>Sat, 14 Mar 2026 12:02:30 +0000</pubDate>
       <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>What’s Going On with FAIR Package Manager</title>
-      <link>https://nesbitt.io/2026/03/14/whats-going-on-with-fair-package-manager.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/03/14/whats-going-on-with-fair-package-manager.html</guid>
-      <pubDate>Sat, 14 Mar 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
     </item>
   </channel>
 </rss>
