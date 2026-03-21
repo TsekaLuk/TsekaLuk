@@ -4,7 +4,42 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 20 Mar 2026 19:00:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 02:35:51 +0000</lastBuildDate>
+    <item>
+      <title>Turbo Pascal 3.02A, deconstructed</title>
+      <link>https://simonwillison.net/2026/Mar/20/turbo-pascal/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/20/turbo-pascal/#atom-everything</guid>
+      <pubDate>Fri, 20 Mar 2026 23:59:14 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Google Search Is Now Using AI to Rewrite Headlines</title>
+      <link>https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjI0Q05IV0dlS3EiLCJwIjoiL3RlY2gvODk2NDkwL2dvb2dsZS1yZXBsYWNlLW5ld3MtaGVhZGxpbmVzLWluLXNlYXJjaC1jYW5hcnktY29hbC1taW5lLWV4cGVyaW1lbnQiLCJleHAiOjE3NzQ0NzIwOTAsImlhdCI6MTc3NDA0MDA5MH0.3exwHWG6qdR5YeFLjzS1qvUy3tgfASQhbFZDTbHrkKE&amp;utm_medium=gift-link</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjI0Q05IV0dlS3EiLCJwIjoiL3RlY2gvODk2NDkwL2dvb2dsZS1yZXBsYWNlLW5ld3MtaGVhZGxpbmVzLWluLXNlYXJjaC1jYW5hcnktY29hbC1taW5lLWV4cGVyaW1lbnQiLCJleHAiOjE3NzQ0NzIwOTAsImlhdCI6MTc3NDA0MDA5MH0.3exwHWG6qdR5YeFLjzS1qvUy3tgfASQhbFZDTbHrkKE&amp;utm_medium=gift-link</guid>
+      <pubDate>Fri, 20 Mar 2026 21:00:09 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Perhaps Bluesky’s Revelation of an 11-Month Ago $100 Million Investment Was, in Fact, an Act of Transparency</title>
+      <link>https://bsky.app/profile/flooey.org/post/3mhiznh4d7c2j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/flooey.org/post/3mhiznh4d7c2j</guid>
+      <pubDate>Fri, 20 Mar 2026 20:49:07 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Quoting Kimi.ai @Kimi_Moonshot</title>
+      <link>https://simonwillison.net/2026/Mar/20/cursor-on-kimi/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/20/cursor-on-kimi/#atom-everything</guid>
+      <pubDate>Fri, 20 Mar 2026 20:29:23 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Re: People Are Not Friction</title>
+      <link>https://blog.jim-nielsen.com/2026/re-people-arent-friction/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/re-people-arent-friction/</guid>
+      <pubDate>Fri, 20 Mar 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
+    </item>
     <item>
       <title>The Mystery of Rennes-le-Château, Part 2: Secret Codes and Hidden Messages</title>
       <link>https://www.filfre.net/2026/03/the-mystery-of-rennes-le-chateau-part-2-secret-codes-and-hidden-messages/</link>
@@ -55,6 +90,13 @@
       <description>Jeff Geerling</description>
     </item>
     <item>
+      <title>Windows stack limit checking retrospective: arm64, also known as AArch64</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260320-00/?p=112154</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260320-00/?p=112154</guid>
+      <pubDate>Fri, 20 Mar 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
+    <item>
       <title>I'm OK being left behind, thanks!</title>
       <link>https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/</link>
       <guid isPermaLink="true">https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/</guid>
@@ -81,13 +123,6 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/03/20/package-manager-mirroring.html</guid>
       <pubDate>Fri, 20 Mar 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>DMARC DNS record inheritance and DMARC alignment requirements</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/spam/DMARCAlignmentAndInheritance</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/spam/DMARCAlignmentAndInheritance</guid>
-      <pubDate>Fri, 20 Mar 2026 02:56:30 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>Feds Disrupt IoT Botnets Behind Huge DDoS Attacks</title>
@@ -200,13 +235,6 @@
       <guid isPermaLink="true">https://herman.bearblog.dev/becoming-a-day-person/</guid>
       <pubDate>Thu, 19 Mar 2026 09:17:00 +0000</pubDate>
       <description>Herman's blog</description>
-    </item>
-    <item>
-      <title>One problem with (Python) docstrings is that they're local</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/python/DocstringsAreLocal</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/python/DocstringsAreLocal</guid>
-      <pubDate>Thu, 19 Mar 2026 02:40:17 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>A lesser-known characterization of the gamma function</title>
@@ -333,13 +361,6 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/03/17/alternating-series-remainder/</guid>
       <pubDate>Wed, 18 Mar 2026 02:50:12 +0000</pubDate>
       <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Wayland has good reasons to put the window manager in the display server</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/unix/WaylandAndBuiltinWindowManagers</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/unix/WaylandAndBuiltinWindowManagers</guid>
-      <pubDate>Wed, 18 Mar 2026 02:26:51 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>Homelab downtime update: The fight for DNS supremacy</title>
@@ -496,13 +517,6 @@
       <description>Troy Hunt</description>
     </item>
     <item>
-      <title>Cleaning old GPG RPM keys that your Fedora install is keeping around</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/FedoraCleaningOldGpgRPMKeys</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/FedoraCleaningOldGpgRPMKeys</guid>
-      <pubDate>Tue, 17 Mar 2026 01:56:30 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
       <title>My homelab will be down for at least 20 days</title>
       <link>https://xeiaso.net/notes/2026/homelab-is-down/</link>
       <guid isPermaLink="true">https://xeiaso.net/notes/2026/homelab-is-down/</guid>
@@ -636,13 +650,6 @@
       <description>IT Notes</description>
     </item>
     <item>
-      <title>Making empirical decisions about web access (here in 2026)</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/web/WebAccessDecisionsEmpirical</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/web/WebAccessDecisionsEmpirical</guid>
-      <pubDate>Mon, 16 Mar 2026 02:12:17 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
       <title>Shower Thought: Git Teleportation</title>
       <link>https://idiallo.com/byte-size/git-teleportation?src=feed</link>
       <guid isPermaLink="true">https://idiallo.com/byte-size/git-teleportation?src=feed</guid>
@@ -774,13 +781,6 @@
       <guid isPermaLink="true">https://www.ifixit.com/News/116152/macbook-neo-is-the-most-repairable-macbook-in-14-years</guid>
       <pubDate>Sat, 14 Mar 2026 22:06:02 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>I think dependency cooldowns would be a good idea for Go</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/programming/GoDependencyCooldownsGood</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/programming/GoDependencyCooldownsGood</guid>
-      <pubDate>Sat, 14 Mar 2026 20:26:43 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>PC Makers Are Not Ready for the MacBook Neo</title>
