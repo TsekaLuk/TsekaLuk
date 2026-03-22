@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 22 Mar 2026 13:07:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 18:49:06 +0000</lastBuildDate>
+    <item>
+      <title>Mux — Video API for Developers</title>
+      <link>https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF</link>
+      <guid isPermaLink="true">https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF</guid>
+      <pubDate>Sun, 22 Mar 2026 17:35:00 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>‘Good, I’m Glad He’s Dead.’</title>
+      <link>https://truthsocial.com/@realDonaldTrump/116268334535345382</link>
+      <guid isPermaLink="true">https://truthsocial.com/@realDonaldTrump/116268334535345382</guid>
+      <pubDate>Sun, 22 Mar 2026 17:18:10 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Half a Gigabyte of Ads</title>
+      <link>https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/</link>
+      <guid isPermaLink="true">https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/</guid>
+      <pubDate>Sun, 22 Mar 2026 16:41:09 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Bored of eating your own dogfood? Try smelling your own farts!</title>
       <link>https://shkspr.mobi/blog/2026/03/bored-of-eating-your-own-dogfood-try-smelling-your-own-farts/</link>
@@ -34,6 +55,20 @@
       <description>Daring Fireball</description>
     </item>
     <item>
+      <title>All tests pass: a short story</title>
+      <link>https://evanhahn.com/all-tests-pass-a-short-story/</link>
+      <guid isPermaLink="true">https://evanhahn.com/all-tests-pass-a-short-story/</guid>
+      <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Evan Hahn (dot com)</description>
+    </item>
+    <item>
+      <title>Little web app to pick a random programming language</title>
+      <link>https://evanhahn.com/random-programming-language/</link>
+      <guid isPermaLink="true">https://evanhahn.com/random-programming-language/</guid>
+      <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Evan Hahn (dot com)</description>
+    </item>
+    <item>
       <title>Profiling Hacker News users based on their comments</title>
       <link>https://simonwillison.net/2026/Mar/21/profiling-hacker-news-users/#atom-everything</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Mar/21/profiling-hacker-news-users/#atom-everything</guid>
@@ -48,6 +83,13 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
+      <title>A traditional path to getting lingering duplicate systems</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LingeringDuplicateSystemsII</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LingeringDuplicateSystemsII</guid>
+      <pubDate>Sat, 21 Mar 2026 20:36:31 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
       <title>Reading List 03/21/26</title>
       <link>https://www.construction-physics.com/p/reading-list-032126</link>
       <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-032126</guid>
@@ -60,6 +102,13 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html</guid>
       <pubDate>Sat, 21 Mar 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>Lingering duplicate systems and the expense of weeding them out (an illustration)</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LingeringDuplicateSystems</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LingeringDuplicateSystems</guid>
+      <pubDate>Sat, 21 Mar 2026 03:05:27 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>Turbo Pascal 3.02A, deconstructed</title>
@@ -188,6 +237,13 @@
       <description>Andrew Nesbitt</description>
     </item>
     <item>
+      <title>DMARC DNS record inheritance and DMARC alignment requirements</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/spam/DMARCAlignmentAndInheritance</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/spam/DMARCAlignmentAndInheritance</guid>
+      <pubDate>Fri, 20 Mar 2026 02:56:30 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
       <title>Feds Disrupt IoT Botnets Behind Huge DDoS Attacks</title>
       <link>https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/</link>
       <guid isPermaLink="true">https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/</guid>
@@ -305,6 +361,13 @@
       <guid isPermaLink="true">https://herman.bearblog.dev/becoming-a-day-person/</guid>
       <pubDate>Thu, 19 Mar 2026 09:17:00 +0000</pubDate>
       <description>Herman's blog</description>
+    </item>
+    <item>
+      <title>One problem with (Python) docstrings is that they're local</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/python/DocstringsAreLocal</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/python/DocstringsAreLocal</guid>
+      <pubDate>Thu, 19 Mar 2026 02:40:17 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>A lesser-known characterization of the gamma function</title>
@@ -431,6 +494,13 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/03/17/alternating-series-remainder/</guid>
       <pubDate>Wed, 18 Mar 2026 02:50:12 +0000</pubDate>
       <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Wayland has good reasons to put the window manager in the display server</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/unix/WaylandAndBuiltinWindowManagers</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/unix/WaylandAndBuiltinWindowManagers</guid>
+      <pubDate>Wed, 18 Mar 2026 02:26:51 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>Homelab downtime update: The fight for DNS supremacy</title>
@@ -587,6 +657,13 @@
       <description>Troy Hunt</description>
     </item>
     <item>
+      <title>Cleaning old GPG RPM keys that your Fedora install is keeping around</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/FedoraCleaningOldGpgRPMKeys</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/FedoraCleaningOldGpgRPMKeys</guid>
+      <pubDate>Tue, 17 Mar 2026 01:56:30 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
       <title>My homelab will be down for at least 20 days</title>
       <link>https://xeiaso.net/notes/2026/homelab-is-down/</link>
       <guid isPermaLink="true">https://xeiaso.net/notes/2026/homelab-is-down/</guid>
@@ -599,13 +676,6 @@
       <guid isPermaLink="true">https://martinalderson.com/posts/using-agents-and-wine-to-move-off-windows/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
       <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
       <description>Martin Alderson</description>
-    </item>
-    <item>
-      <title>[Sponsor] Mux — Video API for Developers</title>
-      <link>https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF</link>
-      <guid isPermaLink="true">https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF</guid>
-      <pubDate>Mon, 16 Mar 2026 23:47:24 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
     <item>
       <title>Introducing Mistral Small 4</title>
@@ -720,6 +790,13 @@
       <description>IT Notes</description>
     </item>
     <item>
+      <title>Making empirical decisions about web access (here in 2026)</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/web/WebAccessDecisionsEmpirical</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/web/WebAccessDecisionsEmpirical</guid>
+      <pubDate>Mon, 16 Mar 2026 02:12:17 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
       <title>Shower Thought: Git Teleportation</title>
       <link>https://idiallo.com/byte-size/git-teleportation?src=feed</link>
       <guid isPermaLink="true">https://idiallo.com/byte-size/git-teleportation?src=feed</guid>
@@ -767,83 +844,6 @@
       <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/food-software-and-trade-offs/</guid>
       <pubDate>Sun, 15 Mar 2026 19:00:00 +0000</pubDate>
       <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
-      <title>Finalist 3.6</title>
-      <link>https://www.finalist.works/finalist-36/</link>
-      <guid isPermaLink="true">https://www.finalist.works/finalist-36/</guid>
-      <pubDate>Sun, 15 Mar 2026 17:36:48 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>‘This Is Not the Computer for You’</title>
-      <link>https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/?ref=birchtree.me</link>
-      <guid isPermaLink="true">https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/?ref=birchtree.me</guid>
-      <pubDate>Sun, 15 Mar 2026 17:30:00 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Blaming AI for Layoffs: ‘It Plays Better’</title>
-      <link>https://www.resume.org/the-great-turnover-9-in-10-companies-plan-to-hire-in-2026-yet-6-in-10-will-have-layoffs-2/</link>
-      <guid isPermaLink="true">https://www.resume.org/the-great-turnover-9-in-10-companies-plan-to-hire-in-2026-yet-6-in-10-will-have-layoffs-2/</guid>
-      <pubDate>Sun, 15 Mar 2026 17:00:00 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Polynomial Time Factoring Algorithm</title>
-      <link>https://geohot.github.io//blog/jekyll/update/2026/03/16/polynomial-time-factoring.html</link>
-      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/03/16/polynomial-time-factoring.html</guid>
-      <pubDate>Sun, 15 Mar 2026 16:00:00 +0000</pubDate>
-      <description>the singularity is nearer</description>
-    </item>
-    <item>
-      <title>Horace Dediu on Apple Sitting Out the AI Spending Race</title>
-      <link>https://asymco.com/2026/03/10/the-most-brilliant-move-in-corporate-history/</link>
-      <guid isPermaLink="true">https://asymco.com/2026/03/10/the-most-brilliant-move-in-corporate-history/</guid>
-      <pubDate>Sun, 15 Mar 2026 15:51:56 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Reuters: ‘Meta Planning Sweeping Layoffs as AI Costs Mount’</title>
-      <link>https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/</link>
-      <guid isPermaLink="true">https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/</guid>
-      <pubDate>Sun, 15 Mar 2026 15:41:58 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Book Review: Robots in Space - The Secret Lives of Our Planetary Explorers by Dr Ezzy Pearson ★★★⯪☆</title>
-      <link>https://shkspr.mobi/blog/2026/03/book-review-robots-in-space-the-secret-lives-of-our-planetary-explorers-by-dr-ezzy-pearson/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/03/book-review-robots-in-space-the-secret-lives-of-our-planetary-explorers-by-dr-ezzy-pearson/</guid>
-      <pubDate>Sun, 15 Mar 2026 12:34:48 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>BertVote Gemeenteraadsverkiezingen 2026</title>
-      <link>https://berthub.eu/articles/posts/bert-vote-gemeenteraad-2026/</link>
-      <guid isPermaLink="true">https://berthub.eu/articles/posts/bert-vote-gemeenteraad-2026/</guid>
-      <pubDate>Sun, 15 Mar 2026 11:39:25 +0000</pubDate>
-      <description>Bert Hubert's writings</description>
-    </item>
-    <item>
-      <title>Guided Meditation for Developers</title>
-      <link>https://nesbitt.io/2026/03/15/guided-meditation-for-developers.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/03/15/guided-meditation-for-developers.html</guid>
-      <pubDate>Sun, 15 Mar 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Matt Mullenweg Documents a Dastardly Clever Apple Account Phishing Scam</title>
-      <link>https://ma.tt/2026/03/gone-almost-phishin/</link>
-      <guid isPermaLink="true">https://ma.tt/2026/03/gone-almost-phishin/</guid>
-      <pubDate>Sun, 15 Mar 2026 00:37:30 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Why Claude's new 1M context length is a big deal</title>
-      <link>https://martinalderson.com/posts/why-claudes-new-1m-context-length-is-a-big-deal/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
-      <guid isPermaLink="true">https://martinalderson.com/posts/why-claudes-new-1m-context-length-is-a-big-deal/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
-      <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Martin Alderson</description>
     </item>
   </channel>
 </rss>

@@ -208,11 +208,11 @@ Last Updated: Monday, March 23rd, 2026, 2:29:31 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Mux — Video API for Developers](https://www.mux.com/?utm_campaign=fireball&utm_source=DF) — *Daring Fireball* `03-22`
+- [‘Good, I’m Glad He’s Dead.’](https://truthsocial.com/@realDonaldTrump/116268334535345382) — *Daring Fireball* `03-22`
+- [Half a Gigabyte of Ads](https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/) — *Daring Fireball* `03-22`
 - [Bored of eating your own dogfood? Try smelling your own farts!](https://shkspr.mobi/blog/2026/03/bored-of-eating-your-own-dogfood-try-smelling-your-own-farts/) — *Terence Eden’s Blog* `03-22`
 - [Waarom we nu WEL zuinig moeten doen, en door moeten met groene energie](https://berthub.eu/articles/posts/waarom-we-nu-wel-zuinig-moeten-doen-en-meer-groene-energie/) — *Bert Hubert's writings* `03-22`
-- [Refurb weekend double header: Alpha Micro AM-1000E and AM-1200](https://oldvcr.blogspot.com/2026/03/refurb-weekend-double-header-alpha.html) — *Old Vintage Computing Research* `03-22`
-- [Reuters: ‘Amazon Plans Smartphone Comeback More Than a Decade After Fire Phone Flop’](https://www.reuters.com/technology/amazon-plans-smartphone-comeback-more-than-decade-after-fire-phone-flop-2026-03-20/) — *Daring Fireball* `03-22`
-- [Profiling Hacker News users based on their comments](https://simonwillison.net/2026/Mar/21/profiling-hacker-news-users/#atom-everything) — *Simon Willison's Weblog* `03-21`
 <!--BLOG_RADAR:end-->
 
 ---
