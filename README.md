@@ -208,11 +208,11 @@ Last Updated: Sunday, March 22nd, 2026, 9:49:01 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Reuters: ‘Amazon Plans Smartphone Comeback More Than a Decade After Fire Phone Flop’](https://www.reuters.com/technology/amazon-plans-smartphone-comeback-more-than-decade-after-fire-phone-flop-2026-03-20/) — *Daring Fireball* `03-22`
+- [Profiling Hacker News users based on their comments](https://simonwillison.net/2026/Mar/21/profiling-hacker-news-users/#atom-everything) — *Simon Willison's Weblog* `03-21`
+- [Using Git with coding agents](https://simonwillison.net/guides/agentic-engineering-patterns/using-git-with-coding-agents/#atom-everything) — *Simon Willison's Weblog* `03-21`
 - [Reading List 03/21/26](https://www.construction-physics.com/p/reading-list-032126) — *Construction Physics* `03-21`
-- [Turbo Pascal 3.02A, deconstructed](https://simonwillison.net/2026/Mar/20/turbo-pascal/#atom-everything) — *Simon Willison's Weblog* `03-20`
-- [Google Search Is Now Using AI to Rewrite Headlines](https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjI0Q05IV0dlS3EiLCJwIjoiL3RlY2gvODk2NDkwL2dvb2dsZS1yZXBsYWNlLW5ld3MtaGVhZGxpbmVzLWluLXNlYXJjaC1jYW5hcnktY29hbC1taW5lLWV4cGVyaW1lbnQiLCJleHAiOjE3NzQ0NzIwOTAsImlhdCI6MTc3NDA0MDA5MH0.3exwHWG6qdR5YeFLjzS1qvUy3tgfASQhbFZDTbHrkKE&utm_medium=gift-link) — *Daring Fireball* `03-20`
-- [Perhaps Bluesky’s Revelation of an 11-Month Ago $100 Million Investment Was, in Fact, an Act of Transparency](https://bsky.app/profile/flooey.org/post/3mhiznh4d7c2j) — *Daring Fireball* `03-20`
-- [Quoting Kimi.ai @Kimi_Moonshot](https://simonwillison.net/2026/Mar/20/cursor-on-kimi/#atom-everything) — *Simon Willison's Weblog* `03-20`
+- [How to Attract AI Bots to Your Open Source Project](https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html) — *Andrew Nesbitt* `03-21`
 <!--BLOG_RADAR:end-->
 
 ---

@@ -4,13 +4,41 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 21 Mar 2026 18:47:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 02:52:29 +0000</lastBuildDate>
+    <item>
+      <title>Reuters: ‘Amazon Plans Smartphone Comeback More Than a Decade After Fire Phone Flop’</title>
+      <link>https://www.reuters.com/technology/amazon-plans-smartphone-comeback-more-than-decade-after-fire-phone-flop-2026-03-20/</link>
+      <guid isPermaLink="true">https://www.reuters.com/technology/amazon-plans-smartphone-comeback-more-than-decade-after-fire-phone-flop-2026-03-20/</guid>
+      <pubDate>Sun, 22 Mar 2026 00:52:58 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Profiling Hacker News users based on their comments</title>
+      <link>https://simonwillison.net/2026/Mar/21/profiling-hacker-news-users/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/21/profiling-hacker-news-users/#atom-everything</guid>
+      <pubDate>Sat, 21 Mar 2026 23:59:47 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Using Git with coding agents</title>
+      <link>https://simonwillison.net/guides/agentic-engineering-patterns/using-git-with-coding-agents/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/guides/agentic-engineering-patterns/using-git-with-coding-agents/#atom-everything</guid>
+      <pubDate>Sat, 21 Mar 2026 22:08:24 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Reading List 03/21/26</title>
       <link>https://www.construction-physics.com/p/reading-list-032126</link>
       <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-032126</guid>
       <pubDate>Sat, 21 Mar 2026 12:03:50 +0000</pubDate>
       <description>Construction Physics</description>
+    </item>
+    <item>
+      <title>How to Attract AI Bots to Your Open Source Project</title>
+      <link>https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html</guid>
+      <pubDate>Sat, 21 Mar 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
     </item>
     <item>
       <title>Turbo Pascal 3.02A, deconstructed</title>
@@ -97,18 +125,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Windows stack limit checking retrospective: arm64, also known as AArch64</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260320-00/?p=112154</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260320-00/?p=112154</guid>
-      <pubDate>Fri, 20 Mar 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
       <title>The best laptop Apple ever made</title>
       <link>https://www.jeffgeerling.com/blog/2026/best-laptop-apple-ever-made/</link>
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/best-laptop-apple-ever-made/</guid>
       <pubDate>Fri, 20 Mar 2026 14:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>Windows stack limit checking retrospective: arm64, also known as AArch64</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260320-00/?p=112154</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260320-00/?p=112154</guid>
+      <pubDate>Fri, 20 Mar 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>I'm OK being left behind, thanks!</title>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Mar/14/jannis-leidel/#atom-everything</guid>
       <pubDate>Sat, 14 Mar 2026 18:41:25 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>My fireside chat about agentic engineering at the Pragmatic Summit</title>
-      <link>https://simonwillison.net/2026/Mar/14/pragmatic-summit/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/14/pragmatic-summit/#atom-everything</guid>
-      <pubDate>Sat, 14 Mar 2026 18:19:38 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Ars Technica Fires Reporter Benj Edwards After He Published Story With AI-Fabricated Quotes</title>
-      <link>https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes</link>
-      <guid isPermaLink="true">https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes</guid>
-      <pubDate>Sat, 14 Mar 2026 17:22:05 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Lil Finder Guy</title>
-      <link>https://basicappleguy.com/basicappleblog/lil-finder-guy</link>
-      <guid isPermaLink="true">https://basicappleguy.com/basicappleblog/lil-finder-guy</guid>
-      <pubDate>Sat, 14 Mar 2026 16:21:34 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Pluralistic: Corrupt anticorruption (14 Mar 2026)</title>
-      <link>https://pluralistic.net/2026/03/14/ill-have-what-xis-having/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/03/14/ill-have-what-xis-having/</guid>
-      <pubDate>Sat, 14 Mar 2026 15:15:42 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
     </item>
   </channel>
 </rss>
