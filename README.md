@@ -208,11 +208,11 @@ Last Updated: Sunday, March 22nd, 2026, 8:38:57 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Bored of eating your own dogfood? Try smelling your own farts!](https://shkspr.mobi/blog/2026/03/bored-of-eating-your-own-dogfood-try-smelling-your-own-farts/) — *Terence Eden’s Blog* `03-22`
+- [Waarom we nu WEL zuinig moeten doen, en door moeten met groene energie](https://berthub.eu/articles/posts/waarom-we-nu-wel-zuinig-moeten-doen-en-meer-groene-energie/) — *Bert Hubert's writings* `03-22`
 - [Refurb weekend double header: Alpha Micro AM-1000E and AM-1200](https://oldvcr.blogspot.com/2026/03/refurb-weekend-double-header-alpha.html) — *Old Vintage Computing Research* `03-22`
 - [Reuters: ‘Amazon Plans Smartphone Comeback More Than a Decade After Fire Phone Flop’](https://www.reuters.com/technology/amazon-plans-smartphone-comeback-more-than-decade-after-fire-phone-flop-2026-03-20/) — *Daring Fireball* `03-22`
 - [Profiling Hacker News users based on their comments](https://simonwillison.net/2026/Mar/21/profiling-hacker-news-users/#atom-everything) — *Simon Willison's Weblog* `03-21`
-- [Using Git with coding agents](https://simonwillison.net/guides/agentic-engineering-patterns/using-git-with-coding-agents/#atom-everything) — *Simon Willison's Weblog* `03-21`
-- [A traditional path to getting lingering duplicate systems](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LingeringDuplicateSystemsII) — *Chris's Wiki :: blog* `03-21`
 <!--BLOG_RADAR:end-->
 
 ---
