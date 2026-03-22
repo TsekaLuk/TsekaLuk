@@ -208,11 +208,11 @@ Last Updated: Sunday, March 22nd, 2026, 2:43:28 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Refurb weekend double header: Alpha Micro AM-1000E and AM-1200](https://oldvcr.blogspot.com/2026/03/refurb-weekend-double-header-alpha.html) — *Old Vintage Computing Research* `03-22`
 - [Reuters: ‘Amazon Plans Smartphone Comeback More Than a Decade After Fire Phone Flop’](https://www.reuters.com/technology/amazon-plans-smartphone-comeback-more-than-decade-after-fire-phone-flop-2026-03-20/) — *Daring Fireball* `03-22`
 - [Profiling Hacker News users based on their comments](https://simonwillison.net/2026/Mar/21/profiling-hacker-news-users/#atom-everything) — *Simon Willison's Weblog* `03-21`
 - [Using Git with coding agents](https://simonwillison.net/guides/agentic-engineering-patterns/using-git-with-coding-agents/#atom-everything) — *Simon Willison's Weblog* `03-21`
-- [Reading List 03/21/26](https://www.construction-physics.com/p/reading-list-032126) — *Construction Physics* `03-21`
-- [How to Attract AI Bots to Your Open Source Project](https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html) — *Andrew Nesbitt* `03-21`
+- [A traditional path to getting lingering duplicate systems](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LingeringDuplicateSystemsII) — *Chris's Wiki :: blog* `03-21`
 <!--BLOG_RADAR:end-->
 
 ---

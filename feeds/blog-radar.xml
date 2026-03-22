@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 22 Mar 2026 02:52:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 07:00:08 +0000</lastBuildDate>
+    <item>
+      <title>Refurb weekend double header: Alpha Micro AM-1000E and AM-1200</title>
+      <link>https://oldvcr.blogspot.com/2026/03/refurb-weekend-double-header-alpha.html</link>
+      <guid isPermaLink="true">https://oldvcr.blogspot.com/2026/03/refurb-weekend-double-header-alpha.html</guid>
+      <pubDate>Sun, 22 Mar 2026 03:14:00 +0000</pubDate>
+      <description>Old Vintage Computing Research</description>
+    </item>
     <item>
       <title>Reuters: ‘Amazon Plans Smartphone Comeback More Than a Decade After Fire Phone Flop’</title>
       <link>https://www.reuters.com/technology/amazon-plans-smartphone-comeback-more-than-decade-after-fire-phone-flop-2026-03-20/</link>
@@ -27,6 +34,13 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
+      <title>A traditional path to getting lingering duplicate systems</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LingeringDuplicateSystemsII</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LingeringDuplicateSystemsII</guid>
+      <pubDate>Sat, 21 Mar 2026 20:36:31 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
       <title>Reading List 03/21/26</title>
       <link>https://www.construction-physics.com/p/reading-list-032126</link>
       <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-032126</guid>
@@ -39,6 +53,13 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html</guid>
       <pubDate>Sat, 21 Mar 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>Lingering duplicate systems and the expense of weeding them out (an illustration)</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LingeringDuplicateSystems</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LingeringDuplicateSystems</guid>
+      <pubDate>Sat, 21 Mar 2026 03:05:27 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>Turbo Pascal 3.02A, deconstructed</title>
@@ -167,6 +188,13 @@
       <description>Andrew Nesbitt</description>
     </item>
     <item>
+      <title>DMARC DNS record inheritance and DMARC alignment requirements</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/spam/DMARCAlignmentAndInheritance</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/spam/DMARCAlignmentAndInheritance</guid>
+      <pubDate>Fri, 20 Mar 2026 02:56:30 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
       <title>Feds Disrupt IoT Botnets Behind Huge DDoS Attacks</title>
       <link>https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/</link>
       <guid isPermaLink="true">https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/</guid>
@@ -284,6 +312,13 @@
       <guid isPermaLink="true">https://herman.bearblog.dev/becoming-a-day-person/</guid>
       <pubDate>Thu, 19 Mar 2026 09:17:00 +0000</pubDate>
       <description>Herman's blog</description>
+    </item>
+    <item>
+      <title>One problem with (Python) docstrings is that they're local</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/python/DocstringsAreLocal</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/python/DocstringsAreLocal</guid>
+      <pubDate>Thu, 19 Mar 2026 02:40:17 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>A lesser-known characterization of the gamma function</title>
@@ -410,6 +445,13 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/03/17/alternating-series-remainder/</guid>
       <pubDate>Wed, 18 Mar 2026 02:50:12 +0000</pubDate>
       <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Wayland has good reasons to put the window manager in the display server</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/unix/WaylandAndBuiltinWindowManagers</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/unix/WaylandAndBuiltinWindowManagers</guid>
+      <pubDate>Wed, 18 Mar 2026 02:26:51 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>Homelab downtime update: The fight for DNS supremacy</title>
@@ -566,6 +608,13 @@
       <description>Troy Hunt</description>
     </item>
     <item>
+      <title>Cleaning old GPG RPM keys that your Fedora install is keeping around</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/FedoraCleaningOldGpgRPMKeys</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/FedoraCleaningOldGpgRPMKeys</guid>
+      <pubDate>Tue, 17 Mar 2026 01:56:30 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
       <title>My homelab will be down for at least 20 days</title>
       <link>https://xeiaso.net/notes/2026/homelab-is-down/</link>
       <guid isPermaLink="true">https://xeiaso.net/notes/2026/homelab-is-down/</guid>
@@ -699,6 +748,13 @@
       <description>IT Notes</description>
     </item>
     <item>
+      <title>Making empirical decisions about web access (here in 2026)</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/web/WebAccessDecisionsEmpirical</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/web/WebAccessDecisionsEmpirical</guid>
+      <pubDate>Mon, 16 Mar 2026 02:12:17 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
       <title>Shower Thought: Git Teleportation</title>
       <link>https://idiallo.com/byte-size/git-teleportation?src=feed</link>
       <guid isPermaLink="true">https://idiallo.com/byte-size/git-teleportation?src=feed</guid>
@@ -788,62 +844,6 @@
       <guid isPermaLink="true">https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/</guid>
       <pubDate>Sun, 15 Mar 2026 15:41:58 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Book Review: Robots in Space - The Secret Lives of Our Planetary Explorers by Dr Ezzy Pearson ★★★⯪☆</title>
-      <link>https://shkspr.mobi/blog/2026/03/book-review-robots-in-space-the-secret-lives-of-our-planetary-explorers-by-dr-ezzy-pearson/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/03/book-review-robots-in-space-the-secret-lives-of-our-planetary-explorers-by-dr-ezzy-pearson/</guid>
-      <pubDate>Sun, 15 Mar 2026 12:34:48 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>BertVote Gemeenteraadsverkiezingen 2026</title>
-      <link>https://berthub.eu/articles/posts/bert-vote-gemeenteraad-2026/</link>
-      <guid isPermaLink="true">https://berthub.eu/articles/posts/bert-vote-gemeenteraad-2026/</guid>
-      <pubDate>Sun, 15 Mar 2026 11:39:25 +0000</pubDate>
-      <description>Bert Hubert's writings</description>
-    </item>
-    <item>
-      <title>Guided Meditation for Developers</title>
-      <link>https://nesbitt.io/2026/03/15/guided-meditation-for-developers.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/03/15/guided-meditation-for-developers.html</guid>
-      <pubDate>Sun, 15 Mar 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Matt Mullenweg Documents a Dastardly Clever Apple Account Phishing Scam</title>
-      <link>https://ma.tt/2026/03/gone-almost-phishin/</link>
-      <guid isPermaLink="true">https://ma.tt/2026/03/gone-almost-phishin/</guid>
-      <pubDate>Sun, 15 Mar 2026 00:37:30 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Why Claude's new 1M context length is a big deal</title>
-      <link>https://martinalderson.com/posts/why-claudes-new-1m-context-length-is-a-big-deal/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
-      <guid isPermaLink="true">https://martinalderson.com/posts/why-claudes-new-1m-context-length-is-a-big-deal/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
-      <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Martin Alderson</description>
-    </item>
-    <item>
-      <title>iFixit’s MacBook Neo Teardown</title>
-      <link>https://www.ifixit.com/News/116152/macbook-neo-is-the-most-repairable-macbook-in-14-years</link>
-      <guid isPermaLink="true">https://www.ifixit.com/News/116152/macbook-neo-is-the-most-repairable-macbook-in-14-years</guid>
-      <pubDate>Sat, 14 Mar 2026 22:06:02 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>PC Makers Are Not Ready for the MacBook Neo</title>
-      <link>https://www.theverge.com/report/894090/macbook-neo-pc-windows-laptop-competition-asus-footinmouth</link>
-      <guid isPermaLink="true">https://www.theverge.com/report/894090/macbook-neo-pc-windows-laptop-competition-asus-footinmouth</guid>
-      <pubDate>Sat, 14 Mar 2026 20:02:36 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Quoting Jannis Leidel</title>
-      <link>https://simonwillison.net/2026/Mar/14/jannis-leidel/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/14/jannis-leidel/#atom-everything</guid>
-      <pubDate>Sat, 14 Mar 2026 18:41:25 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
