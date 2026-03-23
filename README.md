@@ -208,11 +208,11 @@ Last Updated: Monday, March 23rd, 2026, 3:03:13 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Pluralistic: Understaffing as a form of enshittification (23 Mar 2026)](https://pluralistic.net/2026/03/22/nobodys-home/) — *Pluralistic: Daily links from Cory Doctorow* `03-23`
 - [Beats now have notes](https://simonwillison.net/2026/Mar/23/beats-now-have-notes/#atom-everything) — *Simon Willison's Weblog* `03-23`
 - [Hitachi Ltd, Part I](https://www.abortretry.fail/p/hitachi-ltd-part-i) — *Abort Retry Fail* `03-23`
 - [Starlette 1.0 skill](https://simonwillison.net/2026/Mar/23/starlette-1-skill/#atom-everything) — *Simon Willison's Weblog* `03-23`
 - [Experimenting with Starlette 1.0 with Claude skills](https://simonwillison.net/2026/Mar/22/starlette/#atom-everything) — *Simon Willison's Weblog* `03-22`
-- ["Collaboration" is bullshit.](https://www.joanwestenberg.com/collaboration-is-bullshit/) — *Westenberg.* `03-22`
 <!--BLOG_RADAR:end-->
 
 ---
