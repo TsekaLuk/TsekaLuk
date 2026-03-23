@@ -208,11 +208,11 @@ Last Updated: Tuesday, March 24th, 2026, 2:45:25 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Markdown Ate The World](https://matduggan.com/markdown-ate-the-world/) — *matduggan.com* `03-23`
-- [Set intersection and difference at the command line](https://www.johndcook.com/blog/2026/03/23/intersection-difference/) — *John D. Cook* `03-23`
-- [Pluralistic: Understaffing as a form of enshittification (23 Mar 2026)](https://pluralistic.net/2026/03/22/nobodys-home/) — *Pluralistic: Daily links from Cory Doctorow* `03-23`
-- [Beats now have notes](https://simonwillison.net/2026/Mar/23/beats-now-have-notes/#atom-everything) — *Simon Willison's Weblog* `03-23`
-- [Hitachi Ltd, Part I](https://www.abortretry.fail/p/hitachi-ltd-part-i) — *Abort Retry Fail* `03-23`
+- [Quoting David Abram](https://simonwillison.net/2026/Mar/23/david-abram/#atom-everything) — *Simon Willison's Weblog* `03-23`
+- [WWDC 2026: June 8–12](https://www.apple.com/newsroom/2026/03/apples-worldwide-developers-conference-returns-the-week-of-june-8/) — *Daring Fireball* `03-23`
+- [From the DF Archive, a Decade Ago: ‘The Industry Is Fucked Up’](https://daringfireball.net/linked/2015/07/09/ritchie-bad-ads) — *Daring Fireball* `03-23`
+- [The HTML Review: Issue 05](https://thehtml.review/05/) — *Daring Fireball* `03-23`
+- [‘CanisterWorm’ Springs Wiper Attack Targeting Iran](https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/) — *Krebs on Security* `03-23`
 <!--BLOG_RADAR:end-->
 
 ---

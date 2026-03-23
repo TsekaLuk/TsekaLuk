@@ -4,7 +4,56 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 23 Mar 2026 13:24:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 19:04:42 +0000</lastBuildDate>
+    <item>
+      <title>Quoting David Abram</title>
+      <link>https://simonwillison.net/2026/Mar/23/david-abram/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/23/david-abram/#atom-everything</guid>
+      <pubDate>Mon, 23 Mar 2026 18:56:18 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>WWDC 2026: June 8–12</title>
+      <link>https://www.apple.com/newsroom/2026/03/apples-worldwide-developers-conference-returns-the-week-of-june-8/</link>
+      <guid isPermaLink="true">https://www.apple.com/newsroom/2026/03/apples-worldwide-developers-conference-returns-the-week-of-june-8/</guid>
+      <pubDate>Mon, 23 Mar 2026 18:20:04 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>From the DF Archive, a Decade Ago: ‘The Industry Is Fucked Up’</title>
+      <link>https://daringfireball.net/linked/2015/07/09/ritchie-bad-ads</link>
+      <guid isPermaLink="true">https://daringfireball.net/linked/2015/07/09/ritchie-bad-ads</guid>
+      <pubDate>Mon, 23 Mar 2026 18:09:32 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>The HTML Review: Issue 05</title>
+      <link>https://thehtml.review/05/</link>
+      <guid isPermaLink="true">https://thehtml.review/05/</guid>
+      <pubDate>Mon, 23 Mar 2026 17:40:05 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>‘CanisterWorm’ Springs Wiper Attack Targeting Iran</title>
+      <link>https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/</link>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/</guid>
+      <pubDate>Mon, 23 Mar 2026 15:43:04 +0000</pubDate>
+      <description>Krebs on Security</description>
+    </item>
+    <item>
+      <title>How can I make sure the anti-malware software doesn’t terminate my custom service?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260323-00/?p=112157</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260323-00/?p=112157</guid>
+      <pubDate>Mon, 23 Mar 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>The Pancake Discussion</title>
+      <link>https://feed.tedium.co/link/15204/17304313/social-media-flat-discussion</link>
+      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17304313/social-media-flat-discussion</guid>
+      <pubDate>Mon, 23 Mar 2026 13:17:36 +0000</pubDate>
+      <description>Tedium: The Dull Side of the Internet.</description>
+    </item>
     <item>
       <title>Markdown Ate The World</title>
       <link>https://matduggan.com/markdown-ate-the-world/</link>
@@ -32,6 +81,13 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Mar/23/beats-now-have-notes/#atom-everything</guid>
       <pubDate>Mon, 23 Mar 2026 02:13:13 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Mass production's effects on the cheapest way to get some things</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/tech/VolumeMakesOddThingsCheap</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/tech/VolumeMakesOddThingsCheap</guid>
+      <pubDate>Mon, 23 Mar 2026 02:00:35 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>Hitachi Ltd, Part I</title>
@@ -125,6 +181,13 @@
       <description>the singularity is nearer</description>
     </item>
     <item>
+      <title>Bored of eating your own dogfood? Try smelling your own farts!</title>
+      <link>https://shkspr.mobi/blog/2026/03/bored-of-eating-your-own-dogfood-try-smelling-your-own-farts/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/03/bored-of-eating-your-own-dogfood-try-smelling-your-own-farts/</guid>
+      <pubDate>Sun, 22 Mar 2026 12:34:07 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>Waarom we nu WEL zuinig moeten doen, en door moeten met groene energie</title>
       <link>https://berthub.eu/articles/posts/waarom-we-nu-wel-zuinig-moeten-doen-en-meer-groene-energie/</link>
       <guid isPermaLink="true">https://berthub.eu/articles/posts/waarom-we-nu-wel-zuinig-moeten-doen-en-meer-groene-energie/</guid>
@@ -174,6 +237,13 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
+      <title>A traditional path to getting lingering duplicate systems</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LingeringDuplicateSystemsII</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LingeringDuplicateSystemsII</guid>
+      <pubDate>Sat, 21 Mar 2026 20:36:31 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
       <title>Reading List 03/21/26</title>
       <link>https://www.construction-physics.com/p/reading-list-032126</link>
       <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-032126</guid>
@@ -186,6 +256,13 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html</guid>
       <pubDate>Sat, 21 Mar 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>Lingering duplicate systems and the expense of weeding them out (an illustration)</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LingeringDuplicateSystems</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LingeringDuplicateSystems</guid>
+      <pubDate>Sat, 21 Mar 2026 03:05:27 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>Turbo Pascal 3.02A, deconstructed</title>
@@ -286,6 +363,13 @@
       <description>The Old New Thing</description>
     </item>
     <item>
+      <title>I'm OK being left behind, thanks!</title>
+      <link>https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/</guid>
+      <pubDate>Fri, 20 Mar 2026 12:34:02 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>Why Is Everyone Supposed to Die If Machines Can Think?</title>
       <link>https://idiallo.com/blog/everyone-is-supposed-to-die-when-machines-can-think?src=feed</link>
       <guid isPermaLink="true">https://idiallo.com/blog/everyone-is-supposed-to-die-when-machines-can-think?src=feed</guid>
@@ -312,6 +396,13 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Mar/20/sqlite-tags-benchmark/#atom-everything</guid>
       <pubDate>Fri, 20 Mar 2026 02:57:00 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>DMARC DNS record inheritance and DMARC alignment requirements</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/spam/DMARCAlignmentAndInheritance</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/spam/DMARCAlignmentAndInheritance</guid>
+      <pubDate>Fri, 20 Mar 2026 02:56:30 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>Feds Disrupt IoT Botnets Behind Huge DDoS Attacks</title>
@@ -433,6 +524,13 @@
       <description>Herman's blog</description>
     </item>
     <item>
+      <title>One problem with (Python) docstrings is that they're local</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/python/DocstringsAreLocal</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/python/DocstringsAreLocal</guid>
+      <pubDate>Thu, 19 Mar 2026 02:40:17 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
       <title>A lesser-known characterization of the gamma function</title>
       <link>https://www.johndcook.com/blog/2026/03/18/wielandt/</link>
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/03/18/wielandt/</guid>
@@ -531,6 +629,13 @@
       <description>The Old New Thing</description>
     </item>
     <item>
+      <title>Finding the right Bottom Hole paper</title>
+      <link>https://shkspr.mobi/blog/2026/03/finding-the-right-bottom-hole-paper/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/03/finding-the-right-bottom-hole-paper/</guid>
+      <pubDate>Wed, 18 Mar 2026 12:34:37 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>Communication Is Surveillance by Design</title>
       <link>https://idiallo.com/blog/communication-is-surveillance-by-design?src=feed</link>
       <guid isPermaLink="true">https://idiallo.com/blog/communication-is-surveillance-by-design?src=feed</guid>
@@ -559,11 +664,11 @@
       <description>John D. Cook</description>
     </item>
     <item>
-      <title>Homelab downtime update: The fight for DNS supremacy</title>
-      <link>https://xeiaso.net/notes/2026/dns-fight/</link>
-      <guid isPermaLink="true">https://xeiaso.net/notes/2026/dns-fight/</guid>
-      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
+      <title>Wayland has good reasons to put the window manager in the display server</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/unix/WaylandAndBuiltinWindowManagers</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/unix/WaylandAndBuiltinWindowManagers</guid>
+      <pubDate>Wed, 18 Mar 2026 02:26:51 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>LLMs predict my coffee</title>
@@ -571,6 +676,13 @@
       <guid isPermaLink="true">https://dynomight.net/coffee/</guid>
       <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
       <description>DYNOMIGHT</description>
+    </item>
+    <item>
+      <title>Homelab downtime update: The fight for DNS supremacy</title>
+      <link>https://xeiaso.net/notes/2026/dns-fight/</link>
+      <guid isPermaLink="true">https://xeiaso.net/notes/2026/dns-fight/</guid>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>Wander the Small Web</title>
@@ -720,130 +832,18 @@
       <description>Troy Hunt</description>
     </item>
     <item>
+      <title>Cleaning old GPG RPM keys that your Fedora install is keeping around</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/FedoraCleaningOldGpgRPMKeys</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/FedoraCleaningOldGpgRPMKeys</guid>
+      <pubDate>Tue, 17 Mar 2026 01:56:30 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
       <title>My homelab will be down for at least 20 days</title>
       <link>https://xeiaso.net/notes/2026/homelab-is-down/</link>
       <guid isPermaLink="true">https://xeiaso.net/notes/2026/homelab-is-down/</guid>
       <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
-    </item>
-    <item>
-      <title>Using agents and Wine to move off Windows</title>
-      <link>https://martinalderson.com/posts/using-agents-and-wine-to-move-off-windows/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
-      <guid isPermaLink="true">https://martinalderson.com/posts/using-agents-and-wine-to-move-off-windows/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
-      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Martin Alderson</description>
-    </item>
-    <item>
-      <title>Introducing Mistral Small 4</title>
-      <link>https://simonwillison.net/2026/Mar/16/mistral-small-4/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/16/mistral-small-4/#atom-everything</guid>
-      <pubDate>Mon, 16 Mar 2026 23:41:17 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Use subagents and custom agents in Codex</title>
-      <link>https://simonwillison.net/2026/Mar/16/codex-subagents/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/16/codex-subagents/#atom-everything</guid>
-      <pubDate>Mon, 16 Mar 2026 23:03:56 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Esqueleto Tutorial</title>
-      <link>https://entropicthoughts.com/esqueleto-tutorial</link>
-      <guid isPermaLink="true">https://entropicthoughts.com/esqueleto-tutorial</guid>
-      <pubDate>Mon, 16 Mar 2026 23:00:00 +0000</pubDate>
-      <description>Entropic Thoughts</description>
-    </item>
-    <item>
-      <title>Quoting A member of Anthropic’s alignment-science team</title>
-      <link>https://simonwillison.net/2026/Mar/16/blackmail/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/16/blackmail/#atom-everything</guid>
-      <pubDate>Mon, 16 Mar 2026 21:38:55 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Quoting Guilherme Rambo</title>
-      <link>https://simonwillison.net/2026/Mar/16/guilherme-rambo/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/16/guilherme-rambo/#atom-everything</guid>
-      <pubDate>Mon, 16 Mar 2026 20:34:13 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Coding agents for data analysis</title>
-      <link>https://simonwillison.net/2026/Mar/16/coding-agents-for-data-analysis/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/16/coding-agents-for-data-analysis/#atom-everything</guid>
-      <pubDate>Mon, 16 Mar 2026 20:12:32 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Updates OpenTK: alerts voor antwoorden op kamervragen, betere kamerstukdossiers en meer!</title>
-      <link>https://berthub.eu/articles/posts/updates-opentk-maart-2026/</link>
-      <guid isPermaLink="true">https://berthub.eu/articles/posts/updates-opentk-maart-2026/</guid>
-      <pubDate>Mon, 16 Mar 2026 19:40:09 +0000</pubDate>
-      <description>Bert Hubert's writings</description>
-    </item>
-    <item>
-      <title>‘The Last Quiet Thing’</title>
-      <link>https://www.terrygodier.com/the-last-quiet-thing</link>
-      <guid isPermaLink="true">https://www.terrygodier.com/the-last-quiet-thing</guid>
-      <pubDate>Mon, 16 Mar 2026 17:58:00 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Apple Introduces AirPods Max 2</title>
-      <link>https://www.apple.com/newsroom/2026/03/apple-introduces-airpods-max-2-powered-by-h2/</link>
-      <guid isPermaLink="true">https://www.apple.com/newsroom/2026/03/apple-introduces-airpods-max-2-powered-by-h2/</guid>
-      <pubDate>Mon, 16 Mar 2026 17:57:39 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>★ Apple Exclaves and the Secure Design of the MacBook Neo’s On-Screen Camera Indicator</title>
-      <link>https://daringfireball.net/2026/03/apple_enclaves_neo_camera_indicator</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/03/apple_enclaves_neo_camera_indicator</guid>
-      <pubDate>Mon, 16 Mar 2026 17:27:58 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>How coding agents work</title>
-      <link>https://simonwillison.net/guides/agentic-engineering-patterns/how-coding-agents-work/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/guides/agentic-engineering-patterns/how-coding-agents-work/#atom-everything</guid>
-      <pubDate>Mon, 16 Mar 2026 14:01:41 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Windows stack limit checking retrospective: PowerPC</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260316-00/?p=112140</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260316-00/?p=112140</guid>
-      <pubDate>Mon, 16 Mar 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Pluralistic: Tools vs uses (16 Mar 2026)</title>
-      <link>https://pluralistic.net/2026/03/16/whittle-a-webserver/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/03/16/whittle-a-webserver/</guid>
-      <pubDate>Mon, 16 Mar 2026 13:53:43 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>The Loyalty Oath Crusade</title>
-      <link>https://idiallo.com/blog/loyalty-oath-crusade-speak-up?src=feed</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/loyalty-oath-crusade-speak-up?src=feed</guid>
-      <pubDate>Mon, 16 Mar 2026 12:00:00 +0000</pubDate>
-      <description>iDiallo.com</description>
-    </item>
-    <item>
-      <title>Why I Love FreeBSD</title>
-      <link>https://it-notes.dragas.net/2026/03/16/why-i-love-freebsd/</link>
-      <guid isPermaLink="true">https://it-notes.dragas.net/2026/03/16/why-i-love-freebsd/</guid>
-      <pubDate>Mon, 16 Mar 2026 08:10:00 +0000</pubDate>
-      <description>IT Notes</description>
-    </item>
-    <item>
-      <title>Shower Thought: Git Teleportation</title>
-      <link>https://idiallo.com/byte-size/git-teleportation?src=feed</link>
-      <guid isPermaLink="true">https://idiallo.com/byte-size/git-teleportation?src=feed</guid>
-      <pubDate>Mon, 16 Mar 2026 00:23:04 +0000</pubDate>
-      <description>iDiallo.com</description>
     </item>
   </channel>
 </rss>
