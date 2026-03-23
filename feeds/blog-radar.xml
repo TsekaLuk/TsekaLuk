@@ -4,7 +4,70 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 22 Mar 2026 18:49:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 02:52:17 +0000</lastBuildDate>
+    <item>
+      <title>Beats now have notes</title>
+      <link>https://simonwillison.net/2026/Mar/23/beats-now-have-notes/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/23/beats-now-have-notes/#atom-everything</guid>
+      <pubDate>Mon, 23 Mar 2026 02:13:13 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Hitachi Ltd, Part I</title>
+      <link>https://www.abortretry.fail/p/hitachi-ltd-part-i</link>
+      <guid isPermaLink="true">https://www.abortretry.fail/p/hitachi-ltd-part-i</guid>
+      <pubDate>Mon, 23 Mar 2026 00:14:27 +0000</pubDate>
+      <description>Abort Retry Fail</description>
+    </item>
+    <item>
+      <title>Starlette 1.0 skill</title>
+      <link>https://simonwillison.net/2026/Mar/23/starlette-1-skill/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/23/starlette-1-skill/#atom-everything</guid>
+      <pubDate>Mon, 23 Mar 2026 00:05:00 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Experimenting with Starlette 1.0 with Claude skills</title>
+      <link>https://simonwillison.net/2026/Mar/22/starlette/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/22/starlette/#atom-everything</guid>
+      <pubDate>Sun, 22 Mar 2026 23:57:44 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>"Collaboration" is bullshit.</title>
+      <link>https://www.joanwestenberg.com/collaboration-is-bullshit/</link>
+      <guid isPermaLink="true">https://www.joanwestenberg.com/collaboration-is-bullshit/</guid>
+      <pubDate>Sun, 22 Mar 2026 23:31:25 +0000</pubDate>
+      <description>Westenberg.</description>
+    </item>
+    <item>
+      <title>PCGamer Article Performance Audit</title>
+      <link>https://simonwillison.net/2026/Mar/22/pcgamer-audit/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/22/pcgamer-audit/#atom-everything</guid>
+      <pubDate>Sun, 22 Mar 2026 22:49:00 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>JavaScript Sandboxing Research</title>
+      <link>https://simonwillison.net/2026/Mar/22/javascript-sandboxing-research/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/22/javascript-sandboxing-research/#atom-everything</guid>
+      <pubDate>Sun, 22 Mar 2026 19:53:00 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>DNS Lookup</title>
+      <link>https://simonwillison.net/2026/Mar/22/dns/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/22/dns/#atom-everything</guid>
+      <pubDate>Sun, 22 Mar 2026 19:16:30 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Merge State Visualizer</title>
+      <link>https://simonwillison.net/2026/Mar/22/manyana/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/22/manyana/#atom-everything</guid>
+      <pubDate>Sun, 22 Mar 2026 18:57:32 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Mux — Video API for Developers</title>
       <link>https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF</link>
@@ -83,13 +146,6 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>A traditional path to getting lingering duplicate systems</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LingeringDuplicateSystemsII</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LingeringDuplicateSystemsII</guid>
-      <pubDate>Sat, 21 Mar 2026 20:36:31 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
       <title>Reading List 03/21/26</title>
       <link>https://www.construction-physics.com/p/reading-list-032126</link>
       <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-032126</guid>
@@ -102,13 +158,6 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html</guid>
       <pubDate>Sat, 21 Mar 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Lingering duplicate systems and the expense of weeding them out (an illustration)</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LingeringDuplicateSystems</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LingeringDuplicateSystems</guid>
-      <pubDate>Sat, 21 Mar 2026 03:05:27 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>Turbo Pascal 3.02A, deconstructed</title>
@@ -237,11 +286,11 @@
       <description>Andrew Nesbitt</description>
     </item>
     <item>
-      <title>DMARC DNS record inheritance and DMARC alignment requirements</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/spam/DMARCAlignmentAndInheritance</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/spam/DMARCAlignmentAndInheritance</guid>
-      <pubDate>Fri, 20 Mar 2026 02:56:30 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
+      <title>SQLite Tags Benchmark: Comparing 5 Tagging Strategies</title>
+      <link>https://simonwillison.net/2026/Mar/20/sqlite-tags-benchmark/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/20/sqlite-tags-benchmark/#atom-everything</guid>
+      <pubDate>Fri, 20 Mar 2026 02:57:00 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
     <item>
       <title>Feds Disrupt IoT Botnets Behind Huge DDoS Attacks</title>
@@ -361,13 +410,6 @@
       <guid isPermaLink="true">https://herman.bearblog.dev/becoming-a-day-person/</guid>
       <pubDate>Thu, 19 Mar 2026 09:17:00 +0000</pubDate>
       <description>Herman's blog</description>
-    </item>
-    <item>
-      <title>One problem with (Python) docstrings is that they're local</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/python/DocstringsAreLocal</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/python/DocstringsAreLocal</guid>
-      <pubDate>Thu, 19 Mar 2026 02:40:17 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>A lesser-known characterization of the gamma function</title>
@@ -496,13 +538,6 @@
       <description>John D. Cook</description>
     </item>
     <item>
-      <title>Wayland has good reasons to put the window manager in the display server</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/unix/WaylandAndBuiltinWindowManagers</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/unix/WaylandAndBuiltinWindowManagers</guid>
-      <pubDate>Wed, 18 Mar 2026 02:26:51 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
       <title>Homelab downtime update: The fight for DNS supremacy</title>
       <link>https://xeiaso.net/notes/2026/dns-fight/</link>
       <guid isPermaLink="true">https://xeiaso.net/notes/2026/dns-fight/</guid>
@@ -557,6 +592,13 @@
       <guid isPermaLink="true">https://x.com/mlbonfox/status/2033902946174271992?s=46</guid>
       <pubDate>Tue, 17 Mar 2026 19:26:12 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>llm 0.29</title>
+      <link>https://simonwillison.net/2026/Mar/17/llm/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/17/llm/#atom-everything</guid>
+      <pubDate>Tue, 17 Mar 2026 19:24:10 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
     <item>
       <title>You Might Debate It — If You Could See It</title>
@@ -655,13 +697,6 @@
       <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-495/</guid>
       <pubDate>Tue, 17 Mar 2026 02:55:31 +0000</pubDate>
       <description>Troy Hunt</description>
-    </item>
-    <item>
-      <title>Cleaning old GPG RPM keys that your Fedora install is keeping around</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/FedoraCleaningOldGpgRPMKeys</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/FedoraCleaningOldGpgRPMKeys</guid>
-      <pubDate>Tue, 17 Mar 2026 01:56:30 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>My homelab will be down for at least 20 days</title>
@@ -790,13 +825,6 @@
       <description>IT Notes</description>
     </item>
     <item>
-      <title>Making empirical decisions about web access (here in 2026)</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/web/WebAccessDecisionsEmpirical</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/web/WebAccessDecisionsEmpirical</guid>
-      <pubDate>Mon, 16 Mar 2026 02:12:17 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
       <title>Shower Thought: Git Teleportation</title>
       <link>https://idiallo.com/byte-size/git-teleportation?src=feed</link>
       <guid isPermaLink="true">https://idiallo.com/byte-size/git-teleportation?src=feed</guid>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://www.youtube.com/live/eCSNJgI2LFI</guid>
       <pubDate>Sun, 15 Mar 2026 23:00:54 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>What is agentic engineering?</title>
-      <link>https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/#atom-everything</guid>
-      <pubDate>Sun, 15 Mar 2026 22:41:57 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>The optimized self and the life that got away</title>
-      <link>https://www.joanwestenberg.com/the-optimized-self-and-the-life-that-got-away/</link>
-      <guid isPermaLink="true">https://www.joanwestenberg.com/the-optimized-self-and-the-life-that-got-away/</guid>
-      <pubDate>Sun, 15 Mar 2026 22:25:26 +0000</pubDate>
-      <description>Westenberg.</description>
-    </item>
-    <item>
-      <title>Langford series</title>
-      <link>https://www.johndcook.com/blog/2026/03/15/langford-series/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/03/15/langford-series/</guid>
-      <pubDate>Sun, 15 Mar 2026 19:49:13 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Food, Software, and Trade-offs</title>
-      <link>https://blog.jim-nielsen.com/2026/food-software-and-trade-offs/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/food-software-and-trade-offs/</guid>
-      <pubDate>Sun, 15 Mar 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
     </item>
   </channel>
 </rss>

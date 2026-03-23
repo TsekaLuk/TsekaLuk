@@ -208,11 +208,11 @@ Last Updated: Monday, March 23rd, 2026, 9:50:11 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Mux — Video API for Developers](https://www.mux.com/?utm_campaign=fireball&utm_source=DF) — *Daring Fireball* `03-22`
-- [‘Good, I’m Glad He’s Dead.’](https://truthsocial.com/@realDonaldTrump/116268334535345382) — *Daring Fireball* `03-22`
-- [Half a Gigabyte of Ads](https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/) — *Daring Fireball* `03-22`
-- [Bored of eating your own dogfood? Try smelling your own farts!](https://shkspr.mobi/blog/2026/03/bored-of-eating-your-own-dogfood-try-smelling-your-own-farts/) — *Terence Eden’s Blog* `03-22`
-- [Waarom we nu WEL zuinig moeten doen, en door moeten met groene energie](https://berthub.eu/articles/posts/waarom-we-nu-wel-zuinig-moeten-doen-en-meer-groene-energie/) — *Bert Hubert's writings* `03-22`
+- [Beats now have notes](https://simonwillison.net/2026/Mar/23/beats-now-have-notes/#atom-everything) — *Simon Willison's Weblog* `03-23`
+- [Hitachi Ltd, Part I](https://www.abortretry.fail/p/hitachi-ltd-part-i) — *Abort Retry Fail* `03-23`
+- [Starlette 1.0 skill](https://simonwillison.net/2026/Mar/23/starlette-1-skill/#atom-everything) — *Simon Willison's Weblog* `03-23`
+- [Experimenting with Starlette 1.0 with Claude skills](https://simonwillison.net/2026/Mar/22/starlette/#atom-everything) — *Simon Willison's Weblog* `03-22`
+- ["Collaboration" is bullshit.](https://www.joanwestenberg.com/collaboration-is-bullshit/) — *Westenberg.* `03-22`
 <!--BLOG_RADAR:end-->
 
 ---
