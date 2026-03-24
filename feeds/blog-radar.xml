@@ -4,13 +4,48 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 24 Mar 2026 02:44:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 07:13:54 +0000</lastBuildDate>
+    <item>
+      <title>Tread carefully, because you tread on my fucks.</title>
+      <link>https://www.joanwestenberg.com/tread-carefully-because-you-tread-on-my-fucks/</link>
+      <guid isPermaLink="true">https://www.joanwestenberg.com/tread-carefully-because-you-tread-on-my-fucks/</guid>
+      <pubDate>Tue, 24 Mar 2026 05:33:06 +0000</pubDate>
+      <description>Westenberg.</description>
+    </item>
+    <item>
+      <title>Streaming experts</title>
+      <link>https://simonwillison.net/2026/Mar/24/streaming-experts/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/24/streaming-experts/#atom-everything</guid>
+      <pubDate>Tue, 24 Mar 2026 05:09:03 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Weekly Update 496</title>
+      <link>https://www.troyhunt.com/weekly-update-496/</link>
+      <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-496/</guid>
+      <pubDate>Tue, 24 Mar 2026 04:17:23 +0000</pubDate>
+      <description>Troy Hunt</description>
+    </item>
     <item>
       <title>[Sponsor] npx workos: From Auth Integration to Environment Management, Zero ClickOps</title>
       <link>https://workos.com/docs/authkit/cli-installer?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q12026</link>
       <guid isPermaLink="true">https://workos.com/docs/authkit/cli-installer?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q12026</guid>
       <pubDate>Tue, 24 Mar 2026 00:05:06 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Pebble Time 2 Is In Mass Production!</title>
+      <link>https://repebble.com/blog/pebble-time-2-is-in-mass-production</link>
+      <guid isPermaLink="true">https://repebble.com/blog/pebble-time-2-is-in-mass-production</guid>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Eric Migicovsky's Blog RSS Feed</description>
+    </item>
+    <item>
+      <title>Wander 0.2.0</title>
+      <link>https://susam.net/code/news/wander/0.2.0.html</link>
+      <guid isPermaLink="true">https://susam.net/code/news/wander/0.2.0.html</guid>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Susam Pal</description>
     </item>
     <item>
       <title>Writing an LLM from scratch, part 32f -- Interventions: weight decay</title>
@@ -116,13 +151,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Mar/23/beats-now-have-notes/#atom-everything</guid>
       <pubDate>Mon, 23 Mar 2026 02:13:13 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Mass production's effects on the cheapest way to get some things</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/tech/VolumeMakesOddThingsCheap</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/tech/VolumeMakesOddThingsCheap</guid>
-      <pubDate>Mon, 23 Mar 2026 02:00:35 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>Hitachi Ltd, Part I</title>
@@ -272,13 +300,6 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>A traditional path to getting lingering duplicate systems</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LingeringDuplicateSystemsII</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LingeringDuplicateSystemsII</guid>
-      <pubDate>Sat, 21 Mar 2026 20:36:31 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
       <title>Reading List 03/21/26</title>
       <link>https://www.construction-physics.com/p/reading-list-032126</link>
       <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-032126</guid>
@@ -291,13 +312,6 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html</guid>
       <pubDate>Sat, 21 Mar 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Lingering duplicate systems and the expense of weeding them out (an illustration)</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LingeringDuplicateSystems</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LingeringDuplicateSystems</guid>
-      <pubDate>Sat, 21 Mar 2026 03:05:27 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>Turbo Pascal 3.02A, deconstructed</title>
@@ -433,13 +447,6 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>DMARC DNS record inheritance and DMARC alignment requirements</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/spam/DMARCAlignmentAndInheritance</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/spam/DMARCAlignmentAndInheritance</guid>
-      <pubDate>Fri, 20 Mar 2026 02:56:30 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
       <title>Feds Disrupt IoT Botnets Behind Huge DDoS Attacks</title>
       <link>https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/</link>
       <guid isPermaLink="true">https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/</guid>
@@ -557,13 +564,6 @@
       <guid isPermaLink="true">https://herman.bearblog.dev/becoming-a-day-person/</guid>
       <pubDate>Thu, 19 Mar 2026 09:17:00 +0000</pubDate>
       <description>Herman's blog</description>
-    </item>
-    <item>
-      <title>One problem with (Python) docstrings is that they're local</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/python/DocstringsAreLocal</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/python/DocstringsAreLocal</guid>
-      <pubDate>Thu, 19 Mar 2026 02:40:17 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>A lesser-known characterization of the gamma function</title>
@@ -699,11 +699,11 @@
       <description>John D. Cook</description>
     </item>
     <item>
-      <title>Wayland has good reasons to put the window manager in the display server</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/unix/WaylandAndBuiltinWindowManagers</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/unix/WaylandAndBuiltinWindowManagers</guid>
-      <pubDate>Wed, 18 Mar 2026 02:26:51 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
+      <title>LLMs predict my coffee</title>
+      <link>https://dynomight.net/coffee/</link>
+      <guid isPermaLink="true">https://dynomight.net/coffee/</guid>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>Homelab downtime update: The fight for DNS supremacy</title>
@@ -711,13 +711,6 @@
       <guid isPermaLink="true">https://xeiaso.net/notes/2026/dns-fight/</guid>
       <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
-    </item>
-    <item>
-      <title>LLMs predict my coffee</title>
-      <link>https://dynomight.net/coffee/</link>
-      <guid isPermaLink="true">https://dynomight.net/coffee/</guid>
-      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>Wander the Small Web</title>
@@ -844,6 +837,13 @@
       <guid isPermaLink="true">https://steveblank.com/2026/03/17/your-startup-is-probably-dead-on-arrival/</guid>
       <pubDate>Tue, 17 Mar 2026 13:00:30 +0000</pubDate>
       <description>Steve Blank</description>
+    </item>
+    <item>
+      <title>Subagents</title>
+      <link>https://simonwillison.net/guides/agentic-engineering-patterns/subagents/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/guides/agentic-engineering-patterns/subagents/#atom-everything</guid>
+      <pubDate>Tue, 17 Mar 2026 12:32:28 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>

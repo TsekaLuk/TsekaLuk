@@ -208,11 +208,11 @@ Last Updated: Tuesday, March 24th, 2026, 2:57:47 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Tread carefully, because you tread on my fucks.](https://www.joanwestenberg.com/tread-carefully-because-you-tread-on-my-fucks/) — *Westenberg.* `03-24`
+- [Streaming experts](https://simonwillison.net/2026/Mar/24/streaming-experts/#atom-everything) — *Simon Willison's Weblog* `03-24`
+- [Weekly Update 496](https://www.troyhunt.com/weekly-update-496/) — *Troy Hunt* `03-24`
 - [[Sponsor] npx workos: From Auth Integration to Environment Management, Zero ClickOps](https://workos.com/docs/authkit/cli-installer?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q12026) — *Daring Fireball* `03-24`
-- [Writing an LLM from scratch, part 32f -- Interventions: weight decay](https://www.gilesthomas.com/2026/03/llm-from-scratch-32f-interventions-weight-decay) — *Giles' blog* `03-23`
-- [Quoting Neurotica](https://simonwillison.net/2026/Mar/23/neurotica/#atom-everything) — *Simon Willison's Weblog* `03-23`
-- [datasette-files 0.1a2](https://simonwillison.net/2026/Mar/23/datasette-files/#atom-everything) — *Simon Willison's Weblog* `03-23`
-- [Gasoline Prices Around the World](https://www.globalpetrolprices.com/gasoline_prices/) — *Daring Fireball* `03-23`
+- [Pebble Time 2 Is In Mass Production!](https://repebble.com/blog/pebble-time-2-is-in-mass-production) — *Eric Migicovsky's Blog RSS Feed* `03-24`
 <!--BLOG_RADAR:end-->
 
 ---
