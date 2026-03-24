@@ -208,11 +208,11 @@ Last Updated: Wednesday, March 25th, 2026, 2:55:43 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Mendeleev’s inequality](https://www.johndcook.com/blog/2026/03/24/mendeleevs-inequality/) — *John D. Cook* `03-24`
-- [Book Review: If We Cannot Go at the Speed of Light by Kim Choyeop ★★☆☆☆](https://shkspr.mobi/blog/2026/03/book-review-if-we-cannot-go-at-the-speed-of-light-by-kim-choyeop/) — *Terence Eden’s Blog* `03-24`
-- [Pluralistic: Goodhart's Law vs "prediction markets" (24 Mar 2026)](https://pluralistic.net/2026/03/24/degenerated-gambling/) — *Pluralistic: Daily links from Cory Doctorow* `03-24`
-- [Hosting a Snowflake Proxy](https://matduggan.com/hosting-a-snowflake-proxy/) — *matduggan.com* `03-24`
-- [Tread carefully, because you tread on my fucks.](https://www.joanwestenberg.com/tread-carefully-because-you-tread-on-my-fucks/) — *Westenberg.* `03-24`
+- [Code as a Tool of Process](https://blog.jim-nielsen.com/2026/code-as-process/) — *Jim Nielsen’s Blog* `03-24`
+- [The AI Industry Is Lying To You](https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/) — *Ed Zitron's Where's Your Ed At* `03-24`
+- [Using FireWire on a Raspberry Pi](https://www.jeffgeerling.com/blog/2026/firewire-on-a-raspberry-pi/) — *Jeff Geerling* `03-24`
+- [Malicious litellm_init.pth in litellm 1.82.8 — credential stealer](https://simonwillison.net/2026/Mar/24/malicious-litellm/#atom-everything) — *Simon Willison's Weblog* `03-24`
+- [From Mendeleev to Fourier](https://www.johndcook.com/blog/2026/03/24/from-mendeleev-to-fourier/) — *John D. Cook* `03-24`
 <!--BLOG_RADAR:end-->
 
 ---
