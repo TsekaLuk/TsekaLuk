@@ -208,11 +208,11 @@ Last Updated: Tuesday, March 24th, 2026, 8:59:33 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Mendeleev’s inequality](https://www.johndcook.com/blog/2026/03/24/mendeleevs-inequality/) — *John D. Cook* `03-24`
+- [Book Review: If We Cannot Go at the Speed of Light by Kim Choyeop ★★☆☆☆](https://shkspr.mobi/blog/2026/03/book-review-if-we-cannot-go-at-the-speed-of-light-by-kim-choyeop/) — *Terence Eden’s Blog* `03-24`
+- [Pluralistic: Goodhart's Law vs "prediction markets" (24 Mar 2026)](https://pluralistic.net/2026/03/24/degenerated-gambling/) — *Pluralistic: Daily links from Cory Doctorow* `03-24`
+- [Hosting a Snowflake Proxy](https://matduggan.com/hosting-a-snowflake-proxy/) — *matduggan.com* `03-24`
 - [Tread carefully, because you tread on my fucks.](https://www.joanwestenberg.com/tread-carefully-because-you-tread-on-my-fucks/) — *Westenberg.* `03-24`
-- [Streaming experts](https://simonwillison.net/2026/Mar/24/streaming-experts/#atom-everything) — *Simon Willison's Weblog* `03-24`
-- [Weekly Update 496](https://www.troyhunt.com/weekly-update-496/) — *Troy Hunt* `03-24`
-- [[Sponsor] npx workos: From Auth Integration to Environment Management, Zero ClickOps](https://workos.com/docs/authkit/cli-installer?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q12026) — *Daring Fireball* `03-24`
-- [Pebble Time 2 Is In Mass Production!](https://repebble.com/blog/pebble-time-2-is-in-mass-production) — *Eric Migicovsky's Blog RSS Feed* `03-24`
 <!--BLOG_RADAR:end-->
 
 ---
