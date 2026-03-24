@@ -4,7 +4,42 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 23 Mar 2026 19:04:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 02:44:06 +0000</lastBuildDate>
+    <item>
+      <title>[Sponsor] npx workos: From Auth Integration to Environment Management, Zero ClickOps</title>
+      <link>https://workos.com/docs/authkit/cli-installer?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q12026</link>
+      <guid isPermaLink="true">https://workos.com/docs/authkit/cli-installer?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q12026</guid>
+      <pubDate>Tue, 24 Mar 2026 00:05:06 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Writing an LLM from scratch, part 32f -- Interventions: weight decay</title>
+      <link>https://www.gilesthomas.com/2026/03/llm-from-scratch-32f-interventions-weight-decay</link>
+      <guid isPermaLink="true">https://www.gilesthomas.com/2026/03/llm-from-scratch-32f-interventions-weight-decay</guid>
+      <pubDate>Mon, 23 Mar 2026 23:55:00 +0000</pubDate>
+      <description>Giles' blog</description>
+    </item>
+    <item>
+      <title>Quoting Neurotica</title>
+      <link>https://simonwillison.net/2026/Mar/23/neurotica/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/23/neurotica/#atom-everything</guid>
+      <pubDate>Mon, 23 Mar 2026 23:31:45 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>datasette-files 0.1a2</title>
+      <link>https://simonwillison.net/2026/Mar/23/datasette-files/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/23/datasette-files/#atom-everything</guid>
+      <pubDate>Mon, 23 Mar 2026 23:06:38 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Gasoline Prices Around the World</title>
+      <link>https://www.globalpetrolprices.com/gasoline_prices/</link>
+      <guid isPermaLink="true">https://www.globalpetrolprices.com/gasoline_prices/</guid>
+      <pubDate>Mon, 23 Mar 2026 20:48:18 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Quoting David Abram</title>
       <link>https://simonwillison.net/2026/Mar/23/david-abram/#atom-everything</link>
@@ -671,18 +706,18 @@
       <description>Chris's Wiki :: blog</description>
     </item>
     <item>
-      <title>LLMs predict my coffee</title>
-      <link>https://dynomight.net/coffee/</link>
-      <guid isPermaLink="true">https://dynomight.net/coffee/</guid>
-      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
-    </item>
-    <item>
       <title>Homelab downtime update: The fight for DNS supremacy</title>
       <link>https://xeiaso.net/notes/2026/dns-fight/</link>
       <guid isPermaLink="true">https://xeiaso.net/notes/2026/dns-fight/</guid>
       <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>LLMs predict my coffee</title>
+      <link>https://dynomight.net/coffee/</link>
+      <guid isPermaLink="true">https://dynomight.net/coffee/</guid>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>Wander the Small Web</title>
@@ -809,41 +844,6 @@
       <guid isPermaLink="true">https://steveblank.com/2026/03/17/your-startup-is-probably-dead-on-arrival/</guid>
       <pubDate>Tue, 17 Mar 2026 13:00:30 +0000</pubDate>
       <description>Steve Blank</description>
-    </item>
-    <item>
-      <title>Subagents</title>
-      <link>https://simonwillison.net/guides/agentic-engineering-patterns/subagents/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/guides/agentic-engineering-patterns/subagents/#atom-everything</guid>
-      <pubDate>Tue, 17 Mar 2026 12:32:28 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Hedley Davis has died</title>
-      <link>https://oldvcr.blogspot.com/2026/03/hedley-davis-has-died.html</link>
-      <guid isPermaLink="true">https://oldvcr.blogspot.com/2026/03/hedley-davis-has-died.html</guid>
-      <pubDate>Tue, 17 Mar 2026 05:20:00 +0000</pubDate>
-      <description>Old Vintage Computing Research</description>
-    </item>
-    <item>
-      <title>Weekly Update 495</title>
-      <link>https://www.troyhunt.com/weekly-update-495/</link>
-      <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-495/</guid>
-      <pubDate>Tue, 17 Mar 2026 02:55:31 +0000</pubDate>
-      <description>Troy Hunt</description>
-    </item>
-    <item>
-      <title>Cleaning old GPG RPM keys that your Fedora install is keeping around</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/FedoraCleaningOldGpgRPMKeys</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/FedoraCleaningOldGpgRPMKeys</guid>
-      <pubDate>Tue, 17 Mar 2026 01:56:30 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>My homelab will be down for at least 20 days</title>
-      <link>https://xeiaso.net/notes/2026/homelab-is-down/</link>
-      <guid isPermaLink="true">https://xeiaso.net/notes/2026/homelab-is-down/</guid>
-      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
     </item>
   </channel>
 </rss>

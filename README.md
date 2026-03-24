@@ -208,11 +208,11 @@ Last Updated: Tuesday, March 24th, 2026, 9:42:16 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Quoting David Abram](https://simonwillison.net/2026/Mar/23/david-abram/#atom-everything) — *Simon Willison's Weblog* `03-23`
-- [WWDC 2026: June 8–12](https://www.apple.com/newsroom/2026/03/apples-worldwide-developers-conference-returns-the-week-of-june-8/) — *Daring Fireball* `03-23`
-- [From the DF Archive, a Decade Ago: ‘The Industry Is Fucked Up’](https://daringfireball.net/linked/2015/07/09/ritchie-bad-ads) — *Daring Fireball* `03-23`
-- [The HTML Review: Issue 05](https://thehtml.review/05/) — *Daring Fireball* `03-23`
-- [‘CanisterWorm’ Springs Wiper Attack Targeting Iran](https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/) — *Krebs on Security* `03-23`
+- [[Sponsor] npx workos: From Auth Integration to Environment Management, Zero ClickOps](https://workos.com/docs/authkit/cli-installer?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q12026) — *Daring Fireball* `03-24`
+- [Writing an LLM from scratch, part 32f -- Interventions: weight decay](https://www.gilesthomas.com/2026/03/llm-from-scratch-32f-interventions-weight-decay) — *Giles' blog* `03-23`
+- [Quoting Neurotica](https://simonwillison.net/2026/Mar/23/neurotica/#atom-everything) — *Simon Willison's Weblog* `03-23`
+- [datasette-files 0.1a2](https://simonwillison.net/2026/Mar/23/datasette-files/#atom-everything) — *Simon Willison's Weblog* `03-23`
+- [Gasoline Prices Around the World](https://www.globalpetrolprices.com/gasoline_prices/) — *Daring Fireball* `03-23`
 <!--BLOG_RADAR:end-->
 
 ---
