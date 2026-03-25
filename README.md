@@ -208,11 +208,11 @@ Last Updated: Wednesday, March 25th, 2026, 9:48:00 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Code as a Tool of Process](https://blog.jim-nielsen.com/2026/code-as-process/) — *Jim Nielsen’s Blog* `03-24`
-- [The AI Industry Is Lying To You](https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/) — *Ed Zitron's Where's Your Ed At* `03-24`
-- [Using FireWire on a Raspberry Pi](https://www.jeffgeerling.com/blog/2026/firewire-on-a-raspberry-pi/) — *Jeff Geerling* `03-24`
-- [Malicious litellm_init.pth in litellm 1.82.8 — credential stealer](https://simonwillison.net/2026/Mar/24/malicious-litellm/#atom-everything) — *Simon Willison's Weblog* `03-24`
-- [From Mendeleev to Fourier](https://www.johndcook.com/blog/2026/03/24/from-mendeleev-to-fourier/) — *John D. Cook* `03-24`
+- [Claude Can Now Take Control of Your Mac](https://claude.com/blog/dispatch-and-computer-use) — *Daring Fireball* `03-25`
+- [WSJ: ‘OpenAI Plans Launch of Desktop “Superapp”’](https://www.wsj.com/tech/openai-plans-launch-of-desktop-superapp-to-refocus-simplify-user-experience-9e19931d?st=25wiu1) — *Daring Fireball* `03-25`
+- [OpenAI Is Closing Sora](https://x.com/soraofficialapp/status/2036546752535470382) — *Daring Fireball* `03-25`
+- [iOS 26.4](https://www.macrumors.com/guide/ios-26-4-features/) — *Daring Fireball* `03-25`
+- [Auto mode for Claude Code](https://simonwillison.net/2026/Mar/24/auto-mode-for-claude-code/#atom-everything) — *Simon Willison's Weblog* `03-24`
 <!--BLOG_RADAR:end-->
 
 ---

@@ -4,7 +4,77 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 24 Mar 2026 19:14:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 02:49:16 +0000</lastBuildDate>
+    <item>
+      <title>Claude Can Now Take Control of Your Mac</title>
+      <link>https://claude.com/blog/dispatch-and-computer-use</link>
+      <guid isPermaLink="true">https://claude.com/blog/dispatch-and-computer-use</guid>
+      <pubDate>Wed, 25 Mar 2026 01:09:10 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>WSJ: ‘OpenAI Plans Launch of Desktop “Superapp”’</title>
+      <link>https://www.wsj.com/tech/openai-plans-launch-of-desktop-superapp-to-refocus-simplify-user-experience-9e19931d?st=25wiu1</link>
+      <guid isPermaLink="true">https://www.wsj.com/tech/openai-plans-launch-of-desktop-superapp-to-refocus-simplify-user-experience-9e19931d?st=25wiu1</guid>
+      <pubDate>Wed, 25 Mar 2026 01:00:49 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>OpenAI Is Closing Sora</title>
+      <link>https://x.com/soraofficialapp/status/2036546752535470382</link>
+      <guid isPermaLink="true">https://x.com/soraofficialapp/status/2036546752535470382</guid>
+      <pubDate>Wed, 25 Mar 2026 00:49:07 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>iOS 26.4</title>
+      <link>https://www.macrumors.com/guide/ios-26-4-features/</link>
+      <guid isPermaLink="true">https://www.macrumors.com/guide/ios-26-4-features/</guid>
+      <pubDate>Wed, 25 Mar 2026 00:40:01 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Auto mode for Claude Code</title>
+      <link>https://simonwillison.net/2026/Mar/24/auto-mode-for-claude-code/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/24/auto-mode-for-claude-code/#atom-everything</guid>
+      <pubDate>Tue, 24 Mar 2026 23:57:33 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Following Google’s Lead With Pixel Phones, Samsung Announces AirDrop Support With Galaxy S26 Phones</title>
+      <link>https://news.samsung.com/us/samsung-airdrop-quick-share-galaxy-s26-series/</link>
+      <guid isPermaLink="true">https://news.samsung.com/us/samsung-airdrop-quick-share-galaxy-s26-series/</guid>
+      <pubDate>Tue, 24 Mar 2026 21:39:04 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Package Managers Need to Cool Down</title>
+      <link>https://simonwillison.net/2026/Mar/24/package-managers-need-to-cool-down/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/24/package-managers-need-to-cool-down/#atom-everything</guid>
+      <pubDate>Tue, 24 Mar 2026 21:11:38 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Quoting Christopher Mims</title>
+      <link>https://simonwillison.net/2026/Mar/24/christopher-mims/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/24/christopher-mims/#atom-everything</guid>
+      <pubDate>Tue, 24 Mar 2026 20:35:52 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Writing an LLM from scratch, part 32g -- Interventions: weight tying</title>
+      <link>https://www.gilesthomas.com/2026/03/llm-from-scratch-32g-interventions-weight-tying</link>
+      <guid isPermaLink="true">https://www.gilesthomas.com/2026/03/llm-from-scratch-32g-interventions-weight-tying</guid>
+      <pubDate>Tue, 24 Mar 2026 19:50:00 +0000</pubDate>
+      <description>Giles' blog</description>
+    </item>
+    <item>
+      <title>★ What to Do About Those Menu Item Icons in MacOS 26 Tahoe</title>
+      <link>https://daringfireball.net/2026/03/what_to_do_about_those_menu_item_icons_in_macos_26_tahoe</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/03/what_to_do_about_those_menu_item_icons_in_macos_26_tahoe</guid>
+      <pubDate>Tue, 24 Mar 2026 19:36:58 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Code as a Tool of Process</title>
       <link>https://blog.jim-nielsen.com/2026/code-as-process/</link>
@@ -46,6 +116,13 @@
       <guid isPermaLink="true">https://buttondown.com/hillelwayne/archive/choose-boring-technology-and-innovative-practices/</guid>
       <pubDate>Tue, 24 Mar 2026 14:38:06 +0000</pubDate>
       <description>Computer Things</description>
+    </item>
+    <item>
+      <title>Windows 95 defenses against installers that overwrite a file with an older version</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260324-00/?p=112159</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260324-00/?p=112159</guid>
+      <pubDate>Tue, 24 Mar 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Mendeleev’s inequality</title>
@@ -767,83 +844,6 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/03/18/git-remote-helpers.html</guid>
       <pubDate>Wed, 18 Mar 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Marc Andreessen is wrong about introspection</title>
-      <link>https://www.joanwestenberg.com/marc-andreessen-is-wrong-about-introspection/</link>
-      <guid isPermaLink="true">https://www.joanwestenberg.com/marc-andreessen-is-wrong-about-introspection/</guid>
-      <pubDate>Wed, 18 Mar 2026 06:53:51 +0000</pubDate>
-      <description>Westenberg.</description>
-    </item>
-    <item>
-      <title>Tighter bounds on alternating series remainder</title>
-      <link>https://www.johndcook.com/blog/2026/03/17/alternating-series-remainder/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/03/17/alternating-series-remainder/</guid>
-      <pubDate>Wed, 18 Mar 2026 02:50:12 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Homelab downtime update: The fight for DNS supremacy</title>
-      <link>https://xeiaso.net/notes/2026/dns-fight/</link>
-      <guid isPermaLink="true">https://xeiaso.net/notes/2026/dns-fight/</guid>
-      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
-      <title>LLMs predict my coffee</title>
-      <link>https://dynomight.net/coffee/</link>
-      <guid isPermaLink="true">https://dynomight.net/coffee/</guid>
-      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
-    </item>
-    <item>
-      <title>Wander the Small Web</title>
-      <link>https://susam.net/wander/</link>
-      <guid isPermaLink="true">https://susam.net/wander/</guid>
-      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Susam Pal</description>
-    </item>
-    <item>
-      <title>Wander 0.1.0</title>
-      <link>https://susam.net/code/news/wander/0.1.0.html</link>
-      <guid isPermaLink="true">https://susam.net/code/news/wander/0.1.0.html</guid>
-      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Susam Pal</description>
-    </item>
-    <item>
-      <title>★ Squashing</title>
-      <link>https://daringfireball.net/2026/03/squashing</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/03/squashing</guid>
-      <pubDate>Tue, 17 Mar 2026 23:47:47 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Quoting Ken Jin</title>
-      <link>https://simonwillison.net/2026/Mar/17/ken-jin/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/17/ken-jin/#atom-everything</guid>
-      <pubDate>Tue, 17 Mar 2026 21:48:26 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>GPT-5.4 mini and GPT-5.4 nano, which can describe 76,000 photos for $52</title>
-      <link>https://simonwillison.net/2026/Mar/17/mini-and-nano/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/17/mini-and-nano/#atom-everything</guid>
-      <pubDate>Tue, 17 Mar 2026 19:39:17 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Fox Sports to Broadcast U.S.-Venezuela World Baseball Classic Final in Immersive 3D — But Not on Vision Pro</title>
-      <link>https://x.com/mlbonfox/status/2033902946174271992?s=46</link>
-      <guid isPermaLink="true">https://x.com/mlbonfox/status/2033902946174271992?s=46</guid>
-      <pubDate>Tue, 17 Mar 2026 19:26:12 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>llm 0.29</title>
-      <link>https://simonwillison.net/2026/Mar/17/llm/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/17/llm/#atom-everything</guid>
-      <pubDate>Tue, 17 Mar 2026 19:24:10 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
