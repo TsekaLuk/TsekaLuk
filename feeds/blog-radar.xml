@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 25 Mar 2026 13:27:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 19:05:21 +0000</lastBuildDate>
+    <item>
+      <title>LiteLLM Hack: Were You One of the 47,000?</title>
+      <link>https://simonwillison.net/2026/Mar/25/litellm-hack/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/25/litellm-hack/#atom-everything</guid>
+      <pubDate>Wed, 25 Mar 2026 17:21:04 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>How can I change a dialog box’s message loop to do a Msg­Wait­For­Multiple­Objects instead of Get­Message?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260325-00/?p=112165</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260325-00/?p=112165</guid>
+      <pubDate>Wed, 25 Mar 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
     <item>
       <title>The Top 10 Biggest Conspiracies in Open Source</title>
       <link>https://nesbitt.io/2026/03/25/the-top-10-biggest-conspiracies-in-open-source.html</link>
@@ -18,6 +32,13 @@
       <guid isPermaLink="true">https://pluralistic.net/2026/03/25/fact-intensive/</guid>
       <pubDate>Wed, 25 Mar 2026 07:08:48 +0000</pubDate>
       <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Going from an IPv4 address to an ASN in Python 2 with Unix brute force</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/python/IPToASNWithUnixBruteForce</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/python/IPToASNWithUnixBruteForce</guid>
+      <pubDate>Wed, 25 Mar 2026 02:45:53 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>Claude Can Now Take Control of Your Mac</title>
@@ -46,6 +67,13 @@
       <guid isPermaLink="true">https://www.macrumors.com/guide/ios-26-4-features/</guid>
       <pubDate>Wed, 25 Mar 2026 00:40:01 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Which Design Doc Did a Human Write?</title>
+      <link>https://refactoringenglish.com/blog/ai-vs-human-design-doc/</link>
+      <guid isPermaLink="true">https://refactoringenglish.com/blog/ai-vs-human-design-doc/</guid>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Refactoring English</description>
     </item>
     <item>
       <title>Auto mode for Claude Code</title>
@@ -188,6 +216,13 @@
       <description>Troy Hunt</description>
     </item>
     <item>
+      <title>Fedora's virt-manager started using external snapshots for me as of Fedora 41</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/FedoraVirtManagerBadSnapshots</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/FedoraVirtManagerBadSnapshots</guid>
+      <pubDate>Tue, 24 Mar 2026 02:51:03 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
       <title>[Sponsor] npx workos: From Auth Integration to Environment Management, Zero ClickOps</title>
       <link>https://workos.com/docs/authkit/cli-installer?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q12026</link>
       <guid isPermaLink="true">https://workos.com/docs/authkit/cli-installer?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q12026</guid>
@@ -326,6 +361,13 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Mar/23/beats-now-have-notes/#atom-everything</guid>
       <pubDate>Mon, 23 Mar 2026 02:13:13 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Mass production's effects on the cheapest way to get some things</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/tech/VolumeMakesOddThingsCheap</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/tech/VolumeMakesOddThingsCheap</guid>
+      <pubDate>Mon, 23 Mar 2026 02:00:35 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>Hitachi Ltd, Part I</title>
@@ -475,6 +517,13 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
+      <title>A traditional path to getting lingering duplicate systems</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LingeringDuplicateSystemsII</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LingeringDuplicateSystemsII</guid>
+      <pubDate>Sat, 21 Mar 2026 20:36:31 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
       <title>Reading List 03/21/26</title>
       <link>https://www.construction-physics.com/p/reading-list-032126</link>
       <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-032126</guid>
@@ -487,6 +536,13 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html</guid>
       <pubDate>Sat, 21 Mar 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>Lingering duplicate systems and the expense of weeding them out (an illustration)</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LingeringDuplicateSystems</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LingeringDuplicateSystems</guid>
+      <pubDate>Sat, 21 Mar 2026 03:05:27 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>Turbo Pascal 3.02A, deconstructed</title>
@@ -622,6 +678,13 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
+      <title>DMARC DNS record inheritance and DMARC alignment requirements</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/spam/DMARCAlignmentAndInheritance</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/spam/DMARCAlignmentAndInheritance</guid>
+      <pubDate>Fri, 20 Mar 2026 02:56:30 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
       <title>Feds Disrupt IoT Botnets Behind Huge DDoS Attacks</title>
       <link>https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/</link>
       <guid isPermaLink="true">https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/</guid>
@@ -741,6 +804,13 @@
       <description>Herman's blog</description>
     </item>
     <item>
+      <title>One problem with (Python) docstrings is that they're local</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/python/DocstringsAreLocal</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/python/DocstringsAreLocal</guid>
+      <pubDate>Thu, 19 Mar 2026 02:40:17 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
       <title>A lesser-known characterization of the gamma function</title>
       <link>https://www.johndcook.com/blog/2026/03/18/wielandt/</link>
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/03/18/wielandt/</guid>
@@ -774,76 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Mar/18/llm-in-a-flash/#atom-everything</guid>
       <pubDate>Wed, 18 Mar 2026 23:56:46 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>The Talk Show: ‘The Pogue Feature’</title>
-      <link>https://daringfireball.net/thetalkshow/2026/03/18/ep-443</link>
-      <guid isPermaLink="true">https://daringfireball.net/thetalkshow/2026/03/18/ep-443</guid>
-      <pubDate>Wed, 18 Mar 2026 23:40:00 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>★ ‘Your Frustration Is the Product’</title>
-      <link>https://daringfireball.net/2026/03/your_frustration_is_the_product</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/03/your_frustration_is_the_product</guid>
-      <pubDate>Wed, 18 Mar 2026 23:39:57 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>datasette 1.0a26</title>
-      <link>https://simonwillison.net/2026/Mar/18/datasette/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/18/datasette/#atom-everything</guid>
-      <pubDate>Wed, 18 Mar 2026 22:16:19 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>How to Identify Your Apple Keyboard Layout by Country or Region</title>
-      <link>https://support.apple.com/en-us/102743</link>
-      <guid isPermaLink="true">https://support.apple.com/en-us/102743</guid>
-      <pubDate>Wed, 18 Mar 2026 21:29:03 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Jony Ive on Redesigning the Christie’s Rostrum</title>
-      <link>https://www.youtube.com/watch?v=HLXDxx06_EM</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=HLXDxx06_EM</guid>
-      <pubDate>Wed, 18 Mar 2026 21:25:50 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Meta Is Dropping VR Support From Horizon Worlds</title>
-      <link>https://www.uploadvr.com/meta-horizon-worlds-dropping-vr-support/</link>
-      <guid isPermaLink="true">https://www.uploadvr.com/meta-horizon-worlds-dropping-vr-support/</guid>
-      <pubDate>Wed, 18 Mar 2026 18:53:10 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>David Zaslav Set to Receive Up to $887 Million if Paramount Acquisition of Warner Bros Closes</title>
-      <link>https://finance.yahoo.com/news/warner-bros-discovery-ceo-david-zaslav-set-to-receive-up-to-887-million-if-paramount-deal-closes-144501826.html</link>
-      <guid isPermaLink="true">https://finance.yahoo.com/news/warner-bros-discovery-ceo-david-zaslav-set-to-receive-up-to-887-million-if-paramount-deal-closes-144501826.html</guid>
-      <pubDate>Wed, 18 Mar 2026 18:30:16 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Snowflake Cortex AI Escapes Sandbox and Executes Malware</title>
-      <link>https://simonwillison.net/2026/Mar/18/snowflake-cortex-ai/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/18/snowflake-cortex-ai/#atom-everything</guid>
-      <pubDate>Wed, 18 Mar 2026 17:43:49 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Windows stack limit checking retrospective: Alpha AXP</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260318-00/?p=112146</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260318-00/?p=112146</guid>
-      <pubDate>Wed, 18 Mar 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Finding the right Bottom Hole paper</title>
-      <link>https://shkspr.mobi/blog/2026/03/finding-the-right-bottom-hole-paper/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/03/finding-the-right-bottom-hole-paper/</guid>
-      <pubDate>Wed, 18 Mar 2026 12:34:37 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
   </channel>
 </rss>
