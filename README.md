@@ -208,11 +208,11 @@ Last Updated: Wednesday, March 25th, 2026, 8:57:33 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [The Top 10 Biggest Conspiracies in Open Source](https://nesbitt.io/2026/03/25/the-top-10-biggest-conspiracies-in-open-source.html) — *Andrew Nesbitt* `03-25`
 - [Pluralistic: The cost of doing business (25 Mar 2026)](https://pluralistic.net/2026/03/25/fact-intensive/) — *Pluralistic: Daily links from Cory Doctorow* `03-25`
 - [Claude Can Now Take Control of Your Mac](https://claude.com/blog/dispatch-and-computer-use) — *Daring Fireball* `03-25`
 - [WSJ: ‘OpenAI Plans Launch of Desktop “Superapp”’](https://www.wsj.com/tech/openai-plans-launch-of-desktop-superapp-to-refocus-simplify-user-experience-9e19931d?st=25wiu1) — *Daring Fireball* `03-25`
 - [OpenAI Is Closing Sora](https://x.com/soraofficialapp/status/2036546752535470382) — *Daring Fireball* `03-25`
-- [iOS 26.4](https://www.macrumors.com/guide/ios-26-4-features/) — *Daring Fireball* `03-25`
 <!--BLOG_RADAR:end-->
 
 ---

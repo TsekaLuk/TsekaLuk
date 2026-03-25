@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 25 Mar 2026 07:12:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 13:27:18 +0000</lastBuildDate>
+    <item>
+      <title>The Top 10 Biggest Conspiracies in Open Source</title>
+      <link>https://nesbitt.io/2026/03/25/the-top-10-biggest-conspiracies-in-open-source.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/03/25/the-top-10-biggest-conspiracies-in-open-source.html</guid>
+      <pubDate>Wed, 25 Mar 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
     <item>
       <title>Pluralistic: The cost of doing business (25 Mar 2026)</title>
       <link>https://pluralistic.net/2026/03/25/fact-intensive/</link>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://shkspr.mobi/blog/2026/03/finding-the-right-bottom-hole-paper/</guid>
       <pubDate>Wed, 18 Mar 2026 12:34:37 +0000</pubDate>
       <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Communication Is Surveillance by Design</title>
-      <link>https://idiallo.com/blog/communication-is-surveillance-by-design?src=feed</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/communication-is-surveillance-by-design?src=feed</guid>
-      <pubDate>Wed, 18 Mar 2026 12:00:00 +0000</pubDate>
-      <description>iDiallo.com</description>
     </item>
   </channel>
 </rss>
