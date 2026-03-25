@@ -208,11 +208,11 @@ Last Updated: Wednesday, March 25th, 2026, 2:56:15 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Pluralistic: The cost of doing business (25 Mar 2026)](https://pluralistic.net/2026/03/25/fact-intensive/) — *Pluralistic: Daily links from Cory Doctorow* `03-25`
 - [Claude Can Now Take Control of Your Mac](https://claude.com/blog/dispatch-and-computer-use) — *Daring Fireball* `03-25`
 - [WSJ: ‘OpenAI Plans Launch of Desktop “Superapp”’](https://www.wsj.com/tech/openai-plans-launch-of-desktop-superapp-to-refocus-simplify-user-experience-9e19931d?st=25wiu1) — *Daring Fireball* `03-25`
 - [OpenAI Is Closing Sora](https://x.com/soraofficialapp/status/2036546752535470382) — *Daring Fireball* `03-25`
 - [iOS 26.4](https://www.macrumors.com/guide/ios-26-4-features/) — *Daring Fireball* `03-25`
-- [Auto mode for Claude Code](https://simonwillison.net/2026/Mar/24/auto-mode-for-claude-code/#atom-everything) — *Simon Willison's Weblog* `03-24`
 <!--BLOG_RADAR:end-->
 
 ---
