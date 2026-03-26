@@ -208,11 +208,11 @@ Last Updated: Friday, March 27th, 2026, 2:58:36 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Adding human.json to WordPress](https://shkspr.mobi/blog/2026/03/adding-human-json-to-wordpress/) — *Terence Eden’s Blog* `03-26`
-- [SQLAlchemy 2 In Practice - Chapter 1 - Database Tables](https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-1---database-tables) — *Miguel Grinberg's Blog* `03-26`
-- [I Can't See Apple's Vision](https://matduggan.com/i-cant-see-apples-vision/) — *matduggan.com* `03-26`
-- [Early notes on switching some libvirt-based virtual machines to UEFI](https://utcc.utoronto.ca/~cks/space/blog/linux/LibvirtSwitchingToUEFI) — *Chris's Wiki :: blog* `03-26`
-- [Engineers do get promoted for writing simple code](https://seangoedecke.com/simple-work-gets-rewarded/) — *seangoedecke.com RSS feed* `03-26`
+- [Google Brags About Android Web Browser Benchmark Scores on Unnamed Devices; Gullible Reporters Fall for It](https://blog.chromium.org/2026/03/android-sets-new-record-for-mobile-web.html) — *Daring Fireball* `03-26`
+- [NYT: ‘Melania Trump Appears With a Robot, Saying More Children Should Be Educated by Them’](https://www.nytimes.com/2026/03/25/us/politics/melania-trump-robot.html?smid=nytcore-ios-share) — *Daring Fireball* `03-26`
+- [The Information: ‘Apple Can “Distill” Google’s Big Gemini Model’](https://www.theinformation.com/newsletters/ai-agenda/apple-can-distill-googles-big-gemini-model?rc=jfy0lk) — *Daring Fireball* `03-26`
+- [Katie Notopoulos Bids Farewell to Sora: ‘You Were Too Beautiful and Stupid for This World’](https://www.businessinsider.com/sora-openai-chatgpt-sam-altman-ai-shutting-down-farewell-why-2026-3) — *Daring Fireball* `03-26`
+- [MacOS 26.4 Adds ‘Slow Charger’ Indicator for MacBooks](https://www.macrumors.com/2026/03/25/macos-tahoe-26-4-slow-charger-macbooks/) — *Daring Fireball* `03-26`
 <!--BLOG_RADAR:end-->
 
 ---
