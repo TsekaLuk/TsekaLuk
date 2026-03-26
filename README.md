@@ -208,11 +208,11 @@ Last Updated: Thursday, March 26th, 2026, 9:53:53 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [LiteLLM Hack: Were You One of the 47,000?](https://simonwillison.net/2026/Mar/25/litellm-hack/#atom-everything) — *Simon Willison's Weblog* `03-25`
-- [How can I change a dialog box’s message loop to do a Msg­Wait­For­Multiple­Objects instead of Get­Message?](https://devblogs.microsoft.com/oldnewthing/20260325-00/?p=112165) — *The Old New Thing* `03-25`
-- [The Top 10 Biggest Conspiracies in Open Source](https://nesbitt.io/2026/03/25/the-top-10-biggest-conspiracies-in-open-source.html) — *Andrew Nesbitt* `03-25`
-- [Pluralistic: The cost of doing business (25 Mar 2026)](https://pluralistic.net/2026/03/25/fact-intensive/) — *Pluralistic: Daily links from Cory Doctorow* `03-25`
-- [Going from an IPv4 address to an ASN in Python 2 with Unix brute force](https://utcc.utoronto.ca/~cks/space/blog/python/IPToASNWithUnixBruteForce) — *Chris's Wiki :: blog* `03-25`
+- [datasette-files-s3 0.1a1](https://simonwillison.net/2026/Mar/25/datasette-files-s3/#atom-everything) — *Simon Willison's Weblog* `03-25`
+- [Thoughts on slowing the fuck down](https://simonwillison.net/2026/Mar/25/thoughts-on-slowing-the-fuck-down/#atom-everything) — *Simon Willison's Weblog* `03-25`
+- [datasette-llm 0.1a1](https://simonwillison.net/2026/Mar/25/datasette-llm/#atom-everything) — *Simon Willison's Weblog* `03-25`
+- [‘A List of Chain Restaurants Whose Names Contain Unusual Structures’](https://onefoottsunami.com/2026/03/18/a-list-of-chain-restaurants-whose-names-contain-unusual-structures/) — *Daring Fireball* `03-25`
+- [Improved Analytics in App Store Connect](https://developer.apple.com/news/?id=hh6v4b55) — *Daring Fireball* `03-25`
 <!--BLOG_RADAR:end-->
 
 ---

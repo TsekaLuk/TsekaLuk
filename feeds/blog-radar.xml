@@ -4,7 +4,42 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 25 Mar 2026 19:05:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 02:55:51 +0000</lastBuildDate>
+    <item>
+      <title>datasette-files-s3 0.1a1</title>
+      <link>https://simonwillison.net/2026/Mar/25/datasette-files-s3/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/25/datasette-files-s3/#atom-everything</guid>
+      <pubDate>Wed, 25 Mar 2026 21:57:05 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Thoughts on slowing the fuck down</title>
+      <link>https://simonwillison.net/2026/Mar/25/thoughts-on-slowing-the-fuck-down/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/25/thoughts-on-slowing-the-fuck-down/#atom-everything</guid>
+      <pubDate>Wed, 25 Mar 2026 21:47:17 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>datasette-llm 0.1a1</title>
+      <link>https://simonwillison.net/2026/Mar/25/datasette-llm/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/25/datasette-llm/#atom-everything</guid>
+      <pubDate>Wed, 25 Mar 2026 21:24:31 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>‘A List of Chain Restaurants Whose Names Contain Unusual Structures’</title>
+      <link>https://onefoottsunami.com/2026/03/18/a-list-of-chain-restaurants-whose-names-contain-unusual-structures/</link>
+      <guid isPermaLink="true">https://onefoottsunami.com/2026/03/18/a-list-of-chain-restaurants-whose-names-contain-unusual-structures/</guid>
+      <pubDate>Wed, 25 Mar 2026 19:50:07 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Improved Analytics in App Store Connect</title>
+      <link>https://developer.apple.com/news/?id=hh6v4b55</link>
+      <guid isPermaLink="true">https://developer.apple.com/news/?id=hh6v4b55</guid>
+      <pubDate>Wed, 25 Mar 2026 19:16:27 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>LiteLLM Hack: Were You One of the 47,000?</title>
       <link>https://simonwillison.net/2026/Mar/25/litellm-hack/#atom-everything</link>
@@ -67,6 +102,13 @@
       <guid isPermaLink="true">https://www.macrumors.com/guide/ios-26-4-features/</guid>
       <pubDate>Wed, 25 Mar 2026 00:40:01 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Wander 0.3.0</title>
+      <link>https://susam.net/code/news/wander/0.3.0.html</link>
+      <guid isPermaLink="true">https://susam.net/code/news/wander/0.3.0.html</guid>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Susam Pal</description>
     </item>
     <item>
       <title>Which Design Doc Did a Human Write?</title>
@@ -802,48 +844,6 @@
       <guid isPermaLink="true">https://herman.bearblog.dev/becoming-a-day-person/</guid>
       <pubDate>Thu, 19 Mar 2026 09:17:00 +0000</pubDate>
       <description>Herman's blog</description>
-    </item>
-    <item>
-      <title>One problem with (Python) docstrings is that they're local</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/python/DocstringsAreLocal</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/python/DocstringsAreLocal</guid>
-      <pubDate>Thu, 19 Mar 2026 02:40:17 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>A lesser-known characterization of the gamma function</title>
-      <link>https://www.johndcook.com/blog/2026/03/18/wielandt/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/03/18/wielandt/</guid>
-      <pubDate>Thu, 19 Mar 2026 01:21:53 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Life TV: Video with 2 bits to spare</title>
-      <link>https://maurycyz.com/projects/lifetv/</link>
-      <guid isPermaLink="true">https://maurycyz.com/projects/lifetv/</guid>
-      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
-    </item>
-    <item>
-      <title>Consensus Board Game</title>
-      <link>https://matklad.github.io/2026/03/19/consensus-board-game.html</link>
-      <guid isPermaLink="true">https://matklad.github.io/2026/03/19/consensus-board-game.html</guid>
-      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-      <description>matklad</description>
-    </item>
-    <item>
-      <title>Related UI elements should not appear unrelated</title>
-      <link>https://rakhim.exotext.com/related-ui-elements-should-not-appear-unrelated</link>
-      <guid isPermaLink="true">https://rakhim.exotext.com/related-ui-elements-should-not-appear-unrelated</guid>
-      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Rakhim's blog</description>
-    </item>
-    <item>
-      <title>Autoresearching Apple's "LLM in a Flash" to run Qwen 397B locally</title>
-      <link>https://simonwillison.net/2026/Mar/18/llm-in-a-flash/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/18/llm-in-a-flash/#atom-everything</guid>
-      <pubDate>Wed, 18 Mar 2026 23:56:46 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
