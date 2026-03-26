@@ -4,13 +4,41 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 26 Mar 2026 07:20:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 13:45:08 +0000</lastBuildDate>
+    <item>
+      <title>Adding human.json to WordPress</title>
+      <link>https://shkspr.mobi/blog/2026/03/adding-human-json-to-wordpress/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/03/adding-human-json-to-wordpress/</guid>
+      <pubDate>Thu, 26 Mar 2026 12:34:52 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>SQLAlchemy 2 In Practice - Chapter 1 - Database Tables</title>
+      <link>https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-1---database-tables</link>
+      <guid isPermaLink="true">https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-1---database-tables</guid>
+      <pubDate>Thu, 26 Mar 2026 12:30:03 +0000</pubDate>
+      <description>Miguel Grinberg's Blog</description>
+    </item>
+    <item>
+      <title>I Can't See Apple's Vision</title>
+      <link>https://matduggan.com/i-cant-see-apples-vision/</link>
+      <guid isPermaLink="true">https://matduggan.com/i-cant-see-apples-vision/</guid>
+      <pubDate>Thu, 26 Mar 2026 11:54:18 +0000</pubDate>
+      <description>matduggan.com</description>
+    </item>
     <item>
       <title>Early notes on switching some libvirt-based virtual machines to UEFI</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/linux/LibvirtSwitchingToUEFI</link>
       <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/LibvirtSwitchingToUEFI</guid>
       <pubDate>Thu, 26 Mar 2026 03:09:33 +0000</pubDate>
       <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>Engineers do get promoted for writing simple code</title>
+      <link>https://seangoedecke.com/simple-work-gets-rewarded/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/simple-work-gets-rewarded/</guid>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>datasette-files-s3 0.1a1</title>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Mar/19/openai-acquiring-astral/#atom-everything</guid>
       <pubDate>Thu, 19 Mar 2026 16:45:15 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Windows stack limit checking retrospective: amd64, also known as x86-64</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260319-00/?p=112152</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260319-00/?p=112152</guid>
-      <pubDate>Thu, 19 Mar 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Pluralistic: Love of corporate bullshit is correlated with bad judgment (19 Mar 2026)</title>
-      <link>https://pluralistic.net/2026/03/19/jargon-watch/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/03/19/jargon-watch/</guid>
-      <pubDate>Thu, 19 Mar 2026 12:47:06 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>How Much Computing Power is in a Data Center?</title>
-      <link>https://www.construction-physics.com/p/how-much-computing-power-is-in-a</link>
-      <guid isPermaLink="true">https://www.construction-physics.com/p/how-much-computing-power-is-in-a</guid>
-      <pubDate>Thu, 19 Mar 2026 12:01:33 +0000</pubDate>
-      <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>The Fragmented World of Dependency Policy</title>
-      <link>https://nesbitt.io/2026/03/19/the-fragmented-world-of-dependency-policy.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/03/19/the-fragmented-world-of-dependency-policy.html</guid>
-      <pubDate>Thu, 19 Mar 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
     </item>
   </channel>
 </rss>

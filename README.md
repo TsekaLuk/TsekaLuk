@@ -208,11 +208,11 @@ Last Updated: Thursday, March 26th, 2026, 9:02:11 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Adding human.json to WordPress](https://shkspr.mobi/blog/2026/03/adding-human-json-to-wordpress/) — *Terence Eden’s Blog* `03-26`
+- [SQLAlchemy 2 In Practice - Chapter 1 - Database Tables](https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-1---database-tables) — *Miguel Grinberg's Blog* `03-26`
+- [I Can't See Apple's Vision](https://matduggan.com/i-cant-see-apples-vision/) — *matduggan.com* `03-26`
 - [Early notes on switching some libvirt-based virtual machines to UEFI](https://utcc.utoronto.ca/~cks/space/blog/linux/LibvirtSwitchingToUEFI) — *Chris's Wiki :: blog* `03-26`
-- [datasette-files-s3 0.1a1](https://simonwillison.net/2026/Mar/25/datasette-files-s3/#atom-everything) — *Simon Willison's Weblog* `03-25`
-- [Thoughts on slowing the fuck down](https://simonwillison.net/2026/Mar/25/thoughts-on-slowing-the-fuck-down/#atom-everything) — *Simon Willison's Weblog* `03-25`
-- [datasette-llm 0.1a1](https://simonwillison.net/2026/Mar/25/datasette-llm/#atom-everything) — *Simon Willison's Weblog* `03-25`
-- [‘A List of Chain Restaurants Whose Names Contain Unusual Structures’](https://onefoottsunami.com/2026/03/18/a-list-of-chain-restaurants-whose-names-contain-unusual-structures/) — *Daring Fireball* `03-25`
+- [Engineers do get promoted for writing simple code](https://seangoedecke.com/simple-work-gets-rewarded/) — *seangoedecke.com RSS feed* `03-26`
 <!--BLOG_RADAR:end-->
 
 ---
