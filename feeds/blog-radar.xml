@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 26 Mar 2026 02:55:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 07:20:23 +0000</lastBuildDate>
+    <item>
+      <title>Early notes on switching some libvirt-based virtual machines to UEFI</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/LibvirtSwitchingToUEFI</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/LibvirtSwitchingToUEFI</guid>
+      <pubDate>Thu, 26 Mar 2026 03:09:33 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
     <item>
       <title>datasette-files-s3 0.1a1</title>
       <link>https://simonwillison.net/2026/Mar/25/datasette-files-s3/#atom-everything</link>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/03/19/the-fragmented-world-of-dependency-policy.html</guid>
       <pubDate>Thu, 19 Mar 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>On becoming a day person</title>
-      <link>https://herman.bearblog.dev/becoming-a-day-person/</link>
-      <guid isPermaLink="true">https://herman.bearblog.dev/becoming-a-day-person/</guid>
-      <pubDate>Thu, 19 Mar 2026 09:17:00 +0000</pubDate>
-      <description>Herman's blog</description>
     </item>
   </channel>
 </rss>

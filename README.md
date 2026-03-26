@@ -208,11 +208,11 @@ Last Updated: Thursday, March 26th, 2026, 3:01:55 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Early notes on switching some libvirt-based virtual machines to UEFI](https://utcc.utoronto.ca/~cks/space/blog/linux/LibvirtSwitchingToUEFI) — *Chris's Wiki :: blog* `03-26`
 - [datasette-files-s3 0.1a1](https://simonwillison.net/2026/Mar/25/datasette-files-s3/#atom-everything) — *Simon Willison's Weblog* `03-25`
 - [Thoughts on slowing the fuck down](https://simonwillison.net/2026/Mar/25/thoughts-on-slowing-the-fuck-down/#atom-everything) — *Simon Willison's Weblog* `03-25`
 - [datasette-llm 0.1a1](https://simonwillison.net/2026/Mar/25/datasette-llm/#atom-everything) — *Simon Willison's Weblog* `03-25`
 - [‘A List of Chain Restaurants Whose Names Contain Unusual Structures’](https://onefoottsunami.com/2026/03/18/a-list-of-chain-restaurants-whose-names-contain-unusual-structures/) — *Daring Fireball* `03-25`
-- [Improved Analytics in App Store Connect](https://developer.apple.com/news/?id=hh6v4b55) — *Daring Fireball* `03-25`
 <!--BLOG_RADAR:end-->
 
 ---
