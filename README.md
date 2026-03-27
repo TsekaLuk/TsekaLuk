@@ -208,11 +208,11 @@ Last Updated: Friday, March 27th, 2026, 8:54:25 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [The Age of the Amplifier](https://www.construction-physics.com/p/the-age-of-the-amplifier) — *Construction Physics* `03-27`
+- [Sharing a Name](https://idiallo.com/blog/sharing-a-name?src=feed) — *iDiallo.com* `03-27`
+- [Computing sine and cosine of complex arguments with only real functions](https://www.johndcook.com/blog/2026/03/27/complex-argument/) — *John D. Cook* `03-27`
 - [Apple Discontinues the Mac Pro With No Plans to Bring It Back](https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/) — *Daring Fireball* `03-27`
 - [We Rewrote JSONata with AI in a Day, Saved $500K/Year](https://simonwillison.net/2026/Mar/27/vine-porting-jsonata/#atom-everything) — *Simon Willison's Weblog* `03-27`
-- [My minute-by-minute response to the LiteLLM malware attack](https://simonwillison.net/2026/Mar/26/response-to-the-litellm-malware-attack/#atom-everything) — *Simon Willison's Weblog* `03-26`
-- [How we get radicalized in America](https://idiallo.com/byte-size/how-to-get-radicalized-in-america?src=feed) — *iDiallo.com* `03-26`
-- [Members Only: On Cathedral thinking](https://www.joanwestenberg.com/members-only-on-cathedral-thinking/) — *Westenberg.* `03-26`
 <!--BLOG_RADAR:end-->
 
 ---

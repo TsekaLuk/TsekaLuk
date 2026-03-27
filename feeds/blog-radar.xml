@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 27 Mar 2026 07:19:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 13:22:28 +0000</lastBuildDate>
+    <item>
+      <title>The Age of the Amplifier</title>
+      <link>https://www.construction-physics.com/p/the-age-of-the-amplifier</link>
+      <guid isPermaLink="true">https://www.construction-physics.com/p/the-age-of-the-amplifier</guid>
+      <pubDate>Fri, 27 Mar 2026 12:00:44 +0000</pubDate>
+      <description>Construction Physics</description>
+    </item>
+    <item>
+      <title>Sharing a Name</title>
+      <link>https://idiallo.com/blog/sharing-a-name?src=feed</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/sharing-a-name?src=feed</guid>
+      <pubDate>Fri, 27 Mar 2026 12:00:00 +0000</pubDate>
+      <description>iDiallo.com</description>
+    </item>
+    <item>
+      <title>Computing sine and cosine of complex arguments with only real functions</title>
+      <link>https://www.johndcook.com/blog/2026/03/27/complex-argument/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/03/27/complex-argument/</guid>
+      <pubDate>Fri, 27 Mar 2026 11:33:04 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
     <item>
       <title>Apple Discontinues the Mac Pro With No Plans to Bring It Back</title>
       <link>https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/</link>
@@ -32,6 +53,13 @@
       <guid isPermaLink="true">https://idiallo.com/byte-size/how-to-get-radicalized-in-america?src=feed</guid>
       <pubDate>Thu, 26 Mar 2026 23:11:46 +0000</pubDate>
       <description>iDiallo.com</description>
+    </item>
+    <item>
+      <title>Considering mmap() verus plain reads for my recent code</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/unix/MmapVsPlainReadThoughts</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/unix/MmapVsPlainReadThoughts</guid>
+      <pubDate>Thu, 26 Mar 2026 23:05:54 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>Members Only: On Cathedral thinking</title>
@@ -174,6 +202,13 @@
       <description>matduggan.com</description>
     </item>
     <item>
+      <title>Early notes on switching some libvirt-based virtual machines to UEFI</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/LibvirtSwitchingToUEFI</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/LibvirtSwitchingToUEFI</guid>
+      <pubDate>Thu, 26 Mar 2026 03:09:33 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
       <title>Engineers do get promoted for writing simple code</title>
       <link>https://seangoedecke.com/simple-work-gets-rewarded/</link>
       <guid isPermaLink="true">https://seangoedecke.com/simple-work-gets-rewarded/</guid>
@@ -242,6 +277,13 @@
       <guid isPermaLink="true">https://pluralistic.net/2026/03/25/fact-intensive/</guid>
       <pubDate>Wed, 25 Mar 2026 07:08:48 +0000</pubDate>
       <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Going from an IPv4 address to an ASN in Python 2 with Unix brute force</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/python/IPToASNWithUnixBruteForce</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/python/IPToASNWithUnixBruteForce</guid>
+      <pubDate>Wed, 25 Mar 2026 02:45:53 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>Claude Can Now Take Control of Your Mac</title>
@@ -426,6 +468,13 @@
       <description>Troy Hunt</description>
     </item>
     <item>
+      <title>Fedora's virt-manager started using external snapshots for me as of Fedora 41</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/FedoraVirtManagerBadSnapshots</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/FedoraVirtManagerBadSnapshots</guid>
+      <pubDate>Tue, 24 Mar 2026 02:51:03 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
       <title>[Sponsor] npx workos: From Auth Integration to Environment Management, Zero ClickOps</title>
       <link>https://workos.com/docs/authkit/cli-installer?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q12026</link>
       <guid isPermaLink="true">https://workos.com/docs/authkit/cli-installer?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q12026</guid>
@@ -564,6 +613,13 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Mar/23/beats-now-have-notes/#atom-everything</guid>
       <pubDate>Mon, 23 Mar 2026 02:13:13 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Mass production's effects on the cheapest way to get some things</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/tech/VolumeMakesOddThingsCheap</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/tech/VolumeMakesOddThingsCheap</guid>
+      <pubDate>Mon, 23 Mar 2026 02:00:35 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>Hitachi Ltd, Part I</title>
@@ -713,6 +769,13 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
+      <title>A traditional path to getting lingering duplicate systems</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LingeringDuplicateSystemsII</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LingeringDuplicateSystemsII</guid>
+      <pubDate>Sat, 21 Mar 2026 20:36:31 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
       <title>Reading List 03/21/26</title>
       <link>https://www.construction-physics.com/p/reading-list-032126</link>
       <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-032126</guid>
@@ -725,6 +788,13 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html</guid>
       <pubDate>Sat, 21 Mar 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>Lingering duplicate systems and the expense of weeding them out (an illustration)</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LingeringDuplicateSystems</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LingeringDuplicateSystems</guid>
+      <pubDate>Sat, 21 Mar 2026 03:05:27 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>Turbo Pascal 3.02A, deconstructed</title>
@@ -774,76 +844,6 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/03/20/embedded-regex-flags/</guid>
       <pubDate>Fri, 20 Mar 2026 16:58:42 +0000</pubDate>
       <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Bluesky Raised $100M a Year Ago but for Some Reason Only Disclosed It Now</title>
-      <link>https://bsky.social/about/blog/03-19-2026-series-b</link>
-      <guid isPermaLink="true">https://bsky.social/about/blog/03-19-2026-series-b</guid>
-      <pubDate>Fri, 20 Mar 2026 16:46:01 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Premium: The Hater's Guide To Adobe</title>
-      <link>https://www.wheresyoured.at/hatersguide-adobe/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/hatersguide-adobe/</guid>
-      <pubDate>Fri, 20 Mar 2026 16:25:42 +0000</pubDate>
-      <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>Terence Tao – Kepler, Newton, and the true nature of mathematical discovery</title>
-      <link>https://www.dwarkesh.com/p/terence-tao</link>
-      <guid isPermaLink="true">https://www.dwarkesh.com/p/terence-tao</guid>
-      <pubDate>Fri, 20 Mar 2026 16:00:55 +0000</pubDate>
-      <description>Dwarkesh Podcast</description>
-    </item>
-    <item>
-      <title>Democracy is a Liability</title>
-      <link>https://geohot.github.io//blog/jekyll/update/2026/03/21/democracy-liability.html</link>
-      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/03/21/democracy-liability.html</guid>
-      <pubDate>Fri, 20 Mar 2026 16:00:00 +0000</pubDate>
-      <description>the singularity is nearer</description>
-    </item>
-    <item>
-      <title>Quiche Browser</title>
-      <link>https://quiche.industries/browser/</link>
-      <guid isPermaLink="true">https://quiche.industries/browser/</guid>
-      <pubDate>Fri, 20 Mar 2026 15:38:27 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The best laptop Apple ever made</title>
-      <link>https://www.jeffgeerling.com/blog/2026/best-laptop-apple-ever-made/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/best-laptop-apple-ever-made/</guid>
-      <pubDate>Fri, 20 Mar 2026 14:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
-      <title>Windows stack limit checking retrospective: arm64, also known as AArch64</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260320-00/?p=112154</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260320-00/?p=112154</guid>
-      <pubDate>Fri, 20 Mar 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>I'm OK being left behind, thanks!</title>
-      <link>https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/</guid>
-      <pubDate>Fri, 20 Mar 2026 12:34:02 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Why Is Everyone Supposed to Die If Machines Can Think?</title>
-      <link>https://idiallo.com/blog/everyone-is-supposed-to-die-when-machines-can-think?src=feed</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/everyone-is-supposed-to-die-when-machines-can-think?src=feed</guid>
-      <pubDate>Fri, 20 Mar 2026 12:00:00 +0000</pubDate>
-      <description>iDiallo.com</description>
-    </item>
-    <item>
-      <title>EnshittifAIcation</title>
-      <link>https://it-notes.dragas.net/2026/03/20/enshittifaication/</link>
-      <guid isPermaLink="true">https://it-notes.dragas.net/2026/03/20/enshittifaication/</guid>
-      <pubDate>Fri, 20 Mar 2026 11:00:00 +0000</pubDate>
-      <description>IT Notes</description>
     </item>
   </channel>
 </rss>
