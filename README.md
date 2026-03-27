@@ -208,11 +208,11 @@ Last Updated: Friday, March 27th, 2026, 9:54:16 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Google Brags About Android Web Browser Benchmark Scores on Unnamed Devices; Gullible Reporters Fall for It](https://blog.chromium.org/2026/03/android-sets-new-record-for-mobile-web.html) — *Daring Fireball* `03-26`
-- [NYT: ‘Melania Trump Appears With a Robot, Saying More Children Should Be Educated by Them’](https://www.nytimes.com/2026/03/25/us/politics/melania-trump-robot.html?smid=nytcore-ios-share) — *Daring Fireball* `03-26`
-- [The Information: ‘Apple Can “Distill” Google’s Big Gemini Model’](https://www.theinformation.com/newsletters/ai-agenda/apple-can-distill-googles-big-gemini-model?rc=jfy0lk) — *Daring Fireball* `03-26`
-- [Katie Notopoulos Bids Farewell to Sora: ‘You Were Too Beautiful and Stupid for This World’](https://www.businessinsider.com/sora-openai-chatgpt-sam-altman-ai-shutting-down-farewell-why-2026-3) — *Daring Fireball* `03-26`
-- [MacOS 26.4 Adds ‘Slow Charger’ Indicator for MacBooks](https://www.macrumors.com/2026/03/25/macos-tahoe-26-4-slow-charger-macbooks/) — *Daring Fireball* `03-26`
+- [Apple Discontinues the Mac Pro With No Plans to Bring It Back](https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/) — *Daring Fireball* `03-27`
+- [We Rewrote JSONata with AI in a Day, Saved $500K/Year](https://simonwillison.net/2026/Mar/27/vine-porting-jsonata/#atom-everything) — *Simon Willison's Weblog* `03-27`
+- [My minute-by-minute response to the LiteLLM malware attack](https://simonwillison.net/2026/Mar/26/response-to-the-litellm-malware-attack/#atom-everything) — *Simon Willison's Weblog* `03-26`
+- [How we get radicalized in America](https://idiallo.com/byte-size/how-to-get-radicalized-in-america?src=feed) — *iDiallo.com* `03-26`
+- [Considering mmap() verus plain reads for my recent code](https://utcc.utoronto.ca/~cks/space/blog/unix/MmapVsPlainReadThoughts) — *Chris's Wiki :: blog* `03-26`
 <!--BLOG_RADAR:end-->
 
 ---

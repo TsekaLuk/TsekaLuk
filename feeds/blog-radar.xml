@@ -4,7 +4,77 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 26 Mar 2026 19:18:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 03:17:20 +0000</lastBuildDate>
+    <item>
+      <title>Apple Discontinues the Mac Pro With No Plans to Bring It Back</title>
+      <link>https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/</link>
+      <guid isPermaLink="true">https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/</guid>
+      <pubDate>Fri, 27 Mar 2026 00:56:39 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>We Rewrote JSONata with AI in a Day, Saved $500K/Year</title>
+      <link>https://simonwillison.net/2026/Mar/27/vine-porting-jsonata/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/27/vine-porting-jsonata/#atom-everything</guid>
+      <pubDate>Fri, 27 Mar 2026 00:35:01 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>My minute-by-minute response to the LiteLLM malware attack</title>
+      <link>https://simonwillison.net/2026/Mar/26/response-to-the-litellm-malware-attack/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/26/response-to-the-litellm-malware-attack/#atom-everything</guid>
+      <pubDate>Thu, 26 Mar 2026 23:58:22 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>How we get radicalized in America</title>
+      <link>https://idiallo.com/byte-size/how-to-get-radicalized-in-america?src=feed</link>
+      <guid isPermaLink="true">https://idiallo.com/byte-size/how-to-get-radicalized-in-america?src=feed</guid>
+      <pubDate>Thu, 26 Mar 2026 23:11:46 +0000</pubDate>
+      <description>iDiallo.com</description>
+    </item>
+    <item>
+      <title>Considering mmap() verus plain reads for my recent code</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/unix/MmapVsPlainReadThoughts</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/unix/MmapVsPlainReadThoughts</guid>
+      <pubDate>Thu, 26 Mar 2026 23:05:54 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>Members Only: On Cathedral thinking</title>
+      <link>https://www.joanwestenberg.com/members-only-on-cathedral-thinking/</link>
+      <guid isPermaLink="true">https://www.joanwestenberg.com/members-only-on-cathedral-thinking/</guid>
+      <pubDate>Thu, 26 Mar 2026 22:54:35 +0000</pubDate>
+      <description>Westenberg.</description>
+    </item>
+    <item>
+      <title>The Apple Charging Situation</title>
+      <link>https://randsinrepose.com/guides/apple-charging-guide.html</link>
+      <guid isPermaLink="true">https://randsinrepose.com/guides/apple-charging-guide.html</guid>
+      <pubDate>Thu, 26 Mar 2026 20:20:49 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Lebesgue constants</title>
+      <link>https://www.johndcook.com/blog/2026/03/26/lebesgue-constants/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/03/26/lebesgue-constants/</guid>
+      <pubDate>Thu, 26 Mar 2026 20:05:06 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>You Can Jump Right to the Updates Screen in the App Store App on iOS 26.4</title>
+      <link>https://daringfireball.net/linked/2026/03/24/ios-264</link>
+      <guid isPermaLink="true">https://daringfireball.net/linked/2026/03/24/ios-264</guid>
+      <pubDate>Thu, 26 Mar 2026 19:35:00 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Disney Drops Vaporware $1B Investment in OpenAI After Sora Got Axed</title>
+      <link>https://variety.com/2026/digital/news/openai-shutting-down-sora-video-disney-1236698277/</link>
+      <guid isPermaLink="true">https://variety.com/2026/digital/news/openai-shutting-down-sora-video-disney-1236698277/</guid>
+      <pubDate>Thu, 26 Mar 2026 19:26:38 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Google Brags About Android Web Browser Benchmark Scores on Unnamed Devices; Gullible Reporters Fall for It</title>
       <link>https://blog.chromium.org/2026/03/android-sets-new-record-for-mobile-web.html</link>
@@ -774,76 +844,6 @@
       <guid isPermaLink="true">https://www.dwarkesh.com/p/terence-tao</guid>
       <pubDate>Fri, 20 Mar 2026 16:00:55 +0000</pubDate>
       <description>Dwarkesh Podcast</description>
-    </item>
-    <item>
-      <title>Democracy is a Liability</title>
-      <link>https://geohot.github.io//blog/jekyll/update/2026/03/21/democracy-liability.html</link>
-      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/03/21/democracy-liability.html</guid>
-      <pubDate>Fri, 20 Mar 2026 16:00:00 +0000</pubDate>
-      <description>the singularity is nearer</description>
-    </item>
-    <item>
-      <title>Quiche Browser</title>
-      <link>https://quiche.industries/browser/</link>
-      <guid isPermaLink="true">https://quiche.industries/browser/</guid>
-      <pubDate>Fri, 20 Mar 2026 15:38:27 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The best laptop Apple ever made</title>
-      <link>https://www.jeffgeerling.com/blog/2026/best-laptop-apple-ever-made/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/best-laptop-apple-ever-made/</guid>
-      <pubDate>Fri, 20 Mar 2026 14:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
-      <title>Windows stack limit checking retrospective: arm64, also known as AArch64</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260320-00/?p=112154</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260320-00/?p=112154</guid>
-      <pubDate>Fri, 20 Mar 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>I'm OK being left behind, thanks!</title>
-      <link>https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/</guid>
-      <pubDate>Fri, 20 Mar 2026 12:34:02 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Why Is Everyone Supposed to Die If Machines Can Think?</title>
-      <link>https://idiallo.com/blog/everyone-is-supposed-to-die-when-machines-can-think?src=feed</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/everyone-is-supposed-to-die-when-machines-can-think?src=feed</guid>
-      <pubDate>Fri, 20 Mar 2026 12:00:00 +0000</pubDate>
-      <description>iDiallo.com</description>
-    </item>
-    <item>
-      <title>EnshittifAIcation</title>
-      <link>https://it-notes.dragas.net/2026/03/20/enshittifaication/</link>
-      <guid isPermaLink="true">https://it-notes.dragas.net/2026/03/20/enshittifaication/</guid>
-      <pubDate>Fri, 20 Mar 2026 11:00:00 +0000</pubDate>
-      <description>IT Notes</description>
-    </item>
-    <item>
-      <title>Package Manager Mirroring</title>
-      <link>https://nesbitt.io/2026/03/20/package-manager-mirroring.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/03/20/package-manager-mirroring.html</guid>
-      <pubDate>Fri, 20 Mar 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>SQLite Tags Benchmark: Comparing 5 Tagging Strategies</title>
-      <link>https://simonwillison.net/2026/Mar/20/sqlite-tags-benchmark/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/20/sqlite-tags-benchmark/#atom-everything</guid>
-      <pubDate>Fri, 20 Mar 2026 02:57:00 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>DMARC DNS record inheritance and DMARC alignment requirements</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/spam/DMARCAlignmentAndInheritance</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/spam/DMARCAlignmentAndInheritance</guid>
-      <pubDate>Fri, 20 Mar 2026 02:56:30 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
     </item>
   </channel>
 </rss>
