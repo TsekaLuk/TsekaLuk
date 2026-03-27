@@ -208,11 +208,11 @@ Last Updated: Saturday, March 28th, 2026, 2:49:02 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [The Age of the Amplifier](https://www.construction-physics.com/p/the-age-of-the-amplifier) — *Construction Physics* `03-27`
-- [Sharing a Name](https://idiallo.com/blog/sharing-a-name?src=feed) — *iDiallo.com* `03-27`
-- [Computing sine and cosine of complex arguments with only real functions](https://www.johndcook.com/blog/2026/03/27/complex-argument/) — *John D. Cook* `03-27`
-- [Apple Discontinues the Mac Pro With No Plans to Bring It Back](https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/) — *Daring Fireball* `03-27`
-- [We Rewrote JSONata with AI in a Day, Saved $500K/Year](https://simonwillison.net/2026/Mar/27/vine-porting-jsonata/#atom-everything) — *Simon Willison's Weblog* `03-27`
+- [This Week on The Analog Antiquarian](https://www.filfre.net/2026/03/this-week-on-the-analog-antiquarian-2/) — *The Digital Antiquarian* `03-27`
+- [Premium: How Much Of The AI Bubble Is Real?](https://www.wheresyoured.at/premium-how-much-of-the-ai-bubble-is-real/) — *Ed Zitron's Where's Your Ed At* `03-27`
+- [An AI Odyssey, Part 3: Lost Needle in the Haystack](https://www.johndcook.com/blog/2026/03/27/an-ai-odyssey-part-3-lost-needle-in-the-haystack/) — *John D. Cook* `03-27`
+- [An Intention Upgrade](https://feed.tedium.co/link/15204/17307620/apple-mac-pro-discontinued-anniversary) — *Tedium: The Dull Side of the Internet.* `03-27`
+- [System shock](https://aresluna.org/system-shock) — *Aresluna* `03-27`
 <!--BLOG_RADAR:end-->
 
 ---

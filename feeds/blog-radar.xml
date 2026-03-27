@@ -4,7 +4,56 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 27 Mar 2026 13:22:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 19:04:57 +0000</lastBuildDate>
+    <item>
+      <title>This Week on The Analog Antiquarian</title>
+      <link>https://www.filfre.net/2026/03/this-week-on-the-analog-antiquarian-2/</link>
+      <guid isPermaLink="true">https://www.filfre.net/2026/03/this-week-on-the-analog-antiquarian-2/</guid>
+      <pubDate>Fri, 27 Mar 2026 17:23:28 +0000</pubDate>
+      <description>The Digital Antiquarian</description>
+    </item>
+    <item>
+      <title>Premium: How Much Of The AI Bubble Is Real?</title>
+      <link>https://www.wheresyoured.at/premium-how-much-of-the-ai-bubble-is-real/</link>
+      <guid isPermaLink="true">https://www.wheresyoured.at/premium-how-much-of-the-ai-bubble-is-real/</guid>
+      <pubDate>Fri, 27 Mar 2026 17:21:30 +0000</pubDate>
+      <description>Ed Zitron's Where's Your Ed At</description>
+    </item>
+    <item>
+      <title>An AI Odyssey, Part 3: Lost Needle in the Haystack</title>
+      <link>https://www.johndcook.com/blog/2026/03/27/an-ai-odyssey-part-3-lost-needle-in-the-haystack/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/03/27/an-ai-odyssey-part-3-lost-needle-in-the-haystack/</guid>
+      <pubDate>Fri, 27 Mar 2026 16:06:18 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>An Intention Upgrade</title>
+      <link>https://feed.tedium.co/link/15204/17307620/apple-mac-pro-discontinued-anniversary</link>
+      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17307620/apple-mac-pro-discontinued-anniversary</guid>
+      <pubDate>Fri, 27 Mar 2026 15:56:07 +0000</pubDate>
+      <description>Tedium: The Dull Side of the Internet.</description>
+    </item>
+    <item>
+      <title>System shock</title>
+      <link>https://aresluna.org/system-shock</link>
+      <guid isPermaLink="true">https://aresluna.org/system-shock</guid>
+      <pubDate>Fri, 27 Mar 2026 15:02:13 +0000</pubDate>
+      <description>Aresluna</description>
+    </item>
+    <item>
+      <title>UX books not written by white men</title>
+      <link>https://aresluna.org/ux-books-not-written-by-white-men</link>
+      <guid isPermaLink="true">https://aresluna.org/ux-books-not-written-by-white-men</guid>
+      <pubDate>Fri, 27 Mar 2026 15:02:13 +0000</pubDate>
+      <description>Aresluna</description>
+    </item>
+    <item>
+      <title>Bring back MiniDV with this Raspberry Pi FireWire HAT</title>
+      <link>https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/</guid>
+      <pubDate>Fri, 27 Mar 2026 14:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
+    </item>
     <item>
       <title>The Age of the Amplifier</title>
       <link>https://www.construction-physics.com/p/the-age-of-the-amplifier</link>
@@ -795,55 +844,6 @@
       <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LingeringDuplicateSystems</guid>
       <pubDate>Sat, 21 Mar 2026 03:05:27 +0000</pubDate>
       <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>Turbo Pascal 3.02A, deconstructed</title>
-      <link>https://simonwillison.net/2026/Mar/20/turbo-pascal/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/20/turbo-pascal/#atom-everything</guid>
-      <pubDate>Fri, 20 Mar 2026 23:59:14 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Google Search Is Now Using AI to Rewrite Headlines</title>
-      <link>https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjI0Q05IV0dlS3EiLCJwIjoiL3RlY2gvODk2NDkwL2dvb2dsZS1yZXBsYWNlLW5ld3MtaGVhZGxpbmVzLWluLXNlYXJjaC1jYW5hcnktY29hbC1taW5lLWV4cGVyaW1lbnQiLCJleHAiOjE3NzQ0NzIwOTAsImlhdCI6MTc3NDA0MDA5MH0.3exwHWG6qdR5YeFLjzS1qvUy3tgfASQhbFZDTbHrkKE&amp;utm_medium=gift-link</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjI0Q05IV0dlS3EiLCJwIjoiL3RlY2gvODk2NDkwL2dvb2dsZS1yZXBsYWNlLW5ld3MtaGVhZGxpbmVzLWluLXNlYXJjaC1jYW5hcnktY29hbC1taW5lLWV4cGVyaW1lbnQiLCJleHAiOjE3NzQ0NzIwOTAsImlhdCI6MTc3NDA0MDA5MH0.3exwHWG6qdR5YeFLjzS1qvUy3tgfASQhbFZDTbHrkKE&amp;utm_medium=gift-link</guid>
-      <pubDate>Fri, 20 Mar 2026 21:00:09 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Perhaps Bluesky’s Revelation of an 11-Month Ago $100 Million Investment Was, in Fact, an Act of Transparency</title>
-      <link>https://bsky.app/profile/flooey.org/post/3mhiznh4d7c2j</link>
-      <guid isPermaLink="true">https://bsky.app/profile/flooey.org/post/3mhiznh4d7c2j</guid>
-      <pubDate>Fri, 20 Mar 2026 20:49:07 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Quoting Kimi.ai @Kimi_Moonshot</title>
-      <link>https://simonwillison.net/2026/Mar/20/cursor-on-kimi/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/20/cursor-on-kimi/#atom-everything</guid>
-      <pubDate>Fri, 20 Mar 2026 20:29:23 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Re: People Are Not Friction</title>
-      <link>https://blog.jim-nielsen.com/2026/re-people-arent-friction/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/re-people-arent-friction/</guid>
-      <pubDate>Fri, 20 Mar 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
-      <title>The Mystery of Rennes-le-Château, Part 2: Secret Codes and Hidden Messages</title>
-      <link>https://www.filfre.net/2026/03/the-mystery-of-rennes-le-chateau-part-2-secret-codes-and-hidden-messages/</link>
-      <guid isPermaLink="true">https://www.filfre.net/2026/03/the-mystery-of-rennes-le-chateau-part-2-secret-codes-and-hidden-messages/</guid>
-      <pubDate>Fri, 20 Mar 2026 18:09:52 +0000</pubDate>
-      <description>The Digital Antiquarian</description>
-    </item>
-    <item>
-      <title>Embedded regex flags</title>
-      <link>https://www.johndcook.com/blog/2026/03/20/embedded-regex-flags/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/03/20/embedded-regex-flags/</guid>
-      <pubDate>Fri, 20 Mar 2026 16:58:42 +0000</pubDate>
-      <description>John D. Cook</description>
     </item>
   </channel>
 </rss>
