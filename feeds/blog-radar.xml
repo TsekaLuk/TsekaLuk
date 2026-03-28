@@ -4,7 +4,70 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 27 Mar 2026 19:04:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 02:48:05 +0000</lastBuildDate>
+    <item>
+      <title>Business Insider’s Subscriber Spiral</title>
+      <link>https://www.status.news/p/business-insider-subscription-decline-data</link>
+      <guid isPermaLink="true">https://www.status.news/p/business-insider-subscription-decline-data</guid>
+      <pubDate>Sat, 28 Mar 2026 00:48:14 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Apple Says It’s Not Aware of Lockdown Mode Ever Having Been Exploited</title>
+      <link>https://techcrunch.com/2026/03/27/apple-says-no-one-using-lockdown-mode-has-been-hacked-with-spyware/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/03/27/apple-says-no-one-using-lockdown-mode-has-been-hacked-with-spyware/</guid>
+      <pubDate>Sat, 28 Mar 2026 00:16:01 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Apple Announces Ads Are Coming to Apple Maps</title>
+      <link>https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/</link>
+      <guid isPermaLink="true">https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/</guid>
+      <pubDate>Sat, 28 Mar 2026 00:01:56 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Netflix Raises Prices Again</title>
+      <link>https://variety.com/2026/tv/news/why-netflix-hiked-prices-explained-chart-1236701365/</link>
+      <guid isPermaLink="true">https://variety.com/2026/tv/news/why-netflix-hiked-prices-explained-chart-1236701365/</guid>
+      <pubDate>Fri, 27 Mar 2026 23:43:21 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>datasette-showboat 0.1a2</title>
+      <link>https://simonwillison.net/2026/Mar/27/datasette-showboat/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/27/datasette-showboat/#atom-everything</guid>
+      <pubDate>Fri, 27 Mar 2026 23:42:47 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Quoting Richard Fontana</title>
+      <link>https://simonwillison.net/2026/Mar/27/richard-fontana/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/27/richard-fontana/#atom-everything</guid>
+      <pubDate>Fri, 27 Mar 2026 21:11:17 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Vibe coding SwiftUI apps is a lot of fun</title>
+      <link>https://simonwillison.net/2026/Mar/27/vibe-coding-swiftui/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/27/vibe-coding-swiftui/#atom-everything</guid>
+      <pubDate>Fri, 27 Mar 2026 20:59:53 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>★ Apple Giveth, Apple Taketh Away</title>
+      <link>https://daringfireball.net/2026/03/apple_giveth_apple_taketh_away</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/03/apple_giveth_apple_taketh_away</guid>
+      <pubDate>Fri, 27 Mar 2026 20:46:14 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>“Good Taste” Is Just Experience</title>
+      <link>https://terriblesoftware.org/2026/03/27/good-taste-is-just-experience/</link>
+      <guid isPermaLink="true">https://terriblesoftware.org/2026/03/27/good-taste-is-just-experience/</guid>
+      <pubDate>Fri, 27 Mar 2026 19:35:32 +0000</pubDate>
+      <description>Terrible Software</description>
+    </item>
     <item>
       <title>This Week on The Analog Antiquarian</title>
       <link>https://www.filfre.net/2026/03/this-week-on-the-analog-antiquarian-2/</link>
@@ -55,6 +118,13 @@
       <description>Jeff Geerling</description>
     </item>
     <item>
+      <title>What if a dialog wants to intercept its own message loop?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260327-00/?p=112172</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260327-00/?p=112172</guid>
+      <pubDate>Fri, 27 Mar 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
+    <item>
       <title>The Age of the Amplifier</title>
       <link>https://www.construction-physics.com/p/the-age-of-the-amplifier</link>
       <guid isPermaLink="true">https://www.construction-physics.com/p/the-age-of-the-amplifier</guid>
@@ -88,6 +158,27 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Mar/27/vine-porting-jsonata/#atom-everything</guid>
       <pubDate>Fri, 27 Mar 2026 00:35:01 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Working on products people hate</title>
+      <link>https://seangoedecke.com/working-on-products-people-hate/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/working-on-products-people-hate/</guid>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Using Perfetto in ZJIT</title>
+      <link>https://bernsteinbear.com/blog/zjit-perfetto/?utm_source=rss</link>
+      <guid isPermaLink="true">https://bernsteinbear.com/blog/zjit-perfetto/?utm_source=rss</guid>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Max Bernstein's Blog</description>
+    </item>
+    <item>
+      <title>Endgame for the Open Web</title>
+      <link>https://anildash.com/2026/03/27/endgame-open-web/</link>
+      <guid isPermaLink="true">https://anildash.com/2026/03/27/endgame-open-web/</guid>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Anil Dash</description>
     </item>
     <item>
       <title>My minute-by-minute response to the LiteLLM malware attack</title>
@@ -753,97 +844,6 @@
       <guid isPermaLink="true">https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/</guid>
       <pubDate>Sun, 22 Mar 2026 16:41:09 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Changing the World</title>
-      <link>https://geohot.github.io//blog/jekyll/update/2026/03/23/changing-the-world.html</link>
-      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/03/23/changing-the-world.html</guid>
-      <pubDate>Sun, 22 Mar 2026 16:00:00 +0000</pubDate>
-      <description>the singularity is nearer</description>
-    </item>
-    <item>
-      <title>Bored of eating your own dogfood? Try smelling your own farts!</title>
-      <link>https://shkspr.mobi/blog/2026/03/bored-of-eating-your-own-dogfood-try-smelling-your-own-farts/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/03/bored-of-eating-your-own-dogfood-try-smelling-your-own-farts/</guid>
-      <pubDate>Sun, 22 Mar 2026 12:34:07 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Waarom we nu WEL zuinig moeten doen, en door moeten met groene energie</title>
-      <link>https://berthub.eu/articles/posts/waarom-we-nu-wel-zuinig-moeten-doen-en-meer-groene-energie/</link>
-      <guid isPermaLink="true">https://berthub.eu/articles/posts/waarom-we-nu-wel-zuinig-moeten-doen-en-meer-groene-energie/</guid>
-      <pubDate>Sun, 22 Mar 2026 09:46:12 +0000</pubDate>
-      <description>Bert Hubert's writings</description>
-    </item>
-    <item>
-      <title>Refurb weekend double header: Alpha Micro AM-1000E and AM-1200</title>
-      <link>https://oldvcr.blogspot.com/2026/03/refurb-weekend-double-header-alpha.html</link>
-      <guid isPermaLink="true">https://oldvcr.blogspot.com/2026/03/refurb-weekend-double-header-alpha.html</guid>
-      <pubDate>Sun, 22 Mar 2026 03:14:00 +0000</pubDate>
-      <description>Old Vintage Computing Research</description>
-    </item>
-    <item>
-      <title>Reuters: ‘Amazon Plans Smartphone Comeback More Than a Decade After Fire Phone Flop’</title>
-      <link>https://www.reuters.com/technology/amazon-plans-smartphone-comeback-more-than-decade-after-fire-phone-flop-2026-03-20/</link>
-      <guid isPermaLink="true">https://www.reuters.com/technology/amazon-plans-smartphone-comeback-more-than-decade-after-fire-phone-flop-2026-03-20/</guid>
-      <pubDate>Sun, 22 Mar 2026 00:52:58 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>All tests pass: a short story</title>
-      <link>https://evanhahn.com/all-tests-pass-a-short-story/</link>
-      <guid isPermaLink="true">https://evanhahn.com/all-tests-pass-a-short-story/</guid>
-      <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Evan Hahn (dot com)</description>
-    </item>
-    <item>
-      <title>Little web app to pick a random programming language</title>
-      <link>https://evanhahn.com/random-programming-language/</link>
-      <guid isPermaLink="true">https://evanhahn.com/random-programming-language/</guid>
-      <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Evan Hahn (dot com)</description>
-    </item>
-    <item>
-      <title>Profiling Hacker News users based on their comments</title>
-      <link>https://simonwillison.net/2026/Mar/21/profiling-hacker-news-users/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/21/profiling-hacker-news-users/#atom-everything</guid>
-      <pubDate>Sat, 21 Mar 2026 23:59:47 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Using Git with coding agents</title>
-      <link>https://simonwillison.net/guides/agentic-engineering-patterns/using-git-with-coding-agents/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/guides/agentic-engineering-patterns/using-git-with-coding-agents/#atom-everything</guid>
-      <pubDate>Sat, 21 Mar 2026 22:08:24 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>A traditional path to getting lingering duplicate systems</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LingeringDuplicateSystemsII</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LingeringDuplicateSystemsII</guid>
-      <pubDate>Sat, 21 Mar 2026 20:36:31 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>Reading List 03/21/26</title>
-      <link>https://www.construction-physics.com/p/reading-list-032126</link>
-      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-032126</guid>
-      <pubDate>Sat, 21 Mar 2026 12:03:50 +0000</pubDate>
-      <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>How to Attract AI Bots to Your Open Source Project</title>
-      <link>https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html</guid>
-      <pubDate>Sat, 21 Mar 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Lingering duplicate systems and the expense of weeding them out (an illustration)</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LingeringDuplicateSystems</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LingeringDuplicateSystems</guid>
-      <pubDate>Sat, 21 Mar 2026 03:05:27 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
     </item>
   </channel>
 </rss>
