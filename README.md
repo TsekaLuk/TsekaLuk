@@ -208,11 +208,11 @@ Last Updated: Sunday, March 29th, 2026, 2:32:46 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Netflix Wrecked Their tvOS Video Player](https://www.pocket-lint.com/netflix-just-made-their-app-worse-and-theres-no-way-to-fix-it/) — *Daring Fireball* `03-28`
+- [Self-Hosting: Still Worth It?](https://feed.tedium.co/link/15204/17308221/self-hosting-platform-tools-guide) — *Tedium: The Dull Side of the Internet.* `03-28`
+- [Trump Is Putting His Signature on U.S. Currency](https://www.nytimes.com/2026/03/26/us/politics/trump-signature-us-dollars.html) — *Daring Fireball* `03-28`
+- [New York Post: ‘Trump Considers Renaming Strait of Hormuz’](https://nypost.com/2026/03/27/us-news/trump-considers-renaming-strait-of-hormuz-after-either-america-or-himself-once-he-evicts-iran/) — *Daring Fireball* `03-28`
 - [OpenBenches hits 40k](https://shkspr.mobi/blog/2026/03/openbenches-hits-40k/) — *Terence Eden’s Blog* `03-28`
-- [Quoting Matt Webb](https://simonwillison.net/2026/Mar/28/matt-webb/#atom-everything) — *Simon Willison's Weblog* `03-28`
-- [Reading List 03/28/26](https://www.construction-physics.com/p/reading-list-032826) — *Construction Physics* `03-28`
-- [Canonical's Netplan is hard to deal with in automation](https://utcc.utoronto.ca/~cks/space/blog/linux/NetplanVersusAutomation) — *Chris's Wiki :: blog* `03-28`
-- [Business Insider’s Subscriber Spiral](https://www.status.news/p/business-insider-subscription-decline-data) — *Daring Fireball* `03-28`
 <!--BLOG_RADAR:end-->
 
 ---

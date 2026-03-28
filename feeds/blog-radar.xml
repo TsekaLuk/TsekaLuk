@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 28 Mar 2026 13:10:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 18:52:44 +0000</lastBuildDate>
+    <item>
+      <title>Netflix Wrecked Their tvOS Video Player</title>
+      <link>https://www.pocket-lint.com/netflix-just-made-their-app-worse-and-theres-no-way-to-fix-it/</link>
+      <guid isPermaLink="true">https://www.pocket-lint.com/netflix-just-made-their-app-worse-and-theres-no-way-to-fix-it/</guid>
+      <pubDate>Sat, 28 Mar 2026 15:52:08 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Self-Hosting: Still Worth It?</title>
+      <link>https://feed.tedium.co/link/15204/17308221/self-hosting-platform-tools-guide</link>
+      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17308221/self-hosting-platform-tools-guide</guid>
+      <pubDate>Sat, 28 Mar 2026 15:35:16 +0000</pubDate>
+      <description>Tedium: The Dull Side of the Internet.</description>
+    </item>
+    <item>
+      <title>Trump Is Putting His Signature on U.S. Currency</title>
+      <link>https://www.nytimes.com/2026/03/26/us/politics/trump-signature-us-dollars.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/03/26/us/politics/trump-signature-us-dollars.html</guid>
+      <pubDate>Sat, 28 Mar 2026 15:21:55 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>New York Post: ‘Trump Considers Renaming Strait of Hormuz’</title>
+      <link>https://nypost.com/2026/03/27/us-news/trump-considers-renaming-strait-of-hormuz-after-either-america-or-himself-once-he-evicts-iran/</link>
+      <guid isPermaLink="true">https://nypost.com/2026/03/27/us-news/trump-considers-renaming-strait-of-hormuz-after-either-america-or-himself-once-he-evicts-iran/</guid>
+      <pubDate>Sat, 28 Mar 2026 15:02:42 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>OpenBenches hits 40k</title>
       <link>https://shkspr.mobi/blog/2026/03/openbenches-hits-40k/</link>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://www.joanwestenberg.com/collaboration-is-bullshit/</guid>
       <pubDate>Sun, 22 Mar 2026 23:31:25 +0000</pubDate>
       <description>Westenberg.</description>
-    </item>
-    <item>
-      <title>PCGamer Article Performance Audit</title>
-      <link>https://simonwillison.net/2026/Mar/22/pcgamer-audit/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/22/pcgamer-audit/#atom-everything</guid>
-      <pubDate>Sun, 22 Mar 2026 22:49:00 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>JavaScript Sandboxing Research</title>
-      <link>https://simonwillison.net/2026/Mar/22/javascript-sandboxing-research/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/22/javascript-sandboxing-research/#atom-everything</guid>
-      <pubDate>Sun, 22 Mar 2026 19:53:00 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>DNS Lookup</title>
-      <link>https://simonwillison.net/2026/Mar/22/dns/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/22/dns/#atom-everything</guid>
-      <pubDate>Sun, 22 Mar 2026 19:16:30 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>More Details Than You Probably Wanted to Know About Recent Updates to My Notes Site</title>
-      <link>https://blog.jim-nielsen.com/2026/notes-site-updates/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/notes-site-updates/</guid>
-      <pubDate>Sun, 22 Mar 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
     </item>
   </channel>
 </rss>
