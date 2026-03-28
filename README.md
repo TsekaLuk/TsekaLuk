@@ -208,11 +208,11 @@ Last Updated: Saturday, March 28th, 2026, 8:42:21 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [OpenBenches hits 40k](https://shkspr.mobi/blog/2026/03/openbenches-hits-40k/) — *Terence Eden’s Blog* `03-28`
+- [Quoting Matt Webb](https://simonwillison.net/2026/Mar/28/matt-webb/#atom-everything) — *Simon Willison's Weblog* `03-28`
+- [Reading List 03/28/26](https://www.construction-physics.com/p/reading-list-032826) — *Construction Physics* `03-28`
 - [Canonical's Netplan is hard to deal with in automation](https://utcc.utoronto.ca/~cks/space/blog/linux/NetplanVersusAutomation) — *Chris's Wiki :: blog* `03-28`
 - [Business Insider’s Subscriber Spiral](https://www.status.news/p/business-insider-subscription-decline-data) — *Daring Fireball* `03-28`
-- [Apple Says It’s Not Aware of Lockdown Mode Ever Having Been Exploited](https://techcrunch.com/2026/03/27/apple-says-no-one-using-lockdown-mode-has-been-hacked-with-spyware/) — *Daring Fireball* `03-28`
-- [Apple Announces Ads Are Coming to Apple Maps](https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/) — *Daring Fireball* `03-28`
-- [Netflix Raises Prices Again](https://variety.com/2026/tv/news/why-netflix-hiked-prices-explained-chart-1236701365/) — *Daring Fireball* `03-27`
 <!--BLOG_RADAR:end-->
 
 ---

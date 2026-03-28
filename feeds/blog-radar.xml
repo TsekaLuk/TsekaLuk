@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 28 Mar 2026 07:07:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 13:10:34 +0000</lastBuildDate>
+    <item>
+      <title>OpenBenches hits 40k</title>
+      <link>https://shkspr.mobi/blog/2026/03/openbenches-hits-40k/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/03/openbenches-hits-40k/</guid>
+      <pubDate>Sat, 28 Mar 2026 12:34:11 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Quoting Matt Webb</title>
+      <link>https://simonwillison.net/2026/Mar/28/matt-webb/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/28/matt-webb/#atom-everything</guid>
+      <pubDate>Sat, 28 Mar 2026 12:04:26 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Reading List 03/28/26</title>
+      <link>https://www.construction-physics.com/p/reading-list-032826</link>
+      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-032826</guid>
+      <pubDate>Sat, 28 Mar 2026 12:02:28 +0000</pubDate>
+      <description>Construction Physics</description>
+    </item>
     <item>
       <title>Canonical's Netplan is hard to deal with in automation</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/linux/NetplanVersusAutomation</link>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/notes-site-updates/</guid>
       <pubDate>Sun, 22 Mar 2026 19:00:00 +0000</pubDate>
       <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
-      <title>Merge State Visualizer</title>
-      <link>https://simonwillison.net/2026/Mar/22/manyana/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/22/manyana/#atom-everything</guid>
-      <pubDate>Sun, 22 Mar 2026 18:57:32 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Mux — Video API for Developers</title>
-      <link>https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF</link>
-      <guid isPermaLink="true">https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF</guid>
-      <pubDate>Sun, 22 Mar 2026 17:35:00 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>‘Good, I’m Glad He’s Dead.’</title>
-      <link>https://truthsocial.com/@realDonaldTrump/116268334535345382</link>
-      <guid isPermaLink="true">https://truthsocial.com/@realDonaldTrump/116268334535345382</guid>
-      <pubDate>Sun, 22 Mar 2026 17:18:10 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
