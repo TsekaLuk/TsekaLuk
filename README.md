@@ -208,11 +208,11 @@ Last Updated: Saturday, March 28th, 2026, 2:52:22 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Canonical's Netplan is hard to deal with in automation](https://utcc.utoronto.ca/~cks/space/blog/linux/NetplanVersusAutomation) — *Chris's Wiki :: blog* `03-28`
 - [Business Insider’s Subscriber Spiral](https://www.status.news/p/business-insider-subscription-decline-data) — *Daring Fireball* `03-28`
 - [Apple Says It’s Not Aware of Lockdown Mode Ever Having Been Exploited](https://techcrunch.com/2026/03/27/apple-says-no-one-using-lockdown-mode-has-been-hacked-with-spyware/) — *Daring Fireball* `03-28`
 - [Apple Announces Ads Are Coming to Apple Maps](https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/) — *Daring Fireball* `03-28`
 - [Netflix Raises Prices Again](https://variety.com/2026/tv/news/why-netflix-hiked-prices-explained-chart-1236701365/) — *Daring Fireball* `03-27`
-- [datasette-showboat 0.1a2](https://simonwillison.net/2026/Mar/27/datasette-showboat/#atom-everything) — *Simon Willison's Weblog* `03-27`
 <!--BLOG_RADAR:end-->
 
 ---

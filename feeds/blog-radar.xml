@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 28 Mar 2026 02:48:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 07:07:19 +0000</lastBuildDate>
+    <item>
+      <title>Canonical's Netplan is hard to deal with in automation</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/NetplanVersusAutomation</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/NetplanVersusAutomation</guid>
+      <pubDate>Sat, 28 Mar 2026 03:10:37 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
     <item>
       <title>Business Insider’s Subscriber Spiral</title>
       <link>https://www.status.news/p/business-insider-subscription-decline-data</link>
@@ -836,13 +843,6 @@
       <link>https://truthsocial.com/@realDonaldTrump/116268334535345382</link>
       <guid isPermaLink="true">https://truthsocial.com/@realDonaldTrump/116268334535345382</guid>
       <pubDate>Sun, 22 Mar 2026 17:18:10 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Half a Gigabyte of Ads</title>
-      <link>https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/</link>
-      <guid isPermaLink="true">https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/</guid>
-      <pubDate>Sun, 22 Mar 2026 16:41:09 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
   </channel>
