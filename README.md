@@ -208,11 +208,11 @@ Last Updated: Monday, March 30th, 2026, 2:34:27 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history](http://www.righto.com/2026/03/ibm-4-pi-computer-history.html) — *Ken Shirriff's blog* `03-29`
 - [The Roles of Packages](https://nesbitt.io/2026/03/29/the-roles-of-packages.html) — *Andrew Nesbitt* `03-29`
 - [New old systems in the age of hardware shortages](https://utcc.utoronto.ca/~cks/space/blog/tech/NewOldSystems) — *Chris's Wiki :: blog* `03-29`
 - [6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator](https://oldvcr.blogspot.com/2026/03/6o6-v11-faster-6502-on-6502.html) — *Old Vintage Computing Research* `03-29`
 - [The 2019 Intel Mac Pro’s Unfortunate Timing](https://512pixels.net/2026/03/how-apple-could-have-saved-the-mac-pro/) — *Daring Fireball* `03-28`
-- [Apple Should Set and Enforce Some Basic Standards for Custom Video Players on tvOS](https://daringfireball.net/2024/03/quickly_toggling_closed_captions_on_apple_tv) — *Daring Fireball* `03-28`
 <!--BLOG_RADAR:end-->
 
 ---
