@@ -208,11 +208,11 @@ Last Updated: Sunday, March 29th, 2026, 9:57:07 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Netflix Wrecked Their tvOS Video Player](https://www.pocket-lint.com/netflix-just-made-their-app-worse-and-theres-no-way-to-fix-it/) — *Daring Fireball* `03-28`
-- [Self-Hosting: Still Worth It?](https://feed.tedium.co/link/15204/17308221/self-hosting-platform-tools-guide) — *Tedium: The Dull Side of the Internet.* `03-28`
-- [Trump Is Putting His Signature on U.S. Currency](https://www.nytimes.com/2026/03/26/us/politics/trump-signature-us-dollars.html) — *Daring Fireball* `03-28`
-- [New York Post: ‘Trump Considers Renaming Strait of Hormuz’](https://nypost.com/2026/03/27/us-news/trump-considers-renaming-strait-of-hormuz-after-either-america-or-himself-once-he-evicts-iran/) — *Daring Fireball* `03-28`
-- [OpenBenches hits 40k](https://shkspr.mobi/blog/2026/03/openbenches-hits-40k/) — *Terence Eden’s Blog* `03-28`
+- [New old systems in the age of hardware shortages](https://utcc.utoronto.ca/~cks/space/blog/tech/NewOldSystems) — *Chris's Wiki :: blog* `03-29`
+- [6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator](https://oldvcr.blogspot.com/2026/03/6o6-v11-faster-6502-on-6502.html) — *Old Vintage Computing Research* `03-29`
+- [The 2019 Intel Mac Pro’s Unfortunate Timing](https://512pixels.net/2026/03/how-apple-could-have-saved-the-mac-pro/) — *Daring Fireball* `03-28`
+- [Apple Should Set and Enforce Some Basic Standards for Custom Video Players on tvOS](https://daringfireball.net/2024/03/quickly_toggling_closed_captions_on_apple_tv) — *Daring Fireball* `03-28`
+- [‘How Apple Became Apple: The Definitive Oral History of the Company’s Earliest Days’](https://www.fastcompany.com/91514404/apple-founding-50th-anniversary-apple-1-apple-ii-jobs-wozniak?mvgt=E5Loo3fO74zl) — *Daring Fireball* `03-28`
 <!--BLOG_RADAR:end-->
 
 ---

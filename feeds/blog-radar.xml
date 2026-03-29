@@ -4,7 +4,42 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 28 Mar 2026 18:52:44 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 03:21:15 +0000</lastBuildDate>
+    <item>
+      <title>New old systems in the age of hardware shortages</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/tech/NewOldSystems</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/tech/NewOldSystems</guid>
+      <pubDate>Sun, 29 Mar 2026 02:52:19 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator</title>
+      <link>https://oldvcr.blogspot.com/2026/03/6o6-v11-faster-6502-on-6502.html</link>
+      <guid isPermaLink="true">https://oldvcr.blogspot.com/2026/03/6o6-v11-faster-6502-on-6502.html</guid>
+      <pubDate>Sun, 29 Mar 2026 02:30:00 +0000</pubDate>
+      <description>Old Vintage Computing Research</description>
+    </item>
+    <item>
+      <title>The 2019 Intel Mac Pro’s Unfortunate Timing</title>
+      <link>https://512pixels.net/2026/03/how-apple-could-have-saved-the-mac-pro/</link>
+      <guid isPermaLink="true">https://512pixels.net/2026/03/how-apple-could-have-saved-the-mac-pro/</guid>
+      <pubDate>Sat, 28 Mar 2026 23:47:39 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Apple Should Set and Enforce Some Basic Standards for Custom Video Players on tvOS</title>
+      <link>https://daringfireball.net/2024/03/quickly_toggling_closed_captions_on_apple_tv</link>
+      <guid isPermaLink="true">https://daringfireball.net/2024/03/quickly_toggling_closed_captions_on_apple_tv</guid>
+      <pubDate>Sat, 28 Mar 2026 23:25:47 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>‘How Apple Became Apple: The Definitive Oral History of the Company’s Earliest Days’</title>
+      <link>https://www.fastcompany.com/91514404/apple-founding-50th-anniversary-apple-1-apple-ii-jobs-wozniak?mvgt=E5Loo3fO74zl</link>
+      <guid isPermaLink="true">https://www.fastcompany.com/91514404/apple-founding-50th-anniversary-apple-1-apple-ii-jobs-wozniak?mvgt=E5Loo3fO74zl</guid>
+      <pubDate>Sat, 28 Mar 2026 21:57:01 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Netflix Wrecked Their tvOS Video Player</title>
       <link>https://www.pocket-lint.com/netflix-just-made-their-app-worse-and-theres-no-way-to-fix-it/</link>
@@ -81,6 +116,13 @@
       <guid isPermaLink="true">https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/</guid>
       <pubDate>Sat, 28 Mar 2026 00:01:56 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Fork Commits via Original Repository</title>
+      <link>https://susam.net/fork-commits-via-original-repo.html</link>
+      <guid isPermaLink="true">https://susam.net/fork-commits-via-original-repo.html</guid>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Susam Pal</description>
     </item>
     <item>
       <title>Netflix Raises Prices Again</title>
@@ -223,18 +265,18 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>Using Perfetto in ZJIT</title>
-      <link>https://bernsteinbear.com/blog/zjit-perfetto/?utm_source=rss</link>
-      <guid isPermaLink="true">https://bernsteinbear.com/blog/zjit-perfetto/?utm_source=rss</guid>
-      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Max Bernstein's Blog</description>
-    </item>
-    <item>
       <title>Endgame for the Open Web</title>
       <link>https://anildash.com/2026/03/27/endgame-open-web/</link>
       <guid isPermaLink="true">https://anildash.com/2026/03/27/endgame-open-web/</guid>
       <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
       <description>Anil Dash</description>
+    </item>
+    <item>
+      <title>Using Perfetto in ZJIT</title>
+      <link>https://bernsteinbear.com/blog/zjit-perfetto/?utm_source=rss</link>
+      <guid isPermaLink="true">https://bernsteinbear.com/blog/zjit-perfetto/?utm_source=rss</guid>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Max Bernstein's Blog</description>
     </item>
     <item>
       <title>My minute-by-minute response to the LiteLLM malware attack</title>
@@ -802,48 +844,6 @@
       <guid isPermaLink="true">https://pluralistic.net/2026/03/22/nobodys-home/</guid>
       <pubDate>Mon, 23 Mar 2026 05:54:55 +0000</pubDate>
       <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Beats now have notes</title>
-      <link>https://simonwillison.net/2026/Mar/23/beats-now-have-notes/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/23/beats-now-have-notes/#atom-everything</guid>
-      <pubDate>Mon, 23 Mar 2026 02:13:13 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Mass production's effects on the cheapest way to get some things</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/tech/VolumeMakesOddThingsCheap</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/tech/VolumeMakesOddThingsCheap</guid>
-      <pubDate>Mon, 23 Mar 2026 02:00:35 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>Hitachi Ltd, Part I</title>
-      <link>https://www.abortretry.fail/p/hitachi-ltd-part-i</link>
-      <guid isPermaLink="true">https://www.abortretry.fail/p/hitachi-ltd-part-i</guid>
-      <pubDate>Mon, 23 Mar 2026 00:14:27 +0000</pubDate>
-      <description>Abort Retry Fail</description>
-    </item>
-    <item>
-      <title>Starlette 1.0 skill</title>
-      <link>https://simonwillison.net/2026/Mar/23/starlette-1-skill/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/23/starlette-1-skill/#atom-everything</guid>
-      <pubDate>Mon, 23 Mar 2026 00:05:00 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Experimenting with Starlette 1.0 with Claude skills</title>
-      <link>https://simonwillison.net/2026/Mar/22/starlette/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/22/starlette/#atom-everything</guid>
-      <pubDate>Sun, 22 Mar 2026 23:57:44 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>"Collaboration" is bullshit.</title>
-      <link>https://www.joanwestenberg.com/collaboration-is-bullshit/</link>
-      <guid isPermaLink="true">https://www.joanwestenberg.com/collaboration-is-bullshit/</guid>
-      <pubDate>Sun, 22 Mar 2026 23:31:25 +0000</pubDate>
-      <description>Westenberg.</description>
     </item>
   </channel>
 </rss>
