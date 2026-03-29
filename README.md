@@ -208,11 +208,11 @@ Last Updated: Sunday, March 29th, 2026, 8:42:08 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [The Roles of Packages](https://nesbitt.io/2026/03/29/the-roles-of-packages.html) — *Andrew Nesbitt* `03-29`
 - [New old systems in the age of hardware shortages](https://utcc.utoronto.ca/~cks/space/blog/tech/NewOldSystems) — *Chris's Wiki :: blog* `03-29`
 - [6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator](https://oldvcr.blogspot.com/2026/03/6o6-v11-faster-6502-on-6502.html) — *Old Vintage Computing Research* `03-29`
 - [The 2019 Intel Mac Pro’s Unfortunate Timing](https://512pixels.net/2026/03/how-apple-could-have-saved-the-mac-pro/) — *Daring Fireball* `03-28`
 - [Apple Should Set and Enforce Some Basic Standards for Custom Video Players on tvOS](https://daringfireball.net/2024/03/quickly_toggling_closed_captions_on_apple_tv) — *Daring Fireball* `03-28`
-- [‘How Apple Became Apple: The Definitive Oral History of the Company’s Earliest Days’](https://www.fastcompany.com/91514404/apple-founding-50th-anniversary-apple-1-apple-ii-jobs-wozniak?mvgt=E5Loo3fO74zl) — *Daring Fireball* `03-28`
 <!--BLOG_RADAR:end-->
 
 ---
