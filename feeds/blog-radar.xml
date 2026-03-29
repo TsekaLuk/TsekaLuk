@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 29 Mar 2026 03:21:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 07:14:34 +0000</lastBuildDate>
     <item>
       <title>New old systems in the age of hardware shortages</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/tech/NewOldSystems</link>
@@ -265,18 +265,18 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>Endgame for the Open Web</title>
-      <link>https://anildash.com/2026/03/27/endgame-open-web/</link>
-      <guid isPermaLink="true">https://anildash.com/2026/03/27/endgame-open-web/</guid>
-      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Anil Dash</description>
-    </item>
-    <item>
       <title>Using Perfetto in ZJIT</title>
       <link>https://bernsteinbear.com/blog/zjit-perfetto/?utm_source=rss</link>
       <guid isPermaLink="true">https://bernsteinbear.com/blog/zjit-perfetto/?utm_source=rss</guid>
       <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
       <description>Max Bernstein's Blog</description>
+    </item>
+    <item>
+      <title>Endgame for the Open Web</title>
+      <link>https://anildash.com/2026/03/27/endgame-open-web/</link>
+      <guid isPermaLink="true">https://anildash.com/2026/03/27/endgame-open-web/</guid>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Anil Dash</description>
     </item>
     <item>
       <title>My minute-by-minute response to the LiteLLM malware attack</title>
