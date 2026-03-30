@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 30 Mar 2026 07:54:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 13:50:41 +0000</lastBuildDate>
+    <item>
+      <title>How Do We Get Developers to Read the Docs</title>
+      <link>https://idiallo.com/blog/how-do-we-get-developers-to-read-the-docs?src=feed</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/how-do-we-get-developers-to-read-the-docs?src=feed</guid>
+      <pubDate>Mon, 30 Mar 2026 12:00:00 +0000</pubDate>
+      <description>iDiallo.com</description>
+    </item>
+    <item>
+      <title>Gig Review: Vitamin String Quartet at The Barbican ★★★★★</title>
+      <link>https://shkspr.mobi/blog/2026/03/gig-review-vitamin-string-quartet-at-the-barbican/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/03/gig-review-vitamin-string-quartet-at-the-barbican/</guid>
+      <pubDate>Mon, 30 Mar 2026 11:34:35 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Git Diff Drivers</title>
+      <link>https://nesbitt.io/2026/03/30/git-diff-drivers.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/03/30/git-diff-drivers.html</guid>
+      <pubDate>Mon, 30 Mar 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
     <item>
       <title>Notes on going solo: celebrating 6 years of Studio Self</title>
       <link>https://www.joanwestenberg.com/notes-on-going-solo-celebrating-6-years-of-studio-self/</link>
@@ -18,6 +39,13 @@
       <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OurServerAges2026</guid>
       <pubDate>Mon, 30 Mar 2026 02:25:46 +0000</pubDate>
       <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>Small note about AI 'GPUs'</title>
+      <link>https://xeiaso.net/notes/2026/ai-gpus-cant-process-graphics/</link>
+      <guid isPermaLink="true">https://xeiaso.net/notes/2026/ai-gpus-cant-process-graphics/</guid>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>WorkOS</title>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://www.gilesthomas.com/2026/03/llm-from-scratch-32f-interventions-weight-decay</guid>
       <pubDate>Mon, 23 Mar 2026 23:55:00 +0000</pubDate>
       <description>Giles' blog</description>
-    </item>
-    <item>
-      <title>Quoting Neurotica</title>
-      <link>https://simonwillison.net/2026/Mar/23/neurotica/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/23/neurotica/#atom-everything</guid>
-      <pubDate>Mon, 23 Mar 2026 23:31:45 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>datasette-files 0.1a2</title>
-      <link>https://simonwillison.net/2026/Mar/23/datasette-files/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/23/datasette-files/#atom-everything</guid>
-      <pubDate>Mon, 23 Mar 2026 23:06:38 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Lines of code are useful</title>
-      <link>https://entropicthoughts.com/lines-of-code</link>
-      <guid isPermaLink="true">https://entropicthoughts.com/lines-of-code</guid>
-      <pubDate>Mon, 23 Mar 2026 23:00:00 +0000</pubDate>
-      <description>Entropic Thoughts</description>
-    </item>
-    <item>
-      <title>Gasoline Prices Around the World</title>
-      <link>https://www.globalpetrolprices.com/gasoline_prices/</link>
-      <guid isPermaLink="true">https://www.globalpetrolprices.com/gasoline_prices/</guid>
-      <pubDate>Mon, 23 Mar 2026 20:48:18 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>

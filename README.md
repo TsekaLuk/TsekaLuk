@@ -208,11 +208,11 @@ Last Updated: Monday, March 30th, 2026, 9:06:41 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [How Do We Get Developers to Read the Docs](https://idiallo.com/blog/how-do-we-get-developers-to-read-the-docs?src=feed) — *iDiallo.com* `03-30`
+- [Gig Review: Vitamin String Quartet at The Barbican ★★★★★](https://shkspr.mobi/blog/2026/03/gig-review-vitamin-string-quartet-at-the-barbican/) — *Terence Eden’s Blog* `03-30`
+- [Git Diff Drivers](https://nesbitt.io/2026/03/30/git-diff-drivers.html) — *Andrew Nesbitt* `03-30`
 - [Notes on going solo: celebrating 6 years of Studio Self](https://www.joanwestenberg.com/notes-on-going-solo-celebrating-6-years-of-studio-self/) — *Westenberg.* `03-30`
 - [How old our servers are (as of 2026)](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OurServerAges2026) — *Chris's Wiki :: blog* `03-30`
-- [WorkOS](https://workos.com/docs/authkit/cli-installer?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q12026) — *Daring Fireball* `03-29`
-- [The Talk Show: ‘You’re Going to Have the Niggles’](https://daringfireball.net/thetalkshow/2026/03/29/ep-444) — *Daring Fireball* `03-29`
-- [Version History: ‘The Macintosh’](https://www.theverge.com/podcast/903068/macintosh-1984-version-history) — *Daring Fireball* `03-29`
 <!--BLOG_RADAR:end-->
 
 ---
