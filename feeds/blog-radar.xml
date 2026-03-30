@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 30 Mar 2026 03:24:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 07:54:18 +0000</lastBuildDate>
+    <item>
+      <title>Notes on going solo: celebrating 6 years of Studio Self</title>
+      <link>https://www.joanwestenberg.com/notes-on-going-solo-celebrating-6-years-of-studio-self/</link>
+      <guid isPermaLink="true">https://www.joanwestenberg.com/notes-on-going-solo-celebrating-6-years-of-studio-self/</guid>
+      <pubDate>Mon, 30 Mar 2026 05:55:34 +0000</pubDate>
+      <description>Westenberg.</description>
+    </item>
     <item>
       <title>How old our servers are (as of 2026)</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OurServerAges2026</link>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://www.globalpetrolprices.com/gasoline_prices/</guid>
       <pubDate>Mon, 23 Mar 2026 20:48:18 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Quoting David Abram</title>
-      <link>https://simonwillison.net/2026/Mar/23/david-abram/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/23/david-abram/#atom-everything</guid>
-      <pubDate>Mon, 23 Mar 2026 18:56:18 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>

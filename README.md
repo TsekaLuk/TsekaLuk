@@ -208,11 +208,11 @@ Last Updated: Monday, March 30th, 2026, 3:19:59 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Notes on going solo: celebrating 6 years of Studio Self](https://www.joanwestenberg.com/notes-on-going-solo-celebrating-6-years-of-studio-self/) — *Westenberg.* `03-30`
 - [How old our servers are (as of 2026)](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OurServerAges2026) — *Chris's Wiki :: blog* `03-30`
 - [WorkOS](https://workos.com/docs/authkit/cli-installer?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q12026) — *Daring Fireball* `03-29`
 - [The Talk Show: ‘You’re Going to Have the Niggles’](https://daringfireball.net/thetalkshow/2026/03/29/ep-444) — *Daring Fireball* `03-29`
 - [Version History: ‘The Macintosh’](https://www.theverge.com/podcast/903068/macintosh-1984-version-history) — *Daring Fireball* `03-29`
-- [The Verge: ‘Rank the Best Apple Products From the Last 50 Years’](https://www.theverge.com/cs/tech/900477/apple-50-anniversary-rank-products) — *Daring Fireball* `03-29`
 <!--BLOG_RADAR:end-->
 
 ---
