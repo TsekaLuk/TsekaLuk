@@ -208,11 +208,11 @@ Last Updated: Monday, March 30th, 2026, 9:59:35 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history](http://www.righto.com/2026/03/ibm-4-pi-computer-history.html) — *Ken Shirriff's blog* `03-29`
-- [The Roles of Packages](https://nesbitt.io/2026/03/29/the-roles-of-packages.html) — *Andrew Nesbitt* `03-29`
-- [New old systems in the age of hardware shortages](https://utcc.utoronto.ca/~cks/space/blog/tech/NewOldSystems) — *Chris's Wiki :: blog* `03-29`
-- [6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator](https://oldvcr.blogspot.com/2026/03/6o6-v11-faster-6502-on-6502.html) — *Old Vintage Computing Research* `03-29`
-- [The 2019 Intel Mac Pro’s Unfortunate Timing](https://512pixels.net/2026/03/how-apple-could-have-saved-the-mac-pro/) — *Daring Fireball* `03-28`
+- [How old our servers are (as of 2026)](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OurServerAges2026) — *Chris's Wiki :: blog* `03-30`
+- [WorkOS](https://workos.com/docs/authkit/cli-installer?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q12026) — *Daring Fireball* `03-29`
+- [The Talk Show: ‘You’re Going to Have the Niggles’](https://daringfireball.net/thetalkshow/2026/03/29/ep-444) — *Daring Fireball* `03-29`
+- [Version History: ‘The Macintosh’](https://www.theverge.com/podcast/903068/macintosh-1984-version-history) — *Daring Fireball* `03-29`
+- [The Verge: ‘Rank the Best Apple Products From the Last 50 Years’](https://www.theverge.com/cs/tech/900477/apple-50-anniversary-rank-products) — *Daring Fireball* `03-29`
 <!--BLOG_RADAR:end-->
 
 ---

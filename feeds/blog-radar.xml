@@ -4,7 +4,63 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 29 Mar 2026 18:54:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 03:24:52 +0000</lastBuildDate>
+    <item>
+      <title>How old our servers are (as of 2026)</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OurServerAges2026</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OurServerAges2026</guid>
+      <pubDate>Mon, 30 Mar 2026 02:25:46 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>WorkOS</title>
+      <link>https://workos.com/docs/authkit/cli-installer?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q12026</link>
+      <guid isPermaLink="true">https://workos.com/docs/authkit/cli-installer?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q12026</guid>
+      <pubDate>Sun, 29 Mar 2026 20:50:00 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>The Talk Show: ‘You’re Going to Have the Niggles’</title>
+      <link>https://daringfireball.net/thetalkshow/2026/03/29/ep-444</link>
+      <guid isPermaLink="true">https://daringfireball.net/thetalkshow/2026/03/29/ep-444</guid>
+      <pubDate>Sun, 29 Mar 2026 20:49:00 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Version History: ‘The Macintosh’</title>
+      <link>https://www.theverge.com/podcast/903068/macintosh-1984-version-history</link>
+      <guid isPermaLink="true">https://www.theverge.com/podcast/903068/macintosh-1984-version-history</guid>
+      <pubDate>Sun, 29 Mar 2026 20:48:36 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>The Verge: ‘Rank the Best Apple Products From the Last 50 Years’</title>
+      <link>https://www.theverge.com/cs/tech/900477/apple-50-anniversary-rank-products</link>
+      <guid isPermaLink="true">https://www.theverge.com/cs/tech/900477/apple-50-anniversary-rank-products</guid>
+      <pubDate>Sun, 29 Mar 2026 20:11:49 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Pretext</title>
+      <link>https://simonwillison.net/2026/Mar/29/pretext/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/29/pretext/#atom-everything</guid>
+      <pubDate>Sun, 29 Mar 2026 20:08:45 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Pretext — Under the Hood</title>
+      <link>https://simonwillison.net/2026/Mar/29/pretext-explainer/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/29/pretext-explainer/#atom-everything</guid>
+      <pubDate>Sun, 29 Mar 2026 19:59:28 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Python Vulnerability Lookup</title>
+      <link>https://simonwillison.net/2026/Mar/29/python-vulnerability-lookup/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/29/python-vulnerability-lookup/#atom-everything</guid>
+      <pubDate>Sun, 29 Mar 2026 18:46:16 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history</title>
       <link>http://www.righto.com/2026/03/ibm-4-pi-computer-history.html</link>
@@ -32,6 +88,13 @@
       <guid isPermaLink="true">https://oldvcr.blogspot.com/2026/03/6o6-v11-faster-6502-on-6502.html</guid>
       <pubDate>Sun, 29 Mar 2026 02:30:00 +0000</pubDate>
       <description>Old Vintage Computing Research</description>
+    </item>
+    <item>
+      <title>telecheck and tyms past</title>
+      <link>https://computer.rip/2026-03-29-telecheck-and-tyms-past.html</link>
+      <guid isPermaLink="true">https://computer.rip/2026-03-29-telecheck-and-tyms-past.html</guid>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <description>computers are bad</description>
     </item>
     <item>
       <title>The 2019 Intel Mac Pro’s Unfortunate Timing</title>
@@ -727,13 +790,6 @@
       <description>Chris's Wiki :: blog</description>
     </item>
     <item>
-      <title>[Sponsor] npx workos: From Auth Integration to Environment Management, Zero ClickOps</title>
-      <link>https://workos.com/docs/authkit/cli-installer?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q12026</link>
-      <guid isPermaLink="true">https://workos.com/docs/authkit/cli-installer?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q12026</guid>
-      <pubDate>Tue, 24 Mar 2026 00:05:06 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
       <title>Pebble Time 2 Is In Mass Production!</title>
       <link>https://repebble.com/blog/pebble-time-2-is-in-mass-production</link>
       <guid isPermaLink="true">https://repebble.com/blog/pebble-time-2-is-in-mass-production</guid>
@@ -788,62 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Mar/23/david-abram/#atom-everything</guid>
       <pubDate>Mon, 23 Mar 2026 18:56:18 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>WWDC 2026: June 8–12</title>
-      <link>https://www.apple.com/newsroom/2026/03/apples-worldwide-developers-conference-returns-the-week-of-june-8/</link>
-      <guid isPermaLink="true">https://www.apple.com/newsroom/2026/03/apples-worldwide-developers-conference-returns-the-week-of-june-8/</guid>
-      <pubDate>Mon, 23 Mar 2026 18:20:04 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>From the DF Archive, a Decade Ago: ‘The Industry Is Fucked Up’</title>
-      <link>https://daringfireball.net/linked/2015/07/09/ritchie-bad-ads</link>
-      <guid isPermaLink="true">https://daringfireball.net/linked/2015/07/09/ritchie-bad-ads</guid>
-      <pubDate>Mon, 23 Mar 2026 18:09:32 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The HTML Review: Issue 05</title>
-      <link>https://thehtml.review/05/</link>
-      <guid isPermaLink="true">https://thehtml.review/05/</guid>
-      <pubDate>Mon, 23 Mar 2026 17:40:05 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>‘CanisterWorm’ Springs Wiper Attack Targeting Iran</title>
-      <link>https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/</link>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/</guid>
-      <pubDate>Mon, 23 Mar 2026 15:43:04 +0000</pubDate>
-      <description>Krebs on Security</description>
-    </item>
-    <item>
-      <title>How can I make sure the anti-malware software doesn’t terminate my custom service?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260323-00/?p=112157</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260323-00/?p=112157</guid>
-      <pubDate>Mon, 23 Mar 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>The Pancake Discussion</title>
-      <link>https://feed.tedium.co/link/15204/17304313/social-media-flat-discussion</link>
-      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17304313/social-media-flat-discussion</guid>
-      <pubDate>Mon, 23 Mar 2026 13:17:36 +0000</pubDate>
-      <description>Tedium: The Dull Side of the Internet.</description>
-    </item>
-    <item>
-      <title>Markdown Ate The World</title>
-      <link>https://matduggan.com/markdown-ate-the-world/</link>
-      <guid isPermaLink="true">https://matduggan.com/markdown-ate-the-world/</guid>
-      <pubDate>Mon, 23 Mar 2026 12:14:44 +0000</pubDate>
-      <description>matduggan.com</description>
-    </item>
-    <item>
-      <title>The nth War of the Decade</title>
-      <link>https://idiallo.com/blog/the-n-war-of-the-decade?src=feed</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/the-n-war-of-the-decade?src=feed</guid>
-      <pubDate>Mon, 23 Mar 2026 12:00:00 +0000</pubDate>
-      <description>iDiallo.com</description>
     </item>
   </channel>
 </rss>
