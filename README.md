@@ -208,11 +208,11 @@ Last Updated: Tuesday, March 31st, 2026, 2:53:03 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [How Do We Get Developers to Read the Docs](https://idiallo.com/blog/how-do-we-get-developers-to-read-the-docs?src=feed) — *iDiallo.com* `03-30`
-- [Gig Review: Vitamin String Quartet at The Barbican ★★★★★](https://shkspr.mobi/blog/2026/03/gig-review-vitamin-string-quartet-at-the-barbican/) — *Terence Eden’s Blog* `03-30`
-- [Git Diff Drivers](https://nesbitt.io/2026/03/30/git-diff-drivers.html) — *Andrew Nesbitt* `03-30`
-- [Notes on going solo: celebrating 6 years of Studio Self](https://www.joanwestenberg.com/notes-on-going-solo-celebrating-6-years-of-studio-self/) — *Westenberg.* `03-30`
-- [How old our servers are (as of 2026)](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OurServerAges2026) — *Chris's Wiki :: blog* `03-30`
+- [HIBP Mega Update: Passkeys, k-Anonymity Searches, Massive Speed Enhancements and a Bulk Domain Verification API](https://www.troyhunt.com/passkeys-k-anonymity-searches-massive-speed-enhancements-bulk-domain-verification-api/) — *Troy Hunt* `03-30`
+- [Pluralistic: Market participation is exhausting (30 Mar 2026)](https://pluralistic.net/2026/03/30/players-of-games/) — *Pluralistic: Daily links from Cory Doctorow* `03-30`
+- [The Webs Digital Locks have Never had a Stronger Opponent](https://blog.pixelmelt.dev/the-webs-digital-locks/) — *Cats with power tools* `03-30`
+- [‘The Brand Age’](https://paulgraham.com/brandage.html) — *Daring Fireball* `03-30`
+- [Macs of Unusual Size](https://scottknaster.substack.com/p/macs-of-unusual-size) — *Daring Fireball* `03-30`
 <!--BLOG_RADAR:end-->
 
 ---
