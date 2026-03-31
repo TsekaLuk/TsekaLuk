@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 31 Mar 2026 07:27:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 13:50:08 +0000</lastBuildDate>
+    <item>
+      <title>Solving Yesterday’s Problems Will Kill You</title>
+      <link>https://steveblank.com/2026/03/31/solving-yesterdays-problems-will-kill-you/</link>
+      <guid isPermaLink="true">https://steveblank.com/2026/03/31/solving-yesterdays-problems-will-kill-you/</guid>
+      <pubDate>Tue, 31 Mar 2026 13:00:48 +0000</pubDate>
+      <description>Steve Blank</description>
+    </item>
+    <item>
+      <title>Morse code tree</title>
+      <link>https://www.johndcook.com/blog/2026/03/31/morse-code-tree/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/03/31/morse-code-tree/</guid>
+      <pubDate>Tue, 31 Mar 2026 12:12:31 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Pluralistic: State Dems must stop ICE from stealing the midterms (31 Mar 2026)</title>
+      <link>https://pluralistic.net/2026/03/31/actual-federalist-society/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/03/31/actual-federalist-society/</guid>
+      <pubDate>Tue, 31 Mar 2026 10:00:59 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
     <item>
       <title>Here in 2026, we're retaining old systems instead of discarding them</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/RetainingOldSystems2026</link>
@@ -25,6 +46,13 @@
       <guid isPermaLink="true">https://www.joanwestenberg.com/the-worlds-first-bullshit/</guid>
       <pubDate>Tue, 31 Mar 2026 00:20:34 +0000</pubDate>
       <description>Westenberg.</description>
+    </item>
+    <item>
+      <title>Making human languages irrelevant</title>
+      <link>https://rakhim.exotext.com/making-human-languages-irrelevant</link>
+      <guid isPermaLink="true">https://rakhim.exotext.com/making-human-languages-irrelevant</guid>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Rakhim's blog</description>
     </item>
     <item>
       <title>datasette-files 0.1a3</title>
@@ -100,6 +128,13 @@
       <title>Clip Show</title>
       <link>https://geohot.github.io//blog/jekyll/update/2026/03/31/clip-show.html</link>
       <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/03/31/clip-show.html</guid>
+      <pubDate>Mon, 30 Mar 2026 16:00:00 +0000</pubDate>
+      <description>the singularity is nearer</description>
+    </item>
+    <item>
+      <title>Closed Source AI = Neofeudalism</title>
+      <link>https://geohot.github.io//blog/jekyll/update/2026/03/31/free-intelligence.html</link>
+      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/03/31/free-intelligence.html</guid>
       <pubDate>Mon, 30 Mar 2026 16:00:00 +0000</pubDate>
       <description>the singularity is nearer</description>
     </item>
@@ -809,41 +844,6 @@
       <guid isPermaLink="true">https://refactoringenglish.com/blog/ai-vs-human-design-doc/</guid>
       <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
       <description>Refactoring English</description>
-    </item>
-    <item>
-      <title>Auto mode for Claude Code</title>
-      <link>https://simonwillison.net/2026/Mar/24/auto-mode-for-claude-code/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/24/auto-mode-for-claude-code/#atom-everything</guid>
-      <pubDate>Tue, 24 Mar 2026 23:57:33 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Following Google’s Lead With Pixel Phones, Samsung Announces AirDrop Support With Galaxy S26 Phones</title>
-      <link>https://news.samsung.com/us/samsung-airdrop-quick-share-galaxy-s26-series/</link>
-      <guid isPermaLink="true">https://news.samsung.com/us/samsung-airdrop-quick-share-galaxy-s26-series/</guid>
-      <pubDate>Tue, 24 Mar 2026 21:39:04 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Package Managers Need to Cool Down</title>
-      <link>https://simonwillison.net/2026/Mar/24/package-managers-need-to-cool-down/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/24/package-managers-need-to-cool-down/#atom-everything</guid>
-      <pubDate>Tue, 24 Mar 2026 21:11:38 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Quoting Christopher Mims</title>
-      <link>https://simonwillison.net/2026/Mar/24/christopher-mims/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/24/christopher-mims/#atom-everything</guid>
-      <pubDate>Tue, 24 Mar 2026 20:35:52 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Writing an LLM from scratch, part 32g -- Interventions: weight tying</title>
-      <link>https://www.gilesthomas.com/2026/03/llm-from-scratch-32g-interventions-weight-tying</link>
-      <guid isPermaLink="true">https://www.gilesthomas.com/2026/03/llm-from-scratch-32g-interventions-weight-tying</guid>
-      <pubDate>Tue, 24 Mar 2026 19:50:00 +0000</pubDate>
-      <description>Giles' blog</description>
     </item>
   </channel>
 </rss>

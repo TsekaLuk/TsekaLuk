@@ -208,11 +208,11 @@ Last Updated: Tuesday, March 31st, 2026, 9:05:16 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Solving Yesterday’s Problems Will Kill You](https://steveblank.com/2026/03/31/solving-yesterdays-problems-will-kill-you/) — *Steve Blank* `03-31`
+- [Morse code tree](https://www.johndcook.com/blog/2026/03/31/morse-code-tree/) — *John D. Cook* `03-31`
+- [Pluralistic: State Dems must stop ICE from stealing the midterms (31 Mar 2026)](https://pluralistic.net/2026/03/31/actual-federalist-society/) — *Pluralistic: Daily links from Cory Doctorow* `03-31`
 - [Here in 2026, we're retaining old systems instead of discarding them](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/RetainingOldSystems2026) — *Chris's Wiki :: blog* `03-31`
 - [Weekly Update 497](https://www.troyhunt.com/weekly-update-497/) — *Troy Hunt* `03-31`
-- [The World's First Bullshit](https://www.joanwestenberg.com/the-worlds-first-bullshit/) — *Westenberg.* `03-31`
-- [datasette-files 0.1a3](https://simonwillison.net/2026/Mar/30/datasette-files/#atom-everything) — *Simon Willison's Weblog* `03-30`
-- [Quoting Georgi Gerganov](https://simonwillison.net/2026/Mar/30/georgi-gerganov/#atom-everything) — *Simon Willison's Weblog* `03-30`
 <!--BLOG_RADAR:end-->
 
 ---
