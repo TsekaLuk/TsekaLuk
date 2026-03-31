@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 31 Mar 2026 02:57:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 07:27:15 +0000</lastBuildDate>
     <item>
       <title>Here in 2026, we're retaining old systems instead of discarding them</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/RetainingOldSystems2026</link>
@@ -97,6 +97,13 @@
       <description>Daring Fireball</description>
     </item>
     <item>
+      <title>Clip Show</title>
+      <link>https://geohot.github.io//blog/jekyll/update/2026/03/31/clip-show.html</link>
+      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/03/31/clip-show.html</guid>
+      <pubDate>Mon, 30 Mar 2026 16:00:00 +0000</pubDate>
+      <description>the singularity is nearer</description>
+    </item>
+    <item>
       <title>Mr. Chatterbox is a (weak) Victorian-era ethically trained model you can run on your own computer</title>
       <link>https://simonwillison.net/2026/Mar/30/mr-chatterbox/#atom-everything</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Mar/30/mr-chatterbox/#atom-everything</guid>
@@ -158,6 +165,13 @@
       <guid isPermaLink="true">https://xeiaso.net/notes/2026/ai-gpus-cant-process-graphics/</guid>
       <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>Mar '26 Notes</title>
+      <link>https://susam.net/26c.html</link>
+      <guid isPermaLink="true">https://susam.net/26c.html</guid>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Susam Pal</description>
     </item>
     <item>
       <title>WorkOS</title>
@@ -349,7 +363,7 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Fork Commits via Original Repository</title>
+      <title>Accessing Fork Commits via Original Repository</title>
       <link>https://susam.net/fork-commits-via-original-repo.html</link>
       <guid isPermaLink="true">https://susam.net/fork-commits-via-original-repo.html</guid>
       <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
@@ -440,18 +454,18 @@
       <description>Aresluna</description>
     </item>
     <item>
-      <title>What if a dialog wants to intercept its own message loop?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260327-00/?p=112172</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260327-00/?p=112172</guid>
-      <pubDate>Fri, 27 Mar 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
       <title>Bring back MiniDV with this Raspberry Pi FireWire HAT</title>
       <link>https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/</link>
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/</guid>
       <pubDate>Fri, 27 Mar 2026 14:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>What if a dialog wants to intercept its own message loop?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260327-00/?p=112172</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260327-00/?p=112172</guid>
+      <pubDate>Fri, 27 Mar 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>The Age of the Amplifier</title>
@@ -496,18 +510,18 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>Endgame for the Open Web</title>
-      <link>https://anildash.com/2026/03/27/endgame-open-web/</link>
-      <guid isPermaLink="true">https://anildash.com/2026/03/27/endgame-open-web/</guid>
-      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Anil Dash</description>
-    </item>
-    <item>
       <title>Using Perfetto in ZJIT</title>
       <link>https://bernsteinbear.com/blog/zjit-perfetto/?utm_source=rss</link>
       <guid isPermaLink="true">https://bernsteinbear.com/blog/zjit-perfetto/?utm_source=rss</guid>
       <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
       <description>Max Bernstein's Blog</description>
+    </item>
+    <item>
+      <title>Endgame for the Open Web</title>
+      <link>https://anildash.com/2026/03/27/endgame-open-web/</link>
+      <guid isPermaLink="true">https://anildash.com/2026/03/27/endgame-open-web/</guid>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Anil Dash</description>
     </item>
     <item>
       <title>My minute-by-minute response to the LiteLLM malware attack</title>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://www.gilesthomas.com/2026/03/llm-from-scratch-32g-interventions-weight-tying</guid>
       <pubDate>Tue, 24 Mar 2026 19:50:00 +0000</pubDate>
       <description>Giles' blog</description>
-    </item>
-    <item>
-      <title>★ What to Do About Those Menu Item Icons in MacOS 26 Tahoe</title>
-      <link>https://daringfireball.net/2026/03/what_to_do_about_those_menu_item_icons_in_macos_26_tahoe</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/03/what_to_do_about_those_menu_item_icons_in_macos_26_tahoe</guid>
-      <pubDate>Tue, 24 Mar 2026 19:36:58 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Code as a Tool of Process</title>
-      <link>https://blog.jim-nielsen.com/2026/code-as-process/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/code-as-process/</guid>
-      <pubDate>Tue, 24 Mar 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
     </item>
   </channel>
 </rss>
