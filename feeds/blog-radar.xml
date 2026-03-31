@@ -4,7 +4,63 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 30 Mar 2026 19:10:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 02:57:33 +0000</lastBuildDate>
+    <item>
+      <title>Here in 2026, we're retaining old systems instead of discarding them</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/RetainingOldSystems2026</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/RetainingOldSystems2026</guid>
+      <pubDate>Tue, 31 Mar 2026 02:45:31 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>Weekly Update 497</title>
+      <link>https://www.troyhunt.com/weekly-update-497/</link>
+      <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-497/</guid>
+      <pubDate>Tue, 31 Mar 2026 00:41:44 +0000</pubDate>
+      <description>Troy Hunt</description>
+    </item>
+    <item>
+      <title>The World's First Bullshit</title>
+      <link>https://www.joanwestenberg.com/the-worlds-first-bullshit/</link>
+      <guid isPermaLink="true">https://www.joanwestenberg.com/the-worlds-first-bullshit/</guid>
+      <pubDate>Tue, 31 Mar 2026 00:20:34 +0000</pubDate>
+      <description>Westenberg.</description>
+    </item>
+    <item>
+      <title>datasette-files 0.1a3</title>
+      <link>https://simonwillison.net/2026/Mar/30/datasette-files/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/30/datasette-files/#atom-everything</guid>
+      <pubDate>Mon, 30 Mar 2026 23:58:49 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Quoting Georgi Gerganov</title>
+      <link>https://simonwillison.net/2026/Mar/30/georgi-gerganov/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/30/georgi-gerganov/#atom-everything</guid>
+      <pubDate>Mon, 30 Mar 2026 21:31:02 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>[Sponsor] Material Security</title>
+      <link>https://material.security/lp-cloud-office-security?utm_source=third-party&amp;utm_medium=email&amp;utm_campaign=20260330-daringfireball</link>
+      <guid isPermaLink="true">https://material.security/lp-cloud-office-security?utm_source=third-party&amp;utm_medium=email&amp;utm_campaign=20260330-daringfireball</guid>
+      <pubDate>Mon, 30 Mar 2026 21:23:19 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>datasette-llm 0.1a3</title>
+      <link>https://simonwillison.net/2026/Mar/30/datasette-llm/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/30/datasette-llm/#atom-everything</guid>
+      <pubDate>Mon, 30 Mar 2026 19:48:43 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Continuous, Continuous, Continuous</title>
+      <link>https://blog.jim-nielsen.com/2026/continuous-continuous-continuous/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/continuous-continuous-continuous/</guid>
+      <pubDate>Mon, 30 Mar 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
+    </item>
     <item>
       <title>HIBP Mega Update: Passkeys, k-Anonymity Searches, Massive Speed Enhancements and a Bulk Domain Verification API</title>
       <link>https://www.troyhunt.com/passkeys-k-anonymity-searches-massive-speed-enhancements-bulk-domain-verification-api/</link>
@@ -440,18 +496,18 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>Using Perfetto in ZJIT</title>
-      <link>https://bernsteinbear.com/blog/zjit-perfetto/?utm_source=rss</link>
-      <guid isPermaLink="true">https://bernsteinbear.com/blog/zjit-perfetto/?utm_source=rss</guid>
-      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Max Bernstein's Blog</description>
-    </item>
-    <item>
       <title>Endgame for the Open Web</title>
       <link>https://anildash.com/2026/03/27/endgame-open-web/</link>
       <guid isPermaLink="true">https://anildash.com/2026/03/27/endgame-open-web/</guid>
       <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
       <description>Anil Dash</description>
+    </item>
+    <item>
+      <title>Using Perfetto in ZJIT</title>
+      <link>https://bernsteinbear.com/blog/zjit-perfetto/?utm_source=rss</link>
+      <guid isPermaLink="true">https://bernsteinbear.com/blog/zjit-perfetto/?utm_source=rss</guid>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Max Bernstein's Blog</description>
     </item>
     <item>
       <title>My minute-by-minute response to the LiteLLM malware attack</title>
@@ -788,62 +844,6 @@
       <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/code-as-process/</guid>
       <pubDate>Tue, 24 Mar 2026 19:00:00 +0000</pubDate>
       <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
-      <title>The AI Industry Is Lying To You</title>
-      <link>https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/</guid>
-      <pubDate>Tue, 24 Mar 2026 17:25:52 +0000</pubDate>
-      <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>Using FireWire on a Raspberry Pi</title>
-      <link>https://www.jeffgeerling.com/blog/2026/firewire-on-a-raspberry-pi/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/firewire-on-a-raspberry-pi/</guid>
-      <pubDate>Tue, 24 Mar 2026 16:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
-      <title>Malicious litellm_init.pth in litellm 1.82.8 — credential stealer</title>
-      <link>https://simonwillison.net/2026/Mar/24/malicious-litellm/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/24/malicious-litellm/#atom-everything</guid>
-      <pubDate>Tue, 24 Mar 2026 15:07:31 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>From Mendeleev to Fourier</title>
-      <link>https://www.johndcook.com/blog/2026/03/24/from-mendeleev-to-fourier/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/03/24/from-mendeleev-to-fourier/</guid>
-      <pubDate>Tue, 24 Mar 2026 15:01:35 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Choose Boring Technology and Innovative Practices</title>
-      <link>https://buttondown.com/hillelwayne/archive/choose-boring-technology-and-innovative-practices/</link>
-      <guid isPermaLink="true">https://buttondown.com/hillelwayne/archive/choose-boring-technology-and-innovative-practices/</guid>
-      <pubDate>Tue, 24 Mar 2026 14:38:06 +0000</pubDate>
-      <description>Computer Things</description>
-    </item>
-    <item>
-      <title>Windows 95 defenses against installers that overwrite a file with an older version</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260324-00/?p=112159</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260324-00/?p=112159</guid>
-      <pubDate>Tue, 24 Mar 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Mendeleev’s inequality</title>
-      <link>https://www.johndcook.com/blog/2026/03/24/mendeleevs-inequality/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/03/24/mendeleevs-inequality/</guid>
-      <pubDate>Tue, 24 Mar 2026 12:47:32 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Book Review: If We Cannot Go at the Speed of Light by Kim Choyeop ★★☆☆☆</title>
-      <link>https://shkspr.mobi/blog/2026/03/book-review-if-we-cannot-go-at-the-speed-of-light-by-kim-choyeop/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/03/book-review-if-we-cannot-go-at-the-speed-of-light-by-kim-choyeop/</guid>
-      <pubDate>Tue, 24 Mar 2026 12:34:27 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
   </channel>
 </rss>

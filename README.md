@@ -208,11 +208,11 @@ Last Updated: Tuesday, March 31st, 2026, 9:55:26 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [HIBP Mega Update: Passkeys, k-Anonymity Searches, Massive Speed Enhancements and a Bulk Domain Verification API](https://www.troyhunt.com/passkeys-k-anonymity-searches-massive-speed-enhancements-bulk-domain-verification-api/) — *Troy Hunt* `03-30`
-- [Pluralistic: Market participation is exhausting (30 Mar 2026)](https://pluralistic.net/2026/03/30/players-of-games/) — *Pluralistic: Daily links from Cory Doctorow* `03-30`
-- [The Webs Digital Locks have Never had a Stronger Opponent](https://blog.pixelmelt.dev/the-webs-digital-locks/) — *Cats with power tools* `03-30`
-- [‘The Brand Age’](https://paulgraham.com/brandage.html) — *Daring Fireball* `03-30`
-- [Macs of Unusual Size](https://scottknaster.substack.com/p/macs-of-unusual-size) — *Daring Fireball* `03-30`
+- [Here in 2026, we're retaining old systems instead of discarding them](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/RetainingOldSystems2026) — *Chris's Wiki :: blog* `03-31`
+- [Weekly Update 497](https://www.troyhunt.com/weekly-update-497/) — *Troy Hunt* `03-31`
+- [The World's First Bullshit](https://www.joanwestenberg.com/the-worlds-first-bullshit/) — *Westenberg.* `03-31`
+- [datasette-files 0.1a3](https://simonwillison.net/2026/Mar/30/datasette-files/#atom-everything) — *Simon Willison's Weblog* `03-30`
+- [Quoting Georgi Gerganov](https://simonwillison.net/2026/Mar/30/georgi-gerganov/#atom-everything) — *Simon Willison's Weblog* `03-30`
 <!--BLOG_RADAR:end-->
 
 ---
