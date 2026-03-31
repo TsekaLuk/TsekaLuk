@@ -208,11 +208,11 @@ Last Updated: Wednesday, April 1st, 2026, 2:55:00 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Solving Yesterday’s Problems Will Kill You](https://steveblank.com/2026/03/31/solving-yesterdays-problems-will-kill-you/) — *Steve Blank* `03-31`
-- [Morse code tree](https://www.johndcook.com/blog/2026/03/31/morse-code-tree/) — *John D. Cook* `03-31`
-- [Pluralistic: State Dems must stop ICE from stealing the midterms (31 Mar 2026)](https://pluralistic.net/2026/03/31/actual-federalist-society/) — *Pluralistic: Daily links from Cory Doctorow* `03-31`
-- [Here in 2026, we're retaining old systems instead of discarding them](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/RetainingOldSystems2026) — *Chris's Wiki :: blog* `03-31`
-- [Weekly Update 497](https://www.troyhunt.com/weekly-update-497/) — *Troy Hunt* `03-31`
+- [The Subprime AI Crisis Is Here](https://www.wheresyoured.at/the-subprime-ai-crisis-is-here/) — *Ed Zitron's Where's Your Ed At* `03-31`
+- [Infinite midwit](https://www.experimental-history.com/p/infinite-midwit) — *Experimental History* `03-31`
+- [Jensen Huang Doesn’t Smell Anything](https://bsky.app/profile/carnage4life.bsky.social/post/3mhnqozt7fs2n) — *Daring Fireball* `03-31`
+- [Appointees to Trump’s Council of Advisors on Science and Technology](https://www.whitehouse.gov/releases/2026/03/president-trump-announces-appointments-to-presidents-council-of-advisors-on-science-and-technology/) — *Daring Fireball* `03-31`
+- [Technical Analysis of the Android Version of the White House’s New App](https://blog.thereallo.dev/blog/decompiling-the-white-house-app) — *Daring Fireball* `03-31`
 <!--BLOG_RADAR:end-->
 
 ---

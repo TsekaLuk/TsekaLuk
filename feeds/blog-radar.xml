@@ -4,7 +4,49 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 31 Mar 2026 13:50:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 19:12:27 +0000</lastBuildDate>
+    <item>
+      <title>The Subprime AI Crisis Is Here</title>
+      <link>https://www.wheresyoured.at/the-subprime-ai-crisis-is-here/</link>
+      <guid isPermaLink="true">https://www.wheresyoured.at/the-subprime-ai-crisis-is-here/</guid>
+      <pubDate>Tue, 31 Mar 2026 16:18:11 +0000</pubDate>
+      <description>Ed Zitron's Where's Your Ed At</description>
+    </item>
+    <item>
+      <title>Infinite midwit</title>
+      <link>https://www.experimental-history.com/p/infinite-midwit</link>
+      <guid isPermaLink="true">https://www.experimental-history.com/p/infinite-midwit</guid>
+      <pubDate>Tue, 31 Mar 2026 16:05:29 +0000</pubDate>
+      <description>Experimental History</description>
+    </item>
+    <item>
+      <title>Jensen Huang Doesn’t Smell Anything</title>
+      <link>https://bsky.app/profile/carnage4life.bsky.social/post/3mhnqozt7fs2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/carnage4life.bsky.social/post/3mhnqozt7fs2n</guid>
+      <pubDate>Tue, 31 Mar 2026 15:54:25 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Appointees to Trump’s Council of Advisors on Science and Technology</title>
+      <link>https://www.whitehouse.gov/releases/2026/03/president-trump-announces-appointments-to-presidents-council-of-advisors-on-science-and-technology/</link>
+      <guid isPermaLink="true">https://www.whitehouse.gov/releases/2026/03/president-trump-announces-appointments-to-presidents-council-of-advisors-on-science-and-technology/</guid>
+      <pubDate>Tue, 31 Mar 2026 15:36:13 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Technical Analysis of the Android Version of the White House’s New App</title>
+      <link>https://blog.thereallo.dev/blog/decompiling-the-white-house-app</link>
+      <guid isPermaLink="true">https://blog.thereallo.dev/blog/decompiling-the-white-house-app</guid>
+      <pubDate>Tue, 31 Mar 2026 15:11:08 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Quantum Y2K</title>
+      <link>https://www.johndcook.com/blog/2026/03/31/quantum-y2k/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/03/31/quantum-y2k/</guid>
+      <pubDate>Tue, 31 Mar 2026 14:43:06 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
     <item>
       <title>Solving Yesterday’s Problems Will Kill You</title>
       <link>https://steveblank.com/2026/03/31/solving-yesterdays-problems-will-kill-you/</link>
@@ -25,6 +67,13 @@
       <guid isPermaLink="true">https://pluralistic.net/2026/03/31/actual-federalist-society/</guid>
       <pubDate>Tue, 31 Mar 2026 10:00:59 +0000</pubDate>
       <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>npm’s Defaults Are Bad</title>
+      <link>https://nesbitt.io/2026/03/31/npms-defaults-are-bad.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/03/31/npms-defaults-are-bad.html</guid>
+      <pubDate>Tue, 31 Mar 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
     </item>
     <item>
       <title>Here in 2026, we're retaining old systems instead of discarding them</title>
@@ -53,6 +102,13 @@
       <guid isPermaLink="true">https://rakhim.exotext.com/making-human-languages-irrelevant</guid>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
       <description>Rakhim's blog</description>
+    </item>
+    <item>
+      <title>Telnyx, LiteLLM and Axios: the supply chain crisis</title>
+      <link>https://martinalderson.com/posts/telnyx-litellm-axios-supply-chain-crisis/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
+      <guid isPermaLink="true">https://martinalderson.com/posts/telnyx-litellm-axios-supply-chain-crisis/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Martin Alderson</description>
     </item>
     <item>
       <title>datasette-files 0.1a3</title>
@@ -788,62 +844,6 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/03/25/the-top-10-biggest-conspiracies-in-open-source.html</guid>
       <pubDate>Wed, 25 Mar 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Pluralistic: The cost of doing business (25 Mar 2026)</title>
-      <link>https://pluralistic.net/2026/03/25/fact-intensive/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/03/25/fact-intensive/</guid>
-      <pubDate>Wed, 25 Mar 2026 07:08:48 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Going from an IPv4 address to an ASN in Python 2 with Unix brute force</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/python/IPToASNWithUnixBruteForce</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/python/IPToASNWithUnixBruteForce</guid>
-      <pubDate>Wed, 25 Mar 2026 02:45:53 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>Claude Can Now Take Control of Your Mac</title>
-      <link>https://claude.com/blog/dispatch-and-computer-use</link>
-      <guid isPermaLink="true">https://claude.com/blog/dispatch-and-computer-use</guid>
-      <pubDate>Wed, 25 Mar 2026 01:09:10 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>WSJ: ‘OpenAI Plans Launch of Desktop “Superapp”’</title>
-      <link>https://www.wsj.com/tech/openai-plans-launch-of-desktop-superapp-to-refocus-simplify-user-experience-9e19931d?st=25wiu1</link>
-      <guid isPermaLink="true">https://www.wsj.com/tech/openai-plans-launch-of-desktop-superapp-to-refocus-simplify-user-experience-9e19931d?st=25wiu1</guid>
-      <pubDate>Wed, 25 Mar 2026 01:00:49 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>OpenAI Is Closing Sora</title>
-      <link>https://x.com/soraofficialapp/status/2036546752535470382</link>
-      <guid isPermaLink="true">https://x.com/soraofficialapp/status/2036546752535470382</guid>
-      <pubDate>Wed, 25 Mar 2026 00:49:07 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>iOS 26.4</title>
-      <link>https://www.macrumors.com/guide/ios-26-4-features/</link>
-      <guid isPermaLink="true">https://www.macrumors.com/guide/ios-26-4-features/</guid>
-      <pubDate>Wed, 25 Mar 2026 00:40:01 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Wander 0.3.0</title>
-      <link>https://susam.net/code/news/wander/0.3.0.html</link>
-      <guid isPermaLink="true">https://susam.net/code/news/wander/0.3.0.html</guid>
-      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Susam Pal</description>
-    </item>
-    <item>
-      <title>Which Design Doc Did a Human Write?</title>
-      <link>https://refactoringenglish.com/blog/ai-vs-human-design-doc/</link>
-      <guid isPermaLink="true">https://refactoringenglish.com/blog/ai-vs-human-design-doc/</guid>
-      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Refactoring English</description>
     </item>
   </channel>
 </rss>
