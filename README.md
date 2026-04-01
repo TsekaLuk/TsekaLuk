@@ -208,11 +208,11 @@ Last Updated: Wednesday, April 1st, 2026, 10:04:09 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [The Subprime AI Crisis Is Here](https://www.wheresyoured.at/the-subprime-ai-crisis-is-here/) — *Ed Zitron's Where's Your Ed At* `03-31`
-- [Infinite midwit](https://www.experimental-history.com/p/infinite-midwit) — *Experimental History* `03-31`
-- [Jensen Huang Doesn’t Smell Anything](https://bsky.app/profile/carnage4life.bsky.social/post/3mhnqozt7fs2n) — *Daring Fireball* `03-31`
-- [Appointees to Trump’s Council of Advisors on Science and Technology](https://www.whitehouse.gov/releases/2026/03/president-trump-announces-appointments-to-presidents-council-of-advisors-on-science-and-technology/) — *Daring Fireball* `03-31`
-- [Technical Analysis of the Android Version of the White House’s New App](https://blog.thereallo.dev/blog/decompiling-the-white-house-app) — *Daring Fireball* `03-31`
+- [Mini-review: David Pogue's Apple: The First 50 Years](https://oldvcr.blogspot.com/2026/03/mini-review-david-pogues-apple-first-50.html) — *Old Vintage Computing Research* `04-01`
+- [Quoting Soohoon Choi](https://simonwillison.net/2026/Apr/1/soohoon-choi/#atom-everything) — *Simon Willison's Weblog* `04-01`
+- [Wayne’s World](https://feed.tedium.co/link/15204/17311236/ronald-g-wayne-apple-interview) — *Tedium: The Dull Side of the Internet.* `04-01`
+- [Summary of reading: January - March 2026](https://eli.thegreenplace.net/2026/summary-of-reading-january-march-2026/) — *Eli Bendersky's website* `04-01`
+- [My ramblings are available over gopher](https://maurycyz.com/misc/gopher/) — *Maurycy's Blog* `04-01`
 <!--BLOG_RADAR:end-->
 
 ---

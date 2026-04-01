@@ -4,7 +4,105 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 31 Mar 2026 19:12:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 03:28:59 +0000</lastBuildDate>
+    <item>
+      <title>Mini-review: David Pogue's Apple: The First 50 Years</title>
+      <link>https://oldvcr.blogspot.com/2026/03/mini-review-david-pogues-apple-first-50.html</link>
+      <guid isPermaLink="true">https://oldvcr.blogspot.com/2026/03/mini-review-david-pogues-apple-first-50.html</guid>
+      <pubDate>Wed, 01 Apr 2026 02:17:00 +0000</pubDate>
+      <description>Old Vintage Computing Research</description>
+    </item>
+    <item>
+      <title>Quoting Soohoon Choi</title>
+      <link>https://simonwillison.net/2026/Apr/1/soohoon-choi/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/1/soohoon-choi/#atom-everything</guid>
+      <pubDate>Wed, 01 Apr 2026 02:07:16 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Wayne’s World</title>
+      <link>https://feed.tedium.co/link/15204/17311236/ronald-g-wayne-apple-interview</link>
+      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17311236/ronald-g-wayne-apple-interview</guid>
+      <pubDate>Wed, 01 Apr 2026 01:19:32 +0000</pubDate>
+      <description>Tedium: The Dull Side of the Internet.</description>
+    </item>
+    <item>
+      <title>Summary of reading: January - March 2026</title>
+      <link>https://eli.thegreenplace.net/2026/summary-of-reading-january-march-2026/</link>
+      <guid isPermaLink="true">https://eli.thegreenplace.net/2026/summary-of-reading-january-march-2026/</guid>
+      <pubDate>Wed, 01 Apr 2026 00:34:00 +0000</pubDate>
+      <description>Eli Bendersky's website</description>
+    </item>
+    <item>
+      <title>My ramblings are available over gopher</title>
+      <link>https://maurycyz.com/misc/gopher/</link>
+      <guid isPermaLink="true">https://maurycyz.com/misc/gopher/</guid>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
+    </item>
+    <item>
+      <title>The Entire Internet Is a UGC Reaction Video Now</title>
+      <link>https://www.joanwestenberg.com/the-entire-internet-is-a-ugc-reaction-video-now/</link>
+      <guid isPermaLink="true">https://www.joanwestenberg.com/the-entire-internet-is-a-ugc-reaction-video-now/</guid>
+      <pubDate>Tue, 31 Mar 2026 23:32:07 +0000</pubDate>
+      <description>Westenberg.</description>
+    </item>
+    <item>
+      <title>Supply Chain Attack on Axios Pulls Malicious Dependency from npm</title>
+      <link>https://simonwillison.net/2026/Mar/31/supply-chain-attack-on-axios/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/31/supply-chain-attack-on-axios/#atom-everything</guid>
+      <pubDate>Tue, 31 Mar 2026 23:28:40 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Business Insider Profiles Fidji Simo, OpenAI’s ‘CEO of Applications’</title>
+      <link>https://www.businessinsider.com/fidji-simo-openai-product-research-profitability-profile-2026-3</link>
+      <guid isPermaLink="true">https://www.businessinsider.com/fidji-simo-openai-product-research-profitability-profile-2026-3</guid>
+      <pubDate>Tue, 31 Mar 2026 23:01:03 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Updating Ubuntu packages that you have local changes for with dgit</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/DgitUpdatingDebsWithChanges</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/DgitUpdatingDebsWithChanges</guid>
+      <pubDate>Tue, 31 Mar 2026 22:07:16 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>RAM Is the New Bearer Bond</title>
+      <link>https://www.theatlantic.com/technology/2026/03/laptop-electronics-ram-ai-tax/686628/</link>
+      <guid isPermaLink="true">https://www.theatlantic.com/technology/2026/03/laptop-electronics-ram-ai-tax/686628/</guid>
+      <pubDate>Tue, 31 Mar 2026 21:36:35 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>datasette-llm 0.1a4</title>
+      <link>https://simonwillison.net/2026/Mar/31/datasette-llm/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/31/datasette-llm/#atom-everything</guid>
+      <pubDate>Tue, 31 Mar 2026 21:17:23 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>llm-all-models-async 0.1</title>
+      <link>https://simonwillison.net/2026/Mar/31/llm-all-models-async/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/31/llm-all-models-async/#atom-everything</guid>
+      <pubDate>Tue, 31 Mar 2026 20:52:02 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>llm 0.30</title>
+      <link>https://simonwillison.net/2026/Mar/31/llm/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/31/llm/#atom-everything</guid>
+      <pubDate>Tue, 31 Mar 2026 20:35:51 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>llm-echo 0.4</title>
+      <link>https://simonwillison.net/2026/Mar/31/llm-echo/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/31/llm-echo/#atom-everything</guid>
+      <pubDate>Tue, 31 Mar 2026 16:48:59 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>The Subprime AI Crisis Is Here</title>
       <link>https://www.wheresyoured.at/the-subprime-ai-crisis-is-here/</link>
@@ -27,6 +125,13 @@
       <description>Daring Fireball</description>
     </item>
     <item>
+      <title>llm-echo 0.3</title>
+      <link>https://simonwillison.net/2026/Mar/31/llm-echo-2/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/31/llm-echo-2/#atom-everything</guid>
+      <pubDate>Tue, 31 Mar 2026 15:43:26 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
       <title>Appointees to Trump’s Council of Advisors on Science and Technology</title>
       <link>https://www.whitehouse.gov/releases/2026/03/president-trump-announces-appointments-to-presidents-council-of-advisors-on-science-and-technology/</link>
       <guid isPermaLink="true">https://www.whitehouse.gov/releases/2026/03/president-trump-announces-appointments-to-presidents-council-of-advisors-on-science-and-technology/</guid>
@@ -46,6 +151,13 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/03/31/quantum-y2k/</guid>
       <pubDate>Tue, 31 Mar 2026 14:43:06 +0000</pubDate>
       <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Before you check if an update caused your problem, check that it wasn’t a problem before the update</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260331-00/?p=112177</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260331-00/?p=112177</guid>
+      <pubDate>Tue, 31 Mar 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Solving Yesterday’s Problems Will Kill You</title>
@@ -97,11 +209,25 @@
       <description>Westenberg.</description>
     </item>
     <item>
+      <title>Notes from March 2026</title>
+      <link>https://evanhahn.com/notes-from-march-2026/</link>
+      <guid isPermaLink="true">https://evanhahn.com/notes-from-march-2026/</guid>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Evan Hahn (dot com)</description>
+    </item>
+    <item>
       <title>Making human languages irrelevant</title>
       <link>https://rakhim.exotext.com/making-human-languages-irrelevant</link>
       <guid isPermaLink="true">https://rakhim.exotext.com/making-human-languages-irrelevant</guid>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
       <description>Rakhim's blog</description>
+    </item>
+    <item>
+      <title>Defending Privacy, Daily</title>
+      <link>https://anildash.com/2026/03/31/defending-privacy-daily/</link>
+      <guid isPermaLink="true">https://anildash.com/2026/03/31/defending-privacy-daily/</guid>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Anil Dash</description>
     </item>
     <item>
       <title>Telnyx, LiteLLM and Axios: the supply chain crisis</title>
@@ -116,6 +242,13 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Mar/30/datasette-files/#atom-everything</guid>
       <pubDate>Mon, 30 Mar 2026 23:58:49 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>The MVC Mistake</title>
+      <link>https://entropicthoughts.com/mvc-mistake</link>
+      <guid isPermaLink="true">https://entropicthoughts.com/mvc-mistake</guid>
+      <pubDate>Mon, 30 Mar 2026 22:00:00 +0000</pubDate>
+      <description>Entropic Thoughts</description>
     </item>
     <item>
       <title>Quoting Georgi Gerganov</title>
@@ -711,139 +844,6 @@
       <guid isPermaLink="true">https://jenniferdaniel.substack.com/p/new-emoji-distorted-face</guid>
       <pubDate>Thu, 26 Mar 2026 16:43:34 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Quantization from the ground up</title>
-      <link>https://simonwillison.net/2026/Mar/26/quantization-from-the-ground-up/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/26/quantization-from-the-ground-up/#atom-everything</guid>
-      <pubDate>Thu, 26 Mar 2026 16:21:09 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>The Yankees Almost Signed Another P.E.D. Cheater</title>
-      <link>https://www.mlb.com/news/how-barry-bonds-was-nearly-a-yankee</link>
-      <guid isPermaLink="true">https://www.mlb.com/news/how-barry-bonds-was-nearly-a-yankee</guid>
-      <pubDate>Thu, 26 Mar 2026 15:19:55 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The New York Yankees Have the Best Record in Baseball</title>
-      <link>https://www.mlb.com/yankees/news/max-fried-yankees-shut-out-giants-on-opening-night-2026</link>
-      <guid isPermaLink="true">https://www.mlb.com/yankees/news/max-fried-yankees-shut-out-giants-on-opening-night-2026</guid>
-      <pubDate>Thu, 26 Mar 2026 15:05:49 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Mr. Macintosh Explains Another Way to Block the Software Update Prompts for MacOS 26 Tahoe</title>
-      <link>https://www.youtube.com/watch?v=uRg1pW8TSYk</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=uRg1pW8TSYk</guid>
-      <pubDate>Thu, 26 Mar 2026 14:40:06 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>How much precision can you squeeze out of a table?</title>
-      <link>https://www.johndcook.com/blog/2026/03/26/table-precision/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/03/26/table-precision/</guid>
-      <pubDate>Thu, 26 Mar 2026 14:33:37 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Why doesn’t WM_ENTER­IDLE work if the dialog box is a Message­Box?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260326-00/?p=112167</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260326-00/?p=112167</guid>
-      <pubDate>Thu, 26 Mar 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Adding human.json to WordPress</title>
-      <link>https://shkspr.mobi/blog/2026/03/adding-human-json-to-wordpress/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/03/adding-human-json-to-wordpress/</guid>
-      <pubDate>Thu, 26 Mar 2026 12:34:52 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>SQLAlchemy 2 In Practice - Chapter 2 - Database Tables</title>
-      <link>https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-1---database-tables</link>
-      <guid isPermaLink="true">https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-1---database-tables</guid>
-      <pubDate>Thu, 26 Mar 2026 12:30:03 +0000</pubDate>
-      <description>Miguel Grinberg's Blog</description>
-    </item>
-    <item>
-      <title>I Can't See Apple's Vision</title>
-      <link>https://matduggan.com/i-cant-see-apples-vision/</link>
-      <guid isPermaLink="true">https://matduggan.com/i-cant-see-apples-vision/</guid>
-      <pubDate>Thu, 26 Mar 2026 11:54:18 +0000</pubDate>
-      <description>matduggan.com</description>
-    </item>
-    <item>
-      <title>Early notes on switching some libvirt-based virtual machines to UEFI</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/LibvirtSwitchingToUEFI</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/LibvirtSwitchingToUEFI</guid>
-      <pubDate>Thu, 26 Mar 2026 03:09:33 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>Engineers do get promoted for writing simple code</title>
-      <link>https://seangoedecke.com/simple-work-gets-rewarded/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/simple-work-gets-rewarded/</guid>
-      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>datasette-files-s3 0.1a1</title>
-      <link>https://simonwillison.net/2026/Mar/25/datasette-files-s3/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/25/datasette-files-s3/#atom-everything</guid>
-      <pubDate>Wed, 25 Mar 2026 21:57:05 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Thoughts on slowing the fuck down</title>
-      <link>https://simonwillison.net/2026/Mar/25/thoughts-on-slowing-the-fuck-down/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/25/thoughts-on-slowing-the-fuck-down/#atom-everything</guid>
-      <pubDate>Wed, 25 Mar 2026 21:47:17 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>datasette-llm 0.1a1</title>
-      <link>https://simonwillison.net/2026/Mar/25/datasette-llm/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/25/datasette-llm/#atom-everything</guid>
-      <pubDate>Wed, 25 Mar 2026 21:24:31 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>‘A List of Chain Restaurants Whose Names Contain Unusual Structures’</title>
-      <link>https://onefoottsunami.com/2026/03/18/a-list-of-chain-restaurants-whose-names-contain-unusual-structures/</link>
-      <guid isPermaLink="true">https://onefoottsunami.com/2026/03/18/a-list-of-chain-restaurants-whose-names-contain-unusual-structures/</guid>
-      <pubDate>Wed, 25 Mar 2026 19:50:07 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Improved Analytics in App Store Connect</title>
-      <link>https://developer.apple.com/news/?id=hh6v4b55</link>
-      <guid isPermaLink="true">https://developer.apple.com/news/?id=hh6v4b55</guid>
-      <pubDate>Wed, 25 Mar 2026 19:16:27 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>LiteLLM Hack: Were You One of the 47,000?</title>
-      <link>https://simonwillison.net/2026/Mar/25/litellm-hack/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/25/litellm-hack/#atom-everything</guid>
-      <pubDate>Wed, 25 Mar 2026 17:21:04 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>How can I change a dialog box’s message loop to do a Msg­Wait­For­Multiple­Objects instead of Get­Message?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260325-00/?p=112165</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260325-00/?p=112165</guid>
-      <pubDate>Wed, 25 Mar 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>The Top 10 Biggest Conspiracies in Open Source</title>
-      <link>https://nesbitt.io/2026/03/25/the-top-10-biggest-conspiracies-in-open-source.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/03/25/the-top-10-biggest-conspiracies-in-open-source.html</guid>
-      <pubDate>Wed, 25 Mar 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
     </item>
   </channel>
 </rss>
