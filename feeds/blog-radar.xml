@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 01 Apr 2026 03:28:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 07:44:46 +0000</lastBuildDate>
+    <item>
+      <title>datasette-extract 0.3a0</title>
+      <link>https://simonwillison.net/2026/Apr/1/datasette-extract/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/1/datasette-extract/#atom-everything</guid>
+      <pubDate>Wed, 01 Apr 2026 03:32:16 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>datasette-enrichments-llm 0.2a0</title>
+      <link>https://simonwillison.net/2026/Apr/1/datasette-enrichments-llm/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/1/datasette-enrichments-llm/#atom-everything</guid>
+      <pubDate>Wed, 01 Apr 2026 03:28:44 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>datasette-llm-usage 0.2a0</title>
+      <link>https://simonwillison.net/2026/Apr/1/datasette-llm-usage/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/1/datasette-llm-usage/#atom-everything</guid>
+      <pubDate>Wed, 01 Apr 2026 03:24:03 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>datasette-llm 0.1a5</title>
+      <link>https://simonwillison.net/2026/Apr/1/datasette-llm/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/1/datasette-llm/#atom-everything</guid>
+      <pubDate>Wed, 01 Apr 2026 03:11:01 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Mini-review: David Pogue's Apple: The First 50 Years</title>
       <link>https://oldvcr.blogspot.com/2026/03/mini-review-david-pogues-apple-first-50.html</link>
@@ -37,6 +65,13 @@
       <title>My ramblings are available over gopher</title>
       <link>https://maurycyz.com/misc/gopher/</link>
       <guid isPermaLink="true">https://maurycyz.com/misc/gopher/</guid>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
+    </item>
+    <item>
+      <title>GopherTree</title>
+      <link>https://maurycyz.com/projects/gopher/</link>
+      <guid isPermaLink="true">https://maurycyz.com/projects/gopher/</guid>
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
       <description>Maurycy's Blog</description>
     </item>
@@ -223,18 +258,18 @@
       <description>Rakhim's blog</description>
     </item>
     <item>
-      <title>Defending Privacy, Daily</title>
-      <link>https://anildash.com/2026/03/31/defending-privacy-daily/</link>
-      <guid isPermaLink="true">https://anildash.com/2026/03/31/defending-privacy-daily/</guid>
-      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Anil Dash</description>
-    </item>
-    <item>
       <title>Telnyx, LiteLLM and Axios: the supply chain crisis</title>
       <link>https://martinalderson.com/posts/telnyx-litellm-axios-supply-chain-crisis/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
       <guid isPermaLink="true">https://martinalderson.com/posts/telnyx-litellm-axios-supply-chain-crisis/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
       <description>Martin Alderson</description>
+    </item>
+    <item>
+      <title>Defending Privacy, Daily</title>
+      <link>https://anildash.com/2026/03/31/defending-privacy-daily/</link>
+      <guid isPermaLink="true">https://anildash.com/2026/03/31/defending-privacy-daily/</guid>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Anil Dash</description>
     </item>
     <item>
       <title>datasette-files 0.1a3</title>
@@ -808,41 +843,6 @@
       <link>https://blog.chromium.org/2026/03/android-sets-new-record-for-mobile-web.html</link>
       <guid isPermaLink="true">https://blog.chromium.org/2026/03/android-sets-new-record-for-mobile-web.html</guid>
       <pubDate>Thu, 26 Mar 2026 19:08:25 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>NYT: ‘Melania Trump Appears With a Robot, Saying More Children Should Be Educated by Them’</title>
-      <link>https://www.nytimes.com/2026/03/25/us/politics/melania-trump-robot.html?smid=nytcore-ios-share</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/03/25/us/politics/melania-trump-robot.html?smid=nytcore-ios-share</guid>
-      <pubDate>Thu, 26 Mar 2026 18:10:22 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The Information: ‘Apple Can “Distill” Google’s Big Gemini Model’</title>
-      <link>https://www.theinformation.com/newsletters/ai-agenda/apple-can-distill-googles-big-gemini-model?rc=jfy0lk</link>
-      <guid isPermaLink="true">https://www.theinformation.com/newsletters/ai-agenda/apple-can-distill-googles-big-gemini-model?rc=jfy0lk</guid>
-      <pubDate>Thu, 26 Mar 2026 17:33:38 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Katie Notopoulos Bids Farewell to Sora: ‘You Were Too Beautiful and Stupid for This World’</title>
-      <link>https://www.businessinsider.com/sora-openai-chatgpt-sam-altman-ai-shutting-down-farewell-why-2026-3</link>
-      <guid isPermaLink="true">https://www.businessinsider.com/sora-openai-chatgpt-sam-altman-ai-shutting-down-farewell-why-2026-3</guid>
-      <pubDate>Thu, 26 Mar 2026 17:24:53 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>MacOS 26.4 Adds ‘Slow Charger’ Indicator for MacBooks</title>
-      <link>https://www.macrumors.com/2026/03/25/macos-tahoe-26-4-slow-charger-macbooks/</link>
-      <guid isPermaLink="true">https://www.macrumors.com/2026/03/25/macos-tahoe-26-4-slow-charger-macbooks/</guid>
-      <pubDate>Thu, 26 Mar 2026 17:13:41 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Jennifer Daniel on the New ‘Distorted Face’ Emoji</title>
-      <link>https://jenniferdaniel.substack.com/p/new-emoji-distorted-face</link>
-      <guid isPermaLink="true">https://jenniferdaniel.substack.com/p/new-emoji-distorted-face</guid>
-      <pubDate>Thu, 26 Mar 2026 16:43:34 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
   </channel>

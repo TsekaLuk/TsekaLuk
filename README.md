@@ -208,11 +208,11 @@ Last Updated: Wednesday, April 1st, 2026, 3:13:10 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [datasette-extract 0.3a0](https://simonwillison.net/2026/Apr/1/datasette-extract/#atom-everything) — *Simon Willison's Weblog* `04-01`
+- [datasette-enrichments-llm 0.2a0](https://simonwillison.net/2026/Apr/1/datasette-enrichments-llm/#atom-everything) — *Simon Willison's Weblog* `04-01`
+- [datasette-llm-usage 0.2a0](https://simonwillison.net/2026/Apr/1/datasette-llm-usage/#atom-everything) — *Simon Willison's Weblog* `04-01`
+- [datasette-llm 0.1a5](https://simonwillison.net/2026/Apr/1/datasette-llm/#atom-everything) — *Simon Willison's Weblog* `04-01`
 - [Mini-review: David Pogue's Apple: The First 50 Years](https://oldvcr.blogspot.com/2026/03/mini-review-david-pogues-apple-first-50.html) — *Old Vintage Computing Research* `04-01`
-- [Quoting Soohoon Choi](https://simonwillison.net/2026/Apr/1/soohoon-choi/#atom-everything) — *Simon Willison's Weblog* `04-01`
-- [Wayne’s World](https://feed.tedium.co/link/15204/17311236/ronald-g-wayne-apple-interview) — *Tedium: The Dull Side of the Internet.* `04-01`
-- [Summary of reading: January - March 2026](https://eli.thegreenplace.net/2026/summary-of-reading-january-march-2026/) — *Eli Bendersky's website* `04-01`
-- [My ramblings are available over gopher](https://maurycyz.com/misc/gopher/) — *Maurycy's Blog* `04-01`
 <!--BLOG_RADAR:end-->
 
 ---
