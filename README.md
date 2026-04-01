@@ -208,11 +208,11 @@ Last Updated: Thursday, April 2nd, 2026, 2:53:44 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Pentagonal numbers are truncated triangular numbers](https://www.johndcook.com/blog/2026/04/01/truncated-triangular-numbers/) — *John D. Cook* `04-01`
-- [What is Copilot exactly?](https://idiallo.com/blog/what-is-copilot-exactly?src=feed) — *iDiallo.com* `04-01`
-- [Random File Format](https://shkspr.mobi/blog/2026/04/random-file-format/) — *Terence Eden’s Blog* `04-01`
-- [Pluralistic: Trumpismo vs minilateralism (01 Apr 2026)](https://pluralistic.net/2026/04/01/minilateralism/) — *Pluralistic: Daily links from Cory Doctorow* `04-01`
-- [datasette-extract 0.3a0](https://simonwillison.net/2026/Apr/1/datasette-extract/#atom-everything) — *Simon Willison's Weblog* `04-01`
+- [Inside Apple’s AirPods Max 2 and the H2 Chip Upgrade](https://www.techradar.com/audio/earbuds-airpods/only-limited-by-the-physics-inside-apples-airpods-max-2-and-the-h2-chip-upgrade) — *Daring Fireball* `04-01`
+- [Hershey Says It Will Shift Back to Classic Recipe for All Reese’s Products After Criticism](https://apnews.com/article/hershey-reeses-chocolate-peanut-butter-cups-recipe-1c17247e190eb03952e1c197b6f872ce) — *Daring Fireball* `04-01`
+- [Apple Marks 50th Anniversary](https://www.apple.com/) — *Daring Fireball* `04-01`
+- [Say the Thing You Want](https://terriblesoftware.org/2026/04/01/say-the-thing-you-want/) — *Terrible Software* `04-01`
+- [The cover of C++: The Programming Language raises questions not answered by the cover](https://devblogs.microsoft.com/oldnewthing/20260401-00/?p=112180) — *The Old New Thing* `04-01`
 <!--BLOG_RADAR:end-->
 
 ---

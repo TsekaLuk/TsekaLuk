@@ -4,7 +4,42 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 01 Apr 2026 13:53:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 19:14:03 +0000</lastBuildDate>
+    <item>
+      <title>Inside Apple’s AirPods Max 2 and the H2 Chip Upgrade</title>
+      <link>https://www.techradar.com/audio/earbuds-airpods/only-limited-by-the-physics-inside-apples-airpods-max-2-and-the-h2-chip-upgrade</link>
+      <guid isPermaLink="true">https://www.techradar.com/audio/earbuds-airpods/only-limited-by-the-physics-inside-apples-airpods-max-2-and-the-h2-chip-upgrade</guid>
+      <pubDate>Wed, 01 Apr 2026 18:45:54 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Hershey Says It Will Shift Back to Classic Recipe for All Reese’s Products After Criticism</title>
+      <link>https://apnews.com/article/hershey-reeses-chocolate-peanut-butter-cups-recipe-1c17247e190eb03952e1c197b6f872ce</link>
+      <guid isPermaLink="true">https://apnews.com/article/hershey-reeses-chocolate-peanut-butter-cups-recipe-1c17247e190eb03952e1c197b6f872ce</guid>
+      <pubDate>Wed, 01 Apr 2026 17:39:36 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Apple Marks 50th Anniversary</title>
+      <link>https://www.apple.com/</link>
+      <guid isPermaLink="true">https://www.apple.com/</guid>
+      <pubDate>Wed, 01 Apr 2026 16:39:34 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Say the Thing You Want</title>
+      <link>https://terriblesoftware.org/2026/04/01/say-the-thing-you-want/</link>
+      <guid isPermaLink="true">https://terriblesoftware.org/2026/04/01/say-the-thing-you-want/</guid>
+      <pubDate>Wed, 01 Apr 2026 15:59:04 +0000</pubDate>
+      <description>Terrible Software</description>
+    </item>
+    <item>
+      <title>The cover of C++: The Programming Language raises questions not answered by the cover</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260401-00/?p=112180</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260401-00/?p=112180</guid>
+      <pubDate>Wed, 01 Apr 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
     <item>
       <title>Pentagonal numbers are truncated triangular numbers</title>
       <link>https://www.johndcook.com/blog/2026/04/01/truncated-triangular-numbers/</link>
@@ -102,6 +137,20 @@
       <guid isPermaLink="true">https://maurycyz.com/projects/gopher/</guid>
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
       <description>Maurycy's Blog</description>
+    </item>
+    <item>
+      <title>Claude Code won April Fools Day this year</title>
+      <link>https://xeiaso.net/notes/2026/claude-code-wins-april-fools/</link>
+      <guid isPermaLink="true">https://xeiaso.net/notes/2026/claude-code-wins-april-fools/</guid>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>On the Vergecast, On Video</title>
+      <link>https://anildash.com/2026/04/01/vergecast-video/</link>
+      <guid isPermaLink="true">https://anildash.com/2026/04/01/vergecast-video/</guid>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Anil Dash</description>
     </item>
     <item>
       <title>The Entire Internet Is a UGC Reaction Video Now</title>
@@ -286,18 +335,18 @@
       <description>Rakhim's blog</description>
     </item>
     <item>
-      <title>Telnyx, LiteLLM and Axios: the supply chain crisis</title>
-      <link>https://martinalderson.com/posts/telnyx-litellm-axios-supply-chain-crisis/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
-      <guid isPermaLink="true">https://martinalderson.com/posts/telnyx-litellm-axios-supply-chain-crisis/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
-      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Martin Alderson</description>
-    </item>
-    <item>
       <title>Defending Privacy, Daily</title>
       <link>https://anildash.com/2026/03/31/defending-privacy-daily/</link>
       <guid isPermaLink="true">https://anildash.com/2026/03/31/defending-privacy-daily/</guid>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
       <description>Anil Dash</description>
+    </item>
+    <item>
+      <title>Telnyx, LiteLLM and Axios: the supply chain crisis</title>
+      <link>https://martinalderson.com/posts/telnyx-litellm-axios-supply-chain-crisis/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
+      <guid isPermaLink="true">https://martinalderson.com/posts/telnyx-litellm-axios-supply-chain-crisis/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Martin Alderson</description>
     </item>
     <item>
       <title>datasette-files 0.1a3</title>
@@ -795,55 +844,6 @@
       <guid isPermaLink="true">https://seangoedecke.com/working-on-products-people-hate/</guid>
       <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>Using Perfetto in ZJIT</title>
-      <link>https://bernsteinbear.com/blog/zjit-perfetto/?utm_source=rss</link>
-      <guid isPermaLink="true">https://bernsteinbear.com/blog/zjit-perfetto/?utm_source=rss</guid>
-      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Max Bernstein's Blog</description>
-    </item>
-    <item>
-      <title>Endgame for the Open Web</title>
-      <link>https://anildash.com/2026/03/27/endgame-open-web/</link>
-      <guid isPermaLink="true">https://anildash.com/2026/03/27/endgame-open-web/</guid>
-      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Anil Dash</description>
-    </item>
-    <item>
-      <title>My minute-by-minute response to the LiteLLM malware attack</title>
-      <link>https://simonwillison.net/2026/Mar/26/response-to-the-litellm-malware-attack/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/26/response-to-the-litellm-malware-attack/#atom-everything</guid>
-      <pubDate>Thu, 26 Mar 2026 23:58:22 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>How we get radicalized in America</title>
-      <link>https://idiallo.com/byte-size/how-to-get-radicalized-in-america?src=feed</link>
-      <guid isPermaLink="true">https://idiallo.com/byte-size/how-to-get-radicalized-in-america?src=feed</guid>
-      <pubDate>Thu, 26 Mar 2026 23:11:46 +0000</pubDate>
-      <description>iDiallo.com</description>
-    </item>
-    <item>
-      <title>Considering mmap() verus plain reads for my recent code</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/unix/MmapVsPlainReadThoughts</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/unix/MmapVsPlainReadThoughts</guid>
-      <pubDate>Thu, 26 Mar 2026 23:05:54 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>Members Only: On Cathedral thinking</title>
-      <link>https://www.joanwestenberg.com/members-only-on-cathedral-thinking/</link>
-      <guid isPermaLink="true">https://www.joanwestenberg.com/members-only-on-cathedral-thinking/</guid>
-      <pubDate>Thu, 26 Mar 2026 22:54:35 +0000</pubDate>
-      <description>Westenberg.</description>
-    </item>
-    <item>
-      <title>The Apple Charging Situation</title>
-      <link>https://randsinrepose.com/guides/apple-charging-guide.html</link>
-      <guid isPermaLink="true">https://randsinrepose.com/guides/apple-charging-guide.html</guid>
-      <pubDate>Thu, 26 Mar 2026 20:20:49 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
