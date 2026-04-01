@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 01 Apr 2026 07:44:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 13:53:24 +0000</lastBuildDate>
+    <item>
+      <title>Pentagonal numbers are truncated triangular numbers</title>
+      <link>https://www.johndcook.com/blog/2026/04/01/truncated-triangular-numbers/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/04/01/truncated-triangular-numbers/</guid>
+      <pubDate>Wed, 01 Apr 2026 13:23:42 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>What is Copilot exactly?</title>
+      <link>https://idiallo.com/blog/what-is-copilot-exactly?src=feed</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/what-is-copilot-exactly?src=feed</guid>
+      <pubDate>Wed, 01 Apr 2026 12:00:00 +0000</pubDate>
+      <description>iDiallo.com</description>
+    </item>
+    <item>
+      <title>Random File Format</title>
+      <link>https://shkspr.mobi/blog/2026/04/random-file-format/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/random-file-format/</guid>
+      <pubDate>Wed, 01 Apr 2026 11:34:57 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Pluralistic: Trumpismo vs minilateralism (01 Apr 2026)</title>
+      <link>https://pluralistic.net/2026/04/01/minilateralism/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/04/01/minilateralism/</guid>
+      <pubDate>Wed, 01 Apr 2026 10:59:24 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
     <item>
       <title>datasette-extract 0.3a0</title>
       <link>https://simonwillison.net/2026/Apr/1/datasette-extract/#atom-everything</link>
@@ -815,34 +843,6 @@
       <link>https://randsinrepose.com/guides/apple-charging-guide.html</link>
       <guid isPermaLink="true">https://randsinrepose.com/guides/apple-charging-guide.html</guid>
       <pubDate>Thu, 26 Mar 2026 20:20:49 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Lebesgue constants</title>
-      <link>https://www.johndcook.com/blog/2026/03/26/lebesgue-constants/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/03/26/lebesgue-constants/</guid>
-      <pubDate>Thu, 26 Mar 2026 20:05:06 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>You Can Jump Right to the Updates Screen in the App Store App on iOS 26.4</title>
-      <link>https://daringfireball.net/linked/2026/03/24/ios-264</link>
-      <guid isPermaLink="true">https://daringfireball.net/linked/2026/03/24/ios-264</guid>
-      <pubDate>Thu, 26 Mar 2026 19:35:00 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Disney Drops Vaporware $1B Investment in OpenAI After Sora Got Axed</title>
-      <link>https://variety.com/2026/digital/news/openai-shutting-down-sora-video-disney-1236698277/</link>
-      <guid isPermaLink="true">https://variety.com/2026/digital/news/openai-shutting-down-sora-video-disney-1236698277/</guid>
-      <pubDate>Thu, 26 Mar 2026 19:26:38 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Google Brags About Android Web Browser Benchmark Scores on Unnamed Devices; Gullible Reporters Fall for It</title>
-      <link>https://blog.chromium.org/2026/03/android-sets-new-record-for-mobile-web.html</link>
-      <guid isPermaLink="true">https://blog.chromium.org/2026/03/android-sets-new-record-for-mobile-web.html</guid>
-      <pubDate>Thu, 26 Mar 2026 19:08:25 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
   </channel>

@@ -208,11 +208,11 @@ Last Updated: Wednesday, April 1st, 2026, 9:08:22 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Pentagonal numbers are truncated triangular numbers](https://www.johndcook.com/blog/2026/04/01/truncated-triangular-numbers/) — *John D. Cook* `04-01`
+- [What is Copilot exactly?](https://idiallo.com/blog/what-is-copilot-exactly?src=feed) — *iDiallo.com* `04-01`
+- [Random File Format](https://shkspr.mobi/blog/2026/04/random-file-format/) — *Terence Eden’s Blog* `04-01`
+- [Pluralistic: Trumpismo vs minilateralism (01 Apr 2026)](https://pluralistic.net/2026/04/01/minilateralism/) — *Pluralistic: Daily links from Cory Doctorow* `04-01`
 - [datasette-extract 0.3a0](https://simonwillison.net/2026/Apr/1/datasette-extract/#atom-everything) — *Simon Willison's Weblog* `04-01`
-- [datasette-enrichments-llm 0.2a0](https://simonwillison.net/2026/Apr/1/datasette-enrichments-llm/#atom-everything) — *Simon Willison's Weblog* `04-01`
-- [datasette-llm-usage 0.2a0](https://simonwillison.net/2026/Apr/1/datasette-llm-usage/#atom-everything) — *Simon Willison's Weblog* `04-01`
-- [datasette-llm 0.1a5](https://simonwillison.net/2026/Apr/1/datasette-llm/#atom-everything) — *Simon Willison's Weblog* `04-01`
-- [Mini-review: David Pogue's Apple: The First 50 Years](https://oldvcr.blogspot.com/2026/03/mini-review-david-pogues-apple-first-50.html) — *Old Vintage Computing Research* `04-01`
 <!--BLOG_RADAR:end-->
 
 ---
