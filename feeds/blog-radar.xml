@@ -4,13 +4,104 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 01 Apr 2026 19:14:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 02:54:08 +0000</lastBuildDate>
+    <item>
+      <title>I should use argument groups in Python's argparse module more than I do</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/python/ArgparseOptionGroupsPraise</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/python/ArgparseOptionGroupsPraise</guid>
+      <pubDate>Thu, 02 Apr 2026 02:43:09 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>Time is a User-Interface</title>
+      <link>https://www.joanwestenberg.com/tim/</link>
+      <guid isPermaLink="true">https://www.joanwestenberg.com/tim/</guid>
+      <pubDate>Thu, 02 Apr 2026 00:32:14 +0000</pubDate>
+      <description>Westenberg.</description>
+    </item>
+    <item>
+      <title>Chris Espinosa, Employee #8, Profiled in The New York Times</title>
+      <link>https://www.nytimes.com/2026/04/01/technology/apple-employee-50-years.html?unlocked_article_code=1.X1A.QEzX.u6cPCOjBE3mT</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/04/01/technology/apple-employee-50-years.html?unlocked_article_code=1.X1A.QEzX.u6cPCOjBE3mT</guid>
+      <pubDate>Thu, 02 Apr 2026 00:10:29 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>The Talk Show: ‘Apple at 50’</title>
+      <link>https://daringfireball.net/thetalkshow/2026/04/01/ep-445</link>
+      <guid isPermaLink="true">https://daringfireball.net/thetalkshow/2026/04/01/ep-445</guid>
+      <pubDate>Wed, 01 Apr 2026 23:47:37 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>datasette-llm 0.1a6</title>
+      <link>https://simonwillison.net/2026/Apr/1/datasette-llm-2/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/1/datasette-llm-2/#atom-everything</guid>
+      <pubDate>Wed, 01 Apr 2026 23:01:37 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>13th Year of Blogging</title>
+      <link>https://idiallo.com/byte-size/blogging-year-13?src=feed</link>
+      <guid isPermaLink="true">https://idiallo.com/byte-size/blogging-year-13?src=feed</guid>
+      <pubDate>Wed, 01 Apr 2026 22:15:39 +0000</pubDate>
+      <description>iDiallo.com</description>
+    </item>
+    <item>
+      <title>datasette-enrichments-llm 0.2a1</title>
+      <link>https://simonwillison.net/2026/Apr/1/datasette-enrichments-llm-2/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/1/datasette-enrichments-llm-2/#atom-everything</guid>
+      <pubDate>Wed, 01 Apr 2026 22:00:34 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>DRAM pricing is killing the hobbyist SBC market</title>
+      <link>https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/</guid>
+      <pubDate>Wed, 01 Apr 2026 21:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>More on Apple’s Fun ‘Rewind’ Video</title>
+      <link>https://hachyderm.io/@lexfri/116331181693278195</link>
+      <guid isPermaLink="true">https://hachyderm.io/@lexfri/116331181693278195</guid>
+      <pubDate>Wed, 01 Apr 2026 20:27:02 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Ben Cohen of the WSJ Tours Apple’s Archive of Prototype Hardware</title>
+      <link>https://www.youtube.com/watch?v=74qPQt_5DdM</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=74qPQt_5DdM</guid>
+      <pubDate>Wed, 01 Apr 2026 20:10:41 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>New Jersey, the Jackass State</title>
+      <link>https://x.com/NJGov/status/2039370966090854604</link>
+      <guid isPermaLink="true">https://x.com/NJGov/status/2039370966090854604</guid>
+      <pubDate>Wed, 01 Apr 2026 19:59:43 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Ryan D’Agostino Profiles Tim Cook for Esquire on Apple’s 50th</title>
+      <link>https://www.esquire.com/news-politics/a70886045/apple-50th-anniversary/</link>
+      <guid isPermaLink="true">https://www.esquire.com/news-politics/a70886045/apple-50th-anniversary/</guid>
+      <pubDate>Wed, 01 Apr 2026 19:34:11 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Inside Apple’s AirPods Max 2 and the H2 Chip Upgrade</title>
       <link>https://www.techradar.com/audio/earbuds-airpods/only-limited-by-the-physics-inside-apples-airpods-max-2-and-the-h2-chip-upgrade</link>
       <guid isPermaLink="true">https://www.techradar.com/audio/earbuds-airpods/only-limited-by-the-physics-inside-apples-airpods-max-2-and-the-h2-chip-upgrade</guid>
       <pubDate>Wed, 01 Apr 2026 18:45:54 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>April Cools Post: New York vs Chicago Pizza</title>
+      <link>https://buttondown.com/hillelwayne/archive/april-cools-post-new-york-vs-chicago-pizza/</link>
+      <guid isPermaLink="true">https://buttondown.com/hillelwayne/archive/april-cools-post-new-york-vs-chicago-pizza/</guid>
+      <pubDate>Wed, 01 Apr 2026 17:53:29 +0000</pubDate>
+      <description>Computer Things</description>
     </item>
     <item>
       <title>Hershey Says It Will Shift Back to Classic Recipe for All Reese’s Products After Criticism</title>
@@ -753,97 +844,6 @@
       <guid isPermaLink="true">https://www.filfre.net/2026/03/this-week-on-the-analog-antiquarian-2/</guid>
       <pubDate>Fri, 27 Mar 2026 17:23:28 +0000</pubDate>
       <description>The Digital Antiquarian</description>
-    </item>
-    <item>
-      <title>Premium: How Much Of The AI Bubble Is Real?</title>
-      <link>https://www.wheresyoured.at/premium-how-much-of-the-ai-bubble-is-real/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/premium-how-much-of-the-ai-bubble-is-real/</guid>
-      <pubDate>Fri, 27 Mar 2026 17:21:30 +0000</pubDate>
-      <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>An AI Odyssey, Part 3: Lost Needle in the Haystack</title>
-      <link>https://www.johndcook.com/blog/2026/03/27/an-ai-odyssey-part-3-lost-needle-in-the-haystack/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/03/27/an-ai-odyssey-part-3-lost-needle-in-the-haystack/</guid>
-      <pubDate>Fri, 27 Mar 2026 16:06:18 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>An Intention Upgrade</title>
-      <link>https://feed.tedium.co/link/15204/17307620/apple-mac-pro-discontinued-anniversary</link>
-      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17307620/apple-mac-pro-discontinued-anniversary</guid>
-      <pubDate>Fri, 27 Mar 2026 15:56:07 +0000</pubDate>
-      <description>Tedium: The Dull Side of the Internet.</description>
-    </item>
-    <item>
-      <title>System shock</title>
-      <link>https://aresluna.org/system-shock</link>
-      <guid isPermaLink="true">https://aresluna.org/system-shock</guid>
-      <pubDate>Fri, 27 Mar 2026 15:02:13 +0000</pubDate>
-      <description>Aresluna</description>
-    </item>
-    <item>
-      <title>UX books not written by white men</title>
-      <link>https://aresluna.org/ux-books-not-written-by-white-men</link>
-      <guid isPermaLink="true">https://aresluna.org/ux-books-not-written-by-white-men</guid>
-      <pubDate>Fri, 27 Mar 2026 15:02:13 +0000</pubDate>
-      <description>Aresluna</description>
-    </item>
-    <item>
-      <title>Bring back MiniDV with this Raspberry Pi FireWire HAT</title>
-      <link>https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/</guid>
-      <pubDate>Fri, 27 Mar 2026 14:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
-      <title>What if a dialog wants to intercept its own message loop?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260327-00/?p=112172</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260327-00/?p=112172</guid>
-      <pubDate>Fri, 27 Mar 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>The Age of the Amplifier</title>
-      <link>https://www.construction-physics.com/p/the-age-of-the-amplifier</link>
-      <guid isPermaLink="true">https://www.construction-physics.com/p/the-age-of-the-amplifier</guid>
-      <pubDate>Fri, 27 Mar 2026 12:00:44 +0000</pubDate>
-      <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>Sharing a Name</title>
-      <link>https://idiallo.com/blog/sharing-a-name?src=feed</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/sharing-a-name?src=feed</guid>
-      <pubDate>Fri, 27 Mar 2026 12:00:00 +0000</pubDate>
-      <description>iDiallo.com</description>
-    </item>
-    <item>
-      <title>Computing sine and cosine of complex arguments with only real functions</title>
-      <link>https://www.johndcook.com/blog/2026/03/27/complex-argument/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/03/27/complex-argument/</guid>
-      <pubDate>Fri, 27 Mar 2026 11:33:04 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Apple Discontinues the Mac Pro With No Plans to Bring It Back</title>
-      <link>https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/</link>
-      <guid isPermaLink="true">https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/</guid>
-      <pubDate>Fri, 27 Mar 2026 00:56:39 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>We Rewrote JSONata with AI in a Day, Saved $500K/Year</title>
-      <link>https://simonwillison.net/2026/Mar/27/vine-porting-jsonata/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/27/vine-porting-jsonata/#atom-everything</guid>
-      <pubDate>Fri, 27 Mar 2026 00:35:01 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Working on products people hate</title>
-      <link>https://seangoedecke.com/working-on-products-people-hate/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/working-on-products-people-hate/</guid>
-      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
     </item>
   </channel>
 </rss>

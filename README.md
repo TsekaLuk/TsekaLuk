@@ -208,11 +208,11 @@ Last Updated: Thursday, April 2nd, 2026, 9:51:52 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Inside Apple’s AirPods Max 2 and the H2 Chip Upgrade](https://www.techradar.com/audio/earbuds-airpods/only-limited-by-the-physics-inside-apples-airpods-max-2-and-the-h2-chip-upgrade) — *Daring Fireball* `04-01`
-- [Hershey Says It Will Shift Back to Classic Recipe for All Reese’s Products After Criticism](https://apnews.com/article/hershey-reeses-chocolate-peanut-butter-cups-recipe-1c17247e190eb03952e1c197b6f872ce) — *Daring Fireball* `04-01`
-- [Apple Marks 50th Anniversary](https://www.apple.com/) — *Daring Fireball* `04-01`
-- [Say the Thing You Want](https://terriblesoftware.org/2026/04/01/say-the-thing-you-want/) — *Terrible Software* `04-01`
-- [The cover of C++: The Programming Language raises questions not answered by the cover](https://devblogs.microsoft.com/oldnewthing/20260401-00/?p=112180) — *The Old New Thing* `04-01`
+- [I should use argument groups in Python's argparse module more than I do](https://utcc.utoronto.ca/~cks/space/blog/python/ArgparseOptionGroupsPraise) — *Chris's Wiki :: blog* `04-02`
+- [Time is a User-Interface](https://www.joanwestenberg.com/tim/) — *Westenberg.* `04-02`
+- [Chris Espinosa, Employee #8, Profiled in The New York Times](https://www.nytimes.com/2026/04/01/technology/apple-employee-50-years.html?unlocked_article_code=1.X1A.QEzX.u6cPCOjBE3mT) — *Daring Fireball* `04-02`
+- [The Talk Show: ‘Apple at 50’](https://daringfireball.net/thetalkshow/2026/04/01/ep-445) — *Daring Fireball* `04-01`
+- [datasette-llm 0.1a6](https://simonwillison.net/2026/Apr/1/datasette-llm-2/#atom-everything) — *Simon Willison's Weblog* `04-01`
 <!--BLOG_RADAR:end-->
 
 ---
