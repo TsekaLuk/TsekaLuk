@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 02 Apr 2026 02:54:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 07:23:50 +0000</lastBuildDate>
+    <item>
+      <title>March 2026 sponsors-only newsletter</title>
+      <link>https://simonwillison.net/2026/Apr/2/march-newsletter/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/2/march-newsletter/#atom-everything</guid>
+      <pubDate>Thu, 02 Apr 2026 05:15:04 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>I should use argument groups in Python's argparse module more than I do</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/python/ArgparseOptionGroupsPraise</link>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://terriblesoftware.org/2026/03/27/good-taste-is-just-experience/</guid>
       <pubDate>Fri, 27 Mar 2026 19:35:32 +0000</pubDate>
       <description>Terrible Software</description>
-    </item>
-    <item>
-      <title>This Week on The Analog Antiquarian</title>
-      <link>https://www.filfre.net/2026/03/this-week-on-the-analog-antiquarian-2/</link>
-      <guid isPermaLink="true">https://www.filfre.net/2026/03/this-week-on-the-analog-antiquarian-2/</guid>
-      <pubDate>Fri, 27 Mar 2026 17:23:28 +0000</pubDate>
-      <description>The Digital Antiquarian</description>
     </item>
   </channel>
 </rss>

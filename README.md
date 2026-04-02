@@ -208,11 +208,11 @@ Last Updated: Thursday, April 2nd, 2026, 3:05:25 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [March 2026 sponsors-only newsletter](https://simonwillison.net/2026/Apr/2/march-newsletter/#atom-everything) — *Simon Willison's Weblog* `04-02`
 - [I should use argument groups in Python's argparse module more than I do](https://utcc.utoronto.ca/~cks/space/blog/python/ArgparseOptionGroupsPraise) — *Chris's Wiki :: blog* `04-02`
 - [Time is a User-Interface](https://www.joanwestenberg.com/tim/) — *Westenberg.* `04-02`
 - [Chris Espinosa, Employee #8, Profiled in The New York Times](https://www.nytimes.com/2026/04/01/technology/apple-employee-50-years.html?unlocked_article_code=1.X1A.QEzX.u6cPCOjBE3mT) — *Daring Fireball* `04-02`
 - [The Talk Show: ‘Apple at 50’](https://daringfireball.net/thetalkshow/2026/04/01/ep-445) — *Daring Fireball* `04-01`
-- [datasette-llm 0.1a6](https://simonwillison.net/2026/Apr/1/datasette-llm-2/#atom-everything) — *Simon Willison's Weblog* `04-01`
 <!--BLOG_RADAR:end-->
 
 ---
