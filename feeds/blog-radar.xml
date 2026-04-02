@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 02 Apr 2026 07:23:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 13:43:28 +0000</lastBuildDate>
+    <item>
+      <title>Information and Technological Evolution</title>
+      <link>https://www.construction-physics.com/p/information-and-technological-evolution</link>
+      <guid isPermaLink="true">https://www.construction-physics.com/p/information-and-technological-evolution</guid>
+      <pubDate>Thu, 02 Apr 2026 12:16:08 +0000</pubDate>
+      <description>Construction Physics</description>
+    </item>
+    <item>
+      <title>Concert Review: London Philharmonic - Pictures at an Exhibition ★★★★★</title>
+      <link>https://shkspr.mobi/blog/2026/04/concert-review-london-philharmonic-pictures-at-an-exhibition/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/concert-review-london-philharmonic-pictures-at-an-exhibition/</guid>
+      <pubDate>Thu, 02 Apr 2026 11:34:07 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Pluralistic: It's extremely good that Claude's source-code leaked (02 Apr 2026)</title>
+      <link>https://pluralistic.net/2026/04/02/limited-monopoly/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/04/02/limited-monopoly/</guid>
+      <pubDate>Thu, 02 Apr 2026 10:19:42 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>SQLAlchemy 2 In Practice - Chapter 3 - One-To-Many Relationships</title>
+      <link>https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-3---one-to-many-relationships</link>
+      <guid isPermaLink="true">https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-3---one-to-many-relationships</guid>
+      <pubDate>Thu, 02 Apr 2026 10:17:15 +0000</pubDate>
+      <description>Miguel Grinberg's Blog</description>
+    </item>
     <item>
       <title>March 2026 sponsors-only newsletter</title>
       <link>https://simonwillison.net/2026/Apr/2/march-newsletter/#atom-everything</link>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Mar/27/datasette-showboat/#atom-everything</guid>
       <pubDate>Fri, 27 Mar 2026 23:42:47 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Quoting Richard Fontana</title>
-      <link>https://simonwillison.net/2026/Mar/27/richard-fontana/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/27/richard-fontana/#atom-everything</guid>
-      <pubDate>Fri, 27 Mar 2026 21:11:17 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Vibe coding SwiftUI apps is a lot of fun</title>
-      <link>https://simonwillison.net/2026/Mar/27/vibe-coding-swiftui/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/27/vibe-coding-swiftui/#atom-everything</guid>
-      <pubDate>Fri, 27 Mar 2026 20:59:53 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>★ Apple Giveth, Apple Taketh Away</title>
-      <link>https://daringfireball.net/2026/03/apple_giveth_apple_taketh_away</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/03/apple_giveth_apple_taketh_away</guid>
-      <pubDate>Fri, 27 Mar 2026 20:46:14 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>“Good Taste” Is Just Experience</title>
-      <link>https://terriblesoftware.org/2026/03/27/good-taste-is-just-experience/</link>
-      <guid isPermaLink="true">https://terriblesoftware.org/2026/03/27/good-taste-is-just-experience/</guid>
-      <pubDate>Fri, 27 Mar 2026 19:35:32 +0000</pubDate>
-      <description>Terrible Software</description>
     </item>
   </channel>
 </rss>

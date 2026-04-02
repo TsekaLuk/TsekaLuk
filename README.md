@@ -208,11 +208,11 @@ Last Updated: Thursday, April 2nd, 2026, 9:00:32 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Information and Technological Evolution](https://www.construction-physics.com/p/information-and-technological-evolution) — *Construction Physics* `04-02`
+- [Concert Review: London Philharmonic - Pictures at an Exhibition ★★★★★](https://shkspr.mobi/blog/2026/04/concert-review-london-philharmonic-pictures-at-an-exhibition/) — *Terence Eden’s Blog* `04-02`
+- [Pluralistic: It's extremely good that Claude's source-code leaked (02 Apr 2026)](https://pluralistic.net/2026/04/02/limited-monopoly/) — *Pluralistic: Daily links from Cory Doctorow* `04-02`
+- [SQLAlchemy 2 In Practice - Chapter 3 - One-To-Many Relationships](https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-3---one-to-many-relationships) — *Miguel Grinberg's Blog* `04-02`
 - [March 2026 sponsors-only newsletter](https://simonwillison.net/2026/Apr/2/march-newsletter/#atom-everything) — *Simon Willison's Weblog* `04-02`
-- [I should use argument groups in Python's argparse module more than I do](https://utcc.utoronto.ca/~cks/space/blog/python/ArgparseOptionGroupsPraise) — *Chris's Wiki :: blog* `04-02`
-- [Time is a User-Interface](https://www.joanwestenberg.com/tim/) — *Westenberg.* `04-02`
-- [Chris Espinosa, Employee #8, Profiled in The New York Times](https://www.nytimes.com/2026/04/01/technology/apple-employee-50-years.html?unlocked_article_code=1.X1A.QEzX.u6cPCOjBE3mT) — *Daring Fireball* `04-02`
-- [The Talk Show: ‘Apple at 50’](https://daringfireball.net/thetalkshow/2026/04/01/ep-445) — *Daring Fireball* `04-01`
 <!--BLOG_RADAR:end-->
 
 ---
