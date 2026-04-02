@@ -4,7 +4,98 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 02 Apr 2026 13:43:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 19:06:21 +0000</lastBuildDate>
+    <item>
+      <title>The Blandness of Systematic Rules vs. The Delight of Localized Sensitivity</title>
+      <link>https://blog.jim-nielsen.com/2026/systemic-vs-localized/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/systemic-vs-localized/</guid>
+      <pubDate>Thu, 02 Apr 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
+    </item>
+    <item>
+      <title>OpenAI, Supposedly Tightening Its Focus on Its Core Products, Buys Tech-Industry Talk Show TBPN</title>
+      <link>https://www.wsj.com/cmo-today/openai-buys-tech-industry-talk-show-tbpn-484c01c5?st=RUVFWn</link>
+      <guid isPermaLink="true">https://www.wsj.com/cmo-today/openai-buys-tech-industry-talk-show-tbpn-484c01c5?st=RUVFWn</guid>
+      <pubDate>Thu, 02 Apr 2026 18:58:50 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Axios, Super Popular NPM Package, Was Compromised in Attack on the Module’s Maintainer</title>
+      <link>https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan</link>
+      <guid isPermaLink="true">https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan</guid>
+      <pubDate>Thu, 02 Apr 2026 18:42:39 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Gemma 4: Byte for byte, the most capable open models</title>
+      <link>https://simonwillison.net/2026/Apr/2/gemma-4/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/2/gemma-4/#atom-everything</guid>
+      <pubDate>Thu, 02 Apr 2026 18:28:54 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>llm-gemini 0.30</title>
+      <link>https://simonwillison.net/2026/Apr/2/llm-gemini/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/2/llm-gemini/#atom-everything</guid>
+      <pubDate>Thu, 02 Apr 2026 18:25:08 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>‘No, We’re Not Stupid. Our Dads Just Got Us Crummy Computers.’</title>
+      <link>https://www.reddit.com/r/VintageApple/comments/bq4ucw/mcintosh_jr_vintage_apple_parody/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/VintageApple/comments/bq4ucw/mcintosh_jr_vintage_apple_parody/</guid>
+      <pubDate>Thu, 02 Apr 2026 18:12:11 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Jason Snell on Covering Apple for 33 Years</title>
+      <link>https://www.macworld.com/article/3103792/thanks-for-the-wild-ride-apple-lets-keep-it-going.html</link>
+      <guid isPermaLink="true">https://www.macworld.com/article/3103792/thanks-for-the-wild-ride-apple-lets-keep-it-going.html</guid>
+      <pubDate>Thu, 02 Apr 2026 16:53:02 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>‘Great Things in Business Are Never Done by One Person. They’re Done by a Team of People.’</title>
+      <link>https://www.youtube.com/watch?v=vydmUCGQnyI</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=vydmUCGQnyI</guid>
+      <pubDate>Thu, 02 Apr 2026 15:17:27 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>★ David Pogue’s ‘Apple: The First 50 Years’</title>
+      <link>https://daringfireball.net/2026/04/pogue_apple_first_50_years</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/04/pogue_apple_first_50_years</guid>
+      <pubDate>Thu, 02 Apr 2026 14:57:28 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>David Pogue: ‘Apple and Me’</title>
+      <link>https://pogueman.substack.com/p/apple-and-me-the-first-50-years?triedRedirect=true</link>
+      <guid isPermaLink="true">https://pogueman.substack.com/p/apple-and-me-the-first-50-years?triedRedirect=true</guid>
+      <pubDate>Thu, 02 Apr 2026 14:15:45 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Artemis II, Apollo 8, and Apollo 13</title>
+      <link>https://www.johndcook.com/blog/2026/04/02/artemis-apollo/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/04/02/artemis-apollo/</guid>
+      <pubDate>Thu, 02 Apr 2026 14:14:44 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Why doesn’t the system let you declare your own messages to have the same semantics as WM_COPY­DATA?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260402-00/?p=112196</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260402-00/?p=112196</guid>
+      <pubDate>Thu, 02 Apr 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>Trump’s White House Ballroom Design Is Shit</title>
+      <link>https://www.nytimes.com/interactive/2026/03/29/upshot/white-house-ballroom.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/interactive/2026/03/29/upshot/white-house-ballroom.html</guid>
+      <pubDate>Thu, 02 Apr 2026 13:48:45 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Information and Technological Evolution</title>
       <link>https://www.construction-physics.com/p/information-and-technological-evolution</link>
@@ -60,6 +151,13 @@
       <guid isPermaLink="true">https://www.nytimes.com/2026/04/01/technology/apple-employee-50-years.html?unlocked_article_code=1.X1A.QEzX.u6cPCOjBE3mT</guid>
       <pubDate>Thu, 02 Apr 2026 00:10:29 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Spring 2026 Pebble App Contest + SDK Updates</title>
+      <link>https://repebble.com/blog/spring-2026-pebble-app-contest</link>
+      <guid isPermaLink="true">https://repebble.com/blog/spring-2026-pebble-app-contest</guid>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Eric Migicovsky's Blog RSS Feed</description>
     </item>
     <item>
       <title>The Talk Show: ‘Apple at 50’</title>
@@ -746,104 +844,6 @@
       <guid isPermaLink="true">https://www.fastcompany.com/91514404/apple-founding-50th-anniversary-apple-1-apple-ii-jobs-wozniak?mvgt=E5Loo3fO74zl</guid>
       <pubDate>Sat, 28 Mar 2026 21:57:01 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Netflix Wrecked Their tvOS Video Player</title>
-      <link>https://www.pocket-lint.com/netflix-just-made-their-app-worse-and-theres-no-way-to-fix-it/</link>
-      <guid isPermaLink="true">https://www.pocket-lint.com/netflix-just-made-their-app-worse-and-theres-no-way-to-fix-it/</guid>
-      <pubDate>Sat, 28 Mar 2026 15:52:08 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Self-Hosting: Still Worth It?</title>
-      <link>https://feed.tedium.co/link/15204/17308221/self-hosting-platform-tools-guide</link>
-      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17308221/self-hosting-platform-tools-guide</guid>
-      <pubDate>Sat, 28 Mar 2026 15:35:16 +0000</pubDate>
-      <description>Tedium: The Dull Side of the Internet.</description>
-    </item>
-    <item>
-      <title>Trump Is Putting His Signature on U.S. Currency</title>
-      <link>https://www.nytimes.com/2026/03/26/us/politics/trump-signature-us-dollars.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/03/26/us/politics/trump-signature-us-dollars.html</guid>
-      <pubDate>Sat, 28 Mar 2026 15:21:55 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>New York Post: ‘Trump Considers Renaming Strait of Hormuz’</title>
-      <link>https://nypost.com/2026/03/27/us-news/trump-considers-renaming-strait-of-hormuz-after-either-america-or-himself-once-he-evicts-iran/</link>
-      <guid isPermaLink="true">https://nypost.com/2026/03/27/us-news/trump-considers-renaming-strait-of-hormuz-after-either-america-or-himself-once-he-evicts-iran/</guid>
-      <pubDate>Sat, 28 Mar 2026 15:02:42 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>OpenBenches hits 40k</title>
-      <link>https://shkspr.mobi/blog/2026/03/openbenches-hits-40k/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/03/openbenches-hits-40k/</guid>
-      <pubDate>Sat, 28 Mar 2026 12:34:11 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Quoting Matt Webb</title>
-      <link>https://simonwillison.net/2026/Mar/28/matt-webb/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/28/matt-webb/#atom-everything</guid>
-      <pubDate>Sat, 28 Mar 2026 12:04:26 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Reading List 03/28/26</title>
-      <link>https://www.construction-physics.com/p/reading-list-032826</link>
-      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-032826</guid>
-      <pubDate>Sat, 28 Mar 2026 12:02:28 +0000</pubDate>
-      <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>Canonical's Netplan is hard to deal with in automation</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/NetplanVersusAutomation</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/NetplanVersusAutomation</guid>
-      <pubDate>Sat, 28 Mar 2026 03:10:37 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>Business Insider’s Subscriber Spiral</title>
-      <link>https://www.status.news/p/business-insider-subscription-decline-data</link>
-      <guid isPermaLink="true">https://www.status.news/p/business-insider-subscription-decline-data</guid>
-      <pubDate>Sat, 28 Mar 2026 00:48:14 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Apple Says It’s Not Aware of Lockdown Mode Ever Having Been Exploited</title>
-      <link>https://techcrunch.com/2026/03/27/apple-says-no-one-using-lockdown-mode-has-been-hacked-with-spyware/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/03/27/apple-says-no-one-using-lockdown-mode-has-been-hacked-with-spyware/</guid>
-      <pubDate>Sat, 28 Mar 2026 00:16:01 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Apple Announces Ads Are Coming to Apple Maps</title>
-      <link>https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/</link>
-      <guid isPermaLink="true">https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/</guid>
-      <pubDate>Sat, 28 Mar 2026 00:01:56 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Accessing Fork Commits via Original Repository</title>
-      <link>https://susam.net/fork-commits-via-original-repo.html</link>
-      <guid isPermaLink="true">https://susam.net/fork-commits-via-original-repo.html</guid>
-      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Susam Pal</description>
-    </item>
-    <item>
-      <title>Netflix Raises Prices Again</title>
-      <link>https://variety.com/2026/tv/news/why-netflix-hiked-prices-explained-chart-1236701365/</link>
-      <guid isPermaLink="true">https://variety.com/2026/tv/news/why-netflix-hiked-prices-explained-chart-1236701365/</guid>
-      <pubDate>Fri, 27 Mar 2026 23:43:21 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>datasette-showboat 0.1a2</title>
-      <link>https://simonwillison.net/2026/Mar/27/datasette-showboat/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/27/datasette-showboat/#atom-everything</guid>
-      <pubDate>Fri, 27 Mar 2026 23:42:47 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
