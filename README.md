@@ -208,11 +208,11 @@ Last Updated: Friday, April 3rd, 2026, 8:53:26 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Zipbombs are not as effective as they used to be](https://idiallo.com/blog/zip-bombs-are-not-as-effective-as-they-used-to-be?src=feed) — *iDiallo.com* `04-03`
+- [Book Review: Superintelligence - Paths, Dangers, Strategies by Nick Bostrom ★★★★⯪](https://shkspr.mobi/blog/2026/04/book-review-superintelligence-paths-dangers-strategies-by-nick-bostrom/) — *Terence Eden’s Blog* `04-03`
+- [Package Manager Easter Eggs](https://nesbitt.io/2026/04/03/package-manager-easter-eggs.html) — *Andrew Nesbitt* `04-03`
 - [The "Passive Income" trap ate a generation of entrepreneurs](https://www.joanwestenberg.com/the-passive-income-trap-ate-a-generation-of-entrepreneurs/) — *Westenberg.* `04-03`
 - [Em Dashes: Back In Style?](https://feed.tedium.co/link/15204/17312777/emdash-cloudflare-wordpress-competitor) — *Tedium: The Dull Side of the Internet.* `04-03`
-- [Using '<code>pkg</code>' for everything on FreeBSD 15 has been nice](https://utcc.utoronto.ca/~cks/space/blog/unix/FreeBSDPkgManagementNice) — *Chris's Wiki :: blog* `04-03`
-- [Hyperbolic version of Napier’s mnemonic](https://www.johndcook.com/blog/2026/04/02/hyperbolic-napier-mnemonic/) — *John D. Cook* `04-03`
-- [Automating starting Lambda Labs instances](https://www.gilesthomas.com/2026/04/automating-starting-lambda-instances) — *Giles' blog* `04-02`
 <!--BLOG_RADAR:end-->
 
 ---

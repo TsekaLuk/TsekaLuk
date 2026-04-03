@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 03 Apr 2026 07:20:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 13:19:37 +0000</lastBuildDate>
+    <item>
+      <title>Zipbombs are not as effective as they used to be</title>
+      <link>https://idiallo.com/blog/zip-bombs-are-not-as-effective-as-they-used-to-be?src=feed</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/zip-bombs-are-not-as-effective-as-they-used-to-be?src=feed</guid>
+      <pubDate>Fri, 03 Apr 2026 12:00:00 +0000</pubDate>
+      <description>iDiallo.com</description>
+    </item>
+    <item>
+      <title>Book Review: Superintelligence - Paths, Dangers, Strategies by Nick Bostrom ★★★★⯪</title>
+      <link>https://shkspr.mobi/blog/2026/04/book-review-superintelligence-paths-dangers-strategies-by-nick-bostrom/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/book-review-superintelligence-paths-dangers-strategies-by-nick-bostrom/</guid>
+      <pubDate>Fri, 03 Apr 2026 11:34:34 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Package Manager Easter Eggs</title>
+      <link>https://nesbitt.io/2026/04/03/package-manager-easter-eggs.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/04/03/package-manager-easter-eggs.html</guid>
+      <pubDate>Fri, 03 Apr 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
     <item>
       <title>The "Passive Income" trap ate a generation of entrepreneurs</title>
       <link>https://www.joanwestenberg.com/the-passive-income-trap-ate-a-generation-of-entrepreneurs/</link>
@@ -32,6 +53,13 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/04/02/hyperbolic-napier-mnemonic/</guid>
       <pubDate>Fri, 03 Apr 2026 01:38:49 +0000</pubDate>
       <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Programming (with AI agents) as theory building</title>
+      <link>https://seangoedecke.com/programming-with-ai-agents-as-theory-building/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/programming-with-ai-agents-as-theory-building/</guid>
+      <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>Automating starting Lambda Labs instances</title>
@@ -412,6 +440,13 @@
       <description>Eli Bendersky's website</description>
     </item>
     <item>
+      <title>Claude Code won April Fools Day this year</title>
+      <link>https://xeiaso.net/notes/2026/claude-code-wins-april-fools/</link>
+      <guid isPermaLink="true">https://xeiaso.net/notes/2026/claude-code-wins-april-fools/</guid>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
+    </item>
+    <item>
       <title>My ramblings are available over gopher</title>
       <link>https://maurycyz.com/misc/gopher/</link>
       <guid isPermaLink="true">https://maurycyz.com/misc/gopher/</guid>
@@ -424,13 +459,6 @@
       <guid isPermaLink="true">https://maurycyz.com/projects/gopher/</guid>
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
       <description>Maurycy's Blog</description>
-    </item>
-    <item>
-      <title>Claude Code won April Fools Day this year</title>
-      <link>https://xeiaso.net/notes/2026/claude-code-wins-april-fools/</link>
-      <guid isPermaLink="true">https://xeiaso.net/notes/2026/claude-code-wins-april-fools/</guid>
-      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>On the Vergecast, On Video</title>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://www.theverge.com/podcast/903068/macintosh-1984-version-history</guid>
       <pubDate>Sun, 29 Mar 2026 20:48:36 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The Verge: ‘Rank the Best Apple Products From the Last 50 Years’</title>
-      <link>https://www.theverge.com/cs/tech/900477/apple-50-anniversary-rank-products</link>
-      <guid isPermaLink="true">https://www.theverge.com/cs/tech/900477/apple-50-anniversary-rank-products</guid>
-      <pubDate>Sun, 29 Mar 2026 20:11:49 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Pretext</title>
-      <link>https://simonwillison.net/2026/Mar/29/pretext/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/29/pretext/#atom-everything</guid>
-      <pubDate>Sun, 29 Mar 2026 20:08:45 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Pretext — Under the Hood</title>
-      <link>https://simonwillison.net/2026/Mar/29/pretext-explainer/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/29/pretext-explainer/#atom-everything</guid>
-      <pubDate>Sun, 29 Mar 2026 19:59:28 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Python Vulnerability Lookup</title>
-      <link>https://simonwillison.net/2026/Mar/29/python-vulnerability-lookup/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/29/python-vulnerability-lookup/#atom-everything</guid>
-      <pubDate>Sun, 29 Mar 2026 18:46:16 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
