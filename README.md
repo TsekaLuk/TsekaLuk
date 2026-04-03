@@ -208,11 +208,11 @@ Last Updated: Friday, April 3rd, 2026, 3:01:53 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [The "Passive Income" trap ate a generation of entrepreneurs](https://www.joanwestenberg.com/the-passive-income-trap-ate-a-generation-of-entrepreneurs/) — *Westenberg.* `04-03`
+- [Em Dashes: Back In Style?](https://feed.tedium.co/link/15204/17312777/emdash-cloudflare-wordpress-competitor) — *Tedium: The Dull Side of the Internet.* `04-03`
+- [Using '<code>pkg</code>' for everything on FreeBSD 15 has been nice](https://utcc.utoronto.ca/~cks/space/blog/unix/FreeBSDPkgManagementNice) — *Chris's Wiki :: blog* `04-03`
 - [Hyperbolic version of Napier’s mnemonic](https://www.johndcook.com/blog/2026/04/02/hyperbolic-napier-mnemonic/) — *John D. Cook* `04-03`
 - [Automating starting Lambda Labs instances](https://www.gilesthomas.com/2026/04/automating-starting-lambda-instances) — *Giles' blog* `04-02`
-- [Highlights from my conversation about agentic engineering on Lenny's Podcast](https://simonwillison.net/2026/Apr/2/lennys-podcast/#atom-everything) — *Simon Willison's Weblog* `04-02`
-- [John Buck on the Invention of QuickTime](https://www.theverge.com/tech/902721/quicktime-history-apple?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IkcybHEzWGhZTVciLCJwIjoiL3RlY2gvOTAyNzIxL3F1aWNrdGltZS1oaXN0b3J5LWFwcGxlIiwiZXhwIjoxNzc1NTkyNzA0LCJpYXQiOjE3NzUxNjA3MDR9.p4nbje9XKl05Ybv3q31CyAQULuqAB-H9b8qfftSz12k) — *Daring Fireball* `04-02`
-- [Artemis II Crew on Way to Moon](https://512pixels.net/2026/04/artemis-ii-crew-on-way-to-moon/) — *Daring Fireball* `04-02`
 <!--BLOG_RADAR:end-->
 
 ---
