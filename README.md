@@ -208,11 +208,11 @@ Last Updated: Saturday, April 4th, 2026, 2:39:06 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Zipbombs are not as effective as they used to be](https://idiallo.com/blog/zip-bombs-are-not-as-effective-as-they-used-to-be?src=feed) — *iDiallo.com* `04-03`
-- [Book Review: Superintelligence - Paths, Dangers, Strategies by Nick Bostrom ★★★★⯪](https://shkspr.mobi/blog/2026/04/book-review-superintelligence-paths-dangers-strategies-by-nick-bostrom/) — *Terence Eden’s Blog* `04-03`
-- [Package Manager Easter Eggs](https://nesbitt.io/2026/04/03/package-manager-easter-eggs.html) — *Andrew Nesbitt* `04-03`
-- [The "Passive Income" trap ate a generation of entrepreneurs](https://www.joanwestenberg.com/the-passive-income-trap-ate-a-generation-of-entrepreneurs/) — *Westenberg.* `04-03`
-- [Em Dashes: Back In Style?](https://feed.tedium.co/link/15204/17312777/emdash-cloudflare-wordpress-competitor) — *Tedium: The Dull Side of the Internet.* `04-03`
+- [Apple Still Has Jessica Chastain’s ‘The Savant’ on Ice, Seven Months After It Was Set to Debut](https://www.macstories.net/news/coming-soon-whats-next-on-apple-tv-and-apple-arcade-in-april-2026/) — *Daring Fireball* `04-03`
+- [Roman moon, Greek moon](https://www.johndcook.com/blog/2026/04/03/roman-moon-greek-moon/) — *John D. Cook* `04-03`
+- [Can JavaScript Escape a CSP Meta Tag Inside an Iframe?](https://simonwillison.net/2026/Apr/3/test-csp-iframe-escape/#atom-everything) — *Simon Willison's Weblog* `04-03`
+- [Build your own Dial-up ISP with a Raspberry Pi](https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/) — *Jeff Geerling* `04-03`
+- [How can I use Read­Directory­ChangesW to know when someone is copying a file out of the directory?](https://devblogs.microsoft.com/oldnewthing/20260403-00/?p=112202) — *The Old New Thing* `04-03`
 <!--BLOG_RADAR:end-->
 
 ---

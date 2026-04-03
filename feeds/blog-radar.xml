@@ -4,7 +4,49 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 03 Apr 2026 13:19:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 18:58:32 +0000</lastBuildDate>
+    <item>
+      <title>Apple Still Has Jessica Chastain’s ‘The Savant’ on Ice, Seven Months After It Was Set to Debut</title>
+      <link>https://www.macstories.net/news/coming-soon-whats-next-on-apple-tv-and-apple-arcade-in-april-2026/</link>
+      <guid isPermaLink="true">https://www.macstories.net/news/coming-soon-whats-next-on-apple-tv-and-apple-arcade-in-april-2026/</guid>
+      <pubDate>Fri, 03 Apr 2026 18:20:04 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Roman moon, Greek moon</title>
+      <link>https://www.johndcook.com/blog/2026/04/03/roman-moon-greek-moon/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/04/03/roman-moon-greek-moon/</guid>
+      <pubDate>Fri, 03 Apr 2026 16:31:54 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Can JavaScript Escape a CSP Meta Tag Inside an Iframe?</title>
+      <link>https://simonwillison.net/2026/Apr/3/test-csp-iframe-escape/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/3/test-csp-iframe-escape/#atom-everything</guid>
+      <pubDate>Fri, 03 Apr 2026 16:05:00 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Build your own Dial-up ISP with a Raspberry Pi</title>
+      <link>https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/</guid>
+      <pubDate>Fri, 03 Apr 2026 14:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>How can I use Read­Directory­ChangesW to know when someone is copying a file out of the directory?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260403-00/?p=112202</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260403-00/?p=112202</guid>
+      <pubDate>Fri, 03 Apr 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>The Axios supply chain attack used individually targeted social engineering</title>
+      <link>https://simonwillison.net/2026/Apr/3/supply-chain-social-engineering/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/3/supply-chain-social-engineering/#atom-everything</guid>
+      <pubDate>Fri, 03 Apr 2026 13:54:53 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Zipbombs are not as effective as they used to be</title>
       <link>https://idiallo.com/blog/zip-bombs-are-not-as-effective-as-they-used-to-be?src=feed</link>
@@ -382,6 +424,13 @@
       <guid isPermaLink="true">https://pluralistic.net/2026/04/01/minilateralism/</guid>
       <pubDate>Wed, 01 Apr 2026 10:59:24 +0000</pubDate>
       <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>The Mystery of Rennes-le-Château, Part 3: A Secret History</title>
+      <link>https://www.filfre.net/2026/04/the-mystery-of-rennes-le-chateau-part-3-a-secret-history/</link>
+      <guid isPermaLink="true">https://www.filfre.net/2026/04/the-mystery-of-rennes-le-chateau-part-3-a-secret-history/</guid>
+      <pubDate>Wed, 01 Apr 2026 07:05:28 +0000</pubDate>
+      <description>The Digital Antiquarian</description>
     </item>
     <item>
       <title>datasette-extract 0.3a0</title>
@@ -795,55 +844,6 @@
       <guid isPermaLink="true">https://www.joanwestenberg.com/notes-on-going-solo-celebrating-6-years-of-studio-self/</guid>
       <pubDate>Mon, 30 Mar 2026 05:55:34 +0000</pubDate>
       <description>Westenberg.</description>
-    </item>
-    <item>
-      <title>How old our servers are (as of 2026)</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OurServerAges2026</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OurServerAges2026</guid>
-      <pubDate>Mon, 30 Mar 2026 02:25:46 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>llm-mrchatterbox 0.1</title>
-      <link>https://simonwillison.net/2026/Mar/30/llm-mrchatterbox-2/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/30/llm-mrchatterbox-2/#atom-everything</guid>
-      <pubDate>Mon, 30 Mar 2026 02:20:46 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Small note about AI 'GPUs'</title>
-      <link>https://xeiaso.net/notes/2026/ai-gpus-cant-process-graphics/</link>
-      <guid isPermaLink="true">https://xeiaso.net/notes/2026/ai-gpus-cant-process-graphics/</guid>
-      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
-      <title>Mar '26 Notes</title>
-      <link>https://susam.net/26c.html</link>
-      <guid isPermaLink="true">https://susam.net/26c.html</guid>
-      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Susam Pal</description>
-    </item>
-    <item>
-      <title>WorkOS</title>
-      <link>https://workos.com/docs/authkit/cli-installer?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q12026</link>
-      <guid isPermaLink="true">https://workos.com/docs/authkit/cli-installer?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q12026</guid>
-      <pubDate>Sun, 29 Mar 2026 20:50:00 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The Talk Show: ‘You’re Going to Have the Niggles’</title>
-      <link>https://daringfireball.net/thetalkshow/2026/03/29/ep-444</link>
-      <guid isPermaLink="true">https://daringfireball.net/thetalkshow/2026/03/29/ep-444</guid>
-      <pubDate>Sun, 29 Mar 2026 20:49:00 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Version History: ‘The Macintosh’</title>
-      <link>https://www.theverge.com/podcast/903068/macintosh-1984-version-history</link>
-      <guid isPermaLink="true">https://www.theverge.com/podcast/903068/macintosh-1984-version-history</guid>
-      <pubDate>Sun, 29 Mar 2026 20:48:36 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
