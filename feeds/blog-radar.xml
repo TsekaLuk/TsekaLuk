@@ -4,7 +4,42 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 02 Apr 2026 19:06:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 02:56:25 +0000</lastBuildDate>
+    <item>
+      <title>Hyperbolic version of Napier’s mnemonic</title>
+      <link>https://www.johndcook.com/blog/2026/04/02/hyperbolic-napier-mnemonic/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/04/02/hyperbolic-napier-mnemonic/</guid>
+      <pubDate>Fri, 03 Apr 2026 01:38:49 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Automating starting Lambda Labs instances</title>
+      <link>https://www.gilesthomas.com/2026/04/automating-starting-lambda-instances</link>
+      <guid isPermaLink="true">https://www.gilesthomas.com/2026/04/automating-starting-lambda-instances</guid>
+      <pubDate>Thu, 02 Apr 2026 23:30:00 +0000</pubDate>
+      <description>Giles' blog</description>
+    </item>
+    <item>
+      <title>Highlights from my conversation about agentic engineering on Lenny's Podcast</title>
+      <link>https://simonwillison.net/2026/Apr/2/lennys-podcast/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/2/lennys-podcast/#atom-everything</guid>
+      <pubDate>Thu, 02 Apr 2026 20:40:47 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>John Buck on the Invention of QuickTime</title>
+      <link>https://www.theverge.com/tech/902721/quicktime-history-apple?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IkcybHEzWGhZTVciLCJwIjoiL3RlY2gvOTAyNzIxL3F1aWNrdGltZS1oaXN0b3J5LWFwcGxlIiwiZXhwIjoxNzc1NTkyNzA0LCJpYXQiOjE3NzUxNjA3MDR9.p4nbje9XKl05Ybv3q31CyAQULuqAB-H9b8qfftSz12k</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/902721/quicktime-history-apple?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IkcybHEzWGhZTVciLCJwIjoiL3RlY2gvOTAyNzIxL3F1aWNrdGltZS1oaXN0b3J5LWFwcGxlIiwiZXhwIjoxNzc1NTkyNzA0LCJpYXQiOjE3NzUxNjA3MDR9.p4nbje9XKl05Ybv3q31CyAQULuqAB-H9b8qfftSz12k</guid>
+      <pubDate>Thu, 02 Apr 2026 20:12:07 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Artemis II Crew on Way to Moon</title>
+      <link>https://512pixels.net/2026/04/artemis-ii-crew-on-way-to-moon/</link>
+      <guid isPermaLink="true">https://512pixels.net/2026/04/artemis-ii-crew-on-way-to-moon/</guid>
+      <pubDate>Thu, 02 Apr 2026 19:37:10 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>The Blandness of Systematic Rules vs. The Delight of Localized Sensitivity</title>
       <link>https://blog.jim-nielsen.com/2026/systemic-vs-localized/</link>
@@ -809,41 +844,6 @@
       <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/tech/NewOldSystems</guid>
       <pubDate>Sun, 29 Mar 2026 02:52:19 +0000</pubDate>
       <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator</title>
-      <link>https://oldvcr.blogspot.com/2026/03/6o6-v11-faster-6502-on-6502.html</link>
-      <guid isPermaLink="true">https://oldvcr.blogspot.com/2026/03/6o6-v11-faster-6502-on-6502.html</guid>
-      <pubDate>Sun, 29 Mar 2026 02:30:00 +0000</pubDate>
-      <description>Old Vintage Computing Research</description>
-    </item>
-    <item>
-      <title>telecheck and tyms past</title>
-      <link>https://computer.rip/2026-03-29-telecheck-and-tyms-past.html</link>
-      <guid isPermaLink="true">https://computer.rip/2026-03-29-telecheck-and-tyms-past.html</guid>
-      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
-      <description>computers are bad</description>
-    </item>
-    <item>
-      <title>The 2019 Intel Mac Pro’s Unfortunate Timing</title>
-      <link>https://512pixels.net/2026/03/how-apple-could-have-saved-the-mac-pro/</link>
-      <guid isPermaLink="true">https://512pixels.net/2026/03/how-apple-could-have-saved-the-mac-pro/</guid>
-      <pubDate>Sat, 28 Mar 2026 23:47:39 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Apple Should Set and Enforce Some Basic Standards for Custom Video Players on tvOS</title>
-      <link>https://daringfireball.net/2024/03/quickly_toggling_closed_captions_on_apple_tv</link>
-      <guid isPermaLink="true">https://daringfireball.net/2024/03/quickly_toggling_closed_captions_on_apple_tv</guid>
-      <pubDate>Sat, 28 Mar 2026 23:25:47 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>‘How Apple Became Apple: The Definitive Oral History of the Company’s Earliest Days’</title>
-      <link>https://www.fastcompany.com/91514404/apple-founding-50th-anniversary-apple-1-apple-ii-jobs-wozniak?mvgt=E5Loo3fO74zl</link>
-      <guid isPermaLink="true">https://www.fastcompany.com/91514404/apple-founding-50th-anniversary-apple-1-apple-ii-jobs-wozniak?mvgt=E5Loo3fO74zl</guid>
-      <pubDate>Sat, 28 Mar 2026 21:57:01 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>

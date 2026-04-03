@@ -208,11 +208,11 @@ Last Updated: Friday, April 3rd, 2026, 9:53:25 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [The Blandness of Systematic Rules vs. The Delight of Localized Sensitivity](https://blog.jim-nielsen.com/2026/systemic-vs-localized/) — *Jim Nielsen’s Blog* `04-02`
-- [OpenAI, Supposedly Tightening Its Focus on Its Core Products, Buys Tech-Industry Talk Show TBPN](https://www.wsj.com/cmo-today/openai-buys-tech-industry-talk-show-tbpn-484c01c5?st=RUVFWn) — *Daring Fireball* `04-02`
-- [Axios, Super Popular NPM Package, Was Compromised in Attack on the Module’s Maintainer](https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan) — *Daring Fireball* `04-02`
-- [Gemma 4: Byte for byte, the most capable open models](https://simonwillison.net/2026/Apr/2/gemma-4/#atom-everything) — *Simon Willison's Weblog* `04-02`
-- [llm-gemini 0.30](https://simonwillison.net/2026/Apr/2/llm-gemini/#atom-everything) — *Simon Willison's Weblog* `04-02`
+- [Hyperbolic version of Napier’s mnemonic](https://www.johndcook.com/blog/2026/04/02/hyperbolic-napier-mnemonic/) — *John D. Cook* `04-03`
+- [Automating starting Lambda Labs instances](https://www.gilesthomas.com/2026/04/automating-starting-lambda-instances) — *Giles' blog* `04-02`
+- [Highlights from my conversation about agentic engineering on Lenny's Podcast](https://simonwillison.net/2026/Apr/2/lennys-podcast/#atom-everything) — *Simon Willison's Weblog* `04-02`
+- [John Buck on the Invention of QuickTime](https://www.theverge.com/tech/902721/quicktime-history-apple?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IkcybHEzWGhZTVciLCJwIjoiL3RlY2gvOTAyNzIxL3F1aWNrdGltZS1oaXN0b3J5LWFwcGxlIiwiZXhwIjoxNzc1NTkyNzA0LCJpYXQiOjE3NzUxNjA3MDR9.p4nbje9XKl05Ybv3q31CyAQULuqAB-H9b8qfftSz12k) — *Daring Fireball* `04-02`
+- [Artemis II Crew on Way to Moon](https://512pixels.net/2026/04/artemis-ii-crew-on-way-to-moon/) — *Daring Fireball* `04-02`
 <!--BLOG_RADAR:end-->
 
 ---
