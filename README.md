@@ -208,11 +208,11 @@ Last Updated: Saturday, April 4th, 2026, 9:46:40 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Apple Still Has Jessica Chastain’s ‘The Savant’ on Ice, Seven Months After It Was Set to Debut](https://www.macstories.net/news/coming-soon-whats-next-on-apple-tv-and-apple-arcade-in-april-2026/) — *Daring Fireball* `04-03`
-- [Roman moon, Greek moon](https://www.johndcook.com/blog/2026/04/03/roman-moon-greek-moon/) — *John D. Cook* `04-03`
-- [Can JavaScript Escape a CSP Meta Tag Inside an Iframe?](https://simonwillison.net/2026/Apr/3/test-csp-iframe-escape/#atom-everything) — *Simon Willison's Weblog* `04-03`
-- [Build your own Dial-up ISP with a Raspberry Pi](https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/) — *Jeff Geerling* `04-03`
-- [How can I use Read­Directory­ChangesW to know when someone is copying a file out of the directory?](https://devblogs.microsoft.com/oldnewthing/20260403-00/?p=112202) — *The Old New Thing* `04-03`
+- [Quoting Kyle Daigle](https://simonwillison.net/2026/Apr/4/kyle-daigle/#atom-everything) — *Simon Willison's Weblog* `04-04`
+- [Web server ratelimits are a precaution to let me stop worrying](https://utcc.utoronto.ca/~cks/space/blog/web/RatelimitsAreAPrecaution) — *Chris's Wiki :: blog* `04-04`
+- [Vulnerability Research Is Cooked](https://simonwillison.net/2026/Apr/3/vulnerability-research-is-cooked/#atom-everything) — *Simon Willison's Weblog* `04-03`
+- [The cognitive impact of coding agents](https://simonwillison.net/2026/Apr/3/cognitive-cost/#atom-everything) — *Simon Willison's Weblog* `04-03`
+- [Writing an LLM from scratch, part 32h -- Interventions: full fat float32](https://www.gilesthomas.com/2026/04/llm-from-scratch-32h-interventions-full-fat-float32) — *Giles' blog* `04-03`
 <!--BLOG_RADAR:end-->
 
 ---

@@ -4,7 +4,77 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 03 Apr 2026 18:58:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 02:46:40 +0000</lastBuildDate>
+    <item>
+      <title>Quoting Kyle Daigle</title>
+      <link>https://simonwillison.net/2026/Apr/4/kyle-daigle/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/4/kyle-daigle/#atom-everything</guid>
+      <pubDate>Sat, 04 Apr 2026 02:20:17 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Web server ratelimits are a precaution to let me stop worrying</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/web/RatelimitsAreAPrecaution</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/web/RatelimitsAreAPrecaution</guid>
+      <pubDate>Sat, 04 Apr 2026 00:03:51 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>Vulnerability Research Is Cooked</title>
+      <link>https://simonwillison.net/2026/Apr/3/vulnerability-research-is-cooked/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/3/vulnerability-research-is-cooked/#atom-everything</guid>
+      <pubDate>Fri, 03 Apr 2026 23:59:08 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>The cognitive impact of coding agents</title>
+      <link>https://simonwillison.net/2026/Apr/3/cognitive-cost/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/3/cognitive-cost/#atom-everything</guid>
+      <pubDate>Fri, 03 Apr 2026 23:57:04 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Writing an LLM from scratch, part 32h -- Interventions: full fat float32</title>
+      <link>https://www.gilesthomas.com/2026/04/llm-from-scratch-32h-interventions-full-fat-float32</link>
+      <guid isPermaLink="true">https://www.gilesthomas.com/2026/04/llm-from-scratch-32h-interventions-full-fat-float32</guid>
+      <pubDate>Fri, 03 Apr 2026 23:50:00 +0000</pubDate>
+      <description>Giles' blog</description>
+    </item>
+    <item>
+      <title>Quoting Willy Tarreau</title>
+      <link>https://simonwillison.net/2026/Apr/3/willy-tarreau/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/3/willy-tarreau/#atom-everything</guid>
+      <pubDate>Fri, 03 Apr 2026 21:48:22 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Quoting Daniel Stenberg</title>
+      <link>https://simonwillison.net/2026/Apr/3/daniel-stenberg/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/3/daniel-stenberg/#atom-everything</guid>
+      <pubDate>Fri, 03 Apr 2026 21:46:07 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Quoting Greg Kroah-Hartman</title>
+      <link>https://simonwillison.net/2026/Apr/3/greg-kroah-hartman/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/3/greg-kroah-hartman/#atom-everything</guid>
+      <pubDate>Fri, 03 Apr 2026 21:44:41 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Premium: AI Isn't Too Big To Fail</title>
+      <link>https://www.wheresyoured.at/premium-ai-isnt-too-big-to-fail/</link>
+      <guid isPermaLink="true">https://www.wheresyoured.at/premium-ai-isnt-too-big-to-fail/</guid>
+      <pubDate>Fri, 03 Apr 2026 21:11:26 +0000</pubDate>
+      <description>Ed Zitron's Where's Your Ed At</description>
+    </item>
+    <item>
+      <title>Apple Releases iOS 18 Security Updates for iOS 26 Holdouts</title>
+      <link>https://sixcolors.com/post/2026/04/apple-releases-ios-18-security-updates-for-ios-26-holdouts/</link>
+      <guid isPermaLink="true">https://sixcolors.com/post/2026/04/apple-releases-ios-18-security-updates-for-ios-26-holdouts/</guid>
+      <pubDate>Fri, 03 Apr 2026 19:28:36 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Apple Still Has Jessica Chastain’s ‘The Savant’ on Ice, Seven Months After It Was Set to Debut</title>
       <link>https://www.macstories.net/news/coming-soon-whats-next-on-apple-tv-and-apple-arcade-in-april-2026/</link>
@@ -48,7 +118,7 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>Zipbombs are not as effective as they used to be</title>
+      <title>My Zip bomb strategy is not as effective as it used to be</title>
       <link>https://idiallo.com/blog/zip-bombs-are-not-as-effective-as-they-used-to-be?src=feed</link>
       <guid isPermaLink="true">https://idiallo.com/blog/zip-bombs-are-not-as-effective-as-they-used-to-be?src=feed</guid>
       <pubDate>Fri, 03 Apr 2026 12:00:00 +0000</pubDate>
@@ -102,6 +172,13 @@
       <guid isPermaLink="true">https://seangoedecke.com/programming-with-ai-agents-as-theory-building/</guid>
       <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Loading... [13 kB]</title>
+      <link>https://maurycyz.com/misc/13kb/</link>
+      <guid isPermaLink="true">https://maurycyz.com/misc/13kb/</guid>
+      <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
     </item>
     <item>
       <title>Automating starting Lambda Labs instances</title>
@@ -685,18 +762,18 @@
       <description>Westenberg.</description>
     </item>
     <item>
-      <title>Notes from March 2026</title>
-      <link>https://evanhahn.com/notes-from-march-2026/</link>
-      <guid isPermaLink="true">https://evanhahn.com/notes-from-march-2026/</guid>
-      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Evan Hahn (dot com)</description>
-    </item>
-    <item>
       <title>Making human languages irrelevant</title>
       <link>https://rakhim.exotext.com/making-human-languages-irrelevant</link>
       <guid isPermaLink="true">https://rakhim.exotext.com/making-human-languages-irrelevant</guid>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
       <description>Rakhim's blog</description>
+    </item>
+    <item>
+      <title>Notes from March 2026</title>
+      <link>https://evanhahn.com/notes-from-march-2026/</link>
+      <guid isPermaLink="true">https://evanhahn.com/notes-from-march-2026/</guid>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Evan Hahn (dot com)</description>
     </item>
     <item>
       <title>Defending Privacy, Daily</title>
@@ -767,83 +844,6 @@
       <guid isPermaLink="true">https://pluralistic.net/2026/03/30/players-of-games/</guid>
       <pubDate>Mon, 30 Mar 2026 17:27:20 +0000</pubDate>
       <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>The Webs Digital Locks have Never had a Stronger Opponent</title>
-      <link>https://blog.pixelmelt.dev/the-webs-digital-locks/</link>
-      <guid isPermaLink="true">https://blog.pixelmelt.dev/the-webs-digital-locks/</guid>
-      <pubDate>Mon, 30 Mar 2026 17:18:09 +0000</pubDate>
-      <description>Cats with power tools</description>
-    </item>
-    <item>
-      <title>‘The Brand Age’</title>
-      <link>https://paulgraham.com/brandage.html</link>
-      <guid isPermaLink="true">https://paulgraham.com/brandage.html</guid>
-      <pubDate>Mon, 30 Mar 2026 16:46:31 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Macs of Unusual Size</title>
-      <link>https://scottknaster.substack.com/p/macs-of-unusual-size</link>
-      <guid isPermaLink="true">https://scottknaster.substack.com/p/macs-of-unusual-size</guid>
-      <pubDate>Mon, 30 Mar 2026 16:24:40 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Clip Show</title>
-      <link>https://geohot.github.io//blog/jekyll/update/2026/03/31/clip-show.html</link>
-      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/03/31/clip-show.html</guid>
-      <pubDate>Mon, 30 Mar 2026 16:00:00 +0000</pubDate>
-      <description>the singularity is nearer</description>
-    </item>
-    <item>
-      <title>Closed Source AI = Neofeudalism</title>
-      <link>https://geohot.github.io//blog/jekyll/update/2026/03/31/free-intelligence.html</link>
-      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/03/31/free-intelligence.html</guid>
-      <pubDate>Mon, 30 Mar 2026 16:00:00 +0000</pubDate>
-      <description>the singularity is nearer</description>
-    </item>
-    <item>
-      <title>Mr. Chatterbox is a (weak) Victorian-era ethically trained model you can run on your own computer</title>
-      <link>https://simonwillison.net/2026/Mar/30/mr-chatterbox/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/30/mr-chatterbox/#atom-everything</guid>
-      <pubDate>Mon, 30 Mar 2026 14:28:34 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>A question about the maximimum number of values in a registry key raises questions about the question</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260330-00/?p=112175</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260330-00/?p=112175</guid>
-      <pubDate>Mon, 30 Mar 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>How Do We Get Developers to Read the Docs</title>
-      <link>https://idiallo.com/blog/how-do-we-get-developers-to-read-the-docs?src=feed</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/how-do-we-get-developers-to-read-the-docs?src=feed</guid>
-      <pubDate>Mon, 30 Mar 2026 12:00:00 +0000</pubDate>
-      <description>iDiallo.com</description>
-    </item>
-    <item>
-      <title>Gig Review: Vitamin String Quartet at The Barbican ★★★★★</title>
-      <link>https://shkspr.mobi/blog/2026/03/gig-review-vitamin-string-quartet-at-the-barbican/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/03/gig-review-vitamin-string-quartet-at-the-barbican/</guid>
-      <pubDate>Mon, 30 Mar 2026 11:34:35 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Git Diff Drivers</title>
-      <link>https://nesbitt.io/2026/03/30/git-diff-drivers.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/03/30/git-diff-drivers.html</guid>
-      <pubDate>Mon, 30 Mar 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Notes on going solo: celebrating 6 years of Studio Self</title>
-      <link>https://www.joanwestenberg.com/notes-on-going-solo-celebrating-6-years-of-studio-self/</link>
-      <guid isPermaLink="true">https://www.joanwestenberg.com/notes-on-going-solo-celebrating-6-years-of-studio-self/</guid>
-      <pubDate>Mon, 30 Mar 2026 05:55:34 +0000</pubDate>
-      <description>Westenberg.</description>
     </item>
   </channel>
 </rss>
