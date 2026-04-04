@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 04 Apr 2026 13:11:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 18:54:29 +0000</lastBuildDate>
+    <item>
+      <title>Kalman and Bayes average grades</title>
+      <link>https://www.johndcook.com/blog/2026/04/04/kalman-bayes/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/04/04/kalman-bayes/</guid>
+      <pubDate>Sat, 04 Apr 2026 15:00:14 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
     <item>
       <title>Reading List 04/04/2026</title>
       <link>https://www.construction-physics.com/p/reading-list-04042026</link>
@@ -60,6 +67,13 @@
       <guid isPermaLink="true">https://lucumr.pocoo.org/2026/4/4/absurd-in-production/</guid>
       <pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
       <description>Armin Ronacher's Thoughts and Writings</description>
+    </item>
+    <item>
+      <title>Wander Console 0.4.0</title>
+      <link>https://susam.net/code/news/wander/0.4.0.html</link>
+      <guid isPermaLink="true">https://susam.net/code/news/wander/0.4.0.html</guid>
+      <pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Susam Pal</description>
     </item>
     <item>
       <title>Vulnerability Research Is Cooked</title>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://anildash.com/2026/03/31/defending-privacy-daily/</guid>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
       <description>Anil Dash</description>
-    </item>
-    <item>
-      <title>datasette-files 0.1a3</title>
-      <link>https://simonwillison.net/2026/Mar/30/datasette-files/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/30/datasette-files/#atom-everything</guid>
-      <pubDate>Mon, 30 Mar 2026 23:58:49 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>The MVC Mistake</title>
-      <link>https://entropicthoughts.com/mvc-mistake</link>
-      <guid isPermaLink="true">https://entropicthoughts.com/mvc-mistake</guid>
-      <pubDate>Mon, 30 Mar 2026 22:00:00 +0000</pubDate>
-      <description>Entropic Thoughts</description>
     </item>
   </channel>
 </rss>

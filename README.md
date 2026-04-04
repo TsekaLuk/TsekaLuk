@@ -208,11 +208,11 @@ Last Updated: Sunday, April 5th, 2026, 2:33:53 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Kalman and Bayes average grades](https://www.johndcook.com/blog/2026/04/04/kalman-bayes/) — *John D. Cook* `04-04`
 - [Reading List 04/04/2026](https://www.construction-physics.com/p/reading-list-04042026) — *Construction Physics* `04-04`
 - [The AI writing witchhunt is pointless.](https://www.joanwestenberg.com/the-ai-writing-witchhunt-is-pointless/) — *Westenberg.* `04-04`
 - [Welcome to RSS Club!](https://shkspr.mobi/blog/2026/04/welcome-to-rss-club/) — *Terence Eden’s Blog* `04-04`
 - [What does Open Source mean?](https://nesbitt.io/2026/04/04/what-does-open-source-mean.html) — *Andrew Nesbitt* `04-04`
-- [Pluralistic: EU ready to cave to Trump on tech (04 Apr 2026)](https://pluralistic.net/2026/04/04/digital-subjugation/) — *Pluralistic: Daily links from Cory Doctorow* `04-04`
 <!--BLOG_RADAR:end-->
 
 ---
