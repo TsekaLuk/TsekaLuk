@@ -4,7 +4,42 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 04 Apr 2026 07:10:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 13:11:39 +0000</lastBuildDate>
+    <item>
+      <title>Reading List 04/04/2026</title>
+      <link>https://www.construction-physics.com/p/reading-list-04042026</link>
+      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-04042026</guid>
+      <pubDate>Sat, 04 Apr 2026 12:01:48 +0000</pubDate>
+      <description>Construction Physics</description>
+    </item>
+    <item>
+      <title>The AI writing witchhunt is pointless.</title>
+      <link>https://www.joanwestenberg.com/the-ai-writing-witchhunt-is-pointless/</link>
+      <guid isPermaLink="true">https://www.joanwestenberg.com/the-ai-writing-witchhunt-is-pointless/</guid>
+      <pubDate>Sat, 04 Apr 2026 12:01:37 +0000</pubDate>
+      <description>Westenberg.</description>
+    </item>
+    <item>
+      <title>Welcome to RSS Club!</title>
+      <link>https://shkspr.mobi/blog/2026/04/welcome-to-rss-club/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/welcome-to-rss-club/</guid>
+      <pubDate>Sat, 04 Apr 2026 11:34:13 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>What does Open Source mean?</title>
+      <link>https://nesbitt.io/2026/04/04/what-does-open-source-mean.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/04/04/what-does-open-source-mean.html</guid>
+      <pubDate>Sat, 04 Apr 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>Pluralistic: EU ready to cave to Trump on tech (04 Apr 2026)</title>
+      <link>https://pluralistic.net/2026/04/04/digital-subjugation/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/04/04/digital-subjugation/</guid>
+      <pubDate>Sat, 04 Apr 2026 07:49:19 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
     <item>
       <title>Quoting Kyle Daigle</title>
       <link>https://simonwillison.net/2026/Apr/4/kyle-daigle/#atom-everything</link>
@@ -18,6 +53,13 @@
       <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/web/RatelimitsAreAPrecaution</guid>
       <pubDate>Sat, 04 Apr 2026 00:03:51 +0000</pubDate>
       <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>Absurd In Production</title>
+      <link>https://lucumr.pocoo.org/2026/4/4/absurd-in-production/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/4/4/absurd-in-production/</guid>
+      <pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
       <title>Vulnerability Research Is Cooked</title>
@@ -566,13 +608,6 @@
       <description>Eli Bendersky's website</description>
     </item>
     <item>
-      <title>Claude Code won April Fools Day this year</title>
-      <link>https://xeiaso.net/notes/2026/claude-code-wins-april-fools/</link>
-      <guid isPermaLink="true">https://xeiaso.net/notes/2026/claude-code-wins-april-fools/</guid>
-      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
       <title>My ramblings are available over gopher</title>
       <link>https://maurycyz.com/misc/gopher/</link>
       <guid isPermaLink="true">https://maurycyz.com/misc/gopher/</guid>
@@ -585,6 +620,13 @@
       <guid isPermaLink="true">https://maurycyz.com/projects/gopher/</guid>
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
       <description>Maurycy's Blog</description>
+    </item>
+    <item>
+      <title>Claude Code won April Fools Day this year</title>
+      <link>https://xeiaso.net/notes/2026/claude-code-wins-april-fools/</link>
+      <guid isPermaLink="true">https://xeiaso.net/notes/2026/claude-code-wins-april-fools/</guid>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>On the Vergecast, On Video</title>
@@ -776,18 +818,18 @@
       <description>Rakhim's blog</description>
     </item>
     <item>
-      <title>Defending Privacy, Daily</title>
-      <link>https://anildash.com/2026/03/31/defending-privacy-daily/</link>
-      <guid isPermaLink="true">https://anildash.com/2026/03/31/defending-privacy-daily/</guid>
-      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Anil Dash</description>
-    </item>
-    <item>
       <title>Telnyx, LiteLLM and Axios: the supply chain crisis</title>
       <link>https://martinalderson.com/posts/telnyx-litellm-axios-supply-chain-crisis/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
       <guid isPermaLink="true">https://martinalderson.com/posts/telnyx-litellm-axios-supply-chain-crisis/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
       <description>Martin Alderson</description>
+    </item>
+    <item>
+      <title>Defending Privacy, Daily</title>
+      <link>https://anildash.com/2026/03/31/defending-privacy-daily/</link>
+      <guid isPermaLink="true">https://anildash.com/2026/03/31/defending-privacy-daily/</guid>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Anil Dash</description>
     </item>
     <item>
       <title>datasette-files 0.1a3</title>
@@ -802,48 +844,6 @@
       <guid isPermaLink="true">https://entropicthoughts.com/mvc-mistake</guid>
       <pubDate>Mon, 30 Mar 2026 22:00:00 +0000</pubDate>
       <description>Entropic Thoughts</description>
-    </item>
-    <item>
-      <title>Quoting Georgi Gerganov</title>
-      <link>https://simonwillison.net/2026/Mar/30/georgi-gerganov/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/30/georgi-gerganov/#atom-everything</guid>
-      <pubDate>Mon, 30 Mar 2026 21:31:02 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>[Sponsor] Material Security</title>
-      <link>https://material.security/lp-cloud-office-security?utm_source=third-party&amp;utm_medium=email&amp;utm_campaign=20260330-daringfireball</link>
-      <guid isPermaLink="true">https://material.security/lp-cloud-office-security?utm_source=third-party&amp;utm_medium=email&amp;utm_campaign=20260330-daringfireball</guid>
-      <pubDate>Mon, 30 Mar 2026 21:23:19 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>datasette-llm 0.1a3</title>
-      <link>https://simonwillison.net/2026/Mar/30/datasette-llm/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/30/datasette-llm/#atom-everything</guid>
-      <pubDate>Mon, 30 Mar 2026 19:48:43 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Continuous, Continuous, Continuous</title>
-      <link>https://blog.jim-nielsen.com/2026/continuous-continuous-continuous/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/continuous-continuous-continuous/</guid>
-      <pubDate>Mon, 30 Mar 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
-      <title>HIBP Mega Update: Passkeys, k-Anonymity Searches, Massive Speed Enhancements and a Bulk Domain Verification API</title>
-      <link>https://www.troyhunt.com/passkeys-k-anonymity-searches-massive-speed-enhancements-bulk-domain-verification-api/</link>
-      <guid isPermaLink="true">https://www.troyhunt.com/passkeys-k-anonymity-searches-massive-speed-enhancements-bulk-domain-verification-api/</guid>
-      <pubDate>Mon, 30 Mar 2026 18:42:30 +0000</pubDate>
-      <description>Troy Hunt</description>
-    </item>
-    <item>
-      <title>Pluralistic: Market participation is exhausting (30 Mar 2026)</title>
-      <link>https://pluralistic.net/2026/03/30/players-of-games/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/03/30/players-of-games/</guid>
-      <pubDate>Mon, 30 Mar 2026 17:27:20 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
     </item>
   </channel>
 </rss>
