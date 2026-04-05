@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 05 Apr 2026 07:17:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 13:13:11 +0000</lastBuildDate>
+    <item>
+      <title>Someone at BrowserStack is Leaking Users' Email Address</title>
+      <link>https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/</guid>
+      <pubDate>Sun, 05 Apr 2026 11:34:03 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>It's not that deep</title>
+      <link>https://idiallo.com/blog/its-not-that-deep?src=feed</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/its-not-that-deep?src=feed</guid>
+      <pubDate>Sun, 05 Apr 2026 08:00:00 +0000</pubDate>
+      <description>iDiallo.com</description>
+    </item>
     <item>
       <title>scan-for-secrets 0.2</title>
       <link>https://simonwillison.net/2026/Apr/5/scan-for-secrets/#atom-everything</link>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/03/31/quantum-y2k/</guid>
       <pubDate>Tue, 31 Mar 2026 14:43:06 +0000</pubDate>
       <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Before you check if an update caused your problem, check that it wasn’t a problem before the update</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260331-00/?p=112177</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260331-00/?p=112177</guid>
-      <pubDate>Tue, 31 Mar 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Solving Yesterday’s Problems Will Kill You</title>
-      <link>https://steveblank.com/2026/03/31/solving-yesterdays-problems-will-kill-you/</link>
-      <guid isPermaLink="true">https://steveblank.com/2026/03/31/solving-yesterdays-problems-will-kill-you/</guid>
-      <pubDate>Tue, 31 Mar 2026 13:00:48 +0000</pubDate>
-      <description>Steve Blank</description>
     </item>
   </channel>
 </rss>

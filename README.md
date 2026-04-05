@@ -208,11 +208,11 @@ Last Updated: Sunday, April 5th, 2026, 8:43:55 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Someone at BrowserStack is Leaking Users' Email Address](https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/) — *Terence Eden’s Blog* `04-05`
+- [It's not that deep](https://idiallo.com/blog/its-not-that-deep?src=feed) — *iDiallo.com* `04-05`
 - [scan-for-secrets 0.2](https://simonwillison.net/2026/Apr/5/scan-for-secrets/#atom-everything) — *Simon Willison's Weblog* `04-05`
 - [scan-for-secrets 0.1.1](https://simonwillison.net/2026/Apr/5/scan-for-secrets-2/#atom-everything) — *Simon Willison's Weblog* `04-05`
 - [scan-for-secrets 0.1](https://simonwillison.net/2026/Apr/5/scan-for-secrets-3/#atom-everything) — *Simon Willison's Weblog* `04-05`
-- [Two little scripts: <code>addup</code> and <code>sumup</code>](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LittleScriptsIX) — *Chris's Wiki :: blog* `04-05`
-- [Material Security](https://material.security/lp-cloud-office-security?utm_source=third-party&utm_medium=email&utm_campaign=20260330-daringfireball) — *Daring Fireball* `04-05`
 <!--BLOG_RADAR:end-->
 
 ---
