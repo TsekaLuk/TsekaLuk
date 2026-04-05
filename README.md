@@ -208,11 +208,11 @@ Last Updated: Sunday, April 5th, 2026, 9:58:43 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Kalman and Bayes average grades](https://www.johndcook.com/blog/2026/04/04/kalman-bayes/) — *John D. Cook* `04-04`
-- [Reading List 04/04/2026](https://www.construction-physics.com/p/reading-list-04042026) — *Construction Physics* `04-04`
-- [The AI writing witchhunt is pointless.](https://www.joanwestenberg.com/the-ai-writing-witchhunt-is-pointless/) — *Westenberg.* `04-04`
-- [Welcome to RSS Club!](https://shkspr.mobi/blog/2026/04/welcome-to-rss-club/) — *Terence Eden’s Blog* `04-04`
-- [What does Open Source mean?](https://nesbitt.io/2026/04/04/what-does-open-source-mean.html) — *Andrew Nesbitt* `04-04`
+- [Two little scripts: <code>addup</code> and <code>sumup</code>](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LittleScriptsIX) — *Chris's Wiki :: blog* `04-05`
+- [Material Security](https://material.security/lp-cloud-office-security?utm_source=third-party&utm_medium=email&utm_campaign=20260330-daringfireball) — *Daring Fireball* `04-05`
+- [Sponsorship Openings for Daring Fireball](https://daringfireball.net/feeds/sponsors/) — *Daring Fireball* `04-05`
+- [iOS 26 Feels Faster Than iOS 18](https://daringfireball.net/linked/2026/04/03/ios-18-update-for-holdouts) — *Daring Fireball* `04-05`
+- [Class Action Lawsuit Says Perplexity’s ‘Incognito Mode’ Is a ‘Sham’](https://arstechnica.com/tech-policy/2026/04/perplexitys-incognito-mode-is-a-sham-lawsuit-says/) — *Daring Fireball* `04-05`
 <!--BLOG_RADAR:end-->
 
 ---

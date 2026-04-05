@@ -4,7 +4,49 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 04 Apr 2026 18:54:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 03:23:37 +0000</lastBuildDate>
+    <item>
+      <title>Two little scripts: &lt;code&gt;addup&lt;/code&gt; and &lt;code&gt;sumup&lt;/code&gt;</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LittleScriptsIX</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LittleScriptsIX</guid>
+      <pubDate>Sun, 05 Apr 2026 01:20:38 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>Material Security</title>
+      <link>https://material.security/lp-cloud-office-security?utm_source=third-party&amp;utm_medium=email&amp;utm_campaign=20260330-daringfireball</link>
+      <guid isPermaLink="true">https://material.security/lp-cloud-office-security?utm_source=third-party&amp;utm_medium=email&amp;utm_campaign=20260330-daringfireball</guid>
+      <pubDate>Sun, 05 Apr 2026 01:00:00 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Sponsorship Openings for Daring Fireball</title>
+      <link>https://daringfireball.net/feeds/sponsors/</link>
+      <guid isPermaLink="true">https://daringfireball.net/feeds/sponsors/</guid>
+      <pubDate>Sun, 05 Apr 2026 00:59:00 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>iOS 26 Feels Faster Than iOS 18</title>
+      <link>https://daringfireball.net/linked/2026/04/03/ios-18-update-for-holdouts</link>
+      <guid isPermaLink="true">https://daringfireball.net/linked/2026/04/03/ios-18-update-for-holdouts</guid>
+      <pubDate>Sun, 05 Apr 2026 00:44:00 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Class Action Lawsuit Says Perplexity’s ‘Incognito Mode’ Is a ‘Sham’</title>
+      <link>https://arstechnica.com/tech-policy/2026/04/perplexitys-incognito-mode-is-a-sham-lawsuit-says/</link>
+      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/04/perplexitys-incognito-mode-is-a-sham-lawsuit-says/</guid>
+      <pubDate>Sun, 05 Apr 2026 00:32:57 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>research-llm-apis 2026-04-04</title>
+      <link>https://simonwillison.net/2026/Apr/5/research-llm-apis/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/5/research-llm-apis/#atom-everything</guid>
+      <pubDate>Sun, 05 Apr 2026 00:32:11 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Kalman and Bayes average grades</title>
       <link>https://www.johndcook.com/blog/2026/04/04/kalman-bayes/</link>
@@ -74,6 +116,13 @@
       <guid isPermaLink="true">https://susam.net/code/news/wander/0.4.0.html</guid>
       <pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
       <description>Susam Pal</description>
+    </item>
+    <item>
+      <title>Value numbering</title>
+      <link>https://bernsteinbear.com/blog/value-numbering/?utm_source=rss</link>
+      <guid isPermaLink="true">https://bernsteinbear.com/blog/value-numbering/?utm_source=rss</guid>
+      <pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Max Bernstein's Blog</description>
     </item>
     <item>
       <title>Vulnerability Research Is Cooked</title>
@@ -153,18 +202,18 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>Build your own Dial-up ISP with a Raspberry Pi</title>
-      <link>https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/</guid>
-      <pubDate>Fri, 03 Apr 2026 14:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
       <title>How can I use Read­Directory­ChangesW to know when someone is copying a file out of the directory?</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260403-00/?p=112202</link>
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260403-00/?p=112202</guid>
       <pubDate>Fri, 03 Apr 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>Build your own Dial-up ISP with a Raspberry Pi</title>
+      <link>https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/</guid>
+      <pubDate>Fri, 03 Apr 2026 14:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
     </item>
     <item>
       <title>The Axios supply chain attack used individually targeted social engineering</title>
@@ -795,55 +844,6 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/03/31/npms-defaults-are-bad.html</guid>
       <pubDate>Tue, 31 Mar 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Here in 2026, we're retaining old systems instead of discarding them</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/RetainingOldSystems2026</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/RetainingOldSystems2026</guid>
-      <pubDate>Tue, 31 Mar 2026 02:45:31 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>Weekly Update 497</title>
-      <link>https://www.troyhunt.com/weekly-update-497/</link>
-      <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-497/</guid>
-      <pubDate>Tue, 31 Mar 2026 00:41:44 +0000</pubDate>
-      <description>Troy Hunt</description>
-    </item>
-    <item>
-      <title>The World's First Bullshit</title>
-      <link>https://www.joanwestenberg.com/the-worlds-first-bullshit/</link>
-      <guid isPermaLink="true">https://www.joanwestenberg.com/the-worlds-first-bullshit/</guid>
-      <pubDate>Tue, 31 Mar 2026 00:20:34 +0000</pubDate>
-      <description>Westenberg.</description>
-    </item>
-    <item>
-      <title>Notes from March 2026</title>
-      <link>https://evanhahn.com/notes-from-march-2026/</link>
-      <guid isPermaLink="true">https://evanhahn.com/notes-from-march-2026/</guid>
-      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Evan Hahn (dot com)</description>
-    </item>
-    <item>
-      <title>Making human languages irrelevant</title>
-      <link>https://rakhim.exotext.com/making-human-languages-irrelevant</link>
-      <guid isPermaLink="true">https://rakhim.exotext.com/making-human-languages-irrelevant</guid>
-      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Rakhim's blog</description>
-    </item>
-    <item>
-      <title>Telnyx, LiteLLM and Axios: the supply chain crisis</title>
-      <link>https://martinalderson.com/posts/telnyx-litellm-axios-supply-chain-crisis/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
-      <guid isPermaLink="true">https://martinalderson.com/posts/telnyx-litellm-axios-supply-chain-crisis/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
-      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Martin Alderson</description>
-    </item>
-    <item>
-      <title>Defending Privacy, Daily</title>
-      <link>https://anildash.com/2026/03/31/defending-privacy-daily/</link>
-      <guid isPermaLink="true">https://anildash.com/2026/03/31/defending-privacy-daily/</guid>
-      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-      <description>Anil Dash</description>
     </item>
   </channel>
 </rss>
