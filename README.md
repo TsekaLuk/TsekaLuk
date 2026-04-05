@@ -185,10 +185,11 @@ As **Founder & CEO**, I operate **Nebutra Intelligence** as an **AI-Native OPC (
 ### 🕒 **Recent Activity**
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, April 5th, 2026, 8:43:55 PM
+Last Updated: Monday, April 6th, 2026, 2:35:42 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+- ⭐ Starred [Windy3f3f3f3f/how-claude-code-works](https://github.com/Windy3f3f3f3f/how-claude-code-works)<br>
 - ⭐ Starred [yudai/gotty](https://github.com/yudai/gotty)<br>
 - ⭐ Starred [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles)<br>
 - ⭐ Starred [Trinkle23897/THU-CST-Cracker](https://github.com/Trinkle23897/THU-CST-Cracker)<br>
@@ -196,7 +197,6 @@ Last Updated: Sunday, April 5th, 2026, 8:43:55 PM
 - ⬆️ Pushed updates to [Nebutra/Nebutra-Sailor](https://github.com/Nebutra/Nebutra-Sailor)<br>
 - ⬆️ Pushed updates to [TsekaLuk/claude-code-notes](https://github.com/TsekaLuk/claude-code-notes)<br>
 - ⬆️ Pushed updates to [Nebutra/Nebutra-Sailor](https://github.com/Nebutra/Nebutra-Sailor)<br>
-- ⬆️ Pushed updates to [TsekaLuk/claude-code-notes](https://github.com/TsekaLuk/claude-code-notes)<br>
 - ⬆️ Pushed updates to [TsekaLuk/claude-code-notes](https://github.com/TsekaLuk/claude-code-notes)<br>
 - ⬆️ Pushed updates to [TsekaLuk/claude-code-notes](https://github.com/TsekaLuk/claude-code-notes)<br>
 <!--RECENT_ACTIVITY:end-->
