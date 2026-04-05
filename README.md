@@ -208,11 +208,11 @@ Last Updated: Monday, April 6th, 2026, 2:35:42 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [An Easter Morning Message of Hope From the Winner of the FIFA Peace Prize](https://truthsocial.com/@realDonaldTrump/posts/116351998782539414) — *Daring Fireball* `04-05`
+- [Stamp It! All Programs Must Report Their Version](https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/) — *Michael Stapelbergs Website* `04-05`
 - [Someone at BrowserStack is Leaking Users' Email Address](https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/) — *Terence Eden’s Blog* `04-05`
 - [It's not that deep](https://idiallo.com/blog/its-not-that-deep?src=feed) — *iDiallo.com* `04-05`
 - [scan-for-secrets 0.2](https://simonwillison.net/2026/Apr/5/scan-for-secrets/#atom-everything) — *Simon Willison's Weblog* `04-05`
-- [scan-for-secrets 0.1.1](https://simonwillison.net/2026/Apr/5/scan-for-secrets-2/#atom-everything) — *Simon Willison's Weblog* `04-05`
-- [scan-for-secrets 0.1](https://simonwillison.net/2026/Apr/5/scan-for-secrets-3/#atom-everything) — *Simon Willison's Weblog* `04-05`
 <!--BLOG_RADAR:end-->
 
 ---

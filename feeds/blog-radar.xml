@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 05 Apr 2026 13:13:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 18:55:46 +0000</lastBuildDate>
+    <item>
+      <title>An Easter Morning Message of Hope From the Winner of the FIFA Peace Prize</title>
+      <link>https://truthsocial.com/@realDonaldTrump/posts/116351998782539414</link>
+      <guid isPermaLink="true">https://truthsocial.com/@realDonaldTrump/posts/116351998782539414</guid>
+      <pubDate>Sun, 05 Apr 2026 16:01:59 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Stamp It! All Programs Must Report Their Version</title>
+      <link>https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/</link>
+      <guid isPermaLink="true">https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/</guid>
+      <pubDate>Sun, 05 Apr 2026 14:20:00 +0000</pubDate>
+      <description>Michael Stapelbergs Website</description>
+    </item>
     <item>
       <title>Someone at BrowserStack is Leaking Users' Email Address</title>
       <link>https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/</link>
@@ -706,6 +720,13 @@
       <description>Eli Bendersky's website</description>
     </item>
     <item>
+      <title>Claude Code won April Fools Day this year</title>
+      <link>https://xeiaso.net/notes/2026/claude-code-wins-april-fools/</link>
+      <guid isPermaLink="true">https://xeiaso.net/notes/2026/claude-code-wins-april-fools/</guid>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
+    </item>
+    <item>
       <title>My ramblings are available over gopher</title>
       <link>https://maurycyz.com/misc/gopher/</link>
       <guid isPermaLink="true">https://maurycyz.com/misc/gopher/</guid>
@@ -718,13 +739,6 @@
       <guid isPermaLink="true">https://maurycyz.com/projects/gopher/</guid>
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
       <description>Maurycy's Blog</description>
-    </item>
-    <item>
-      <title>Claude Code won April Fools Day this year</title>
-      <link>https://xeiaso.net/notes/2026/claude-code-wins-april-fools/</link>
-      <guid isPermaLink="true">https://xeiaso.net/notes/2026/claude-code-wins-april-fools/</guid>
-      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>On the Vergecast, On Video</title>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://www.whitehouse.gov/releases/2026/03/president-trump-announces-appointments-to-presidents-council-of-advisors-on-science-and-technology/</guid>
       <pubDate>Tue, 31 Mar 2026 15:36:13 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Technical Analysis of the Android Version of the White House’s New App</title>
-      <link>https://blog.thereallo.dev/blog/decompiling-the-white-house-app</link>
-      <guid isPermaLink="true">https://blog.thereallo.dev/blog/decompiling-the-white-house-app</guid>
-      <pubDate>Tue, 31 Mar 2026 15:11:08 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Quantum Y2K</title>
-      <link>https://www.johndcook.com/blog/2026/03/31/quantum-y2k/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/03/31/quantum-y2k/</guid>
-      <pubDate>Tue, 31 Mar 2026 14:43:06 +0000</pubDate>
-      <description>John D. Cook</description>
     </item>
   </channel>
 </rss>
