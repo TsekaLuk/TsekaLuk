@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 05 Apr 2026 03:23:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 07:17:35 +0000</lastBuildDate>
+    <item>
+      <title>scan-for-secrets 0.2</title>
+      <link>https://simonwillison.net/2026/Apr/5/scan-for-secrets/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/5/scan-for-secrets/#atom-everything</guid>
+      <pubDate>Sun, 05 Apr 2026 04:07:13 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>scan-for-secrets 0.1.1</title>
+      <link>https://simonwillison.net/2026/Apr/5/scan-for-secrets-2/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/5/scan-for-secrets-2/#atom-everything</guid>
+      <pubDate>Sun, 05 Apr 2026 03:39:33 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>scan-for-secrets 0.1</title>
+      <link>https://simonwillison.net/2026/Apr/5/scan-for-secrets-3/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/5/scan-for-secrets-3/#atom-everything</guid>
+      <pubDate>Sun, 05 Apr 2026 03:27:13 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Two little scripts: &lt;code&gt;addup&lt;/code&gt; and &lt;code&gt;sumup&lt;/code&gt;</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LittleScriptsIX</link>
@@ -202,18 +223,18 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>How can I use Read­Directory­ChangesW to know when someone is copying a file out of the directory?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260403-00/?p=112202</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260403-00/?p=112202</guid>
-      <pubDate>Fri, 03 Apr 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
       <title>Build your own Dial-up ISP with a Raspberry Pi</title>
       <link>https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/</link>
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/</guid>
       <pubDate>Fri, 03 Apr 2026 14:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>How can I use Read­Directory­ChangesW to know when someone is copying a file out of the directory?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260403-00/?p=112202</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260403-00/?p=112202</guid>
+      <pubDate>Fri, 03 Apr 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>The Axios supply chain attack used individually targeted social engineering</title>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://steveblank.com/2026/03/31/solving-yesterdays-problems-will-kill-you/</guid>
       <pubDate>Tue, 31 Mar 2026 13:00:48 +0000</pubDate>
       <description>Steve Blank</description>
-    </item>
-    <item>
-      <title>Morse code tree</title>
-      <link>https://www.johndcook.com/blog/2026/03/31/morse-code-tree/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/03/31/morse-code-tree/</guid>
-      <pubDate>Tue, 31 Mar 2026 12:12:31 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Pluralistic: State Dems must stop ICE from stealing the midterms (31 Mar 2026)</title>
-      <link>https://pluralistic.net/2026/03/31/actual-federalist-society/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/03/31/actual-federalist-society/</guid>
-      <pubDate>Tue, 31 Mar 2026 10:00:59 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>npm’s Defaults Are Bad</title>
-      <link>https://nesbitt.io/2026/03/31/npms-defaults-are-bad.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/03/31/npms-defaults-are-bad.html</guid>
-      <pubDate>Tue, 31 Mar 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
     </item>
   </channel>
 </rss>

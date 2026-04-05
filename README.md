@@ -208,11 +208,11 @@ Last Updated: Sunday, April 5th, 2026, 2:58:44 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [scan-for-secrets 0.2](https://simonwillison.net/2026/Apr/5/scan-for-secrets/#atom-everything) — *Simon Willison's Weblog* `04-05`
+- [scan-for-secrets 0.1.1](https://simonwillison.net/2026/Apr/5/scan-for-secrets-2/#atom-everything) — *Simon Willison's Weblog* `04-05`
+- [scan-for-secrets 0.1](https://simonwillison.net/2026/Apr/5/scan-for-secrets-3/#atom-everything) — *Simon Willison's Weblog* `04-05`
 - [Two little scripts: <code>addup</code> and <code>sumup</code>](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LittleScriptsIX) — *Chris's Wiki :: blog* `04-05`
 - [Material Security](https://material.security/lp-cloud-office-security?utm_source=third-party&utm_medium=email&utm_campaign=20260330-daringfireball) — *Daring Fireball* `04-05`
-- [Sponsorship Openings for Daring Fireball](https://daringfireball.net/feeds/sponsors/) — *Daring Fireball* `04-05`
-- [iOS 26 Feels Faster Than iOS 18](https://daringfireball.net/linked/2026/04/03/ios-18-update-for-holdouts) — *Daring Fireball* `04-05`
-- [Class Action Lawsuit Says Perplexity’s ‘Incognito Mode’ Is a ‘Sham’](https://arstechnica.com/tech-policy/2026/04/perplexitys-incognito-mode-is-a-sham-lawsuit-says/) — *Daring Fireball* `04-05`
 <!--BLOG_RADAR:end-->
 
 ---
