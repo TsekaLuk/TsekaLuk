@@ -208,11 +208,11 @@ Last Updated: Monday, April 6th, 2026, 10:00:02 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [An Easter Morning Message of Hope From the Winner of the FIFA Peace Prize](https://truthsocial.com/@realDonaldTrump/posts/116351998782539414) — *Daring Fireball* `04-05`
-- [Stamp It! All Programs Must Report Their Version](https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/) — *Michael Stapelbergs Website* `04-05`
-- [Someone at BrowserStack is Leaking Users' Email Address](https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/) — *Terence Eden’s Blog* `04-05`
-- [It's not that deep](https://idiallo.com/blog/its-not-that-deep?src=feed) — *iDiallo.com* `04-05`
-- [scan-for-secrets 0.2](https://simonwillison.net/2026/Apr/5/scan-for-secrets/#atom-everything) — *Simon Willison's Weblog* `04-05`
+- [scan-for-secrets 0.3](https://simonwillison.net/2026/Apr/6/scan-for-secrets/#atom-everything) — *Simon Willison's Weblog* `04-06`
+- [Cleanup Claude Code Paste](https://simonwillison.net/2026/Apr/6/cleanup-claude-code-paste/#atom-everything) — *Simon Willison's Weblog* `04-06`
+- [Finding out what your big RPMs are, in two different 'sizes'](https://utcc.utoronto.ca/~cks/space/blog/linux/RPMFindingSizes) — *Chris's Wiki :: blog* `04-06`
+- [Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab](https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/) — *Krebs on Security* `04-06`
+- [datasette-ports 0.1](https://simonwillison.net/2026/Apr/6/datasette-ports/#atom-everything) — *Simon Willison's Weblog* `04-06`
 <!--BLOG_RADAR:end-->
 
 ---

@@ -4,7 +4,70 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 05 Apr 2026 18:55:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 03:26:48 +0000</lastBuildDate>
+    <item>
+      <title>scan-for-secrets 0.3</title>
+      <link>https://simonwillison.net/2026/Apr/6/scan-for-secrets/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/6/scan-for-secrets/#atom-everything</guid>
+      <pubDate>Mon, 06 Apr 2026 02:59:28 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Cleanup Claude Code Paste</title>
+      <link>https://simonwillison.net/2026/Apr/6/cleanup-claude-code-paste/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/6/cleanup-claude-code-paste/#atom-everything</guid>
+      <pubDate>Mon, 06 Apr 2026 02:55:23 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Finding out what your big RPMs are, in two different 'sizes'</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/RPMFindingSizes</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/RPMFindingSizes</guid>
+      <pubDate>Mon, 06 Apr 2026 02:50:08 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab</title>
+      <link>https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/</link>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/</guid>
+      <pubDate>Mon, 06 Apr 2026 02:07:17 +0000</pubDate>
+      <description>Krebs on Security</description>
+    </item>
+    <item>
+      <title>datasette-ports 0.1</title>
+      <link>https://simonwillison.net/2026/Apr/6/datasette-ports/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/6/datasette-ports/#atom-everything</guid>
+      <pubDate>Mon, 06 Apr 2026 00:23:55 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Eight years of wanting, three months of building with AI</title>
+      <link>https://simonwillison.net/2026/Apr/5/building-with-ai/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/5/building-with-ai/#atom-everything</guid>
+      <pubDate>Sun, 05 Apr 2026 23:54:18 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>HIPAA compliant AI</title>
+      <link>https://www.johndcook.com/blog/2026/04/05/hipaa-compliant-ai/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/04/05/hipaa-compliant-ai/</guid>
+      <pubDate>Sun, 05 Apr 2026 23:04:46 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Quoting Chengpeng Mou</title>
+      <link>https://simonwillison.net/2026/Apr/5/chengpeng-mou/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/5/chengpeng-mou/#atom-everything</guid>
+      <pubDate>Sun, 05 Apr 2026 21:47:06 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Syntaqlite Playground</title>
+      <link>https://simonwillison.net/2026/Apr/5/syntaqlite/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/5/syntaqlite/#atom-everything</guid>
+      <pubDate>Sun, 05 Apr 2026 19:32:59 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>An Easter Morning Message of Hope From the Winner of the FIFA Peace Prize</title>
       <link>https://truthsocial.com/@realDonaldTrump/posts/116351998782539414</link>
@@ -720,13 +783,6 @@
       <description>Eli Bendersky's website</description>
     </item>
     <item>
-      <title>Claude Code won April Fools Day this year</title>
-      <link>https://xeiaso.net/notes/2026/claude-code-wins-april-fools/</link>
-      <guid isPermaLink="true">https://xeiaso.net/notes/2026/claude-code-wins-april-fools/</guid>
-      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
       <title>My ramblings are available over gopher</title>
       <link>https://maurycyz.com/misc/gopher/</link>
       <guid isPermaLink="true">https://maurycyz.com/misc/gopher/</guid>
@@ -739,6 +795,13 @@
       <guid isPermaLink="true">https://maurycyz.com/projects/gopher/</guid>
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
       <description>Maurycy's Blog</description>
+    </item>
+    <item>
+      <title>Claude Code won April Fools Day this year</title>
+      <link>https://xeiaso.net/notes/2026/claude-code-wins-april-fools/</link>
+      <guid isPermaLink="true">https://xeiaso.net/notes/2026/claude-code-wins-april-fools/</guid>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>On the Vergecast, On Video</title>
@@ -780,69 +843,6 @@
       <link>https://www.theatlantic.com/technology/2026/03/laptop-electronics-ram-ai-tax/686628/</link>
       <guid isPermaLink="true">https://www.theatlantic.com/technology/2026/03/laptop-electronics-ram-ai-tax/686628/</guid>
       <pubDate>Tue, 31 Mar 2026 21:36:35 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>datasette-llm 0.1a4</title>
-      <link>https://simonwillison.net/2026/Mar/31/datasette-llm/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/31/datasette-llm/#atom-everything</guid>
-      <pubDate>Tue, 31 Mar 2026 21:17:23 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>llm-all-models-async 0.1</title>
-      <link>https://simonwillison.net/2026/Mar/31/llm-all-models-async/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/31/llm-all-models-async/#atom-everything</guid>
-      <pubDate>Tue, 31 Mar 2026 20:52:02 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>llm 0.30</title>
-      <link>https://simonwillison.net/2026/Mar/31/llm/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/31/llm/#atom-everything</guid>
-      <pubDate>Tue, 31 Mar 2026 20:35:51 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>llm-echo 0.4</title>
-      <link>https://simonwillison.net/2026/Mar/31/llm-echo/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/31/llm-echo/#atom-everything</guid>
-      <pubDate>Tue, 31 Mar 2026 16:48:59 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>The Subprime AI Crisis Is Here</title>
-      <link>https://www.wheresyoured.at/the-subprime-ai-crisis-is-here/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/the-subprime-ai-crisis-is-here/</guid>
-      <pubDate>Tue, 31 Mar 2026 16:18:11 +0000</pubDate>
-      <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>Infinite midwit</title>
-      <link>https://www.experimental-history.com/p/infinite-midwit</link>
-      <guid isPermaLink="true">https://www.experimental-history.com/p/infinite-midwit</guid>
-      <pubDate>Tue, 31 Mar 2026 16:05:29 +0000</pubDate>
-      <description>Experimental History</description>
-    </item>
-    <item>
-      <title>Jensen Huang Doesn’t Smell Anything</title>
-      <link>https://bsky.app/profile/carnage4life.bsky.social/post/3mhnqozt7fs2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/carnage4life.bsky.social/post/3mhnqozt7fs2n</guid>
-      <pubDate>Tue, 31 Mar 2026 15:54:25 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>llm-echo 0.3</title>
-      <link>https://simonwillison.net/2026/Mar/31/llm-echo-2/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/31/llm-echo-2/#atom-everything</guid>
-      <pubDate>Tue, 31 Mar 2026 15:43:26 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Appointees to Trump’s Council of Advisors on Science and Technology</title>
-      <link>https://www.whitehouse.gov/releases/2026/03/president-trump-announces-appointments-to-presidents-council-of-advisors-on-science-and-technology/</link>
-      <guid isPermaLink="true">https://www.whitehouse.gov/releases/2026/03/president-trump-announces-appointments-to-presidents-council-of-advisors-on-science-and-technology/</guid>
-      <pubDate>Tue, 31 Mar 2026 15:36:13 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
   </channel>
