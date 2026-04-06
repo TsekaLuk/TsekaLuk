@@ -208,11 +208,11 @@ Last Updated: Monday, April 6th, 2026, 8:58:49 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [AI Did It in 12 Minutes. It Took Me 10 Hours to Fix It](https://idiallo.com/blog/it-took-me-10-hours-to-fix-ai-code?src=feed) — *iDiallo.com* `04-06`
+- [[RSS Club] Banana for scale](https://shkspr.mobi/blog/2026/04/rss-club-banana-for-scale/) — *Terence Eden’s Blog* `04-06`
+- [The Cathedral and the Catacombs](https://nesbitt.io/2026/04/06/the-cathedral-and-the-catacombs.html) — *Andrew Nesbitt* `04-06`
+- [Pluralistic: Your boss wants to use surveillance data to cut your wages (06 Apr 2026)](https://pluralistic.net/2026/04/06/empiricism-washing/) — *Pluralistic: Daily links from Cory Doctorow* `04-06`
 - [Google AI Edge Gallery](https://simonwillison.net/2026/Apr/6/google-ai-edge-gallery/#atom-everything) — *Simon Willison's Weblog* `04-06`
-- [datasette-ports 0.2](https://simonwillison.net/2026/Apr/6/datasette-ports-2/#atom-everything) — *Simon Willison's Weblog* `04-06`
-- [scan-for-secrets 0.3](https://simonwillison.net/2026/Apr/6/scan-for-secrets/#atom-everything) — *Simon Willison's Weblog* `04-06`
-- [Cleanup Claude Code Paste](https://simonwillison.net/2026/Apr/6/cleanup-claude-code-paste/#atom-everything) — *Simon Willison's Weblog* `04-06`
-- [Finding out what your big RPMs are, in two different 'sizes'](https://utcc.utoronto.ca/~cks/space/blog/linux/RPMFindingSizes) — *Chris's Wiki :: blog* `04-06`
 <!--BLOG_RADAR:end-->
 
 ---

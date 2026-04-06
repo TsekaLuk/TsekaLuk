@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 06 Apr 2026 07:55:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 13:25:44 +0000</lastBuildDate>
+    <item>
+      <title>AI Did It in 12 Minutes. It Took Me 10 Hours to Fix It</title>
+      <link>https://idiallo.com/blog/it-took-me-10-hours-to-fix-ai-code?src=feed</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/it-took-me-10-hours-to-fix-ai-code?src=feed</guid>
+      <pubDate>Mon, 06 Apr 2026 13:00:00 +0000</pubDate>
+      <description>iDiallo.com</description>
+    </item>
+    <item>
+      <title>[RSS Club] Banana for scale</title>
+      <link>https://shkspr.mobi/blog/2026/04/rss-club-banana-for-scale/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/rss-club-banana-for-scale/</guid>
+      <pubDate>Mon, 06 Apr 2026 11:34:00 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>The Cathedral and the Catacombs</title>
+      <link>https://nesbitt.io/2026/04/06/the-cathedral-and-the-catacombs.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/04/06/the-cathedral-and-the-catacombs.html</guid>
+      <pubDate>Mon, 06 Apr 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>Pluralistic: Your boss wants to use surveillance data to cut your wages (06 Apr 2026)</title>
+      <link>https://pluralistic.net/2026/04/06/empiricism-washing/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/04/06/empiricism-washing/</guid>
+      <pubDate>Mon, 06 Apr 2026 09:04:57 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
     <item>
       <title>Google AI Edge Gallery</title>
       <link>https://simonwillison.net/2026/Apr/6/google-ai-edge-gallery/#atom-everything</link>
@@ -797,6 +825,13 @@
       <description>Eli Bendersky's website</description>
     </item>
     <item>
+      <title>Claude Code won April Fools Day this year</title>
+      <link>https://xeiaso.net/notes/2026/claude-code-wins-april-fools/</link>
+      <guid isPermaLink="true">https://xeiaso.net/notes/2026/claude-code-wins-april-fools/</guid>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
+    </item>
+    <item>
       <title>My ramblings are available over gopher</title>
       <link>https://maurycyz.com/misc/gopher/</link>
       <guid isPermaLink="true">https://maurycyz.com/misc/gopher/</guid>
@@ -809,41 +844,6 @@
       <guid isPermaLink="true">https://maurycyz.com/projects/gopher/</guid>
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
       <description>Maurycy's Blog</description>
-    </item>
-    <item>
-      <title>Claude Code won April Fools Day this year</title>
-      <link>https://xeiaso.net/notes/2026/claude-code-wins-april-fools/</link>
-      <guid isPermaLink="true">https://xeiaso.net/notes/2026/claude-code-wins-april-fools/</guid>
-      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
-      <title>On the Vergecast, On Video</title>
-      <link>https://anildash.com/2026/04/01/vergecast-video/</link>
-      <guid isPermaLink="true">https://anildash.com/2026/04/01/vergecast-video/</guid>
-      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Anil Dash</description>
-    </item>
-    <item>
-      <title>The Entire Internet Is a UGC Reaction Video Now</title>
-      <link>https://www.joanwestenberg.com/the-entire-internet-is-a-ugc-reaction-video-now/</link>
-      <guid isPermaLink="true">https://www.joanwestenberg.com/the-entire-internet-is-a-ugc-reaction-video-now/</guid>
-      <pubDate>Tue, 31 Mar 2026 23:32:07 +0000</pubDate>
-      <description>Westenberg.</description>
-    </item>
-    <item>
-      <title>Business Insider Profiles Fidji Simo, OpenAI’s ‘CEO of Applications’</title>
-      <link>https://www.businessinsider.com/fidji-simo-openai-product-research-profitability-profile-2026-3</link>
-      <guid isPermaLink="true">https://www.businessinsider.com/fidji-simo-openai-product-research-profitability-profile-2026-3</guid>
-      <pubDate>Tue, 31 Mar 2026 23:01:03 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Updating Ubuntu packages that you have local changes for with dgit</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/DgitUpdatingDebsWithChanges</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/DgitUpdatingDebsWithChanges</guid>
-      <pubDate>Tue, 31 Mar 2026 22:07:16 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
     </item>
   </channel>
 </rss>
