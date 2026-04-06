@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 06 Apr 2026 03:26:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 07:55:42 +0000</lastBuildDate>
+    <item>
+      <title>Google AI Edge Gallery</title>
+      <link>https://simonwillison.net/2026/Apr/6/google-ai-edge-gallery/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/6/google-ai-edge-gallery/#atom-everything</guid>
+      <pubDate>Mon, 06 Apr 2026 05:18:26 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>datasette-ports 0.2</title>
+      <link>https://simonwillison.net/2026/Apr/6/datasette-ports-2/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/6/datasette-ports-2/#atom-everything</guid>
+      <pubDate>Mon, 06 Apr 2026 03:25:43 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>scan-for-secrets 0.3</title>
       <link>https://simonwillison.net/2026/Apr/6/scan-for-secrets/#atom-everything</link>
@@ -67,6 +81,13 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Apr/5/syntaqlite/#atom-everything</guid>
       <pubDate>Sun, 05 Apr 2026 19:32:59 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>I Tried Vibing an RSS Reader and My Dreams Did Not Come True</title>
+      <link>https://blog.jim-nielsen.com/2026/vibe-dreams-didnt-come-true/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/vibe-dreams-didnt-come-true/</guid>
+      <pubDate>Sun, 05 Apr 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
     </item>
     <item>
       <title>An Easter Morning Message of Hope From the Winner of the FIFA Peace Prize</title>
@@ -762,13 +783,6 @@
       <description>Old Vintage Computing Research</description>
     </item>
     <item>
-      <title>Quoting Soohoon Choi</title>
-      <link>https://simonwillison.net/2026/Apr/1/soohoon-choi/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/1/soohoon-choi/#atom-everything</guid>
-      <pubDate>Wed, 01 Apr 2026 02:07:16 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
       <title>Wayne’s World</title>
       <link>https://feed.tedium.co/link/15204/17311236/ronald-g-wayne-apple-interview</link>
       <guid isPermaLink="true">https://feed.tedium.co/link/15204/17311236/ronald-g-wayne-apple-interview</guid>
@@ -818,13 +832,6 @@
       <description>Westenberg.</description>
     </item>
     <item>
-      <title>Supply Chain Attack on Axios Pulls Malicious Dependency from npm</title>
-      <link>https://simonwillison.net/2026/Mar/31/supply-chain-attack-on-axios/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Mar/31/supply-chain-attack-on-axios/#atom-everything</guid>
-      <pubDate>Tue, 31 Mar 2026 23:28:40 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
       <title>Business Insider Profiles Fidji Simo, OpenAI’s ‘CEO of Applications’</title>
       <link>https://www.businessinsider.com/fidji-simo-openai-product-research-profitability-profile-2026-3</link>
       <guid isPermaLink="true">https://www.businessinsider.com/fidji-simo-openai-product-research-profitability-profile-2026-3</guid>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/DgitUpdatingDebsWithChanges</guid>
       <pubDate>Tue, 31 Mar 2026 22:07:16 +0000</pubDate>
       <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>RAM Is the New Bearer Bond</title>
-      <link>https://www.theatlantic.com/technology/2026/03/laptop-electronics-ram-ai-tax/686628/</link>
-      <guid isPermaLink="true">https://www.theatlantic.com/technology/2026/03/laptop-electronics-ram-ai-tax/686628/</guid>
-      <pubDate>Tue, 31 Mar 2026 21:36:35 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>

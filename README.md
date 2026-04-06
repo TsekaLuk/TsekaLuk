@@ -208,11 +208,11 @@ Last Updated: Monday, April 6th, 2026, 3:22:17 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Google AI Edge Gallery](https://simonwillison.net/2026/Apr/6/google-ai-edge-gallery/#atom-everything) — *Simon Willison's Weblog* `04-06`
+- [datasette-ports 0.2](https://simonwillison.net/2026/Apr/6/datasette-ports-2/#atom-everything) — *Simon Willison's Weblog* `04-06`
 - [scan-for-secrets 0.3](https://simonwillison.net/2026/Apr/6/scan-for-secrets/#atom-everything) — *Simon Willison's Weblog* `04-06`
 - [Cleanup Claude Code Paste](https://simonwillison.net/2026/Apr/6/cleanup-claude-code-paste/#atom-everything) — *Simon Willison's Weblog* `04-06`
 - [Finding out what your big RPMs are, in two different 'sizes'](https://utcc.utoronto.ca/~cks/space/blog/linux/RPMFindingSizes) — *Chris's Wiki :: blog* `04-06`
-- [Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab](https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/) — *Krebs on Security* `04-06`
-- [datasette-ports 0.1](https://simonwillison.net/2026/Apr/6/datasette-ports/#atom-everything) — *Simon Willison's Weblog* `04-06`
 <!--BLOG_RADAR:end-->
 
 ---
