@@ -208,11 +208,11 @@ Last Updated: Tuesday, April 7th, 2026, 2:50:56 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [AI Did It in 12 Minutes. It Took Me 10 Hours to Fix It](https://idiallo.com/blog/it-took-me-10-hours-to-fix-ai-code?src=feed) — *iDiallo.com* `04-06`
-- [[RSS Club] Banana for scale](https://shkspr.mobi/blog/2026/04/rss-club-banana-for-scale/) — *Terence Eden’s Blog* `04-06`
-- [The Cathedral and the Catacombs](https://nesbitt.io/2026/04/06/the-cathedral-and-the-catacombs.html) — *Andrew Nesbitt* `04-06`
-- [Pluralistic: Your boss wants to use surveillance data to cut your wages (06 Apr 2026)](https://pluralistic.net/2026/04/06/empiricism-washing/) — *Pluralistic: Daily links from Cory Doctorow* `04-06`
-- [Google AI Edge Gallery](https://simonwillison.net/2026/Apr/6/google-ai-edge-gallery/#atom-everything) — *Simon Willison's Weblog* `04-06`
+- [Anthropic Accidentally Leaked the Entire Claude Code CLI Source Code](https://arstechnica.com/ai/2026/03/entire-claude-code-cli-source-code-leaks-thanks-to-exposed-map-file/) — *Daring Fireball* `04-06`
+- [Prototyping with LLMs](https://blog.jim-nielsen.com/2026/prototyping-with-llm/) — *Jim Nielsen’s Blog* `04-06`
+- [Little Finder Guy Stars in Nine New Videos on TikTok and YouTube](https://www.macrumors.com/2026/04/02/little-finder-guy-tiktok-youtube/) — *Daring Fireball* `04-06`
+- [News: OpenAI CFO Doesn't Believe Company Ready For IPO, Unsure Revenue Will Support Commitments](https://www.wheresyoured.at/openai-cfo-news/) — *Ed Zitron's Where's Your Ed At* `04-06`
+- [Learning to read C++ compiler errors: Illegal use of -> when there is no -> in sight](https://devblogs.microsoft.com/oldnewthing/20260406-00/?p=112208) — *The Old New Thing* `04-06`
 <!--BLOG_RADAR:end-->
 
 ---

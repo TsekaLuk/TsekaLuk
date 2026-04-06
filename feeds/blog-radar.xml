@@ -4,7 +4,42 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 06 Apr 2026 13:25:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 19:11:45 +0000</lastBuildDate>
+    <item>
+      <title>Anthropic Accidentally Leaked the Entire Claude Code CLI Source Code</title>
+      <link>https://arstechnica.com/ai/2026/03/entire-claude-code-cli-source-code-leaks-thanks-to-exposed-map-file/</link>
+      <guid isPermaLink="true">https://arstechnica.com/ai/2026/03/entire-claude-code-cli-source-code-leaks-thanks-to-exposed-map-file/</guid>
+      <pubDate>Mon, 06 Apr 2026 19:04:54 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Prototyping with LLMs</title>
+      <link>https://blog.jim-nielsen.com/2026/prototyping-with-llm/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/prototyping-with-llm/</guid>
+      <pubDate>Mon, 06 Apr 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
+    </item>
+    <item>
+      <title>Little Finder Guy Stars in Nine New Videos on TikTok and YouTube</title>
+      <link>https://www.macrumors.com/2026/04/02/little-finder-guy-tiktok-youtube/</link>
+      <guid isPermaLink="true">https://www.macrumors.com/2026/04/02/little-finder-guy-tiktok-youtube/</guid>
+      <pubDate>Mon, 06 Apr 2026 16:39:26 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>News: OpenAI CFO Doesn't Believe Company Ready For IPO, Unsure Revenue Will Support Commitments</title>
+      <link>https://www.wheresyoured.at/openai-cfo-news/</link>
+      <guid isPermaLink="true">https://www.wheresyoured.at/openai-cfo-news/</guid>
+      <pubDate>Mon, 06 Apr 2026 14:49:40 +0000</pubDate>
+      <description>Ed Zitron's Where's Your Ed At</description>
+    </item>
+    <item>
+      <title>Learning to read C++ compiler errors: Illegal use of -&gt; when there is no -&gt; in sight</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260406-00/?p=112208</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260406-00/?p=112208</guid>
+      <pubDate>Mon, 06 Apr 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
     <item>
       <title>AI Did It in 12 Minutes. It Took Me 10 Hours to Fix It</title>
       <link>https://idiallo.com/blog/it-took-me-10-hours-to-fix-ai-code?src=feed</link>
@@ -809,41 +844,6 @@
       <guid isPermaLink="true">https://oldvcr.blogspot.com/2026/03/mini-review-david-pogues-apple-first-50.html</guid>
       <pubDate>Wed, 01 Apr 2026 02:17:00 +0000</pubDate>
       <description>Old Vintage Computing Research</description>
-    </item>
-    <item>
-      <title>Wayne’s World</title>
-      <link>https://feed.tedium.co/link/15204/17311236/ronald-g-wayne-apple-interview</link>
-      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17311236/ronald-g-wayne-apple-interview</guid>
-      <pubDate>Wed, 01 Apr 2026 01:19:32 +0000</pubDate>
-      <description>Tedium: The Dull Side of the Internet.</description>
-    </item>
-    <item>
-      <title>Summary of reading: January - March 2026</title>
-      <link>https://eli.thegreenplace.net/2026/summary-of-reading-january-march-2026/</link>
-      <guid isPermaLink="true">https://eli.thegreenplace.net/2026/summary-of-reading-january-march-2026/</guid>
-      <pubDate>Wed, 01 Apr 2026 00:34:00 +0000</pubDate>
-      <description>Eli Bendersky's website</description>
-    </item>
-    <item>
-      <title>Claude Code won April Fools Day this year</title>
-      <link>https://xeiaso.net/notes/2026/claude-code-wins-april-fools/</link>
-      <guid isPermaLink="true">https://xeiaso.net/notes/2026/claude-code-wins-april-fools/</guid>
-      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
-      <title>My ramblings are available over gopher</title>
-      <link>https://maurycyz.com/misc/gopher/</link>
-      <guid isPermaLink="true">https://maurycyz.com/misc/gopher/</guid>
-      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
-    </item>
-    <item>
-      <title>GopherTree</title>
-      <link>https://maurycyz.com/projects/gopher/</link>
-      <guid isPermaLink="true">https://maurycyz.com/projects/gopher/</guid>
-      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
     </item>
   </channel>
 </rss>
