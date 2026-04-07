@@ -208,11 +208,11 @@ Last Updated: Tuesday, April 7th, 2026, 9:56:05 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Weekly Update 498](https://www.troyhunt.com/weekly-update-498/) — *Troy Hunt* `04-07`
+- [All you need is Tofolli gates](https://www.johndcook.com/blog/2026/04/06/tofolli-gates/) — *John D. Cook* `04-07`
+- [The Hacker News tarpit](https://www.joanwestenberg.com/the-hacker-news-tarpit/) — *Westenberg.* `04-06`
+- [[Sponsor] Zed, a Font Superfamily](https://www.typotheque.com/blog/zed-a-sans-for-the-needs-of-21century/?utm_source=df) — *Daring Fireball* `04-06`
 - [Anthropic Accidentally Leaked the Entire Claude Code CLI Source Code](https://arstechnica.com/ai/2026/03/entire-claude-code-cli-source-code-leaks-thanks-to-exposed-map-file/) — *Daring Fireball* `04-06`
-- [Prototyping with LLMs](https://blog.jim-nielsen.com/2026/prototyping-with-llm/) — *Jim Nielsen’s Blog* `04-06`
-- [Little Finder Guy Stars in Nine New Videos on TikTok and YouTube](https://www.macrumors.com/2026/04/02/little-finder-guy-tiktok-youtube/) — *Daring Fireball* `04-06`
-- [News: OpenAI CFO Doesn't Believe Company Ready For IPO, Unsure Revenue Will Support Commitments](https://www.wheresyoured.at/openai-cfo-news/) — *Ed Zitron's Where's Your Ed At* `04-06`
-- [Learning to read C++ compiler errors: Illegal use of -> when there is no -> in sight](https://devblogs.microsoft.com/oldnewthing/20260406-00/?p=112208) — *The Old New Thing* `04-06`
 <!--BLOG_RADAR:end-->
 
 ---
