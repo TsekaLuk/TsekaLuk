@@ -208,11 +208,11 @@ Last Updated: Wednesday, April 8th, 2026, 2:56:30 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Did WordPress VIP leak my phone number?](https://shkspr.mobi/blog/2026/04/did-wordpress-vip-leak-my-phone-number/) — *Terence Eden’s Blog* `04-07`
-- [Who Built This?](https://nesbitt.io/2026/04/07/who-built-this.html) — *Andrew Nesbitt* `04-07`
-- [Pluralistic: Switzerland's Goldilocks fiber (07 Apr 2026)](https://pluralistic.net/2026/04/07/swisscom/) — *Pluralistic: Daily links from Cory Doctorow* `04-07`
-- [Wondering about the typical retry times for email today](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/EmailRetryPeriodWondering) — *Chris's Wiki :: blog* `04-07`
-- [Weekly Update 498](https://www.troyhunt.com/weekly-update-498/) — *Troy Hunt* `04-07`
+- [Russia Hacked Routers to Steal Microsoft Office Tokens](https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/) — *Krebs on Security* `04-07`
+- [Om Malik and Ben Thompson on OpenAI Buying TBPN](https://om.co/2026/04/02/openai-masters-of-agitprop-2-0/) — *Daring Fireball* `04-07`
+- [Flighty Airports Meltdown Map](https://flighty.com/airports) — *Daring Fireball* `04-07`
+- [The Data Drop: Every iPhone](https://sheets.works/data-viz/every-iphone) — *Daring Fireball* `04-07`
+- [Michael Nielsen – How science actually progresses](https://www.dwarkesh.com/p/michael-nielsen) — *Dwarkesh Podcast* `04-07`
 <!--BLOG_RADAR:end-->
 
 ---
