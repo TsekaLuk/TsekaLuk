@@ -208,11 +208,11 @@ Last Updated: Tuesday, April 7th, 2026, 3:08:35 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Pluralistic: Switzerland's Goldilocks fiber (07 Apr 2026)](https://pluralistic.net/2026/04/07/swisscom/) — *Pluralistic: Daily links from Cory Doctorow* `04-07`
+- [Wondering about the typical retry times for email today](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/EmailRetryPeriodWondering) — *Chris's Wiki :: blog* `04-07`
 - [Weekly Update 498](https://www.troyhunt.com/weekly-update-498/) — *Troy Hunt* `04-07`
-- [All you need is Tofolli gates](https://www.johndcook.com/blog/2026/04/06/tofolli-gates/) — *John D. Cook* `04-07`
-- [The Hacker News tarpit](https://www.joanwestenberg.com/the-hacker-news-tarpit/) — *Westenberg.* `04-06`
-- [[Sponsor] Zed, a Font Superfamily](https://www.typotheque.com/blog/zed-a-sans-for-the-needs-of-21century/?utm_source=df) — *Daring Fireball* `04-06`
-- [Anthropic Accidentally Leaked the Entire Claude Code CLI Source Code](https://arstechnica.com/ai/2026/03/entire-claude-code-cli-source-code-leaks-thanks-to-exposed-map-file/) — *Daring Fireball* `04-06`
+- [Tofolli gates are all you need](https://www.johndcook.com/blog/2026/04/06/tofolli-gates/) — *John D. Cook* `04-07`
+- [Actually, people love to work hard](https://anildash.com/2026/04/06/people-love-to-work-hard/) — *Anil Dash* `04-07`
 <!--BLOG_RADAR:end-->
 
 ---
