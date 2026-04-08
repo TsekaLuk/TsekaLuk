@@ -208,11 +208,11 @@ Last Updated: Wednesday, April 8th, 2026, 3:10:55 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Pork & Puppetry](https://feed.tedium.co/link/15204/17315642/pork-johnson-gimp-parody-interview) — *Tedium: The Dull Side of the Internet.* `04-08`
 - [Users and session classes in Systemd v258 and later (and a gotcha)](https://utcc.utoronto.ca/~cks/space/blog/linux/Systemd258UsersAndSessions) — *Chris's Wiki :: blog* `04-08`
 - [Solar Eclipse From the Far Side of the Moon](https://kottke.org/26/04/solar-eclipse-far-side-of-the-moon) — *Daring Fireball* `04-07`
 - [Sam Altman, in a Video Released by OpenAI, Apparently Thinks AGI Is Going to Hit Society Like a Once-a-Century Pandemic](https://x.com/OpenAINewsroom/status/2041618671236469200?s=20) — *Daring Fireball* `04-07`
 - [★ OpenAI Announces $122 Billion Additional ‘Committed Capital’, and Announces Their ‘Superapp’ Plan for the Future](https://daringfireball.net/2026/04/openai_future) — *Daring Fireball* `04-07`
-- [GLM-5.1: Towards Long-Horizon Tasks](https://simonwillison.net/2026/Apr/7/glm-51/#atom-everything) — *Simon Willison's Weblog* `04-07`
 <!--BLOG_RADAR:end-->
 
 ---

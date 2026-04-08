@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 08 Apr 2026 03:18:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 07:46:18 +0000</lastBuildDate>
+    <item>
+      <title>Pork &amp; Puppetry</title>
+      <link>https://feed.tedium.co/link/15204/17315642/pork-johnson-gimp-parody-interview</link>
+      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17315642/pork-johnson-gimp-parody-interview</guid>
+      <pubDate>Wed, 08 Apr 2026 03:50:54 +0000</pubDate>
+      <description>Tedium: The Dull Side of the Internet.</description>
+    </item>
     <item>
       <title>Users and session classes in Systemd v258 and later (and a gotcha)</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/linux/Systemd258UsersAndSessions</link>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://www.joanwestenberg.com/tim/</guid>
       <pubDate>Thu, 02 Apr 2026 00:32:14 +0000</pubDate>
       <description>Westenberg.</description>
-    </item>
-    <item>
-      <title>Chris Espinosa, Employee #8, Profiled in The New York Times</title>
-      <link>https://www.nytimes.com/2026/04/01/technology/apple-employee-50-years.html?unlocked_article_code=1.X1A.QEzX.u6cPCOjBE3mT</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/04/01/technology/apple-employee-50-years.html?unlocked_article_code=1.X1A.QEzX.u6cPCOjBE3mT</guid>
-      <pubDate>Thu, 02 Apr 2026 00:10:29 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
