@@ -4,7 +4,56 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 07 Apr 2026 19:15:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 03:18:57 +0000</lastBuildDate>
+    <item>
+      <title>Users and session classes in Systemd v258 and later (and a gotcha)</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/Systemd258UsersAndSessions</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/Systemd258UsersAndSessions</guid>
+      <pubDate>Wed, 08 Apr 2026 00:14:24 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>Solar Eclipse From the Far Side of the Moon</title>
+      <link>https://kottke.org/26/04/solar-eclipse-far-side-of-the-moon</link>
+      <guid isPermaLink="true">https://kottke.org/26/04/solar-eclipse-far-side-of-the-moon</guid>
+      <pubDate>Tue, 07 Apr 2026 22:23:27 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Sam Altman, in a Video Released by OpenAI, Apparently Thinks AGI Is Going to Hit Society Like a Once-a-Century Pandemic</title>
+      <link>https://x.com/OpenAINewsroom/status/2041618671236469200?s=20</link>
+      <guid isPermaLink="true">https://x.com/OpenAINewsroom/status/2041618671236469200?s=20</guid>
+      <pubDate>Tue, 07 Apr 2026 22:23:07 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>★ OpenAI Announces $122 Billion Additional ‘Committed Capital’, and Announces Their ‘Superapp’ Plan for the Future</title>
+      <link>https://daringfireball.net/2026/04/openai_future</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/04/openai_future</guid>
+      <pubDate>Tue, 07 Apr 2026 22:07:08 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>GLM-5.1: Towards Long-Horizon Tasks</title>
+      <link>https://simonwillison.net/2026/Apr/7/glm-51/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/7/glm-51/#atom-everything</guid>
+      <pubDate>Tue, 07 Apr 2026 21:25:14 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Writing an LLM from scratch, part 32i -- Interventions: what is in the noise?</title>
+      <link>https://www.gilesthomas.com/2026/04/llm-from-scratch-32i-interventions-what-is-in-the-noise</link>
+      <guid isPermaLink="true">https://www.gilesthomas.com/2026/04/llm-from-scratch-32i-interventions-what-is-in-the-noise</guid>
+      <pubDate>Tue, 07 Apr 2026 21:00:00 +0000</pubDate>
+      <description>Giles' blog</description>
+    </item>
+    <item>
+      <title>Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me</title>
+      <link>https://simonwillison.net/2026/Apr/7/project-glasswing/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/7/project-glasswing/#atom-everything</guid>
+      <pubDate>Tue, 07 Apr 2026 20:52:54 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Russia Hacked Routers to Steal Microsoft Office Tokens</title>
       <link>https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/</link>
@@ -39,6 +88,20 @@
       <guid isPermaLink="true">https://www.dwarkesh.com/p/michael-nielsen</guid>
       <pubDate>Tue, 07 Apr 2026 15:49:28 +0000</pubDate>
       <description>Dwarkesh Podcast</description>
+    </item>
+    <item>
+      <title>SQLite WAL Mode Across Docker Containers Sharing a Volume</title>
+      <link>https://simonwillison.net/2026/Apr/7/sqlite-wal-docker-containers/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/7/sqlite-wal-docker-containers/#atom-everything</guid>
+      <pubDate>Tue, 07 Apr 2026 15:41:00 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Were there any Windows 3.1 programs that were so incompatible with Windows 95 that there was no point trying to patch them?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260407-00/?p=112213</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260407-00/?p=112213</guid>
+      <pubDate>Tue, 07 Apr 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Did WordPress VIP leak my phone number?</title>
@@ -780,69 +843,6 @@
       <link>https://www.nytimes.com/2026/04/01/technology/apple-employee-50-years.html?unlocked_article_code=1.X1A.QEzX.u6cPCOjBE3mT</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/04/01/technology/apple-employee-50-years.html?unlocked_article_code=1.X1A.QEzX.u6cPCOjBE3mT</guid>
       <pubDate>Thu, 02 Apr 2026 00:10:29 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Spring 2026 Pebble App Contest + SDK Updates</title>
-      <link>https://repebble.com/blog/spring-2026-pebble-app-contest</link>
-      <guid isPermaLink="true">https://repebble.com/blog/spring-2026-pebble-app-contest</guid>
-      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Eric Migicovsky's Blog RSS Feed</description>
-    </item>
-    <item>
-      <title>The Talk Show: ‘Apple at 50’</title>
-      <link>https://daringfireball.net/thetalkshow/2026/04/01/ep-445</link>
-      <guid isPermaLink="true">https://daringfireball.net/thetalkshow/2026/04/01/ep-445</guid>
-      <pubDate>Wed, 01 Apr 2026 23:47:37 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>datasette-llm 0.1a6</title>
-      <link>https://simonwillison.net/2026/Apr/1/datasette-llm-2/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/1/datasette-llm-2/#atom-everything</guid>
-      <pubDate>Wed, 01 Apr 2026 23:01:37 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>13th Year of Blogging</title>
-      <link>https://idiallo.com/byte-size/blogging-year-13?src=feed</link>
-      <guid isPermaLink="true">https://idiallo.com/byte-size/blogging-year-13?src=feed</guid>
-      <pubDate>Wed, 01 Apr 2026 22:15:39 +0000</pubDate>
-      <description>iDiallo.com</description>
-    </item>
-    <item>
-      <title>datasette-enrichments-llm 0.2a1</title>
-      <link>https://simonwillison.net/2026/Apr/1/datasette-enrichments-llm-2/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/1/datasette-enrichments-llm-2/#atom-everything</guid>
-      <pubDate>Wed, 01 Apr 2026 22:00:34 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>DRAM pricing is killing the hobbyist SBC market</title>
-      <link>https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/</guid>
-      <pubDate>Wed, 01 Apr 2026 21:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
-      <title>More on Apple’s Fun ‘Rewind’ Video</title>
-      <link>https://hachyderm.io/@lexfri/116331181693278195</link>
-      <guid isPermaLink="true">https://hachyderm.io/@lexfri/116331181693278195</guid>
-      <pubDate>Wed, 01 Apr 2026 20:27:02 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Ben Cohen of the WSJ Tours Apple’s Archive of Prototype Hardware</title>
-      <link>https://www.youtube.com/watch?v=74qPQt_5DdM</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=74qPQt_5DdM</guid>
-      <pubDate>Wed, 01 Apr 2026 20:10:41 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>New Jersey, the Jackass State</title>
-      <link>https://x.com/NJGov/status/2039370966090854604</link>
-      <guid isPermaLink="true">https://x.com/NJGov/status/2039370966090854604</guid>
-      <pubDate>Wed, 01 Apr 2026 19:59:43 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
   </channel>
