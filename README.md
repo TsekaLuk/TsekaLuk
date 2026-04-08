@@ -208,11 +208,11 @@ Last Updated: Wednesday, April 8th, 2026, 9:09:56 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Pluralistic: Process knowledge (08 Apr 2026)](https://pluralistic.net/2026/04/08/process-knowledge-vs-bosses/) — *Pluralistic: Daily links from Cory Doctorow* `04-08`
+- [Theatre Review: Avenue Q ★★★★★](https://shkspr.mobi/blog/2026/04/theatre-review-avenue-q/) — *Terence Eden’s Blog* `04-08`
+- [Package Security Problems for AI Agents](https://nesbitt.io/2026/04/08/package-security-problems-for-ai-agents.html) — *Andrew Nesbitt* `04-08`
 - [Pork & Puppetry](https://feed.tedium.co/link/15204/17315642/pork-johnson-gimp-parody-interview) — *Tedium: The Dull Side of the Internet.* `04-08`
 - [Users and session classes in Systemd v258 and later (and a gotcha)](https://utcc.utoronto.ca/~cks/space/blog/linux/Systemd258UsersAndSessions) — *Chris's Wiki :: blog* `04-08`
-- [Solar Eclipse From the Far Side of the Moon](https://kottke.org/26/04/solar-eclipse-far-side-of-the-moon) — *Daring Fireball* `04-07`
-- [Sam Altman, in a Video Released by OpenAI, Apparently Thinks AGI Is Going to Hit Society Like a Once-a-Century Pandemic](https://x.com/OpenAINewsroom/status/2041618671236469200?s=20) — *Daring Fireball* `04-07`
-- [★ OpenAI Announces $122 Billion Additional ‘Committed Capital’, and Announces Their ‘Superapp’ Plan for the Future](https://daringfireball.net/2026/04/openai_future) — *Daring Fireball* `04-07`
 <!--BLOG_RADAR:end-->
 
 ---
