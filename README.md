@@ -208,11 +208,11 @@ Last Updated: Thursday, April 9th, 2026, 3:08:32 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Anthropic’s New Claude Mythos Is So Good at Finding and Exploiting Vulnerabilities That They’re Not Releasing It to the Public](https://red.anthropic.com/2026/mythos-preview/) — *Daring Fireball* `04-08`
+- [AI Is Really Weird](https://www.wheresyoured.at/ai-is-really-weird/) — *Ed Zitron's Where's Your Ed At* `04-08`
+- [Quoting Giles Turnbull](https://simonwillison.net/2026/Apr/8/giles-turnbull/#atom-everything) — *Simon Willison's Weblog* `04-08`
 - [Pluralistic: Process knowledge (08 Apr 2026)](https://pluralistic.net/2026/04/08/process-knowledge-vs-bosses/) — *Pluralistic: Daily links from Cory Doctorow* `04-08`
 - [Theatre Review: Avenue Q ★★★★★](https://shkspr.mobi/blog/2026/04/theatre-review-avenue-q/) — *Terence Eden’s Blog* `04-08`
-- [Package Security Problems for AI Agents](https://nesbitt.io/2026/04/08/package-security-problems-for-ai-agents.html) — *Andrew Nesbitt* `04-08`
-- [Pork & Puppetry](https://feed.tedium.co/link/15204/17315642/pork-johnson-gimp-parody-interview) — *Tedium: The Dull Side of the Internet.* `04-08`
-- [Users and session classes in Systemd v258 and later (and a gotcha)](https://utcc.utoronto.ca/~cks/space/blog/linux/Systemd258UsersAndSessions) — *Chris's Wiki :: blog* `04-08`
 <!--BLOG_RADAR:end-->
 
 ---

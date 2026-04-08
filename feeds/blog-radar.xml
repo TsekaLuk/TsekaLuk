@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 08 Apr 2026 13:49:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 19:27:30 +0000</lastBuildDate>
+    <item>
+      <title>Anthropic’s New Claude Mythos Is So Good at Finding and Exploiting Vulnerabilities That They’re Not Releasing It to the Public</title>
+      <link>https://red.anthropic.com/2026/mythos-preview/</link>
+      <guid isPermaLink="true">https://red.anthropic.com/2026/mythos-preview/</guid>
+      <pubDate>Wed, 08 Apr 2026 15:49:15 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>AI Is Really Weird</title>
+      <link>https://www.wheresyoured.at/ai-is-really-weird/</link>
+      <guid isPermaLink="true">https://www.wheresyoured.at/ai-is-really-weird/</guid>
+      <pubDate>Wed, 08 Apr 2026 15:48:32 +0000</pubDate>
+      <description>Ed Zitron's Where's Your Ed At</description>
+    </item>
+    <item>
+      <title>Quoting Giles Turnbull</title>
+      <link>https://simonwillison.net/2026/Apr/8/giles-turnbull/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/8/giles-turnbull/#atom-everything</guid>
+      <pubDate>Wed, 08 Apr 2026 15:18:49 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Pluralistic: Process knowledge (08 Apr 2026)</title>
       <link>https://pluralistic.net/2026/04/08/process-knowledge-vs-bosses/</link>
@@ -46,6 +67,13 @@
       <guid isPermaLink="true">https://lucumr.pocoo.org/2026/4/8/mario-and-earendil/</guid>
       <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
       <description>Armin Ronacher's Thoughts and Writings</description>
+    </item>
+    <item>
+      <title>When the crisis comes</title>
+      <link>https://anildash.com/2026/04/08/when-the-crisis-comes/</link>
+      <guid isPermaLink="true">https://anildash.com/2026/04/08/when-the-crisis-comes/</guid>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Anil Dash</description>
     </item>
     <item>
       <title>Solar Eclipse From the Far Side of the Moon</title>
@@ -692,18 +720,18 @@
       <description>John D. Cook</description>
     </item>
     <item>
-      <title>Loading... [13 kB]</title>
-      <link>https://maurycyz.com/misc/13kb/</link>
-      <guid isPermaLink="true">https://maurycyz.com/misc/13kb/</guid>
-      <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
-    </item>
-    <item>
       <title>Programming (with AI agents) as theory building</title>
       <link>https://seangoedecke.com/programming-with-ai-agents-as-theory-building/</link>
       <guid isPermaLink="true">https://seangoedecke.com/programming-with-ai-agents-as-theory-building/</guid>
       <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Loading... [13 kB]</title>
+      <link>https://maurycyz.com/misc/13kb/</link>
+      <guid isPermaLink="true">https://maurycyz.com/misc/13kb/</guid>
+      <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
     </item>
     <item>
       <title>Automating starting Lambda Labs instances</title>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/04/02/artemis-apollo/</guid>
       <pubDate>Thu, 02 Apr 2026 14:14:44 +0000</pubDate>
       <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Why doesn’t the system let you declare your own messages to have the same semantics as WM_COPY­DATA?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260402-00/?p=112196</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260402-00/?p=112196</guid>
-      <pubDate>Thu, 02 Apr 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Trump’s White House Ballroom Design Is Shit</title>
-      <link>https://www.nytimes.com/interactive/2026/03/29/upshot/white-house-ballroom.html?unlocked_article_code=1.YFA.B8B-.YCV0XNfscf0B</link>
-      <guid isPermaLink="true">https://www.nytimes.com/interactive/2026/03/29/upshot/white-house-ballroom.html?unlocked_article_code=1.YFA.B8B-.YCV0XNfscf0B</guid>
-      <pubDate>Thu, 02 Apr 2026 13:48:45 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Information and Technological Evolution</title>
-      <link>https://www.construction-physics.com/p/information-and-technological-evolution</link>
-      <guid isPermaLink="true">https://www.construction-physics.com/p/information-and-technological-evolution</guid>
-      <pubDate>Thu, 02 Apr 2026 12:16:08 +0000</pubDate>
-      <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>Concert Review: London Philharmonic - Pictures at an Exhibition ★★★★★</title>
-      <link>https://shkspr.mobi/blog/2026/04/concert-review-london-philharmonic-pictures-at-an-exhibition/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/concert-review-london-philharmonic-pictures-at-an-exhibition/</guid>
-      <pubDate>Thu, 02 Apr 2026 11:34:07 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
   </channel>
 </rss>
