@@ -208,11 +208,11 @@ Last Updated: Friday, April 10th, 2026, 2:56:29 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Nowhere Is Safe](https://steveblank.com/2026/04/09/nowhere-is-safe/) — *Steve Blank* `04-09`
-- [Helium Is Hard to Replace](https://www.construction-physics.com/p/helium-is-hard-to-replace) — *Construction Physics* `04-09`
-- [Pluralistic: Cindy Cohn's "Privacy's Defender" (09 Apr 2026)](https://pluralistic.net/2026/04/09/bernstein-2/) — *Pluralistic: Daily links from Cory Doctorow* `04-09`
-- [You can absolutely have an RSS dependent website in 2026](https://matduggan.com/you-can-absolutely-have-an-rss-dependent-website-in-2026/) — *matduggan.com* `04-09`
-- [Package Security Defenses for AI Agents](https://nesbitt.io/2026/04/09/package-security-defenses-for-ai-agents.html) — *Andrew Nesbitt* `04-09`
+- [Writing an LLM from scratch, part 32j -- Interventions: trying to train a better model in the cloud](https://www.gilesthomas.com/2026/04/llm-from-scratch-32j-interventions-trying-to-train-a-better-model-in-the-cloud) — *Giles' blog* `04-09`
+- [Fewer Computers, Fewer Problems: Going Local With Builds & Deployments](https://blog.jim-nielsen.com/2026/fewer-computers-fewer-problems/) — *Jim Nielsen’s Blog* `04-09`
+- [The Great Pyramid of Giza and the Speed of Light](https://www.johndcook.com/blog/2026/04/09/pyramid-speed-of-light/) — *John D. Cook* `04-09`
+- [Random hexagon fractal](https://www.johndcook.com/blog/2026/04/09/random-hexagon-fractal/) — *John D. Cook* `04-09`
+- [Lickspittle of the Week: Todd Blanche](https://politicalwire.com/2026/04/09/extra-bonus-quote-of-the-day-1022/) — *Daring Fireball* `04-09`
 <!--BLOG_RADAR:end-->
 
 ---

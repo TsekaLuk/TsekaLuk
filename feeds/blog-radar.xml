@@ -4,7 +4,56 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 09 Apr 2026 13:59:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 19:19:07 +0000</lastBuildDate>
+    <item>
+      <title>Writing an LLM from scratch, part 32j -- Interventions: trying to train a better model in the cloud</title>
+      <link>https://www.gilesthomas.com/2026/04/llm-from-scratch-32j-interventions-trying-to-train-a-better-model-in-the-cloud</link>
+      <guid isPermaLink="true">https://www.gilesthomas.com/2026/04/llm-from-scratch-32j-interventions-trying-to-train-a-better-model-in-the-cloud</guid>
+      <pubDate>Thu, 09 Apr 2026 20:00:00 +0000</pubDate>
+      <description>Giles' blog</description>
+    </item>
+    <item>
+      <title>Fewer Computers, Fewer Problems: Going Local With Builds &amp; Deployments</title>
+      <link>https://blog.jim-nielsen.com/2026/fewer-computers-fewer-problems/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/fewer-computers-fewer-problems/</guid>
+      <pubDate>Thu, 09 Apr 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
+    </item>
+    <item>
+      <title>The Great Pyramid of Giza and the Speed of Light</title>
+      <link>https://www.johndcook.com/blog/2026/04/09/pyramid-speed-of-light/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/04/09/pyramid-speed-of-light/</guid>
+      <pubDate>Thu, 09 Apr 2026 17:54:21 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Random hexagon fractal</title>
+      <link>https://www.johndcook.com/blog/2026/04/09/random-hexagon-fractal/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/04/09/random-hexagon-fractal/</guid>
+      <pubDate>Thu, 09 Apr 2026 17:25:08 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Lickspittle of the Week: Todd Blanche</title>
+      <link>https://politicalwire.com/2026/04/09/extra-bonus-quote-of-the-day-1022/</link>
+      <guid isPermaLink="true">https://politicalwire.com/2026/04/09/extra-bonus-quote-of-the-day-1022/</guid>
+      <pubDate>Thu, 09 Apr 2026 17:10:48 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>SQLAlchemy 2 In Practice - Chapter 4 - Many-To-Many Relationships</title>
+      <link>https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-4---many-to-many-relationships</link>
+      <guid isPermaLink="true">https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-4---many-to-many-relationships</guid>
+      <pubDate>Thu, 09 Apr 2026 15:02:34 +0000</pubDate>
+      <description>Miguel Grinberg's Blog</description>
+    </item>
+    <item>
+      <title>How do you add or remove a handle from an active Wait­For­Multiple­Objects?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260409-00/?p=112220</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260409-00/?p=112220</guid>
+      <pubDate>Thu, 09 Apr 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
     <item>
       <title>Nowhere Is Safe</title>
       <link>https://steveblank.com/2026/04/09/nowhere-is-safe/</link>
@@ -18,6 +67,13 @@
       <guid isPermaLink="true">https://www.construction-physics.com/p/helium-is-hard-to-replace</guid>
       <pubDate>Thu, 09 Apr 2026 12:03:42 +0000</pubDate>
       <description>Construction Physics</description>
+    </item>
+    <item>
+      <title>Book Review: Small Comfort by Ia Genberg ★★☆☆☆</title>
+      <link>https://shkspr.mobi/blog/2026/04/book-review-small-comfort-by-ia-genberg/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/book-review-small-comfort-by-ia-genberg/</guid>
+      <pubDate>Thu, 09 Apr 2026 11:34:59 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Pluralistic: Cindy Cohn's "Privacy's Defender" (09 Apr 2026)</title>
@@ -60,6 +116,13 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/04/08/andrica/</guid>
       <pubDate>Thu, 09 Apr 2026 00:18:57 +0000</pubDate>
       <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>I quit drinking for a year</title>
+      <link>https://dynomight.net/drinking/</link>
+      <guid isPermaLink="true">https://dynomight.net/drinking/</guid>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>A Three- and a Four- Body Problem</title>
@@ -116,6 +179,13 @@
       <guid isPermaLink="true">https://pluralistic.net/2026/04/08/process-knowledge-vs-bosses/</guid>
       <pubDate>Wed, 08 Apr 2026 13:39:44 +0000</pubDate>
       <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Theatre Review: Avenue Q ★★★★★</title>
+      <link>https://shkspr.mobi/blog/2026/04/theatre-review-avenue-q/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/theatre-review-avenue-q/</guid>
+      <pubDate>Wed, 08 Apr 2026 11:34:25 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Package Security Problems for AI Agents</title>
@@ -251,6 +321,13 @@
       <description>The Old New Thing</description>
     </item>
     <item>
+      <title>Did WordPress VIP leak my phone number?</title>
+      <link>https://shkspr.mobi/blog/2026/04/did-wordpress-vip-leak-my-phone-number/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/did-wordpress-vip-leak-my-phone-number/</guid>
+      <pubDate>Tue, 07 Apr 2026 11:34:43 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>Who Built This?</title>
       <link>https://nesbitt.io/2026/04/07/who-built-this.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/04/07/who-built-this.html</guid>
@@ -361,6 +438,13 @@
       <guid isPermaLink="true">https://idiallo.com/blog/it-took-me-10-hours-to-fix-ai-code?src=feed</guid>
       <pubDate>Mon, 06 Apr 2026 13:00:00 +0000</pubDate>
       <description>iDiallo.com</description>
+    </item>
+    <item>
+      <title>[RSS Club] Banana for scale</title>
+      <link>https://shkspr.mobi/blog/2026/04/rss-club-banana-for-scale/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/rss-club-banana-for-scale/</guid>
+      <pubDate>Mon, 06 Apr 2026 11:34:00 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>The Cathedral and the Catacombs</title>
@@ -482,6 +566,13 @@
       <description>Michael Stapelbergs Website</description>
     </item>
     <item>
+      <title>Someone at BrowserStack is Leaking Users' Email Address</title>
+      <link>https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/</guid>
+      <pubDate>Sun, 05 Apr 2026 11:34:03 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>It's not that deep</title>
       <link>https://idiallo.com/blog/its-not-that-deep?src=feed</link>
       <guid isPermaLink="true">https://idiallo.com/blog/its-not-that-deep?src=feed</guid>
@@ -571,6 +662,13 @@
       <guid isPermaLink="true">https://www.joanwestenberg.com/the-ai-writing-witchhunt-is-pointless/</guid>
       <pubDate>Sat, 04 Apr 2026 12:01:37 +0000</pubDate>
       <description>Westenberg.</description>
+    </item>
+    <item>
+      <title>Welcome to RSS Club!</title>
+      <link>https://shkspr.mobi/blog/2026/04/welcome-to-rss-club/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/welcome-to-rss-club/</guid>
+      <pubDate>Sat, 04 Apr 2026 11:34:13 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>What does Open Source mean?</title>
@@ -727,6 +825,13 @@
       <description>iDiallo.com</description>
     </item>
     <item>
+      <title>Book Review: Superintelligence - Paths, Dangers, Strategies by Nick Bostrom ★★★★⯪</title>
+      <link>https://shkspr.mobi/blog/2026/04/book-review-superintelligence-paths-dangers-strategies-by-nick-bostrom/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/book-review-superintelligence-paths-dangers-strategies-by-nick-bostrom/</guid>
+      <pubDate>Fri, 03 Apr 2026 11:34:34 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>Package Manager Easter Eggs</title>
       <link>https://nesbitt.io/2026/04/03/package-manager-easter-eggs.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/04/03/package-manager-easter-eggs.html</guid>
@@ -739,111 +844,6 @@
       <guid isPermaLink="true">https://www.joanwestenberg.com/the-passive-income-trap-ate-a-generation-of-entrepreneurs/</guid>
       <pubDate>Fri, 03 Apr 2026 06:25:28 +0000</pubDate>
       <description>Westenberg.</description>
-    </item>
-    <item>
-      <title>Em Dashes: Back In Style?</title>
-      <link>https://feed.tedium.co/link/15204/17312777/emdash-cloudflare-wordpress-competitor</link>
-      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17312777/emdash-cloudflare-wordpress-competitor</guid>
-      <pubDate>Fri, 03 Apr 2026 03:20:49 +0000</pubDate>
-      <description>Tedium: The Dull Side of the Internet.</description>
-    </item>
-    <item>
-      <title>Using '&lt;code&gt;pkg&lt;/code&gt;' for everything on FreeBSD 15 has been nice</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/unix/FreeBSDPkgManagementNice</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/unix/FreeBSDPkgManagementNice</guid>
-      <pubDate>Fri, 03 Apr 2026 03:00:41 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>Hyperbolic version of Napier’s mnemonic</title>
-      <link>https://www.johndcook.com/blog/2026/04/02/hyperbolic-napier-mnemonic/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/04/02/hyperbolic-napier-mnemonic/</guid>
-      <pubDate>Fri, 03 Apr 2026 01:38:49 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Programming (with AI agents) as theory building</title>
-      <link>https://seangoedecke.com/programming-with-ai-agents-as-theory-building/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/programming-with-ai-agents-as-theory-building/</guid>
-      <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>Loading... [13 kB]</title>
-      <link>https://maurycyz.com/misc/13kb/</link>
-      <guid isPermaLink="true">https://maurycyz.com/misc/13kb/</guid>
-      <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
-    </item>
-    <item>
-      <title>Automating starting Lambda Labs instances</title>
-      <link>https://www.gilesthomas.com/2026/04/automating-starting-lambda-instances</link>
-      <guid isPermaLink="true">https://www.gilesthomas.com/2026/04/automating-starting-lambda-instances</guid>
-      <pubDate>Thu, 02 Apr 2026 23:30:00 +0000</pubDate>
-      <description>Giles' blog</description>
-    </item>
-    <item>
-      <title>Highlights from my conversation about agentic engineering on Lenny's Podcast</title>
-      <link>https://simonwillison.net/2026/Apr/2/lennys-podcast/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/2/lennys-podcast/#atom-everything</guid>
-      <pubDate>Thu, 02 Apr 2026 20:40:47 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>John Buck on the Invention of QuickTime</title>
-      <link>https://www.theverge.com/tech/902721/quicktime-history-apple?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IkcybHEzWGhZTVciLCJwIjoiL3RlY2gvOTAyNzIxL3F1aWNrdGltZS1oaXN0b3J5LWFwcGxlIiwiZXhwIjoxNzc1NTkyNzA0LCJpYXQiOjE3NzUxNjA3MDR9.p4nbje9XKl05Ybv3q31CyAQULuqAB-H9b8qfftSz12k</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/902721/quicktime-history-apple?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IkcybHEzWGhZTVciLCJwIjoiL3RlY2gvOTAyNzIxL3F1aWNrdGltZS1oaXN0b3J5LWFwcGxlIiwiZXhwIjoxNzc1NTkyNzA0LCJpYXQiOjE3NzUxNjA3MDR9.p4nbje9XKl05Ybv3q31CyAQULuqAB-H9b8qfftSz12k</guid>
-      <pubDate>Thu, 02 Apr 2026 20:12:07 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Artemis II Crew on Way to Moon</title>
-      <link>https://512pixels.net/2026/04/artemis-ii-crew-on-way-to-moon/</link>
-      <guid isPermaLink="true">https://512pixels.net/2026/04/artemis-ii-crew-on-way-to-moon/</guid>
-      <pubDate>Thu, 02 Apr 2026 19:37:10 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The Blandness of Systematic Rules vs. The Delight of Localized Sensitivity</title>
-      <link>https://blog.jim-nielsen.com/2026/systemic-vs-localized/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/systemic-vs-localized/</guid>
-      <pubDate>Thu, 02 Apr 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
-      <title>OpenAI, Supposedly Tightening Its Focus on Its Core Products, Buys Tech-Industry Talk Show TBPN</title>
-      <link>https://www.wsj.com/cmo-today/openai-buys-tech-industry-talk-show-tbpn-484c01c5?st=RUVFWn</link>
-      <guid isPermaLink="true">https://www.wsj.com/cmo-today/openai-buys-tech-industry-talk-show-tbpn-484c01c5?st=RUVFWn</guid>
-      <pubDate>Thu, 02 Apr 2026 18:58:50 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Axios, Super Popular NPM Package, Was Compromised in Attack on the Module’s Maintainer</title>
-      <link>https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan</link>
-      <guid isPermaLink="true">https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan</guid>
-      <pubDate>Thu, 02 Apr 2026 18:42:39 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Gemma 4: Byte for byte, the most capable open models</title>
-      <link>https://simonwillison.net/2026/Apr/2/gemma-4/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/2/gemma-4/#atom-everything</guid>
-      <pubDate>Thu, 02 Apr 2026 18:28:54 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>llm-gemini 0.30</title>
-      <link>https://simonwillison.net/2026/Apr/2/llm-gemini/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/2/llm-gemini/#atom-everything</guid>
-      <pubDate>Thu, 02 Apr 2026 18:25:08 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>‘No, We’re Not Stupid. Our Dads Just Got Us Crummy Computers.’</title>
-      <link>https://www.reddit.com/r/VintageApple/comments/bq4ucw/mcintosh_jr_vintage_apple_parody/</link>
-      <guid isPermaLink="true">https://www.reddit.com/r/VintageApple/comments/bq4ucw/mcintosh_jr_vintage_apple_parody/</guid>
-      <pubDate>Thu, 02 Apr 2026 18:12:11 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
