@@ -208,11 +208,11 @@ Last Updated: Thursday, April 9th, 2026, 3:14:52 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Rapport digitale autonomie binnen de energie-intensieve industrie voor Energy Innovation Nl](https://berthub.eu/articles/posts/rapport-digitale-afhankelijkheden-energy-innovation-nl/) — *Bert Hubert's writings* `04-09`
 - [Systemd v258's 'systemctl -v restart' and its limitations](https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdVerboseRestartNotes) — *Chris's Wiki :: blog* `04-09`
 - [Root prime gap](https://www.johndcook.com/blog/2026/04/08/andrica/) — *John D. Cook* `04-09`
 - [A Three- and a Four- Body Problem](https://www.johndcook.com/blog/2026/04/08/artemis-1-apollo-12/) — *John D. Cook* `04-08`
 - [Meta's new model is Muse Spark, and meta.ai chat has some interesting tools](https://simonwillison.net/2026/Apr/8/muse-spark/#atom-everything) — *Simon Willison's Weblog* `04-08`
-- [Anthropic’s New Claude Mythos Is So Good at Finding and Exploiting Vulnerabilities That They’re Not Releasing It to the Public](https://red.anthropic.com/2026/mythos-preview/) — *Daring Fireball* `04-08`
 <!--BLOG_RADAR:end-->
 
 ---
