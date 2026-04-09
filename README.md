@@ -208,11 +208,11 @@ Last Updated: Thursday, April 9th, 2026, 9:14:02 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Rapport digitale autonomie binnen de energie-intensieve industrie voor Energy Innovation Nl](https://berthub.eu/articles/posts/rapport-digitale-afhankelijkheden-energy-innovation-nl/) — *Bert Hubert's writings* `04-09`
-- [Systemd v258's 'systemctl -v restart' and its limitations](https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdVerboseRestartNotes) — *Chris's Wiki :: blog* `04-09`
-- [Root prime gap](https://www.johndcook.com/blog/2026/04/08/andrica/) — *John D. Cook* `04-09`
-- [A Three- and a Four- Body Problem](https://www.johndcook.com/blog/2026/04/08/artemis-1-apollo-12/) — *John D. Cook* `04-08`
-- [Meta's new model is Muse Spark, and meta.ai chat has some interesting tools](https://simonwillison.net/2026/Apr/8/muse-spark/#atom-everything) — *Simon Willison's Weblog* `04-08`
+- [Nowhere Is Safe](https://steveblank.com/2026/04/09/nowhere-is-safe/) — *Steve Blank* `04-09`
+- [Helium Is Hard to Replace](https://www.construction-physics.com/p/helium-is-hard-to-replace) — *Construction Physics* `04-09`
+- [Pluralistic: Cindy Cohn's "Privacy's Defender" (09 Apr 2026)](https://pluralistic.net/2026/04/09/bernstein-2/) — *Pluralistic: Daily links from Cory Doctorow* `04-09`
+- [You can absolutely have an RSS dependent website in 2026](https://matduggan.com/you-can-absolutely-have-an-rss-dependent-website-in-2026/) — *matduggan.com* `04-09`
+- [Package Security Defenses for AI Agents](https://nesbitt.io/2026/04/09/package-security-defenses-for-ai-agents.html) — *Andrew Nesbitt* `04-09`
 <!--BLOG_RADAR:end-->
 
 ---
