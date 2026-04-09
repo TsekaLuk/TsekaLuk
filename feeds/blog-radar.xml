@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 08 Apr 2026 19:27:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 02:54:48 +0000</lastBuildDate>
+    <item>
+      <title>Systemd v258's 'systemctl -v restart' and its limitations</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdVerboseRestartNotes</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdVerboseRestartNotes</guid>
+      <pubDate>Thu, 09 Apr 2026 02:43:31 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>Root prime gap</title>
+      <link>https://www.johndcook.com/blog/2026/04/08/andrica/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/04/08/andrica/</guid>
+      <pubDate>Thu, 09 Apr 2026 00:18:57 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>A Three- and a Four- Body Problem</title>
+      <link>https://www.johndcook.com/blog/2026/04/08/artemis-1-apollo-12/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/04/08/artemis-1-apollo-12/</guid>
+      <pubDate>Wed, 08 Apr 2026 23:30:15 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Meta's new model is Muse Spark, and meta.ai chat has some interesting tools</title>
+      <link>https://simonwillison.net/2026/Apr/8/muse-spark/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/8/muse-spark/#atom-everything</guid>
+      <pubDate>Wed, 08 Apr 2026 23:07:44 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Anthropic’s New Claude Mythos Is So Good at Finding and Exploiting Vulnerabilities That They’re Not Releasing It to the Public</title>
       <link>https://red.anthropic.com/2026/mythos-preview/</link>
@@ -25,6 +53,13 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Apr/8/giles-turnbull/#atom-everything</guid>
       <pubDate>Wed, 08 Apr 2026 15:18:49 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>How do you add or remove a handle from an active Msg­Wait­For­Multiple­Objects?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260408-00/?p=112218</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260408-00/?p=112218</guid>
+      <pubDate>Wed, 08 Apr 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Pluralistic: Process knowledge (08 Apr 2026)</title>
@@ -809,41 +844,6 @@
       <guid isPermaLink="true">https://www.macworld.com/article/3103792/thanks-for-the-wild-ride-apple-lets-keep-it-going.html</guid>
       <pubDate>Thu, 02 Apr 2026 16:53:02 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The Reckoning</title>
-      <link>https://geohot.github.io//blog/jekyll/update/2026/04/03/the-reckoning.html</link>
-      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/04/03/the-reckoning.html</guid>
-      <pubDate>Thu, 02 Apr 2026 16:00:00 +0000</pubDate>
-      <description>the singularity is nearer</description>
-    </item>
-    <item>
-      <title>‘Great Things in Business Are Never Done by One Person. They’re Done by a Team of People.’</title>
-      <link>https://www.youtube.com/watch?v=vydmUCGQnyI</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=vydmUCGQnyI</guid>
-      <pubDate>Thu, 02 Apr 2026 15:17:27 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>★ David Pogue’s ‘Apple: The First 50 Years’</title>
-      <link>https://daringfireball.net/2026/04/pogue_apple_first_50_years</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/04/pogue_apple_first_50_years</guid>
-      <pubDate>Thu, 02 Apr 2026 14:57:28 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>David Pogue: ‘Apple and Me’</title>
-      <link>https://pogueman.substack.com/p/apple-and-me-the-first-50-years?triedRedirect=true</link>
-      <guid isPermaLink="true">https://pogueman.substack.com/p/apple-and-me-the-first-50-years?triedRedirect=true</guid>
-      <pubDate>Thu, 02 Apr 2026 14:15:45 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Artemis II, Apollo 8, and Apollo 13</title>
-      <link>https://www.johndcook.com/blog/2026/04/02/artemis-apollo/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/04/02/artemis-apollo/</guid>
-      <pubDate>Thu, 02 Apr 2026 14:14:44 +0000</pubDate>
-      <description>John D. Cook</description>
     </item>
   </channel>
 </rss>

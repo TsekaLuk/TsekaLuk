@@ -208,11 +208,11 @@ Last Updated: Thursday, April 9th, 2026, 9:49:13 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Systemd v258's 'systemctl -v restart' and its limitations](https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdVerboseRestartNotes) — *Chris's Wiki :: blog* `04-09`
+- [Root prime gap](https://www.johndcook.com/blog/2026/04/08/andrica/) — *John D. Cook* `04-09`
+- [A Three- and a Four- Body Problem](https://www.johndcook.com/blog/2026/04/08/artemis-1-apollo-12/) — *John D. Cook* `04-08`
+- [Meta's new model is Muse Spark, and meta.ai chat has some interesting tools](https://simonwillison.net/2026/Apr/8/muse-spark/#atom-everything) — *Simon Willison's Weblog* `04-08`
 - [Anthropic’s New Claude Mythos Is So Good at Finding and Exploiting Vulnerabilities That They’re Not Releasing It to the Public](https://red.anthropic.com/2026/mythos-preview/) — *Daring Fireball* `04-08`
-- [AI Is Really Weird](https://www.wheresyoured.at/ai-is-really-weird/) — *Ed Zitron's Where's Your Ed At* `04-08`
-- [Quoting Giles Turnbull](https://simonwillison.net/2026/Apr/8/giles-turnbull/#atom-everything) — *Simon Willison's Weblog* `04-08`
-- [Pluralistic: Process knowledge (08 Apr 2026)](https://pluralistic.net/2026/04/08/process-knowledge-vs-bosses/) — *Pluralistic: Daily links from Cory Doctorow* `04-08`
-- [Theatre Review: Avenue Q ★★★★★](https://shkspr.mobi/blog/2026/04/theatre-review-avenue-q/) — *Terence Eden’s Blog* `04-08`
 <!--BLOG_RADAR:end-->
 
 ---
