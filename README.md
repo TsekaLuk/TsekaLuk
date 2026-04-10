@@ -208,11 +208,11 @@ Last Updated: Friday, April 10th, 2026, 8:58:04 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [[RSS Club] Why do you use RSS rather than Atom?](https://shkspr.mobi/blog/2026/04/rss-club-why-do-you-use-rss-rather-than-atom/) — *Terence Eden’s Blog* `04-10`
+- [Package Registries and Pagination](https://nesbitt.io/2026/04/10/package-registries-and-pagination.html) — *Andrew Nesbitt* `04-10`
+- [Pluralistic: Canny Valley and Creative Commons (10 Apr 2026)](https://pluralistic.net/2026/04/10/canny-valley/) — *Pluralistic: Daily links from Cory Doctorow* `04-10`
 - [The Solitaire Shuffle](https://feed.tedium.co/link/15204/17316812/solitaire-card-game-types-history) — *Tedium: The Dull Side of the Internet.* `04-10`
 - [watgo - a WebAssembly Toolkit for Go](https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/) — *Eli Bendersky's website* `04-10`
-- [Why I quit "The Strive"](https://www.joanwestenberg.com/why-i-quit-the-strive/) — *Westenberg.* `04-10`
-- [Y2K 2.0: The AI security reckoning](https://anildash.com/2026/04/10/y2k-2.0-ai-security/) — *Anil Dash* `04-10`
-- [Some quick notes to myself on nftables 'symbolic variables'](https://utcc.utoronto.ca/~cks/space/blog/linux/NftablesSymbolicVariables) — *Chris's Wiki :: blog* `04-09`
 <!--BLOG_RADAR:end-->
 
 ---
