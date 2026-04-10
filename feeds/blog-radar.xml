@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 10 Apr 2026 03:27:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 07:52:20 +0000</lastBuildDate>
+    <item>
+      <title>The Solitaire Shuffle</title>
+      <link>https://feed.tedium.co/link/15204/17316812/solitaire-card-game-types-history</link>
+      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17316812/solitaire-card-game-types-history</guid>
+      <pubDate>Fri, 10 Apr 2026 03:47:04 +0000</pubDate>
+      <description>Tedium: The Dull Side of the Internet.</description>
+    </item>
     <item>
       <title>watgo - a WebAssembly Toolkit for Go</title>
       <link>https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/</link>
@@ -18,6 +25,13 @@
       <guid isPermaLink="true">https://www.joanwestenberg.com/why-i-quit-the-strive/</guid>
       <pubDate>Fri, 10 Apr 2026 01:50:12 +0000</pubDate>
       <description>Westenberg.</description>
+    </item>
+    <item>
+      <title>Y2K 2.0: The AI security reckoning</title>
+      <link>https://anildash.com/2026/04/10/y2k-2.0-ai-security/</link>
+      <guid isPermaLink="true">https://anildash.com/2026/04/10/y2k-2.0-ai-security/</guid>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Anil Dash</description>
     </item>
     <item>
       <title>Some quick notes to myself on nftables 'symbolic variables'</title>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://sixcolors.com/post/2026/04/apple-releases-ios-18-security-updates-for-ios-26-holdouts/</guid>
       <pubDate>Fri, 03 Apr 2026 19:28:36 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Apple Still Has Jessica Chastain’s ‘The Savant’ on Ice, Seven Months After It Was Set to Debut</title>
-      <link>https://www.macstories.net/news/coming-soon-whats-next-on-apple-tv-and-apple-arcade-in-april-2026/</link>
-      <guid isPermaLink="true">https://www.macstories.net/news/coming-soon-whats-next-on-apple-tv-and-apple-arcade-in-april-2026/</guid>
-      <pubDate>Fri, 03 Apr 2026 18:20:04 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Roman moon, Greek moon</title>
-      <link>https://www.johndcook.com/blog/2026/04/03/roman-moon-greek-moon/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/04/03/roman-moon-greek-moon/</guid>
-      <pubDate>Fri, 03 Apr 2026 16:31:54 +0000</pubDate>
-      <description>John D. Cook</description>
     </item>
   </channel>
 </rss>

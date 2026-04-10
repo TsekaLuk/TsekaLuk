@@ -208,11 +208,11 @@ Last Updated: Friday, April 10th, 2026, 3:19:41 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [The Solitaire Shuffle](https://feed.tedium.co/link/15204/17316812/solitaire-card-game-types-history) — *Tedium: The Dull Side of the Internet.* `04-10`
 - [watgo - a WebAssembly Toolkit for Go](https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/) — *Eli Bendersky's website* `04-10`
 - [Why I quit "The Strive"](https://www.joanwestenberg.com/why-i-quit-the-strive/) — *Westenberg.* `04-10`
+- [Y2K 2.0: The AI security reckoning](https://anildash.com/2026/04/10/y2k-2.0-ai-security/) — *Anil Dash* `04-10`
 - [Some quick notes to myself on nftables 'symbolic variables'](https://utcc.utoronto.ca/~cks/space/blog/linux/NftablesSymbolicVariables) — *Chris's Wiki :: blog* `04-09`
-- [MacOS Seemingly Crashes After 49 Days of Uptime — a ‘Feature’ Perhaps Exclusive to Tahoe](https://sixcolors.com/link/2026/04/macs-crash-after-49-days-of-uptime/) — *Daring Fireball* `04-09`
-- [GitHub Repo Size](https://simonwillison.net/2026/Apr/9/github-repo-size/#atom-everything) — *Simon Willison's Weblog* `04-09`
 <!--BLOG_RADAR:end-->
 
 ---
