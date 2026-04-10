@@ -208,11 +208,11 @@ Last Updated: Saturday, April 11th, 2026, 2:43:09 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Premium: The Hater's Guide to OpenAI](https://www.wheresyoured.at/hatersguide-openai/) — *Ed Zitron's Where's Your Ed At* `04-10`
+- [Ed Bindels’s Apple Museum in Utrecht, Netherlands](https://applemuseum.nl/) — *Daring Fireball* `04-10`
+- [ChatGPT voice mode is a weaker model](https://simonwillison.net/2026/Apr/10/voice-mode-is-weaker/#atom-everything) — *Simon Willison's Weblog* `04-10`
+- [Distribution of digits in fractions](https://www.johndcook.com/blog/2026/04/10/fraction-digits/) — *John D. Cook* `04-10`
 - [[RSS Club] Why do you use RSS rather than Atom?](https://shkspr.mobi/blog/2026/04/rss-club-why-do-you-use-rss-rather-than-atom/) — *Terence Eden’s Blog* `04-10`
-- [Package Registries and Pagination](https://nesbitt.io/2026/04/10/package-registries-and-pagination.html) — *Andrew Nesbitt* `04-10`
-- [Pluralistic: Canny Valley and Creative Commons (10 Apr 2026)](https://pluralistic.net/2026/04/10/canny-valley/) — *Pluralistic: Daily links from Cory Doctorow* `04-10`
-- [The Solitaire Shuffle](https://feed.tedium.co/link/15204/17316812/solitaire-card-game-types-history) — *Tedium: The Dull Side of the Internet.* `04-10`
-- [watgo - a WebAssembly Toolkit for Go](https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/) — *Eli Bendersky's website* `04-10`
 <!--BLOG_RADAR:end-->
 
 ---

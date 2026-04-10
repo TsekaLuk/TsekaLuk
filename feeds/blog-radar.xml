@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 10 Apr 2026 13:26:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 19:04:28 +0000</lastBuildDate>
+    <item>
+      <title>Premium: The Hater's Guide to OpenAI</title>
+      <link>https://www.wheresyoured.at/hatersguide-openai/</link>
+      <guid isPermaLink="true">https://www.wheresyoured.at/hatersguide-openai/</guid>
+      <pubDate>Fri, 10 Apr 2026 16:57:30 +0000</pubDate>
+      <description>Ed Zitron's Where's Your Ed At</description>
+    </item>
+    <item>
+      <title>Ed Bindels’s Apple Museum in Utrecht, Netherlands</title>
+      <link>https://applemuseum.nl/</link>
+      <guid isPermaLink="true">https://applemuseum.nl/</guid>
+      <pubDate>Fri, 10 Apr 2026 16:35:03 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>ChatGPT voice mode is a weaker model</title>
+      <link>https://simonwillison.net/2026/Apr/10/voice-mode-is-weaker/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/10/voice-mode-is-weaker/#atom-everything</guid>
+      <pubDate>Fri, 10 Apr 2026 15:56:02 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Distribution of digits in fractions</title>
+      <link>https://www.johndcook.com/blog/2026/04/10/fraction-digits/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/04/10/fraction-digits/</guid>
+      <pubDate>Fri, 10 Apr 2026 14:29:49 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
     <item>
       <title>[RSS Club] Why do you use RSS rather than Atom?</title>
       <link>https://shkspr.mobi/blog/2026/04/rss-club-why-do-you-use-rss-rather-than-atom/</link>
@@ -46,6 +74,13 @@
       <guid isPermaLink="true">https://www.joanwestenberg.com/why-i-quit-the-strive/</guid>
       <pubDate>Fri, 10 Apr 2026 01:50:12 +0000</pubDate>
       <description>Westenberg.</description>
+    </item>
+    <item>
+      <title>In defense of GitHub's poor uptime</title>
+      <link>https://evanhahn.com/in-defense-of-githubs-poor-uptime/</link>
+      <guid isPermaLink="true">https://evanhahn.com/in-defense-of-githubs-poor-uptime/</guid>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Evan Hahn (dot com)</description>
     </item>
     <item>
       <title>Y2K 2.0: The AI security reckoning</title>
@@ -809,41 +844,6 @@
       <guid isPermaLink="true">https://bernsteinbear.com/blog/value-numbering/?utm_source=rss</guid>
       <pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
       <description>Max Bernstein's Blog</description>
-    </item>
-    <item>
-      <title>Vulnerability Research Is Cooked</title>
-      <link>https://simonwillison.net/2026/Apr/3/vulnerability-research-is-cooked/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/3/vulnerability-research-is-cooked/#atom-everything</guid>
-      <pubDate>Fri, 03 Apr 2026 23:59:08 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>The cognitive impact of coding agents</title>
-      <link>https://simonwillison.net/2026/Apr/3/cognitive-cost/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/3/cognitive-cost/#atom-everything</guid>
-      <pubDate>Fri, 03 Apr 2026 23:57:04 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Writing an LLM from scratch, part 32h -- Interventions: full fat float32</title>
-      <link>https://www.gilesthomas.com/2026/04/llm-from-scratch-32h-interventions-full-fat-float32</link>
-      <guid isPermaLink="true">https://www.gilesthomas.com/2026/04/llm-from-scratch-32h-interventions-full-fat-float32</guid>
-      <pubDate>Fri, 03 Apr 2026 23:50:00 +0000</pubDate>
-      <description>Giles' blog</description>
-    </item>
-    <item>
-      <title>Quoting Willy Tarreau</title>
-      <link>https://simonwillison.net/2026/Apr/3/willy-tarreau/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/3/willy-tarreau/#atom-everything</guid>
-      <pubDate>Fri, 03 Apr 2026 21:48:22 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Quoting Daniel Stenberg</title>
-      <link>https://simonwillison.net/2026/Apr/3/daniel-stenberg/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/3/daniel-stenberg/#atom-everything</guid>
-      <pubDate>Fri, 03 Apr 2026 21:46:07 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
