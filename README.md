@@ -208,11 +208,11 @@ Last Updated: Friday, April 10th, 2026, 10:01:48 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Writing an LLM from scratch, part 32j -- Interventions: trying to train a better model in the cloud](https://www.gilesthomas.com/2026/04/llm-from-scratch-32j-interventions-trying-to-train-a-better-model-in-the-cloud) — *Giles' blog* `04-09`
-- [Fewer Computers, Fewer Problems: Going Local With Builds & Deployments](https://blog.jim-nielsen.com/2026/fewer-computers-fewer-problems/) — *Jim Nielsen’s Blog* `04-09`
-- [The Great Pyramid of Giza and the Speed of Light](https://www.johndcook.com/blog/2026/04/09/pyramid-speed-of-light/) — *John D. Cook* `04-09`
-- [Random hexagon fractal](https://www.johndcook.com/blog/2026/04/09/random-hexagon-fractal/) — *John D. Cook* `04-09`
-- [Lickspittle of the Week: Todd Blanche](https://politicalwire.com/2026/04/09/extra-bonus-quote-of-the-day-1022/) — *Daring Fireball* `04-09`
+- [watgo - a WebAssembly Toolkit for Go](https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/) — *Eli Bendersky's website* `04-10`
+- [Why I quit "The Strive"](https://www.joanwestenberg.com/why-i-quit-the-strive/) — *Westenberg.* `04-10`
+- [Some quick notes to myself on nftables 'symbolic variables'](https://utcc.utoronto.ca/~cks/space/blog/linux/NftablesSymbolicVariables) — *Chris's Wiki :: blog* `04-09`
+- [MacOS Seemingly Crashes After 49 Days of Uptime — a ‘Feature’ Perhaps Exclusive to Tahoe](https://sixcolors.com/link/2026/04/macs-crash-after-49-days-of-uptime/) — *Daring Fireball* `04-09`
+- [GitHub Repo Size](https://simonwillison.net/2026/Apr/9/github-repo-size/#atom-everything) — *Simon Willison's Weblog* `04-09`
 <!--BLOG_RADAR:end-->
 
 ---

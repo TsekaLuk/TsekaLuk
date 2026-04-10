@@ -4,7 +4,49 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 09 Apr 2026 19:19:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 03:27:15 +0000</lastBuildDate>
+    <item>
+      <title>watgo - a WebAssembly Toolkit for Go</title>
+      <link>https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/</link>
+      <guid isPermaLink="true">https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/</guid>
+      <pubDate>Fri, 10 Apr 2026 02:28:00 +0000</pubDate>
+      <description>Eli Bendersky's website</description>
+    </item>
+    <item>
+      <title>Why I quit "The Strive"</title>
+      <link>https://www.joanwestenberg.com/why-i-quit-the-strive/</link>
+      <guid isPermaLink="true">https://www.joanwestenberg.com/why-i-quit-the-strive/</guid>
+      <pubDate>Fri, 10 Apr 2026 01:50:12 +0000</pubDate>
+      <description>Westenberg.</description>
+    </item>
+    <item>
+      <title>Some quick notes to myself on nftables 'symbolic variables'</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/NftablesSymbolicVariables</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/NftablesSymbolicVariables</guid>
+      <pubDate>Thu, 09 Apr 2026 23:40:13 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>MacOS Seemingly Crashes After 49 Days of Uptime — a ‘Feature’ Perhaps Exclusive to Tahoe</title>
+      <link>https://sixcolors.com/link/2026/04/macs-crash-after-49-days-of-uptime/</link>
+      <guid isPermaLink="true">https://sixcolors.com/link/2026/04/macs-crash-after-49-days-of-uptime/</guid>
+      <pubDate>Thu, 09 Apr 2026 22:14:13 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>GitHub Repo Size</title>
+      <link>https://simonwillison.net/2026/Apr/9/github-repo-size/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/9/github-repo-size/#atom-everything</guid>
+      <pubDate>Thu, 09 Apr 2026 21:31:50 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Adobe Diddles With Your /etc/hosts File</title>
+      <link>https://old.reddit.com/r/webdev/comments/1sb6hzk/adobe_wrote_to_my_hosts_file_ive_never_had_an_app/oe1ap9h/</link>
+      <guid isPermaLink="true">https://old.reddit.com/r/webdev/comments/1sb6hzk/adobe_wrote_to_my_hosts_file_ive_never_had_an_app/oe1ap9h/</guid>
+      <pubDate>Thu, 09 Apr 2026 20:35:30 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Writing an LLM from scratch, part 32j -- Interventions: trying to train a better model in the cloud</title>
       <link>https://www.gilesthomas.com/2026/04/llm-from-scratch-32j-interventions-trying-to-train-a-better-model-in-the-cloud</link>
@@ -69,6 +111,13 @@
       <description>Construction Physics</description>
     </item>
     <item>
+      <title>What Are You Trying to Say?</title>
+      <link>https://idiallo.com/blog/what-are-you-trying-to-say?src=feed</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/what-are-you-trying-to-say?src=feed</guid>
+      <pubDate>Thu, 09 Apr 2026 12:00:00 +0000</pubDate>
+      <description>iDiallo.com</description>
+    </item>
+    <item>
       <title>Book Review: Small Comfort by Ia Genberg ★★☆☆☆</title>
       <link>https://shkspr.mobi/blog/2026/04/book-review-small-comfort-by-ia-genberg/</link>
       <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/book-review-small-comfort-by-ia-genberg/</guid>
@@ -102,6 +151,13 @@
       <guid isPermaLink="true">https://berthub.eu/articles/posts/rapport-digitale-afhankelijkheden-energy-innovation-nl/</guid>
       <pubDate>Thu, 09 Apr 2026 04:30:00 +0000</pubDate>
       <description>Bert Hubert's writings</description>
+    </item>
+    <item>
+      <title>asgi-gzip 0.3</title>
+      <link>https://simonwillison.net/2026/Apr/9/asgi-gzip/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/9/asgi-gzip/#atom-everything</guid>
+      <pubDate>Thu, 09 Apr 2026 03:54:40 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
     <item>
       <title>Systemd v258's 'systemctl -v restart' and its limitations</title>
@@ -788,62 +844,6 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/04/03/roman-moon-greek-moon/</guid>
       <pubDate>Fri, 03 Apr 2026 16:31:54 +0000</pubDate>
       <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Can JavaScript Escape a CSP Meta Tag Inside an Iframe?</title>
-      <link>https://simonwillison.net/2026/Apr/3/test-csp-iframe-escape/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/3/test-csp-iframe-escape/#atom-everything</guid>
-      <pubDate>Fri, 03 Apr 2026 16:05:00 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Build your own Dial-up ISP with a Raspberry Pi</title>
-      <link>https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/</guid>
-      <pubDate>Fri, 03 Apr 2026 14:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
-      <title>How can I use Read­Directory­ChangesW to know when someone is copying a file out of the directory?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260403-00/?p=112202</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260403-00/?p=112202</guid>
-      <pubDate>Fri, 03 Apr 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>The Axios supply chain attack used individually targeted social engineering</title>
-      <link>https://simonwillison.net/2026/Apr/3/supply-chain-social-engineering/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/3/supply-chain-social-engineering/#atom-everything</guid>
-      <pubDate>Fri, 03 Apr 2026 13:54:53 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>My Zip bomb strategy is not as effective as it used to be</title>
-      <link>https://idiallo.com/blog/zip-bombs-are-not-as-effective-as-they-used-to-be?src=feed</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/zip-bombs-are-not-as-effective-as-they-used-to-be?src=feed</guid>
-      <pubDate>Fri, 03 Apr 2026 12:00:00 +0000</pubDate>
-      <description>iDiallo.com</description>
-    </item>
-    <item>
-      <title>Book Review: Superintelligence - Paths, Dangers, Strategies by Nick Bostrom ★★★★⯪</title>
-      <link>https://shkspr.mobi/blog/2026/04/book-review-superintelligence-paths-dangers-strategies-by-nick-bostrom/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/book-review-superintelligence-paths-dangers-strategies-by-nick-bostrom/</guid>
-      <pubDate>Fri, 03 Apr 2026 11:34:34 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Package Manager Easter Eggs</title>
-      <link>https://nesbitt.io/2026/04/03/package-manager-easter-eggs.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/04/03/package-manager-easter-eggs.html</guid>
-      <pubDate>Fri, 03 Apr 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>The "Passive Income" trap ate a generation of entrepreneurs</title>
-      <link>https://www.joanwestenberg.com/the-passive-income-trap-ate-a-generation-of-entrepreneurs/</link>
-      <guid isPermaLink="true">https://www.joanwestenberg.com/the-passive-income-trap-ate-a-generation-of-entrepreneurs/</guid>
-      <pubDate>Fri, 03 Apr 2026 06:25:28 +0000</pubDate>
-      <description>Westenberg.</description>
     </item>
   </channel>
 </rss>
