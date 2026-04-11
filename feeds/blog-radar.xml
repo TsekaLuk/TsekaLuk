@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 11 Apr 2026 07:10:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 13:14:19 +0000</lastBuildDate>
+    <item>
+      <title>Reading List 04/11/2026</title>
+      <link>https://www.construction-physics.com/p/reading-list-04112026</link>
+      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-04112026</guid>
+      <pubDate>Sat, 11 Apr 2026 12:02:56 +0000</pubDate>
+      <description>Construction Physics</description>
+    </item>
+    <item>
+      <title>Cheapest way to keep a UK mobile number using an eSIM</title>
+      <link>https://shkspr.mobi/blog/2026/04/cheapest-way-to-keep-a-uk-mobile-number-using-an-esim/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/cheapest-way-to-keep-a-uk-mobile-number-using-an-esim/</guid>
+      <pubDate>Sat, 11 Apr 2026 11:34:38 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
     <item>
       <title>I'm now using nftables for (new) static rulesets</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/linux/NftablesForNewStaticRules</link>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-04042026</guid>
       <pubDate>Sat, 04 Apr 2026 12:01:48 +0000</pubDate>
       <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>The AI writing witchhunt is pointless.</title>
-      <link>https://www.joanwestenberg.com/the-ai-writing-witchhunt-is-pointless/</link>
-      <guid isPermaLink="true">https://www.joanwestenberg.com/the-ai-writing-witchhunt-is-pointless/</guid>
-      <pubDate>Sat, 04 Apr 2026 12:01:37 +0000</pubDate>
-      <description>Westenberg.</description>
-    </item>
-    <item>
-      <title>Welcome to RSS Club!</title>
-      <link>https://shkspr.mobi/blog/2026/04/welcome-to-rss-club/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/welcome-to-rss-club/</guid>
-      <pubDate>Sat, 04 Apr 2026 11:34:13 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
   </channel>
 </rss>

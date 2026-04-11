@@ -208,11 +208,11 @@ Last Updated: Saturday, April 11th, 2026, 8:44:24 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Reading List 04/11/2026](https://www.construction-physics.com/p/reading-list-04112026) — *Construction Physics* `04-11`
+- [Cheapest way to keep a UK mobile number using an eSIM](https://shkspr.mobi/blog/2026/04/cheapest-way-to-keep-a-uk-mobile-number-using-an-esim/) — *Terence Eden’s Blog* `04-11`
 - [I'm now using nftables for (new) static rulesets](https://utcc.utoronto.ca/~cks/space/blog/linux/NftablesForNewStaticRules) — *Chris's Wiki :: blog* `04-11`
 - [Your friends are hiding their best ideas from you](https://idiallo.com/blog/your-friends-are-hiding-their-ideas?src=feed) — *iDiallo.com* `04-11`
 - [★ Let Us Learn to Show Our Friendship for a Man When He Is Alive and Not After He Is Dead](https://daringfireball.net/2026/04/when_he_is_alive_and_not_after_he_is_dead) — *Daring Fireball* `04-10`
-- [Kākāpō parrots](https://simonwillison.net/2026/Apr/10/kakapo/#atom-everything) — *Simon Willison's Weblog* `04-10`
-- [Premium: The Hater's Guide to OpenAI](https://www.wheresyoured.at/hatersguide-openai/) — *Ed Zitron's Where's Your Ed At* `04-10`
 <!--BLOG_RADAR:end-->
 
 ---
