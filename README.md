@@ -208,11 +208,11 @@ Last Updated: Saturday, April 11th, 2026, 9:51:02 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [I'm now using nftables for (new) static rulesets](https://utcc.utoronto.ca/~cks/space/blog/linux/NftablesForNewStaticRules) — *Chris's Wiki :: blog* `04-11`
+- [Your friends are hiding their best ideas from you](https://idiallo.com/blog/your-friends-are-hiding-their-ideas?src=feed) — *iDiallo.com* `04-11`
+- [★ Let Us Learn to Show Our Friendship for a Man When He Is Alive and Not After He Is Dead](https://daringfireball.net/2026/04/when_he_is_alive_and_not_after_he_is_dead) — *Daring Fireball* `04-10`
+- [Kākāpō parrots](https://simonwillison.net/2026/Apr/10/kakapo/#atom-everything) — *Simon Willison's Weblog* `04-10`
 - [Premium: The Hater's Guide to OpenAI](https://www.wheresyoured.at/hatersguide-openai/) — *Ed Zitron's Where's Your Ed At* `04-10`
-- [Ed Bindels’s Apple Museum in Utrecht, Netherlands](https://applemuseum.nl/) — *Daring Fireball* `04-10`
-- [ChatGPT voice mode is a weaker model](https://simonwillison.net/2026/Apr/10/voice-mode-is-weaker/#atom-everything) — *Simon Willison's Weblog* `04-10`
-- [Distribution of digits in fractions](https://www.johndcook.com/blog/2026/04/10/fraction-digits/) — *John D. Cook* `04-10`
-- [[RSS Club] Why do you use RSS rather than Atom?](https://shkspr.mobi/blog/2026/04/rss-club-why-do-you-use-rss-rather-than-atom/) — *Terence Eden’s Blog* `04-10`
 <!--BLOG_RADAR:end-->
 
 ---
