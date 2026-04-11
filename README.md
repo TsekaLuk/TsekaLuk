@@ -208,11 +208,11 @@ Last Updated: Sunday, April 12th, 2026, 2:36:08 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Pan American Luggage Labels](https://ellafreire.com/collections/pan-american-luggage-labels) — *Daring Fireball* `04-11`
+- [Pluralistic: Don't Be Evil (11 Apr 2026)](https://pluralistic.net/2026/04/11/obvious-terrible-ideas/) — *Pluralistic: Daily links from Cory Doctorow* `04-11`
 - [Reading List 04/11/2026](https://www.construction-physics.com/p/reading-list-04112026) — *Construction Physics* `04-11`
 - [Cheapest way to keep a UK mobile number using an eSIM](https://shkspr.mobi/blog/2026/04/cheapest-way-to-keep-a-uk-mobile-number-using-an-esim/) — *Terence Eden’s Blog* `04-11`
 - [I'm now using nftables for (new) static rulesets](https://utcc.utoronto.ca/~cks/space/blog/linux/NftablesForNewStaticRules) — *Chris's Wiki :: blog* `04-11`
-- [Your friends are hiding their best ideas from you](https://idiallo.com/blog/your-friends-are-hiding-their-ideas?src=feed) — *iDiallo.com* `04-11`
-- [★ Let Us Learn to Show Our Friendship for a Man When He Is Alive and Not After He Is Dead](https://daringfireball.net/2026/04/when_he_is_alive_and_not_after_he_is_dead) — *Daring Fireball* `04-10`
 <!--BLOG_RADAR:end-->
 
 ---

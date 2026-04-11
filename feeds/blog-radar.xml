@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 11 Apr 2026 13:14:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 18:57:00 +0000</lastBuildDate>
+    <item>
+      <title>Pan American Luggage Labels</title>
+      <link>https://ellafreire.com/collections/pan-american-luggage-labels</link>
+      <guid isPermaLink="true">https://ellafreire.com/collections/pan-american-luggage-labels</guid>
+      <pubDate>Sat, 11 Apr 2026 16:55:24 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Pluralistic: Don't Be Evil (11 Apr 2026)</title>
+      <link>https://pluralistic.net/2026/04/11/obvious-terrible-ideas/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/04/11/obvious-terrible-ideas/</guid>
+      <pubDate>Sat, 11 Apr 2026 13:34:48 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
     <item>
       <title>Reading List 04/11/2026</title>
       <link>https://www.construction-physics.com/p/reading-list-04112026</link>
@@ -32,6 +46,13 @@
       <guid isPermaLink="true">https://idiallo.com/blog/your-friends-are-hiding-their-ideas?src=feed</guid>
       <pubDate>Sat, 11 Apr 2026 00:47:19 +0000</pubDate>
       <description>iDiallo.com</description>
+    </item>
+    <item>
+      <title>The Center Has a Bias</title>
+      <link>https://lucumr.pocoo.org/2026/4/11/the-center-has-a-bias/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/4/11/the-center-has-a-bias/</guid>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
       <title>★ Let Us Learn to Show Our Friendship for a Man When He Is Alive and Not After He Is Dead</title>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/04/perplexitys-incognito-mode-is-a-sham-lawsuit-says/</guid>
       <pubDate>Sun, 05 Apr 2026 00:32:57 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>research-llm-apis 2026-04-04</title>
-      <link>https://simonwillison.net/2026/Apr/5/research-llm-apis/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/5/research-llm-apis/#atom-everything</guid>
-      <pubDate>Sun, 05 Apr 2026 00:32:11 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Kalman and Bayes average grades</title>
-      <link>https://www.johndcook.com/blog/2026/04/04/kalman-bayes/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/04/04/kalman-bayes/</guid>
-      <pubDate>Sat, 04 Apr 2026 15:00:14 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Reading List 04/04/2026</title>
-      <link>https://www.construction-physics.com/p/reading-list-04042026</link>
-      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-04042026</guid>
-      <pubDate>Sat, 04 Apr 2026 12:01:48 +0000</pubDate>
-      <description>Construction Physics</description>
     </item>
   </channel>
 </rss>
