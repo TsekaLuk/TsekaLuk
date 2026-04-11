@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 11 Apr 2026 02:51:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 07:10:40 +0000</lastBuildDate>
     <item>
       <title>I'm now using nftables for (new) static rulesets</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/linux/NftablesForNewStaticRules</link>
@@ -46,6 +46,13 @@
       <guid isPermaLink="true">https://applemuseum.nl/</guid>
       <pubDate>Fri, 10 Apr 2026 16:35:03 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>OpenAI is nothing without its people</title>
+      <link>https://geohot.github.io//blog/jekyll/update/2026/04/11/openai-people.html</link>
+      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/04/11/openai-people.html</guid>
+      <pubDate>Fri, 10 Apr 2026 16:00:00 +0000</pubDate>
+      <description>the singularity is nearer</description>
     </item>
     <item>
       <title>ChatGPT voice mode is a weaker model</title>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/welcome-to-rss-club/</guid>
       <pubDate>Sat, 04 Apr 2026 11:34:13 +0000</pubDate>
       <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>What does Open Source mean?</title>
-      <link>https://nesbitt.io/2026/04/04/what-does-open-source-mean.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/04/04/what-does-open-source-mean.html</guid>
-      <pubDate>Sat, 04 Apr 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
     </item>
   </channel>
 </rss>
