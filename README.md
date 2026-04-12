@@ -208,11 +208,11 @@ Last Updated: Sunday, April 12th, 2026, 10:03:26 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Apache 2.4, ETag values, and (HTTP) response compression](https://utcc.utoronto.ca/~cks/space/blog/web/Apache24EtagAndSuffixes) — *Chris's Wiki :: blog* `04-12`
+- [Optimism is not a personality flaw](https://www.joanwestenberg.com/optimism-is-not-a-personality-flaw/) — *Westenberg.* `04-12`
+- [SQLite 3.53.0](https://simonwillison.net/2026/Apr/11/sqlite/#atom-everything) — *Simon Willison's Weblog* `04-11`
+- [SQLite Query Result Formatter Demo](https://simonwillison.net/2026/Apr/11/sqlite-qrf/#atom-everything) — *Simon Willison's Weblog* `04-11`
 - [Pan American Luggage Labels](https://ellafreire.com/collections/pan-american-luggage-labels) — *Daring Fireball* `04-11`
-- [Pluralistic: Don't Be Evil (11 Apr 2026)](https://pluralistic.net/2026/04/11/obvious-terrible-ideas/) — *Pluralistic: Daily links from Cory Doctorow* `04-11`
-- [Reading List 04/11/2026](https://www.construction-physics.com/p/reading-list-04112026) — *Construction Physics* `04-11`
-- [Cheapest way to keep a UK mobile number using an eSIM](https://shkspr.mobi/blog/2026/04/cheapest-way-to-keep-a-uk-mobile-number-using-an-esim/) — *Terence Eden’s Blog* `04-11`
-- [I'm now using nftables for (new) static rulesets](https://utcc.utoronto.ca/~cks/space/blog/linux/NftablesForNewStaticRules) — *Chris's Wiki :: blog* `04-11`
 <!--BLOG_RADAR:end-->
 
 ---

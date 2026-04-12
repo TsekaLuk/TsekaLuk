@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 11 Apr 2026 18:57:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 03:31:09 +0000</lastBuildDate>
+    <item>
+      <title>Apache 2.4, ETag values, and (HTTP) response compression</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/web/Apache24EtagAndSuffixes</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/web/Apache24EtagAndSuffixes</guid>
+      <pubDate>Sun, 12 Apr 2026 02:25:42 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>Optimism is not a personality flaw</title>
+      <link>https://www.joanwestenberg.com/optimism-is-not-a-personality-flaw/</link>
+      <guid isPermaLink="true">https://www.joanwestenberg.com/optimism-is-not-a-personality-flaw/</guid>
+      <pubDate>Sun, 12 Apr 2026 01:26:10 +0000</pubDate>
+      <description>Westenberg.</description>
+    </item>
+    <item>
+      <title>SQLite 3.53.0</title>
+      <link>https://simonwillison.net/2026/Apr/11/sqlite/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/11/sqlite/#atom-everything</guid>
+      <pubDate>Sat, 11 Apr 2026 19:56:53 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>SQLite Query Result Formatter Demo</title>
+      <link>https://simonwillison.net/2026/Apr/11/sqlite-qrf/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/11/sqlite-qrf/#atom-everything</guid>
+      <pubDate>Sat, 11 Apr 2026 19:35:31 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Pan American Luggage Labels</title>
       <link>https://ellafreire.com/collections/pan-american-luggage-labels</link>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LittleScriptsIX</guid>
       <pubDate>Sun, 05 Apr 2026 01:20:38 +0000</pubDate>
       <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>Material Security</title>
-      <link>https://material.security/lp-cloud-office-security?utm_source=third-party&amp;utm_medium=email&amp;utm_campaign=20260330-daringfireball</link>
-      <guid isPermaLink="true">https://material.security/lp-cloud-office-security?utm_source=third-party&amp;utm_medium=email&amp;utm_campaign=20260330-daringfireball</guid>
-      <pubDate>Sun, 05 Apr 2026 01:00:00 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Sponsorship Openings for Daring Fireball</title>
-      <link>https://daringfireball.net/feeds/sponsors/</link>
-      <guid isPermaLink="true">https://daringfireball.net/feeds/sponsors/</guid>
-      <pubDate>Sun, 05 Apr 2026 00:59:00 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>iOS 26 Feels Faster Than iOS 18</title>
-      <link>https://daringfireball.net/linked/2026/04/03/ios-18-update-for-holdouts</link>
-      <guid isPermaLink="true">https://daringfireball.net/linked/2026/04/03/ios-18-update-for-holdouts</guid>
-      <pubDate>Sun, 05 Apr 2026 00:44:00 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Class Action Lawsuit Says Perplexity’s ‘Incognito Mode’ Is a ‘Sham’</title>
-      <link>https://arstechnica.com/tech-policy/2026/04/perplexitys-incognito-mode-is-a-sham-lawsuit-says/</link>
-      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/04/perplexitys-incognito-mode-is-a-sham-lawsuit-says/</guid>
-      <pubDate>Sun, 05 Apr 2026 00:32:57 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
