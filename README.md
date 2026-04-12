@@ -208,11 +208,11 @@ Last Updated: Sunday, April 12th, 2026, 8:51:08 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [The gap between Eastern and Western Easter](https://www.johndcook.com/blog/2026/04/12/orthodox-western-easter/) — *John D. Cook* `04-12`
 - [Apache 2.4, ETag values, and (HTTP) response compression](https://utcc.utoronto.ca/~cks/space/blog/web/Apache24EtagAndSuffixes) — *Chris's Wiki :: blog* `04-12`
 - [Optimism is not a personality flaw](https://www.joanwestenberg.com/optimism-is-not-a-personality-flaw/) — *Westenberg.* `04-12`
 - [SQLite 3.53.0](https://simonwillison.net/2026/Apr/11/sqlite/#atom-everything) — *Simon Willison's Weblog* `04-11`
 - [SQLite Query Result Formatter Demo](https://simonwillison.net/2026/Apr/11/sqlite-qrf/#atom-everything) — *Simon Willison's Weblog* `04-11`
-- [Pan American Luggage Labels](https://ellafreire.com/collections/pan-american-luggage-labels) — *Daring Fireball* `04-11`
 <!--BLOG_RADAR:end-->
 
 ---
