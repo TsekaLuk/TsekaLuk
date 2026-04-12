@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 12 Apr 2026 03:31:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 07:24:56 +0000</lastBuildDate>
     <item>
       <title>Apache 2.4, ETag values, and (HTTP) response compression</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/web/Apache24EtagAndSuffixes</link>
@@ -55,13 +55,6 @@
       <description>Construction Physics</description>
     </item>
     <item>
-      <title>Cheapest way to keep a UK mobile number using an eSIM</title>
-      <link>https://shkspr.mobi/blog/2026/04/cheapest-way-to-keep-a-uk-mobile-number-using-an-esim/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/cheapest-way-to-keep-a-uk-mobile-number-using-an-esim/</guid>
-      <pubDate>Sat, 11 Apr 2026 11:34:38 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>I'm now using nftables for (new) static rulesets</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/linux/NftablesForNewStaticRules</link>
       <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/NftablesForNewStaticRules</guid>
@@ -81,6 +74,13 @@
       <guid isPermaLink="true">https://lucumr.pocoo.org/2026/4/11/the-center-has-a-bias/</guid>
       <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
       <description>Armin Ronacher's Thoughts and Writings</description>
+    </item>
+    <item>
+      <title>IrDA</title>
+      <link>https://computer.rip/2026-04-11-IrDA.html</link>
+      <guid isPermaLink="true">https://computer.rip/2026-04-11-IrDA.html</guid>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+      <description>computers are bad</description>
     </item>
     <item>
       <title>★ Let Us Learn to Show Our Friendship for a Man When He Is Alive and Not After He Is Dead</title>
@@ -137,13 +137,6 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260410-00/?p=112223</guid>
       <pubDate>Fri, 10 Apr 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>[RSS Club] Why do you use RSS rather than Atom?</title>
-      <link>https://shkspr.mobi/blog/2026/04/rss-club-why-do-you-use-rss-rather-than-atom/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/rss-club-why-do-you-use-rss-rather-than-atom/</guid>
-      <pubDate>Fri, 10 Apr 2026 11:34:36 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Package Registries and Pagination</title>
@@ -300,13 +293,6 @@
       <description>iDiallo.com</description>
     </item>
     <item>
-      <title>Book Review: Small Comfort by Ia Genberg ★★☆☆☆</title>
-      <link>https://shkspr.mobi/blog/2026/04/book-review-small-comfort-by-ia-genberg/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/book-review-small-comfort-by-ia-genberg/</guid>
-      <pubDate>Thu, 09 Apr 2026 11:34:59 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>Pluralistic: Cindy Cohn's "Privacy's Defender" (09 Apr 2026)</title>
       <link>https://pluralistic.net/2026/04/09/bernstein-2/</link>
       <guid isPermaLink="true">https://pluralistic.net/2026/04/09/bernstein-2/</guid>
@@ -417,13 +403,6 @@
       <guid isPermaLink="true">https://pluralistic.net/2026/04/08/process-knowledge-vs-bosses/</guid>
       <pubDate>Wed, 08 Apr 2026 13:39:44 +0000</pubDate>
       <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Theatre Review: Avenue Q ★★★★★</title>
-      <link>https://shkspr.mobi/blog/2026/04/theatre-review-avenue-q/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/theatre-review-avenue-q/</guid>
-      <pubDate>Wed, 08 Apr 2026 11:34:25 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Package Security Problems for AI Agents</title>
@@ -559,13 +538,6 @@
       <description>The Old New Thing</description>
     </item>
     <item>
-      <title>Did WordPress VIP leak my phone number?</title>
-      <link>https://shkspr.mobi/blog/2026/04/did-wordpress-vip-leak-my-phone-number/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/did-wordpress-vip-leak-my-phone-number/</guid>
-      <pubDate>Tue, 07 Apr 2026 11:34:43 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>Who Built This?</title>
       <link>https://nesbitt.io/2026/04/07/who-built-this.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/04/07/who-built-this.html</guid>
@@ -676,13 +648,6 @@
       <guid isPermaLink="true">https://idiallo.com/blog/it-took-me-10-hours-to-fix-ai-code?src=feed</guid>
       <pubDate>Mon, 06 Apr 2026 13:00:00 +0000</pubDate>
       <description>iDiallo.com</description>
-    </item>
-    <item>
-      <title>[RSS Club] Banana for scale</title>
-      <link>https://shkspr.mobi/blog/2026/04/rss-club-banana-for-scale/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/rss-club-banana-for-scale/</guid>
-      <pubDate>Mon, 06 Apr 2026 11:34:00 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>The Cathedral and the Catacombs</title>
@@ -804,13 +769,6 @@
       <description>Michael Stapelbergs Website</description>
     </item>
     <item>
-      <title>Someone at BrowserStack is Leaking Users' Email Address</title>
-      <link>https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/</guid>
-      <pubDate>Sun, 05 Apr 2026 11:34:03 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>It's not that deep</title>
       <link>https://idiallo.com/blog/its-not-that-deep?src=feed</link>
       <guid isPermaLink="true">https://idiallo.com/blog/its-not-that-deep?src=feed</guid>
@@ -844,6 +802,48 @@
       <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LittleScriptsIX</guid>
       <pubDate>Sun, 05 Apr 2026 01:20:38 +0000</pubDate>
       <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>Material Security</title>
+      <link>https://material.security/lp-cloud-office-security?utm_source=third-party&amp;utm_medium=email&amp;utm_campaign=20260330-daringfireball</link>
+      <guid isPermaLink="true">https://material.security/lp-cloud-office-security?utm_source=third-party&amp;utm_medium=email&amp;utm_campaign=20260330-daringfireball</guid>
+      <pubDate>Sun, 05 Apr 2026 01:00:00 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Sponsorship Openings for Daring Fireball</title>
+      <link>https://daringfireball.net/feeds/sponsors/</link>
+      <guid isPermaLink="true">https://daringfireball.net/feeds/sponsors/</guid>
+      <pubDate>Sun, 05 Apr 2026 00:59:00 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>iOS 26 Feels Faster Than iOS 18</title>
+      <link>https://daringfireball.net/linked/2026/04/03/ios-18-update-for-holdouts</link>
+      <guid isPermaLink="true">https://daringfireball.net/linked/2026/04/03/ios-18-update-for-holdouts</guid>
+      <pubDate>Sun, 05 Apr 2026 00:44:00 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Class Action Lawsuit Says Perplexity’s ‘Incognito Mode’ Is a ‘Sham’</title>
+      <link>https://arstechnica.com/tech-policy/2026/04/perplexitys-incognito-mode-is-a-sham-lawsuit-says/</link>
+      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/04/perplexitys-incognito-mode-is-a-sham-lawsuit-says/</guid>
+      <pubDate>Sun, 05 Apr 2026 00:32:57 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>research-llm-apis 2026-04-04</title>
+      <link>https://simonwillison.net/2026/Apr/5/research-llm-apis/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/5/research-llm-apis/#atom-everything</guid>
+      <pubDate>Sun, 05 Apr 2026 00:32:11 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Kalman and Bayes average grades</title>
+      <link>https://www.johndcook.com/blog/2026/04/04/kalman-bayes/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/04/04/kalman-bayes/</guid>
+      <pubDate>Sat, 04 Apr 2026 15:00:14 +0000</pubDate>
+      <description>John D. Cook</description>
     </item>
   </channel>
 </rss>
