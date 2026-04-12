@@ -208,11 +208,11 @@ Last Updated: Monday, April 13th, 2026, 2:39:28 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Zed — A Font Superfamily](https://www.typotheque.com/blog/zed-a-sans-for-the-needs-of-21century/?utm_source=df) — *Daring Fireball* `04-12`
+- [Golden Tickets](https://www.presentandcorrect.com/blogs/blog/golden-tickets) — *Daring Fireball* `04-12`
+- [Your AWS Certificate Makes You an AWS Salesman](https://idiallo.com/byte-size/we-are-aws-salesmen?src=feed) — *iDiallo.com* `04-12`
 - [The gap between Eastern and Western Easter](https://www.johndcook.com/blog/2026/04/12/orthodox-western-easter/) — *John D. Cook* `04-12`
 - [Apache 2.4, ETag values, and (HTTP) response compression](https://utcc.utoronto.ca/~cks/space/blog/web/Apache24EtagAndSuffixes) — *Chris's Wiki :: blog* `04-12`
-- [Optimism is not a personality flaw](https://www.joanwestenberg.com/optimism-is-not-a-personality-flaw/) — *Westenberg.* `04-12`
-- [SQLite 3.53.0](https://simonwillison.net/2026/Apr/11/sqlite/#atom-everything) — *Simon Willison's Weblog* `04-11`
-- [SQLite Query Result Formatter Demo](https://simonwillison.net/2026/Apr/11/sqlite-qrf/#atom-everything) — *Simon Willison's Weblog* `04-11`
 <!--BLOG_RADAR:end-->
 
 ---

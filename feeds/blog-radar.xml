@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 12 Apr 2026 13:16:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 19:00:52 +0000</lastBuildDate>
+    <item>
+      <title>Zed — A Font Superfamily</title>
+      <link>https://www.typotheque.com/blog/zed-a-sans-for-the-needs-of-21century/?utm_source=df</link>
+      <guid isPermaLink="true">https://www.typotheque.com/blog/zed-a-sans-for-the-needs-of-21century/?utm_source=df</guid>
+      <pubDate>Sun, 12 Apr 2026 18:50:25 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Golden Tickets</title>
+      <link>https://www.presentandcorrect.com/blogs/blog/golden-tickets</link>
+      <guid isPermaLink="true">https://www.presentandcorrect.com/blogs/blog/golden-tickets</guid>
+      <pubDate>Sun, 12 Apr 2026 17:39:26 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Your AWS Certificate Makes You an AWS Salesman</title>
+      <link>https://idiallo.com/byte-size/we-are-aws-salesmen?src=feed</link>
+      <guid isPermaLink="true">https://idiallo.com/byte-size/we-are-aws-salesmen?src=feed</guid>
+      <pubDate>Sun, 12 Apr 2026 17:25:33 +0000</pubDate>
+      <description>iDiallo.com</description>
+    </item>
     <item>
       <title>The gap between Eastern and Western Easter</title>
       <link>https://www.johndcook.com/blog/2026/04/12/orthodox-western-easter/</link>
@@ -643,13 +664,6 @@
       <description>Entropic Thoughts</description>
     </item>
     <item>
-      <title>[Sponsor] Zed, a Font Superfamily</title>
-      <link>https://www.typotheque.com/blog/zed-a-sans-for-the-needs-of-21century/?utm_source=df</link>
-      <guid isPermaLink="true">https://www.typotheque.com/blog/zed-a-sans-for-the-needs-of-21century/?utm_source=df</guid>
-      <pubDate>Mon, 06 Apr 2026 19:15:05 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
       <title>Anthropic Accidentally Leaked the Entire Claude Code CLI Source Code</title>
       <link>https://arstechnica.com/ai/2026/03/entire-claude-code-cli-source-code-leaks-thanks-to-exposed-map-file/</link>
       <guid isPermaLink="true">https://arstechnica.com/ai/2026/03/entire-claude-code-cli-source-code-leaks-thanks-to-exposed-map-file/</guid>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://idiallo.com/blog/its-not-that-deep?src=feed</guid>
       <pubDate>Sun, 05 Apr 2026 08:00:00 +0000</pubDate>
       <description>iDiallo.com</description>
-    </item>
-    <item>
-      <title>scan-for-secrets 0.2</title>
-      <link>https://simonwillison.net/2026/Apr/5/scan-for-secrets/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/5/scan-for-secrets/#atom-everything</guid>
-      <pubDate>Sun, 05 Apr 2026 04:07:13 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>scan-for-secrets 0.1.1</title>
-      <link>https://simonwillison.net/2026/Apr/5/scan-for-secrets-2/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/5/scan-for-secrets-2/#atom-everything</guid>
-      <pubDate>Sun, 05 Apr 2026 03:39:33 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
