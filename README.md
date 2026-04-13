@@ -208,11 +208,11 @@ Last Updated: Monday, April 13th, 2026, 10:08:04 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Quoting Bryan Cantrill](https://simonwillison.net/2026/Apr/13/bryan-cantrill/#atom-everything) — *Simon Willison's Weblog* `04-13`
+- [Vim and 'forward delete' (in modern terminal programs)](https://utcc.utoronto.ca/~cks/space/blog/unix/VimAndForwardDelete) — *Chris's Wiki :: blog* `04-13`
+- [Gemma 4 audio with MLX](https://simonwillison.net/2026/Apr/12/mlx-audio/#atom-everything) — *Simon Willison's Weblog* `04-12`
+- [Lunar period approximations](https://www.johndcook.com/blog/2026/04/12/lunations/) — *John D. Cook* `04-12`
 - [Zed — A Font Superfamily](https://www.typotheque.com/blog/zed-a-sans-for-the-needs-of-21century/?utm_source=df) — *Daring Fireball* `04-12`
-- [Golden Tickets](https://www.presentandcorrect.com/blogs/blog/golden-tickets) — *Daring Fireball* `04-12`
-- [Your AWS Certificate Makes You an AWS Salesman](https://idiallo.com/byte-size/we-are-aws-salesmen?src=feed) — *iDiallo.com* `04-12`
-- [The gap between Eastern and Western Easter](https://www.johndcook.com/blog/2026/04/12/orthodox-western-easter/) — *John D. Cook* `04-12`
-- [Apache 2.4, ETag values, and (HTTP) response compression](https://utcc.utoronto.ca/~cks/space/blog/web/Apache24EtagAndSuffixes) — *Chris's Wiki :: blog* `04-12`
 <!--BLOG_RADAR:end-->
 
 ---

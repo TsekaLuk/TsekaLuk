@@ -4,13 +4,55 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 12 Apr 2026 19:00:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 03:37:27 +0000</lastBuildDate>
+    <item>
+      <title>Quoting Bryan Cantrill</title>
+      <link>https://simonwillison.net/2026/Apr/13/bryan-cantrill/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/13/bryan-cantrill/#atom-everything</guid>
+      <pubDate>Mon, 13 Apr 2026 02:44:24 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Vim and 'forward delete' (in modern terminal programs)</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/unix/VimAndForwardDelete</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/unix/VimAndForwardDelete</guid>
+      <pubDate>Mon, 13 Apr 2026 01:31:13 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>Gemma 4 audio with MLX</title>
+      <link>https://simonwillison.net/2026/Apr/12/mlx-audio/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/12/mlx-audio/#atom-everything</guid>
+      <pubDate>Sun, 12 Apr 2026 23:57:53 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Lunar period approximations</title>
+      <link>https://www.johndcook.com/blog/2026/04/12/lunations/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/04/12/lunations/</guid>
+      <pubDate>Sun, 12 Apr 2026 23:42:01 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
     <item>
       <title>Zed — A Font Superfamily</title>
       <link>https://www.typotheque.com/blog/zed-a-sans-for-the-needs-of-21century/?utm_source=df</link>
       <guid isPermaLink="true">https://www.typotheque.com/blog/zed-a-sans-for-the-needs-of-21century/?utm_source=df</guid>
-      <pubDate>Sun, 12 Apr 2026 18:50:25 +0000</pubDate>
+      <pubDate>Sun, 12 Apr 2026 22:00:00 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Viktor Orban Loses Election in Hungary, Concedes Defeat, Congratulates Opposition Winners</title>
+      <link>https://www.nytimes.com/2026/04/12/world/europe/hungary-election-orban-magyar.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/04/12/world/europe/hungary-election-orban-magyar.html</guid>
+      <pubDate>Sun, 12 Apr 2026 21:59:00 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>That’s a Skill Issue</title>
+      <link>https://blog.jim-nielsen.com/2026/skill-issue/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/skill-issue/</guid>
+      <pubDate>Sun, 12 Apr 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
     </item>
     <item>
       <title>Golden Tickets</title>
@@ -25,6 +67,13 @@
       <guid isPermaLink="true">https://idiallo.com/byte-size/we-are-aws-salesmen?src=feed</guid>
       <pubDate>Sun, 12 Apr 2026 17:25:33 +0000</pubDate>
       <description>iDiallo.com</description>
+    </item>
+    <item>
+      <title>The ‘Everyone’s a Billionaire’ act</title>
+      <link>https://geohot.github.io//blog/jekyll/update/2026/04/13/everyones-a-billionaire.html</link>
+      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/04/13/everyones-a-billionaire.html</guid>
+      <pubDate>Sun, 12 Apr 2026 16:00:00 +0000</pubDate>
+      <description>the singularity is nearer</description>
     </item>
     <item>
       <title>The gap between Eastern and Western Easter</title>
@@ -795,55 +844,6 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/04/05/hipaa-compliant-ai/</guid>
       <pubDate>Sun, 05 Apr 2026 23:04:46 +0000</pubDate>
       <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Quoting Chengpeng Mou</title>
-      <link>https://simonwillison.net/2026/Apr/5/chengpeng-mou/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/5/chengpeng-mou/#atom-everything</guid>
-      <pubDate>Sun, 05 Apr 2026 21:47:06 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Syntaqlite Playground</title>
-      <link>https://simonwillison.net/2026/Apr/5/syntaqlite/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/5/syntaqlite/#atom-everything</guid>
-      <pubDate>Sun, 05 Apr 2026 19:32:59 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>I Tried Vibing an RSS Reader and My Dreams Did Not Come True</title>
-      <link>https://blog.jim-nielsen.com/2026/vibe-dreams-didnt-come-true/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/vibe-dreams-didnt-come-true/</guid>
-      <pubDate>Sun, 05 Apr 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
-      <title>An Easter Morning Message of Hope From the Winner of the FIFA Peace Prize</title>
-      <link>https://truthsocial.com/@realDonaldTrump/posts/116351998782539414</link>
-      <guid isPermaLink="true">https://truthsocial.com/@realDonaldTrump/posts/116351998782539414</guid>
-      <pubDate>Sun, 05 Apr 2026 16:01:59 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Stamp It! All Programs Must Report Their Version</title>
-      <link>https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/</link>
-      <guid isPermaLink="true">https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/</guid>
-      <pubDate>Sun, 05 Apr 2026 14:20:00 +0000</pubDate>
-      <description>Michael Stapelbergs Website</description>
-    </item>
-    <item>
-      <title>Someone at BrowserStack is Leaking Users' Email Address</title>
-      <link>https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/</guid>
-      <pubDate>Sun, 05 Apr 2026 11:34:03 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>It's not that deep</title>
-      <link>https://idiallo.com/blog/its-not-that-deep?src=feed</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/its-not-that-deep?src=feed</guid>
-      <pubDate>Sun, 05 Apr 2026 08:00:00 +0000</pubDate>
-      <description>iDiallo.com</description>
     </item>
   </channel>
 </rss>
