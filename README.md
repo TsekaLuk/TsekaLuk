@@ -208,11 +208,11 @@ Last Updated: Tuesday, April 14th, 2026, 3:07:19 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [You paid for it, you should be comfortable in it](https://idiallo.com/blog/you-paid-for-it-you-should-be-comfortable-in-it?src=feed) — *iDiallo.com* `04-13`
-- [Sometimes powerful people just do dumb shit](https://www.joanwestenberg.com/sometimes-powerful-people-just-do-dumb-shit/) — *Westenberg.* `04-13`
-- [Pluralistic: Austerity creates fascism (13 Apr 2026)](https://pluralistic.net/2026/04/12/always-great/) — *Pluralistic: Daily links from Cory Doctorow* `04-13`
-- [Quoting Bryan Cantrill](https://simonwillison.net/2026/Apr/13/bryan-cantrill/#atom-everything) — *Simon Willison's Weblog* `04-13`
-- [Vim and 'forward delete' (in modern terminal programs)](https://utcc.utoronto.ca/~cks/space/blog/unix/VimAndForwardDelete) — *Chris's Wiki :: blog* `04-13`
+- [Marcin Wichary Visits the Large Scale Systems Museum](https://flickr.com/photos/mwichary/albums/72177720332956990/) — *Daring Fireball* `04-13`
+- [MacOS Tip: Enable the Zoom ‘Peek’ Gesture](https://unsung.aresluna.org/testing-tip-enable-the-zoom-peek-gesture/) — *Daring Fireball* `04-13`
+- [FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’](https://www.ft.com/content/02107c23-6c7a-4c19-b8e2-b45f4bb9ce5f) — *Daring Fireball* `04-13`
+- [Exploring the new `servo` crate](https://simonwillison.net/2026/Apr/13/servo-crate-exploration/#atom-everything) — *Simon Willison's Weblog* `04-13`
+- [Mathematical minimalism](https://www.johndcook.com/blog/2026/04/13/the-smallest-math-library/) — *John D. Cook* `04-13`
 <!--BLOG_RADAR:end-->
 
 ---
