@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 13 Apr 2026 03:37:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 08:15:31 +0000</lastBuildDate>
+    <item>
+      <title>Sometimes powerful people just do dumb shit</title>
+      <link>https://www.joanwestenberg.com/sometimes-powerful-people-just-do-dumb-shit/</link>
+      <guid isPermaLink="true">https://www.joanwestenberg.com/sometimes-powerful-people-just-do-dumb-shit/</guid>
+      <pubDate>Mon, 13 Apr 2026 06:01:21 +0000</pubDate>
+      <description>Westenberg.</description>
+    </item>
+    <item>
+      <title>Pluralistic: Austerity creates fascism (13 Apr 2026)</title>
+      <link>https://pluralistic.net/2026/04/12/always-great/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/04/12/always-great/</guid>
+      <pubDate>Mon, 13 Apr 2026 05:29:27 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
     <item>
       <title>Quoting Bryan Cantrill</title>
       <link>https://simonwillison.net/2026/Apr/13/bryan-cantrill/#atom-everything</link>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://martinalderson.com/posts/what-next-for-the-compute-crunch/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
       <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
       <description>Martin Alderson</description>
-    </item>
-    <item>
-      <title>Eight years of wanting, three months of building with AI</title>
-      <link>https://simonwillison.net/2026/Apr/5/building-with-ai/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/5/building-with-ai/#atom-everything</guid>
-      <pubDate>Sun, 05 Apr 2026 23:54:18 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>HIPAA compliant AI</title>
-      <link>https://www.johndcook.com/blog/2026/04/05/hipaa-compliant-ai/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/04/05/hipaa-compliant-ai/</guid>
-      <pubDate>Sun, 05 Apr 2026 23:04:46 +0000</pubDate>
-      <description>John D. Cook</description>
     </item>
   </channel>
 </rss>
