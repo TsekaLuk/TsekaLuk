@@ -208,11 +208,11 @@ Last Updated: Wednesday, April 15th, 2026, 3:05:03 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Finding a parabola through two points with given slopes](https://www.johndcook.com/blog/2026/04/14/artz-parabola/) — *John D. Cook* `04-14`
-- [Back button hijacking is going away](https://idiallo.com/blog/back-button-hijacking-is-going-away-seo?src=feed) — *iDiallo.com* `04-14`
-- [Standing on the shoulders of Homebrew](https://nesbitt.io/2026/04/14/standing-on-the-shoulders-of-homebrew.html) — *Andrew Nesbitt* `04-14`
-- [Pluralistic: In praise of (some) compartmentalization (14 Apr 2026)](https://pluralistic.net/2026/04/14/compartment/) — *Pluralistic: Daily links from Cory Doctorow* `04-14`
-- [Weekly Update 499](https://www.troyhunt.com/weekly-update-499/) — *Troy Hunt* `04-14`
+- [I Will Never Respect A Website](https://www.wheresyoured.at/i-will-never-respect-a-website/) — *Ed Zitron's Where's Your Ed At* `04-14`
+- [Richard Moss’s 2010 Interview With John Calhoun on the Origins of Glider](https://macscene.net/d/4678-interview-john-calhoun-on-the-origins-of-glider-part-1) — *Daring Fireball* `04-14`
+- [Nothing ever dies. It merely becomes embarrassing.](https://www.experimental-history.com/p/nothing-ever-dies-it-merely-becomes) — *Experimental History* `04-14`
+- [Intersecting spheres and GPS](https://www.johndcook.com/blog/2026/04/14/intersecting-spheres-and-gps/) — *John D. Cook* `04-14`
+- [Glider Is Back in the Mac App Store](https://bsky.app/profile/engineersneedart.com/post/3mjf3ldjbp22k) — *Daring Fireball* `04-14`
 <!--BLOG_RADAR:end-->
 
 ---
