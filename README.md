@@ -208,11 +208,11 @@ Last Updated: Tuesday, April 14th, 2026, 10:02:46 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Marcin Wichary Visits the Large Scale Systems Museum](https://flickr.com/photos/mwichary/albums/72177720332956990/) — *Daring Fireball* `04-13`
-- [MacOS Tip: Enable the Zoom ‘Peek’ Gesture](https://unsung.aresluna.org/testing-tip-enable-the-zoom-peek-gesture/) — *Daring Fireball* `04-13`
-- [FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’](https://www.ft.com/content/02107c23-6c7a-4c19-b8e2-b45f4bb9ce5f) — *Daring Fireball* `04-13`
-- [Exploring the new `servo` crate](https://simonwillison.net/2026/Apr/13/servo-crate-exploration/#atom-everything) — *Simon Willison's Weblog* `04-13`
-- [Mathematical minimalism](https://www.johndcook.com/blog/2026/04/13/the-smallest-math-library/) — *John D. Cook* `04-13`
+- [Steven Soderbergh Twice Pitched James Bond Projects](https://theplaylist.net/steven-soderbergh-says-he-pitched-two-different-james-bond-plans-including-a-twofer-that-would-have-created-an-new-auteur-lane-for-the-franchise-20260409/) — *Daring Fireball* `04-14`
+- [Apple Frames 4](https://www.macstories.net/stories/introducing-apple-frames-4-a-revamped-shortcut-support-for-frame-colors-proportional-scaling-and-the-apple-frames-cli-for-developers/) — *Daring Fireball* `04-13`
+- [Memory, They Say, Is the First Thing to Go](https://daringfireball.net/2006/09/zoom_using_scroll_wheel) — *Daring Fireball* `04-13`
+- [[Sponsor] WorkOS FGA: The Authorization Layer for AI Agents](https://workos.com/blog/agents-need-authorization-not-just-authentication?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q22026) — *Daring Fireball* `04-13`
+- [Quoting Steve Yegge](https://simonwillison.net/2026/Apr/13/steve-yegge/#atom-everything) — *Simon Willison's Weblog* `04-13`
 <!--BLOG_RADAR:end-->
 
 ---

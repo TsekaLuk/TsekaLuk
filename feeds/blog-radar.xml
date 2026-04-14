@@ -4,7 +4,56 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 13 Apr 2026 19:22:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 03:27:06 +0000</lastBuildDate>
+    <item>
+      <title>Steven Soderbergh Twice Pitched James Bond Projects</title>
+      <link>https://theplaylist.net/steven-soderbergh-says-he-pitched-two-different-james-bond-plans-including-a-twofer-that-would-have-created-an-new-auteur-lane-for-the-franchise-20260409/</link>
+      <guid isPermaLink="true">https://theplaylist.net/steven-soderbergh-says-he-pitched-two-different-james-bond-plans-including-a-twofer-that-would-have-created-an-new-auteur-lane-for-the-franchise-20260409/</guid>
+      <pubDate>Tue, 14 Apr 2026 00:30:46 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Apple Frames 4</title>
+      <link>https://www.macstories.net/stories/introducing-apple-frames-4-a-revamped-shortcut-support-for-frame-colors-proportional-scaling-and-the-apple-frames-cli-for-developers/</link>
+      <guid isPermaLink="true">https://www.macstories.net/stories/introducing-apple-frames-4-a-revamped-shortcut-support-for-frame-colors-proportional-scaling-and-the-apple-frames-cli-for-developers/</guid>
+      <pubDate>Mon, 13 Apr 2026 23:55:46 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Memory, They Say, Is the First Thing to Go</title>
+      <link>https://daringfireball.net/2006/09/zoom_using_scroll_wheel</link>
+      <guid isPermaLink="true">https://daringfireball.net/2006/09/zoom_using_scroll_wheel</guid>
+      <pubDate>Mon, 13 Apr 2026 23:46:10 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>[Sponsor] WorkOS FGA: The Authorization Layer for AI Agents</title>
+      <link>https://workos.com/blog/agents-need-authorization-not-just-authentication?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026</link>
+      <guid isPermaLink="true">https://workos.com/blog/agents-need-authorization-not-just-authentication?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026</guid>
+      <pubDate>Mon, 13 Apr 2026 21:18:07 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Quoting Steve Yegge</title>
+      <link>https://simonwillison.net/2026/Apr/13/steve-yegge/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/13/steve-yegge/#atom-everything</guid>
+      <pubDate>Mon, 13 Apr 2026 20:59:45 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Tahoe Nitpick of the Day: ‘Reduce Transparency’ Makes Layers Harder to See, Not Easier</title>
+      <link>https://mastodon.social/@tuomas_h/116397694769738857</link>
+      <guid isPermaLink="true">https://mastodon.social/@tuomas_h/116397694769738857</guid>
+      <pubDate>Mon, 13 Apr 2026 20:56:15 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>John Martellaro, RIP</title>
+      <link>https://geektells.com/john-martellaro-remembrance/</link>
+      <guid isPermaLink="true">https://geektells.com/john-martellaro-remembrance/</guid>
+      <pubDate>Mon, 13 Apr 2026 19:49:32 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Marcin Wichary Visits the Large Scale Systems Museum</title>
       <link>https://flickr.com/photos/mwichary/albums/72177720332956990/</link>
@@ -39,6 +88,13 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/04/13/the-smallest-math-library/</guid>
       <pubDate>Mon, 13 Apr 2026 14:33:16 +0000</pubDate>
       <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Finding a duplicated item in an array of N integers in the range 1 to N − 1</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260413-00/?p=112227</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260413-00/?p=112227</guid>
+      <pubDate>Mon, 13 Apr 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>You paid for it, you should be comfortable in it</title>
@@ -139,7 +195,7 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Your AWS Certificate Makes You an AWS Salesman</title>
+      <title>Your AWS Certification Makes You an AWS Salesman</title>
       <link>https://idiallo.com/byte-size/we-are-aws-salesmen?src=feed</link>
       <guid isPermaLink="true">https://idiallo.com/byte-size/we-are-aws-salesmen?src=feed</guid>
       <pubDate>Sun, 12 Apr 2026 17:25:33 +0000</pubDate>
@@ -788,62 +844,6 @@
       <guid isPermaLink="true">https://entropicthoughts.com/readership-math-skills</guid>
       <pubDate>Mon, 06 Apr 2026 22:00:00 +0000</pubDate>
       <description>Entropic Thoughts</description>
-    </item>
-    <item>
-      <title>Anthropic Accidentally Leaked the Entire Claude Code CLI Source Code</title>
-      <link>https://arstechnica.com/ai/2026/03/entire-claude-code-cli-source-code-leaks-thanks-to-exposed-map-file/</link>
-      <guid isPermaLink="true">https://arstechnica.com/ai/2026/03/entire-claude-code-cli-source-code-leaks-thanks-to-exposed-map-file/</guid>
-      <pubDate>Mon, 06 Apr 2026 19:04:54 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Prototyping with LLMs</title>
-      <link>https://blog.jim-nielsen.com/2026/prototyping-with-llm/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/prototyping-with-llm/</guid>
-      <pubDate>Mon, 06 Apr 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
-      <title>Little Finder Guy Stars in Nine New Videos on TikTok and YouTube</title>
-      <link>https://www.macrumors.com/2026/04/02/little-finder-guy-tiktok-youtube/</link>
-      <guid isPermaLink="true">https://www.macrumors.com/2026/04/02/little-finder-guy-tiktok-youtube/</guid>
-      <pubDate>Mon, 06 Apr 2026 16:39:26 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>News: OpenAI CFO Doesn't Believe Company Ready For IPO, Unsure Revenue Will Support Commitments</title>
-      <link>https://www.wheresyoured.at/openai-cfo-news/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/openai-cfo-news/</guid>
-      <pubDate>Mon, 06 Apr 2026 14:49:40 +0000</pubDate>
-      <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>Learning to read C++ compiler errors: Illegal use of -&gt; when there is no -&gt; in sight</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260406-00/?p=112208</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260406-00/?p=112208</guid>
-      <pubDate>Mon, 06 Apr 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>AI Did It in 12 Minutes. It Took Me 10 Hours to Fix It</title>
-      <link>https://idiallo.com/blog/it-took-me-10-hours-to-fix-ai-code?src=feed</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/it-took-me-10-hours-to-fix-ai-code?src=feed</guid>
-      <pubDate>Mon, 06 Apr 2026 13:00:00 +0000</pubDate>
-      <description>iDiallo.com</description>
-    </item>
-    <item>
-      <title>[RSS Club] Banana for scale</title>
-      <link>https://shkspr.mobi/blog/2026/04/rss-club-banana-for-scale/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/rss-club-banana-for-scale/</guid>
-      <pubDate>Mon, 06 Apr 2026 11:34:00 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>The Cathedral and the Catacombs</title>
-      <link>https://nesbitt.io/2026/04/06/the-cathedral-and-the-catacombs.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/04/06/the-cathedral-and-the-catacombs.html</guid>
-      <pubDate>Mon, 06 Apr 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
     </item>
   </channel>
 </rss>
