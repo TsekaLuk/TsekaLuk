@@ -208,11 +208,11 @@ Last Updated: Tuesday, April 14th, 2026, 3:23:00 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Weekly Update 499](https://www.troyhunt.com/weekly-update-499/) — *Troy Hunt* `04-14`
+- [Having an inventory of anything is a non-trivial thing](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/InventoriesAreNontrivial) — *Chris's Wiki :: blog* `04-14`
 - [Steven Soderbergh Twice Pitched James Bond Projects](https://theplaylist.net/steven-soderbergh-says-he-pitched-two-different-james-bond-plans-including-a-twofer-that-would-have-created-an-new-auteur-lane-for-the-franchise-20260409/) — *Daring Fireball* `04-14`
 - [Apple Frames 4](https://www.macstories.net/stories/introducing-apple-frames-4-a-revamped-shortcut-support-for-frame-colors-proportional-scaling-and-the-apple-frames-cli-for-developers/) — *Daring Fireball* `04-13`
 - [Memory, They Say, Is the First Thing to Go](https://daringfireball.net/2006/09/zoom_using_scroll_wheel) — *Daring Fireball* `04-13`
-- [[Sponsor] WorkOS FGA: The Authorization Layer for AI Agents](https://workos.com/blog/agents-need-authorization-not-just-authentication?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q22026) — *Daring Fireball* `04-13`
-- [Quoting Steve Yegge](https://simonwillison.net/2026/Apr/13/steve-yegge/#atom-everything) — *Simon Willison's Weblog* `04-13`
 <!--BLOG_RADAR:end-->
 
 ---
