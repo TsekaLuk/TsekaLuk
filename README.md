@@ -208,11 +208,11 @@ Last Updated: Wednesday, April 15th, 2026, 3:23:09 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Pluralistic: Rights for robots (15 Apr 2026)](https://pluralistic.net/2026/04/15/artificial-lifeforms/) — *Pluralistic: Daily links from Cory Doctorow* `04-15`
 - [Universities, email, and the issues of running things in house](https://utcc.utoronto.ca/~cks/space/blog/tech/UniversitiesAndInhouseTech) — *Chris's Wiki :: blog* `04-15`
+- [Pressed For Options](https://feed.tedium.co/link/15204/17319282/linux-external-fingerprint-reader-challenges) — *Tedium: The Dull Side of the Internet.* `04-15`
 - [Zig 0.16.0 release notes: "Juicy Main"](https://simonwillison.net/2026/Apr/15/juicy-main/#atom-everything) — *Simon Willison's Weblog* `04-15`
 - [datasette PR #2689: Replace token-based CSRF with Sec-Fetch-Site header protection](https://simonwillison.net/2026/Apr/14/replace-token-based-csrf/#atom-everything) — *Simon Willison's Weblog* `04-14`
-- [Fraudulent Cryptocurrency App in Mac App Store Stole $9.5 Million From 50-Some Users](https://www.web3isgoinggreat.com/?id=fake-ledger-app) — *Daring Fireball* `04-14`
-- [Patch Tuesday, April 2026 Edition](https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/) — *Krebs on Security* `04-14`
 <!--BLOG_RADAR:end-->
 
 ---

@@ -4,13 +4,27 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 15 Apr 2026 03:25:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 07:58:58 +0000</lastBuildDate>
+    <item>
+      <title>Pluralistic: Rights for robots (15 Apr 2026)</title>
+      <link>https://pluralistic.net/2026/04/15/artificial-lifeforms/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/04/15/artificial-lifeforms/</guid>
+      <pubDate>Wed, 15 Apr 2026 07:06:28 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
     <item>
       <title>Universities, email, and the issues of running things in house</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/tech/UniversitiesAndInhouseTech</link>
       <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/tech/UniversitiesAndInhouseTech</guid>
       <pubDate>Wed, 15 Apr 2026 03:06:03 +0000</pubDate>
       <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>Pressed For Options</title>
+      <link>https://feed.tedium.co/link/15204/17319282/linux-external-fingerprint-reader-challenges</link>
+      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17319282/linux-external-fingerprint-reader-challenges</guid>
+      <pubDate>Wed, 15 Apr 2026 02:58:42 +0000</pubDate>
+      <description>Tedium: The Dull Side of the Internet.</description>
     </item>
     <item>
       <title>Zig 0.16.0 release notes: "Juicy Main"</title>
@@ -286,13 +300,6 @@
       <description>iDiallo.com</description>
     </item>
     <item>
-      <title>Android now stops you sharing your location in photos</title>
-      <link>https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/</guid>
-      <pubDate>Mon, 13 Apr 2026 11:34:48 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>Common Package Specification</title>
       <link>https://nesbitt.io/2026/04/13/common-package-specification.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/04/13/common-package-specification.html</guid>
@@ -447,13 +454,6 @@
       <description>Construction Physics</description>
     </item>
     <item>
-      <title>Cheapest way to keep a UK mobile number using an eSIM</title>
-      <link>https://shkspr.mobi/blog/2026/04/cheapest-way-to-keep-a-uk-mobile-number-using-an-esim/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/cheapest-way-to-keep-a-uk-mobile-number-using-an-esim/</guid>
-      <pubDate>Sat, 11 Apr 2026 11:34:38 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>I'm now using nftables for (new) static rulesets</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/linux/NftablesForNewStaticRules</link>
       <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/NftablesForNewStaticRules</guid>
@@ -536,13 +536,6 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260410-00/?p=112223</guid>
       <pubDate>Fri, 10 Apr 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>[RSS Club] Why do you use RSS rather than Atom?</title>
-      <link>https://shkspr.mobi/blog/2026/04/rss-club-why-do-you-use-rss-rather-than-atom/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/rss-club-why-do-you-use-rss-rather-than-atom/</guid>
-      <pubDate>Fri, 10 Apr 2026 11:34:36 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Package Registries and Pagination</title>
@@ -699,13 +692,6 @@
       <description>iDiallo.com</description>
     </item>
     <item>
-      <title>Book Review: Small Comfort by Ia Genberg ★★☆☆☆</title>
-      <link>https://shkspr.mobi/blog/2026/04/book-review-small-comfort-by-ia-genberg/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/book-review-small-comfort-by-ia-genberg/</guid>
-      <pubDate>Thu, 09 Apr 2026 11:34:59 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>Pluralistic: Cindy Cohn's "Privacy's Defender" (09 Apr 2026)</title>
       <link>https://pluralistic.net/2026/04/09/bernstein-2/</link>
       <guid isPermaLink="true">https://pluralistic.net/2026/04/09/bernstein-2/</guid>
@@ -818,13 +804,6 @@
       <description>Pluralistic: Daily links from Cory Doctorow</description>
     </item>
     <item>
-      <title>Theatre Review: Avenue Q ★★★★★</title>
-      <link>https://shkspr.mobi/blog/2026/04/theatre-review-avenue-q/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/theatre-review-avenue-q/</guid>
-      <pubDate>Wed, 08 Apr 2026 11:34:25 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>Package Security Problems for AI Agents</title>
       <link>https://nesbitt.io/2026/04/08/package-security-problems-for-ai-agents.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/04/08/package-security-problems-for-ai-agents.html</guid>
@@ -844,6 +823,27 @@
       <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/Systemd258UsersAndSessions</guid>
       <pubDate>Wed, 08 Apr 2026 00:14:24 +0000</pubDate>
       <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>Mario and Earendil</title>
+      <link>https://lucumr.pocoo.org/2026/4/8/mario-and-earendil/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/4/8/mario-and-earendil/</guid>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Armin Ronacher's Thoughts and Writings</description>
+    </item>
+    <item>
+      <title>When the crisis comes</title>
+      <link>https://anildash.com/2026/04/08/when-the-crisis-comes/</link>
+      <guid isPermaLink="true">https://anildash.com/2026/04/08/when-the-crisis-comes/</guid>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Anil Dash</description>
+    </item>
+    <item>
+      <title>Solar Eclipse From the Far Side of the Moon</title>
+      <link>https://kottke.org/26/04/solar-eclipse-far-side-of-the-moon</link>
+      <guid isPermaLink="true">https://kottke.org/26/04/solar-eclipse-far-side-of-the-moon</guid>
+      <pubDate>Tue, 07 Apr 2026 22:23:27 +0000</pubDate>
+      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
