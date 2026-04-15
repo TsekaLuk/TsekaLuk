@@ -4,13 +4,97 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 15 Apr 2026 13:54:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 19:37:44 +0000</lastBuildDate>
+    <item>
+      <title>Speed is Not Conducive to Wisdom</title>
+      <link>https://blog.jim-nielsen.com/2026/speed-not-conducive-to-wisdom/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/speed-not-conducive-to-wisdom/</guid>
+      <pubDate>Wed, 15 Apr 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
+    </item>
+    <item>
+      <title>Quoting John Gruber</title>
+      <link>https://simonwillison.net/2026/Apr/15/john-gruber/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/15/john-gruber/#atom-everything</guid>
+      <pubDate>Wed, 15 Apr 2026 17:13:57 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Gemini 3.1 Flash TTS</title>
+      <link>https://simonwillison.net/2026/Apr/15/gemini-31-flash-tts/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/15/gemini-31-flash-tts/#atom-everything</guid>
+      <pubDate>Wed, 15 Apr 2026 17:13:14 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Gemini 3.1 Flash TTS</title>
+      <link>https://simonwillison.net/2026/Apr/15/gemini-flash-tts/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/15/gemini-flash-tts/#atom-everything</guid>
+      <pubDate>Wed, 15 Apr 2026 16:41:46 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>A sufficiently comprehensive spec is not (necessarily) code</title>
+      <link>https://buttondown.com/hillelwayne/archive/a-sufficiently-comprehensive-spec-is-not/</link>
+      <guid isPermaLink="true">https://buttondown.com/hillelwayne/archive/a-sufficiently-comprehensive-spec-is-not/</guid>
+      <pubDate>Wed, 15 Apr 2026 16:18:02 +0000</pubDate>
+      <description>Computer Things</description>
+    </item>
+    <item>
+      <title>Jensen Huang – TPU competition, why we should sell chips to China, &amp; Nvidia’s supply chain moat</title>
+      <link>https://www.dwarkesh.com/p/jensen-huang</link>
+      <guid isPermaLink="true">https://www.dwarkesh.com/p/jensen-huang</guid>
+      <pubDate>Wed, 15 Apr 2026 15:45:23 +0000</pubDate>
+      <description>Dwarkesh Podcast</description>
+    </item>
+    <item>
+      <title>★ David Pierce Tried a Bunch of Android Phones and Then Bought an iPhone Again</title>
+      <link>https://daringfireball.net/2026/04/piece_android_iphone_apps</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/04/piece_android_iphone_apps</guid>
+      <pubDate>Wed, 15 Apr 2026 15:40:02 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Quoting Kyle Kingsbury</title>
+      <link>https://simonwillison.net/2026/Apr/15/kyle-kingsbury/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/15/kyle-kingsbury/#atom-everything</guid>
+      <pubDate>Wed, 15 Apr 2026 15:36:02 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>An Arm Mainboard for the Framework Laptop</title>
+      <link>https://www.jeffgeerling.com/blog/2026/arm-mainboard-for-framework-laptop/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/arm-mainboard-for-framework-laptop/</guid>
+      <pubDate>Wed, 15 Apr 2026 14:49:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>Screen Zooming on iOS</title>
+      <link>https://mastodon.social/@stroughtonsmith/116404958539831051</link>
+      <guid isPermaLink="true">https://mastodon.social/@stroughtonsmith/116404958539831051</guid>
+      <pubDate>Wed, 15 Apr 2026 14:34:44 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Why is there a long delay between a thread exiting and the Wait­For­Single­Object returning?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260415-00/?p=112235</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260415-00/?p=112235</guid>
+      <pubDate>Wed, 15 Apr 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
     <item>
       <title>Why is it so hard to passively stalk my friends' locations?</title>
       <link>https://shkspr.mobi/blog/2026/04/why-is-it-so-hard-to-passively-stalk-my-friends-locations/</link>
       <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/why-is-it-so-hard-to-passively-stalk-my-friends-locations/</guid>
       <pubDate>Wed, 15 Apr 2026 11:34:45 +0000</pubDate>
       <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>The Tuesday Test</title>
+      <link>https://nesbitt.io/2026/04/15/the-tuesday-test.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/04/15/the-tuesday-test.html</guid>
+      <pubDate>Wed, 15 Apr 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
     </item>
     <item>
       <title>Pluralistic: Rights for robots (15 Apr 2026)</title>
@@ -34,11 +118,25 @@
       <description>Tedium: The Dull Side of the Internet.</description>
     </item>
     <item>
+      <title>datasette-ports 0.3</title>
+      <link>https://simonwillison.net/2026/Apr/15/datasette-ports/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/15/datasette-ports/#atom-everything</guid>
+      <pubDate>Wed, 15 Apr 2026 02:50:57 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
       <title>Zig 0.16.0 release notes: "Juicy Main"</title>
       <link>https://simonwillison.net/2026/Apr/15/juicy-main/#atom-everything</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Apr/15/juicy-main/#atom-everything</guid>
       <pubDate>Wed, 15 Apr 2026 01:59:21 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Simdutf Can Now Be Used Without libc++ or libc++abi</title>
+      <link>https://mitchellh.com/writing/simdutf-no-libcxx</link>
+      <guid isPermaLink="true">https://mitchellh.com/writing/simdutf-no-libcxx</guid>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Mitchell Hashimoto</description>
     </item>
     <item>
       <title>datasette PR #2689: Replace token-based CSRF with Sec-Fetch-Site header protection</title>
@@ -746,104 +844,6 @@
       <guid isPermaLink="true">https://matduggan.com/you-can-absolutely-have-an-rss-dependent-website-in-2026/</guid>
       <pubDate>Thu, 09 Apr 2026 10:28:58 +0000</pubDate>
       <description>matduggan.com</description>
-    </item>
-    <item>
-      <title>Package Security Defenses for AI Agents</title>
-      <link>https://nesbitt.io/2026/04/09/package-security-defenses-for-ai-agents.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/04/09/package-security-defenses-for-ai-agents.html</guid>
-      <pubDate>Thu, 09 Apr 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Rapport digitale autonomie binnen de energie-intensieve industrie voor Energy Innovation NL</title>
-      <link>https://berthub.eu/articles/posts/rapport-digitale-afhankelijkheden-energy-innovation-nl/</link>
-      <guid isPermaLink="true">https://berthub.eu/articles/posts/rapport-digitale-afhankelijkheden-energy-innovation-nl/</guid>
-      <pubDate>Thu, 09 Apr 2026 04:30:00 +0000</pubDate>
-      <description>Bert Hubert's writings</description>
-    </item>
-    <item>
-      <title>asgi-gzip 0.3</title>
-      <link>https://simonwillison.net/2026/Apr/9/asgi-gzip/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/9/asgi-gzip/#atom-everything</guid>
-      <pubDate>Thu, 09 Apr 2026 03:54:40 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Systemd v258's 'systemctl -v restart' and its limitations</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdVerboseRestartNotes</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdVerboseRestartNotes</guid>
-      <pubDate>Thu, 09 Apr 2026 02:43:31 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>Root prime gap</title>
-      <link>https://www.johndcook.com/blog/2026/04/08/andrica/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/04/08/andrica/</guid>
-      <pubDate>Thu, 09 Apr 2026 00:18:57 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>I quit drinking for a year</title>
-      <link>https://dynomight.net/drinking/</link>
-      <guid isPermaLink="true">https://dynomight.net/drinking/</guid>
-      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
-    </item>
-    <item>
-      <title>A Three- and a Four- Body Problem</title>
-      <link>https://www.johndcook.com/blog/2026/04/08/artemis-1-apollo-12/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/04/08/artemis-1-apollo-12/</guid>
-      <pubDate>Wed, 08 Apr 2026 23:30:15 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Meta's new model is Muse Spark, and meta.ai chat has some interesting tools</title>
-      <link>https://simonwillison.net/2026/Apr/8/muse-spark/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/8/muse-spark/#atom-everything</guid>
-      <pubDate>Wed, 08 Apr 2026 23:07:44 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Hong Kong Disneyland Speedrun Guide</title>
-      <link>https://geohot.github.io//blog/jekyll/update/2026/04/09/hk-disneyland.html</link>
-      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/04/09/hk-disneyland.html</guid>
-      <pubDate>Wed, 08 Apr 2026 16:00:00 +0000</pubDate>
-      <description>the singularity is nearer</description>
-    </item>
-    <item>
-      <title>Anthropic’s New Claude Mythos Is So Good at Finding and Exploiting Vulnerabilities That They’re Not Releasing It to the Public</title>
-      <link>https://red.anthropic.com/2026/mythos-preview/</link>
-      <guid isPermaLink="true">https://red.anthropic.com/2026/mythos-preview/</guid>
-      <pubDate>Wed, 08 Apr 2026 15:49:15 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>AI Is Really Weird</title>
-      <link>https://www.wheresyoured.at/ai-is-really-weird/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/ai-is-really-weird/</guid>
-      <pubDate>Wed, 08 Apr 2026 15:48:32 +0000</pubDate>
-      <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>Quoting Giles Turnbull</title>
-      <link>https://simonwillison.net/2026/Apr/8/giles-turnbull/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/8/giles-turnbull/#atom-everything</guid>
-      <pubDate>Wed, 08 Apr 2026 15:18:49 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>How do you add or remove a handle from an active Msg­Wait­For­Multiple­Objects?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260408-00/?p=112218</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260408-00/?p=112218</guid>
-      <pubDate>Wed, 08 Apr 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Pluralistic: Process knowledge (08 Apr 2026)</title>
-      <link>https://pluralistic.net/2026/04/08/process-knowledge-vs-bosses/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/04/08/process-knowledge-vs-bosses/</guid>
-      <pubDate>Wed, 08 Apr 2026 13:39:44 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
     </item>
   </channel>
 </rss>
