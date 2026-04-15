@@ -4,7 +4,98 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 14 Apr 2026 19:26:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 03:25:30 +0000</lastBuildDate>
+    <item>
+      <title>Universities, email, and the issues of running things in house</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/tech/UniversitiesAndInhouseTech</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/tech/UniversitiesAndInhouseTech</guid>
+      <pubDate>Wed, 15 Apr 2026 03:06:03 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>Zig 0.16.0 release notes: "Juicy Main"</title>
+      <link>https://simonwillison.net/2026/Apr/15/juicy-main/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/15/juicy-main/#atom-everything</guid>
+      <pubDate>Wed, 15 Apr 2026 01:59:21 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>datasette PR #2689: Replace token-based CSRF with Sec-Fetch-Site header protection</title>
+      <link>https://simonwillison.net/2026/Apr/14/replace-token-based-csrf/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/14/replace-token-based-csrf/#atom-everything</guid>
+      <pubDate>Tue, 14 Apr 2026 23:58:53 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Fraudulent Cryptocurrency App in Mac App Store Stole $9.5 Million From 50-Some Users</title>
+      <link>https://www.web3isgoinggreat.com/?id=fake-ledger-app</link>
+      <guid isPermaLink="true">https://www.web3isgoinggreat.com/?id=fake-ledger-app</guid>
+      <pubDate>Tue, 14 Apr 2026 22:06:18 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Patch Tuesday, April 2026 Edition</title>
+      <link>https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/</link>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/</guid>
+      <pubDate>Tue, 14 Apr 2026 21:47:59 +0000</pubDate>
+      <description>Krebs on Security</description>
+    </item>
+    <item>
+      <title>On the Name of Apple’s Foldable iPhone</title>
+      <link>https://www.macrumors.com/2026/04/07/foldable-iphone-fold-iphone-ultra/</link>
+      <guid isPermaLink="true">https://www.macrumors.com/2026/04/07/foldable-iphone-fold-iphone-ultra/</guid>
+      <pubDate>Tue, 14 Apr 2026 21:46:17 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Trusted access for the next era of cyber defense</title>
+      <link>https://simonwillison.net/2026/Apr/14/trusted-access-openai/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/14/trusted-access-openai/#atom-everything</guid>
+      <pubDate>Tue, 14 Apr 2026 21:23:59 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Speaking of Tips</title>
+      <link>https://www.houstonchronicle.com/politics/texas/article/kristin-tips-out-texas-funeral-22206178.php</link>
+      <guid isPermaLink="true">https://www.houstonchronicle.com/politics/texas/article/kristin-tips-out-texas-funeral-22206178.php</guid>
+      <pubDate>Tue, 14 Apr 2026 21:19:29 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Apple Has Hidden the Pre-Creator-Studio Versions of Keynote, Numbers, and Pages in the Mac App Store</title>
+      <link>https://9to5mac.com/2026/04/13/apple-removes-old-pages-keynote-numbers-apps-for-macos/</link>
+      <guid isPermaLink="true">https://9to5mac.com/2026/04/13/apple-removes-old-pages-keynote-numbers-apps-for-macos/</guid>
+      <pubDate>Tue, 14 Apr 2026 21:07:35 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Google Will Finally Begin Punishing Sites for Back-Button Hijacking in June</title>
+      <link>https://developers.google.com/search/blog/2026/04/back-button-hijacking</link>
+      <guid isPermaLink="true">https://developers.google.com/search/blog/2026/04/back-button-hijacking</guid>
+      <pubDate>Tue, 14 Apr 2026 20:25:18 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Cybersecurity Looks Like Proof of Work Now</title>
+      <link>https://simonwillison.net/2026/Apr/14/cybersecurity-proof-of-work/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/14/cybersecurity-proof-of-work/#atom-everything</guid>
+      <pubDate>Tue, 14 Apr 2026 19:41:48 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Amazon to Acquire Globalstar, Announces Agreement With Apple to Continue Service for iPhone and Apple Watch</title>
+      <link>https://www.aboutamazon.com/news/company-news/amazon-globalstar-apple</link>
+      <guid isPermaLink="true">https://www.aboutamazon.com/news/company-news/amazon-globalstar-apple</guid>
+      <pubDate>Tue, 14 Apr 2026 19:34:29 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>John Calhoun on Steve Lemay</title>
+      <link>https://news.ycombinator.com/item?id=47297653</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47297653</guid>
+      <pubDate>Tue, 14 Apr 2026 19:26:25 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>I Will Never Respect A Website</title>
       <link>https://www.wheresyoured.at/i-will-never-respect-a-website/</link>
@@ -39,6 +130,13 @@
       <guid isPermaLink="true">https://bsky.app/profile/engineersneedart.com/post/3mjf3ldjbp22k</guid>
       <pubDate>Tue, 14 Apr 2026 14:03:44 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Why was there a red telephone at every receptionist desk?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260414-00/?p=112231</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260414-00/?p=112231</guid>
+      <pubDate>Tue, 14 Apr 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Finding a parabola through two points with given slopes</title>
@@ -746,104 +844,6 @@
       <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/Systemd258UsersAndSessions</guid>
       <pubDate>Wed, 08 Apr 2026 00:14:24 +0000</pubDate>
       <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>Mario and Earendil</title>
-      <link>https://lucumr.pocoo.org/2026/4/8/mario-and-earendil/</link>
-      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/4/8/mario-and-earendil/</guid>
-      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Armin Ronacher's Thoughts and Writings</description>
-    </item>
-    <item>
-      <title>When the crisis comes</title>
-      <link>https://anildash.com/2026/04/08/when-the-crisis-comes/</link>
-      <guid isPermaLink="true">https://anildash.com/2026/04/08/when-the-crisis-comes/</guid>
-      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Anil Dash</description>
-    </item>
-    <item>
-      <title>Solar Eclipse From the Far Side of the Moon</title>
-      <link>https://kottke.org/26/04/solar-eclipse-far-side-of-the-moon</link>
-      <guid isPermaLink="true">https://kottke.org/26/04/solar-eclipse-far-side-of-the-moon</guid>
-      <pubDate>Tue, 07 Apr 2026 22:23:27 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Sam Altman, in a Video Released by OpenAI, Apparently Thinks AGI Is Going to Hit Society Like a Once-a-Century Pandemic</title>
-      <link>https://x.com/OpenAINewsroom/status/2041618671236469200?s=20</link>
-      <guid isPermaLink="true">https://x.com/OpenAINewsroom/status/2041618671236469200?s=20</guid>
-      <pubDate>Tue, 07 Apr 2026 22:23:07 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>★ OpenAI Announces $122 Billion Additional ‘Committed Capital’, and Announces Their ‘Superapp’ Plan for the Future</title>
-      <link>https://daringfireball.net/2026/04/openai_future</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/04/openai_future</guid>
-      <pubDate>Tue, 07 Apr 2026 22:07:08 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>GLM-5.1: Towards Long-Horizon Tasks</title>
-      <link>https://simonwillison.net/2026/Apr/7/glm-51/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/7/glm-51/#atom-everything</guid>
-      <pubDate>Tue, 07 Apr 2026 21:25:14 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Writing an LLM from scratch, part 32i -- Interventions: what is in the noise?</title>
-      <link>https://www.gilesthomas.com/2026/04/llm-from-scratch-32i-interventions-what-is-in-the-noise</link>
-      <guid isPermaLink="true">https://www.gilesthomas.com/2026/04/llm-from-scratch-32i-interventions-what-is-in-the-noise</guid>
-      <pubDate>Tue, 07 Apr 2026 21:00:00 +0000</pubDate>
-      <description>Giles' blog</description>
-    </item>
-    <item>
-      <title>Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me</title>
-      <link>https://simonwillison.net/2026/Apr/7/project-glasswing/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/7/project-glasswing/#atom-everything</guid>
-      <pubDate>Tue, 07 Apr 2026 20:52:54 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Russia Hacked Routers to Steal Microsoft Office Tokens</title>
-      <link>https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/</link>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/</guid>
-      <pubDate>Tue, 07 Apr 2026 17:02:44 +0000</pubDate>
-      <description>Krebs on Security</description>
-    </item>
-    <item>
-      <title>Om Malik and Ben Thompson on OpenAI Buying TBPN</title>
-      <link>https://om.co/2026/04/02/openai-masters-of-agitprop-2-0/</link>
-      <guid isPermaLink="true">https://om.co/2026/04/02/openai-masters-of-agitprop-2-0/</guid>
-      <pubDate>Tue, 07 Apr 2026 16:52:44 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Flighty Airports Meltdown Map</title>
-      <link>https://flighty.com/airports</link>
-      <guid isPermaLink="true">https://flighty.com/airports</guid>
-      <pubDate>Tue, 07 Apr 2026 16:44:06 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The Data Drop: Every iPhone</title>
-      <link>https://sheets.works/data-viz/every-iphone</link>
-      <guid isPermaLink="true">https://sheets.works/data-viz/every-iphone</guid>
-      <pubDate>Tue, 07 Apr 2026 16:34:14 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The day you get cut out of the economy</title>
-      <link>https://geohot.github.io//blog/jekyll/update/2026/04/08/the-day-you-get-cut-out.html</link>
-      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/04/08/the-day-you-get-cut-out.html</guid>
-      <pubDate>Tue, 07 Apr 2026 16:00:00 +0000</pubDate>
-      <description>the singularity is nearer</description>
-    </item>
-    <item>
-      <title>Michael Nielsen – How science actually progresses</title>
-      <link>https://www.dwarkesh.com/p/michael-nielsen</link>
-      <guid isPermaLink="true">https://www.dwarkesh.com/p/michael-nielsen</guid>
-      <pubDate>Tue, 07 Apr 2026 15:49:28 +0000</pubDate>
-      <description>Dwarkesh Podcast</description>
     </item>
   </channel>
 </rss>

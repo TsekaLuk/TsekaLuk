@@ -208,11 +208,11 @@ Last Updated: Wednesday, April 15th, 2026, 9:59:55 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [I Will Never Respect A Website](https://www.wheresyoured.at/i-will-never-respect-a-website/) — *Ed Zitron's Where's Your Ed At* `04-14`
-- [Richard Moss’s 2010 Interview With John Calhoun on the Origins of Glider](https://macscene.net/d/4678-interview-john-calhoun-on-the-origins-of-glider-part-1) — *Daring Fireball* `04-14`
-- [Nothing ever dies. It merely becomes embarrassing.](https://www.experimental-history.com/p/nothing-ever-dies-it-merely-becomes) — *Experimental History* `04-14`
-- [Intersecting spheres and GPS](https://www.johndcook.com/blog/2026/04/14/intersecting-spheres-and-gps/) — *John D. Cook* `04-14`
-- [Glider Is Back in the Mac App Store](https://bsky.app/profile/engineersneedart.com/post/3mjf3ldjbp22k) — *Daring Fireball* `04-14`
+- [Universities, email, and the issues of running things in house](https://utcc.utoronto.ca/~cks/space/blog/tech/UniversitiesAndInhouseTech) — *Chris's Wiki :: blog* `04-15`
+- [Zig 0.16.0 release notes: "Juicy Main"](https://simonwillison.net/2026/Apr/15/juicy-main/#atom-everything) — *Simon Willison's Weblog* `04-15`
+- [datasette PR #2689: Replace token-based CSRF with Sec-Fetch-Site header protection](https://simonwillison.net/2026/Apr/14/replace-token-based-csrf/#atom-everything) — *Simon Willison's Weblog* `04-14`
+- [Fraudulent Cryptocurrency App in Mac App Store Stole $9.5 Million From 50-Some Users](https://www.web3isgoinggreat.com/?id=fake-ledger-app) — *Daring Fireball* `04-14`
+- [Patch Tuesday, April 2026 Edition](https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/) — *Krebs on Security* `04-14`
 <!--BLOG_RADAR:end-->
 
 ---
