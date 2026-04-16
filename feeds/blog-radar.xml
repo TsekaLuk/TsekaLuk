@@ -4,7 +4,49 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 16 Apr 2026 07:58:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 14:04:01 +0000</lastBuildDate>
+    <item>
+      <title>Newton diameters</title>
+      <link>https://www.johndcook.com/blog/2026/04/16/newton-diameters/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/04/16/newton-diameters/</guid>
+      <pubDate>Thu, 16 Apr 2026 12:02:13 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>RSS Club for WordPress</title>
+      <link>https://shkspr.mobi/blog/2026/04/rss-club-for-wordpress/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/rss-club-for-wordpress/</guid>
+      <pubDate>Thu, 16 Apr 2026 11:34:10 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>SQLAlchemy 2 In Practice - Chapter 5 - Advanced Many-To-Many Relationships</title>
+      <link>https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-5---advanced-many-to-many-relationships</link>
+      <guid isPermaLink="true">https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-5---advanced-many-to-many-relationships</guid>
+      <pubDate>Thu, 16 Apr 2026 11:33:06 +0000</pubDate>
+      <description>Miguel Grinberg's Blog</description>
+    </item>
+    <item>
+      <title>Pluralistic: A Pascal's Wager for AI Doomers (16 Apr 2026)</title>
+      <link>https://pluralistic.net/2026/04/16/pascals-wager/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/04/16/pascals-wager/</guid>
+      <pubDate>Thu, 16 Apr 2026 11:09:32 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>AI cybersecurity is not proof of work</title>
+      <link>http://antirez.com/news/163</link>
+      <guid isPermaLink="true">http://antirez.com/news/163</guid>
+      <pubDate>Thu, 16 Apr 2026 10:46:46 +0000</pubDate>
+      <description>&lt;antirez&gt;</description>
+    </item>
+    <item>
+      <title>Features everyone should steal from npmx</title>
+      <link>https://nesbitt.io/2026/04/16/features-everyone-should-steal-from-npmx.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/04/16/features-everyone-should-steal-from-npmx.html</guid>
+      <pubDate>Thu, 16 Apr 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
     <item>
       <title>I truly hate mostpeopleslop</title>
       <link>https://www.joanwestenberg.com/i-truly-hate-mostpeopleslop/</link>
@@ -802,48 +844,6 @@
       <guid isPermaLink="true">https://sixcolors.com/link/2026/04/macs-crash-after-49-days-of-uptime/</guid>
       <pubDate>Thu, 09 Apr 2026 22:14:13 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>GitHub Repo Size</title>
-      <link>https://simonwillison.net/2026/Apr/9/github-repo-size/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/9/github-repo-size/#atom-everything</guid>
-      <pubDate>Thu, 09 Apr 2026 21:31:50 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Adobe Diddles With Your /etc/hosts File</title>
-      <link>https://old.reddit.com/r/webdev/comments/1sb6hzk/adobe_wrote_to_my_hosts_file_ive_never_had_an_app/oe1ap9h/</link>
-      <guid isPermaLink="true">https://old.reddit.com/r/webdev/comments/1sb6hzk/adobe_wrote_to_my_hosts_file_ive_never_had_an_app/oe1ap9h/</guid>
-      <pubDate>Thu, 09 Apr 2026 20:35:30 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Writing an LLM from scratch, part 32j -- Interventions: trying to train a better model in the cloud</title>
-      <link>https://www.gilesthomas.com/2026/04/llm-from-scratch-32j-interventions-trying-to-train-a-better-model-in-the-cloud</link>
-      <guid isPermaLink="true">https://www.gilesthomas.com/2026/04/llm-from-scratch-32j-interventions-trying-to-train-a-better-model-in-the-cloud</guid>
-      <pubDate>Thu, 09 Apr 2026 20:00:00 +0000</pubDate>
-      <description>Giles' blog</description>
-    </item>
-    <item>
-      <title>Fewer Computers, Fewer Problems: Going Local With Builds &amp; Deployments</title>
-      <link>https://blog.jim-nielsen.com/2026/fewer-computers-fewer-problems/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/fewer-computers-fewer-problems/</guid>
-      <pubDate>Thu, 09 Apr 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
-      <title>The Great Pyramid of Giza and the Speed of Light</title>
-      <link>https://www.johndcook.com/blog/2026/04/09/pyramid-speed-of-light/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/04/09/pyramid-speed-of-light/</guid>
-      <pubDate>Thu, 09 Apr 2026 17:54:21 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Random hexagon fractal</title>
-      <link>https://www.johndcook.com/blog/2026/04/09/random-hexagon-fractal/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/04/09/random-hexagon-fractal/</guid>
-      <pubDate>Thu, 09 Apr 2026 17:25:08 +0000</pubDate>
-      <description>John D. Cook</description>
     </item>
   </channel>
 </rss>

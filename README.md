@@ -208,11 +208,11 @@ Last Updated: Thursday, April 16th, 2026, 9:19:33 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [I truly hate mostpeopleslop](https://www.joanwestenberg.com/i-truly-hate-mostpeopleslop/) — *Westenberg.* `04-16`
-- [So Close to Getting It](https://www.theverge.com/tech/906873/sofa-app-track-tv-movies-installer) — *Daring Fireball* `04-16`
-- [Sofa 5.0](https://www.sofahq.com/5) — *Daring Fireball* `04-16`
-- [datasette.io news preview](https://simonwillison.net/2026/Apr/16/datasette-io-preview/#atom-everything) — *Simon Willison's Weblog* `04-16`
-- [datasette-export-database 0.3a1](https://simonwillison.net/2026/Apr/15/datasette-export-database/#atom-everything) — *Simon Willison's Weblog* `04-15`
+- [Newton diameters](https://www.johndcook.com/blog/2026/04/16/newton-diameters/) — *John D. Cook* `04-16`
+- [RSS Club for WordPress](https://shkspr.mobi/blog/2026/04/rss-club-for-wordpress/) — *Terence Eden’s Blog* `04-16`
+- [SQLAlchemy 2 In Practice - Chapter 5 - Advanced Many-To-Many Relationships](https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-5---advanced-many-to-many-relationships) — *Miguel Grinberg's Blog* `04-16`
+- [Pluralistic: A Pascal's Wager for AI Doomers (16 Apr 2026)](https://pluralistic.net/2026/04/16/pascals-wager/) — *Pluralistic: Daily links from Cory Doctorow* `04-16`
+- [AI cybersecurity is not proof of work](http://antirez.com/news/163) — *<antirez>* `04-16`
 <!--BLOG_RADAR:end-->
 
 ---
