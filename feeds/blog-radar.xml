@@ -4,7 +4,63 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 15 Apr 2026 19:37:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 03:33:12 +0000</lastBuildDate>
+    <item>
+      <title>So Close to Getting It</title>
+      <link>https://www.theverge.com/tech/906873/sofa-app-track-tv-movies-installer</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/906873/sofa-app-track-tv-movies-installer</guid>
+      <pubDate>Thu, 16 Apr 2026 01:00:35 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Sofa 5.0</title>
+      <link>https://www.sofahq.com/5</link>
+      <guid isPermaLink="true">https://www.sofahq.com/5</guid>
+      <pubDate>Thu, 16 Apr 2026 00:36:05 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>datasette.io news preview</title>
+      <link>https://simonwillison.net/2026/Apr/16/datasette-io-preview/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/16/datasette-io-preview/#atom-everything</guid>
+      <pubDate>Thu, 16 Apr 2026 00:18:03 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>datasette-export-database 0.3a1</title>
+      <link>https://simonwillison.net/2026/Apr/15/datasette-export-database/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/15/datasette-export-database/#atom-everything</guid>
+      <pubDate>Wed, 15 Apr 2026 23:52:35 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>datasette 1.0a27</title>
+      <link>https://simonwillison.net/2026/Apr/15/datasette/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/15/datasette/#atom-everything</guid>
+      <pubDate>Wed, 15 Apr 2026 23:16:34 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Our options in remote server installation and management</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/tech/RemoteServerManagementOptions</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/tech/RemoteServerManagementOptions</guid>
+      <pubDate>Wed, 15 Apr 2026 22:31:23 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>Writing an LLM from scratch, part 32k -- Interventions: training a better model locally with gradient accumulation</title>
+      <link>https://www.gilesthomas.com/2026/04/llm-from-scratch-32k-interventions-training-our-best-model-locally-gradient-accumulation</link>
+      <guid isPermaLink="true">https://www.gilesthomas.com/2026/04/llm-from-scratch-32k-interventions-training-our-best-model-locally-gradient-accumulation</guid>
+      <pubDate>Wed, 15 Apr 2026 20:00:00 +0000</pubDate>
+      <description>Giles' blog</description>
+    </item>
+    <item>
+      <title>Lisa Melton: ‘Memories of Steve’ (and Memories of Safari’s Unique Page-Loading Indicator in Particular)</title>
+      <link>https://lisamelton.net/2023/10/05/memories-of-steve/</link>
+      <guid isPermaLink="true">https://lisamelton.net/2023/10/05/memories-of-steve/</guid>
+      <pubDate>Wed, 15 Apr 2026 19:54:17 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Speed is Not Conducive to Wisdom</title>
       <link>https://blog.jim-nielsen.com/2026/speed-not-conducive-to-wisdom/</link>
@@ -69,7 +125,7 @@
       <description>Jeff Geerling</description>
     </item>
     <item>
-      <title>Screen Zooming on iOS</title>
+      <title>Screen Zooming on iOS and iPadOS</title>
       <link>https://mastodon.social/@stroughtonsmith/116404958539831051</link>
       <guid isPermaLink="true">https://mastodon.social/@stroughtonsmith/116404958539831051</guid>
       <pubDate>Wed, 15 Apr 2026 14:34:44 +0000</pubDate>
@@ -788,62 +844,6 @@
       <guid isPermaLink="true">https://politicalwire.com/2026/04/09/extra-bonus-quote-of-the-day-1022/</guid>
       <pubDate>Thu, 09 Apr 2026 17:10:48 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>SQLAlchemy 2 In Practice - Chapter 4 - Many-To-Many Relationships</title>
-      <link>https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-4---many-to-many-relationships</link>
-      <guid isPermaLink="true">https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-4---many-to-many-relationships</guid>
-      <pubDate>Thu, 09 Apr 2026 15:02:34 +0000</pubDate>
-      <description>Miguel Grinberg's Blog</description>
-    </item>
-    <item>
-      <title>How do you add or remove a handle from an active Wait­For­Multiple­Objects?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260409-00/?p=112220</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260409-00/?p=112220</guid>
-      <pubDate>Thu, 09 Apr 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Nowhere Is Safe</title>
-      <link>https://steveblank.com/2026/04/09/nowhere-is-safe/</link>
-      <guid isPermaLink="true">https://steveblank.com/2026/04/09/nowhere-is-safe/</guid>
-      <pubDate>Thu, 09 Apr 2026 13:00:25 +0000</pubDate>
-      <description>Steve Blank</description>
-    </item>
-    <item>
-      <title>Helium Is Hard to Replace</title>
-      <link>https://www.construction-physics.com/p/helium-is-hard-to-replace</link>
-      <guid isPermaLink="true">https://www.construction-physics.com/p/helium-is-hard-to-replace</guid>
-      <pubDate>Thu, 09 Apr 2026 12:03:42 +0000</pubDate>
-      <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>What Are You Trying to Say?</title>
-      <link>https://idiallo.com/blog/what-are-you-trying-to-say?src=feed</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/what-are-you-trying-to-say?src=feed</guid>
-      <pubDate>Thu, 09 Apr 2026 12:00:00 +0000</pubDate>
-      <description>iDiallo.com</description>
-    </item>
-    <item>
-      <title>Book Review: Small Comfort by Ia Genberg ★★☆☆☆</title>
-      <link>https://shkspr.mobi/blog/2026/04/book-review-small-comfort-by-ia-genberg/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/book-review-small-comfort-by-ia-genberg/</guid>
-      <pubDate>Thu, 09 Apr 2026 11:34:59 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Pluralistic: Cindy Cohn's "Privacy's Defender" (09 Apr 2026)</title>
-      <link>https://pluralistic.net/2026/04/09/bernstein-2/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/04/09/bernstein-2/</guid>
-      <pubDate>Thu, 09 Apr 2026 10:50:56 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>You can absolutely have an RSS dependent website in 2026</title>
-      <link>https://matduggan.com/you-can-absolutely-have-an-rss-dependent-website-in-2026/</link>
-      <guid isPermaLink="true">https://matduggan.com/you-can-absolutely-have-an-rss-dependent-website-in-2026/</guid>
-      <pubDate>Thu, 09 Apr 2026 10:28:58 +0000</pubDate>
-      <description>matduggan.com</description>
     </item>
   </channel>
 </rss>

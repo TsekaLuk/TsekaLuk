@@ -208,11 +208,11 @@ Last Updated: Thursday, April 16th, 2026, 10:07:41 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Speed is Not Conducive to Wisdom](https://blog.jim-nielsen.com/2026/speed-not-conducive-to-wisdom/) — *Jim Nielsen’s Blog* `04-15`
-- [Quoting John Gruber](https://simonwillison.net/2026/Apr/15/john-gruber/#atom-everything) — *Simon Willison's Weblog* `04-15`
-- [Gemini 3.1 Flash TTS](https://simonwillison.net/2026/Apr/15/gemini-31-flash-tts/#atom-everything) — *Simon Willison's Weblog* `04-15`
-- [Gemini 3.1 Flash TTS](https://simonwillison.net/2026/Apr/15/gemini-flash-tts/#atom-everything) — *Simon Willison's Weblog* `04-15`
-- [A sufficiently comprehensive spec is not (necessarily) code](https://buttondown.com/hillelwayne/archive/a-sufficiently-comprehensive-spec-is-not/) — *Computer Things* `04-15`
+- [So Close to Getting It](https://www.theverge.com/tech/906873/sofa-app-track-tv-movies-installer) — *Daring Fireball* `04-16`
+- [Sofa 5.0](https://www.sofahq.com/5) — *Daring Fireball* `04-16`
+- [datasette.io news preview](https://simonwillison.net/2026/Apr/16/datasette-io-preview/#atom-everything) — *Simon Willison's Weblog* `04-16`
+- [datasette-export-database 0.3a1](https://simonwillison.net/2026/Apr/15/datasette-export-database/#atom-everything) — *Simon Willison's Weblog* `04-15`
+- [datasette 1.0a27](https://simonwillison.net/2026/Apr/15/datasette/#atom-everything) — *Simon Willison's Weblog* `04-15`
 <!--BLOG_RADAR:end-->
 
 ---
