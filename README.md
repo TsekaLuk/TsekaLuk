@@ -208,11 +208,11 @@ Last Updated: Friday, April 17th, 2026, 3:04:58 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Newton diameters](https://www.johndcook.com/blog/2026/04/16/newton-diameters/) — *John D. Cook* `04-16`
-- [RSS Club for WordPress](https://shkspr.mobi/blog/2026/04/rss-club-for-wordpress/) — *Terence Eden’s Blog* `04-16`
-- [SQLAlchemy 2 In Practice - Chapter 5 - Advanced Many-To-Many Relationships](https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-5---advanced-many-to-many-relationships) — *Miguel Grinberg's Blog* `04-16`
-- [Pluralistic: A Pascal's Wager for AI Doomers (16 Apr 2026)](https://pluralistic.net/2026/04/16/pascals-wager/) — *Pluralistic: Daily links from Cory Doctorow* `04-16`
-- [AI cybersecurity is not proof of work](http://antirez.com/news/163) — *<antirez>* `04-16`
+- [Apple Pay Express Transit Mode, When Used With a Visa Card, Is Vulnerable to Scam Tap-to-Pay Readers](https://www.macrumors.com/2026/04/15/apple-pay-visa-transit-exploit/) — *Daring Fireball* `04-16`
+- [Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7](https://simonwillison.net/2026/Apr/16/qwen-beats-opus/#atom-everything) — *Simon Willison's Weblog* `04-16`
+- [Bonus Thought Regarding the Name ‘iPhone Ultra’](https://daringfireball.net/linked/2026/04/14/name-of-foldable-iphone) — *Daring Fireball* `04-16`
+- [Rory Goss’s Accessibility Story](https://www.apple.com/education/college-students/success-stories/goss/) — *Daring Fireball* `04-16`
+- [What’s up with window message 0x0091? We’re getting it with unexpected parameters](https://devblogs.microsoft.com/oldnewthing/20260416-00/?p=112240) — *The Old New Thing* `04-16`
 <!--BLOG_RADAR:end-->
 
 ---

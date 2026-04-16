@@ -4,7 +4,42 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 16 Apr 2026 14:04:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 19:25:23 +0000</lastBuildDate>
+    <item>
+      <title>Apple Pay Express Transit Mode, When Used With a Visa Card, Is Vulnerable to Scam Tap-to-Pay Readers</title>
+      <link>https://www.macrumors.com/2026/04/15/apple-pay-visa-transit-exploit/</link>
+      <guid isPermaLink="true">https://www.macrumors.com/2026/04/15/apple-pay-visa-transit-exploit/</guid>
+      <pubDate>Thu, 16 Apr 2026 18:43:44 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7</title>
+      <link>https://simonwillison.net/2026/Apr/16/qwen-beats-opus/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/16/qwen-beats-opus/#atom-everything</guid>
+      <pubDate>Thu, 16 Apr 2026 17:16:52 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Bonus Thought Regarding the Name ‘iPhone Ultra’</title>
+      <link>https://daringfireball.net/linked/2026/04/14/name-of-foldable-iphone</link>
+      <guid isPermaLink="true">https://daringfireball.net/linked/2026/04/14/name-of-foldable-iphone</guid>
+      <pubDate>Thu, 16 Apr 2026 15:26:03 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Rory Goss’s Accessibility Story</title>
+      <link>https://www.apple.com/education/college-students/success-stories/goss/</link>
+      <guid isPermaLink="true">https://www.apple.com/education/college-students/success-stories/goss/</guid>
+      <pubDate>Thu, 16 Apr 2026 15:00:49 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>What’s up with window message 0x0091? We’re getting it with unexpected parameters</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260416-00/?p=112240</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260416-00/?p=112240</guid>
+      <pubDate>Thu, 16 Apr 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
     <item>
       <title>Newton diameters</title>
       <link>https://www.johndcook.com/blog/2026/04/16/newton-diameters/</link>
@@ -74,6 +109,13 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Apr/16/datasette-io-preview/#atom-everything</guid>
       <pubDate>Thu, 16 Apr 2026 00:18:03 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>The Power of Possibility</title>
+      <link>https://anildash.com/2026/04/16/girls-club-gala/</link>
+      <guid isPermaLink="true">https://anildash.com/2026/04/16/girls-club-gala/</guid>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Anil Dash</description>
     </item>
     <item>
       <title>datasette-export-database 0.3a1</title>
@@ -179,6 +221,13 @@
       <guid isPermaLink="true">https://mastodon.social/@stroughtonsmith/116404958539831051</guid>
       <pubDate>Wed, 15 Apr 2026 14:34:44 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>What I learned this week - Pretraining parallelisms, Can distillation be stopped, Mythos and the cybersecurity equilibrium, Pipeline RL, On why pretraining runs fails</title>
+      <link>https://www.dwarkesh.com/p/what-i-learned-april-15</link>
+      <guid isPermaLink="true">https://www.dwarkesh.com/p/what-i-learned-april-15</guid>
+      <pubDate>Wed, 15 Apr 2026 14:03:00 +0000</pubDate>
+      <description>Dwarkesh Podcast</description>
     </item>
     <item>
       <title>Why is there a long delay between a thread exiting and the Wait­For­Single­Object returning?</title>
@@ -795,55 +844,6 @@
       <guid isPermaLink="true">https://feed.tedium.co/link/15204/17316812/solitaire-card-game-types-history</guid>
       <pubDate>Fri, 10 Apr 2026 03:47:04 +0000</pubDate>
       <description>Tedium: The Dull Side of the Internet.</description>
-    </item>
-    <item>
-      <title>watgo - a WebAssembly Toolkit for Go</title>
-      <link>https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/</link>
-      <guid isPermaLink="true">https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/</guid>
-      <pubDate>Fri, 10 Apr 2026 02:28:00 +0000</pubDate>
-      <description>Eli Bendersky's website</description>
-    </item>
-    <item>
-      <title>Why I quit "The Strive"</title>
-      <link>https://www.joanwestenberg.com/why-i-quit-the-strive/</link>
-      <guid isPermaLink="true">https://www.joanwestenberg.com/why-i-quit-the-strive/</guid>
-      <pubDate>Fri, 10 Apr 2026 01:50:12 +0000</pubDate>
-      <description>Westenberg.</description>
-    </item>
-    <item>
-      <title>In defense of GitHub's poor uptime</title>
-      <link>https://evanhahn.com/in-defense-of-githubs-poor-uptime/</link>
-      <guid isPermaLink="true">https://evanhahn.com/in-defense-of-githubs-poor-uptime/</guid>
-      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Evan Hahn (dot com)</description>
-    </item>
-    <item>
-      <title>Y2K 2.0: The AI security reckoning</title>
-      <link>https://anildash.com/2026/04/10/y2k-2.0-ai-security/</link>
-      <guid isPermaLink="true">https://anildash.com/2026/04/10/y2k-2.0-ai-security/</guid>
-      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Anil Dash</description>
-    </item>
-    <item>
-      <title>Has Mythos just broken the deal that kept the internet safe?</title>
-      <link>https://martinalderson.com/posts/has-mythos-just-broken-the-deal-that-kept-the-internet-safe/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
-      <guid isPermaLink="true">https://martinalderson.com/posts/has-mythos-just-broken-the-deal-that-kept-the-internet-safe/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
-      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Martin Alderson</description>
-    </item>
-    <item>
-      <title>Some quick notes to myself on nftables 'symbolic variables'</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/NftablesSymbolicVariables</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/NftablesSymbolicVariables</guid>
-      <pubDate>Thu, 09 Apr 2026 23:40:13 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>MacOS Seemingly Crashes After 49 Days of Uptime — a ‘Feature’ Perhaps Exclusive to Tahoe</title>
-      <link>https://sixcolors.com/link/2026/04/macs-crash-after-49-days-of-uptime/</link>
-      <guid isPermaLink="true">https://sixcolors.com/link/2026/04/macs-crash-after-49-days-of-uptime/</guid>
-      <pubDate>Thu, 09 Apr 2026 22:14:13 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
