@@ -208,11 +208,11 @@ Last Updated: Thursday, April 16th, 2026, 3:24:15 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [I truly hate mostpeopleslop](https://www.joanwestenberg.com/i-truly-hate-mostpeopleslop/) — *Westenberg.* `04-16`
 - [So Close to Getting It](https://www.theverge.com/tech/906873/sofa-app-track-tv-movies-installer) — *Daring Fireball* `04-16`
 - [Sofa 5.0](https://www.sofahq.com/5) — *Daring Fireball* `04-16`
 - [datasette.io news preview](https://simonwillison.net/2026/Apr/16/datasette-io-preview/#atom-everything) — *Simon Willison's Weblog* `04-16`
 - [datasette-export-database 0.3a1](https://simonwillison.net/2026/Apr/15/datasette-export-database/#atom-everything) — *Simon Willison's Weblog* `04-15`
-- [datasette 1.0a27](https://simonwillison.net/2026/Apr/15/datasette/#atom-everything) — *Simon Willison's Weblog* `04-15`
 <!--BLOG_RADAR:end-->
 
 ---

@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 16 Apr 2026 03:33:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 07:58:47 +0000</lastBuildDate>
+    <item>
+      <title>I truly hate mostpeopleslop</title>
+      <link>https://www.joanwestenberg.com/i-truly-hate-mostpeopleslop/</link>
+      <guid isPermaLink="true">https://www.joanwestenberg.com/i-truly-hate-mostpeopleslop/</guid>
+      <pubDate>Thu, 16 Apr 2026 04:50:26 +0000</pubDate>
+      <description>Westenberg.</description>
+    </item>
     <item>
       <title>So Close to Getting It</title>
       <link>https://www.theverge.com/tech/906873/sofa-app-track-tv-movies-installer</link>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/04/09/random-hexagon-fractal/</guid>
       <pubDate>Thu, 09 Apr 2026 17:25:08 +0000</pubDate>
       <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Lickspittle of the Week: Todd Blanche</title>
-      <link>https://politicalwire.com/2026/04/09/extra-bonus-quote-of-the-day-1022/</link>
-      <guid isPermaLink="true">https://politicalwire.com/2026/04/09/extra-bonus-quote-of-the-day-1022/</guid>
-      <pubDate>Thu, 09 Apr 2026 17:10:48 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
