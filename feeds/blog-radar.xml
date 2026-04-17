@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 17 Apr 2026 07:59:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 13:46:46 +0000</lastBuildDate>
+    <item>
+      <title>Book Review: How To Kill A Witch - A Guide For The Patriarchy by Claire Mitchell and Zoe Venditozzi ★★★⯪☆</title>
+      <link>https://shkspr.mobi/blog/2026/04/book-review-how-to-kill-a-witch-a-guide-for-the-patriarchy-by-claire-mitchell-and-zoe-venditozzi/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/book-review-how-to-kill-a-witch-a-guide-for-the-patriarchy-by-claire-mitchell-and-zoe-venditozzi/</guid>
+      <pubDate>Fri, 17 Apr 2026 11:34:26 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Pluralistic: Tiktokification shall set us free (17 Apr 2026)</title>
+      <link>https://pluralistic.net/2026/04/17/for-youze/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/04/17/for-youze/</guid>
+      <pubDate>Fri, 17 Apr 2026 10:30:52 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
     <item>
       <title>datasette 1.0a28</title>
       <link>https://simonwillison.net/2026/Apr/17/datasette/#atom-everything</link>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://daringfireball.net/2026/04/when_he_is_alive_and_not_after_he_is_dead</guid>
       <pubDate>Fri, 10 Apr 2026 21:29:46 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Kākāpō parrots</title>
-      <link>https://simonwillison.net/2026/Apr/10/kakapo/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/10/kakapo/#atom-everything</guid>
-      <pubDate>Fri, 10 Apr 2026 19:07:02 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Premium: The Hater's Guide to OpenAI</title>
-      <link>https://www.wheresyoured.at/hatersguide-openai/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/hatersguide-openai/</guid>
-      <pubDate>Fri, 10 Apr 2026 16:57:30 +0000</pubDate>
-      <description>Ed Zitron's Where's Your Ed At</description>
     </item>
   </channel>
 </rss>

@@ -208,11 +208,11 @@ Last Updated: Friday, April 17th, 2026, 9:06:49 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Book Review: How To Kill A Witch - A Guide For The Patriarchy by Claire Mitchell and Zoe Venditozzi ★★★⯪☆](https://shkspr.mobi/blog/2026/04/book-review-how-to-kill-a-witch-a-guide-for-the-patriarchy-by-claire-mitchell-and-zoe-venditozzi/) — *Terence Eden’s Blog* `04-17`
+- [Pluralistic: Tiktokification shall set us free (17 Apr 2026)](https://pluralistic.net/2026/04/17/for-youze/) — *Pluralistic: Daily links from Cory Doctorow* `04-17`
 - [datasette 1.0a28](https://simonwillison.net/2026/Apr/17/datasette/#atom-everything) — *Simon Willison's Weblog* `04-17`
 - [Does your DSL little language really need operator precedence?](https://utcc.utoronto.ca/~cks/space/blog/programming/LittleLanguagesVsOpPrecedence) — *Chris's Wiki :: blog* `04-17`
 - [App Store Reviews Are Busted](https://blog.terrygodier.com/2026/04/13/app-store-reviews-are-busted.html) — *Daring Fireball* `04-17`
-- [Freecash Was More Like Scamcash](https://techcrunch.com/2026/04/14/how-the-rewards-app-freecash-scammed-its-way-to-the-top-of-the-app-stores/) — *Daring Fireball* `04-17`
-- [Here's What Agentic AI Can Do With Have I Been Pwned's APIs](https://www.troyhunt.com/heres-what-agentic-ai-can-do-with-have-i-been-pwneds-apis/) — *Troy Hunt* `04-16`
 <!--BLOG_RADAR:end-->
 
 ---
