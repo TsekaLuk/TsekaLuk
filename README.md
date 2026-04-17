@@ -208,11 +208,11 @@ Last Updated: Friday, April 17th, 2026, 3:24:53 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [datasette 1.0a28](https://simonwillison.net/2026/Apr/17/datasette/#atom-everything) — *Simon Willison's Weblog* `04-17`
 - [Does your DSL little language really need operator precedence?](https://utcc.utoronto.ca/~cks/space/blog/programming/LittleLanguagesVsOpPrecedence) — *Chris's Wiki :: blog* `04-17`
 - [App Store Reviews Are Busted](https://blog.terrygodier.com/2026/04/13/app-store-reviews-are-busted.html) — *Daring Fireball* `04-17`
 - [Freecash Was More Like Scamcash](https://techcrunch.com/2026/04/14/how-the-rewards-app-freecash-scammed-its-way-to-the-top-of-the-app-stores/) — *Daring Fireball* `04-17`
 - [Here's What Agentic AI Can Do With Have I Been Pwned's APIs](https://www.troyhunt.com/heres-what-agentic-ai-can-do-with-have-i-been-pwneds-apis/) — *Troy Hunt* `04-16`
-- [Colliding With Reality, Indeed](https://www.nytimes.com/2026/04/15/us/politics/trump-iran-war.html?unlocked_article_code=1.bVA.EB30.mygpleorcQhg&smid=url-share) — *Daring Fireball* `04-16`
 <!--BLOG_RADAR:end-->
 
 ---

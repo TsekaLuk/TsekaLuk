@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 17 Apr 2026 03:28:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 07:59:38 +0000</lastBuildDate>
+    <item>
+      <title>datasette 1.0a28</title>
+      <link>https://simonwillison.net/2026/Apr/17/datasette/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/17/datasette/#atom-everything</guid>
+      <pubDate>Fri, 17 Apr 2026 04:01:56 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Does your DSL little language really need operator precedence?</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/programming/LittleLanguagesVsOpPrecedence</link>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://www.wheresyoured.at/hatersguide-openai/</guid>
       <pubDate>Fri, 10 Apr 2026 16:57:30 +0000</pubDate>
       <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>Ed Bindels’s Apple Museum in Utrecht, Netherlands</title>
-      <link>https://applemuseum.nl/</link>
-      <guid isPermaLink="true">https://applemuseum.nl/</guid>
-      <pubDate>Fri, 10 Apr 2026 16:35:03 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
