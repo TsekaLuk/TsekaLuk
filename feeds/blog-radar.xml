@@ -4,7 +4,63 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 16 Apr 2026 19:25:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 03:28:59 +0000</lastBuildDate>
+    <item>
+      <title>Does your DSL little language really need operator precedence?</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/programming/LittleLanguagesVsOpPrecedence</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/programming/LittleLanguagesVsOpPrecedence</guid>
+      <pubDate>Fri, 17 Apr 2026 02:36:02 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>App Store Reviews Are Busted</title>
+      <link>https://blog.terrygodier.com/2026/04/13/app-store-reviews-are-busted.html</link>
+      <guid isPermaLink="true">https://blog.terrygodier.com/2026/04/13/app-store-reviews-are-busted.html</guid>
+      <pubDate>Fri, 17 Apr 2026 01:00:26 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Freecash Was More Like Scamcash</title>
+      <link>https://techcrunch.com/2026/04/14/how-the-rewards-app-freecash-scammed-its-way-to-the-top-of-the-app-stores/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/04/14/how-the-rewards-app-freecash-scammed-its-way-to-the-top-of-the-app-stores/</guid>
+      <pubDate>Fri, 17 Apr 2026 00:10:09 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Here's What Agentic AI Can Do With Have I Been Pwned's APIs</title>
+      <link>https://www.troyhunt.com/heres-what-agentic-ai-can-do-with-have-i-been-pwneds-apis/</link>
+      <guid isPermaLink="true">https://www.troyhunt.com/heres-what-agentic-ai-can-do-with-have-i-been-pwneds-apis/</guid>
+      <pubDate>Thu, 16 Apr 2026 23:09:24 +0000</pubDate>
+      <description>Troy Hunt</description>
+    </item>
+    <item>
+      <title>Colliding With Reality, Indeed</title>
+      <link>https://www.nytimes.com/2026/04/15/us/politics/trump-iran-war.html?unlocked_article_code=1.bVA.EB30.mygpleorcQhg&amp;smid=url-share</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/04/15/us/politics/trump-iran-war.html?unlocked_article_code=1.bVA.EB30.mygpleorcQhg&amp;smid=url-share</guid>
+      <pubDate>Thu, 16 Apr 2026 20:39:05 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>llm-anthropic 0.25</title>
+      <link>https://simonwillison.net/2026/Apr/16/llm-anthropic/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/16/llm-anthropic/#atom-everything</guid>
+      <pubDate>Thu, 16 Apr 2026 20:37:12 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>How to Format 10-Digit Phone Numbers</title>
+      <link>https://www.threads.com/@apstylebook/post/DXKtXVXEh7T</link>
+      <guid isPermaLink="true">https://www.threads.com/@apstylebook/post/DXKtXVXEh7T</guid>
+      <pubDate>Thu, 16 Apr 2026 20:09:07 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Chance Miller: ‘Netflix Ruined Its Apple TV App by Switching to a Custom Video Player’</title>
+      <link>https://9to5mac.com/2026/04/15/netflix-ruined-its-apple-tv-app-by-switching-to-a-custom-video-player/</link>
+      <guid isPermaLink="true">https://9to5mac.com/2026/04/15/netflix-ruined-its-apple-tv-app-by-switching-to-a-custom-video-player/</guid>
+      <pubDate>Thu, 16 Apr 2026 19:27:00 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Apple Pay Express Transit Mode, When Used With a Visa Card, Is Vulnerable to Scam Tap-to-Pay Readers</title>
       <link>https://www.macrumors.com/2026/04/15/apple-pay-visa-transit-exploit/</link>
@@ -788,62 +844,6 @@
       <guid isPermaLink="true">https://applemuseum.nl/</guid>
       <pubDate>Fri, 10 Apr 2026 16:35:03 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>OpenAI is nothing without its people</title>
-      <link>https://geohot.github.io//blog/jekyll/update/2026/04/11/openai-people.html</link>
-      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/04/11/openai-people.html</guid>
-      <pubDate>Fri, 10 Apr 2026 16:00:00 +0000</pubDate>
-      <description>the singularity is nearer</description>
-    </item>
-    <item>
-      <title>ChatGPT voice mode is a weaker model</title>
-      <link>https://simonwillison.net/2026/Apr/10/voice-mode-is-weaker/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/10/voice-mode-is-weaker/#atom-everything</guid>
-      <pubDate>Fri, 10 Apr 2026 15:56:02 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Distribution of digits in fractions</title>
-      <link>https://www.johndcook.com/blog/2026/04/10/fraction-digits/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/04/10/fraction-digits/</guid>
-      <pubDate>Fri, 10 Apr 2026 14:29:49 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>How do you add or remove a handle from an active Wait­For­Multiple­Objects?, part 2</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260410-00/?p=112223</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260410-00/?p=112223</guid>
-      <pubDate>Fri, 10 Apr 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>[RSS Club] Why do you use RSS rather than Atom?</title>
-      <link>https://shkspr.mobi/blog/2026/04/rss-club-why-do-you-use-rss-rather-than-atom/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/rss-club-why-do-you-use-rss-rather-than-atom/</guid>
-      <pubDate>Fri, 10 Apr 2026 11:34:36 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Package Registries and Pagination</title>
-      <link>https://nesbitt.io/2026/04/10/package-registries-and-pagination.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/04/10/package-registries-and-pagination.html</guid>
-      <pubDate>Fri, 10 Apr 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Pluralistic: Canny Valley and Creative Commons (10 Apr 2026)</title>
-      <link>https://pluralistic.net/2026/04/10/canny-valley/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/04/10/canny-valley/</guid>
-      <pubDate>Fri, 10 Apr 2026 09:57:16 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>The Solitaire Shuffle</title>
-      <link>https://feed.tedium.co/link/15204/17316812/solitaire-card-game-types-history</link>
-      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17316812/solitaire-card-game-types-history</guid>
-      <pubDate>Fri, 10 Apr 2026 03:47:04 +0000</pubDate>
-      <description>Tedium: The Dull Side of the Internet.</description>
     </item>
   </channel>
 </rss>
