@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 17 Apr 2026 13:46:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 19:11:34 +0000</lastBuildDate>
+    <item>
+      <title>Premium: The Hater's Guide to Private Credit</title>
+      <link>https://www.wheresyoured.at/hatersguide-privatecredit/</link>
+      <guid isPermaLink="true">https://www.wheresyoured.at/hatersguide-privatecredit/</guid>
+      <pubDate>Fri, 17 Apr 2026 16:57:30 +0000</pubDate>
+      <description>Ed Zitron's Where's Your Ed At</description>
+    </item>
+    <item>
+      <title>The Mystery of Rennes-le-Château, Part 4: Non-Fiction Meets Fiction</title>
+      <link>https://www.filfre.net/2026/04/the-mystery-of-rennes-le-chateau-part-4-non-fiction-meets-fiction/</link>
+      <guid isPermaLink="true">https://www.filfre.net/2026/04/the-mystery-of-rennes-le-chateau-part-4-non-fiction-meets-fiction/</guid>
+      <pubDate>Fri, 17 Apr 2026 16:12:17 +0000</pubDate>
+      <description>The Digital Antiquarian</description>
+    </item>
     <item>
       <title>Book Review: How To Kill A Witch - A Guide For The Patriarchy by Claire Mitchell and Zoe Venditozzi ★★★⯪☆</title>
       <link>https://shkspr.mobi/blog/2026/04/book-review-how-to-kill-a-witch-a-guide-for-the-patriarchy-by-claire-mitchell-and-zoe-venditozzi/</link>
@@ -83,7 +97,7 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Apple Pay Express Transit Mode, When Used With a Visa Card, Is Vulnerable to Scam Tap-to-Pay Readers</title>
+      <title>Apple Pay Express Mode for Transit, When Used With a Visa Card, Is Vulnerable to Scam Tap-to-Pay Readers</title>
       <link>https://www.macrumors.com/2026/04/15/apple-pay-visa-transit-exploit/</link>
       <guid isPermaLink="true">https://www.macrumors.com/2026/04/15/apple-pay-visa-transit-exploit/</guid>
       <pubDate>Thu, 16 Apr 2026 18:43:44 +0000</pubDate>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://lucumr.pocoo.org/2026/4/11/the-center-has-a-bias/</guid>
       <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
       <description>Armin Ronacher's Thoughts and Writings</description>
-    </item>
-    <item>
-      <title>IrDA</title>
-      <link>https://computer.rip/2026-04-11-IrDA.html</link>
-      <guid isPermaLink="true">https://computer.rip/2026-04-11-IrDA.html</guid>
-      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
-      <description>computers are bad</description>
-    </item>
-    <item>
-      <title>★ Let Us Learn to Show Our Friendship for a Man When He Is Alive and Not After He Is Dead</title>
-      <link>https://daringfireball.net/2026/04/when_he_is_alive_and_not_after_he_is_dead</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/04/when_he_is_alive_and_not_after_he_is_dead</guid>
-      <pubDate>Fri, 10 Apr 2026 21:29:46 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>

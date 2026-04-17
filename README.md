@@ -208,11 +208,11 @@ Last Updated: Saturday, April 18th, 2026, 2:52:51 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Premium: The Hater's Guide to Private Credit](https://www.wheresyoured.at/hatersguide-privatecredit/) — *Ed Zitron's Where's Your Ed At* `04-17`
+- [The Mystery of Rennes-le-Château, Part 4: Non-Fiction Meets Fiction](https://www.filfre.net/2026/04/the-mystery-of-rennes-le-chateau-part-4-non-fiction-meets-fiction/) — *The Digital Antiquarian* `04-17`
 - [Book Review: How To Kill A Witch - A Guide For The Patriarchy by Claire Mitchell and Zoe Venditozzi ★★★⯪☆](https://shkspr.mobi/blog/2026/04/book-review-how-to-kill-a-witch-a-guide-for-the-patriarchy-by-claire-mitchell-and-zoe-venditozzi/) — *Terence Eden’s Blog* `04-17`
 - [Pluralistic: Tiktokification shall set us free (17 Apr 2026)](https://pluralistic.net/2026/04/17/for-youze/) — *Pluralistic: Daily links from Cory Doctorow* `04-17`
 - [datasette 1.0a28](https://simonwillison.net/2026/Apr/17/datasette/#atom-everything) — *Simon Willison's Weblog* `04-17`
-- [Does your DSL little language really need operator precedence?](https://utcc.utoronto.ca/~cks/space/blog/programming/LittleLanguagesVsOpPrecedence) — *Chris's Wiki :: blog* `04-17`
-- [App Store Reviews Are Busted](https://blog.terrygodier.com/2026/04/13/app-store-reviews-are-busted.html) — *Daring Fireball* `04-17`
 <!--BLOG_RADAR:end-->
 
 ---
