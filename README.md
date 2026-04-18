@@ -208,11 +208,11 @@ Last Updated: Saturday, April 18th, 2026, 9:54:27 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Premium: The Hater's Guide to Private Credit](https://www.wheresyoured.at/hatersguide-privatecredit/) — *Ed Zitron's Where's Your Ed At* `04-17`
-- [The Mystery of Rennes-le-Château, Part 4: Non-Fiction Meets Fiction](https://www.filfre.net/2026/04/the-mystery-of-rennes-le-chateau-part-4-non-fiction-meets-fiction/) — *The Digital Antiquarian* `04-17`
-- [Book Review: How To Kill A Witch - A Guide For The Patriarchy by Claire Mitchell and Zoe Venditozzi ★★★⯪☆](https://shkspr.mobi/blog/2026/04/book-review-how-to-kill-a-witch-a-guide-for-the-patriarchy-by-claire-mitchell-and-zoe-venditozzi/) — *Terence Eden’s Blog* `04-17`
-- [Pluralistic: Tiktokification shall set us free (17 Apr 2026)](https://pluralistic.net/2026/04/17/for-youze/) — *Pluralistic: Daily links from Cory Doctorow* `04-17`
-- [datasette 1.0a28](https://simonwillison.net/2026/Apr/17/datasette/#atom-everything) — *Simon Willison's Weblog* `04-17`
+- [We Are All Playing Politics at Work](https://idiallo.com/blog/we-are-playing-politics?src=feed) — *iDiallo.com* `04-18`
+- [4-bit floating point FP4](https://www.johndcook.com/blog/2026/04/17/fp4/) — *John D. Cook* `04-18`
+- [Apple’s Developer Guidelines for Ratings and Review Prompts](https://developer.apple.com/design/human-interface-guidelines/ratings-and-reviews#Best-practices) — *Daring Fireball* `04-18`
+- [Follow-Up Regarding App Store Reviews, Which Are Definitely Busted](https://daringfireball.net/linked/2026/04/16/app-store-reviews-are-busted) — *Daring Fireball* `04-18`
+- [Many anti-AI arguments are conservative arguments](https://seangoedecke.com/many-anti-ai-arguments-are-conservative/) — *seangoedecke.com RSS feed* `04-18`
 <!--BLOG_RADAR:end-->
 
 ---
