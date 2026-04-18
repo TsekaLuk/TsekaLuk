@@ -208,11 +208,11 @@ Last Updated: Sunday, April 19th, 2026, 2:39:14 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [★ ‘A Reading Room on Wheels, a Lover’s Lane, and, After 11 PM, a Flophouse’](https://daringfireball.net/2026/04/kubrick_new_york_subway) — *Daring Fireball* `04-18`
+- [Apple’s Mac Mini Went Viral. Why Can’t You Buy One Right Now? - WSJ](https://www.wsj.com/tech/personal-tech/apple-mac-mini-supply-3e7a7509?st=fKpr4Q) — *Daring Fireball* `04-18`
+- [The electromechanical angle computer inside the B-52 bomber's star tracker](http://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html) — *Ken Shirriff's blog* `04-18`
+- [Gaussian distributed weights for LLMs](https://www.johndcook.com/blog/2026/04/18/qlora/) — *John D. Cook* `04-18`
 - [Pluralistic: Georgia's voting technology blunder (18 Apr 2026)](https://pluralistic.net/2026/04/18/dominion-sucks-actually/) — *Pluralistic: Daily links from Cory Doctorow* `04-18`
-- [Reading List 04/18/2026](https://www.construction-physics.com/p/reading-list-04182026) — *Construction Physics* `04-18`
-- [Hiding the option to leave comments from some visitors to here](https://utcc.utoronto.ca/~cks/space/blog/web/MyHidingCommentLink) — *Chris's Wiki :: blog* `04-18`
-- [Adding a new content type to my blog-to-newsletter tool](https://simonwillison.net/guides/agentic-engineering-patterns/adding-a-new-content-type/#atom-everything) — *Simon Willison's Weblog* `04-18`
-- [We Are All Playing Politics at Work](https://idiallo.com/blog/we-are-playing-politics?src=feed) — *iDiallo.com* `04-18`
 <!--BLOG_RADAR:end-->
 
 ---

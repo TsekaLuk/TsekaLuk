@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 18 Apr 2026 13:17:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 19:01:47 +0000</lastBuildDate>
+    <item>
+      <title>★ ‘A Reading Room on Wheels, a Lover’s Lane, and, After 11 PM, a Flophouse’</title>
+      <link>https://daringfireball.net/2026/04/kubrick_new_york_subway</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/04/kubrick_new_york_subway</guid>
+      <pubDate>Sat, 18 Apr 2026 17:52:56 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Apple’s Mac Mini Went Viral. Why Can’t You Buy One Right Now? - WSJ</title>
+      <link>https://www.wsj.com/tech/personal-tech/apple-mac-mini-supply-3e7a7509?st=fKpr4Q</link>
+      <guid isPermaLink="true">https://www.wsj.com/tech/personal-tech/apple-mac-mini-supply-3e7a7509?st=fKpr4Q</guid>
+      <pubDate>Sat, 18 Apr 2026 16:48:37 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>The electromechanical angle computer inside the B-52 bomber's star tracker</title>
+      <link>http://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html</link>
+      <guid isPermaLink="true">http://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html</guid>
+      <pubDate>Sat, 18 Apr 2026 16:24:00 +0000</pubDate>
+      <description>Ken Shirriff's blog</description>
+    </item>
+    <item>
+      <title>Gaussian distributed weights for LLMs</title>
+      <link>https://www.johndcook.com/blog/2026/04/18/qlora/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/04/18/qlora/</guid>
+      <pubDate>Sat, 18 Apr 2026 14:49:27 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
     <item>
       <title>Pluralistic: Georgia's voting technology blunder (18 Apr 2026)</title>
       <link>https://pluralistic.net/2026/04/18/dominion-sucks-actually/</link>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Apr/12/mlx-audio/#atom-everything</guid>
       <pubDate>Sun, 12 Apr 2026 23:57:53 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Lunar period approximations</title>
-      <link>https://www.johndcook.com/blog/2026/04/12/lunations/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/04/12/lunations/</guid>
-      <pubDate>Sun, 12 Apr 2026 23:42:01 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Zed — A Font Superfamily</title>
-      <link>https://www.typotheque.com/blog/zed-a-sans-for-the-needs-of-21century/?utm_source=df</link>
-      <guid isPermaLink="true">https://www.typotheque.com/blog/zed-a-sans-for-the-needs-of-21century/?utm_source=df</guid>
-      <pubDate>Sun, 12 Apr 2026 22:00:00 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Viktor Orban Loses Election in Hungary, Concedes Defeat, Congratulates Opposition Winners</title>
-      <link>https://www.nytimes.com/2026/04/12/world/europe/hungary-election-orban-magyar.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/04/12/world/europe/hungary-election-orban-magyar.html</guid>
-      <pubDate>Sun, 12 Apr 2026 21:59:00 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>That’s a Skill Issue</title>
-      <link>https://blog.jim-nielsen.com/2026/skill-issue/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/skill-issue/</guid>
-      <pubDate>Sun, 12 Apr 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
     </item>
   </channel>
 </rss>
