@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 18 Apr 2026 03:16:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 07:20:01 +0000</lastBuildDate>
+    <item>
+      <title>Hiding the option to leave comments from some visitors to here</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/web/MyHidingCommentLink</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/web/MyHidingCommentLink</guid>
+      <pubDate>Sat, 18 Apr 2026 03:26:21 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>Adding a new content type to my blog-to-newsletter tool</title>
+      <link>https://simonwillison.net/guides/agentic-engineering-patterns/adding-a-new-content-type/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/guides/agentic-engineering-patterns/adding-a-new-content-type/#atom-everything</guid>
+      <pubDate>Sat, 18 Apr 2026 03:15:36 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>We Are All Playing Politics at Work</title>
       <link>https://idiallo.com/blog/we-are-playing-politics?src=feed</link>
@@ -69,6 +83,13 @@
       <description>The Digital Antiquarian</description>
     </item>
     <item>
+      <title>America lost the Mandate of Heaven</title>
+      <link>https://geohot.github.io//blog/jekyll/update/2026/04/18/america-mandate-of-heaven.html</link>
+      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/04/18/america-mandate-of-heaven.html</guid>
+      <pubDate>Fri, 17 Apr 2026 16:00:00 +0000</pubDate>
+      <description>the singularity is nearer</description>
+    </item>
+    <item>
       <title>Forgotten message from the past: LB_INIT­STORAGE</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260417-00/?p=112243</link>
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260417-00/?p=112243</guid>
@@ -116,6 +137,13 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/04/14/how-the-rewards-app-freecash-scammed-its-way-to-the-top-of-the-app-stores/</guid>
       <pubDate>Fri, 17 Apr 2026 00:10:09 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Taking down my site on purpose:</title>
+      <link>https://maurycyz.com/misc/v6day/</link>
+      <guid isPermaLink="true">https://maurycyz.com/misc/v6day/</guid>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
     </item>
     <item>
       <title>Here's What Agentic AI Can Do With Have I Been Pwned's APIs</title>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/04/13/everyones-a-billionaire.html</guid>
       <pubDate>Sun, 12 Apr 2026 16:00:00 +0000</pubDate>
       <description>the singularity is nearer</description>
-    </item>
-    <item>
-      <title>The gap between Eastern and Western Easter</title>
-      <link>https://www.johndcook.com/blog/2026/04/12/orthodox-western-easter/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/04/12/orthodox-western-easter/</guid>
-      <pubDate>Sun, 12 Apr 2026 12:09:13 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Apache 2.4, ETag values, and (HTTP) response compression</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/web/Apache24EtagAndSuffixes</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/web/Apache24EtagAndSuffixes</guid>
-      <pubDate>Sun, 12 Apr 2026 02:25:42 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>Optimism is not a personality flaw</title>
-      <link>https://www.joanwestenberg.com/optimism-is-not-a-personality-flaw/</link>
-      <guid isPermaLink="true">https://www.joanwestenberg.com/optimism-is-not-a-personality-flaw/</guid>
-      <pubDate>Sun, 12 Apr 2026 01:26:10 +0000</pubDate>
-      <description>Westenberg.</description>
-    </item>
-    <item>
-      <title>SQLite 3.53.0</title>
-      <link>https://simonwillison.net/2026/Apr/11/sqlite/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/11/sqlite/#atom-everything</guid>
-      <pubDate>Sat, 11 Apr 2026 19:56:53 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>

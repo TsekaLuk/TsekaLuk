@@ -208,11 +208,11 @@ Last Updated: Saturday, April 18th, 2026, 3:00:34 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Hiding the option to leave comments from some visitors to here](https://utcc.utoronto.ca/~cks/space/blog/web/MyHidingCommentLink) — *Chris's Wiki :: blog* `04-18`
+- [Adding a new content type to my blog-to-newsletter tool](https://simonwillison.net/guides/agentic-engineering-patterns/adding-a-new-content-type/#atom-everything) — *Simon Willison's Weblog* `04-18`
 - [We Are All Playing Politics at Work](https://idiallo.com/blog/we-are-playing-politics?src=feed) — *iDiallo.com* `04-18`
 - [4-bit floating point FP4](https://www.johndcook.com/blog/2026/04/17/fp4/) — *John D. Cook* `04-18`
 - [Apple’s Developer Guidelines for Ratings and Review Prompts](https://developer.apple.com/design/human-interface-guidelines/ratings-and-reviews#Best-practices) — *Daring Fireball* `04-18`
-- [Follow-Up Regarding App Store Reviews, Which Are Definitely Busted](https://daringfireball.net/linked/2026/04/16/app-store-reviews-are-busted) — *Daring Fireball* `04-18`
-- [Many anti-AI arguments are conservative arguments](https://seangoedecke.com/many-anti-ai-arguments-are-conservative/) — *seangoedecke.com RSS feed* `04-18`
 <!--BLOG_RADAR:end-->
 
 ---
