@@ -208,11 +208,11 @@ Last Updated: Saturday, April 18th, 2026, 8:51:34 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Pluralistic: Georgia's voting technology blunder (18 Apr 2026)](https://pluralistic.net/2026/04/18/dominion-sucks-actually/) — *Pluralistic: Daily links from Cory Doctorow* `04-18`
+- [Reading List 04/18/2026](https://www.construction-physics.com/p/reading-list-04182026) — *Construction Physics* `04-18`
 - [Hiding the option to leave comments from some visitors to here](https://utcc.utoronto.ca/~cks/space/blog/web/MyHidingCommentLink) — *Chris's Wiki :: blog* `04-18`
 - [Adding a new content type to my blog-to-newsletter tool](https://simonwillison.net/guides/agentic-engineering-patterns/adding-a-new-content-type/#atom-everything) — *Simon Willison's Weblog* `04-18`
 - [We Are All Playing Politics at Work](https://idiallo.com/blog/we-are-playing-politics?src=feed) — *iDiallo.com* `04-18`
-- [4-bit floating point FP4](https://www.johndcook.com/blog/2026/04/17/fp4/) — *John D. Cook* `04-18`
-- [Apple’s Developer Guidelines for Ratings and Review Prompts](https://developer.apple.com/design/human-interface-guidelines/ratings-and-reviews#Best-practices) — *Daring Fireball* `04-18`
 <!--BLOG_RADAR:end-->
 
 ---

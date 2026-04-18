@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 18 Apr 2026 07:20:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 13:17:10 +0000</lastBuildDate>
+    <item>
+      <title>Pluralistic: Georgia's voting technology blunder (18 Apr 2026)</title>
+      <link>https://pluralistic.net/2026/04/18/dominion-sucks-actually/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/04/18/dominion-sucks-actually/</guid>
+      <pubDate>Sat, 18 Apr 2026 13:00:44 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Reading List 04/18/2026</title>
+      <link>https://www.construction-physics.com/p/reading-list-04182026</link>
+      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-04182026</guid>
+      <pubDate>Sat, 18 Apr 2026 12:00:53 +0000</pubDate>
+      <description>Construction Physics</description>
+    </item>
     <item>
       <title>Hiding the option to leave comments from some visitors to here</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/web/MyHidingCommentLink</link>
@@ -86,6 +100,13 @@
       <title>America lost the Mandate of Heaven</title>
       <link>https://geohot.github.io//blog/jekyll/update/2026/04/18/america-mandate-of-heaven.html</link>
       <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/04/18/america-mandate-of-heaven.html</guid>
+      <pubDate>Fri, 17 Apr 2026 16:00:00 +0000</pubDate>
+      <description>the singularity is nearer</description>
+    </item>
+    <item>
+      <title>Five Simple Steps to Fix America</title>
+      <link>https://geohot.github.io//blog/jekyll/update/2026/04/18/five-simple-steps.html</link>
+      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/04/18/five-simple-steps.html</guid>
       <pubDate>Fri, 17 Apr 2026 16:00:00 +0000</pubDate>
       <description>the singularity is nearer</description>
     </item>
@@ -716,7 +737,7 @@
       <title>Exploring the new `servo` crate</title>
       <link>https://simonwillison.net/2026/Apr/13/servo-crate-exploration/#atom-everything</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Apr/13/servo-crate-exploration/#atom-everything</guid>
-      <pubDate>Mon, 13 Apr 2026 15:04:00 +0000</pubDate>
+      <pubDate>Mon, 13 Apr 2026 15:19:00 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/skill-issue/</guid>
       <pubDate>Sun, 12 Apr 2026 19:00:00 +0000</pubDate>
       <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
-      <title>Golden Tickets</title>
-      <link>https://www.presentandcorrect.com/blogs/blog/golden-tickets</link>
-      <guid isPermaLink="true">https://www.presentandcorrect.com/blogs/blog/golden-tickets</guid>
-      <pubDate>Sun, 12 Apr 2026 17:39:26 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Your AWS Certification Makes You an AWS Salesman</title>
-      <link>https://idiallo.com/byte-size/we-are-aws-salesmen?src=feed</link>
-      <guid isPermaLink="true">https://idiallo.com/byte-size/we-are-aws-salesmen?src=feed</guid>
-      <pubDate>Sun, 12 Apr 2026 17:25:33 +0000</pubDate>
-      <description>iDiallo.com</description>
-    </item>
-    <item>
-      <title>The ‘Everyone’s a Billionaire’ act</title>
-      <link>https://geohot.github.io//blog/jekyll/update/2026/04/13/everyones-a-billionaire.html</link>
-      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/04/13/everyones-a-billionaire.html</guid>
-      <pubDate>Sun, 12 Apr 2026 16:00:00 +0000</pubDate>
-      <description>the singularity is nearer</description>
     </item>
   </channel>
 </rss>
