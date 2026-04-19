@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 19 Apr 2026 13:17:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 19:01:53 +0000</lastBuildDate>
+    <item>
+      <title>Jessica Chastain Says Apple TV Will Finally Release ‘The Savant’</title>
+      <link>https://variety.com/2026/tv/columns/jessica-chastain-apple-tv-finally-release-the-savant-after-postponement-charlie-kirk-assassination-1236725384/</link>
+      <guid isPermaLink="true">https://variety.com/2026/tv/columns/jessica-chastain-apple-tv-finally-release-the-savant-after-postponement-charlie-kirk-assassination-1236725384/</guid>
+      <pubDate>Sun, 19 Apr 2026 18:51:43 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>WorkOS FGA: The Authorization Layer for AI Agents</title>
+      <link>https://workos.com/blog/agents-need-authorization-not-just-authentication?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026</link>
+      <guid isPermaLink="true">https://workos.com/blog/agents-need-authorization-not-just-authentication?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026</guid>
+      <pubDate>Sun, 19 Apr 2026 17:37:01 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Reprojecting Dual Fisheye Videos to Equirectangular (LG 360)</title>
       <link>https://shkspr.mobi/blog/2026/04/reprojecting-dual-fisheye-videos-to-equirectangular-lg-360/</link>
@@ -762,13 +776,6 @@
       <description>Entropic Thoughts</description>
     </item>
     <item>
-      <title>[Sponsor] WorkOS FGA: The Authorization Layer for AI Agents</title>
-      <link>https://workos.com/blog/agents-need-authorization-not-just-authentication?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026</link>
-      <guid isPermaLink="true">https://workos.com/blog/agents-need-authorization-not-just-authentication?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026</guid>
-      <pubDate>Mon, 13 Apr 2026 21:18:07 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
       <title>Steve Yegge</title>
       <link>https://simonwillison.net/2026/Apr/13/steve-yegge/#atom-everything</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Apr/13/steve-yegge/#atom-everything</guid>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://idiallo.com/blog/you-paid-for-it-you-should-be-comfortable-in-it?src=feed</guid>
       <pubDate>Mon, 13 Apr 2026 12:00:00 +0000</pubDate>
       <description>iDiallo.com</description>
-    </item>
-    <item>
-      <title>Android now stops you sharing your location in photos</title>
-      <link>https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/</guid>
-      <pubDate>Mon, 13 Apr 2026 11:34:48 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
   </channel>
 </rss>

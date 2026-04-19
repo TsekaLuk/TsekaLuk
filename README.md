@@ -208,11 +208,11 @@ Last Updated: Monday, April 20th, 2026, 2:40:16 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Jessica Chastain Says Apple TV Will Finally Release ‘The Savant’](https://variety.com/2026/tv/columns/jessica-chastain-apple-tv-finally-release-the-savant-after-postponement-charlie-kirk-assassination-1236725384/) — *Daring Fireball* `04-19`
+- [WorkOS FGA: The Authorization Layer for AI Agents](https://workos.com/blog/agents-need-authorization-not-just-authentication?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q22026) — *Daring Fireball* `04-19`
 - [Reprojecting Dual Fisheye Videos to Equirectangular (LG 360)](https://shkspr.mobi/blog/2026/04/reprojecting-dual-fisheye-videos-to-equirectangular-lg-360/) — *Terence Eden’s Blog* `04-19`
 - [Wander Console 0.5.0](https://susam.net/code/news/wander/0.5.0.html) — *Susam Pal* `04-19`
 - [Changes in the system prompt between Claude Opus 4.6 and 4.7](https://simonwillison.net/2026/Apr/18/opus-system-prompt/#atom-everything) — *Simon Willison's Weblog* `04-18`
-- [Tiny Go and Rust programs appear to start equally fast (on some machines)](https://utcc.utoronto.ca/~cks/space/blog/programming/GoVsRustStartupDelays) — *Chris's Wiki :: blog* `04-18`
-- [A Taxing Discussion](https://feed.tedium.co/link/15204/17321557/tax-forms-history-irs) — *Tedium: The Dull Side of the Internet.* `04-18`
 <!--BLOG_RADAR:end-->
 
 ---
