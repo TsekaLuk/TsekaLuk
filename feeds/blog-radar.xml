@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 18 Apr 2026 19:01:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 03:35:50 +0000</lastBuildDate>
+    <item>
+      <title>Changes in the system prompt between Claude Opus 4.6 and 4.7</title>
+      <link>https://simonwillison.net/2026/Apr/18/opus-system-prompt/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/18/opus-system-prompt/#atom-everything</guid>
+      <pubDate>Sat, 18 Apr 2026 23:59:40 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Tiny Go and Rust programs appear to start equally fast (on some machines)</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/programming/GoVsRustStartupDelays</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/programming/GoVsRustStartupDelays</guid>
+      <pubDate>Sat, 18 Apr 2026 21:30:11 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>A Taxing Discussion</title>
+      <link>https://feed.tedium.co/link/15204/17321557/tax-forms-history-irs</link>
+      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17321557/tax-forms-history-irs</guid>
+      <pubDate>Sat, 18 Apr 2026 19:11:40 +0000</pubDate>
+      <description>Tedium: The Dull Side of the Internet.</description>
+    </item>
     <item>
       <title>★ ‘A Reading Room on Wheels, a Lover’s Lane, and, After 11 PM, a Flophouse’</title>
       <link>https://daringfireball.net/2026/04/kubrick_new_york_subway</link>
@@ -13,7 +34,7 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Apple’s Mac Mini Went Viral. Why Can’t You Buy One Right Now? - WSJ</title>
+      <title>Mac Mini and Mac Studio Supply Shortages</title>
       <link>https://www.wsj.com/tech/personal-tech/apple-mac-mini-supply-3e7a7509?st=fKpr4Q</link>
       <guid isPermaLink="true">https://www.wsj.com/tech/personal-tech/apple-mac-mini-supply-3e7a7509?st=fKpr4Q</guid>
       <pubDate>Sat, 18 Apr 2026 16:48:37 +0000</pubDate>
@@ -39,6 +60,13 @@
       <guid isPermaLink="true">https://pluralistic.net/2026/04/18/dominion-sucks-actually/</guid>
       <pubDate>Sat, 18 Apr 2026 13:00:44 +0000</pubDate>
       <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Claude system prompts as a git timeline</title>
+      <link>https://simonwillison.net/2026/Apr/18/extract-system-prompts/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/18/extract-system-prompts/#atom-everything</guid>
+      <pubDate>Sat, 18 Apr 2026 12:25:00 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
     <item>
       <title>Reading List 04/18/2026</title>
@@ -144,13 +172,6 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260417-00/?p=112243</guid>
       <pubDate>Fri, 17 Apr 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Book Review: How To Kill A Witch - A Guide For The Patriarchy by Claire Mitchell and Zoe Venditozzi ★★★⯪☆</title>
-      <link>https://shkspr.mobi/blog/2026/04/book-review-how-to-kill-a-witch-a-guide-for-the-patriarchy-by-claire-mitchell-and-zoe-venditozzi/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/book-review-how-to-kill-a-witch-a-guide-for-the-patriarchy-by-claire-mitchell-and-zoe-venditozzi/</guid>
-      <pubDate>Fri, 17 Apr 2026 11:34:26 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Pluralistic: Tiktokification shall set us free (17 Apr 2026)</title>
@@ -270,13 +291,6 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/04/16/newton-diameters/</guid>
       <pubDate>Thu, 16 Apr 2026 12:02:13 +0000</pubDate>
       <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>RSS Club for WordPress</title>
-      <link>https://shkspr.mobi/blog/2026/04/rss-club-for-wordpress/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/rss-club-for-wordpress/</guid>
-      <pubDate>Thu, 16 Apr 2026 11:34:10 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>SQLAlchemy 2 In Practice - Chapter 5 - Advanced Many-To-Many Relationships</title>
@@ -459,13 +473,6 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260415-00/?p=112235</guid>
       <pubDate>Wed, 15 Apr 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Why is it so hard to passively stalk my friends' locations?</title>
-      <link>https://shkspr.mobi/blog/2026/04/why-is-it-so-hard-to-passively-stalk-my-friends-locations/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/why-is-it-so-hard-to-passively-stalk-my-friends-locations/</guid>
-      <pubDate>Wed, 15 Apr 2026 11:34:45 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>The Tuesday Test</title>
@@ -788,13 +795,6 @@
       <guid isPermaLink="true">https://idiallo.com/blog/you-paid-for-it-you-should-be-comfortable-in-it?src=feed</guid>
       <pubDate>Mon, 13 Apr 2026 12:00:00 +0000</pubDate>
       <description>iDiallo.com</description>
-    </item>
-    <item>
-      <title>Android now stops you sharing your location in photos</title>
-      <link>https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/</guid>
-      <pubDate>Mon, 13 Apr 2026 11:34:48 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Common Package Specification</title>

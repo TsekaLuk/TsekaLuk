@@ -208,11 +208,11 @@ Last Updated: Sunday, April 19th, 2026, 10:07:47 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Changes in the system prompt between Claude Opus 4.6 and 4.7](https://simonwillison.net/2026/Apr/18/opus-system-prompt/#atom-everything) — *Simon Willison's Weblog* `04-18`
+- [Tiny Go and Rust programs appear to start equally fast (on some machines)](https://utcc.utoronto.ca/~cks/space/blog/programming/GoVsRustStartupDelays) — *Chris's Wiki :: blog* `04-18`
+- [A Taxing Discussion](https://feed.tedium.co/link/15204/17321557/tax-forms-history-irs) — *Tedium: The Dull Side of the Internet.* `04-18`
 - [★ ‘A Reading Room on Wheels, a Lover’s Lane, and, After 11 PM, a Flophouse’](https://daringfireball.net/2026/04/kubrick_new_york_subway) — *Daring Fireball* `04-18`
-- [Apple’s Mac Mini Went Viral. Why Can’t You Buy One Right Now? - WSJ](https://www.wsj.com/tech/personal-tech/apple-mac-mini-supply-3e7a7509?st=fKpr4Q) — *Daring Fireball* `04-18`
-- [The electromechanical angle computer inside the B-52 bomber's star tracker](http://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html) — *Ken Shirriff's blog* `04-18`
-- [Gaussian distributed weights for LLMs](https://www.johndcook.com/blog/2026/04/18/qlora/) — *John D. Cook* `04-18`
-- [Pluralistic: Georgia's voting technology blunder (18 Apr 2026)](https://pluralistic.net/2026/04/18/dominion-sucks-actually/) — *Pluralistic: Daily links from Cory Doctorow* `04-18`
+- [Mac Mini and Mac Studio Supply Shortages](https://www.wsj.com/tech/personal-tech/apple-mac-mini-supply-3e7a7509?st=fKpr4Q) — *Daring Fireball* `04-18`
 <!--BLOG_RADAR:end-->
 
 ---
