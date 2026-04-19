@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 19 Apr 2026 07:40:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 13:17:28 +0000</lastBuildDate>
+    <item>
+      <title>Reprojecting Dual Fisheye Videos to Equirectangular (LG 360)</title>
+      <link>https://shkspr.mobi/blog/2026/04/reprojecting-dual-fisheye-videos-to-equirectangular-lg-360/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/reprojecting-dual-fisheye-videos-to-equirectangular-lg-360/</guid>
+      <pubDate>Sun, 19 Apr 2026 11:34:32 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
     <item>
       <title>Wander Console 0.5.0</title>
       <link>https://susam.net/code/news/wander/0.5.0.html</link>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/</guid>
       <pubDate>Mon, 13 Apr 2026 11:34:48 +0000</pubDate>
       <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Common Package Specification</title>
-      <link>https://nesbitt.io/2026/04/13/common-package-specification.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/04/13/common-package-specification.html</guid>
-      <pubDate>Mon, 13 Apr 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
     </item>
   </channel>
 </rss>

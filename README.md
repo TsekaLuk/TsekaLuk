@@ -208,11 +208,11 @@ Last Updated: Sunday, April 19th, 2026, 8:51:10 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Reprojecting Dual Fisheye Videos to Equirectangular (LG 360)](https://shkspr.mobi/blog/2026/04/reprojecting-dual-fisheye-videos-to-equirectangular-lg-360/) — *Terence Eden’s Blog* `04-19`
 - [Wander Console 0.5.0](https://susam.net/code/news/wander/0.5.0.html) — *Susam Pal* `04-19`
 - [Changes in the system prompt between Claude Opus 4.6 and 4.7](https://simonwillison.net/2026/Apr/18/opus-system-prompt/#atom-everything) — *Simon Willison's Weblog* `04-18`
 - [Tiny Go and Rust programs appear to start equally fast (on some machines)](https://utcc.utoronto.ca/~cks/space/blog/programming/GoVsRustStartupDelays) — *Chris's Wiki :: blog* `04-18`
 - [A Taxing Discussion](https://feed.tedium.co/link/15204/17321557/tax-forms-history-irs) — *Tedium: The Dull Side of the Internet.* `04-18`
-- [★ ‘A Reading Room on Wheels, a Lover’s Lane, and, After 11 PM, a Flophouse’](https://daringfireball.net/2026/04/kubrick_new_york_subway) — *Daring Fireball* `04-18`
 <!--BLOG_RADAR:end-->
 
 ---
