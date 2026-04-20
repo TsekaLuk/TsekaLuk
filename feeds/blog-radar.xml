@@ -4,7 +4,63 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 19 Apr 2026 19:01:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 03:37:44 +0000</lastBuildDate>
+    <item>
+      <title>Ignoring missing TLS "Client Authentication" usage in practice</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/tech/TLSIgnoringMissingClientAuth</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/tech/TLSIgnoringMissingClientAuth</guid>
+      <pubDate>Mon, 20 Apr 2026 03:26:49 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>SQL functions in Google Sheets to fetch data from Datasette</title>
+      <link>https://simonwillison.net/2026/Apr/20/datasette-sql/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/20/datasette-sql/#atom-everything</guid>
+      <pubDate>Mon, 20 Apr 2026 02:33:58 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>How we lost the living Now</title>
+      <link>https://www.joanwestenberg.com/how-we-lost-the-living-now/</link>
+      <guid isPermaLink="true">https://www.joanwestenberg.com/how-we-lost-the-living-now/</guid>
+      <pubDate>Mon, 20 Apr 2026 01:01:22 +0000</pubDate>
+      <description>Westenberg.</description>
+    </item>
+    <item>
+      <title>Claude Token Counter, now with model comparisons</title>
+      <link>https://simonwillison.net/2026/Apr/20/claude-token-counts/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/20/claude-token-counts/#atom-everything</guid>
+      <pubDate>Mon, 20 Apr 2026 00:50:45 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Headless everything for personal AI</title>
+      <link>https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything</guid>
+      <pubDate>Sun, 19 Apr 2026 21:46:38 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Hitachi Ltd, Part II</title>
+      <link>https://www.abortretry.fail/p/hitachi-ltd-part-ii</link>
+      <guid isPermaLink="true">https://www.abortretry.fail/p/hitachi-ltd-part-ii</guid>
+      <pubDate>Sun, 19 Apr 2026 20:36:46 +0000</pubDate>
+      <description>Abort Retry Fail</description>
+    </item>
+    <item>
+      <title>Hook It Up to the Machine</title>
+      <link>https://blog.jim-nielsen.com/2026/hook-it-up-to-the-machine/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/hook-it-up-to-the-machine/</guid>
+      <pubDate>Sun, 19 Apr 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
+    </item>
+    <item>
+      <title>Big tech clouds worden niet veiliger met stapels papier</title>
+      <link>https://berthub.eu/articles/posts/big-tech-clouds-niet-veiliger-met-papier/</link>
+      <guid isPermaLink="true">https://berthub.eu/articles/posts/big-tech-clouds-niet-veiliger-met-papier/</guid>
+      <pubDate>Sun, 19 Apr 2026 19:00:00 +0000</pubDate>
+      <description>Bert Hubert's writings</description>
+    </item>
     <item>
       <title>Jessica Chastain Says Apple TV Will Finally Release ‘The Savant’</title>
       <link>https://variety.com/2026/tv/columns/jessica-chastain-apple-tv-finally-release-the-savant-after-postponement-charlie-kirk-assassination-1236725384/</link>
@@ -32,6 +88,13 @@
       <guid isPermaLink="true">https://susam.net/code/news/wander/0.5.0.html</guid>
       <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
       <description>Susam Pal</description>
+    </item>
+    <item>
+      <title>Figma's woes compound with Claude Design</title>
+      <link>https://martinalderson.com/posts/figmas-woes-compound-with-claude-design/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
+      <guid isPermaLink="true">https://martinalderson.com/posts/figmas-woes-compound-with-claude-design/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Martin Alderson</description>
     </item>
     <item>
       <title>Changes in the system prompt between Claude Opus 4.6 and 4.7</title>
@@ -781,69 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Apr/13/steve-yegge/#atom-everything</guid>
       <pubDate>Mon, 13 Apr 2026 20:59:00 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Tahoe Nitpick of the Day: ‘Reduce Transparency’ Makes Layers Harder to See, Not Easier</title>
-      <link>https://mastodon.social/@tuomas_h/116397694769738857</link>
-      <guid isPermaLink="true">https://mastodon.social/@tuomas_h/116397694769738857</guid>
-      <pubDate>Mon, 13 Apr 2026 20:56:15 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>John Martellaro, RIP</title>
-      <link>https://geektells.com/john-martellaro-remembrance/</link>
-      <guid isPermaLink="true">https://geektells.com/john-martellaro-remembrance/</guid>
-      <pubDate>Mon, 13 Apr 2026 19:49:32 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Marcin Wichary Visits the Large Scale Systems Museum</title>
-      <link>https://flickr.com/photos/mwichary/albums/72177720332956990/</link>
-      <guid isPermaLink="true">https://flickr.com/photos/mwichary/albums/72177720332956990/</guid>
-      <pubDate>Mon, 13 Apr 2026 19:09:13 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>MacOS Tip: Enable the Zoom ‘Peek’ Gesture</title>
-      <link>https://unsung.aresluna.org/testing-tip-enable-the-zoom-peek-gesture/</link>
-      <guid isPermaLink="true">https://unsung.aresluna.org/testing-tip-enable-the-zoom-peek-gesture/</guid>
-      <pubDate>Mon, 13 Apr 2026 17:43:16 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>FT: ‘Meta Builds AI Version of Mark Zuckerberg to Interact With Staff’</title>
-      <link>https://www.ft.com/content/02107c23-6c7a-4c19-b8e2-b45f4bb9ce5f</link>
-      <guid isPermaLink="true">https://www.ft.com/content/02107c23-6c7a-4c19-b8e2-b45f4bb9ce5f</guid>
-      <pubDate>Mon, 13 Apr 2026 16:56:46 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Exploring the new `servo` crate</title>
-      <link>https://simonwillison.net/2026/Apr/13/servo-crate-exploration/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/13/servo-crate-exploration/#atom-everything</guid>
-      <pubDate>Mon, 13 Apr 2026 15:19:00 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Mathematical minimalism</title>
-      <link>https://www.johndcook.com/blog/2026/04/13/the-smallest-math-library/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/04/13/the-smallest-math-library/</guid>
-      <pubDate>Mon, 13 Apr 2026 14:33:16 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Finding a duplicated item in an array of N integers in the range 1 to N − 1</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260413-00/?p=112227</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260413-00/?p=112227</guid>
-      <pubDate>Mon, 13 Apr 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>You paid for it, you should be comfortable in it</title>
-      <link>https://idiallo.com/blog/you-paid-for-it-you-should-be-comfortable-in-it?src=feed</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/you-paid-for-it-you-should-be-comfortable-in-it?src=feed</guid>
-      <pubDate>Mon, 13 Apr 2026 12:00:00 +0000</pubDate>
-      <description>iDiallo.com</description>
     </item>
   </channel>
 </rss>

@@ -208,11 +208,11 @@ Last Updated: Monday, April 20th, 2026, 10:08:27 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Jessica Chastain Says Apple TV Will Finally Release ‘The Savant’](https://variety.com/2026/tv/columns/jessica-chastain-apple-tv-finally-release-the-savant-after-postponement-charlie-kirk-assassination-1236725384/) — *Daring Fireball* `04-19`
-- [WorkOS FGA: The Authorization Layer for AI Agents](https://workos.com/blog/agents-need-authorization-not-just-authentication?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q22026) — *Daring Fireball* `04-19`
-- [Reprojecting Dual Fisheye Videos to Equirectangular (LG 360)](https://shkspr.mobi/blog/2026/04/reprojecting-dual-fisheye-videos-to-equirectangular-lg-360/) — *Terence Eden’s Blog* `04-19`
-- [Wander Console 0.5.0](https://susam.net/code/news/wander/0.5.0.html) — *Susam Pal* `04-19`
-- [Changes in the system prompt between Claude Opus 4.6 and 4.7](https://simonwillison.net/2026/Apr/18/opus-system-prompt/#atom-everything) — *Simon Willison's Weblog* `04-18`
+- [Ignoring missing TLS "Client Authentication" usage in practice](https://utcc.utoronto.ca/~cks/space/blog/tech/TLSIgnoringMissingClientAuth) — *Chris's Wiki :: blog* `04-20`
+- [SQL functions in Google Sheets to fetch data from Datasette](https://simonwillison.net/2026/Apr/20/datasette-sql/#atom-everything) — *Simon Willison's Weblog* `04-20`
+- [How we lost the living Now](https://www.joanwestenberg.com/how-we-lost-the-living-now/) — *Westenberg.* `04-20`
+- [Claude Token Counter, now with model comparisons](https://simonwillison.net/2026/Apr/20/claude-token-counts/#atom-everything) — *Simon Willison's Weblog* `04-20`
+- [Headless everything for personal AI](https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything) — *Simon Willison's Weblog* `04-19`
 <!--BLOG_RADAR:end-->
 
 ---
