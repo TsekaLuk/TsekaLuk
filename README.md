@@ -212,7 +212,7 @@ Last Updated: Monday, April 20th, 2026, 3:57:55 PM
 - [SQL functions in Google Sheets to fetch data from Datasette](https://simonwillison.net/2026/Apr/20/datasette-sql/#atom-everything) — *Simon Willison's Weblog* `04-20`
 - [How we lost the living Now](https://www.joanwestenberg.com/how-we-lost-the-living-now/) — *Westenberg.* `04-20`
 - [Claude Token Counter, now with model comparisons](https://simonwillison.net/2026/Apr/20/claude-token-counts/#atom-everything) — *Simon Willison's Weblog* `04-20`
-- [Headless everything for personal AI](https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything) — *Simon Willison's Weblog* `04-19`
+- [Discovering Prince, Ten Years Later](https://anildash.com/2026/04/20/prince-ten-years/) — *Anil Dash* `04-20`
 <!--BLOG_RADAR:end-->
 
 ---

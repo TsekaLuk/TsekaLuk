@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 20 Apr 2026 03:37:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 08:21:03 +0000</lastBuildDate>
     <item>
       <title>Ignoring missing TLS "Client Authentication" usage in practice</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/tech/TLSIgnoringMissingClientAuth</link>
@@ -32,6 +32,13 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Apr/20/claude-token-counts/#atom-everything</guid>
       <pubDate>Mon, 20 Apr 2026 00:50:45 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Discovering Prince, Ten Years Later</title>
+      <link>https://anildash.com/2026/04/20/prince-ten-years/</link>
+      <guid isPermaLink="true">https://anildash.com/2026/04/20/prince-ten-years/</guid>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Anil Dash</description>
     </item>
     <item>
       <title>Headless everything for personal AI</title>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://entropicthoughts.com/object-oriented-programming-in-ada</guid>
       <pubDate>Mon, 13 Apr 2026 22:00:00 +0000</pubDate>
       <description>Entropic Thoughts</description>
-    </item>
-    <item>
-      <title>Steve Yegge</title>
-      <link>https://simonwillison.net/2026/Apr/13/steve-yegge/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/13/steve-yegge/#atom-everything</guid>
-      <pubDate>Mon, 13 Apr 2026 20:59:00 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
