@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 20 Apr 2026 08:21:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 14:00:51 +0000</lastBuildDate>
+    <item>
+      <title>More on Newton’s diameter theorem</title>
+      <link>https://www.johndcook.com/blog/2026/04/20/newton-diameter-quintic/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/04/20/newton-diameter-quintic/</guid>
+      <pubDate>Mon, 20 Apr 2026 13:50:33 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Advice from a millionaire</title>
+      <link>https://idiallo.com/blog/advice-from-a-millionaire?src=feed</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/advice-from-a-millionaire?src=feed</guid>
+      <pubDate>Mon, 20 Apr 2026 12:00:00 +0000</pubDate>
+      <description>iDiallo.com</description>
+    </item>
+    <item>
+      <title>Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★</title>
+      <link>https://shkspr.mobi/blog/2026/04/book-review-up-a-scientists-guide-to-the-magic-above-us-by-dr-lucy-rogers/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/book-review-up-a-scientists-guide-to-the-magic-above-us-by-dr-lucy-rogers/</guid>
+      <pubDate>Mon, 20 Apr 2026 11:34:38 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
     <item>
       <title>Ignoring missing TLS "Client Authentication" usage in practice</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/tech/TLSIgnoringMissingClientAuth</link>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://theplaylist.net/steven-soderbergh-says-he-pitched-two-different-james-bond-plans-including-a-twofer-that-would-have-created-an-new-auteur-lane-for-the-franchise-20260409/</guid>
       <pubDate>Tue, 14 Apr 2026 00:30:46 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Apple Frames 4</title>
-      <link>https://www.macstories.net/stories/introducing-apple-frames-4-a-revamped-shortcut-support-for-frame-colors-proportional-scaling-and-the-apple-frames-cli-for-developers/</link>
-      <guid isPermaLink="true">https://www.macstories.net/stories/introducing-apple-frames-4-a-revamped-shortcut-support-for-frame-colors-proportional-scaling-and-the-apple-frames-cli-for-developers/</guid>
-      <pubDate>Mon, 13 Apr 2026 23:55:46 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Memory, They Say, Is the First Thing to Go</title>
-      <link>https://daringfireball.net/2006/09/zoom_using_scroll_wheel</link>
-      <guid isPermaLink="true">https://daringfireball.net/2006/09/zoom_using_scroll_wheel</guid>
-      <pubDate>Mon, 13 Apr 2026 23:46:10 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Object Oriented Programming in Ada</title>
-      <link>https://entropicthoughts.com/object-oriented-programming-in-ada</link>
-      <guid isPermaLink="true">https://entropicthoughts.com/object-oriented-programming-in-ada</guid>
-      <pubDate>Mon, 13 Apr 2026 22:00:00 +0000</pubDate>
-      <description>Entropic Thoughts</description>
     </item>
   </channel>
 </rss>

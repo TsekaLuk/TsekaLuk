@@ -208,11 +208,11 @@ Last Updated: Monday, April 20th, 2026, 9:19:19 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [More on Newton’s diameter theorem](https://www.johndcook.com/blog/2026/04/20/newton-diameter-quintic/) — *John D. Cook* `04-20`
+- [Advice from a millionaire](https://idiallo.com/blog/advice-from-a-millionaire?src=feed) — *iDiallo.com* `04-20`
+- [Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★](https://shkspr.mobi/blog/2026/04/book-review-up-a-scientists-guide-to-the-magic-above-us-by-dr-lucy-rogers/) — *Terence Eden’s Blog* `04-20`
 - [Ignoring missing TLS "Client Authentication" usage in practice](https://utcc.utoronto.ca/~cks/space/blog/tech/TLSIgnoringMissingClientAuth) — *Chris's Wiki :: blog* `04-20`
 - [SQL functions in Google Sheets to fetch data from Datasette](https://simonwillison.net/2026/Apr/20/datasette-sql/#atom-everything) — *Simon Willison's Weblog* `04-20`
-- [How we lost the living Now](https://www.joanwestenberg.com/how-we-lost-the-living-now/) — *Westenberg.* `04-20`
-- [Claude Token Counter, now with model comparisons](https://simonwillison.net/2026/Apr/20/claude-token-counts/#atom-everything) — *Simon Willison's Weblog* `04-20`
-- [Discovering Prince, Ten Years Later](https://anildash.com/2026/04/20/prince-ten-years/) — *Anil Dash* `04-20`
 <!--BLOG_RADAR:end-->
 
 ---
