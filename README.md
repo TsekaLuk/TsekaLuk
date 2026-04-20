@@ -208,11 +208,11 @@ Last Updated: Tuesday, April 21st, 2026, 2:57:21 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Exclusive: Microsoft To Shift GitHub Copilot Users To Token-Based Billing, Tighten Rate Limits](https://www.wheresyoured.at/news-microsoft-to-shift-github-copilot-users-to-token-based-billing-reduce-rate-limits-2/) — *Ed Zitron's Where's Your Ed At* `04-20`
+- [Apple’s Annual Environmental Progress Report](https://www.apple.com/newsroom/2026/04/apple-accelerates-progress-with-highest-ever-recycled-material-in-its-products/) — *Daring Fireball* `04-20`
+- [Pluralistic: Comrade Trump (20 Apr 2026)](https://pluralistic.net/2026/04/20/praxis/) — *Pluralistic: Daily links from Cory Doctorow* `04-20`
+- [How did code handle 24-bit-per-pixel formats when using video cards with bank-switched memory?](https://devblogs.microsoft.com/oldnewthing/20260420-00/?p=112245) — *The Old New Thing* `04-20`
 - [More on Newton’s diameter theorem](https://www.johndcook.com/blog/2026/04/20/newton-diameter-quintic/) — *John D. Cook* `04-20`
-- [Advice from a millionaire](https://idiallo.com/blog/advice-from-a-millionaire?src=feed) — *iDiallo.com* `04-20`
-- [Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★](https://shkspr.mobi/blog/2026/04/book-review-up-a-scientists-guide-to-the-magic-above-us-by-dr-lucy-rogers/) — *Terence Eden’s Blog* `04-20`
-- [Ignoring missing TLS "Client Authentication" usage in practice](https://utcc.utoronto.ca/~cks/space/blog/tech/TLSIgnoringMissingClientAuth) — *Chris's Wiki :: blog* `04-20`
-- [SQL functions in Google Sheets to fetch data from Datasette](https://simonwillison.net/2026/Apr/20/datasette-sql/#atom-everything) — *Simon Willison's Weblog* `04-20`
 <!--BLOG_RADAR:end-->
 
 ---
