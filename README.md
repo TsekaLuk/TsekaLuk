@@ -208,11 +208,11 @@ Last Updated: Tuesday, April 21st, 2026, 9:13:09 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Pluralistic: Quinn Slobodian and Ben Tarnoff's "Muskism: A Guide for the Perplexed" (21 Apr 2026)](https://pluralistic.net/2026/04/21/torment-nexusism/) — *Pluralistic: Daily links from Cory Doctorow* `04-21`
+- [Better TTS on Linux](https://shkspr.mobi/blog/2026/04/better-tts-on-linux/) — *Terence Eden’s Blog* `04-21`
 - [★ Another Day Has Come](https://daringfireball.net/2026/04/another_day_has_come) — *Daring Fireball* `04-21`
 - [A backup MX will get accessed by various sorts of people](https://utcc.utoronto.ca/~cks/space/blog/spam/BackupMXGetsAccessed) — *Chris's Wiki :: blog* `04-21`
-- [DF Paraphernalia: T-Shirts and Hoodies Are Back](https://store.daringfireball.net/) — *Daring Fireball* `04-20`
-- [‘Community Letter From Tim’](https://www.apple.com/community-letter-from-tim/) — *Daring Fireball* `04-20`
-- [Apple: ‘Tim Cook to Become Apple Executive Chairman; John Ternus to Become Apple CEO’](https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/) — *Daring Fireball* `04-20`
+- [Spaced Repetition: Beginner Guide/FAQ](https://entropicthoughts.com/spaced-repetition-beginner-guide-faq) — *Entropic Thoughts* `04-20`
 <!--BLOG_RADAR:end-->
 
 ---

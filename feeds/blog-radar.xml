@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 21 Apr 2026 08:03:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 13:59:48 +0000</lastBuildDate>
+    <item>
+      <title>Pluralistic: Quinn Slobodian and Ben Tarnoff's "Muskism: A Guide for the Perplexed" (21 Apr 2026)</title>
+      <link>https://pluralistic.net/2026/04/21/torment-nexusism/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/04/21/torment-nexusism/</guid>
+      <pubDate>Tue, 21 Apr 2026 13:18:50 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Better TTS on Linux</title>
+      <link>https://shkspr.mobi/blog/2026/04/better-tts-on-linux/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/better-tts-on-linux/</guid>
+      <pubDate>Tue, 21 Apr 2026 11:34:07 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
     <item>
       <title>★ Another Day Has Come</title>
       <link>https://daringfireball.net/2026/04/another_day_has_come</link>
@@ -18,6 +32,13 @@
       <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/spam/BackupMXGetsAccessed</guid>
       <pubDate>Tue, 21 Apr 2026 03:10:09 +0000</pubDate>
       <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>Spaced Repetition: Beginner Guide/FAQ</title>
+      <link>https://entropicthoughts.com/spaced-repetition-beginner-guide-faq</link>
+      <guid isPermaLink="true">https://entropicthoughts.com/spaced-repetition-beginner-guide-faq</guid>
+      <pubDate>Mon, 20 Apr 2026 22:00:00 +0000</pubDate>
+      <description>Entropic Thoughts</description>
     </item>
     <item>
       <title>DF Paraphernalia: T-Shirts and Hoodies Are Back</title>
@@ -822,27 +843,6 @@
       <link>https://www.aboutamazon.com/news/company-news/amazon-globalstar-apple</link>
       <guid isPermaLink="true">https://www.aboutamazon.com/news/company-news/amazon-globalstar-apple</guid>
       <pubDate>Tue, 14 Apr 2026 19:34:29 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>John Calhoun on Steve Lemay</title>
-      <link>https://news.ycombinator.com/item?id=47297653</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=47297653</guid>
-      <pubDate>Tue, 14 Apr 2026 19:26:25 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>I Will Never Respect A Website</title>
-      <link>https://www.wheresyoured.at/i-will-never-respect-a-website/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/i-will-never-respect-a-website/</guid>
-      <pubDate>Tue, 14 Apr 2026 16:22:59 +0000</pubDate>
-      <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>Richard Moss’s 2010 Interview With John Calhoun on the Origins of Glider</title>
-      <link>https://macscene.net/d/4678-interview-john-calhoun-on-the-origins-of-glider-part-1</link>
-      <guid isPermaLink="true">https://macscene.net/d/4678-interview-john-calhoun-on-the-origins-of-glider-part-1</guid>
-      <pubDate>Tue, 14 Apr 2026 16:20:23 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
   </channel>
