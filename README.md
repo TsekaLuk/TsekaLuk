@@ -208,11 +208,11 @@ Last Updated: Wednesday, April 22nd, 2026, 3:04:23 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Pluralistic: Quinn Slobodian and Ben Tarnoff's "Muskism: A Guide for the Perplexed" (21 Apr 2026)](https://pluralistic.net/2026/04/21/torment-nexusism/) — *Pluralistic: Daily links from Cory Doctorow* `04-21`
-- [Better TTS on Linux](https://shkspr.mobi/blog/2026/04/better-tts-on-linux/) — *Terence Eden’s Blog* `04-21`
-- [★ Another Day Has Come](https://daringfireball.net/2026/04/another_day_has_come) — *Daring Fireball* `04-21`
-- [A backup MX will get accessed by various sorts of people](https://utcc.utoronto.ca/~cks/space/blog/spam/BackupMXGetsAccessed) — *Chris's Wiki :: blog* `04-21`
-- [Spaced Repetition: Beginner Guide/FAQ](https://entropicthoughts.com/spaced-repetition-beginner-guide-faq) — *Entropic Thoughts* `04-20`
+- [Writing an LLM from scratch, part 32m -- Interventions: conclusion](https://www.gilesthomas.com/2026/04/llm-from-scratch-32m-interventions-conclusion) — *Giles' blog* `04-21`
+- [Trump on Tim Apple](https://truthsocial.com/@realDonaldTrump/posts/116442276577696798) — *Daring Fireball* `04-21`
+- [People get confused when language implementations break language guarantees](https://buttondown.com/hillelwayne/archive/people-get-confused-when-language-implementations/) — *Computer Things* `04-21`
+- [Quoting Andreas Påhlsson-Notini](https://simonwillison.net/2026/Apr/21/andreas-pahlsson-notini/#atom-everything) — *Simon Willison's Weblog* `04-21`
+- [Four Horsemen of the AIpocalypse](https://www.wheresyoured.at/four-horsemen-of-the-aipocalypse/) — *Ed Zitron's Where's Your Ed At* `04-21`
 <!--BLOG_RADAR:end-->
 
 ---

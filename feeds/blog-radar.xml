@@ -4,7 +4,63 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 21 Apr 2026 13:59:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 19:22:25 +0000</lastBuildDate>
+    <item>
+      <title>Writing an LLM from scratch, part 32m -- Interventions: conclusion</title>
+      <link>https://www.gilesthomas.com/2026/04/llm-from-scratch-32m-interventions-conclusion</link>
+      <guid isPermaLink="true">https://www.gilesthomas.com/2026/04/llm-from-scratch-32m-interventions-conclusion</guid>
+      <pubDate>Tue, 21 Apr 2026 20:00:00 +0000</pubDate>
+      <description>Giles' blog</description>
+    </item>
+    <item>
+      <title>Trump on Tim Apple</title>
+      <link>https://truthsocial.com/@realDonaldTrump/posts/116442276577696798</link>
+      <guid isPermaLink="true">https://truthsocial.com/@realDonaldTrump/posts/116442276577696798</guid>
+      <pubDate>Tue, 21 Apr 2026 19:17:34 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>People get confused when language implementations break language guarantees</title>
+      <link>https://buttondown.com/hillelwayne/archive/people-get-confused-when-language-implementations/</link>
+      <guid isPermaLink="true">https://buttondown.com/hillelwayne/archive/people-get-confused-when-language-implementations/</guid>
+      <pubDate>Tue, 21 Apr 2026 17:40:17 +0000</pubDate>
+      <description>Computer Things</description>
+    </item>
+    <item>
+      <title>Quoting Andreas Påhlsson-Notini</title>
+      <link>https://simonwillison.net/2026/Apr/21/andreas-pahlsson-notini/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/21/andreas-pahlsson-notini/#atom-everything</guid>
+      <pubDate>Tue, 21 Apr 2026 16:39:33 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Four Horsemen of the AIpocalypse</title>
+      <link>https://www.wheresyoured.at/four-horsemen-of-the-aipocalypse/</link>
+      <guid isPermaLink="true">https://www.wheresyoured.at/four-horsemen-of-the-aipocalypse/</guid>
+      <pubDate>Tue, 21 Apr 2026 16:28:59 +0000</pubDate>
+      <description>Ed Zitron's Where's Your Ed At</description>
+    </item>
+    <item>
+      <title>scosman/pelicans_riding_bicycles</title>
+      <link>https://simonwillison.net/2026/Apr/21/scosman/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/21/scosman/#atom-everything</guid>
+      <pubDate>Tue, 21 Apr 2026 15:54:43 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty</title>
+      <link>https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/</link>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/</guid>
+      <pubDate>Tue, 21 Apr 2026 14:53:59 +0000</pubDate>
+      <description>Krebs on Security</description>
+    </item>
+    <item>
+      <title>Sure, xor’ing a register with itself is the idiom for zeroing it out, but why not sub?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260421-00/?p=112247</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260421-00/?p=112247</guid>
+      <pubDate>Tue, 21 Apr 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
     <item>
       <title>Pluralistic: Quinn Slobodian and Ben Tarnoff's "Muskism: A Guide for the Perplexed" (21 Apr 2026)</title>
       <link>https://pluralistic.net/2026/04/21/torment-nexusism/</link>
@@ -67,6 +123,13 @@
       <guid isPermaLink="true">https://www.gilesthomas.com/2026/04/llm-from-scratch-32l-interventions-instruction-fine-tuning-tests</guid>
       <pubDate>Mon, 20 Apr 2026 20:00:00 +0000</pubDate>
       <description>Giles' blog</description>
+    </item>
+    <item>
+      <title>llm-openrouter 0.6</title>
+      <link>https://simonwillison.net/2026/Apr/20/llm-openrouter/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/20/llm-openrouter/#atom-everything</guid>
+      <pubDate>Mon, 20 Apr 2026 18:00:26 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
     <item>
       <title>Exclusive: Microsoft To Shift GitHub Copilot Users To Token-Based Billing, Tighten Rate Limits</title>
@@ -342,18 +405,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Many anti-AI arguments are conservative arguments</title>
-      <link>https://seangoedecke.com/many-anti-ai-arguments-are-conservative/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/many-anti-ai-arguments-are-conservative/</guid>
-      <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
       <title>5x5 Pixel font for tiny screens</title>
       <link>https://maurycyz.com/projects/mcufont/</link>
       <guid isPermaLink="true">https://maurycyz.com/projects/mcufont/</guid>
       <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
       <description>Maurycy's Blog</description>
+    </item>
+    <item>
+      <title>Many anti-AI arguments are conservative arguments</title>
+      <link>https://seangoedecke.com/many-anti-ai-arguments-are-conservative/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/many-anti-ai-arguments-are-conservative/</guid>
+      <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>Join us at PyCon US 2026 in Long Beach - we have new AI and security tracks this year</title>
@@ -781,69 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Apr/14/replace-token-based-csrf/#atom-everything</guid>
       <pubDate>Tue, 14 Apr 2026 23:58:53 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Fraudulent Cryptocurrency App in Mac App Store Stole $9.5 Million From 50-Some Users</title>
-      <link>https://www.web3isgoinggreat.com/?id=fake-ledger-app</link>
-      <guid isPermaLink="true">https://www.web3isgoinggreat.com/?id=fake-ledger-app</guid>
-      <pubDate>Tue, 14 Apr 2026 22:06:18 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Patch Tuesday, April 2026 Edition</title>
-      <link>https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/</link>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/</guid>
-      <pubDate>Tue, 14 Apr 2026 21:47:59 +0000</pubDate>
-      <description>Krebs on Security</description>
-    </item>
-    <item>
-      <title>On the Name of Apple’s Foldable iPhone</title>
-      <link>https://www.macrumors.com/2026/04/07/foldable-iphone-fold-iphone-ultra/</link>
-      <guid isPermaLink="true">https://www.macrumors.com/2026/04/07/foldable-iphone-fold-iphone-ultra/</guid>
-      <pubDate>Tue, 14 Apr 2026 21:46:17 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Trusted access for the next era of cyber defense</title>
-      <link>https://simonwillison.net/2026/Apr/14/trusted-access-openai/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/14/trusted-access-openai/#atom-everything</guid>
-      <pubDate>Tue, 14 Apr 2026 21:23:59 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Speaking of Tips</title>
-      <link>https://www.houstonchronicle.com/politics/texas/article/kristin-tips-out-texas-funeral-22206178.php</link>
-      <guid isPermaLink="true">https://www.houstonchronicle.com/politics/texas/article/kristin-tips-out-texas-funeral-22206178.php</guid>
-      <pubDate>Tue, 14 Apr 2026 21:19:29 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Apple Has Hidden the Pre-Creator-Studio Versions of Keynote, Numbers, and Pages in the Mac App Store</title>
-      <link>https://9to5mac.com/2026/04/13/apple-removes-old-pages-keynote-numbers-apps-for-macos/</link>
-      <guid isPermaLink="true">https://9to5mac.com/2026/04/13/apple-removes-old-pages-keynote-numbers-apps-for-macos/</guid>
-      <pubDate>Tue, 14 Apr 2026 21:07:35 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Google Will Finally Begin Punishing Sites for Back-Button Hijacking in June</title>
-      <link>https://developers.google.com/search/blog/2026/04/back-button-hijacking</link>
-      <guid isPermaLink="true">https://developers.google.com/search/blog/2026/04/back-button-hijacking</guid>
-      <pubDate>Tue, 14 Apr 2026 20:25:18 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Cybersecurity Looks Like Proof of Work Now</title>
-      <link>https://simonwillison.net/2026/Apr/14/cybersecurity-proof-of-work/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/14/cybersecurity-proof-of-work/#atom-everything</guid>
-      <pubDate>Tue, 14 Apr 2026 19:41:48 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Amazon to Acquire Globalstar, Announces Agreement With Apple to Continue Service for iPhone and Apple Watch</title>
-      <link>https://www.aboutamazon.com/news/company-news/amazon-globalstar-apple</link>
-      <guid isPermaLink="true">https://www.aboutamazon.com/news/company-news/amazon-globalstar-apple</guid>
-      <pubDate>Tue, 14 Apr 2026 19:34:29 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
