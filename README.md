@@ -208,11 +208,11 @@ Last Updated: Tuesday, April 21st, 2026, 3:27:00 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [★ Another Day Has Come](https://daringfireball.net/2026/04/another_day_has_come) — *Daring Fireball* `04-21`
 - [A backup MX will get accessed by various sorts of people](https://utcc.utoronto.ca/~cks/space/blog/spam/BackupMXGetsAccessed) — *Chris's Wiki :: blog* `04-21`
 - [DF Paraphernalia: T-Shirts and Hoodies Are Back](https://store.daringfireball.net/) — *Daring Fireball* `04-20`
 - [‘Community Letter From Tim’](https://www.apple.com/community-letter-from-tim/) — *Daring Fireball* `04-20`
 - [Apple: ‘Tim Cook to Become Apple Executive Chairman; John Ternus to Become Apple CEO’](https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/) — *Daring Fireball* `04-20`
-- [Writing an LLM from scratch, part 32l -- Interventions: updated instruction fine-tuning results](https://www.gilesthomas.com/2026/04/llm-from-scratch-32l-interventions-instruction-fine-tuning-tests) — *Giles' blog* `04-20`
 <!--BLOG_RADAR:end-->
 
 ---
