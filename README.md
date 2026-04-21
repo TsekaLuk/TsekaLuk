@@ -208,11 +208,11 @@ Last Updated: Tuesday, April 21st, 2026, 10:04:32 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Exclusive: Microsoft To Shift GitHub Copilot Users To Token-Based Billing, Tighten Rate Limits](https://www.wheresyoured.at/news-microsoft-to-shift-github-copilot-users-to-token-based-billing-reduce-rate-limits-2/) — *Ed Zitron's Where's Your Ed At* `04-20`
-- [Apple’s Annual Environmental Progress Report](https://www.apple.com/newsroom/2026/04/apple-accelerates-progress-with-highest-ever-recycled-material-in-its-products/) — *Daring Fireball* `04-20`
-- [Pluralistic: Comrade Trump (20 Apr 2026)](https://pluralistic.net/2026/04/20/praxis/) — *Pluralistic: Daily links from Cory Doctorow* `04-20`
-- [How did code handle 24-bit-per-pixel formats when using video cards with bank-switched memory?](https://devblogs.microsoft.com/oldnewthing/20260420-00/?p=112245) — *The Old New Thing* `04-20`
-- [More on Newton’s diameter theorem](https://www.johndcook.com/blog/2026/04/20/newton-diameter-quintic/) — *John D. Cook* `04-20`
+- [A backup MX will get accessed by various sorts of people](https://utcc.utoronto.ca/~cks/space/blog/spam/BackupMXGetsAccessed) — *Chris's Wiki :: blog* `04-21`
+- [DF Paraphernalia: T-Shirts and Hoodies Are Back](https://store.daringfireball.net/) — *Daring Fireball* `04-20`
+- [‘Community Letter From Tim’](https://www.apple.com/community-letter-from-tim/) — *Daring Fireball* `04-20`
+- [Apple: ‘Tim Cook to Become Apple Executive Chairman; John Ternus to Become Apple CEO’](https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/) — *Daring Fireball* `04-20`
+- [Writing an LLM from scratch, part 32l -- Interventions: updated instruction fine-tuning results](https://www.gilesthomas.com/2026/04/llm-from-scratch-32l-interventions-instruction-fine-tuning-tests) — *Giles' blog* `04-20`
 <!--BLOG_RADAR:end-->
 
 ---
