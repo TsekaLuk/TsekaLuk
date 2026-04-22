@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 22 Apr 2026 03:28:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 08:00:16 +0000</lastBuildDate>
+    <item>
+      <title>Quoting Bobby Holley</title>
+      <link>https://simonwillison.net/2026/Apr/22/bobby-holley/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/22/bobby-holley/#atom-everything</guid>
+      <pubDate>Wed, 22 Apr 2026 05:40:56 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Changes to GitHub Copilot Individual plans</title>
+      <link>https://simonwillison.net/2026/Apr/22/changes-to-github-copilot/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/22/changes-to-github-copilot/#atom-everything</guid>
+      <pubDate>Wed, 22 Apr 2026 03:30:02 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Some general notes on network booting UEFI machines</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/tech/UEFINetworkBootNotes</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/tech/UEFINetworkBootNotes</guid>
+      <pubDate>Wed, 22 Apr 2026 03:26:18 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
     <item>
       <title>[Sponsor] Rec League</title>
       <link>https://recleague.com/?lyr_campaign=df</link>
@@ -25,6 +46,13 @@
       <guid isPermaLink="true">https://herman.bearblog.dev/the-commodification-of-travel/</guid>
       <pubDate>Wed, 22 Apr 2026 01:28:00 +0000</pubDate>
       <description>Herman's blog</description>
+    </item>
+    <item>
+      <title>Luddites and AI datacenters</title>
+      <link>https://seangoedecke.com/luddites-and-ai-datacenters/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/luddites-and-ai-datacenters/</guid>
+      <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>Weekly Update 500</title>
@@ -368,13 +396,6 @@
       <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/programming/GoVsRustStartupDelays</guid>
       <pubDate>Sat, 18 Apr 2026 21:30:11 +0000</pubDate>
       <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>A Taxing Discussion</title>
-      <link>https://feed.tedium.co/link/15204/17321557/tax-forms-history-irs</link>
-      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17321557/tax-forms-history-irs</guid>
-      <pubDate>Sat, 18 Apr 2026 19:11:40 +0000</pubDate>
-      <description>Tedium: The Dull Side of the Internet.</description>
     </item>
     <item>
       <title>★ ‘A Reading Room on Wheels, a Lover’s Lane, and, After 11 PM, a Flophouse’</title>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/arm-mainboard-for-framework-laptop/</guid>
       <pubDate>Wed, 15 Apr 2026 14:49:00 +0000</pubDate>
       <description>Jeff Geerling</description>
-    </item>
-    <item>
-      <title>Screen Zooming on iOS and iPadOS</title>
-      <link>https://mastodon.social/@stroughtonsmith/116404958539831051</link>
-      <guid isPermaLink="true">https://mastodon.social/@stroughtonsmith/116404958539831051</guid>
-      <pubDate>Wed, 15 Apr 2026 14:34:44 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>What I learned this week - Pretraining parallelisms, Can distillation be stopped, Mythos and the cybersecurity equilibrium, Pipeline RL, On why pretraining runs fails</title>
-      <link>https://www.dwarkesh.com/p/what-i-learned-april-15</link>
-      <guid isPermaLink="true">https://www.dwarkesh.com/p/what-i-learned-april-15</guid>
-      <pubDate>Wed, 15 Apr 2026 14:03:00 +0000</pubDate>
-      <description>Dwarkesh Podcast</description>
-    </item>
-    <item>
-      <title>Why is there a long delay between a thread exiting and the Wait­For­Single­Object returning?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260415-00/?p=112235</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260415-00/?p=112235</guid>
-      <pubDate>Wed, 15 Apr 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
     </item>
   </channel>
 </rss>
