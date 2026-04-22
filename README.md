@@ -208,11 +208,11 @@ Last Updated: Wednesday, April 22nd, 2026, 9:15:18 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [How to Come Up With Great Ideas](https://idiallo.com/blog/how-to-come-up-with-great-ideas?src=feed) — *iDiallo.com* `04-22`
+- [[RSS Club] How do you preserve an RSS feed?](https://shkspr.mobi/blog/2026/04/rss-club-how-do-you-preserve-an-rss-feed/) — *Terence Eden’s Blog* `04-22`
 - [Quoting Bobby Holley](https://simonwillison.net/2026/Apr/22/bobby-holley/#atom-everything) — *Simon Willison's Weblog* `04-22`
+- [The Scapegoat](https://feed.tedium.co/link/15204/17323348/mcclatchy-journalism-ai-scapegoat) — *Tedium: The Dull Side of the Internet.* `04-22`
 - [Changes to GitHub Copilot Individual plans](https://simonwillison.net/2026/Apr/22/changes-to-github-copilot/#atom-everything) — *Simon Willison's Weblog* `04-22`
-- [Some general notes on network booting UEFI machines](https://utcc.utoronto.ca/~cks/space/blog/tech/UEFINetworkBootNotes) — *Chris's Wiki :: blog* `04-22`
-- [[Sponsor] Rec League](https://recleague.com/?lyr_campaign=df) — *Daring Fireball* `04-22`
-- [Is Claude Code going to cost $100/month? Probably not - it's all very confusing](https://simonwillison.net/2026/Apr/22/claude-code-confusion/#atom-everything) — *Simon Willison's Weblog* `04-22`
 <!--BLOG_RADAR:end-->
 
 ---

@@ -4,13 +4,34 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 22 Apr 2026 08:00:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 13:59:42 +0000</lastBuildDate>
+    <item>
+      <title>How to Come Up With Great Ideas</title>
+      <link>https://idiallo.com/blog/how-to-come-up-with-great-ideas?src=feed</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/how-to-come-up-with-great-ideas?src=feed</guid>
+      <pubDate>Wed, 22 Apr 2026 12:00:00 +0000</pubDate>
+      <description>iDiallo.com</description>
+    </item>
+    <item>
+      <title>[RSS Club] How do you preserve an RSS feed?</title>
+      <link>https://shkspr.mobi/blog/2026/04/rss-club-how-do-you-preserve-an-rss-feed/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/rss-club-how-do-you-preserve-an-rss-feed/</guid>
+      <pubDate>Wed, 22 Apr 2026 11:34:46 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
     <item>
       <title>Quoting Bobby Holley</title>
       <link>https://simonwillison.net/2026/Apr/22/bobby-holley/#atom-everything</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Apr/22/bobby-holley/#atom-everything</guid>
       <pubDate>Wed, 22 Apr 2026 05:40:56 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>The Scapegoat</title>
+      <link>https://feed.tedium.co/link/15204/17323348/mcclatchy-journalism-ai-scapegoat</link>
+      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17323348/mcclatchy-journalism-ai-scapegoat</guid>
+      <pubDate>Wed, 22 Apr 2026 03:35:00 +0000</pubDate>
+      <description>Tedium: The Dull Side of the Internet.</description>
     </item>
     <item>
       <title>Changes to GitHub Copilot Individual plans</title>
@@ -396,6 +417,13 @@
       <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/programming/GoVsRustStartupDelays</guid>
       <pubDate>Sat, 18 Apr 2026 21:30:11 +0000</pubDate>
       <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>A Taxing Discussion</title>
+      <link>https://feed.tedium.co/link/15204/17321557/tax-forms-history-irs</link>
+      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17321557/tax-forms-history-irs</guid>
+      <pubDate>Sat, 18 Apr 2026 19:11:40 +0000</pubDate>
+      <description>Tedium: The Dull Side of the Internet.</description>
     </item>
     <item>
       <title>★ ‘A Reading Room on Wheels, a Lover’s Lane, and, After 11 PM, a Flophouse’</title>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://buttondown.com/hillelwayne/archive/a-sufficiently-comprehensive-spec-is-not/</guid>
       <pubDate>Wed, 15 Apr 2026 16:18:02 +0000</pubDate>
       <description>Computer Things</description>
-    </item>
-    <item>
-      <title>Jensen Huang – TPU competition, why we should sell chips to China, &amp; Nvidia’s supply chain moat</title>
-      <link>https://www.dwarkesh.com/p/jensen-huang</link>
-      <guid isPermaLink="true">https://www.dwarkesh.com/p/jensen-huang</guid>
-      <pubDate>Wed, 15 Apr 2026 15:45:23 +0000</pubDate>
-      <description>Dwarkesh Podcast</description>
-    </item>
-    <item>
-      <title>★ David Pierce Tried a Bunch of Android Phones and Then Bought an iPhone Again</title>
-      <link>https://daringfireball.net/2026/04/piece_android_iphone_apps</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/04/piece_android_iphone_apps</guid>
-      <pubDate>Wed, 15 Apr 2026 15:40:02 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Quoting Kyle Kingsbury</title>
-      <link>https://simonwillison.net/2026/Apr/15/kyle-kingsbury/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/15/kyle-kingsbury/#atom-everything</guid>
-      <pubDate>Wed, 15 Apr 2026 15:36:02 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>An Arm Mainboard for the Framework Laptop</title>
-      <link>https://www.jeffgeerling.com/blog/2026/arm-mainboard-for-framework-laptop/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/arm-mainboard-for-framework-laptop/</guid>
-      <pubDate>Wed, 15 Apr 2026 14:49:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
     </item>
   </channel>
 </rss>
