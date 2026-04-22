@@ -208,11 +208,11 @@ Last Updated: Thursday, April 23rd, 2026, 3:06:01 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [How to Come Up With Great Ideas](https://idiallo.com/blog/how-to-come-up-with-great-ideas?src=feed) — *iDiallo.com* `04-22`
-- [[RSS Club] How do you preserve an RSS feed?](https://shkspr.mobi/blog/2026/04/rss-club-how-do-you-preserve-an-rss-feed/) — *Terence Eden’s Blog* `04-22`
-- [Quoting Bobby Holley](https://simonwillison.net/2026/Apr/22/bobby-holley/#atom-everything) — *Simon Willison's Weblog* `04-22`
-- [The Scapegoat](https://feed.tedium.co/link/15204/17323348/mcclatchy-journalism-ai-scapegoat) — *Tedium: The Dull Side of the Internet.* `04-22`
-- [Changes to GitHub Copilot Individual plans](https://simonwillison.net/2026/Apr/22/changes-to-github-copilot/#atom-everything) — *Simon Willison's Weblog* `04-22`
+- [There Are Corrections, and There Are Corrections](https://www.nytimes.com/2026/04/21/nyregion/mets-mamdani-curse.html?unlocked_article_code=1.c1A.iLO0.Kqdo8aBhNAY1) — *Daring Fireball* `04-22`
+- [Writing an LLM from scratch, part 33 -- what I learned from finally getting round to the appendices](https://www.gilesthomas.com/2026/04/llm-from-scratch-33-what-i-learned-from-the-appendices) — *Giles' blog* `04-22`
+- [Exclusive: Microsoft Moving All GitHub Copilot Subscribers To Token-Based Billing In June](https://www.wheresyoured.at/exclusive-microsoft-moving-all-github-copilot-subscribers-to-token-based-billing-in-june/) — *Ed Zitron's Where's Your Ed At* `04-22`
+- [Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model](https://simonwillison.net/2026/Apr/22/qwen36-27b/#atom-everything) — *Simon Willison's Weblog* `04-22`
+- [Ben Thompson on Tim Cook’s Legacy](https://stratechery.com/2026/tim-cooks-impeccable-timing/) — *Daring Fireball* `04-22`
 <!--BLOG_RADAR:end-->
 
 ---
