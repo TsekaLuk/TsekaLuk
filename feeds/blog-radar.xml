@@ -4,7 +4,56 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 21 Apr 2026 19:22:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 03:28:08 +0000</lastBuildDate>
+    <item>
+      <title>[Sponsor] Rec League</title>
+      <link>https://recleague.com/?lyr_campaign=df</link>
+      <guid isPermaLink="true">https://recleague.com/?lyr_campaign=df</guid>
+      <pubDate>Wed, 22 Apr 2026 03:03:18 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Is Claude Code going to cost $100/month? Probably not - it's all very confusing</title>
+      <link>https://simonwillison.net/2026/Apr/22/claude-code-confusion/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/22/claude-code-confusion/#atom-everything</guid>
+      <pubDate>Wed, 22 Apr 2026 02:07:34 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>The commodification of travel</title>
+      <link>https://herman.bearblog.dev/the-commodification-of-travel/</link>
+      <guid isPermaLink="true">https://herman.bearblog.dev/the-commodification-of-travel/</guid>
+      <pubDate>Wed, 22 Apr 2026 01:28:00 +0000</pubDate>
+      <description>Herman's blog</description>
+    </item>
+    <item>
+      <title>Weekly Update 500</title>
+      <link>https://www.troyhunt.com/weekly-update-500/</link>
+      <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-500/</guid>
+      <pubDate>Tue, 21 Apr 2026 23:51:44 +0000</pubDate>
+      <description>Troy Hunt</description>
+    </item>
+    <item>
+      <title>[UPDATED] News: Anthropic (Briefly) Removes Claude Code From $20-A-Month "Pro" Subscription Plan For New Users</title>
+      <link>https://www.wheresyoured.at/news-anthropic-removes-pro-cc/</link>
+      <guid isPermaLink="true">https://www.wheresyoured.at/news-anthropic-removes-pro-cc/</guid>
+      <pubDate>Tue, 21 Apr 2026 22:44:29 +0000</pubDate>
+      <description>Ed Zitron's Where's Your Ed At</description>
+    </item>
+    <item>
+      <title>Where's the raccoon with the ham radio? (ChatGPT Images 2.0)</title>
+      <link>https://simonwillison.net/2026/Apr/21/gpt-image-2/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/21/gpt-image-2/#atom-everything</guid>
+      <pubDate>Tue, 21 Apr 2026 20:32:24 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>An AI Odyssey, Part 4: Astounding Coding Agents</title>
+      <link>https://www.johndcook.com/blog/2026/04/21/an-ai-odyssey-part-4-astounding-coding-agents/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/04/21/an-ai-odyssey-part-4-astounding-coding-agents/</guid>
+      <pubDate>Tue, 21 Apr 2026 20:14:40 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
     <item>
       <title>Writing an LLM from scratch, part 32m -- Interventions: conclusion</title>
       <link>https://www.gilesthomas.com/2026/04/llm-from-scratch-32m-interventions-conclusion</link>
@@ -41,6 +90,13 @@
       <description>Ed Zitron's Where's Your Ed At</description>
     </item>
     <item>
+      <title>AI has no moat</title>
+      <link>https://geohot.github.io//blog/jekyll/update/2026/04/22/ai-has-no-moat.html</link>
+      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/04/22/ai-has-no-moat.html</guid>
+      <pubDate>Tue, 21 Apr 2026 16:00:00 +0000</pubDate>
+      <description>the singularity is nearer</description>
+    </item>
+    <item>
       <title>scosman/pelicans_riding_bicycles</title>
       <link>https://simonwillison.net/2026/Apr/21/scosman/#atom-everything</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Apr/21/scosman/#atom-everything</guid>
@@ -74,6 +130,13 @@
       <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/better-tts-on-linux/</guid>
       <pubDate>Tue, 21 Apr 2026 11:34:07 +0000</pubDate>
       <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>brief</title>
+      <link>https://nesbitt.io/2026/04/21/brief.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/04/21/brief.html</guid>
+      <pubDate>Tue, 21 Apr 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
     </item>
     <item>
       <title>★ Another Day Has Come</title>
@@ -405,18 +468,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>5x5 Pixel font for tiny screens</title>
-      <link>https://maurycyz.com/projects/mcufont/</link>
-      <guid isPermaLink="true">https://maurycyz.com/projects/mcufont/</guid>
-      <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
-    </item>
-    <item>
       <title>Many anti-AI arguments are conservative arguments</title>
       <link>https://seangoedecke.com/many-anti-ai-arguments-are-conservative/</link>
       <guid isPermaLink="true">https://seangoedecke.com/many-anti-ai-arguments-are-conservative/</guid>
       <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>5x5 Pixel font for tiny screens</title>
+      <link>https://maurycyz.com/projects/mcufont/</link>
+      <guid isPermaLink="true">https://maurycyz.com/projects/mcufont/</guid>
+      <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
     </item>
     <item>
       <title>Join us at PyCon US 2026 in Long Beach - we have new AI and security tracks this year</title>
@@ -781,69 +844,6 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260415-00/?p=112235</guid>
       <pubDate>Wed, 15 Apr 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Why is it so hard to passively stalk my friends' locations?</title>
-      <link>https://shkspr.mobi/blog/2026/04/why-is-it-so-hard-to-passively-stalk-my-friends-locations/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/why-is-it-so-hard-to-passively-stalk-my-friends-locations/</guid>
-      <pubDate>Wed, 15 Apr 2026 11:34:45 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>The Tuesday Test</title>
-      <link>https://nesbitt.io/2026/04/15/the-tuesday-test.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/04/15/the-tuesday-test.html</guid>
-      <pubDate>Wed, 15 Apr 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Pluralistic: Rights for robots (15 Apr 2026)</title>
-      <link>https://pluralistic.net/2026/04/15/artificial-lifeforms/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/04/15/artificial-lifeforms/</guid>
-      <pubDate>Wed, 15 Apr 2026 07:06:28 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Universities, email, and the issues of running things in house</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/tech/UniversitiesAndInhouseTech</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/tech/UniversitiesAndInhouseTech</guid>
-      <pubDate>Wed, 15 Apr 2026 03:06:03 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>Pressed For Options</title>
-      <link>https://feed.tedium.co/link/15204/17319282/linux-external-fingerprint-reader-challenges</link>
-      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17319282/linux-external-fingerprint-reader-challenges</guid>
-      <pubDate>Wed, 15 Apr 2026 02:58:42 +0000</pubDate>
-      <description>Tedium: The Dull Side of the Internet.</description>
-    </item>
-    <item>
-      <title>datasette-ports 0.3</title>
-      <link>https://simonwillison.net/2026/Apr/15/datasette-ports/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/15/datasette-ports/#atom-everything</guid>
-      <pubDate>Wed, 15 Apr 2026 02:50:57 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Zig 0.16.0 release notes: "Juicy Main"</title>
-      <link>https://simonwillison.net/2026/Apr/15/juicy-main/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/15/juicy-main/#atom-everything</guid>
-      <pubDate>Wed, 15 Apr 2026 01:59:21 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Simdutf Can Now Be Used Without libc++ or libc++abi</title>
-      <link>https://mitchellh.com/writing/simdutf-no-libcxx</link>
-      <guid isPermaLink="true">https://mitchellh.com/writing/simdutf-no-libcxx</guid>
-      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Mitchell Hashimoto</description>
-    </item>
-    <item>
-      <title>datasette PR #2689: Replace token-based CSRF with Sec-Fetch-Site header protection</title>
-      <link>https://simonwillison.net/2026/Apr/14/replace-token-based-csrf/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/14/replace-token-based-csrf/#atom-everything</guid>
-      <pubDate>Tue, 14 Apr 2026 23:58:53 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>

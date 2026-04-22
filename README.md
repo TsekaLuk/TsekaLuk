@@ -208,11 +208,11 @@ Last Updated: Wednesday, April 22nd, 2026, 10:02:27 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Writing an LLM from scratch, part 32m -- Interventions: conclusion](https://www.gilesthomas.com/2026/04/llm-from-scratch-32m-interventions-conclusion) — *Giles' blog* `04-21`
-- [Trump on Tim Apple](https://truthsocial.com/@realDonaldTrump/posts/116442276577696798) — *Daring Fireball* `04-21`
-- [People get confused when language implementations break language guarantees](https://buttondown.com/hillelwayne/archive/people-get-confused-when-language-implementations/) — *Computer Things* `04-21`
-- [Quoting Andreas Påhlsson-Notini](https://simonwillison.net/2026/Apr/21/andreas-pahlsson-notini/#atom-everything) — *Simon Willison's Weblog* `04-21`
-- [Four Horsemen of the AIpocalypse](https://www.wheresyoured.at/four-horsemen-of-the-aipocalypse/) — *Ed Zitron's Where's Your Ed At* `04-21`
+- [[Sponsor] Rec League](https://recleague.com/?lyr_campaign=df) — *Daring Fireball* `04-22`
+- [Is Claude Code going to cost $100/month? Probably not - it's all very confusing](https://simonwillison.net/2026/Apr/22/claude-code-confusion/#atom-everything) — *Simon Willison's Weblog* `04-22`
+- [The commodification of travel](https://herman.bearblog.dev/the-commodification-of-travel/) — *Herman's blog* `04-22`
+- [Weekly Update 500](https://www.troyhunt.com/weekly-update-500/) — *Troy Hunt* `04-21`
+- [[UPDATED] News: Anthropic (Briefly) Removes Claude Code From $20-A-Month "Pro" Subscription Plan For New Users](https://www.wheresyoured.at/news-anthropic-removes-pro-cc/) — *Ed Zitron's Where's Your Ed At* `04-21`
 <!--BLOG_RADAR:end-->
 
 ---
