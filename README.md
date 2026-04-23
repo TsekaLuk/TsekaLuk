@@ -208,11 +208,11 @@ Last Updated: Thursday, April 23rd, 2026, 10:06:43 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [The various steps of a UEFI network install from an Ubuntu server ISO](https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuServerISONetworkInstall) — *Chris's Wiki :: blog* `04-23`
+- [Why prediction markets are a sure sign that our civilisation is in decay](https://www.joanwestenberg.com/why-prediction-markets-are-a-sure-sign-that-our-civilisation-is-in-decay/) — *Westenberg.* `04-23`
+- [Debugging WASM in Chrome DevTools](https://eli.thegreenplace.net/2026/debugging-wasm-in-chrome-devtools/) — *Eli Bendersky's website* `04-23`
+- [DF T-Shirts and Hoodies: Get Them While the Getting Is Good](https://store.daringfireball.net/) — *Daring Fireball* `04-22`
 - [There Are Corrections, and There Are Corrections](https://www.nytimes.com/2026/04/21/nyregion/mets-mamdani-curse.html?unlocked_article_code=1.c1A.iLO0.Kqdo8aBhNAY1) — *Daring Fireball* `04-22`
-- [Writing an LLM from scratch, part 33 -- what I learned from finally getting round to the appendices](https://www.gilesthomas.com/2026/04/llm-from-scratch-33-what-i-learned-from-the-appendices) — *Giles' blog* `04-22`
-- [Exclusive: Microsoft Moving All GitHub Copilot Subscribers To Token-Based Billing In June](https://www.wheresyoured.at/exclusive-microsoft-moving-all-github-copilot-subscribers-to-token-based-billing-in-june/) — *Ed Zitron's Where's Your Ed At* `04-22`
-- [Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model](https://simonwillison.net/2026/Apr/22/qwen36-27b/#atom-everything) — *Simon Willison's Weblog* `04-22`
-- [Ben Thompson on Tim Cook’s Legacy](https://stratechery.com/2026/tim-cooks-impeccable-timing/) — *Daring Fireball* `04-22`
 <!--BLOG_RADAR:end-->
 
 ---
