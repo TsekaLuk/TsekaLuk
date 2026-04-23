@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 23 Apr 2026 14:01:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 19:23:05 +0000</lastBuildDate>
+    <item>
+      <title>Microsoft Offers Voluntary Retirement to Long-Serving Employees</title>
+      <link>https://www.theverge.com/news/917451/microsoft-voluntary-retirement-offer-rewards-bonus-stock-changes</link>
+      <guid isPermaLink="true">https://www.theverge.com/news/917451/microsoft-voluntary-retirement-offer-rewards-bonus-stock-changes</guid>
+      <pubDate>Thu, 23 Apr 2026 17:53:58 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Unauthorized Users in Discord Group Had Weekslong Access to Anthropic’s Supposedly-Super-Dangerous Claude Mythos Model</title>
+      <link>https://www.bloomberg.com/news/articles/2026-04-21/anthropic-s-mythos-model-is-being-accessed-by-unauthorized-users</link>
+      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-04-21/anthropic-s-mythos-model-is-being-accessed-by-unauthorized-users</guid>
+      <pubDate>Thu, 23 Apr 2026 17:28:23 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Approximation to solve an oblique triangle</title>
+      <link>https://www.johndcook.com/blog/2026/04/23/solve-an-oblique-triangle/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/04/23/solve-an-oblique-triangle/</guid>
+      <pubDate>Thu, 23 Apr 2026 15:56:02 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Another crash caused by uninstaller code injection into Explorer</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260423-00/?p=112261</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260423-00/?p=112261</guid>
+      <pubDate>Thu, 23 Apr 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
     <item>
       <title>Quoting Maggie Appleton</title>
       <link>https://simonwillison.net/2026/Apr/23/maggie-appleton/#atom-everything</link>
@@ -90,7 +118,7 @@
       <description>Giles' blog</description>
     </item>
     <item>
-      <title>Exclusive: Microsoft Moving All GitHub Copilot Subscribers To Token-Based Billing In June</title>
+      <title>[Updated] Exclusive: Microsoft Moving All GitHub Copilot Subscribers To Token-Based Billing In June</title>
       <link>https://www.wheresyoured.at/exclusive-microsoft-moving-all-github-copilot-subscribers-to-token-based-billing-in-june/</link>
       <guid isPermaLink="true">https://www.wheresyoured.at/exclusive-microsoft-moving-all-github-copilot-subscribers-to-token-based-billing-in-june/</guid>
       <pubDate>Wed, 22 Apr 2026 17:24:17 +0000</pubDate>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://www.apple.com/education/college-students/success-stories/goss/</guid>
       <pubDate>Thu, 16 Apr 2026 15:00:49 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>What’s up with window message 0x0091? We’re getting it with unexpected parameters</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260416-00/?p=112240</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260416-00/?p=112240</guid>
-      <pubDate>Thu, 16 Apr 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Newton diameters</title>
-      <link>https://www.johndcook.com/blog/2026/04/16/newton-diameters/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/04/16/newton-diameters/</guid>
-      <pubDate>Thu, 16 Apr 2026 12:02:13 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>RSS Club for WordPress</title>
-      <link>https://shkspr.mobi/blog/2026/04/rss-club-for-wordpress/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/rss-club-for-wordpress/</guid>
-      <pubDate>Thu, 16 Apr 2026 11:34:10 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>SQLAlchemy 2 In Practice - Chapter 5 - Advanced Many-To-Many Relationships</title>
-      <link>https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-5---advanced-many-to-many-relationships</link>
-      <guid isPermaLink="true">https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-5---advanced-many-to-many-relationships</guid>
-      <pubDate>Thu, 16 Apr 2026 11:33:06 +0000</pubDate>
-      <description>Miguel Grinberg's Blog</description>
     </item>
   </channel>
 </rss>

@@ -208,11 +208,11 @@ Last Updated: Friday, April 24th, 2026, 3:01:05 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Microsoft Offers Voluntary Retirement to Long-Serving Employees](https://www.theverge.com/news/917451/microsoft-voluntary-retirement-offer-rewards-bonus-stock-changes) — *Daring Fireball* `04-23`
+- [Unauthorized Users in Discord Group Had Weekslong Access to Anthropic’s Supposedly-Super-Dangerous Claude Mythos Model](https://www.bloomberg.com/news/articles/2026-04-21/anthropic-s-mythos-model-is-being-accessed-by-unauthorized-users) — *Daring Fireball* `04-23`
+- [Approximation to solve an oblique triangle](https://www.johndcook.com/blog/2026/04/23/solve-an-oblique-triangle/) — *John D. Cook* `04-23`
+- [Another crash caused by uninstaller code injection into Explorer](https://devblogs.microsoft.com/oldnewthing/20260423-00/?p=112261) — *The Old New Thing* `04-23`
 - [Quoting Maggie Appleton](https://simonwillison.net/2026/Apr/23/maggie-appleton/#atom-everything) — *Simon Willison's Weblog* `04-23`
-- [SQLAlchemy 2 In Practice - Chapter 6: A Page Analytics Solution](https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-6-a-page-analytics-solution) — *Miguel Grinberg's Blog* `04-23`
-- [Pluralistic: The (other) problem with automatic conversion of free software to proprietary software (23 Apr 2026)](https://pluralistic.net/2026/04/23/poison-pill/) — *Pluralistic: Daily links from Cory Doctorow* `04-23`
-- [Simple approximation for solving a right triangle](https://www.johndcook.com/blog/2026/04/23/solve-a-right-triangle/) — *John D. Cook* `04-23`
-- [Construction Costs Rarely Fall](https://www.construction-physics.com/p/construction-costs-rarely-fall) — *Construction Physics* `04-23`
 <!--BLOG_RADAR:end-->
 
 ---
