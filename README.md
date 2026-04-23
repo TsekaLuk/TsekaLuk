@@ -208,11 +208,11 @@ Last Updated: Thursday, April 23rd, 2026, 9:15:16 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [The various steps of a UEFI network install from an Ubuntu server ISO](https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuServerISONetworkInstall) — *Chris's Wiki :: blog* `04-23`
-- [Why prediction markets are a sure sign that our civilisation is in decay](https://www.joanwestenberg.com/why-prediction-markets-are-a-sure-sign-that-our-civilisation-is-in-decay/) — *Westenberg.* `04-23`
-- [Debugging WASM in Chrome DevTools](https://eli.thegreenplace.net/2026/debugging-wasm-in-chrome-devtools/) — *Eli Bendersky's website* `04-23`
-- [DF T-Shirts and Hoodies: Get Them While the Getting Is Good](https://store.daringfireball.net/) — *Daring Fireball* `04-22`
-- [There Are Corrections, and There Are Corrections](https://www.nytimes.com/2026/04/21/nyregion/mets-mamdani-curse.html?unlocked_article_code=1.c1A.iLO0.Kqdo8aBhNAY1) — *Daring Fireball* `04-22`
+- [Quoting Maggie Appleton](https://simonwillison.net/2026/Apr/23/maggie-appleton/#atom-everything) — *Simon Willison's Weblog* `04-23`
+- [SQLAlchemy 2 In Practice - Chapter 6: A Page Analytics Solution](https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-6-a-page-analytics-solution) — *Miguel Grinberg's Blog* `04-23`
+- [Pluralistic: The (other) problem with automatic conversion of free software to proprietary software (23 Apr 2026)](https://pluralistic.net/2026/04/23/poison-pill/) — *Pluralistic: Daily links from Cory Doctorow* `04-23`
+- [Simple approximation for solving a right triangle](https://www.johndcook.com/blog/2026/04/23/solve-a-right-triangle/) — *John D. Cook* `04-23`
+- [Construction Costs Rarely Fall](https://www.construction-physics.com/p/construction-costs-rarely-fall) — *Construction Physics* `04-23`
 <!--BLOG_RADAR:end-->
 
 ---
