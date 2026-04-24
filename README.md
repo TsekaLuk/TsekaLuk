@@ -208,11 +208,11 @@ Last Updated: Friday, April 24th, 2026, 3:53:53 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [DeepSeek V4 - almost on the frontier, a fraction of the price](https://simonwillison.net/2026/Apr/24/deepseek-v4/#atom-everything) — *Simon Willison's Weblog* `04-24`
+- [Millisecond Converter](https://simonwillison.net/2026/Apr/24/milliseconds/#atom-everything) — *Simon Willison's Weblog* `04-24`
+- [It's a big one](https://simonwillison.net/2026/Apr/24/weekly/#atom-everything) — *Simon Willison's Weblog* `04-24`
 - [A Plethora of Tweezers](https://feed.tedium.co/link/15204/17324561/tweezer-weird-facts-history) — *Tedium: The Dull Side of the Internet.* `04-24`
 - [russellromney/honker](https://simonwillison.net/2026/Apr/24/honker/#atom-everything) — *Simon Willison's Weblog* `04-24`
-- [An update on recent Claude Code quality reports](https://simonwillison.net/2026/Apr/24/recent-claude-code-quality-reports/#atom-everything) — *Simon Willison's Weblog* `04-24`
-- [United Kingdom to Pass Smoking Ban Only for Those Who Are Not Yet Legal Adults](https://www.nytimes.com/2026/04/21/world/europe/uk-smoking-ban-2009.html?unlocked_article_code=1.dVA.f9yJ.YMVg9N8QOlio) — *Daring Fireball* `04-24`
-- [Serving the For You feed](https://simonwillison.net/2026/Apr/24/serving-the-for-you-feed/#atom-everything) — *Simon Willison's Weblog* `04-24`
 <!--BLOG_RADAR:end-->
 
 ---
