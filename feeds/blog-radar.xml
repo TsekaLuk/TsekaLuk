@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 24 Apr 2026 08:15:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 13:54:28 +0000</lastBuildDate>
+    <item>
+      <title>XOXO Explore</title>
+      <link>https://xoxofest.com/blog/2026-launching-xoxo-explore/</link>
+      <guid isPermaLink="true">https://xoxofest.com/blog/2026-launching-xoxo-explore/</guid>
+      <pubDate>Fri, 24 Apr 2026 13:28:41 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>New Zealand Passed a Generational Smoking Ban in 2022, But Repealed It Before It Went Into Effect</title>
+      <link>https://www.theguardian.com/world/2023/nov/27/new-zealand-scraps-world-first-smoking-generation-ban-to-fund-tax-cuts</link>
+      <guid isPermaLink="true">https://www.theguardian.com/world/2023/nov/27/new-zealand-scraps-world-first-smoking-generation-ban-to-fund-tax-cuts</guid>
+      <pubDate>Fri, 24 Apr 2026 13:12:55 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Pluralistic: A free, open visual identity for enshittification (24 Apr 2026)</title>
+      <link>https://pluralistic.net/2026/04/24/poop-emoji-plus-plus/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/04/24/poop-emoji-plus-plus/</guid>
+      <pubDate>Fri, 24 Apr 2026 12:50:06 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Does Mythos mean you need to shut down your Open Source repositories?</title>
+      <link>https://shkspr.mobi/blog/2026/04/does-mythos-mean-you-need-to-shut-down-your-open-source-repos/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/does-mythos-mean-you-need-to-shut-down-your-open-source-repos/</guid>
+      <pubDate>Fri, 24 Apr 2026 11:34:30 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
     <item>
       <title>DeepSeek V4 - almost on the frontier, a fraction of the price</title>
       <link>https://simonwillison.net/2026/Apr/24/deepseek-v4/#atom-everything</link>
@@ -25,6 +53,13 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Apr/24/weekly/#atom-everything</guid>
       <pubDate>Fri, 24 Apr 2026 04:09:54 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Configuring the ISC DHCP server to pick the right network boot option</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ISCDHCPServerPickNetbootOption</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ISCDHCPServerPickNetbootOption</guid>
+      <pubDate>Fri, 24 Apr 2026 03:53:11 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>A Plethora of Tweezers</title>
@@ -181,6 +216,20 @@
       <description>Construction Physics</description>
     </item>
     <item>
+      <title>Sneaky spam in conversational replies to blog posts</title>
+      <link>https://shkspr.mobi/blog/2026/04/sneaky-spam-in-conversational-replies-to-blog-posts/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/sneaky-spam-in-conversational-replies-to-blog-posts/</guid>
+      <pubDate>Thu, 23 Apr 2026 11:34:48 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>The various steps of a UEFI network install from an Ubuntu server ISO</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuServerISONetworkInstall</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuServerISONetworkInstall</guid>
+      <pubDate>Thu, 23 Apr 2026 03:28:20 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
       <title>Why prediction markets are a sure sign that our civilisation is in decay</title>
       <link>https://www.joanwestenberg.com/why-prediction-markets-are-a-sure-sign-that-our-civilisation-is-in-decay/</link>
       <guid isPermaLink="true">https://www.joanwestenberg.com/why-prediction-markets-are-a-sure-sign-that-our-civilisation-is-in-decay/</guid>
@@ -279,6 +328,13 @@
       <description>iDiallo.com</description>
     </item>
     <item>
+      <title>[RSS Club] How do you preserve an RSS feed?</title>
+      <link>https://shkspr.mobi/blog/2026/04/rss-club-how-do-you-preserve-an-rss-feed/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/rss-club-how-do-you-preserve-an-rss-feed/</guid>
+      <pubDate>Wed, 22 Apr 2026 11:34:46 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>Quoting Bobby Holley</title>
       <link>https://simonwillison.net/2026/Apr/22/bobby-holley/#atom-everything</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Apr/22/bobby-holley/#atom-everything</guid>
@@ -298,6 +354,13 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Apr/22/changes-to-github-copilot/#atom-everything</guid>
       <pubDate>Wed, 22 Apr 2026 03:30:02 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Some general notes on network booting UEFI machines</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/tech/UEFINetworkBootNotes</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/tech/UEFINetworkBootNotes</guid>
+      <pubDate>Wed, 22 Apr 2026 03:26:18 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>[Sponsor] Rec League</title>
@@ -426,6 +489,13 @@
       <description>Pluralistic: Daily links from Cory Doctorow</description>
     </item>
     <item>
+      <title>Better TTS on Linux</title>
+      <link>https://shkspr.mobi/blog/2026/04/better-tts-on-linux/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/better-tts-on-linux/</guid>
+      <pubDate>Tue, 21 Apr 2026 11:34:07 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>brief</title>
       <link>https://nesbitt.io/2026/04/21/brief.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/04/21/brief.html</guid>
@@ -438,6 +508,13 @@
       <guid isPermaLink="true">https://daringfireball.net/2026/04/another_day_has_come</guid>
       <pubDate>Tue, 21 Apr 2026 03:59:41 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>A backup MX will get accessed by various sorts of people</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/spam/BackupMXGetsAccessed</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/spam/BackupMXGetsAccessed</guid>
+      <pubDate>Tue, 21 Apr 2026 03:10:09 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>Spaced Repetition: Beginner Guide/FAQ</title>
@@ -515,6 +592,20 @@
       <guid isPermaLink="true">https://idiallo.com/blog/advice-from-a-millionaire?src=feed</guid>
       <pubDate>Mon, 20 Apr 2026 12:00:00 +0000</pubDate>
       <description>iDiallo.com</description>
+    </item>
+    <item>
+      <title>Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★</title>
+      <link>https://shkspr.mobi/blog/2026/04/book-review-up-a-scientists-guide-to-the-magic-above-us-by-dr-lucy-rogers/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/book-review-up-a-scientists-guide-to-the-magic-above-us-by-dr-lucy-rogers/</guid>
+      <pubDate>Mon, 20 Apr 2026 11:34:38 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Ignoring missing TLS "Client Authentication" usage in practice</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/tech/TLSIgnoringMissingClientAuth</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/tech/TLSIgnoringMissingClientAuth</guid>
+      <pubDate>Mon, 20 Apr 2026 03:26:49 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>SQL functions in Google Sheets to fetch data from Datasette</title>
@@ -601,6 +692,13 @@
       <description>the singularity is nearer</description>
     </item>
     <item>
+      <title>Reprojecting Dual Fisheye Videos to Equirectangular (LG 360)</title>
+      <link>https://shkspr.mobi/blog/2026/04/reprojecting-dual-fisheye-videos-to-equirectangular-lg-360/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/reprojecting-dual-fisheye-videos-to-equirectangular-lg-360/</guid>
+      <pubDate>Sun, 19 Apr 2026 11:34:32 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>Wander Console 0.5.0</title>
       <link>https://susam.net/code/news/wander/0.5.0.html</link>
       <guid isPermaLink="true">https://susam.net/code/news/wander/0.5.0.html</guid>
@@ -620,6 +718,13 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Apr/18/opus-system-prompt/#atom-everything</guid>
       <pubDate>Sat, 18 Apr 2026 23:59:40 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Tiny Go and Rust programs appear to start equally fast (on some machines)</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/programming/GoVsRustStartupDelays</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/programming/GoVsRustStartupDelays</guid>
+      <pubDate>Sat, 18 Apr 2026 21:30:11 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>A Taxing Discussion</title>
@@ -678,6 +783,13 @@
       <description>Construction Physics</description>
     </item>
     <item>
+      <title>Hiding the option to leave comments from some visitors to here</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/web/MyHidingCommentLink</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/web/MyHidingCommentLink</guid>
+      <pubDate>Sat, 18 Apr 2026 03:26:21 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
       <title>Adding a new content type to my blog-to-newsletter tool</title>
       <link>https://simonwillison.net/guides/agentic-engineering-patterns/adding-a-new-content-type/#atom-everything</link>
       <guid isPermaLink="true">https://simonwillison.net/guides/agentic-engineering-patterns/adding-a-new-content-type/#atom-everything</guid>
@@ -732,118 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Apr/17/pycon-us-2026/#atom-everything</guid>
       <pubDate>Fri, 17 Apr 2026 23:59:03 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>How an LLM becomes more coherent as we train it</title>
-      <link>https://www.gilesthomas.com/2026/04/how-an-llm-becomes-more-coherent-over-training</link>
-      <guid isPermaLink="true">https://www.gilesthomas.com/2026/04/how-an-llm-becomes-more-coherent-over-training</guid>
-      <pubDate>Fri, 17 Apr 2026 23:30:00 +0000</pubDate>
-      <description>Giles' blog</description>
-    </item>
-    <item>
-      <title>Premium: The Hater's Guide to Private Credit</title>
-      <link>https://www.wheresyoured.at/hatersguide-privatecredit/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/hatersguide-privatecredit/</guid>
-      <pubDate>Fri, 17 Apr 2026 16:57:30 +0000</pubDate>
-      <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>The Mystery of Rennes-le-Château, Part 4: Non-Fiction Meets Fiction</title>
-      <link>https://www.filfre.net/2026/04/the-mystery-of-rennes-le-chateau-part-4-non-fiction-meets-fiction/</link>
-      <guid isPermaLink="true">https://www.filfre.net/2026/04/the-mystery-of-rennes-le-chateau-part-4-non-fiction-meets-fiction/</guid>
-      <pubDate>Fri, 17 Apr 2026 16:12:17 +0000</pubDate>
-      <description>The Digital Antiquarian</description>
-    </item>
-    <item>
-      <title>America lost the Mandate of Heaven</title>
-      <link>https://geohot.github.io//blog/jekyll/update/2026/04/18/america-mandate-of-heaven.html</link>
-      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/04/18/america-mandate-of-heaven.html</guid>
-      <pubDate>Fri, 17 Apr 2026 16:00:00 +0000</pubDate>
-      <description>the singularity is nearer</description>
-    </item>
-    <item>
-      <title>Five Simple Steps to Fix America</title>
-      <link>https://geohot.github.io//blog/jekyll/update/2026/04/18/five-simple-steps.html</link>
-      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/04/18/five-simple-steps.html</guid>
-      <pubDate>Fri, 17 Apr 2026 16:00:00 +0000</pubDate>
-      <description>the singularity is nearer</description>
-    </item>
-    <item>
-      <title>Forgotten message from the past: LB_INIT­STORAGE</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260417-00/?p=112243</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260417-00/?p=112243</guid>
-      <pubDate>Fri, 17 Apr 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Pluralistic: Tiktokification shall set us free (17 Apr 2026)</title>
-      <link>https://pluralistic.net/2026/04/17/for-youze/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/04/17/for-youze/</guid>
-      <pubDate>Fri, 17 Apr 2026 10:30:52 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>datasette 1.0a28</title>
-      <link>https://simonwillison.net/2026/Apr/17/datasette/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/17/datasette/#atom-everything</guid>
-      <pubDate>Fri, 17 Apr 2026 04:01:56 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>App Store Reviews Are Busted</title>
-      <link>https://blog.terrygodier.com/2026/04/13/app-store-reviews-are-busted.html</link>
-      <guid isPermaLink="true">https://blog.terrygodier.com/2026/04/13/app-store-reviews-are-busted.html</guid>
-      <pubDate>Fri, 17 Apr 2026 01:00:26 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Freecash Was More Like Scamcash</title>
-      <link>https://techcrunch.com/2026/04/14/how-the-rewards-app-freecash-scammed-its-way-to-the-top-of-the-app-stores/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/04/14/how-the-rewards-app-freecash-scammed-its-way-to-the-top-of-the-app-stores/</guid>
-      <pubDate>Fri, 17 Apr 2026 00:10:09 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Taking down my site on purpose:</title>
-      <link>https://maurycyz.com/misc/v6day/</link>
-      <guid isPermaLink="true">https://maurycyz.com/misc/v6day/</guid>
-      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
-    </item>
-    <item>
-      <title>Here's What Agentic AI Can Do With Have I Been Pwned's APIs</title>
-      <link>https://www.troyhunt.com/heres-what-agentic-ai-can-do-with-have-i-been-pwneds-apis/</link>
-      <guid isPermaLink="true">https://www.troyhunt.com/heres-what-agentic-ai-can-do-with-have-i-been-pwneds-apis/</guid>
-      <pubDate>Thu, 16 Apr 2026 23:09:24 +0000</pubDate>
-      <description>Troy Hunt</description>
-    </item>
-    <item>
-      <title>Colliding With Reality, Indeed</title>
-      <link>https://www.nytimes.com/2026/04/15/us/politics/trump-iran-war.html?unlocked_article_code=1.bVA.EB30.mygpleorcQhg&amp;smid=url-share</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/04/15/us/politics/trump-iran-war.html?unlocked_article_code=1.bVA.EB30.mygpleorcQhg&amp;smid=url-share</guid>
-      <pubDate>Thu, 16 Apr 2026 20:39:05 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>llm-anthropic 0.25</title>
-      <link>https://simonwillison.net/2026/Apr/16/llm-anthropic/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/16/llm-anthropic/#atom-everything</guid>
-      <pubDate>Thu, 16 Apr 2026 20:37:12 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>How to Format 10-Digit Phone Numbers</title>
-      <link>https://www.threads.com/@apstylebook/post/DXKtXVXEh7T</link>
-      <guid isPermaLink="true">https://www.threads.com/@apstylebook/post/DXKtXVXEh7T</guid>
-      <pubDate>Thu, 16 Apr 2026 20:09:07 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Chance Miller: ‘Netflix Ruined Its Apple TV App by Switching to a Custom Video Player’</title>
-      <link>https://9to5mac.com/2026/04/15/netflix-ruined-its-apple-tv-app-by-switching-to-a-custom-video-player/</link>
-      <guid isPermaLink="true">https://9to5mac.com/2026/04/15/netflix-ruined-its-apple-tv-app-by-switching-to-a-custom-video-player/</guid>
-      <pubDate>Thu, 16 Apr 2026 19:27:00 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>

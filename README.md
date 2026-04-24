@@ -208,11 +208,11 @@ Last Updated: Friday, April 24th, 2026, 9:11:08 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [XOXO Explore](https://xoxofest.com/blog/2026-launching-xoxo-explore/) — *Daring Fireball* `04-24`
+- [New Zealand Passed a Generational Smoking Ban in 2022, But Repealed It Before It Went Into Effect](https://www.theguardian.com/world/2023/nov/27/new-zealand-scraps-world-first-smoking-generation-ban-to-fund-tax-cuts) — *Daring Fireball* `04-24`
+- [Pluralistic: A free, open visual identity for enshittification (24 Apr 2026)](https://pluralistic.net/2026/04/24/poop-emoji-plus-plus/) — *Pluralistic: Daily links from Cory Doctorow* `04-24`
+- [Does Mythos mean you need to shut down your Open Source repositories?](https://shkspr.mobi/blog/2026/04/does-mythos-mean-you-need-to-shut-down-your-open-source-repos/) — *Terence Eden’s Blog* `04-24`
 - [DeepSeek V4 - almost on the frontier, a fraction of the price](https://simonwillison.net/2026/Apr/24/deepseek-v4/#atom-everything) — *Simon Willison's Weblog* `04-24`
-- [Millisecond Converter](https://simonwillison.net/2026/Apr/24/milliseconds/#atom-everything) — *Simon Willison's Weblog* `04-24`
-- [It's a big one](https://simonwillison.net/2026/Apr/24/weekly/#atom-everything) — *Simon Willison's Weblog* `04-24`
-- [A Plethora of Tweezers](https://feed.tedium.co/link/15204/17324561/tweezer-weird-facts-history) — *Tedium: The Dull Side of the Internet.* `04-24`
-- [russellromney/honker](https://simonwillison.net/2026/Apr/24/honker/#atom-everything) — *Simon Willison's Weblog* `04-24`
 <!--BLOG_RADAR:end-->
 
 ---
