@@ -208,11 +208,11 @@ Last Updated: Friday, April 24th, 2026, 10:07:13 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Microsoft Offers Voluntary Retirement to Long-Serving Employees](https://www.theverge.com/news/917451/microsoft-voluntary-retirement-offer-rewards-bonus-stock-changes) — *Daring Fireball* `04-23`
-- [Unauthorized Users in Discord Group Had Weekslong Access to Anthropic’s Supposedly-Super-Dangerous Claude Mythos Model](https://www.bloomberg.com/news/articles/2026-04-21/anthropic-s-mythos-model-is-being-accessed-by-unauthorized-users) — *Daring Fireball* `04-23`
-- [Approximation to solve an oblique triangle](https://www.johndcook.com/blog/2026/04/23/solve-an-oblique-triangle/) — *John D. Cook* `04-23`
-- [Another crash caused by uninstaller code injection into Explorer](https://devblogs.microsoft.com/oldnewthing/20260423-00/?p=112261) — *The Old New Thing* `04-23`
-- [Quoting Maggie Appleton](https://simonwillison.net/2026/Apr/23/maggie-appleton/#atom-everything) — *Simon Willison's Weblog* `04-23`
+- [A Plethora of Tweezers](https://feed.tedium.co/link/15204/17324561/tweezer-weird-facts-history) — *Tedium: The Dull Side of the Internet.* `04-24`
+- [russellromney/honker](https://simonwillison.net/2026/Apr/24/honker/#atom-everything) — *Simon Willison's Weblog* `04-24`
+- [An update on recent Claude Code quality reports](https://simonwillison.net/2026/Apr/24/recent-claude-code-quality-reports/#atom-everything) — *Simon Willison's Weblog* `04-24`
+- [United Kingdom to Pass Smoking Ban Only for Those Who Are Not Yet Legal Adults](https://www.nytimes.com/2026/04/21/world/europe/uk-smoking-ban-2009.html?unlocked_article_code=1.dVA.f9yJ.YMVg9N8QOlio) — *Daring Fireball* `04-24`
+- [Serving the For You feed](https://simonwillison.net/2026/Apr/24/serving-the-for-you-feed/#atom-everything) — *Simon Willison's Weblog* `04-24`
 <!--BLOG_RADAR:end-->
 
 ---

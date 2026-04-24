@@ -4,11 +4,81 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 23 Apr 2026 19:23:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 03:33:50 +0000</lastBuildDate>
+    <item>
+      <title>A Plethora of Tweezers</title>
+      <link>https://feed.tedium.co/link/15204/17324561/tweezer-weird-facts-history</link>
+      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17324561/tweezer-weird-facts-history</guid>
+      <pubDate>Fri, 24 Apr 2026 03:00:00 +0000</pubDate>
+      <description>Tedium: The Dull Side of the Internet.</description>
+    </item>
+    <item>
+      <title>russellromney/honker</title>
+      <link>https://simonwillison.net/2026/Apr/24/honker/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/24/honker/#atom-everything</guid>
+      <pubDate>Fri, 24 Apr 2026 01:50:07 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>An update on recent Claude Code quality reports</title>
+      <link>https://simonwillison.net/2026/Apr/24/recent-claude-code-quality-reports/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/24/recent-claude-code-quality-reports/#atom-everything</guid>
+      <pubDate>Fri, 24 Apr 2026 01:31:25 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>United Kingdom to Pass Smoking Ban Only for Those Who Are Not Yet Legal Adults</title>
+      <link>https://www.nytimes.com/2026/04/21/world/europe/uk-smoking-ban-2009.html?unlocked_article_code=1.dVA.f9yJ.YMVg9N8QOlio</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/04/21/world/europe/uk-smoking-ban-2009.html?unlocked_article_code=1.dVA.f9yJ.YMVg9N8QOlio</guid>
+      <pubDate>Fri, 24 Apr 2026 01:26:13 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Serving the For You feed</title>
+      <link>https://simonwillison.net/2026/Apr/24/serving-the-for-you-feed/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/24/serving-the-for-you-feed/#atom-everything</guid>
+      <pubDate>Fri, 24 Apr 2026 01:08:17 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Extract PDF text in your browser with LiteParse for the web</title>
+      <link>https://simonwillison.net/2026/Apr/23/liteparse-for-the-web/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/23/liteparse-for-the-web/#atom-everything</guid>
+      <pubDate>Thu, 23 Apr 2026 21:54:24 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Trump’s Blog Has Somehow Lost $1.1 Billion</title>
+      <link>https://www.motherjones.com/politics/2026/04/truth-social-ceo-out-after-1-1-billion-in-losses/</link>
+      <guid isPermaLink="true">https://www.motherjones.com/politics/2026/04/truth-social-ceo-out-after-1-1-billion-in-losses/</guid>
+      <pubDate>Thu, 23 Apr 2026 21:14:35 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Nilay Patel: ‘Beware Software Brain’</title>
+      <link>https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation</link>
+      <guid isPermaLink="true">https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation</guid>
+      <pubDate>Thu, 23 Apr 2026 20:13:49 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>A pelican for GPT-5.5 via the semi-official Codex backdoor API</title>
+      <link>https://simonwillison.net/2026/Apr/23/gpt-5-5/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/23/gpt-5-5/#atom-everything</guid>
+      <pubDate>Thu, 23 Apr 2026 19:59:47 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Eight for Eight</title>
+      <link>https://mastodon.social/@Cdespinosa/116439702239797827</link>
+      <guid isPermaLink="true">https://mastodon.social/@Cdespinosa/116439702239797827</guid>
+      <pubDate>Thu, 23 Apr 2026 19:36:15 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Microsoft Offers Voluntary Retirement to Long-Serving Employees</title>
-      <link>https://www.theverge.com/news/917451/microsoft-voluntary-retirement-offer-rewards-bonus-stock-changes</link>
-      <guid isPermaLink="true">https://www.theverge.com/news/917451/microsoft-voluntary-retirement-offer-rewards-bonus-stock-changes</guid>
+      <link>https://www.theverge.com/news/917451/microsoft-voluntary-retirement-offer-rewards-bonus-stock-changes?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InlNUEVJcXN0QlMiLCJwIjoiL25ld3MvOTE3NDUxL21pY3Jvc29mdC12b2x1bnRhcnktcmV0aXJlbWVudC1vZmZlci1yZXdhcmRzLWJvbnVzLXN0b2NrLWNoYW5nZXMiLCJleHAiOjE3NzczOTYzOTEsImlhdCI6MTc3Njk2NDM5MX0.IeenHzWQnmLtvfvkdz2bewFS8qLD-czBrxe7WKGTtsw&amp;utm_medium=gift-link</link>
+      <guid isPermaLink="true">https://www.theverge.com/news/917451/microsoft-voluntary-retirement-offer-rewards-bonus-stock-changes?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InlNUEVJcXN0QlMiLCJwIjoiL25ld3MvOTE3NDUxL21pY3Jvc29mdC12b2x1bnRhcnktcmV0aXJlbWVudC1vZmZlci1yZXdhcmRzLWJvbnVzLXN0b2NrLWNoYW5nZXMiLCJleHAiOjE3NzczOTYzOTEsImlhdCI6MTc3Njk2NDM5MX0.IeenHzWQnmLtvfvkdz2bewFS8qLD-czBrxe7WKGTtsw&amp;utm_medium=gift-link</guid>
       <pubDate>Thu, 23 Apr 2026 17:53:58 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
@@ -95,6 +165,13 @@
       <guid isPermaLink="true">https://eli.thegreenplace.net/2026/debugging-wasm-in-chrome-devtools/</guid>
       <pubDate>Thu, 23 Apr 2026 02:23:00 +0000</pubDate>
       <description>Eli Bendersky's website</description>
+    </item>
+    <item>
+      <title>Equity for Europeans</title>
+      <link>https://lucumr.pocoo.org/2026/4/23/equity-for-europeans/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/4/23/equity-for-europeans/</guid>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
       <title>DF T-Shirts and Hoodies: Get Them While the Getting Is Good</title>
@@ -766,83 +843,6 @@
       <link>https://blog.terrygodier.com/2026/04/13/app-store-reviews-are-busted.html</link>
       <guid isPermaLink="true">https://blog.terrygodier.com/2026/04/13/app-store-reviews-are-busted.html</guid>
       <pubDate>Fri, 17 Apr 2026 01:00:26 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Freecash Was More Like Scamcash</title>
-      <link>https://techcrunch.com/2026/04/14/how-the-rewards-app-freecash-scammed-its-way-to-the-top-of-the-app-stores/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/04/14/how-the-rewards-app-freecash-scammed-its-way-to-the-top-of-the-app-stores/</guid>
-      <pubDate>Fri, 17 Apr 2026 00:10:09 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Taking down my site on purpose:</title>
-      <link>https://maurycyz.com/misc/v6day/</link>
-      <guid isPermaLink="true">https://maurycyz.com/misc/v6day/</guid>
-      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
-    </item>
-    <item>
-      <title>Here's What Agentic AI Can Do With Have I Been Pwned's APIs</title>
-      <link>https://www.troyhunt.com/heres-what-agentic-ai-can-do-with-have-i-been-pwneds-apis/</link>
-      <guid isPermaLink="true">https://www.troyhunt.com/heres-what-agentic-ai-can-do-with-have-i-been-pwneds-apis/</guid>
-      <pubDate>Thu, 16 Apr 2026 23:09:24 +0000</pubDate>
-      <description>Troy Hunt</description>
-    </item>
-    <item>
-      <title>Colliding With Reality, Indeed</title>
-      <link>https://www.nytimes.com/2026/04/15/us/politics/trump-iran-war.html?unlocked_article_code=1.bVA.EB30.mygpleorcQhg&amp;smid=url-share</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/04/15/us/politics/trump-iran-war.html?unlocked_article_code=1.bVA.EB30.mygpleorcQhg&amp;smid=url-share</guid>
-      <pubDate>Thu, 16 Apr 2026 20:39:05 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>llm-anthropic 0.25</title>
-      <link>https://simonwillison.net/2026/Apr/16/llm-anthropic/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/16/llm-anthropic/#atom-everything</guid>
-      <pubDate>Thu, 16 Apr 2026 20:37:12 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>How to Format 10-Digit Phone Numbers</title>
-      <link>https://www.threads.com/@apstylebook/post/DXKtXVXEh7T</link>
-      <guid isPermaLink="true">https://www.threads.com/@apstylebook/post/DXKtXVXEh7T</guid>
-      <pubDate>Thu, 16 Apr 2026 20:09:07 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Chance Miller: ‘Netflix Ruined Its Apple TV App by Switching to a Custom Video Player’</title>
-      <link>https://9to5mac.com/2026/04/15/netflix-ruined-its-apple-tv-app-by-switching-to-a-custom-video-player/</link>
-      <guid isPermaLink="true">https://9to5mac.com/2026/04/15/netflix-ruined-its-apple-tv-app-by-switching-to-a-custom-video-player/</guid>
-      <pubDate>Thu, 16 Apr 2026 19:27:00 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Apple Pay Express Mode for Transit, When Used With a Visa Card, Is Vulnerable to Scam Tap-to-Pay Readers</title>
-      <link>https://www.macrumors.com/2026/04/15/apple-pay-visa-transit-exploit/</link>
-      <guid isPermaLink="true">https://www.macrumors.com/2026/04/15/apple-pay-visa-transit-exploit/</guid>
-      <pubDate>Thu, 16 Apr 2026 18:43:44 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7</title>
-      <link>https://simonwillison.net/2026/Apr/16/qwen-beats-opus/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/16/qwen-beats-opus/#atom-everything</guid>
-      <pubDate>Thu, 16 Apr 2026 17:16:52 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Bonus Thought Regarding the Name ‘iPhone Ultra’</title>
-      <link>https://daringfireball.net/linked/2026/04/14/name-of-foldable-iphone</link>
-      <guid isPermaLink="true">https://daringfireball.net/linked/2026/04/14/name-of-foldable-iphone</guid>
-      <pubDate>Thu, 16 Apr 2026 15:26:03 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Rory Goss’s Accessibility Story</title>
-      <link>https://www.apple.com/education/college-students/success-stories/goss/</link>
-      <guid isPermaLink="true">https://www.apple.com/education/college-students/success-stories/goss/</guid>
-      <pubDate>Thu, 16 Apr 2026 15:00:49 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
   </channel>
