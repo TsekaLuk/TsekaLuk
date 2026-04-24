@@ -208,11 +208,11 @@ Last Updated: Saturday, April 25th, 2026, 2:41:19 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [XOXO Explore](https://xoxofest.com/blog/2026-launching-xoxo-explore/) — *Daring Fireball* `04-24`
-- [New Zealand Passed a Generational Smoking Ban in 2022, But Repealed It Before It Went Into Effect](https://www.theguardian.com/world/2023/nov/27/new-zealand-scraps-world-first-smoking-generation-ban-to-fund-tax-cuts) — *Daring Fireball* `04-24`
-- [Pluralistic: A free, open visual identity for enshittification (24 Apr 2026)](https://pluralistic.net/2026/04/24/poop-emoji-plus-plus/) — *Pluralistic: Daily links from Cory Doctorow* `04-24`
-- [Does Mythos mean you need to shut down your Open Source repositories?](https://shkspr.mobi/blog/2026/04/does-mythos-mean-you-need-to-shut-down-your-open-source-repos/) — *Terence Eden’s Blog* `04-24`
-- [DeepSeek V4 - almost on the frontier, a fraction of the price](https://simonwillison.net/2026/Apr/24/deepseek-v4/#atom-everything) — *Simon Willison's Weblog* `04-24`
+- [Premium: How OpenAI Kills Oracle](https://www.wheresyoured.at/how-openai-kills-oracle/) — *Ed Zitron's Where's Your Ed At* `04-24`
+- [Blog prize for the big questions about AI](https://www.dwarkesh.com/p/blog-prize) — *Dwarkesh Podcast* `04-24`
+- [★ Norwegian Boating Licenses and Generational Law](https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law) — *Daring Fireball* `04-24`
+- [This Week on The Analog Antiquarian](https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/) — *The Digital Antiquarian* `04-24`
+- [★ ‘We Don’t Serve Their Kind Here’](https://daringfireball.net/2026/04/we_dont_serve_their_kind_here) — *Daring Fireball* `04-24`
 <!--BLOG_RADAR:end-->
 
 ---
