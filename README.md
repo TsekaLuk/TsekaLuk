@@ -208,11 +208,11 @@ Last Updated: Saturday, April 25th, 2026, 9:57:12 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Premium: How OpenAI Kills Oracle](https://www.wheresyoured.at/how-openai-kills-oracle/) — *Ed Zitron's Where's Your Ed At* `04-24`
-- [Blog prize for the big questions about AI](https://www.dwarkesh.com/p/blog-prize) — *Dwarkesh Podcast* `04-24`
-- [★ Norwegian Boating Licenses and Generational Law](https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law) — *Daring Fireball* `04-24`
-- [This Week on The Analog Antiquarian](https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/) — *The Digital Antiquarian* `04-24`
-- [★ ‘We Don’t Serve Their Kind Here’](https://daringfireball.net/2026/04/we_dont_serve_their_kind_here) — *Daring Fireball* `04-24`
+- [Our backup MX server was easy to build, but yours might not be](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OurEasyBackupMXAndWhy) — *Chris's Wiki :: blog* `04-25`
+- [★ Time to Serve Some Delicious Claim Chowder Regarding the Cook-Ternus CEO Transition](https://daringfireball.net/2026/04/delicious_claim_chowder_regarding_the_cook-ternus_ceo_transition) — *Daring Fireball* `04-25`
+- [How nonlinearity affects a pendulum](https://www.johndcook.com/blog/2026/04/24/nonlinear-pendulum/) — *John D. Cook* `04-24`
+- [llm 0.31](https://simonwillison.net/2026/Apr/24/llm/#atom-everything) — *Simon Willison's Weblog* `04-24`
+- [The people do not yearn for automation](https://simonwillison.net/2026/Apr/24/the-people-do-not-yearn-for-automation/#atom-everything) — *Simon Willison's Weblog* `04-24`
 <!--BLOG_RADAR:end-->
 
 ---
