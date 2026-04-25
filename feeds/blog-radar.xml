@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 25 Apr 2026 07:39:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 13:20:23 +0000</lastBuildDate>
+    <item>
+      <title>nth derivative of a quotient</title>
+      <link>https://www.johndcook.com/blog/2026/04/25/nth-derivative-of-a-quotient/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/04/25/nth-derivative-of-a-quotient/</guid>
+      <pubDate>Sat, 25 Apr 2026 13:12:39 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Quoting Romain Huet</title>
+      <link>https://simonwillison.net/2026/Apr/25/romain-huet/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/25/romain-huet/#atom-everything</guid>
+      <pubDate>Sat, 25 Apr 2026 12:06:55 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>You can parse an .env file as an .ini with PHP - but there's a catch</title>
+      <link>https://shkspr.mobi/blog/2026/04/you-can-parse-an-env-file-as-an-ini-with-php-but-theres-a-catch/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/you-can-parse-an-env-file-as-an-ini-with-php-but-theres-a-catch/</guid>
+      <pubDate>Sat, 25 Apr 2026 11:34:15 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Pluralistic: Ada Palmer's "Inventing the Renaissance" (25 Apr 2026)</title>
+      <link>https://pluralistic.net/2026/04/25/machiavellian/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/04/25/machiavellian/</guid>
+      <pubDate>Sat, 25 Apr 2026 11:17:58 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
     <item>
       <title>What Do You Charge For?</title>
       <link>https://idiallo.com/blog/what-do-you-charge-for?src=feed</link>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://martinalderson.com/posts/figmas-woes-compound-with-claude-design/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
       <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
       <description>Martin Alderson</description>
-    </item>
-    <item>
-      <title>Changes in the system prompt between Claude Opus 4.6 and 4.7</title>
-      <link>https://simonwillison.net/2026/Apr/18/opus-system-prompt/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/18/opus-system-prompt/#atom-everything</guid>
-      <pubDate>Sat, 18 Apr 2026 23:59:40 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Tiny Go and Rust programs appear to start equally fast (on some machines)</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/programming/GoVsRustStartupDelays</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/programming/GoVsRustStartupDelays</guid>
-      <pubDate>Sat, 18 Apr 2026 21:30:11 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>A Taxing Discussion</title>
-      <link>https://feed.tedium.co/link/15204/17321557/tax-forms-history-irs</link>
-      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17321557/tax-forms-history-irs</guid>
-      <pubDate>Sat, 18 Apr 2026 19:11:40 +0000</pubDate>
-      <description>Tedium: The Dull Side of the Internet.</description>
-    </item>
-    <item>
-      <title>★ ‘A Reading Room on Wheels, a Lover’s Lane, and, After 11 PM, a Flophouse’</title>
-      <link>https://daringfireball.net/2026/04/kubrick_new_york_subway</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/04/kubrick_new_york_subway</guid>
-      <pubDate>Sat, 18 Apr 2026 17:52:56 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
