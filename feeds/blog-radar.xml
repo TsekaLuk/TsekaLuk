@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 25 Apr 2026 13:20:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 19:04:14 +0000</lastBuildDate>
+    <item>
+      <title>The Satisfaction of a ChatGPT Plan</title>
+      <link>https://idiallo.com/byte-size/the-satisfaction-of-a-chatgpt-plan?src=feed</link>
+      <guid isPermaLink="true">https://idiallo.com/byte-size/the-satisfaction-of-a-chatgpt-plan?src=feed</guid>
+      <pubDate>Sat, 25 Apr 2026 17:44:16 +0000</pubDate>
+      <description>iDiallo.com</description>
+    </item>
+    <item>
+      <title>WHY ARE YOU LIKE THIS</title>
+      <link>https://simonwillison.net/2026/Apr/25/why-are-you-like-this/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/25/why-are-you-like-this/#atom-everything</guid>
+      <pubDate>Sat, 25 Apr 2026 16:44:01 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Closed-form solution to the nonlinear pendulum equation</title>
+      <link>https://www.johndcook.com/blog/2026/04/25/exact-solution-nonlinear-pendulum/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/04/25/exact-solution-nonlinear-pendulum/</guid>
+      <pubDate>Sat, 25 Apr 2026 16:16:12 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Reading List 04/25/26</title>
+      <link>https://www.construction-physics.com/p/reading-list-042526</link>
+      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-042526</guid>
+      <pubDate>Sat, 25 Apr 2026 14:16:17 +0000</pubDate>
+      <description>Construction Physics</description>
+    </item>
     <item>
       <title>nth derivative of a quotient</title>
       <link>https://www.johndcook.com/blog/2026/04/25/nth-derivative-of-a-quotient/</link>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://workos.com/blog/agents-need-authorization-not-just-authentication?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026</guid>
       <pubDate>Sun, 19 Apr 2026 17:37:01 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>What is freedom?</title>
-      <link>https://geohot.github.io//blog/jekyll/update/2026/04/20/what-is-freedom.html</link>
-      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/04/20/what-is-freedom.html</guid>
-      <pubDate>Sun, 19 Apr 2026 16:00:00 +0000</pubDate>
-      <description>the singularity is nearer</description>
-    </item>
-    <item>
-      <title>Reprojecting Dual Fisheye Videos to Equirectangular (LG 360)</title>
-      <link>https://shkspr.mobi/blog/2026/04/reprojecting-dual-fisheye-videos-to-equirectangular-lg-360/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/reprojecting-dual-fisheye-videos-to-equirectangular-lg-360/</guid>
-      <pubDate>Sun, 19 Apr 2026 11:34:32 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Wander Console 0.5.0</title>
-      <link>https://susam.net/code/news/wander/0.5.0.html</link>
-      <guid isPermaLink="true">https://susam.net/code/news/wander/0.5.0.html</guid>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Susam Pal</description>
-    </item>
-    <item>
-      <title>Figma's woes compound with Claude Design</title>
-      <link>https://martinalderson.com/posts/figmas-woes-compound-with-claude-design/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
-      <guid isPermaLink="true">https://martinalderson.com/posts/figmas-woes-compound-with-claude-design/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
-      <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Martin Alderson</description>
     </item>
   </channel>
 </rss>

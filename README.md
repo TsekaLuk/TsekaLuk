@@ -208,11 +208,11 @@ Last Updated: Sunday, April 26th, 2026, 2:41:37 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [The Satisfaction of a ChatGPT Plan](https://idiallo.com/byte-size/the-satisfaction-of-a-chatgpt-plan?src=feed) — *iDiallo.com* `04-25`
+- [WHY ARE YOU LIKE THIS](https://simonwillison.net/2026/Apr/25/why-are-you-like-this/#atom-everything) — *Simon Willison's Weblog* `04-25`
+- [Closed-form solution to the nonlinear pendulum equation](https://www.johndcook.com/blog/2026/04/25/exact-solution-nonlinear-pendulum/) — *John D. Cook* `04-25`
+- [Reading List 04/25/26](https://www.construction-physics.com/p/reading-list-042526) — *Construction Physics* `04-25`
 - [nth derivative of a quotient](https://www.johndcook.com/blog/2026/04/25/nth-derivative-of-a-quotient/) — *John D. Cook* `04-25`
-- [Quoting Romain Huet](https://simonwillison.net/2026/Apr/25/romain-huet/#atom-everything) — *Simon Willison's Weblog* `04-25`
-- [You can parse an .env file as an .ini with PHP - but there's a catch](https://shkspr.mobi/blog/2026/04/you-can-parse-an-env-file-as-an-ini-with-php-but-theres-a-catch/) — *Terence Eden’s Blog* `04-25`
-- [Pluralistic: Ada Palmer's "Inventing the Renaissance" (25 Apr 2026)](https://pluralistic.net/2026/04/25/machiavellian/) — *Pluralistic: Daily links from Cory Doctorow* `04-25`
-- [What Do You Charge For?](https://idiallo.com/blog/what-do-you-charge-for?src=feed) — *iDiallo.com* `04-25`
 <!--BLOG_RADAR:end-->
 
 ---
