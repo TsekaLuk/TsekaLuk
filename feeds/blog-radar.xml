@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 25 Apr 2026 03:18:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 07:39:23 +0000</lastBuildDate>
+    <item>
+      <title>What Do You Charge For?</title>
+      <link>https://idiallo.com/blog/what-do-you-charge-for?src=feed</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/what-do-you-charge-for?src=feed</guid>
+      <pubDate>Sat, 25 Apr 2026 05:00:00 +0000</pubDate>
+      <description>iDiallo.com</description>
+    </item>
+    <item>
+      <title>GPT-5.5 prompting guide</title>
+      <link>https://simonwillison.net/2026/Apr/25/gpt-5-5-prompting-guide/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/25/gpt-5-5-prompting-guide/#atom-everything</guid>
+      <pubDate>Sat, 25 Apr 2026 04:13:36 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Our backup MX server was easy to build, but yours might not be</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OurEasyBackupMXAndWhy</link>
@@ -67,6 +81,13 @@
       <guid isPermaLink="true">https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/</guid>
       <pubDate>Fri, 24 Apr 2026 16:09:50 +0000</pubDate>
       <description>The Digital Antiquarian</description>
+    </item>
+    <item>
+      <title>A Mutating AI Powered Virus</title>
+      <link>https://geohot.github.io//blog/jekyll/update/2026/04/25/a-mutating-virus.html</link>
+      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/04/25/a-mutating-virus.html</guid>
+      <pubDate>Fri, 24 Apr 2026 16:00:00 +0000</pubDate>
+      <description>the singularity is nearer</description>
     </item>
     <item>
       <title>★ ‘We Don’t Serve Their Kind Here’</title>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://daringfireball.net/2026/04/kubrick_new_york_subway</guid>
       <pubDate>Sat, 18 Apr 2026 17:52:56 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Mac Mini and Mac Studio Supply Shortages</title>
-      <link>https://www.wsj.com/tech/personal-tech/apple-mac-mini-supply-3e7a7509?st=fKpr4Q</link>
-      <guid isPermaLink="true">https://www.wsj.com/tech/personal-tech/apple-mac-mini-supply-3e7a7509?st=fKpr4Q</guid>
-      <pubDate>Sat, 18 Apr 2026 16:48:37 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The electromechanical angle computer inside the B-52 bomber's star tracker</title>
-      <link>http://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html</link>
-      <guid isPermaLink="true">http://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html</guid>
-      <pubDate>Sat, 18 Apr 2026 16:24:00 +0000</pubDate>
-      <description>Ken Shirriff's blog</description>
-    </item>
-    <item>
-      <title>Gaussian distributed weights for LLMs</title>
-      <link>https://www.johndcook.com/blog/2026/04/18/qlora/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/04/18/qlora/</guid>
-      <pubDate>Sat, 18 Apr 2026 14:49:27 +0000</pubDate>
-      <description>John D. Cook</description>
     </item>
   </channel>
 </rss>

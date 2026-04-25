@@ -208,11 +208,11 @@ Last Updated: Saturday, April 25th, 2026, 3:06:26 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [What Do You Charge For?](https://idiallo.com/blog/what-do-you-charge-for?src=feed) — *iDiallo.com* `04-25`
+- [GPT-5.5 prompting guide](https://simonwillison.net/2026/Apr/25/gpt-5-5-prompting-guide/#atom-everything) — *Simon Willison's Weblog* `04-25`
 - [Our backup MX server was easy to build, but yours might not be](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OurEasyBackupMXAndWhy) — *Chris's Wiki :: blog* `04-25`
 - [★ Time to Serve Some Delicious Claim Chowder Regarding the Cook-Ternus CEO Transition](https://daringfireball.net/2026/04/delicious_claim_chowder_regarding_the_cook-ternus_ceo_transition) — *Daring Fireball* `04-25`
 - [How nonlinearity affects a pendulum](https://www.johndcook.com/blog/2026/04/24/nonlinear-pendulum/) — *John D. Cook* `04-24`
-- [llm 0.31](https://simonwillison.net/2026/Apr/24/llm/#atom-everything) — *Simon Willison's Weblog* `04-24`
-- [The people do not yearn for automation](https://simonwillison.net/2026/Apr/24/the-people-do-not-yearn-for-automation/#atom-everything) — *Simon Willison's Weblog* `04-24`
 <!--BLOG_RADAR:end-->
 
 ---
