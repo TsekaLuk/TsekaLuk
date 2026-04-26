@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 26 Apr 2026 07:48:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 13:21:40 +0000</lastBuildDate>
     <item>
       <title>Understanding the Ubuntu server installer initramfs</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuServerInstallerInitramfs</link>
@@ -160,18 +160,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>New 10 GbE USB adapters are cooler, smaller, cheaper</title>
-      <link>https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/</guid>
-      <pubDate>Fri, 24 Apr 2026 14:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
       <title>Defending against exceptions in a scope_exit RAII type</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260424-00/?p=112266</link>
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260424-00/?p=112266</guid>
       <pubDate>Fri, 24 Apr 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>New 10 GbE USB adapters are cooler, smaller, cheaper</title>
+      <link>https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/</guid>
+      <pubDate>Fri, 24 Apr 2026 14:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
     </item>
     <item>
       <title>XOXO Explore</title>
