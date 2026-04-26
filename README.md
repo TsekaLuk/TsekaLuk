@@ -208,11 +208,11 @@ Last Updated: Sunday, April 26th, 2026, 10:10:38 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Understanding the Ubuntu server installer initramfs](https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuServerInstallerInitramfs) — *Chris's Wiki :: blog* `04-26`
 - [The Satisfaction of a ChatGPT Plan](https://idiallo.com/byte-size/the-satisfaction-of-a-chatgpt-plan?src=feed) — *iDiallo.com* `04-25`
 - [WHY ARE YOU LIKE THIS](https://simonwillison.net/2026/Apr/25/why-are-you-like-this/#atom-everything) — *Simon Willison's Weblog* `04-25`
 - [Closed-form solution to the nonlinear pendulum equation](https://www.johndcook.com/blog/2026/04/25/exact-solution-nonlinear-pendulum/) — *John D. Cook* `04-25`
 - [Reading List 04/25/26](https://www.construction-physics.com/p/reading-list-042526) — *Construction Physics* `04-25`
-- [nth derivative of a quotient](https://www.johndcook.com/blog/2026/04/25/nth-derivative-of-a-quotient/) — *John D. Cook* `04-25`
 <!--BLOG_RADAR:end-->
 
 ---

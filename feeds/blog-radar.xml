@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 25 Apr 2026 19:04:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 03:40:32 +0000</lastBuildDate>
+    <item>
+      <title>Understanding the Ubuntu server installer initramfs</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuServerInstallerInitramfs</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuServerInstallerInitramfs</guid>
+      <pubDate>Sun, 26 Apr 2026 02:48:10 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
     <item>
       <title>The Satisfaction of a ChatGPT Plan</title>
       <link>https://idiallo.com/byte-size/the-satisfaction-of-a-chatgpt-plan?src=feed</link>
@@ -836,13 +843,6 @@
       <link>https://variety.com/2026/tv/columns/jessica-chastain-apple-tv-finally-release-the-savant-after-postponement-charlie-kirk-assassination-1236725384/</link>
       <guid isPermaLink="true">https://variety.com/2026/tv/columns/jessica-chastain-apple-tv-finally-release-the-savant-after-postponement-charlie-kirk-assassination-1236725384/</guid>
       <pubDate>Sun, 19 Apr 2026 18:51:43 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>WorkOS FGA: The Authorization Layer for AI Agents</title>
-      <link>https://workos.com/blog/agents-need-authorization-not-just-authentication?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026</link>
-      <guid isPermaLink="true">https://workos.com/blog/agents-need-authorization-not-just-authentication?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026</guid>
-      <pubDate>Sun, 19 Apr 2026 17:37:01 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
   </channel>
