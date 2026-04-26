@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 26 Apr 2026 13:21:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 19:05:40 +0000</lastBuildDate>
+    <item>
+      <title>DF Paraphernalia: Last Call for This Round of T-Shirts and Hoodies</title>
+      <link>https://store.daringfireball.net/</link>
+      <guid isPermaLink="true">https://store.daringfireball.net/</guid>
+      <pubDate>Sun, 26 Apr 2026 17:58:25 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis</title>
+      <link>https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/</link>
+      <guid isPermaLink="true">https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/</guid>
+      <pubDate>Sun, 26 Apr 2026 17:39:40 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>How Bitwarden Encrypts and Decrypts Secrets</title>
+      <link>https://blog.miguelgrinberg.com/post/how-bitwarden-encrypts-and-decrypts-secrets</link>
+      <guid isPermaLink="true">https://blog.miguelgrinberg.com/post/how-bitwarden-encrypts-and-decrypts-secrets</guid>
+      <pubDate>Sun, 26 Apr 2026 14:05:41 +0000</pubDate>
+      <description>Miguel Grinberg's Blog</description>
+    </item>
     <item>
       <title>Understanding the Ubuntu server installer initramfs</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuServerInstallerInitramfs</link>
@@ -160,18 +181,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Defending against exceptions in a scope_exit RAII type</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260424-00/?p=112266</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260424-00/?p=112266</guid>
-      <pubDate>Fri, 24 Apr 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
       <title>New 10 GbE USB adapters are cooler, smaller, cheaper</title>
       <link>https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/</link>
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/</guid>
       <pubDate>Fri, 24 Apr 2026 14:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>Defending against exceptions in a scope_exit RAII type</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260424-00/?p=112266</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260424-00/?p=112266</guid>
+      <pubDate>Fri, 24 Apr 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>XOXO Explore</title>
@@ -417,13 +438,6 @@
       <guid isPermaLink="true">https://lucumr.pocoo.org/2026/4/23/equity-for-europeans/</guid>
       <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
       <description>Armin Ronacher's Thoughts and Writings</description>
-    </item>
-    <item>
-      <title>DF T-Shirts and Hoodies: Get Them While the Getting Is Good</title>
-      <link>https://store.daringfireball.net/</link>
-      <guid isPermaLink="true">https://store.daringfireball.net/</guid>
-      <pubDate>Wed, 22 Apr 2026 19:38:55 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
     <item>
       <title>There Are Corrections, and There Are Corrections</title>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/hook-it-up-to-the-machine/</guid>
       <pubDate>Sun, 19 Apr 2026 19:00:00 +0000</pubDate>
       <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
-      <title>Big tech clouds worden niet veiliger met stapels papier</title>
-      <link>https://berthub.eu/articles/posts/big-tech-clouds-niet-veiliger-met-papier/</link>
-      <guid isPermaLink="true">https://berthub.eu/articles/posts/big-tech-clouds-niet-veiliger-met-papier/</guid>
-      <pubDate>Sun, 19 Apr 2026 19:00:00 +0000</pubDate>
-      <description>Bert Hubert's writings</description>
-    </item>
-    <item>
-      <title>Jessica Chastain Says Apple TV Will Finally Release ‘The Savant’</title>
-      <link>https://variety.com/2026/tv/columns/jessica-chastain-apple-tv-finally-release-the-savant-after-postponement-charlie-kirk-assassination-1236725384/</link>
-      <guid isPermaLink="true">https://variety.com/2026/tv/columns/jessica-chastain-apple-tv-finally-release-the-savant-after-postponement-charlie-kirk-assassination-1236725384/</guid>
-      <pubDate>Sun, 19 Apr 2026 18:51:43 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
