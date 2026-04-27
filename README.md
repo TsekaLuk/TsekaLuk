@@ -208,11 +208,11 @@ Last Updated: Monday, April 27th, 2026, 9:27:21 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [What I've been thinking about this weekend - More open questions, intelligence vs power, the problem of verification in science, the parallel discovery of Darwinism](https://www.dwarkesh.com/p/what-ive-been-thinking-april-27) — *Dwarkesh Podcast* `04-27`
+- [Theatre Review: Hadestown ★★★★★](https://shkspr.mobi/blog/2026/04/theatre-review-hadestown/) — *Terence Eden’s Blog* `04-27`
+- [Pluralistic: The enshittification multiverse (27 Apr 2026)](https://pluralistic.net/2026/04/27/analogs-and-analogies/) — *Pluralistic: Daily links from Cory Doctorow* `04-27`
 - [Browsers, OCSP, and a view of the web in practice](https://utcc.utoronto.ca/~cks/space/blog/web/BrowsersAndWhoCanChange) — *Chris's Wiki :: blog* `04-27`
 - [DF Paraphernalia: Last Call for This Round of T-Shirts and Hoodies](https://store.daringfireball.net/) — *Daring Fireball* `04-26`
-- [★ The New York Times Printed the Wrong Crossword Grid Last Sunday, and I Find That Timing Serendipitous](https://daringfireball.net/2026/04/nyt_wrong_crossword_grid) — *Daring Fireball* `04-26`
-- [Collective Speed Is Not the Summation of Individual Speed](https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/) — *Jim Nielsen’s Blog* `04-26`
-- [Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis](https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/) — *Daring Fireball* `04-26`
 <!--BLOG_RADAR:end-->
 
 ---

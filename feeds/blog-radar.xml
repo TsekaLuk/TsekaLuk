@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 27 Apr 2026 08:36:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 14:12:41 +0000</lastBuildDate>
+    <item>
+      <title>What I've been thinking about this weekend - More open questions, intelligence vs power, the problem of verification in science, the parallel discovery of Darwinism</title>
+      <link>https://www.dwarkesh.com/p/what-ive-been-thinking-april-27</link>
+      <guid isPermaLink="true">https://www.dwarkesh.com/p/what-ive-been-thinking-april-27</guid>
+      <pubDate>Mon, 27 Apr 2026 13:51:32 +0000</pubDate>
+      <description>Dwarkesh Podcast</description>
+    </item>
+    <item>
+      <title>Theatre Review: Hadestown ★★★★★</title>
+      <link>https://shkspr.mobi/blog/2026/04/theatre-review-hadestown/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/theatre-review-hadestown/</guid>
+      <pubDate>Mon, 27 Apr 2026 11:34:27 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Pluralistic: The enshittification multiverse (27 Apr 2026)</title>
+      <link>https://pluralistic.net/2026/04/27/analogs-and-analogies/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/04/27/analogs-and-analogies/</guid>
+      <pubDate>Mon, 27 Apr 2026 08:39:48 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
     <item>
       <title>Browsers, OCSP, and a view of the web in practice</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/web/BrowsersAndWhoCanChange</link>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Apr/20/datasette-sql/#atom-everything</guid>
       <pubDate>Mon, 20 Apr 2026 02:33:58 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>How we lost the living Now</title>
-      <link>https://www.joanwestenberg.com/how-we-lost-the-living-now/</link>
-      <guid isPermaLink="true">https://www.joanwestenberg.com/how-we-lost-the-living-now/</guid>
-      <pubDate>Mon, 20 Apr 2026 01:01:22 +0000</pubDate>
-      <description>Westenberg.</description>
-    </item>
-    <item>
-      <title>Claude Token Counter, now with model comparisons</title>
-      <link>https://simonwillison.net/2026/Apr/20/claude-token-counts/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/20/claude-token-counts/#atom-everything</guid>
-      <pubDate>Mon, 20 Apr 2026 00:50:45 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>256 Lines or Less: Test Case Minimization</title>
-      <link>https://matklad.github.io/2026/04/20/test-case-minimization.html</link>
-      <guid isPermaLink="true">https://matklad.github.io/2026/04/20/test-case-minimization.html</guid>
-      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
-      <description>matklad</description>
     </item>
   </channel>
 </rss>
