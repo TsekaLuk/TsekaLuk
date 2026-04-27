@@ -209,10 +209,10 @@ Last Updated: Monday, April 27th, 2026, 10:12:46 AM
 
 <!--BLOG_RADAR:start-->
 - [DF Paraphernalia: Last Call for This Round of T-Shirts and Hoodies](https://store.daringfireball.net/) — *Daring Fireball* `04-26`
+- [★ The New York Times Printed the Wrong Crossword Grid Last Sunday, and I Find That Timing Serendipitous](https://daringfireball.net/2026/04/nyt_wrong_crossword_grid) — *Daring Fireball* `04-26`
 - [Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis](https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/) — *Daring Fireball* `04-26`
 - [How Bitwarden Encrypts and Decrypts Secrets](https://blog.miguelgrinberg.com/post/how-bitwarden-encrypts-and-decrypts-secrets) — *Miguel Grinberg's Blog* `04-26`
 - [Understanding the Ubuntu server installer initramfs](https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuServerInstallerInitramfs) — *Chris's Wiki :: blog* `04-26`
-- [The Satisfaction of a ChatGPT Plan](https://idiallo.com/byte-size/the-satisfaction-of-a-chatgpt-plan?src=feed) — *iDiallo.com* `04-25`
 <!--BLOG_RADAR:end-->
 
 ---
