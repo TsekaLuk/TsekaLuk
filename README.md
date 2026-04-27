@@ -208,11 +208,11 @@ Last Updated: Tuesday, April 28th, 2026, 3:10:16 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Yours Truly on The Vergecast](https://www.theverge.com/podcast/917965/apple-ceo-cook-ternus-transition) — *Daring Fireball* `04-27`
+- [Tracking the history of the now-deceased OpenAI Microsoft AGI clause](https://simonwillison.net/2026/Apr/27/now-deceased-agi-clause/#atom-everything) — *Simon Willison's Weblog* `04-27`
+- [Speech translation in Google Meet is now rolling out to mobile devices](https://simonwillison.net/2026/Apr/27/speech-translation-in-google-meet-is-now-rolling-out-to-mobile-d/#atom-everything) — *Simon Willison's Weblog* `04-27`
+- [Looking at consequences of passing too few register parameters to a C function on various architectures](https://devblogs.microsoft.com/oldnewthing/20260427-00/?p=112271) — *The Old New Thing* `04-27`
 - [What I've been thinking about this weekend - More open questions, intelligence vs power, the problem of verification in science, the parallel discovery of Darwinism](https://www.dwarkesh.com/p/what-ive-been-thinking-april-27) — *Dwarkesh Podcast* `04-27`
-- [Theatre Review: Hadestown ★★★★★](https://shkspr.mobi/blog/2026/04/theatre-review-hadestown/) — *Terence Eden’s Blog* `04-27`
-- [Pluralistic: The enshittification multiverse (27 Apr 2026)](https://pluralistic.net/2026/04/27/analogs-and-analogies/) — *Pluralistic: Daily links from Cory Doctorow* `04-27`
-- [Browsers, OCSP, and a view of the web in practice](https://utcc.utoronto.ca/~cks/space/blog/web/BrowsersAndWhoCanChange) — *Chris's Wiki :: blog* `04-27`
-- [DF Paraphernalia: Last Call for This Round of T-Shirts and Hoodies](https://store.daringfireball.net/) — *Daring Fireball* `04-26`
 <!--BLOG_RADAR:end-->
 
 ---

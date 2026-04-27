@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 27 Apr 2026 14:12:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 19:42:39 +0000</lastBuildDate>
+    <item>
+      <title>Yours Truly on The Vergecast</title>
+      <link>https://www.theverge.com/podcast/917965/apple-ceo-cook-ternus-transition</link>
+      <guid isPermaLink="true">https://www.theverge.com/podcast/917965/apple-ceo-cook-ternus-transition</guid>
+      <pubDate>Mon, 27 Apr 2026 18:46:32 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Tracking the history of the now-deceased OpenAI Microsoft AGI clause</title>
+      <link>https://simonwillison.net/2026/Apr/27/now-deceased-agi-clause/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/27/now-deceased-agi-clause/#atom-everything</guid>
+      <pubDate>Mon, 27 Apr 2026 18:38:17 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Speech translation in Google Meet is now rolling out to mobile devices</title>
+      <link>https://simonwillison.net/2026/Apr/27/speech-translation-in-google-meet-is-now-rolling-out-to-mobile-d/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/27/speech-translation-in-google-meet-is-now-rolling-out-to-mobile-d/#atom-everything</guid>
+      <pubDate>Mon, 27 Apr 2026 17:37:47 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Looking at consequences of passing too few register parameters to a C function on various architectures</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260427-00/?p=112271</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260427-00/?p=112271</guid>
+      <pubDate>Mon, 27 Apr 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
     <item>
       <title>What I've been thinking about this weekend - More open questions, intelligence vs power, the problem of verification in science, the parallel discovery of Darwinism</title>
       <link>https://www.dwarkesh.com/p/what-ive-been-thinking-april-27</link>
@@ -18,6 +46,13 @@
       <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/theatre-review-hadestown/</guid>
       <pubDate>Mon, 27 Apr 2026 11:34:27 +0000</pubDate>
       <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>The stages of package installation</title>
+      <link>https://nesbitt.io/2026/04/27/the-stages-of-package-installation.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/04/27/the-stages-of-package-installation.html</guid>
+      <pubDate>Mon, 27 Apr 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
     </item>
     <item>
       <title>Pluralistic: The enshittification multiverse (27 Apr 2026)</title>
@@ -809,41 +844,6 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260420-00/?p=112245</guid>
       <pubDate>Mon, 20 Apr 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>More on Newton’s diameter theorem</title>
-      <link>https://www.johndcook.com/blog/2026/04/20/newton-diameter-quintic/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/04/20/newton-diameter-quintic/</guid>
-      <pubDate>Mon, 20 Apr 2026 13:50:33 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Advice from a millionaire</title>
-      <link>https://idiallo.com/blog/advice-from-a-millionaire?src=feed</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/advice-from-a-millionaire?src=feed</guid>
-      <pubDate>Mon, 20 Apr 2026 12:00:00 +0000</pubDate>
-      <description>iDiallo.com</description>
-    </item>
-    <item>
-      <title>Book Review: Up - A scientist's guide to the magic above us by Dr Lucy Rogers ★★★★★</title>
-      <link>https://shkspr.mobi/blog/2026/04/book-review-up-a-scientists-guide-to-the-magic-above-us-by-dr-lucy-rogers/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/book-review-up-a-scientists-guide-to-the-magic-above-us-by-dr-lucy-rogers/</guid>
-      <pubDate>Mon, 20 Apr 2026 11:34:38 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Ignoring missing TLS "Client Authentication" usage in practice</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/tech/TLSIgnoringMissingClientAuth</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/tech/TLSIgnoringMissingClientAuth</guid>
-      <pubDate>Mon, 20 Apr 2026 03:26:49 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>SQL functions in Google Sheets to fetch data from Datasette</title>
-      <link>https://simonwillison.net/2026/Apr/20/datasette-sql/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/20/datasette-sql/#atom-everything</guid>
-      <pubDate>Mon, 20 Apr 2026 02:33:58 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
