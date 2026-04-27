@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 27 Apr 2026 03:45:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 08:36:59 +0000</lastBuildDate>
+    <item>
+      <title>Browsers, OCSP, and a view of the web in practice</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/web/BrowsersAndWhoCanChange</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/web/BrowsersAndWhoCanChange</guid>
+      <pubDate>Mon, 27 Apr 2026 03:42:19 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
     <item>
       <title>DF Paraphernalia: Last Call for This Round of T-Shirts and Hoodies</title>
       <link>https://store.daringfireball.net/</link>
@@ -18,6 +25,13 @@
       <guid isPermaLink="true">https://daringfireball.net/2026/04/nyt_wrong_crossword_grid</guid>
       <pubDate>Sun, 26 Apr 2026 19:28:59 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Collective Speed Is Not the Summation of Individual Speed</title>
+      <link>https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/</guid>
+      <pubDate>Sun, 26 Apr 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
     </item>
     <item>
       <title>Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis</title>
@@ -195,18 +209,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Defending against exceptions in a scope_exit RAII type</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260424-00/?p=112266</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260424-00/?p=112266</guid>
-      <pubDate>Fri, 24 Apr 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
       <title>New 10 GbE USB adapters are cooler, smaller, cheaper</title>
       <link>https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/</link>
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/</guid>
       <pubDate>Fri, 24 Apr 2026 14:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>Defending against exceptions in a scope_exit RAII type</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260424-00/?p=112266</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260424-00/?p=112266</guid>
+      <pubDate>Fri, 24 Apr 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>XOXO Explore</title>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://matklad.github.io/2026/04/20/test-case-minimization.html</guid>
       <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
       <description>matklad</description>
-    </item>
-    <item>
-      <title>Discovering Prince, Ten Years Later</title>
-      <link>https://anildash.com/2026/04/20/prince-ten-years/</link>
-      <guid isPermaLink="true">https://anildash.com/2026/04/20/prince-ten-years/</guid>
-      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Anil Dash</description>
-    </item>
-    <item>
-      <title>Headless everything for personal AI</title>
-      <link>https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything</guid>
-      <pubDate>Sun, 19 Apr 2026 21:46:38 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>

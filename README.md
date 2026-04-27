@@ -208,11 +208,11 @@ Last Updated: Monday, April 27th, 2026, 4:12:14 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Browsers, OCSP, and a view of the web in practice](https://utcc.utoronto.ca/~cks/space/blog/web/BrowsersAndWhoCanChange) — *Chris's Wiki :: blog* `04-27`
 - [DF Paraphernalia: Last Call for This Round of T-Shirts and Hoodies](https://store.daringfireball.net/) — *Daring Fireball* `04-26`
 - [★ The New York Times Printed the Wrong Crossword Grid Last Sunday, and I Find That Timing Serendipitous](https://daringfireball.net/2026/04/nyt_wrong_crossword_grid) — *Daring Fireball* `04-26`
+- [Collective Speed Is Not the Summation of Individual Speed](https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of individual-speed/) — *Jim Nielsen’s Blog* `04-26`
 - [Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis](https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/) — *Daring Fireball* `04-26`
-- [How Bitwarden Encrypts and Decrypts Secrets](https://blog.miguelgrinberg.com/post/how-bitwarden-encrypts-and-decrypts-secrets) — *Miguel Grinberg's Blog* `04-26`
-- [Understanding the Ubuntu server installer initramfs](https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuServerInstallerInitramfs) — *Chris's Wiki :: blog* `04-26`
 <!--BLOG_RADAR:end-->
 
 ---
