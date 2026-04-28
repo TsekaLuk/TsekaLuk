@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 28 Apr 2026 03:51:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 08:35:01 +0000</lastBuildDate>
+    <item>
+      <title>Pluralistic: Vicky Osterweil's "The Extended Universe" (28 Apr 2026)</title>
+      <link>https://pluralistic.net/2026/04/27/mouseketeers/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/04/27/mouseketeers/</guid>
+      <pubDate>Tue, 28 Apr 2026 05:57:01 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>What's new in pip 26.1 - lockfiles and dependency cooldowns!</title>
+      <link>https://simonwillison.net/2026/Apr/28/pip-261/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/28/pip-261/#atom-everything</guid>
+      <pubDate>Tue, 28 Apr 2026 05:23:05 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Weekly Update 501</title>
+      <link>https://www.troyhunt.com/weekly-update-501/</link>
+      <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-501/</guid>
+      <pubDate>Tue, 28 Apr 2026 05:01:42 +0000</pubDate>
+      <description>Troy Hunt</description>
+    </item>
     <item>
       <title>The easy way to switch my libvirt-based virtual machines to UEFI</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/linux/LibvirtSwitchingToUEFI-2</link>
@@ -822,27 +843,6 @@
       <link>https://daringfireball.net/2026/04/another_day_has_come</link>
       <guid isPermaLink="true">https://daringfireball.net/2026/04/another_day_has_come</guid>
       <pubDate>Tue, 21 Apr 2026 03:59:41 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>A backup MX will get accessed by various sorts of people</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/spam/BackupMXGetsAccessed</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/spam/BackupMXGetsAccessed</guid>
-      <pubDate>Tue, 21 Apr 2026 03:10:09 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>Spaced Repetition: Beginner Guide/FAQ</title>
-      <link>https://entropicthoughts.com/spaced-repetition-beginner-guide-faq</link>
-      <guid isPermaLink="true">https://entropicthoughts.com/spaced-repetition-beginner-guide-faq</guid>
-      <pubDate>Mon, 20 Apr 2026 22:00:00 +0000</pubDate>
-      <description>Entropic Thoughts</description>
-    </item>
-    <item>
-      <title>‘Community Letter From Tim’</title>
-      <link>https://www.apple.com/community-letter-from-tim/</link>
-      <guid isPermaLink="true">https://www.apple.com/community-letter-from-tim/</guid>
-      <pubDate>Mon, 20 Apr 2026 21:37:22 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
   </channel>

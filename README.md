@@ -208,11 +208,11 @@ Last Updated: Tuesday, April 28th, 2026, 4:14:18 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Pluralistic: Vicky Osterweil's "The Extended Universe" (28 Apr 2026)](https://pluralistic.net/2026/04/27/mouseketeers/) — *Pluralistic: Daily links from Cory Doctorow* `04-28`
+- [What's new in pip 26.1 - lockfiles and dependency cooldowns!](https://simonwillison.net/2026/Apr/28/pip-261/#atom-everything) — *Simon Willison's Weblog* `04-28`
+- [Weekly Update 501](https://www.troyhunt.com/weekly-update-501/) — *Troy Hunt* `04-28`
 - [The easy way to switch my libvirt-based virtual machines to UEFI](https://utcc.utoronto.ca/~cks/space/blog/linux/LibvirtSwitchingToUEFI-2) — *Chris's Wiki :: blog* `04-28`
 - [Introducing talkie: a 13B vintage language model from 1930](https://simonwillison.net/2026/Apr/28/talkie/#atom-everything) — *Simon Willison's Weblog* `04-28`
-- [Rec League](https://recleague.com/?lyr_campaign=df) — *Daring Fireball* `04-28`
-- [QuickQWERTY 1.2.2](https://susam.net/code/news/quickqwerty/1.2.2.html) — *Susam Pal* `04-28`
-- [microsoft/VibeVoice](https://simonwillison.net/2026/Apr/27/vibevoice/#atom-everything) — *Simon Willison's Weblog* `04-27`
 <!--BLOG_RADAR:end-->
 
 ---
