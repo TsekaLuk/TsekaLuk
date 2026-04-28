@@ -4,7 +4,63 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 27 Apr 2026 19:42:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 03:51:09 +0000</lastBuildDate>
+    <item>
+      <title>The easy way to switch my libvirt-based virtual machines to UEFI</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/LibvirtSwitchingToUEFI-2</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/LibvirtSwitchingToUEFI-2</guid>
+      <pubDate>Tue, 28 Apr 2026 03:27:47 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>Introducing talkie: a 13B vintage language model from 1930</title>
+      <link>https://simonwillison.net/2026/Apr/28/talkie/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/28/talkie/#atom-everything</guid>
+      <pubDate>Tue, 28 Apr 2026 02:47:42 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Rec League</title>
+      <link>https://recleague.com/?lyr_campaign=df</link>
+      <guid isPermaLink="true">https://recleague.com/?lyr_campaign=df</guid>
+      <pubDate>Tue, 28 Apr 2026 00:48:30 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>QuickQWERTY 1.2.2</title>
+      <link>https://susam.net/code/news/quickqwerty/1.2.2.html</link>
+      <guid isPermaLink="true">https://susam.net/code/news/quickqwerty/1.2.2.html</guid>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Susam Pal</description>
+    </item>
+    <item>
+      <title>microsoft/VibeVoice</title>
+      <link>https://simonwillison.net/2026/Apr/27/vibevoice/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/27/vibevoice/#atom-everything</guid>
+      <pubDate>Mon, 27 Apr 2026 23:46:56 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Sponsor The Talk Show</title>
+      <link>https://daringfireball.net/feeds/sponsors/</link>
+      <guid isPermaLink="true">https://daringfireball.net/feeds/sponsors/</guid>
+      <pubDate>Mon, 27 Apr 2026 23:42:25 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Don't use localhost:3000, use your own custom domain</title>
+      <link>https://idiallo.com/blog/say-no-to-localhost3000-use-custom-domains?src=feed</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/say-no-to-localhost3000-use-custom-domains?src=feed</guid>
+      <pubDate>Mon, 27 Apr 2026 23:17:54 +0000</pubDate>
+      <description>iDiallo.com</description>
+    </item>
+    <item>
+      <title>The Loop: everything has happened before, and everything will happen again</title>
+      <link>https://www.joanwestenberg.com/the-loop-everything-has-happened-before-and-everything-will-happen-again/</link>
+      <guid isPermaLink="true">https://www.joanwestenberg.com/the-loop-everything-has-happened-before-and-everything-will-happen-again/</guid>
+      <pubDate>Mon, 27 Apr 2026 22:38:38 +0000</pubDate>
+      <description>Westenberg.</description>
+    </item>
     <item>
       <title>Yours Truly on The Vergecast</title>
       <link>https://www.theverge.com/podcast/917965/apple-ceo-cook-ternus-transition</link>
@@ -629,13 +685,6 @@
       <description>Chris's Wiki :: blog</description>
     </item>
     <item>
-      <title>[Sponsor] Rec League</title>
-      <link>https://recleague.com/?lyr_campaign=df</link>
-      <guid isPermaLink="true">https://recleague.com/?lyr_campaign=df</guid>
-      <pubDate>Wed, 22 Apr 2026 03:03:18 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
       <title>Is Claude Code going to cost $100/month? Probably not - it's all very confusing</title>
       <link>https://simonwillison.net/2026/Apr/22/claude-code-confusion/#atom-everything</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Apr/22/claude-code-confusion/#atom-everything</guid>
@@ -795,55 +844,6 @@
       <guid isPermaLink="true">https://www.apple.com/community-letter-from-tim/</guid>
       <pubDate>Mon, 20 Apr 2026 21:37:22 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Apple: ‘Tim Cook to Become Apple Executive Chairman; John Ternus to Become Apple CEO’</title>
-      <link>https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/</link>
-      <guid isPermaLink="true">https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/</guid>
-      <pubDate>Mon, 20 Apr 2026 20:44:58 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Writing an LLM from scratch, part 32l -- Interventions: updated instruction fine-tuning results</title>
-      <link>https://www.gilesthomas.com/2026/04/llm-from-scratch-32l-interventions-instruction-fine-tuning-tests</link>
-      <guid isPermaLink="true">https://www.gilesthomas.com/2026/04/llm-from-scratch-32l-interventions-instruction-fine-tuning-tests</guid>
-      <pubDate>Mon, 20 Apr 2026 20:00:00 +0000</pubDate>
-      <description>Giles' blog</description>
-    </item>
-    <item>
-      <title>llm-openrouter 0.6</title>
-      <link>https://simonwillison.net/2026/Apr/20/llm-openrouter/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/20/llm-openrouter/#atom-everything</guid>
-      <pubDate>Mon, 20 Apr 2026 18:00:26 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Exclusive: Microsoft To Shift GitHub Copilot Users To Token-Based Billing, Tighten Rate Limits</title>
-      <link>https://www.wheresyoured.at/news-microsoft-to-shift-github-copilot-users-to-token-based-billing-reduce-rate-limits-2/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/news-microsoft-to-shift-github-copilot-users-to-token-based-billing-reduce-rate-limits-2/</guid>
-      <pubDate>Mon, 20 Apr 2026 17:11:58 +0000</pubDate>
-      <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>Apple’s Annual Environmental Progress Report</title>
-      <link>https://www.apple.com/newsroom/2026/04/apple-accelerates-progress-with-highest-ever-recycled-material-in-its-products/</link>
-      <guid isPermaLink="true">https://www.apple.com/newsroom/2026/04/apple-accelerates-progress-with-highest-ever-recycled-material-in-its-products/</guid>
-      <pubDate>Mon, 20 Apr 2026 17:09:30 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Pluralistic: Comrade Trump (20 Apr 2026)</title>
-      <link>https://pluralistic.net/2026/04/20/praxis/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/04/20/praxis/</guid>
-      <pubDate>Mon, 20 Apr 2026 16:44:33 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>How did code handle 24-bit-per-pixel formats when using video cards with bank-switched memory?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260420-00/?p=112245</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260420-00/?p=112245</guid>
-      <pubDate>Mon, 20 Apr 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
     </item>
   </channel>
 </rss>

@@ -208,11 +208,11 @@ Last Updated: Tuesday, April 28th, 2026, 10:28:42 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Yours Truly on The Vergecast](https://www.theverge.com/podcast/917965/apple-ceo-cook-ternus-transition) — *Daring Fireball* `04-27`
-- [Tracking the history of the now-deceased OpenAI Microsoft AGI clause](https://simonwillison.net/2026/Apr/27/now-deceased-agi-clause/#atom-everything) — *Simon Willison's Weblog* `04-27`
-- [Speech translation in Google Meet is now rolling out to mobile devices](https://simonwillison.net/2026/Apr/27/speech-translation-in-google-meet-is-now-rolling-out-to-mobile-d/#atom-everything) — *Simon Willison's Weblog* `04-27`
-- [Looking at consequences of passing too few register parameters to a C function on various architectures](https://devblogs.microsoft.com/oldnewthing/20260427-00/?p=112271) — *The Old New Thing* `04-27`
-- [What I've been thinking about this weekend - More open questions, intelligence vs power, the problem of verification in science, the parallel discovery of Darwinism](https://www.dwarkesh.com/p/what-ive-been-thinking-april-27) — *Dwarkesh Podcast* `04-27`
+- [The easy way to switch my libvirt-based virtual machines to UEFI](https://utcc.utoronto.ca/~cks/space/blog/linux/LibvirtSwitchingToUEFI-2) — *Chris's Wiki :: blog* `04-28`
+- [Introducing talkie: a 13B vintage language model from 1930](https://simonwillison.net/2026/Apr/28/talkie/#atom-everything) — *Simon Willison's Weblog* `04-28`
+- [Rec League](https://recleague.com/?lyr_campaign=df) — *Daring Fireball* `04-28`
+- [QuickQWERTY 1.2.2](https://susam.net/code/news/quickqwerty/1.2.2.html) — *Susam Pal* `04-28`
+- [microsoft/VibeVoice](https://simonwillison.net/2026/Apr/27/vibevoice/#atom-everything) — *Simon Willison's Weblog* `04-27`
 <!--BLOG_RADAR:end-->
 
 ---
