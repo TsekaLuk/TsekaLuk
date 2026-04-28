@@ -208,11 +208,11 @@ Last Updated: Wednesday, April 29th, 2026, 3:25:56 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Pluralistic: Vicky Osterweil's "The Extended Universe" (28 Apr 2026)](https://pluralistic.net/2026/04/27/mouseketeers/) — *Pluralistic: Daily links from Cory Doctorow* `04-28`
-- [What's new in pip 26.1 - lockfiles and dependency cooldowns!](https://simonwillison.net/2026/Apr/28/pip-261/#atom-everything) — *Simon Willison's Weblog* `04-28`
-- [Weekly Update 501](https://www.troyhunt.com/weekly-update-501/) — *Troy Hunt* `04-28`
-- [The easy way to switch my libvirt-based virtual machines to UEFI](https://utcc.utoronto.ca/~cks/space/blog/linux/LibvirtSwitchingToUEFI-2) — *Chris's Wiki :: blog* `04-28`
-- [Introducing talkie: a 13B vintage language model from 1930](https://simonwillison.net/2026/Apr/28/talkie/#atom-everything) — *Simon Willison's Weblog* `04-28`
+- [10Gb Ethernet: what I had to (re)learn](https://www.gilesthomas.com/2026/04/10g-ethernet-what-i-relearned) — *Giles' blog* `04-28`
+- [The 3rd Annual Blog Post Competition, Extravaganza, and Jamboree](https://www.experimental-history.com/p/the-3rd-annual-blog-post-competition) — *Experimental History* `04-28`
+- [AI's Economics Don't Make Sense](https://www.wheresyoured.at/ais-economics-dont-make-sense/) — *Ed Zitron's Where's Your Ed At* `04-28`
+- [AI's Economics Don't Make Sense [Ad Free]](https://www.wheresyoured.at/ais-economics-dont-make-sense-ad-free/) — *Ed Zitron's Where's Your Ed At* `04-28`
+- [Illegal vs Unwanted States](https://buttondown.com/hillelwayne/archive/illegal-vs-unwanted-states/) — *Computer Things* `04-28`
 <!--BLOG_RADAR:end-->
 
 ---
