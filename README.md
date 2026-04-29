@@ -208,11 +208,11 @@ Last Updated: Wednesday, April 29th, 2026, 10:28:55 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [10Gb Ethernet: what I had to (re)learn](https://www.gilesthomas.com/2026/04/10g-ethernet-what-i-relearned) — *Giles' blog* `04-28`
-- [The 3rd Annual Blog Post Competition, Extravaganza, and Jamboree](https://www.experimental-history.com/p/the-3rd-annual-blog-post-competition) — *Experimental History* `04-28`
-- [AI's Economics Don't Make Sense](https://www.wheresyoured.at/ais-economics-dont-make-sense/) — *Ed Zitron's Where's Your Ed At* `04-28`
-- [AI's Economics Don't Make Sense [Ad Free]](https://www.wheresyoured.at/ais-economics-dont-make-sense-ad-free/) — *Ed Zitron's Where's Your Ed At* `04-28`
-- [Illegal vs Unwanted States](https://buttondown.com/hillelwayne/archive/illegal-vs-unwanted-states/) — *Computer Things* `04-28`
+- [If it's in JSON, it's not really a configuration file](https://utcc.utoronto.ca/~cks/space/blog/programming/JSONNotConfigurationFile) — *Chris's Wiki :: blog* `04-29`
+- [On wintering.](https://www.joanwestenberg.com/on-wintering/) — *Westenberg.* `04-29`
+- [OpenAI Projects ChatGPT Plus subscriptions to drop by 80% from 44 Million in 2025 to 9 Million In 2026, Made Up Using Cheaper Subscriptions (Somehow)](https://www.wheresyoured.at/openai-projects-chatgpt-plus-subscriptions-to-drop-by-80-from-44-million-in-2025-to-9-million-in-2026-made-up-using-cheaper-subscriptions-somehow/) — *Ed Zitron's Where's Your Ed At* `04-28`
+- [Quoting OpenAI Codex base_instructions](https://simonwillison.net/2026/Apr/28/openai-codex/#atom-everything) — *Simon Willison's Weblog* `04-28`
+- [Turning a trick into a technique](https://www.johndcook.com/blog/2026/04/28/even-series-trick/) — *John D. Cook* `04-28`
 <!--BLOG_RADAR:end-->
 
 ---
