@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 29 Apr 2026 03:47:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 08:28:41 +0000</lastBuildDate>
+    <item>
+      <title>When The Bill Comes Due</title>
+      <link>https://feed.tedium.co/link/15204/17327554/openai-anthropic-ai-tools-expensive-alternatives</link>
+      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17327554/openai-anthropic-ai-tools-expensive-alternatives</guid>
+      <pubDate>Wed, 29 Apr 2026 03:30:00 +0000</pubDate>
+      <description>Tedium: The Dull Side of the Internet.</description>
+    </item>
     <item>
       <title>If it's in JSON, it's not really a configuration file</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/programming/JSONNotConfigurationFile</link>
@@ -153,18 +160,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Ghostty Is Leaving GitHub</title>
-      <link>https://mitchellh.com/writing/ghostty-leaving-github</link>
-      <guid isPermaLink="true">https://mitchellh.com/writing/ghostty-leaving-github</guid>
-      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Mitchell Hashimoto</description>
-    </item>
-    <item>
       <title>Spring 2026 Dev Contest Results!</title>
       <link>https://repebble.com/blog/spring-2026-dev-contest-results</link>
       <guid isPermaLink="true">https://repebble.com/blog/spring-2026-dev-contest-results</guid>
       <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
       <description>Eric Migicovsky's Blog RSS Feed</description>
+    </item>
+    <item>
+      <title>Ghostty Is Leaving GitHub</title>
+      <link>https://mitchellh.com/writing/ghostty-leaving-github</link>
+      <guid isPermaLink="true">https://mitchellh.com/writing/ghostty-leaving-github</guid>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Mitchell Hashimoto</description>
     </item>
     <item>
       <title>Before GitHub</title>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Apr/22/changes-to-github-copilot/#atom-everything</guid>
       <pubDate>Wed, 22 Apr 2026 03:30:02 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Some general notes on network booting UEFI machines</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/tech/UEFINetworkBootNotes</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/tech/UEFINetworkBootNotes</guid>
-      <pubDate>Wed, 22 Apr 2026 03:26:18 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
     </item>
   </channel>
 </rss>

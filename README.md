@@ -208,11 +208,11 @@ Last Updated: Wednesday, April 29th, 2026, 4:07:26 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [When The Bill Comes Due](https://feed.tedium.co/link/15204/17327554/openai-anthropic-ai-tools-expensive-alternatives) — *Tedium: The Dull Side of the Internet.* `04-29`
 - [If it's in JSON, it's not really a configuration file](https://utcc.utoronto.ca/~cks/space/blog/programming/JSONNotConfigurationFile) — *Chris's Wiki :: blog* `04-29`
 - [On wintering.](https://www.joanwestenberg.com/on-wintering/) — *Westenberg.* `04-29`
 - [OpenAI Projects ChatGPT Plus subscriptions to drop by 80% from 44 Million in 2025 to 9 Million In 2026, Made Up Using Cheaper Subscriptions (Somehow)](https://www.wheresyoured.at/openai-projects-chatgpt-plus-subscriptions-to-drop-by-80-from-44-million-in-2025-to-9-million-in-2026-made-up-using-cheaper-subscriptions-somehow/) — *Ed Zitron's Where's Your Ed At* `04-28`
 - [Quoting OpenAI Codex base_instructions](https://simonwillison.net/2026/Apr/28/openai-codex/#atom-everything) — *Simon Willison's Weblog* `04-28`
-- [Turning a trick into a technique](https://www.johndcook.com/blog/2026/04/28/even-series-trick/) — *John D. Cook* `04-28`
 <!--BLOG_RADAR:end-->
 
 ---
