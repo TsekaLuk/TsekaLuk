@@ -208,11 +208,11 @@ Last Updated: Thursday, April 30th, 2026, 3:16:32 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [10Gb/s Ethernet: what I actually did to get it working in my home](https://www.gilesthomas.com/2026/04/10g-ethernet-what-i-did) — *Giles' blog* `04-29`
-- [Playing With Fire](https://x.com/lifeof_jer/status/2048103471019434248?s=12) — *Daring Fireball* `04-29`
-- [Let's Get Digging!](https://shkspr.mobi/blog/2026/04/lets-get-digging/) — *Terence Eden’s Blog* `04-29`
-- [When The Bill Comes Due](https://feed.tedium.co/link/15204/17327554/openai-anthropic-ai-tools-expensive-alternatives) — *Tedium: The Dull Side of the Internet.* `04-29`
-- [If it's in JSON, it's not really a configuration file](https://utcc.utoronto.ca/~cks/space/blog/programming/JSONNotConfigurationFile) — *Chris's Wiki :: blog* `04-29`
+- [LLM 0.32a0 is a major backwards-compatible refactor](https://simonwillison.net/2026/Apr/29/llm/#atom-everything) — *Simon Willison's Weblog* `04-29`
+- [Reiner Pope – The math behind how LLMs are trained and served](https://www.dwarkesh.com/p/reiner-pope) — *Dwarkesh Podcast* `04-29`
+- [Raspberry Pi Connect may control Windows soon](https://www.jeffgeerling.com/blog/2026/raspberry-pi-connect-may-control-windows-soon/) — *Jeff Geerling* `04-29`
+- [‘Elon Musk Appeared More Petty Than Prepared’](https://www.theverge.com/ai-artificial-intelligence/920191/elon-musk-sam-altman-trial-day-one?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InBrV1FGdGtlcEEiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzkyMDE5MS9lbG9uLW11c2stc2FtLWFsdG1hbi10cmlhbC1kYXktb25lIiwiZXhwIjoxNzc3OTA1NDgxLCJpYXQiOjE3Nzc0NzM0ODF9.FkMZ8-YRv8q3d7n6p8q_scJaERWtNumD9pK7kONpTE4) — *Daring Fireball* `04-29`
+- [‘Sordid and Small’](https://www.theatlantic.com/technology/2026/04/openai-trial-elon-musk-sam-altman/686984/?gift=iWa_iB9lkw4UuiWbIbrWGYJmg9p-llxzEAgykQekDFA) — *Daring Fireball* `04-29`
 <!--BLOG_RADAR:end-->
 
 ---

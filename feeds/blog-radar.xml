@@ -4,7 +4,49 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 29 Apr 2026 14:20:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 19:45:47 +0000</lastBuildDate>
+    <item>
+      <title>LLM 0.32a0 is a major backwards-compatible refactor</title>
+      <link>https://simonwillison.net/2026/Apr/29/llm/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/29/llm/#atom-everything</guid>
+      <pubDate>Wed, 29 Apr 2026 19:01:47 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Reiner Pope – The math behind how LLMs are trained and served</title>
+      <link>https://www.dwarkesh.com/p/reiner-pope</link>
+      <guid isPermaLink="true">https://www.dwarkesh.com/p/reiner-pope</guid>
+      <pubDate>Wed, 29 Apr 2026 17:07:03 +0000</pubDate>
+      <description>Dwarkesh Podcast</description>
+    </item>
+    <item>
+      <title>Raspberry Pi Connect may control Windows soon</title>
+      <link>https://www.jeffgeerling.com/blog/2026/raspberry-pi-connect-may-control-windows-soon/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/raspberry-pi-connect-may-control-windows-soon/</guid>
+      <pubDate>Wed, 29 Apr 2026 17:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>‘Elon Musk Appeared More Petty Than Prepared’</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/920191/elon-musk-sam-altman-trial-day-one?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InBrV1FGdGtlcEEiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzkyMDE5MS9lbG9uLW11c2stc2FtLWFsdG1hbi10cmlhbC1kYXktb25lIiwiZXhwIjoxNzc3OTA1NDgxLCJpYXQiOjE3Nzc0NzM0ODF9.FkMZ8-YRv8q3d7n6p8q_scJaERWtNumD9pK7kONpTE4</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/920191/elon-musk-sam-altman-trial-day-one?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InBrV1FGdGtlcEEiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzkyMDE5MS9lbG9uLW11c2stc2FtLWFsdG1hbi10cmlhbC1kYXktb25lIiwiZXhwIjoxNzc3OTA1NDgxLCJpYXQiOjE3Nzc0NzM0ODF9.FkMZ8-YRv8q3d7n6p8q_scJaERWtNumD9pK7kONpTE4</guid>
+      <pubDate>Wed, 29 Apr 2026 15:15:29 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>‘Sordid and Small’</title>
+      <link>https://www.theatlantic.com/technology/2026/04/openai-trial-elon-musk-sam-altman/686984/?gift=iWa_iB9lkw4UuiWbIbrWGYJmg9p-llxzEAgykQekDFA</link>
+      <guid isPermaLink="true">https://www.theatlantic.com/technology/2026/04/openai-trial-elon-musk-sam-altman/686984/?gift=iWa_iB9lkw4UuiWbIbrWGYJmg9p-llxzEAgykQekDFA</guid>
+      <pubDate>Wed, 29 Apr 2026 15:03:21 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>OpenAI Trial Starts With Two Very Different Tales of a Company’s Early Years</title>
+      <link>https://www.nytimes.com/2026/04/28/technology/openai-trial-elon-musk-sam-altman.html?unlocked_article_code=1.elA.u75G.-STmUe_pILOO</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/04/28/technology/openai-trial-elon-musk-sam-altman.html?unlocked_article_code=1.elA.u75G.-STmUe_pILOO</guid>
+      <pubDate>Wed, 29 Apr 2026 14:35:42 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>10Gb/s Ethernet: what I actually did to get it working in my home</title>
       <link>https://www.gilesthomas.com/2026/04/10g-ethernet-what-i-did</link>
@@ -46,6 +88,13 @@
       <guid isPermaLink="true">https://www.joanwestenberg.com/on-wintering/</guid>
       <pubDate>Wed, 29 Apr 2026 01:54:43 +0000</pubDate>
       <description>Westenberg.</description>
+    </item>
+    <item>
+      <title>Multiple URLs in Git Remote</title>
+      <link>https://susam.net/multiple-urls-in-git-remote.html</link>
+      <guid isPermaLink="true">https://susam.net/multiple-urls-in-git-remote.html</guid>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Susam Pal</description>
     </item>
     <item>
       <title>OpenAI Projects ChatGPT Plus subscriptions to drop by 80% from 44 Million in 2025 to 9 Million In 2026, Made Up Using Cheaper Subscriptions (Somehow)</title>
@@ -181,18 +230,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Ghostty Is Leaving GitHub</title>
-      <link>https://mitchellh.com/writing/ghostty-leaving-github</link>
-      <guid isPermaLink="true">https://mitchellh.com/writing/ghostty-leaving-github</guid>
-      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Mitchell Hashimoto</description>
-    </item>
-    <item>
       <title>Spring 2026 Dev Contest Results!</title>
       <link>https://repebble.com/blog/spring-2026-dev-contest-results</link>
       <guid isPermaLink="true">https://repebble.com/blog/spring-2026-dev-contest-results</guid>
       <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
       <description>Eric Migicovsky's Blog RSS Feed</description>
+    </item>
+    <item>
+      <title>Ghostty Is Leaving GitHub</title>
+      <link>https://mitchellh.com/writing/ghostty-leaving-github</link>
+      <guid isPermaLink="true">https://mitchellh.com/writing/ghostty-leaving-github</guid>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Mitchell Hashimoto</description>
     </item>
     <item>
       <title>Before GitHub</title>
@@ -795,55 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Apr/22/qwen36-27b/#atom-everything</guid>
       <pubDate>Wed, 22 Apr 2026 16:45:23 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Ben Thompson on Tim Cook’s Legacy</title>
-      <link>https://stratechery.com/2026/tim-cooks-impeccable-timing/</link>
-      <guid isPermaLink="true">https://stratechery.com/2026/tim-cooks-impeccable-timing/</guid>
-      <pubDate>Wed, 22 Apr 2026 16:35:37 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Do you really want the US to “win” AI?</title>
-      <link>https://geohot.github.io//blog/jekyll/update/2026/04/23/us-win-ai.html</link>
-      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/04/23/us-win-ai.html</guid>
-      <pubDate>Wed, 22 Apr 2026 16:00:00 +0000</pubDate>
-      <description>the singularity is nearer</description>
-    </item>
-    <item>
-      <title>AI and Teaching – The Brave New World</title>
-      <link>https://steveblank.com/2026/04/22/ai-and-teaching-the-brave-new-world/</link>
-      <guid isPermaLink="true">https://steveblank.com/2026/04/22/ai-and-teaching-the-brave-new-world/</guid>
-      <pubDate>Wed, 22 Apr 2026 15:34:09 +0000</pubDate>
-      <description>Steve Blank</description>
-    </item>
-    <item>
-      <title>Pluralistic: It's not a crime if we do it (to nurses) with an app (22 Apr 2026)</title>
-      <link>https://pluralistic.net/2026/04/22/uber-for-nurses/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/04/22/uber-for-nurses/</guid>
-      <pubDate>Wed, 22 Apr 2026 15:24:00 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Mapping the page tables into memory via the page tables</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260422-00/?p=112255</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260422-00/?p=112255</guid>
-      <pubDate>Wed, 22 Apr 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>How to Come Up With Great Ideas</title>
-      <link>https://idiallo.com/blog/how-to-come-up-with-great-ideas?src=feed</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/how-to-come-up-with-great-ideas?src=feed</guid>
-      <pubDate>Wed, 22 Apr 2026 12:00:00 +0000</pubDate>
-      <description>iDiallo.com</description>
-    </item>
-    <item>
-      <title>[RSS Club] How do you preserve an RSS feed?</title>
-      <link>https://shkspr.mobi/blog/2026/04/rss-club-how-do-you-preserve-an-rss-feed/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/rss-club-how-do-you-preserve-an-rss-feed/</guid>
-      <pubDate>Wed, 22 Apr 2026 11:34:46 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
   </channel>
 </rss>
