@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 29 Apr 2026 08:28:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 14:20:04 +0000</lastBuildDate>
+    <item>
+      <title>10Gb/s Ethernet: what I actually did to get it working in my home</title>
+      <link>https://www.gilesthomas.com/2026/04/10g-ethernet-what-i-did</link>
+      <guid isPermaLink="true">https://www.gilesthomas.com/2026/04/10g-ethernet-what-i-did</guid>
+      <pubDate>Wed, 29 Apr 2026 14:15:00 +0000</pubDate>
+      <description>Giles' blog</description>
+    </item>
+    <item>
+      <title>Playing With Fire</title>
+      <link>https://x.com/lifeof_jer/status/2048103471019434248?s=12</link>
+      <guid isPermaLink="true">https://x.com/lifeof_jer/status/2048103471019434248?s=12</guid>
+      <pubDate>Wed, 29 Apr 2026 13:38:22 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Let's Get Digging!</title>
+      <link>https://shkspr.mobi/blog/2026/04/lets-get-digging/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/lets-get-digging/</guid>
+      <pubDate>Wed, 29 Apr 2026 11:34:23 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
     <item>
       <title>When The Bill Comes Due</title>
       <link>https://feed.tedium.co/link/15204/17327554/openai-anthropic-ai-tools-expensive-alternatives</link>
@@ -48,7 +69,7 @@
       <description>John D. Cook</description>
     </item>
     <item>
-      <title>10Gb Ethernet: what I had to (re)learn</title>
+      <title>10Gb/s Ethernet: what I had to (re)learn</title>
       <link>https://www.gilesthomas.com/2026/04/10g-ethernet-what-i-relearned</link>
       <guid isPermaLink="true">https://www.gilesthomas.com/2026/04/10g-ethernet-what-i-relearned</guid>
       <pubDate>Tue, 28 Apr 2026 18:45:00 +0000</pubDate>
@@ -160,18 +181,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Spring 2026 Dev Contest Results!</title>
-      <link>https://repebble.com/blog/spring-2026-dev-contest-results</link>
-      <guid isPermaLink="true">https://repebble.com/blog/spring-2026-dev-contest-results</guid>
-      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Eric Migicovsky's Blog RSS Feed</description>
-    </item>
-    <item>
       <title>Ghostty Is Leaving GitHub</title>
       <link>https://mitchellh.com/writing/ghostty-leaving-github</link>
       <guid isPermaLink="true">https://mitchellh.com/writing/ghostty-leaving-github</guid>
       <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
       <description>Mitchell Hashimoto</description>
+    </item>
+    <item>
+      <title>Spring 2026 Dev Contest Results!</title>
+      <link>https://repebble.com/blog/spring-2026-dev-contest-results</link>
+      <guid isPermaLink="true">https://repebble.com/blog/spring-2026-dev-contest-results</guid>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Eric Migicovsky's Blog RSS Feed</description>
     </item>
     <item>
       <title>Before GitHub</title>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/rss-club-how-do-you-preserve-an-rss-feed/</guid>
       <pubDate>Wed, 22 Apr 2026 11:34:46 +0000</pubDate>
       <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Quoting Bobby Holley</title>
-      <link>https://simonwillison.net/2026/Apr/22/bobby-holley/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/22/bobby-holley/#atom-everything</guid>
-      <pubDate>Wed, 22 Apr 2026 05:40:56 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>The Scapegoat</title>
-      <link>https://feed.tedium.co/link/15204/17323348/mcclatchy-journalism-ai-scapegoat</link>
-      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17323348/mcclatchy-journalism-ai-scapegoat</guid>
-      <pubDate>Wed, 22 Apr 2026 03:35:00 +0000</pubDate>
-      <description>Tedium: The Dull Side of the Internet.</description>
-    </item>
-    <item>
-      <title>Changes to GitHub Copilot Individual plans</title>
-      <link>https://simonwillison.net/2026/Apr/22/changes-to-github-copilot/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/22/changes-to-github-copilot/#atom-everything</guid>
-      <pubDate>Wed, 22 Apr 2026 03:30:02 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
