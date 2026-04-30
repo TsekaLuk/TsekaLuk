@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 30 Apr 2026 03:49:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 08:31:23 +0000</lastBuildDate>
     <item>
       <title>Thoughts on WebAssembly as a stack machine</title>
       <link>https://eli.thegreenplace.net/2026/thoughts-on-webassembly-as-a-stack-machine/</link>
@@ -25,6 +25,13 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Apr/30/zig-anti-ai/#atom-everything</guid>
       <pubDate>Thu, 30 Apr 2026 01:24:23 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Why are the Artemis II photos on Flickr?</title>
+      <link>https://anildash.com/2026/04/30/artemis-photos-flickr/</link>
+      <guid isPermaLink="true">https://anildash.com/2026/04/30/artemis-photos-flickr/</guid>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Anil Dash</description>
     </item>
     <item>
       <title>llm 0.32a1</title>
@@ -608,18 +615,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>New 10 GbE USB adapters are cooler, smaller, cheaper</title>
-      <link>https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/</guid>
-      <pubDate>Fri, 24 Apr 2026 14:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
       <title>Defending against exceptions in a scope_exit RAII type</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260424-00/?p=112266</link>
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260424-00/?p=112266</guid>
       <pubDate>Fri, 24 Apr 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>New 10 GbE USB adapters are cooler, smaller, cheaper</title>
+      <link>https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/</guid>
+      <pubDate>Fri, 24 Apr 2026 14:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
     </item>
     <item>
       <title>XOXO Explore</title>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/sneaky-spam-in-conversational-replies-to-blog-posts/</guid>
       <pubDate>Thu, 23 Apr 2026 11:34:48 +0000</pubDate>
       <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>The various steps of a UEFI network install from an Ubuntu server ISO</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuServerISONetworkInstall</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuServerISONetworkInstall</guid>
-      <pubDate>Thu, 23 Apr 2026 03:28:20 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
     </item>
   </channel>
 </rss>

@@ -211,8 +211,8 @@ Last Updated: Thursday, April 30th, 2026, 4:10:38 PM
 - [Thoughts on WebAssembly as a stack machine](https://eli.thegreenplace.net/2026/thoughts-on-webassembly-as-a-stack-machine/) — *Eli Bendersky's website* `04-30`
 - [Switching entirely to Corfu in my GNU Emacs configuration](https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsSwitchingToOnlyCorfu) — *Chris's Wiki :: blog* `04-30`
 - [The Zig project's rationale for their firm anti-AI contribution policy](https://simonwillison.net/2026/Apr/30/zig-anti-ai/#atom-everything) — *Simon Willison's Weblog* `04-30`
+- [Why are the Artemis II photos on Flickr?](https://anildash.com/2026/04/30/artemis-photos-flickr/) — *Anil Dash* `04-30`
 - [llm 0.32a1](https://simonwillison.net/2026/Apr/29/llm-3/#atom-everything) — *Simon Willison's Weblog* `04-29`
-- [Have You Seen the New Excel?](https://idiallo.com/blog/have-you-seen-the-new-xl-ai-parody?src=feed) — *iDiallo.com* `04-29`
 <!--BLOG_RADAR:end-->
 
 ---
