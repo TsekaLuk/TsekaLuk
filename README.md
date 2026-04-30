@@ -198,11 +198,11 @@ Last Updated: Friday, May 1st, 2026, 3:11:48 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Anti-DDoS Firm Heaped Attacks on Brazilian ISPs](https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/) — *Krebs on Security* `04-30`
-- [How an Oil Refinery Works](https://www.construction-physics.com/p/how-an-oil-refinery-works) — *Construction Physics* `04-30`
-- [If I Could Make My Own GitHub](https://matduggan.com/if-i-could-make-my-own-github/) — *matduggan.com* `04-30`
-- [Thoughts on WebAssembly as a stack machine](https://eli.thegreenplace.net/2026/thoughts-on-webassembly-as-a-stack-machine/) — *Eli Bendersky's website* `04-30`
-- [Switching entirely to Corfu in my GNU Emacs configuration](https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsSwitchingToOnlyCorfu) — *Chris's Wiki :: blog* `04-30`
+- [We need RSS for sharing abundant vibe-coded apps](https://simonwillison.net/2026/Apr/30/rss-vibe-coded-apps/#atom-everything) — *Simon Willison's Weblog* `04-30`
+- [I’m Starting to Wonder What They’re Smoking Over There at MacRumors](https://www.macrumors.com/2026/04/29/apple-questioning-iphone-magsafe/) — *Daring Fireball* `04-30`
+- [Three ways to differentiate ReLU](https://www.johndcook.com/blog/2026/04/30/derivative-of-relu/) — *John D. Cook* `04-30`
+- [Pluralistic: How not to ban surveillance pricing (30 Apr 2026)](https://pluralistic.net/2026/04/30/something-must-be-done/) — *Pluralistic: Daily links from Cory Doctorow* `04-30`
+- [New Banksy in London](https://www.instagram.com/reel/DXwf7pis6KT/) — *Daring Fireball* `04-30`
 <!--BLOG_RADAR:end-->
 
 ---
