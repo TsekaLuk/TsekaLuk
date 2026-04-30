@@ -4,12 +4,61 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 29 Apr 2026 19:45:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 03:49:21 +0000</lastBuildDate>
+    <item>
+      <title>Thoughts on WebAssembly as a stack machine</title>
+      <link>https://eli.thegreenplace.net/2026/thoughts-on-webassembly-as-a-stack-machine/</link>
+      <guid isPermaLink="true">https://eli.thegreenplace.net/2026/thoughts-on-webassembly-as-a-stack-machine/</guid>
+      <pubDate>Thu, 30 Apr 2026 02:28:00 +0000</pubDate>
+      <description>Eli Bendersky's website</description>
+    </item>
+    <item>
+      <title>Switching entirely to Corfu in my GNU Emacs configuration</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsSwitchingToOnlyCorfu</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsSwitchingToOnlyCorfu</guid>
+      <pubDate>Thu, 30 Apr 2026 02:23:21 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>The Zig project's rationale for their firm anti-AI contribution policy</title>
+      <link>https://simonwillison.net/2026/Apr/30/zig-anti-ai/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/30/zig-anti-ai/#atom-everything</guid>
+      <pubDate>Thu, 30 Apr 2026 01:24:23 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>llm 0.32a1</title>
+      <link>https://simonwillison.net/2026/Apr/29/llm-3/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/29/llm-3/#atom-everything</guid>
+      <pubDate>Wed, 29 Apr 2026 23:52:50 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Have You Seen the New Excel?</title>
+      <link>https://idiallo.com/blog/have-you-seen-the-new-xl-ai-parody?src=feed</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/have-you-seen-the-new-xl-ai-parody?src=feed</guid>
+      <pubDate>Wed, 29 Apr 2026 23:40:00 +0000</pubDate>
+      <description>iDiallo.com</description>
+    </item>
+    <item>
+      <title>Oakland’s Airport Is Now Officially ‘Oakland San Francisco Bay Airport’</title>
+      <link>https://sfstandard.com/2026/04/28/oak-sfo-reach-naming-settlement/</link>
+      <guid isPermaLink="true">https://sfstandard.com/2026/04/28/oak-sfo-reach-naming-settlement/</guid>
+      <pubDate>Wed, 29 Apr 2026 21:24:06 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>LLM 0.32a0 is a major backwards-compatible refactor</title>
       <link>https://simonwillison.net/2026/Apr/29/llm/#atom-everything</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Apr/29/llm/#atom-everything</guid>
       <pubDate>Wed, 29 Apr 2026 19:01:47 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>llm 0.32a0</title>
+      <link>https://simonwillison.net/2026/Apr/29/llm-2/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/29/llm-2/#atom-everything</guid>
+      <pubDate>Wed, 29 Apr 2026 18:57:47 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
@@ -795,55 +844,6 @@
       <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuServerISONetworkInstall</guid>
       <pubDate>Thu, 23 Apr 2026 03:28:20 +0000</pubDate>
       <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>Why prediction markets are a sure sign that our civilisation is in decay</title>
-      <link>https://www.joanwestenberg.com/why-prediction-markets-are-a-sure-sign-that-our-civilisation-is-in-decay/</link>
-      <guid isPermaLink="true">https://www.joanwestenberg.com/why-prediction-markets-are-a-sure-sign-that-our-civilisation-is-in-decay/</guid>
-      <pubDate>Thu, 23 Apr 2026 03:10:02 +0000</pubDate>
-      <description>Westenberg.</description>
-    </item>
-    <item>
-      <title>Debugging WASM in Chrome DevTools</title>
-      <link>https://eli.thegreenplace.net/2026/debugging-wasm-in-chrome-devtools/</link>
-      <guid isPermaLink="true">https://eli.thegreenplace.net/2026/debugging-wasm-in-chrome-devtools/</guid>
-      <pubDate>Thu, 23 Apr 2026 02:23:00 +0000</pubDate>
-      <description>Eli Bendersky's website</description>
-    </item>
-    <item>
-      <title>Equity for Europeans</title>
-      <link>https://lucumr.pocoo.org/2026/4/23/equity-for-europeans/</link>
-      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/4/23/equity-for-europeans/</guid>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Armin Ronacher's Thoughts and Writings</description>
-    </item>
-    <item>
-      <title>There Are Corrections, and There Are Corrections</title>
-      <link>https://www.nytimes.com/2026/04/21/nyregion/mets-mamdani-curse.html?unlocked_article_code=1.c1A.iLO0.Kqdo8aBhNAY1</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/04/21/nyregion/mets-mamdani-curse.html?unlocked_article_code=1.c1A.iLO0.Kqdo8aBhNAY1</guid>
-      <pubDate>Wed, 22 Apr 2026 18:16:30 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Writing an LLM from scratch, part 33 -- what I learned from finally getting round to the appendices</title>
-      <link>https://www.gilesthomas.com/2026/04/llm-from-scratch-33-what-i-learned-from-the-appendices</link>
-      <guid isPermaLink="true">https://www.gilesthomas.com/2026/04/llm-from-scratch-33-what-i-learned-from-the-appendices</guid>
-      <pubDate>Wed, 22 Apr 2026 17:30:00 +0000</pubDate>
-      <description>Giles' blog</description>
-    </item>
-    <item>
-      <title>[Updated] Exclusive: Microsoft Moving All GitHub Copilot Subscribers To Token-Based Billing In June</title>
-      <link>https://www.wheresyoured.at/exclusive-microsoft-moving-all-github-copilot-subscribers-to-token-based-billing-in-june/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/exclusive-microsoft-moving-all-github-copilot-subscribers-to-token-based-billing-in-june/</guid>
-      <pubDate>Wed, 22 Apr 2026 17:24:17 +0000</pubDate>
-      <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model</title>
-      <link>https://simonwillison.net/2026/Apr/22/qwen36-27b/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/22/qwen36-27b/#atom-everything</guid>
-      <pubDate>Wed, 22 Apr 2026 16:45:23 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
