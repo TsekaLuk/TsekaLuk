@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 30 Apr 2026 08:31:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 14:14:15 +0000</lastBuildDate>
+    <item>
+      <title>Anti-DDoS Firm Heaped Attacks on Brazilian ISPs</title>
+      <link>https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/</link>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/</guid>
+      <pubDate>Thu, 30 Apr 2026 14:04:26 +0000</pubDate>
+      <description>Krebs on Security</description>
+    </item>
+    <item>
+      <title>How an Oil Refinery Works</title>
+      <link>https://www.construction-physics.com/p/how-an-oil-refinery-works</link>
+      <guid isPermaLink="true">https://www.construction-physics.com/p/how-an-oil-refinery-works</guid>
+      <pubDate>Thu, 30 Apr 2026 12:03:35 +0000</pubDate>
+      <description>Construction Physics</description>
+    </item>
+    <item>
+      <title>If I Could Make My Own GitHub</title>
+      <link>https://matduggan.com/if-i-could-make-my-own-github/</link>
+      <guid isPermaLink="true">https://matduggan.com/if-i-could-make-my-own-github/</guid>
+      <pubDate>Thu, 30 Apr 2026 12:02:49 +0000</pubDate>
+      <description>matduggan.com</description>
+    </item>
     <item>
       <title>Thoughts on WebAssembly as a stack machine</title>
       <link>https://eli.thegreenplace.net/2026/thoughts-on-webassembly-as-a-stack-machine/</link>
@@ -25,6 +46,13 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Apr/30/zig-anti-ai/#atom-everything</guid>
       <pubDate>Thu, 30 Apr 2026 01:24:23 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Notes from April 2026</title>
+      <link>https://evanhahn.com/notes-from-april-2026/</link>
+      <guid isPermaLink="true">https://evanhahn.com/notes-from-april-2026/</guid>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Evan Hahn (dot com)</description>
     </item>
     <item>
       <title>Why are the Artemis II photos on Flickr?</title>
@@ -615,18 +643,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Defending against exceptions in a scope_exit RAII type</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260424-00/?p=112266</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260424-00/?p=112266</guid>
-      <pubDate>Fri, 24 Apr 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
       <title>New 10 GbE USB adapters are cooler, smaller, cheaper</title>
       <link>https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/</link>
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/</guid>
       <pubDate>Fri, 24 Apr 2026 14:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>Defending against exceptions in a scope_exit RAII type</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260424-00/?p=112266</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260424-00/?p=112266</guid>
+      <pubDate>Fri, 24 Apr 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>XOXO Explore</title>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-6-a-page-analytics-solution</guid>
       <pubDate>Thu, 23 Apr 2026 13:10:55 +0000</pubDate>
       <description>Miguel Grinberg's Blog</description>
-    </item>
-    <item>
-      <title>Pluralistic: The (other) problem with automatic conversion of free software to proprietary software (23 Apr 2026)</title>
-      <link>https://pluralistic.net/2026/04/23/poison-pill/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/04/23/poison-pill/</guid>
-      <pubDate>Thu, 23 Apr 2026 12:25:06 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Simple approximation for solving a right triangle</title>
-      <link>https://www.johndcook.com/blog/2026/04/23/solve-a-right-triangle/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/04/23/solve-a-right-triangle/</guid>
-      <pubDate>Thu, 23 Apr 2026 12:13:35 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Construction Costs Rarely Fall</title>
-      <link>https://www.construction-physics.com/p/construction-costs-rarely-fall</link>
-      <guid isPermaLink="true">https://www.construction-physics.com/p/construction-costs-rarely-fall</guid>
-      <pubDate>Thu, 23 Apr 2026 12:02:35 +0000</pubDate>
-      <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>Sneaky spam in conversational replies to blog posts</title>
-      <link>https://shkspr.mobi/blog/2026/04/sneaky-spam-in-conversational-replies-to-blog-posts/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/sneaky-spam-in-conversational-replies-to-blog-posts/</guid>
-      <pubDate>Thu, 23 Apr 2026 11:34:48 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
   </channel>
 </rss>

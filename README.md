@@ -208,11 +208,11 @@ Last Updated: Thursday, April 30th, 2026, 9:29:30 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Anti-DDoS Firm Heaped Attacks on Brazilian ISPs](https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/) — *Krebs on Security* `04-30`
+- [How an Oil Refinery Works](https://www.construction-physics.com/p/how-an-oil-refinery-works) — *Construction Physics* `04-30`
+- [If I Could Make My Own GitHub](https://matduggan.com/if-i-could-make-my-own-github/) — *matduggan.com* `04-30`
 - [Thoughts on WebAssembly as a stack machine](https://eli.thegreenplace.net/2026/thoughts-on-webassembly-as-a-stack-machine/) — *Eli Bendersky's website* `04-30`
 - [Switching entirely to Corfu in my GNU Emacs configuration](https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsSwitchingToOnlyCorfu) — *Chris's Wiki :: blog* `04-30`
-- [The Zig project's rationale for their firm anti-AI contribution policy](https://simonwillison.net/2026/Apr/30/zig-anti-ai/#atom-everything) — *Simon Willison's Weblog* `04-30`
-- [Why are the Artemis II photos on Flickr?](https://anildash.com/2026/04/30/artemis-photos-flickr/) — *Anil Dash* `04-30`
-- [llm 0.32a1](https://simonwillison.net/2026/Apr/29/llm-3/#atom-everything) — *Simon Willison's Weblog* `04-29`
 <!--BLOG_RADAR:end-->
 
 ---
