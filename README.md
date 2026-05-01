@@ -208,11 +208,11 @@ Last Updated: Friday, May 1st, 2026, 9:08:07 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [NHS Goes To War Against Open Source](https://shkspr.mobi/blog/2026/05/nhs-goes-to-war-against-open-source/) — *Terence Eden’s Blog* `05-01`
+- [Patching and forking in package managers](https://nesbitt.io/2026/05/01/patching-and-forking-in-package-managers.html) — *Andrew Nesbitt* `05-01`
 - [The Talk Show: ‘Food and Beverage Director’](https://daringfireball.net/thetalkshow/2026/04/30/ep-446) — *Daring Fireball* `05-01`
 - [Learning my lesson that Python virtual environments aren't always movable](https://utcc.utoronto.ca/~cks/space/blog/python/VenvsNotEntirelyMovable) — *Chris's Wiki :: blog* `05-01`
 - [Scientology ‘Speed Running’ Trend](https://www.theguardian.com/us-news/2026/apr/30/hollywood-church-of-scientology-speed-runs?CMP=bsky_gu) — *Daring Fireball* `05-01`
-- [Apple Q2 2026 Results](https://www.apple.com/newsroom/2026/04/apple-reports-second-quarter-results/) — *Daring Fireball* `05-01`
-- [★ On the Future of Apple’s Vision Platform](https://daringfireball.net/2026/04/on_the_future_of_apples_vision_platform) — *Daring Fireball* `05-01`
 <!--BLOG_RADAR:end-->
 
 ---

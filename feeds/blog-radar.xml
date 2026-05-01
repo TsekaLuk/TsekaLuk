@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 01 May 2026 08:21:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 13:42:44 +0000</lastBuildDate>
+    <item>
+      <title>NHS Goes To War Against Open Source</title>
+      <link>https://shkspr.mobi/blog/2026/05/nhs-goes-to-war-against-open-source/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/nhs-goes-to-war-against-open-source/</guid>
+      <pubDate>Fri, 01 May 2026 11:44:04 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Patching and forking in package managers</title>
+      <link>https://nesbitt.io/2026/05/01/patching-and-forking-in-package-managers.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/05/01/patching-and-forking-in-package-managers.html</guid>
+      <pubDate>Fri, 01 May 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
     <item>
       <title>The Talk Show: ‘Food and Beverage Director’</title>
       <link>https://daringfireball.net/thetalkshow/2026/04/30/ep-446</link>
@@ -783,18 +797,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Defending against exceptions in a scope_exit RAII type</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260424-00/?p=112266</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260424-00/?p=112266</guid>
-      <pubDate>Fri, 24 Apr 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
       <title>New 10 GbE USB adapters are cooler, smaller, cheaper</title>
       <link>https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/</link>
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/</guid>
       <pubDate>Fri, 24 Apr 2026 14:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>Defending against exceptions in a scope_exit RAII type</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260424-00/?p=112266</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260424-00/?p=112266</guid>
+      <pubDate>Fri, 24 Apr 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>XOXO Explore</title>
@@ -829,20 +843,6 @@
       <link>https://simonwillison.net/2026/Apr/24/deepseek-v4/#atom-everything</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Apr/24/deepseek-v4/#atom-everything</guid>
       <pubDate>Fri, 24 Apr 2026 06:01:04 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Millisecond Converter</title>
-      <link>https://simonwillison.net/2026/Apr/24/milliseconds/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/24/milliseconds/#atom-everything</guid>
-      <pubDate>Fri, 24 Apr 2026 04:23:11 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>It's a big one</title>
-      <link>https://simonwillison.net/2026/Apr/24/weekly/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/24/weekly/#atom-everything</guid>
-      <pubDate>Fri, 24 Apr 2026 04:09:54 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
     </item>
   </channel>
