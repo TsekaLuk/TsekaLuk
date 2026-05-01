@@ -208,11 +208,11 @@ Last Updated: Saturday, May 2nd, 2026, 3:04:04 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [The Mystery of Rennes-le-Château, Part 5: The Man Behind the Curtain](https://www.filfre.net/2026/05/the-mystery-of-rennes-le-chateau-part-5-the-man-behind-the-curtain/) — *The Digital Antiquarian* `05-01`
+- [SBC Clusters are a terrible value, but they're fun anyway](https://www.jeffgeerling.com/blog/2026/deskpi-super4c-sbc-cluster/) — *Jeff Geerling* `05-01`
 - [NHS Goes To War Against Open Source](https://shkspr.mobi/blog/2026/05/nhs-goes-to-war-against-open-source/) — *Terence Eden’s Blog* `05-01`
 - [Patching and forking in package managers](https://nesbitt.io/2026/05/01/patching-and-forking-in-package-managers.html) — *Andrew Nesbitt* `05-01`
-- [The Talk Show: ‘Food and Beverage Director’](https://daringfireball.net/thetalkshow/2026/04/30/ep-446) — *Daring Fireball* `05-01`
-- [Learning my lesson that Python virtual environments aren't always movable](https://utcc.utoronto.ca/~cks/space/blog/python/VenvsNotEntirelyMovable) — *Chris's Wiki :: blog* `05-01`
-- [Scientology ‘Speed Running’ Trend](https://www.theguardian.com/us-news/2026/apr/30/hollywood-church-of-scientology-speed-runs?CMP=bsky_gu) — *Daring Fireball* `05-01`
+- [AI will create jobs](https://geohot.github.io//blog/jekyll/update/2026/05/01/ai-will-create-jobs.html) — *the singularity is nearer* `05-01`
 <!--BLOG_RADAR:end-->
 
 ---

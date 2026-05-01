@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 01 May 2026 13:42:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 19:21:05 +0000</lastBuildDate>
+    <item>
+      <title>The Mystery of Rennes-le-Château, Part 5: The Man Behind the Curtain</title>
+      <link>https://www.filfre.net/2026/05/the-mystery-of-rennes-le-chateau-part-5-the-man-behind-the-curtain/</link>
+      <guid isPermaLink="true">https://www.filfre.net/2026/05/the-mystery-of-rennes-le-chateau-part-5-the-man-behind-the-curtain/</guid>
+      <pubDate>Fri, 01 May 2026 15:46:03 +0000</pubDate>
+      <description>The Digital Antiquarian</description>
+    </item>
+    <item>
+      <title>SBC Clusters are a terrible value, but they're fun anyway</title>
+      <link>https://www.jeffgeerling.com/blog/2026/deskpi-super4c-sbc-cluster/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/deskpi-super4c-sbc-cluster/</guid>
+      <pubDate>Fri, 01 May 2026 14:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
+    </item>
     <item>
       <title>NHS Goes To War Against Open Source</title>
       <link>https://shkspr.mobi/blog/2026/05/nhs-goes-to-war-against-open-source/</link>
@@ -18,6 +32,13 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/05/01/patching-and-forking-in-package-managers.html</guid>
       <pubDate>Fri, 01 May 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>AI will create jobs</title>
+      <link>https://geohot.github.io//blog/jekyll/update/2026/05/01/ai-will-create-jobs.html</link>
+      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/05/01/ai-will-create-jobs.html</guid>
+      <pubDate>Fri, 01 May 2026 07:00:00 +0000</pubDate>
+      <description>the singularity is nearer</description>
     </item>
     <item>
       <title>The Talk Show: ‘Food and Beverage Director’</title>
@@ -60,6 +81,13 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/04/30/burmanns-theorem/</guid>
       <pubDate>Fri, 01 May 2026 00:06:12 +0000</pubDate>
       <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Offline command line translation with TranslateGemma + Ollama</title>
+      <link>https://evanhahn.com/offline-cli-translation-with-translategemma-and-ollama/</link>
+      <guid isPermaLink="true">https://evanhahn.com/offline-cli-translation-with-translategemma-and-ollama/</guid>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <description>Evan Hahn (dot com)</description>
     </item>
     <item>
       <title>Touch Typing Number Keys</title>
@@ -468,18 +496,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Spring 2026 Dev Contest Results!</title>
-      <link>https://repebble.com/blog/spring-2026-dev-contest-results</link>
-      <guid isPermaLink="true">https://repebble.com/blog/spring-2026-dev-contest-results</guid>
-      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Eric Migicovsky's Blog RSS Feed</description>
-    </item>
-    <item>
       <title>Ghostty Is Leaving GitHub</title>
       <link>https://mitchellh.com/writing/ghostty-leaving-github</link>
       <guid isPermaLink="true">https://mitchellh.com/writing/ghostty-leaving-github</guid>
       <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
       <description>Mitchell Hashimoto</description>
+    </item>
+    <item>
+      <title>Spring 2026 Dev Contest Results!</title>
+      <link>https://repebble.com/blog/spring-2026-dev-contest-results</link>
+      <guid isPermaLink="true">https://repebble.com/blog/spring-2026-dev-contest-results</guid>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Eric Migicovsky's Blog RSS Feed</description>
     </item>
     <item>
       <title>Before GitHub</title>
@@ -706,6 +734,13 @@
       <description>Pluralistic: Daily links from Cory Doctorow</description>
     </item>
     <item>
+      <title>A Mutating AI Powered Virus</title>
+      <link>https://geohot.github.io//blog/jekyll/update/2026/04/25/a-mutating-virus.html</link>
+      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/04/25/a-mutating-virus.html</guid>
+      <pubDate>Sat, 25 Apr 2026 07:00:00 +0000</pubDate>
+      <description>the singularity is nearer</description>
+    </item>
+    <item>
       <title>What Do You Charge For?</title>
       <link>https://idiallo.com/blog/what-do-you-charge-for?src=feed</link>
       <guid isPermaLink="true">https://idiallo.com/blog/what-do-you-charge-for?src=feed</guid>
@@ -783,13 +818,6 @@
       <description>The Digital Antiquarian</description>
     </item>
     <item>
-      <title>A Mutating AI Powered Virus</title>
-      <link>https://geohot.github.io//blog/jekyll/update/2026/04/25/a-mutating-virus.html</link>
-      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/04/25/a-mutating-virus.html</guid>
-      <pubDate>Fri, 24 Apr 2026 16:00:00 +0000</pubDate>
-      <description>the singularity is nearer</description>
-    </item>
-    <item>
       <title>★ ‘We Don’t Serve Their Kind Here’</title>
       <link>https://daringfireball.net/2026/04/we_dont_serve_their_kind_here</link>
       <guid isPermaLink="true">https://daringfireball.net/2026/04/we_dont_serve_their_kind_here</guid>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://xoxofest.com/blog/2026-launching-xoxo-explore/</guid>
       <pubDate>Fri, 24 Apr 2026 13:28:41 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>New Zealand Passed a Generational Smoking Ban in 2022, But Repealed It Before It Went Into Effect</title>
-      <link>https://www.theguardian.com/world/2023/nov/27/new-zealand-scraps-world-first-smoking-generation-ban-to-fund-tax-cuts</link>
-      <guid isPermaLink="true">https://www.theguardian.com/world/2023/nov/27/new-zealand-scraps-world-first-smoking-generation-ban-to-fund-tax-cuts</guid>
-      <pubDate>Fri, 24 Apr 2026 13:12:55 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Pluralistic: A free, open visual identity for enshittification (24 Apr 2026)</title>
-      <link>https://pluralistic.net/2026/04/24/poop-emoji-plus-plus/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/04/24/poop-emoji-plus-plus/</guid>
-      <pubDate>Fri, 24 Apr 2026 12:50:06 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Does Mythos mean you need to shut down your Open Source repositories?</title>
-      <link>https://shkspr.mobi/blog/2026/04/does-mythos-mean-you-need-to-shut-down-your-open-source-repos/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/does-mythos-mean-you-need-to-shut-down-your-open-source-repos/</guid>
-      <pubDate>Fri, 24 Apr 2026 11:34:30 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>DeepSeek V4 - almost on the frontier, a fraction of the price</title>
-      <link>https://simonwillison.net/2026/Apr/24/deepseek-v4/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/24/deepseek-v4/#atom-everything</guid>
-      <pubDate>Fri, 24 Apr 2026 06:01:04 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
