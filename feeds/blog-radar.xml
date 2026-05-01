@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 01 May 2026 04:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 08:21:34 +0000</lastBuildDate>
     <item>
       <title>The Talk Show: ‘Food and Beverage Director’</title>
       <link>https://daringfireball.net/thetalkshow/2026/04/30/ep-446</link>
@@ -46,6 +46,13 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/04/30/burmanns-theorem/</guid>
       <pubDate>Fri, 01 May 2026 00:06:12 +0000</pubDate>
       <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Touch Typing Number Keys</title>
+      <link>https://susam.net/touch-typing-number-keys.html</link>
+      <guid isPermaLink="true">https://susam.net/touch-typing-number-keys.html</guid>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <description>Susam Pal</description>
     </item>
     <item>
       <title>Codex CLI 0.128.0 adds /goal</title>
@@ -172,6 +179,13 @@
       <guid isPermaLink="true">https://evanhahn.com/notes-from-april-2026/</guid>
       <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
       <description>Evan Hahn (dot com)</description>
+    </item>
+    <item>
+      <title>Apr '26 Notes</title>
+      <link>https://susam.net/26d.html</link>
+      <guid isPermaLink="true">https://susam.net/26d.html</guid>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Susam Pal</description>
     </item>
     <item>
       <title>Why are the Artemis II photos on Flickr?</title>
@@ -440,18 +454,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Ghostty Is Leaving GitHub</title>
-      <link>https://mitchellh.com/writing/ghostty-leaving-github</link>
-      <guid isPermaLink="true">https://mitchellh.com/writing/ghostty-leaving-github</guid>
-      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Mitchell Hashimoto</description>
-    </item>
-    <item>
       <title>Spring 2026 Dev Contest Results!</title>
       <link>https://repebble.com/blog/spring-2026-dev-contest-results</link>
       <guid isPermaLink="true">https://repebble.com/blog/spring-2026-dev-contest-results</guid>
       <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
       <description>Eric Migicovsky's Blog RSS Feed</description>
+    </item>
+    <item>
+      <title>Ghostty Is Leaving GitHub</title>
+      <link>https://mitchellh.com/writing/ghostty-leaving-github</link>
+      <guid isPermaLink="true">https://mitchellh.com/writing/ghostty-leaving-github</guid>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Mitchell Hashimoto</description>
     </item>
     <item>
       <title>Before GitHub</title>
@@ -769,18 +783,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>New 10 GbE USB adapters are cooler, smaller, cheaper</title>
-      <link>https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/</guid>
-      <pubDate>Fri, 24 Apr 2026 14:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
       <title>Defending against exceptions in a scope_exit RAII type</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260424-00/?p=112266</link>
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260424-00/?p=112266</guid>
       <pubDate>Fri, 24 Apr 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>New 10 GbE USB adapters are cooler, smaller, cheaper</title>
+      <link>https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/</guid>
+      <pubDate>Fri, 24 Apr 2026 14:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
     </item>
     <item>
       <title>XOXO Explore</title>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Apr/24/weekly/#atom-everything</guid>
       <pubDate>Fri, 24 Apr 2026 04:09:54 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Configuring the ISC DHCP server to pick the right network boot option</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ISCDHCPServerPickNetbootOption</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ISCDHCPServerPickNetbootOption</guid>
-      <pubDate>Fri, 24 Apr 2026 03:53:11 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>A Plethora of Tweezers</title>
-      <link>https://feed.tedium.co/link/15204/17324561/tweezer-weird-facts-history</link>
-      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17324561/tweezer-weird-facts-history</guid>
-      <pubDate>Fri, 24 Apr 2026 03:00:00 +0000</pubDate>
-      <description>Tedium: The Dull Side of the Internet.</description>
     </item>
   </channel>
 </rss>
