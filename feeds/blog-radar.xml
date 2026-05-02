@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 02 May 2026 07:53:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 13:27:07 +0000</lastBuildDate>
+    <item>
+      <title>Reading List 05/02/2026</title>
+      <link>https://www.construction-physics.com/p/reading-list-05022026</link>
+      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-05022026</guid>
+      <pubDate>Sat, 02 May 2026 12:01:30 +0000</pubDate>
+      <description>Construction Physics</description>
+    </item>
+    <item>
+      <title>Pluralistic: The prehistory of the Democratic Nuremberg Caucus (02 May 2026)</title>
+      <link>https://pluralistic.net/2026/05/02/denazification/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/05/02/denazification/</guid>
+      <pubDate>Sat, 02 May 2026 11:22:11 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
     <item>
       <title>Some of our servers revived themselves unexpectedly</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ServersSurpriseRevival</link>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/04/24/nonlinear-pendulum/</guid>
       <pubDate>Fri, 24 Apr 2026 23:53:29 +0000</pubDate>
       <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>llm 0.31</title>
-      <link>https://simonwillison.net/2026/Apr/24/llm/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/24/llm/#atom-everything</guid>
-      <pubDate>Fri, 24 Apr 2026 23:35:07 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>The people do not yearn for automation</title>
-      <link>https://simonwillison.net/2026/Apr/24/the-people-do-not-yearn-for-automation/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/24/the-people-do-not-yearn-for-automation/#atom-everything</guid>
-      <pubDate>Fri, 24 Apr 2026 22:38:49 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
