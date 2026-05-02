@@ -4,7 +4,49 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 01 May 2026 19:21:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 03:33:47 +0000</lastBuildDate>
+    <item>
+      <title>Editing my LLM assisted Articles</title>
+      <link>https://idiallo.com/byte-size/editing-llm-assisted-articles?src=feed</link>
+      <guid isPermaLink="true">https://idiallo.com/byte-size/editing-llm-assisted-articles?src=feed</guid>
+      <pubDate>Sat, 02 May 2026 03:00:23 +0000</pubDate>
+      <description>iDiallo.com</description>
+    </item>
+    <item>
+      <title>More on Apple’s Logically Elegant Tariff Refund Puzzle Solution</title>
+      <link>https://daringfireball.net/linked/2026/05/01/tim-cooks-clever-solution-to-the-tariff-refund-puzzle</link>
+      <guid isPermaLink="true">https://daringfireball.net/linked/2026/05/01/tim-cooks-clever-solution-to-the-tariff-refund-puzzle</guid>
+      <pubDate>Sat, 02 May 2026 01:06:31 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Disable Auto-Update</title>
+      <link>https://idiallo.com/blog/disable-auto-update?src=feed</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/disable-auto-update?src=feed</guid>
+      <pubDate>Fri, 01 May 2026 23:30:00 +0000</pubDate>
+      <description>iDiallo.com</description>
+    </item>
+    <item>
+      <title>Meta Solved Their Problem With Kenyan Contractors Seeing Footage of AI Glasses Wearers on the Toilet</title>
+      <link>https://www.bbc.com/news/articles/c5y7yvgy0w6o</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/c5y7yvgy0w6o</guid>
+      <pubDate>Fri, 01 May 2026 21:00:36 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Tim Cook’s Clever Solution to the Tariff Refund Puzzle</title>
+      <link>https://sixcolors.com/post/2026/04/apple-results-analysis-net-net-over-the-moon/</link>
+      <guid isPermaLink="true">https://sixcolors.com/post/2026/04/apple-results-analysis-net-net-over-the-moon/</guid>
+      <pubDate>Fri, 01 May 2026 20:30:47 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>iNaturalist Sightings</title>
+      <link>https://simonwillison.net/2026/May/1/inat-sightings/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/1/inat-sightings/#atom-everything</guid>
+      <pubDate>Fri, 01 May 2026 19:35:41 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>The Mystery of Rennes-le-Château, Part 5: The Man Behind the Curtain</title>
       <link>https://www.filfre.net/2026/05/the-mystery-of-rennes-le-chateau-part-5-the-man-behind-the-curtain/</link>
@@ -18,6 +60,13 @@
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/deskpi-super4c-sbc-cluster/</guid>
       <pubDate>Fri, 01 May 2026 14:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260501-00/?p=112291</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260501-00/?p=112291</guid>
+      <pubDate>Fri, 01 May 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>NHS Goes To War Against Open Source</title>
@@ -795,55 +844,6 @@
       <guid isPermaLink="true">https://www.wheresyoured.at/how-openai-kills-oracle/</guid>
       <pubDate>Fri, 24 Apr 2026 16:40:45 +0000</pubDate>
       <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>Blog prize for the big questions about AI</title>
-      <link>https://www.dwarkesh.com/p/blog-prize</link>
-      <guid isPermaLink="true">https://www.dwarkesh.com/p/blog-prize</guid>
-      <pubDate>Fri, 24 Apr 2026 16:37:49 +0000</pubDate>
-      <description>Dwarkesh Podcast</description>
-    </item>
-    <item>
-      <title>★ Norwegian Boating Licenses and Generational Law</title>
-      <link>https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/04/norwegian_boating_licenses_and_generational_law</guid>
-      <pubDate>Fri, 24 Apr 2026 16:09:50 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>This Week on The Analog Antiquarian</title>
-      <link>https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/</link>
-      <guid isPermaLink="true">https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/</guid>
-      <pubDate>Fri, 24 Apr 2026 16:09:50 +0000</pubDate>
-      <description>The Digital Antiquarian</description>
-    </item>
-    <item>
-      <title>★ ‘We Don’t Serve Their Kind Here’</title>
-      <link>https://daringfireball.net/2026/04/we_dont_serve_their_kind_here</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/04/we_dont_serve_their_kind_here</guid>
-      <pubDate>Fri, 24 Apr 2026 14:18:03 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>New 10 GbE USB adapters are cooler, smaller, cheaper</title>
-      <link>https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/</guid>
-      <pubDate>Fri, 24 Apr 2026 14:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
-      <title>Defending against exceptions in a scope_exit RAII type</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260424-00/?p=112266</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260424-00/?p=112266</guid>
-      <pubDate>Fri, 24 Apr 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>XOXO Explore</title>
-      <link>https://xoxofest.com/blog/2026-launching-xoxo-explore/</link>
-      <guid isPermaLink="true">https://xoxofest.com/blog/2026-launching-xoxo-explore/</guid>
-      <pubDate>Fri, 24 Apr 2026 13:28:41 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>

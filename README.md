@@ -208,11 +208,11 @@ Last Updated: Saturday, May 2nd, 2026, 10:10:43 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [The Mystery of Rennes-le-Château, Part 5: The Man Behind the Curtain](https://www.filfre.net/2026/05/the-mystery-of-rennes-le-chateau-part-5-the-man-behind-the-curtain/) — *The Digital Antiquarian* `05-01`
-- [SBC Clusters are a terrible value, but they're fun anyway](https://www.jeffgeerling.com/blog/2026/deskpi-super4c-sbc-cluster/) — *Jeff Geerling* `05-01`
-- [NHS Goes To War Against Open Source](https://shkspr.mobi/blog/2026/05/nhs-goes-to-war-against-open-source/) — *Terence Eden’s Blog* `05-01`
-- [Patching and forking in package managers](https://nesbitt.io/2026/05/01/patching-and-forking-in-package-managers.html) — *Andrew Nesbitt* `05-01`
-- [AI will create jobs](https://geohot.github.io//blog/jekyll/update/2026/05/01/ai-will-create-jobs.html) — *the singularity is nearer* `05-01`
+- [Editing my LLM assisted Articles](https://idiallo.com/byte-size/editing-llm-assisted-articles?src=feed) — *iDiallo.com* `05-02`
+- [More on Apple’s Logically Elegant Tariff Refund Puzzle Solution](https://daringfireball.net/linked/2026/05/01/tim-cooks-clever-solution-to-the-tariff-refund-puzzle) — *Daring Fireball* `05-02`
+- [Disable Auto-Update](https://idiallo.com/blog/disable-auto-update?src=feed) — *iDiallo.com* `05-01`
+- [Meta Solved Their Problem With Kenyan Contractors Seeing Footage of AI Glasses Wearers on the Toilet](https://www.bbc.com/news/articles/c5y7yvgy0w6o) — *Daring Fireball* `05-01`
+- [Tim Cook’s Clever Solution to the Tariff Refund Puzzle](https://sixcolors.com/post/2026/04/apple-results-analysis-net-net-over-the-moon/) — *Daring Fireball* `05-01`
 <!--BLOG_RADAR:end-->
 
 ---
