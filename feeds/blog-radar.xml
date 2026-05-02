@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 02 May 2026 03:33:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 07:53:29 +0000</lastBuildDate>
+    <item>
+      <title>Some of our servers revived themselves unexpectedly</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ServersSurpriseRevival</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ServersSurpriseRevival</guid>
+      <pubDate>Sat, 02 May 2026 03:54:16 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
     <item>
       <title>Editing my LLM assisted Articles</title>
       <link>https://idiallo.com/byte-size/editing-llm-assisted-articles?src=feed</link>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Apr/24/the-people-do-not-yearn-for-automation/#atom-everything</guid>
       <pubDate>Fri, 24 Apr 2026 22:38:49 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Premium: How OpenAI Kills Oracle</title>
-      <link>https://www.wheresyoured.at/how-openai-kills-oracle/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/how-openai-kills-oracle/</guid>
-      <pubDate>Fri, 24 Apr 2026 16:40:45 +0000</pubDate>
-      <description>Ed Zitron's Where's Your Ed At</description>
     </item>
   </channel>
 </rss>

@@ -208,11 +208,11 @@ Last Updated: Saturday, May 2nd, 2026, 3:24:47 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Some of our servers revived themselves unexpectedly](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ServersSurpriseRevival) — *Chris's Wiki :: blog* `05-02`
 - [Editing my LLM assisted Articles](https://idiallo.com/byte-size/editing-llm-assisted-articles?src=feed) — *iDiallo.com* `05-02`
 - [More on Apple’s Logically Elegant Tariff Refund Puzzle Solution](https://daringfireball.net/linked/2026/05/01/tim-cooks-clever-solution-to-the-tariff-refund-puzzle) — *Daring Fireball* `05-02`
 - [Disable Auto-Update](https://idiallo.com/blog/disable-auto-update?src=feed) — *iDiallo.com* `05-01`
 - [Meta Solved Their Problem With Kenyan Contractors Seeing Footage of AI Glasses Wearers on the Toilet](https://www.bbc.com/news/articles/c5y7yvgy0w6o) — *Daring Fireball* `05-01`
-- [Tim Cook’s Clever Solution to the Tariff Refund Puzzle](https://sixcolors.com/post/2026/04/apple-results-analysis-net-net-over-the-moon/) — *Daring Fireball* `05-01`
 <!--BLOG_RADAR:end-->
 
 ---
