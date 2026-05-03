@@ -208,11 +208,11 @@ Last Updated: Sunday, May 3rd, 2026, 3:53:49 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Testing MacOS on the Apple Network Server 2.0 ROMs](https://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html) — *Old Vintage Computing Research* `05-03`
+- [Why I don't like the "staff engineer archetypes"](https://seangoedecke.com/staff-engineer-archetypes/) — *seangoedecke.com RSS feed* `05-03`
 - [callgraph analysis](https://jyn.dev/callgraph-analysis/) — *the website of jyn* `05-03`
 - [How backups work depends on the goals of the people setting them up](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/BackupsDependOnGoals) — *Chris's Wiki :: blog* `05-02`
 - [Sightings](https://simonwillison.net/2026/May/2/sightings/#atom-everything) — *Simon Willison's Weblog* `05-02`
-- [Scaling, stretching and shifting sinusoids](https://eli.thegreenplace.net/2026/scaling-stretching-and-shifting-sinusoids/) — *Eli Bendersky's website* `05-02`
-- [Reading List 05/02/2026](https://www.construction-physics.com/p/reading-list-05022026) — *Construction Physics* `05-02`
 <!--BLOG_RADAR:end-->
 
 ---
