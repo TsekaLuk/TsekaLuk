@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 03 May 2026 13:26:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 19:09:55 +0000</lastBuildDate>
+    <item>
+      <title>Quoting Anthropic</title>
+      <link>https://simonwillison.net/2026/May/3/anthropic/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/3/anthropic/#atom-everything</guid>
+      <pubDate>Sun, 03 May 2026 15:13:23 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Reinventing the Wheel</title>
+      <link>https://feed.tedium.co/link/15204/17331178/wheel-reinvention-technology-history</link>
+      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17331178/wheel-reinvention-technology-history</guid>
+      <pubDate>Sun, 03 May 2026 13:41:32 +0000</pubDate>
+      <description>Tedium: The Dull Side of the Internet.</description>
+    </item>
     <item>
       <title>Vertically Aligning Roman Numerals in Code</title>
       <link>https://shkspr.mobi/blog/2026/05/vertically-aligning-roman-numerals-in-code/</link>
@@ -32,6 +46,13 @@
       <guid isPermaLink="true">https://matklad.github.io/2026/05/03/zig-error-context.html</guid>
       <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
       <description>matklad</description>
+    </item>
+    <item>
+      <title>QuickQWERTY 1.2.3</title>
+      <link>https://susam.net/code/news/quickqwerty/1.2.3.html</link>
+      <guid isPermaLink="true">https://susam.net/code/news/quickqwerty/1.2.3.html</guid>
+      <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
+      <description>Susam Pal</description>
     </item>
     <item>
       <title>callgraph analysis</title>
@@ -223,13 +244,6 @@
       <description>Evan Hahn (dot com)</description>
     </item>
     <item>
-      <title>Touch Typing Number Keys</title>
-      <link>https://susam.net/touch-typing-number-keys.html</link>
-      <guid isPermaLink="true">https://susam.net/touch-typing-number-keys.html</guid>
-      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-      <description>Susam Pal</description>
-    </item>
-    <item>
       <title>Codex CLI 0.128.0 adds /goal</title>
       <link>https://simonwillison.net/2026/Apr/30/codex-goals/#atom-everything</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Apr/30/codex-goals/#atom-everything</guid>
@@ -356,13 +370,6 @@
       <description>Evan Hahn (dot com)</description>
     </item>
     <item>
-      <title>Apr '26 Notes</title>
-      <link>https://susam.net/26d.html</link>
-      <guid isPermaLink="true">https://susam.net/26d.html</guid>
-      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Susam Pal</description>
-    </item>
-    <item>
       <title>Why are the Artemis II photos on Flickr?</title>
       <link>https://anildash.com/2026/04/30/artemis-photos-flickr/</link>
       <guid isPermaLink="true">https://anildash.com/2026/04/30/artemis-photos-flickr/</guid>
@@ -487,13 +494,6 @@
       <guid isPermaLink="true">https://www.joanwestenberg.com/on-wintering/</guid>
       <pubDate>Wed, 29 Apr 2026 01:54:43 +0000</pubDate>
       <description>Westenberg.</description>
-    </item>
-    <item>
-      <title>Multiple URLs in Git Remote</title>
-      <link>https://susam.net/multiple-urls-in-git-remote.html</link>
-      <guid isPermaLink="true">https://susam.net/multiple-urls-in-git-remote.html</guid>
-      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Susam Pal</description>
     </item>
     <item>
       <title>OpenAI Projects ChatGPT Plus subscriptions to drop by 80% from 44 Million in 2025 to 9 Million In 2026, Made Up Using Cheaper Subscriptions (Somehow)</title>
@@ -648,13 +648,6 @@
       <guid isPermaLink="true">https://lucumr.pocoo.org/2026/4/28/before-github/</guid>
       <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
       <description>Armin Ronacher's Thoughts and Writings</description>
-    </item>
-    <item>
-      <title>QuickQWERTY 1.2.2</title>
-      <link>https://susam.net/code/news/quickqwerty/1.2.2.html</link>
-      <guid isPermaLink="true">https://susam.net/code/news/quickqwerty/1.2.2.html</guid>
-      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Susam Pal</description>
     </item>
     <item>
       <title>(One) Good AI Is Here</title>
@@ -844,6 +837,13 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/04/25/nth-derivative-of-a-quotient/</guid>
       <pubDate>Sat, 25 Apr 2026 13:12:39 +0000</pubDate>
       <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Quoting Romain Huet</title>
+      <link>https://simonwillison.net/2026/Apr/25/romain-huet/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/25/romain-huet/#atom-everything</guid>
+      <pubDate>Sat, 25 Apr 2026 12:06:55 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>

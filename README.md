@@ -208,11 +208,11 @@ Last Updated: Monday, May 4th, 2026, 2:51:47 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Quoting Anthropic](https://simonwillison.net/2026/May/3/anthropic/#atom-everything) — *Simon Willison's Weblog* `05-03`
+- [Reinventing the Wheel](https://feed.tedium.co/link/15204/17331178/wheel-reinvention-technology-history) — *Tedium: The Dull Side of the Internet.* `05-03`
 - [Vertically Aligning Roman Numerals in Code](https://shkspr.mobi/blog/2026/05/vertically-aligning-roman-numerals-in-code/) — *Terence Eden’s Blog* `05-03`
 - [Testing MacOS on the Apple Network Server 2.0 ROMs](https://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html) — *Old Vintage Computing Research* `05-03`
 - [Why I don't like the "staff engineer archetypes"](https://seangoedecke.com/staff-engineer-archetypes/) — *seangoedecke.com RSS feed* `05-03`
-- [Minimal Viable Zig Error Contexts](https://matklad.github.io/2026/05/03/zig-error-context.html) — *matklad* `05-03`
-- [callgraph analysis](https://jyn.dev/callgraph-analysis/) — *the website of jyn* `05-03`
 <!--BLOG_RADAR:end-->
 
 ---
