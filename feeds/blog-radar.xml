@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 03 May 2026 08:09:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 13:26:52 +0000</lastBuildDate>
+    <item>
+      <title>Vertically Aligning Roman Numerals in Code</title>
+      <link>https://shkspr.mobi/blog/2026/05/vertically-aligning-roman-numerals-in-code/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/vertically-aligning-roman-numerals-in-code/</guid>
+      <pubDate>Sun, 03 May 2026 11:34:59 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
     <item>
       <title>Testing MacOS on the Apple Network Server 2.0 ROMs</title>
       <link>https://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html</link>
@@ -18,6 +25,13 @@
       <guid isPermaLink="true">https://seangoedecke.com/staff-engineer-archetypes/</guid>
       <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Minimal Viable Zig Error Contexts</title>
+      <link>https://matklad.github.io/2026/05/03/zig-error-context.html</link>
+      <guid isPermaLink="true">https://matklad.github.io/2026/05/03/zig-error-context.html</guid>
+      <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
+      <description>matklad</description>
     </item>
     <item>
       <title>callgraph analysis</title>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/04/25/nth-derivative-of-a-quotient/</guid>
       <pubDate>Sat, 25 Apr 2026 13:12:39 +0000</pubDate>
       <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Quoting Romain Huet</title>
-      <link>https://simonwillison.net/2026/Apr/25/romain-huet/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/25/romain-huet/#atom-everything</guid>
-      <pubDate>Sat, 25 Apr 2026 12:06:55 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>You can parse an .env file as an .ini with PHP - but there's a catch</title>
-      <link>https://shkspr.mobi/blog/2026/04/you-can-parse-an-env-file-as-an-ini-with-php-but-theres-a-catch/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/you-can-parse-an-env-file-as-an-ini-with-php-but-theres-a-catch/</guid>
-      <pubDate>Sat, 25 Apr 2026 11:34:15 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
   </channel>
 </rss>
