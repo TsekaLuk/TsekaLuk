@@ -208,11 +208,11 @@ Last Updated: Sunday, May 3rd, 2026, 10:26:41 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [callgraph analysis](https://jyn.dev/callgraph-analysis/) — *the website of jyn* `05-03`
+- [How backups work depends on the goals of the people setting them up](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/BackupsDependOnGoals) — *Chris's Wiki :: blog* `05-02`
 - [Sightings](https://simonwillison.net/2026/May/2/sightings/#atom-everything) — *Simon Willison's Weblog* `05-02`
 - [Scaling, stretching and shifting sinusoids](https://eli.thegreenplace.net/2026/scaling-stretching-and-shifting-sinusoids/) — *Eli Bendersky's website* `05-02`
 - [Reading List 05/02/2026](https://www.construction-physics.com/p/reading-list-05022026) — *Construction Physics* `05-02`
-- [Pluralistic: The prehistory of the Democratic Nuremberg Caucus (02 May 2026)](https://pluralistic.net/2026/05/02/denazification/) — *Pluralistic: Daily links from Cory Doctorow* `05-02`
-- [A GitHub for maintainers](https://nesbitt.io/2026/05/02/a-github-for-maintainers.html) — *Andrew Nesbitt* `05-02`
 <!--BLOG_RADAR:end-->
 
 ---

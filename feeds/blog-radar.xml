@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 02 May 2026 19:10:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 03:55:53 +0000</lastBuildDate>
+    <item>
+      <title>callgraph analysis</title>
+      <link>https://jyn.dev/callgraph-analysis/</link>
+      <guid isPermaLink="true">https://jyn.dev/callgraph-analysis/</guid>
+      <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
+      <description>the website of jyn</description>
+    </item>
+    <item>
+      <title>How backups work depends on the goals of the people setting them up</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/BackupsDependOnGoals</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/BackupsDependOnGoals</guid>
+      <pubDate>Sat, 02 May 2026 20:12:58 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
     <item>
       <title>Sightings</title>
       <link>https://simonwillison.net/2026/May/2/sightings/#atom-everything</link>
@@ -97,18 +111,18 @@
       <description>The Digital Antiquarian</description>
     </item>
     <item>
-      <title>Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260501-00/?p=112291</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260501-00/?p=112291</guid>
-      <pubDate>Fri, 01 May 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
       <title>SBC Clusters are a terrible value, but they're fun anyway</title>
       <link>https://www.jeffgeerling.com/blog/2026/deskpi-super4c-sbc-cluster/</link>
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/deskpi-super4c-sbc-cluster/</guid>
       <pubDate>Fri, 01 May 2026 14:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260501-00/?p=112291</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260501-00/?p=112291</guid>
+      <pubDate>Fri, 01 May 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>NHS Goes To War Against Open Source</title>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/04/25/a-mutating-virus.html</guid>
       <pubDate>Sat, 25 Apr 2026 07:00:00 +0000</pubDate>
       <description>the singularity is nearer</description>
-    </item>
-    <item>
-      <title>What Do You Charge For?</title>
-      <link>https://idiallo.com/blog/what-do-you-charge-for?src=feed</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/what-do-you-charge-for?src=feed</guid>
-      <pubDate>Sat, 25 Apr 2026 05:00:00 +0000</pubDate>
-      <description>iDiallo.com</description>
-    </item>
-    <item>
-      <title>GPT-5.5 prompting guide</title>
-      <link>https://simonwillison.net/2026/Apr/25/gpt-5-5-prompting-guide/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/25/gpt-5-5-prompting-guide/#atom-everything</guid>
-      <pubDate>Sat, 25 Apr 2026 04:13:36 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
