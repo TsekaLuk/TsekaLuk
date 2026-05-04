@@ -4,7 +4,49 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 03 May 2026 19:09:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 03:52:54 +0000</lastBuildDate>
+    <item>
+      <title>Some views on Eglot and lsp-mode in GNU Emacs</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsEglotAndLspMode</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsEglotAndLspMode</guid>
+      <pubDate>Mon, 04 May 2026 02:40:38 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>X, the Platform of Free Speech</title>
+      <link>https://bsky.app/profile/gilduran.com/post/3mky5taqg3222</link>
+      <guid isPermaLink="true">https://bsky.app/profile/gilduran.com/post/3mky5taqg3222</guid>
+      <pubDate>Mon, 04 May 2026 00:15:21 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>29th August 2026: a scenario</title>
+      <link>https://martinalderson.com/posts/august-29-2026-a-scenario/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
+      <guid isPermaLink="true">https://martinalderson.com/posts/august-29-2026-a-scenario/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+      <description>Martin Alderson</description>
+    </item>
+    <item>
+      <title>‘2 Letters From Steve’</title>
+      <link>https://davidgelphman.wordpress.com/2013/03/29/2-letters-from-steve/</link>
+      <guid isPermaLink="true">https://davidgelphman.wordpress.com/2013/03/29/2-letters-from-steve/</guid>
+      <pubDate>Sun, 03 May 2026 23:47:11 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>★ Crimes Against Decency Need as Much Cover-Up as Crimes Against the Law</title>
+      <link>https://daringfireball.net/2026/05/crimes_against_decency_need_as_much_cover-up_as_crimes_against_the_law</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/05/crimes_against_decency_need_as_much_cover-up_as_crimes_against_the_law</guid>
+      <pubDate>Sun, 03 May 2026 23:25:41 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>The shape of a guitar pick</title>
+      <link>https://www.johndcook.com/blog/2026/05/03/guitar-pick/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/03/guitar-pick/</guid>
+      <pubDate>Sun, 03 May 2026 20:49:41 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
     <item>
       <title>Quoting Anthropic</title>
       <link>https://simonwillison.net/2026/May/3/anthropic/#atom-everything</link>
@@ -27,6 +69,13 @@
       <description>Terence Eden’s Blog</description>
     </item>
     <item>
+      <title>Punk, or why I don’t stream anymore</title>
+      <link>https://geohot.github.io//blog/jekyll/update/2026/05/03/punk-or-why-i-dont-stream.html</link>
+      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/05/03/punk-or-why-i-dont-stream.html</guid>
+      <pubDate>Sun, 03 May 2026 07:00:00 +0000</pubDate>
+      <description>the singularity is nearer</description>
+    </item>
+    <item>
       <title>Testing MacOS on the Apple Network Server 2.0 ROMs</title>
       <link>https://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html</link>
       <guid isPermaLink="true">https://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html</guid>
@@ -46,6 +95,13 @@
       <guid isPermaLink="true">https://matklad.github.io/2026/05/03/zig-error-context.html</guid>
       <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
       <description>matklad</description>
+    </item>
+    <item>
+      <title>png-cmp: like cmp for PNGs</title>
+      <link>https://evanhahn.com/png-cmp-is-cmp-but-for-pngs/</link>
+      <guid isPermaLink="true">https://evanhahn.com/png-cmp-is-cmp-but-for-pngs/</guid>
+      <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
+      <description>Evan Hahn (dot com)</description>
     </item>
     <item>
       <title>QuickQWERTY 1.2.3</title>
@@ -496,6 +552,13 @@
       <description>Westenberg.</description>
     </item>
     <item>
+      <title>[Sponsor] WorkOS: Go From ‘We Don’t Support SSO’ to Enterprise Ready in a Weekend</title>
+      <link>https://workos.com/?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026</link>
+      <guid isPermaLink="true">https://workos.com/?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026</guid>
+      <pubDate>Tue, 28 Apr 2026 23:07:52 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
       <title>OpenAI Projects ChatGPT Plus subscriptions to drop by 80% from 44 Million in 2025 to 9 Million In 2026, Made Up Using Cheaper Subscriptions (Somehow)</title>
       <link>https://www.wheresyoured.at/openai-projects-chatgpt-plus-subscriptions-to-drop-by-80-from-44-million-in-2025-to-9-million-in-2026-made-up-using-cheaper-subscriptions-somehow/</link>
       <guid isPermaLink="true">https://www.wheresyoured.at/openai-projects-chatgpt-plus-subscriptions-to-drop-by-80-from-44-million-in-2025-to-9-million-in-2026-made-up-using-cheaper-subscriptions-somehow/</guid>
@@ -629,18 +692,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Ghostty Is Leaving GitHub</title>
-      <link>https://mitchellh.com/writing/ghostty-leaving-github</link>
-      <guid isPermaLink="true">https://mitchellh.com/writing/ghostty-leaving-github</guid>
-      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Mitchell Hashimoto</description>
-    </item>
-    <item>
       <title>Spring 2026 Dev Contest Results!</title>
       <link>https://repebble.com/blog/spring-2026-dev-contest-results</link>
       <guid isPermaLink="true">https://repebble.com/blog/spring-2026-dev-contest-results</guid>
       <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
       <description>Eric Migicovsky's Blog RSS Feed</description>
+    </item>
+    <item>
+      <title>Ghostty Is Leaving GitHub</title>
+      <link>https://mitchellh.com/writing/ghostty-leaving-github</link>
+      <guid isPermaLink="true">https://mitchellh.com/writing/ghostty-leaving-github</guid>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Mitchell Hashimoto</description>
     </item>
     <item>
       <title>Before GitHub</title>
@@ -781,69 +844,6 @@
       <guid isPermaLink="true">https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/</guid>
       <pubDate>Sun, 26 Apr 2026 17:39:40 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>How Bitwarden Encrypts and Decrypts Secrets</title>
-      <link>https://blog.miguelgrinberg.com/post/how-bitwarden-encrypts-and-decrypts-secrets</link>
-      <guid isPermaLink="true">https://blog.miguelgrinberg.com/post/how-bitwarden-encrypts-and-decrypts-secrets</guid>
-      <pubDate>Sun, 26 Apr 2026 14:05:41 +0000</pubDate>
-      <description>Miguel Grinberg's Blog</description>
-    </item>
-    <item>
-      <title>Understanding the Ubuntu server installer initramfs</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuServerInstallerInitramfs</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuServerInstallerInitramfs</guid>
-      <pubDate>Sun, 26 Apr 2026 02:48:10 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>voice modems</title>
-      <link>https://computer.rip/2026-04-26-voice-modems.html</link>
-      <guid isPermaLink="true">https://computer.rip/2026-04-26-voice-modems.html</guid>
-      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
-      <description>computers are bad</description>
-    </item>
-    <item>
-      <title>The Satisfaction of a ChatGPT Plan</title>
-      <link>https://idiallo.com/byte-size/the-satisfaction-of-a-chatgpt-plan?src=feed</link>
-      <guid isPermaLink="true">https://idiallo.com/byte-size/the-satisfaction-of-a-chatgpt-plan?src=feed</guid>
-      <pubDate>Sat, 25 Apr 2026 17:44:16 +0000</pubDate>
-      <description>iDiallo.com</description>
-    </item>
-    <item>
-      <title>WHY ARE YOU LIKE THIS</title>
-      <link>https://simonwillison.net/2026/Apr/25/why-are-you-like-this/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/25/why-are-you-like-this/#atom-everything</guid>
-      <pubDate>Sat, 25 Apr 2026 16:44:01 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Closed-form solution to the nonlinear pendulum equation</title>
-      <link>https://www.johndcook.com/blog/2026/04/25/exact-solution-nonlinear-pendulum/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/04/25/exact-solution-nonlinear-pendulum/</guid>
-      <pubDate>Sat, 25 Apr 2026 16:16:12 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Reading List 04/25/26</title>
-      <link>https://www.construction-physics.com/p/reading-list-042526</link>
-      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-042526</guid>
-      <pubDate>Sat, 25 Apr 2026 14:16:17 +0000</pubDate>
-      <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>nth derivative of a quotient</title>
-      <link>https://www.johndcook.com/blog/2026/04/25/nth-derivative-of-a-quotient/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/04/25/nth-derivative-of-a-quotient/</guid>
-      <pubDate>Sat, 25 Apr 2026 13:12:39 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Quoting Romain Huet</title>
-      <link>https://simonwillison.net/2026/Apr/25/romain-huet/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/25/romain-huet/#atom-everything</guid>
-      <pubDate>Sat, 25 Apr 2026 12:06:55 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>

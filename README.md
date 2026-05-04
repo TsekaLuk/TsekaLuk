@@ -208,11 +208,11 @@ Last Updated: Monday, May 4th, 2026, 10:25:15 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Quoting Anthropic](https://simonwillison.net/2026/May/3/anthropic/#atom-everything) — *Simon Willison's Weblog* `05-03`
-- [Reinventing the Wheel](https://feed.tedium.co/link/15204/17331178/wheel-reinvention-technology-history) — *Tedium: The Dull Side of the Internet.* `05-03`
-- [Vertically Aligning Roman Numerals in Code](https://shkspr.mobi/blog/2026/05/vertically-aligning-roman-numerals-in-code/) — *Terence Eden’s Blog* `05-03`
-- [Testing MacOS on the Apple Network Server 2.0 ROMs](https://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html) — *Old Vintage Computing Research* `05-03`
-- [Why I don't like the "staff engineer archetypes"](https://seangoedecke.com/staff-engineer-archetypes/) — *seangoedecke.com RSS feed* `05-03`
+- [Some views on Eglot and lsp-mode in GNU Emacs](https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsEglotAndLspMode) — *Chris's Wiki :: blog* `05-04`
+- [X, the Platform of Free Speech](https://bsky.app/profile/gilduran.com/post/3mky5taqg3222) — *Daring Fireball* `05-04`
+- [29th August 2026: a scenario](https://martinalderson.com/posts/august-29-2026-a-scenario/?utm_source=rss&utm_medium=rss&utm_campaign=feed) — *Martin Alderson* `05-04`
+- [‘2 Letters From Steve’](https://davidgelphman.wordpress.com/2013/03/29/2-letters-from-steve/) — *Daring Fireball* `05-03`
+- [★ Crimes Against Decency Need as Much Cover-Up as Crimes Against the Law](https://daringfireball.net/2026/05/crimes_against_decency_need_as_much_cover-up_as_crimes_against_the_law) — *Daring Fireball* `05-03`
 <!--BLOG_RADAR:end-->
 
 ---
