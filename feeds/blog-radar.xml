@@ -4,7 +4,63 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 04 May 2026 14:20:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 19:49:15 +0000</lastBuildDate>
+    <item>
+      <title>Photoshop’s ‘Modern User Interface’ Sucks (and Doesn’t Feel Modern)</title>
+      <link>https://unsung.aresluna.org/photoshops-challenges-with-focus-pt-2/</link>
+      <guid isPermaLink="true">https://unsung.aresluna.org/photoshops-challenges-with-focus-pt-2/</guid>
+      <pubDate>Mon, 04 May 2026 19:13:06 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Anthropic Executive, One Year Ago: Fully AI Employees Are a Year Away</title>
+      <link>https://www.axios.com/2025/04/22/ai-anthropic-virtual-employees-security</link>
+      <guid isPermaLink="true">https://www.axios.com/2025/04/22/ai-anthropic-virtual-employees-security</guid>
+      <pubDate>Mon, 04 May 2026 18:20:39 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>TRE Python binding — ReDoS robustness demo</title>
+      <link>https://simonwillison.net/2026/May/4/tre-python-binding/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/4/tre-python-binding/#atom-everything</guid>
+      <pubDate>Mon, 04 May 2026 17:52:00 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Redis Array Playground</title>
+      <link>https://simonwillison.net/2026/May/4/redis-array/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/4/redis-array/#atom-everything</guid>
+      <pubDate>Mon, 04 May 2026 15:53:57 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Commits on GitHub Are Up 14× Year-Over-Year</title>
+      <link>https://daringfireball.net/linked/2026/03/13/amodei-ai-code-claim-chowder</link>
+      <guid isPermaLink="true">https://daringfireball.net/linked/2026/03/13/amodei-ai-code-claim-chowder</guid>
+      <pubDate>Mon, 04 May 2026 15:00:33 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>ScopeXR — Cataract Surgery Using Apple Vision Pro Mixed Reality</title>
+      <link>https://www.prnewswire.com/news-releases/sightmds-dr-eric-rosenberg-becomes-first-surgeon-in-the-world-to-perform-cataract-surgery-using-apple-vision-pro-mixed-reality-302754311.html</link>
+      <guid isPermaLink="true">https://www.prnewswire.com/news-releases/sightmds-dr-eric-rosenberg-becomes-first-surgeon-in-the-world-to-perform-cataract-surgery-using-apple-vision-pro-mixed-reality-302754311.html</guid>
+      <pubDate>Mon, 04 May 2026 14:37:26 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>John Sterling, Beloved Longtime Yankees Radio Voice, Passes at 87</title>
+      <link>https://www.mlb.com/news/john-sterling-passes-away</link>
+      <guid isPermaLink="true">https://www.mlb.com/news/john-sterling-passes-away</guid>
+      <pubDate>Mon, 04 May 2026 14:30:53 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Redis array type: short story of a long development</title>
+      <link>http://antirez.com/news/164</link>
+      <guid isPermaLink="true">http://antirez.com/news/164</guid>
+      <pubDate>Mon, 04 May 2026 14:21:45 +0000</pubDate>
+      <description>&lt;antirez&gt;</description>
+    </item>
     <item>
       <title>Premium: The AI Compute Demand Story Is A Lie</title>
       <link>https://www.wheresyoured.at/premium-the-ai-compute-demand-story-is-a-lie/</link>
@@ -27,7 +83,7 @@
       <description>Andrew Nesbitt</description>
     </item>
     <item>
-      <title>Pluralistic: Demand destruction vs fuel-superceding infrastructure (04 May 2026)</title>
+      <title>Pluralistic: Demand destruction vs fuel-superseding infrastructure (04 May 2026)</title>
       <link>https://pluralistic.net/2026/05/04/hope-in-the-dark/</link>
       <guid isPermaLink="true">https://pluralistic.net/2026/05/04/hope-in-the-dark/</guid>
       <pubDate>Mon, 04 May 2026 09:39:28 +0000</pubDate>
@@ -55,18 +111,18 @@
       <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
-      <title>From RSS to Atom</title>
-      <link>https://susam.net/from-rss-to-atom.html</link>
-      <guid isPermaLink="true">https://susam.net/from-rss-to-atom.html</guid>
-      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
-      <description>Susam Pal</description>
-    </item>
-    <item>
       <title>29th August 2026: a scenario</title>
       <link>https://martinalderson.com/posts/august-29-2026-a-scenario/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
       <guid isPermaLink="true">https://martinalderson.com/posts/august-29-2026-a-scenario/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
       <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
       <description>Martin Alderson</description>
+    </item>
+    <item>
+      <title>From RSS to Atom</title>
+      <link>https://susam.net/from-rss-to-atom.html</link>
+      <guid isPermaLink="true">https://susam.net/from-rss-to-atom.html</guid>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+      <description>Susam Pal</description>
     </item>
     <item>
       <title>‘2 Letters From Steve’</title>
@@ -153,18 +209,18 @@
       <description>Evan Hahn (dot com)</description>
     </item>
     <item>
-      <title>QuickQWERTY 1.2.3</title>
-      <link>https://susam.net/code/news/quickqwerty/1.2.3.html</link>
-      <guid isPermaLink="true">https://susam.net/code/news/quickqwerty/1.2.3.html</guid>
-      <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
-      <description>Susam Pal</description>
-    </item>
-    <item>
       <title>callgraph analysis</title>
       <link>https://jyn.dev/callgraph-analysis/</link>
       <guid isPermaLink="true">https://jyn.dev/callgraph-analysis/</guid>
       <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
       <description>the website of jyn</description>
+    </item>
+    <item>
+      <title>QuickQWERTY 1.2.3</title>
+      <link>https://susam.net/code/news/quickqwerty/1.2.3.html</link>
+      <guid isPermaLink="true">https://susam.net/code/news/quickqwerty/1.2.3.html</guid>
+      <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
+      <description>Susam Pal</description>
     </item>
     <item>
       <title>How backups work depends on the goals of the people setting them up</title>
@@ -788,62 +844,6 @@
       <guid isPermaLink="true">https://idiallo.com/blog/say-no-to-localhost3000-use-custom-domains?src=feed</guid>
       <pubDate>Mon, 27 Apr 2026 23:17:54 +0000</pubDate>
       <description>iDiallo.com</description>
-    </item>
-    <item>
-      <title>The Loop: everything has happened before, and everything will happen again</title>
-      <link>https://www.joanwestenberg.com/the-loop-everything-has-happened-before-and-everything-will-happen-again/</link>
-      <guid isPermaLink="true">https://www.joanwestenberg.com/the-loop-everything-has-happened-before-and-everything-will-happen-again/</guid>
-      <pubDate>Mon, 27 Apr 2026 22:38:38 +0000</pubDate>
-      <description>Westenberg.</description>
-    </item>
-    <item>
-      <title>Understanding systems</title>
-      <link>https://entropicthoughts.com/understanding-systems</link>
-      <guid isPermaLink="true">https://entropicthoughts.com/understanding-systems</guid>
-      <pubDate>Mon, 27 Apr 2026 22:00:00 +0000</pubDate>
-      <description>Entropic Thoughts</description>
-    </item>
-    <item>
-      <title>Yours Truly on The Vergecast</title>
-      <link>https://www.theverge.com/podcast/917965/apple-ceo-cook-ternus-transition</link>
-      <guid isPermaLink="true">https://www.theverge.com/podcast/917965/apple-ceo-cook-ternus-transition</guid>
-      <pubDate>Mon, 27 Apr 2026 18:46:32 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Tracking the history of the now-deceased OpenAI Microsoft AGI clause</title>
-      <link>https://simonwillison.net/2026/Apr/27/now-deceased-agi-clause/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/27/now-deceased-agi-clause/#atom-everything</guid>
-      <pubDate>Mon, 27 Apr 2026 18:38:17 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Speech translation in Google Meet is now rolling out to mobile devices</title>
-      <link>https://simonwillison.net/2026/Apr/27/speech-translation-in-google-meet-is-now-rolling-out-to-mobile-d/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/27/speech-translation-in-google-meet-is-now-rolling-out-to-mobile-d/#atom-everything</guid>
-      <pubDate>Mon, 27 Apr 2026 17:37:47 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Looking at consequences of passing too few register parameters to a C function on various architectures</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260427-00/?p=112271</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260427-00/?p=112271</guid>
-      <pubDate>Mon, 27 Apr 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>What I've been thinking about this weekend - More open questions, intelligence vs power, the problem of verification in science, the parallel discovery of Darwinism</title>
-      <link>https://www.dwarkesh.com/p/what-ive-been-thinking-april-27</link>
-      <guid isPermaLink="true">https://www.dwarkesh.com/p/what-ive-been-thinking-april-27</guid>
-      <pubDate>Mon, 27 Apr 2026 13:51:32 +0000</pubDate>
-      <description>Dwarkesh Podcast</description>
-    </item>
-    <item>
-      <title>Theatre Review: Hadestown ★★★★★</title>
-      <link>https://shkspr.mobi/blog/2026/04/theatre-review-hadestown/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/theatre-review-hadestown/</guid>
-      <pubDate>Mon, 27 Apr 2026 11:34:27 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
   </channel>
 </rss>

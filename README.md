@@ -208,11 +208,11 @@ Last Updated: Tuesday, May 5th, 2026, 3:21:17 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Premium: The AI Compute Demand Story Is A Lie](https://www.wheresyoured.at/premium-the-ai-compute-demand-story-is-a-lie/) — *Ed Zitron's Where's Your Ed At* `05-04`
-- [[RSS Club] Where are you from?](https://shkspr.mobi/blog/2026/05/rss-club-where-are-you-from/) — *Terence Eden’s Blog* `05-04`
-- [Package Manager CWEs](https://nesbitt.io/2026/05/04/package-manager-cwes.html) — *Andrew Nesbitt* `05-04`
-- [Pluralistic: Demand destruction vs fuel-superceding infrastructure (04 May 2026)](https://pluralistic.net/2026/05/04/hope-in-the-dark/) — *Pluralistic: Daily links from Cory Doctorow* `05-04`
-- [Some views on Eglot and lsp-mode in GNU Emacs](https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsEglotAndLspMode) — *Chris's Wiki :: blog* `05-04`
+- [Photoshop’s ‘Modern User Interface’ Sucks (and Doesn’t Feel Modern)](https://unsung.aresluna.org/photoshops-challenges-with-focus-pt-2/) — *Daring Fireball* `05-04`
+- [Anthropic Executive, One Year Ago: Fully AI Employees Are a Year Away](https://www.axios.com/2025/04/22/ai-anthropic-virtual-employees-security) — *Daring Fireball* `05-04`
+- [TRE Python binding — ReDoS robustness demo](https://simonwillison.net/2026/May/4/tre-python-binding/#atom-everything) — *Simon Willison's Weblog* `05-04`
+- [Redis Array Playground](https://simonwillison.net/2026/May/4/redis-array/#atom-everything) — *Simon Willison's Weblog* `05-04`
+- [Commits on GitHub Are Up 14× Year-Over-Year](https://daringfireball.net/linked/2026/03/13/amodei-ai-code-claim-chowder) — *Daring Fireball* `05-04`
 <!--BLOG_RADAR:end-->
 
 ---
