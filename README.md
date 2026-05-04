@@ -210,9 +210,9 @@ Last Updated: Monday, May 4th, 2026, 4:22:43 PM
 <!--BLOG_RADAR:start-->
 - [Some views on Eglot and lsp-mode in GNU Emacs](https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsEglotAndLspMode) — *Chris's Wiki :: blog* `05-04`
 - [X, the Platform of Free Speech](https://bsky.app/profile/gilduran.com/post/3mky5taqg3222) — *Daring Fireball* `05-04`
+- [From RSS to Atom](https://susam.net/from-rss-to-atom.html) — *Susam Pal* `05-04`
 - [29th August 2026: a scenario](https://martinalderson.com/posts/august-29-2026-a-scenario/?utm_source=rss&utm_medium=rss&utm_campaign=feed) — *Martin Alderson* `05-04`
 - [‘2 Letters From Steve’](https://davidgelphman.wordpress.com/2013/03/29/2-letters-from-steve/) — *Daring Fireball* `05-03`
-- [★ Crimes Against Decency Need as Much Cover-Up as Crimes Against the Law](https://daringfireball.net/2026/05/crimes_against_decency_need_as_much_cover-up_as_crimes_against_the_law) — *Daring Fireball* `05-03`
 <!--BLOG_RADAR:end-->
 
 ---

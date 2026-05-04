@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 04 May 2026 03:52:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 08:38:49 +0000</lastBuildDate>
     <item>
       <title>Some views on Eglot and lsp-mode in GNU Emacs</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsEglotAndLspMode</link>
@@ -18,6 +18,13 @@
       <guid isPermaLink="true">https://bsky.app/profile/gilduran.com/post/3mky5taqg3222</guid>
       <pubDate>Mon, 04 May 2026 00:15:21 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>From RSS to Atom</title>
+      <link>https://susam.net/from-rss-to-atom.html</link>
+      <guid isPermaLink="true">https://susam.net/from-rss-to-atom.html</guid>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+      <description>Susam Pal</description>
     </item>
     <item>
       <title>29th August 2026: a scenario</title>
@@ -46,6 +53,13 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/03/guitar-pick/</guid>
       <pubDate>Sun, 03 May 2026 20:49:41 +0000</pubDate>
       <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Reminder: You Can Stitch Together Lots of Little HTML Pages With Navigations For Interactions</title>
+      <link>https://blog.jim-nielsen.com/2026/small-html-pages/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/small-html-pages/</guid>
+      <pubDate>Sun, 03 May 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
     </item>
     <item>
       <title>Quoting Anthropic</title>
@@ -90,18 +104,18 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>Minimal Viable Zig Error Contexts</title>
-      <link>https://matklad.github.io/2026/05/03/zig-error-context.html</link>
-      <guid isPermaLink="true">https://matklad.github.io/2026/05/03/zig-error-context.html</guid>
-      <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
-      <description>matklad</description>
-    </item>
-    <item>
       <title>png-cmp: like cmp for PNGs</title>
       <link>https://evanhahn.com/png-cmp-is-cmp-but-for-pngs/</link>
       <guid isPermaLink="true">https://evanhahn.com/png-cmp-is-cmp-but-for-pngs/</guid>
       <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
       <description>Evan Hahn (dot com)</description>
+    </item>
+    <item>
+      <title>Minimal Viable Zig Error Contexts</title>
+      <link>https://matklad.github.io/2026/05/03/zig-error-context.html</link>
+      <guid isPermaLink="true">https://matklad.github.io/2026/05/03/zig-error-context.html</guid>
+      <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
+      <description>matklad</description>
     </item>
     <item>
       <title>QuickQWERTY 1.2.3</title>
@@ -692,18 +706,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Spring 2026 Dev Contest Results!</title>
-      <link>https://repebble.com/blog/spring-2026-dev-contest-results</link>
-      <guid isPermaLink="true">https://repebble.com/blog/spring-2026-dev-contest-results</guid>
-      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Eric Migicovsky's Blog RSS Feed</description>
-    </item>
-    <item>
       <title>Ghostty Is Leaving GitHub</title>
       <link>https://mitchellh.com/writing/ghostty-leaving-github</link>
       <guid isPermaLink="true">https://mitchellh.com/writing/ghostty-leaving-github</guid>
       <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
       <description>Mitchell Hashimoto</description>
+    </item>
+    <item>
+      <title>Spring 2026 Dev Contest Results!</title>
+      <link>https://repebble.com/blog/spring-2026-dev-contest-results</link>
+      <guid isPermaLink="true">https://repebble.com/blog/spring-2026-dev-contest-results</guid>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Eric Migicovsky's Blog RSS Feed</description>
     </item>
     <item>
       <title>Before GitHub</title>
@@ -829,20 +843,6 @@
       <link>https://daringfireball.net/2026/04/nyt_wrong_crossword_grid</link>
       <guid isPermaLink="true">https://daringfireball.net/2026/04/nyt_wrong_crossword_grid</guid>
       <pubDate>Sun, 26 Apr 2026 19:28:59 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Collective Speed Is Not the Summation of Individual Speed</title>
-      <link>https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/collective-speed-isnt-the-sum-of-individual-speed/</guid>
-      <pubDate>Sun, 26 Apr 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
-      <title>Report Claims Samsung Might Post Its First-Ever Mobile Division Loss This Year, Blaming RAM Crisis</title>
-      <link>https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/</link>
-      <guid isPermaLink="true">https://9to5google.com/2026/04/22/samsung-is-increasingly-worried-about-first-ever-mobile-division-loss-in-ram-crisis-report/</guid>
-      <pubDate>Sun, 26 Apr 2026 17:39:40 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
   </channel>
