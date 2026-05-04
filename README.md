@@ -208,11 +208,11 @@ Last Updated: Monday, May 4th, 2026, 9:46:07 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Premium: The AI Compute Demand Story Is A Lie](https://www.wheresyoured.at/premium-the-ai-compute-demand-story-is-a-lie/) — *Ed Zitron's Where's Your Ed At* `05-04`
+- [[RSS Club] Where are you from?](https://shkspr.mobi/blog/2026/05/rss-club-where-are-you-from/) — *Terence Eden’s Blog* `05-04`
+- [Package Manager CWEs](https://nesbitt.io/2026/05/04/package-manager-cwes.html) — *Andrew Nesbitt* `05-04`
+- [Pluralistic: Demand destruction vs fuel-superceding infrastructure (04 May 2026)](https://pluralistic.net/2026/05/04/hope-in-the-dark/) — *Pluralistic: Daily links from Cory Doctorow* `05-04`
 - [Some views on Eglot and lsp-mode in GNU Emacs](https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsEglotAndLspMode) — *Chris's Wiki :: blog* `05-04`
-- [X, the Platform of Free Speech](https://bsky.app/profile/gilduran.com/post/3mky5taqg3222) — *Daring Fireball* `05-04`
-- [From RSS to Atom](https://susam.net/from-rss-to-atom.html) — *Susam Pal* `05-04`
-- [29th August 2026: a scenario](https://martinalderson.com/posts/august-29-2026-a-scenario/?utm_source=rss&utm_medium=rss&utm_campaign=feed) — *Martin Alderson* `05-04`
-- [‘2 Letters From Steve’](https://davidgelphman.wordpress.com/2013/03/29/2-letters-from-steve/) — *Daring Fireball* `05-03`
 <!--BLOG_RADAR:end-->
 
 ---
