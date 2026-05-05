@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 05 May 2026 08:20:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 14:13:06 +0000</lastBuildDate>
+    <item>
+      <title>Pluralistic: The three armies fighting for the post-American world (05 May 2026)</title>
+      <link>https://pluralistic.net/2026/05/05/three-is-a-magic-number/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/05/05/three-is-a-magic-number/</guid>
+      <pubDate>Tue, 05 May 2026 12:31:41 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>RSS Feeds Send Me More Traffic Than Google</title>
+      <link>https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/</guid>
+      <pubDate>Tue, 05 May 2026 11:34:12 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Package Manager Threat Models</title>
+      <link>https://nesbitt.io/2026/05/05/package-manager-threat-models.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/05/05/package-manager-threat-models.html</guid>
+      <pubDate>Tue, 05 May 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
     <item>
       <title>Outrage is letting someone else set the frame</title>
       <link>https://www.joanwestenberg.com/outrag/</link>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://www.wheresyoured.at/ais-economics-dont-make-sense-ad-free/</guid>
       <pubDate>Tue, 28 Apr 2026 16:33:46 +0000</pubDate>
       <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>Illegal vs Unwanted States</title>
-      <link>https://buttondown.com/hillelwayne/archive/illegal-vs-unwanted-states/</link>
-      <guid isPermaLink="true">https://buttondown.com/hillelwayne/archive/illegal-vs-unwanted-states/</guid>
-      <pubDate>Tue, 28 Apr 2026 15:14:09 +0000</pubDate>
-      <description>Computer Things</description>
-    </item>
-    <item>
-      <title>Developing a cross-process reader/writer lock with limited readers, part 1: A semaphore</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260428-00/?p=112278</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260428-00/?p=112278</guid>
-      <pubDate>Tue, 28 Apr 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Quoting Matthew Yglesias</title>
-      <link>https://simonwillison.net/2026/Apr/28/matthew-yglesias/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/28/matthew-yglesias/#atom-everything</guid>
-      <pubDate>Tue, 28 Apr 2026 13:25:29 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>

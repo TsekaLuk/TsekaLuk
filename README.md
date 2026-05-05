@@ -208,11 +208,11 @@ Last Updated: Tuesday, May 5th, 2026, 4:00:34 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Pluralistic: The three armies fighting for the post-American world (05 May 2026)](https://pluralistic.net/2026/05/05/three-is-a-magic-number/) — *Pluralistic: Daily links from Cory Doctorow* `05-05`
+- [RSS Feeds Send Me More Traffic Than Google](https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/) — *Terence Eden’s Blog* `05-05`
+- [Package Manager Threat Models](https://nesbitt.io/2026/05/05/package-manager-threat-models.html) — *Andrew Nesbitt* `05-05`
 - [Outrage is letting someone else set the frame](https://www.joanwestenberg.com/outrag/) — *Westenberg.* `05-05`
 - [Straightforward checklists don't fit every situation](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ChecklistsDontFitEverything) — *Chris's Wiki :: blog* `05-05`
-- [[Sponsor] WorkOS: Ready to Sell to Enterprise? Your Product Is Ready, Your Auth Infrastructure Isn’t.](https://workos.com/?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q22026) — *Daring Fireball* `05-05`
-- [Chess Peace](https://chesspeace.app/) — *Daring Fireball* `05-05`
-- [Adobe’s ‘Modern’ User Interface Is Just Webpages](https://pxlnv.com/linklog/adobe-modern-user-interface/) — *Daring Fireball* `05-05`
 <!--BLOG_RADAR:end-->
 
 ---
