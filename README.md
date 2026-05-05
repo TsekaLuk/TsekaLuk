@@ -208,11 +208,11 @@ Last Updated: Wednesday, May 6th, 2026, 3:11:26 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Pedometer++ 8.0](https://david-smith.org/blog/2026/04/29/maps-on-watchos/) — *Daring Fireball* `05-05`
+- [The Impossible Things We Have to Believe](https://berthub.eu/articles/posts/the-impossible-things-we-have-to-believe/) — *Bert Hubert's writings* `05-05`
+- [A dispute over the TAB key highlights a mismatch between Microsoft and IBM organizational structures](https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298) — *The Old New Thing* `05-05`
 - [Pluralistic: The three armies fighting for the post-American world (05 May 2026)](https://pluralistic.net/2026/05/05/three-is-a-magic-number/) — *Pluralistic: Daily links from Cory Doctorow* `05-05`
 - [RSS Feeds Send Me More Traffic Than Google](https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/) — *Terence Eden’s Blog* `05-05`
-- [Package Manager Threat Models](https://nesbitt.io/2026/05/05/package-manager-threat-models.html) — *Andrew Nesbitt* `05-05`
-- [Outrage is letting someone else set the frame](https://www.joanwestenberg.com/outrag/) — *Westenberg.* `05-05`
-- [Straightforward checklists don't fit every situation](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ChecklistsDontFitEverything) — *Chris's Wiki :: blog* `05-05`
 <!--BLOG_RADAR:end-->
 
 ---
