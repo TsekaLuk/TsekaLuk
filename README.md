@@ -208,11 +208,11 @@ Last Updated: Tuesday, May 5th, 2026, 4:00:34 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Outrage is letting someone else set the frame](https://www.joanwestenberg.com/outrag/) — *Westenberg.* `05-05`
+- [Straightforward checklists don't fit every situation](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ChecklistsDontFitEverything) — *Chris's Wiki :: blog* `05-05`
 - [[Sponsor] WorkOS: Ready to Sell to Enterprise? Your Product Is Ready, Your Auth Infrastructure Isn’t.](https://workos.com/?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q22026) — *Daring Fireball* `05-05`
 - [Chess Peace](https://chesspeace.app/) — *Daring Fireball* `05-05`
 - [Adobe’s ‘Modern’ User Interface Is Just Webpages](https://pxlnv.com/linklog/adobe-modern-user-interface/) — *Daring Fireball* `05-05`
-- [Quoting John Gruber](https://simonwillison.net/2026/May/5/john-gruber/#atom-everything) — *Simon Willison's Weblog* `05-05`
-- [Granite 4.1 3B SVG Pelican Gallery](https://simonwillison.net/2026/May/4/granite-41-3b-svg-pelican-gallery/#atom-everything) — *Simon Willison's Weblog* `05-04`
 <!--BLOG_RADAR:end-->
 
 ---

@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 05 May 2026 03:34:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 08:20:55 +0000</lastBuildDate>
+    <item>
+      <title>Outrage is letting someone else set the frame</title>
+      <link>https://www.joanwestenberg.com/outrag/</link>
+      <guid isPermaLink="true">https://www.joanwestenberg.com/outrag/</guid>
+      <pubDate>Tue, 05 May 2026 06:20:33 +0000</pubDate>
+      <description>Westenberg.</description>
+    </item>
+    <item>
+      <title>Straightforward checklists don't fit every situation</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ChecklistsDontFitEverything</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ChecklistsDontFitEverything</guid>
+      <pubDate>Tue, 05 May 2026 03:28:21 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
     <item>
       <title>[Sponsor] WorkOS: Ready to Sell to Enterprise? Your Product Is Ready, Your Auth Infrastructure Isn’t.</title>
       <link>https://workos.com/?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026</link>
@@ -74,6 +88,13 @@
       <guid isPermaLink="true">https://idiallo.com/blog/ai-didnt-delete-your-database-you-did?src=feed</guid>
       <pubDate>Mon, 04 May 2026 22:25:00 +0000</pubDate>
       <description>iDiallo.com</description>
+    </item>
+    <item>
+      <title>Fizz Buzz Through Monoids</title>
+      <link>https://entropicthoughts.com/fizzbuzz-through-monoids</link>
+      <guid isPermaLink="true">https://entropicthoughts.com/fizzbuzz-through-monoids</guid>
+      <pubDate>Mon, 04 May 2026 22:00:00 +0000</pubDate>
+      <description>Entropic Thoughts</description>
     </item>
     <item>
       <title>Google Owns a Big Chunk of Anthropic</title>
@@ -419,18 +440,18 @@
       <description>The Digital Antiquarian</description>
     </item>
     <item>
-      <title>Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260501-00/?p=112291</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260501-00/?p=112291</guid>
-      <pubDate>Fri, 01 May 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
       <title>SBC Clusters are a terrible value, but they're fun anyway</title>
       <link>https://www.jeffgeerling.com/blog/2026/deskpi-super4c-sbc-cluster/</link>
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/deskpi-super4c-sbc-cluster/</guid>
       <pubDate>Fri, 01 May 2026 14:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260501-00/?p=112291</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260501-00/?p=112291</guid>
+      <pubDate>Fri, 01 May 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>NHS Goes To War Against Open Source</title>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Apr/28/matthew-yglesias/#atom-everything</guid>
       <pubDate>Tue, 28 Apr 2026 13:25:29 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Circular arc approximation</title>
-      <link>https://www.johndcook.com/blog/2026/04/28/circular-arc-approximation/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/04/28/circular-arc-approximation/</guid>
-      <pubDate>Tue, 28 Apr 2026 13:09:42 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Anthropic Mythos – We’ve Opened Pandora’s Box</title>
-      <link>https://steveblank.com/2026/04/28/anthropic-mythos-weve-opened-pandoras-box/</link>
-      <guid isPermaLink="true">https://steveblank.com/2026/04/28/anthropic-mythos-weve-opened-pandoras-box/</guid>
-      <pubDate>Tue, 28 Apr 2026 13:00:48 +0000</pubDate>
-      <description>Steve Blank</description>
-    </item>
-    <item>
-      <title>GitHub Actions is the weakest link</title>
-      <link>https://nesbitt.io/2026/04/28/github-actions-is-the-weakest-link.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/04/28/github-actions-is-the-weakest-link.html</guid>
-      <pubDate>Tue, 28 Apr 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
     </item>
   </channel>
 </rss>
