@@ -208,11 +208,11 @@ Last Updated: Tuesday, May 5th, 2026, 10:13:50 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Photoshop’s ‘Modern User Interface’ Sucks (and Doesn’t Feel Modern)](https://unsung.aresluna.org/photoshops-challenges-with-focus-pt-2/) — *Daring Fireball* `05-04`
-- [Anthropic Executive, One Year Ago: Fully AI Employees Are a Year Away](https://www.axios.com/2025/04/22/ai-anthropic-virtual-employees-security) — *Daring Fireball* `05-04`
-- [TRE Python binding — ReDoS robustness demo](https://simonwillison.net/2026/May/4/tre-python-binding/#atom-everything) — *Simon Willison's Weblog* `05-04`
-- [Redis Array Playground](https://simonwillison.net/2026/May/4/redis-array/#atom-everything) — *Simon Willison's Weblog* `05-04`
-- [Commits on GitHub Are Up 14× Year-Over-Year](https://daringfireball.net/linked/2026/03/13/amodei-ai-code-claim-chowder) — *Daring Fireball* `05-04`
+- [[Sponsor] WorkOS: Ready to Sell to Enterprise? Your Product Is Ready, Your Auth Infrastructure Isn’t.](https://workos.com/?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q22026) — *Daring Fireball* `05-05`
+- [Chess Peace](https://chesspeace.app/) — *Daring Fireball* `05-05`
+- [Adobe’s ‘Modern’ User Interface Is Just Webpages](https://pxlnv.com/linklog/adobe-modern-user-interface/) — *Daring Fireball* `05-05`
+- [Quoting John Gruber](https://simonwillison.net/2026/May/5/john-gruber/#atom-everything) — *Simon Willison's Weblog* `05-05`
+- [Granite 4.1 3B SVG Pelican Gallery](https://simonwillison.net/2026/May/4/granite-41-3b-svg-pelican-gallery/#atom-everything) — *Simon Willison's Weblog* `05-04`
 <!--BLOG_RADAR:end-->
 
 ---
