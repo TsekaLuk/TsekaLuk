@@ -208,11 +208,11 @@ Last Updated: Wednesday, May 6th, 2026, 9:54:18 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Splitting up my .emacs, or "use-package doesn't solve all problems"](https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsSplittingMyInitFile) — *Chris's Wiki :: blog* `05-06`
-- [Apple Cuts More Mac Studio and Mac Mini RAM Options as Memory Shortage Worsens](https://www.macrumors.com/2026/05/05/apple-mac-studio-mac-mini-ram-cuts/) — *Daring Fireball* `05-06`
-- [Apple Settles Class Action Lawsuit Over AI Features That Were Advertised but Didn’t Ship for $250 Million](https://9to5mac.com/2026/05/05/apple-reaches-250m-settlement-over-siri-delays-users-could-get-up-to-95-per-device/) — *Daring Fireball* `05-06`
-- [Emotional regulation is a dying art.](https://www.joanwestenberg.com/emotional-regulation-is-a-dying-art/) — *Westenberg.* `05-06`
-- [Weekly Update 502](https://www.troyhunt.com/weekly-update-502/) — *Troy Hunt* `05-06`
+- [Vibe coding and agentic engineering are getting closer than I'd like](https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/#atom-everything) — *Simon Willison's Weblog* `05-06`
+- [Asimov's three laws are merely a suggestion](https://idiallo.com/blog/asimov-three-laws-dont-work-with-ai?src=feed) — *iDiallo.com* `05-06`
+- [The mythology of category theory](https://www.johndcook.com/blog/2026/05/06/category-mythology/) — *John D. Cook* `05-06`
+- [Pluralistic: In praise of vultures (06 May 2026)](https://pluralistic.net/2026/05/06/champerty-loves-company/) — *Pluralistic: Daily links from Cory Doctorow* `05-06`
+- [Revisiting the 2015 Open Source Census](https://nesbitt.io/2026/05/06/revisiting-the-2015-open-source-census.html) — *Andrew Nesbitt* `05-06`
 <!--BLOG_RADAR:end-->
 
 ---
