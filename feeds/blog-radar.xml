@@ -4,7 +4,77 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 05 May 2026 19:44:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 03:49:50 +0000</lastBuildDate>
+    <item>
+      <title>Splitting up my .emacs, or "use-package doesn't solve all problems"</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsSplittingMyInitFile</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsSplittingMyInitFile</guid>
+      <pubDate>Wed, 06 May 2026 02:41:26 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>Apple Cuts More Mac Studio and Mac Mini RAM Options as Memory Shortage Worsens</title>
+      <link>https://www.macrumors.com/2026/05/05/apple-mac-studio-mac-mini-ram-cuts/</link>
+      <guid isPermaLink="true">https://www.macrumors.com/2026/05/05/apple-mac-studio-mac-mini-ram-cuts/</guid>
+      <pubDate>Wed, 06 May 2026 00:36:29 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Apple Settles Class Action Lawsuit Over AI Features That Were Advertised but Didn’t Ship for $250 Million</title>
+      <link>https://9to5mac.com/2026/05/05/apple-reaches-250m-settlement-over-siri-delays-users-could-get-up-to-95-per-device/</link>
+      <guid isPermaLink="true">https://9to5mac.com/2026/05/05/apple-reaches-250m-settlement-over-siri-delays-users-could-get-up-to-95-per-device/</guid>
+      <pubDate>Wed, 06 May 2026 00:29:22 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Emotional regulation is a dying art.</title>
+      <link>https://www.joanwestenberg.com/emotional-regulation-is-a-dying-art/</link>
+      <guid isPermaLink="true">https://www.joanwestenberg.com/emotional-regulation-is-a-dying-art/</guid>
+      <pubDate>Wed, 06 May 2026 00:21:50 +0000</pubDate>
+      <description>Westenberg.</description>
+    </item>
+    <item>
+      <title>Weekly Update 502</title>
+      <link>https://www.troyhunt.com/weekly-update-502/</link>
+      <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-502/</guid>
+      <pubDate>Wed, 06 May 2026 00:14:13 +0000</pubDate>
+      <description>Troy Hunt</description>
+    </item>
+    <item>
+      <title>datasette-referrer-policy 0.1</title>
+      <link>https://simonwillison.net/2026/May/5/datasette-referrer-policy/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/5/datasette-referrer-policy/#atom-everything</guid>
+      <pubDate>Tue, 05 May 2026 23:44:27 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Changing one character in a PDF</title>
+      <link>https://www.johndcook.com/blog/2026/05/05/changing-one-character-in-a-pdf/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/05/changing-one-character-in-a-pdf/</guid>
+      <pubDate>Tue, 05 May 2026 22:45:26 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Our AI started a cafe in Stockholm</title>
+      <link>https://simonwillison.net/2026/May/5/our-ai-started-a-cafe-in-stockholm/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/5/our-ai-started-a-cafe-in-stockholm/#atom-everything</guid>
+      <pubDate>Tue, 05 May 2026 22:14:21 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>The Pentagon Pegs the Cost of the Iran War, So Far, at $25 Billion</title>
+      <link>https://politicalwire.com/2026/04/29/iran-war-has-cost-25-billion-so-far/</link>
+      <guid isPermaLink="true">https://politicalwire.com/2026/04/29/iran-war-has-cost-25-billion-so-far/</guid>
+      <pubDate>Tue, 05 May 2026 21:55:53 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>★ Software as the Product of Obsession Times Voice</title>
+      <link>https://daringfireball.net/2026/05/software_as_the_product_of_obsession_times_voice</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/05/software_as_the_product_of_obsession_times_voice</guid>
+      <pubDate>Tue, 05 May 2026 21:01:05 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Pedometer++ 8.0</title>
       <link>https://david-smith.org/blog/2026/04/29/maps-on-watchos/</link>
@@ -496,18 +566,18 @@
       <description>The Digital Antiquarian</description>
     </item>
     <item>
-      <title>Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260501-00/?p=112291</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260501-00/?p=112291</guid>
-      <pubDate>Fri, 01 May 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
       <title>SBC Clusters are a terrible value, but they're fun anyway</title>
       <link>https://www.jeffgeerling.com/blog/2026/deskpi-super4c-sbc-cluster/</link>
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/deskpi-super4c-sbc-cluster/</guid>
       <pubDate>Fri, 01 May 2026 14:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260501-00/?p=112291</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260501-00/?p=112291</guid>
+      <pubDate>Fri, 01 May 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>NHS Goes To War Against Open Source</title>
@@ -774,76 +844,6 @@
       <guid isPermaLink="true">https://www.theatlantic.com/technology/2026/04/openai-trial-elon-musk-sam-altman/686984/?gift=iWa_iB9lkw4UuiWbIbrWGYJmg9p-llxzEAgykQekDFA</guid>
       <pubDate>Wed, 29 Apr 2026 15:03:21 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>OpenAI Trial Starts With Two Very Different Tales of a Company’s Early Years</title>
-      <link>https://www.nytimes.com/2026/04/28/technology/openai-trial-elon-musk-sam-altman.html?unlocked_article_code=1.elA.u75G.-STmUe_pILOO</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/04/28/technology/openai-trial-elon-musk-sam-altman.html?unlocked_article_code=1.elA.u75G.-STmUe_pILOO</guid>
-      <pubDate>Wed, 29 Apr 2026 14:35:42 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>10Gb/s Ethernet: what I actually did to get it working in my home</title>
-      <link>https://www.gilesthomas.com/2026/04/10g-ethernet-what-i-did</link>
-      <guid isPermaLink="true">https://www.gilesthomas.com/2026/04/10g-ethernet-what-i-did</guid>
-      <pubDate>Wed, 29 Apr 2026 14:15:00 +0000</pubDate>
-      <description>Giles' blog</description>
-    </item>
-    <item>
-      <title>Developing a cross-process reader/writer lock with limited readers, part 2: Taking turns when being grabby</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260429-00/?p=112286</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260429-00/?p=112286</guid>
-      <pubDate>Wed, 29 Apr 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Playing With Fire</title>
-      <link>https://x.com/lifeof_jer/status/2048103471019434248?s=12</link>
-      <guid isPermaLink="true">https://x.com/lifeof_jer/status/2048103471019434248?s=12</guid>
-      <pubDate>Wed, 29 Apr 2026 13:38:22 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Let's Get Digging!</title>
-      <link>https://shkspr.mobi/blog/2026/04/lets-get-digging/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/04/lets-get-digging/</guid>
-      <pubDate>Wed, 29 Apr 2026 11:34:23 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>When The Bill Comes Due</title>
-      <link>https://feed.tedium.co/link/15204/17327554/openai-anthropic-ai-tools-expensive-alternatives</link>
-      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17327554/openai-anthropic-ai-tools-expensive-alternatives</guid>
-      <pubDate>Wed, 29 Apr 2026 03:30:00 +0000</pubDate>
-      <description>Tedium: The Dull Side of the Internet.</description>
-    </item>
-    <item>
-      <title>If it's in JSON, it's not really a configuration file</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/programming/JSONNotConfigurationFile</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/programming/JSONNotConfigurationFile</guid>
-      <pubDate>Wed, 29 Apr 2026 02:14:21 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>On wintering.</title>
-      <link>https://www.joanwestenberg.com/on-wintering/</link>
-      <guid isPermaLink="true">https://www.joanwestenberg.com/on-wintering/</guid>
-      <pubDate>Wed, 29 Apr 2026 01:54:43 +0000</pubDate>
-      <description>Westenberg.</description>
-    </item>
-    <item>
-      <title>OpenAI Projects ChatGPT Plus subscriptions to drop by 80% from 44 Million in 2025 to 9 Million In 2026, Made Up Using Cheaper Subscriptions (Somehow)</title>
-      <link>https://www.wheresyoured.at/openai-projects-chatgpt-plus-subscriptions-to-drop-by-80-from-44-million-in-2025-to-9-million-in-2026-made-up-using-cheaper-subscriptions-somehow/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/openai-projects-chatgpt-plus-subscriptions-to-drop-by-80-from-44-million-in-2025-to-9-million-in-2026-made-up-using-cheaper-subscriptions-somehow/</guid>
-      <pubDate>Tue, 28 Apr 2026 22:40:34 +0000</pubDate>
-      <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>Quoting OpenAI Codex base_instructions</title>
-      <link>https://simonwillison.net/2026/Apr/28/openai-codex/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/28/openai-codex/#atom-everything</guid>
-      <pubDate>Tue, 28 Apr 2026 22:02:53 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
