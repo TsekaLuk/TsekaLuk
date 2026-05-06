@@ -208,11 +208,11 @@ Last Updated: Thursday, May 7th, 2026, 3:29:03 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Vibe coding and agentic engineering are getting closer than I'd like](https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/#atom-everything) — *Simon Willison's Weblog* `05-06`
-- [Asimov's three laws are merely a suggestion](https://idiallo.com/blog/asimov-three-laws-dont-work-with-ai?src=feed) — *iDiallo.com* `05-06`
-- [The mythology of category theory](https://www.johndcook.com/blog/2026/05/06/category-mythology/) — *John D. Cook* `05-06`
-- [Pluralistic: In praise of vultures (06 May 2026)](https://pluralistic.net/2026/05/06/champerty-loves-company/) — *Pluralistic: Daily links from Cory Doctorow* `05-06`
-- [Revisiting the 2015 Open Source Census](https://nesbitt.io/2026/05/06/revisiting-the-2015-open-source-census.html) — *Andrew Nesbitt* `05-06`
+- [Claris CEO Ryan McCann on FileMaker in the Age of Agentic Coding](https://www.claris.com/blog/2026/how-claris-is-building-for-what-comes-next) — *Daring Fireball* `05-06`
+- [Luca Maestri Runs the Cafeteria](https://www.apple.com/leadership/luca-maestri/) — *Daring Fireball* `05-06`
+- [New Logic for Programmers (and the future of this newsletter)](https://buttondown.com/hillelwayne/archive/new-logic-for-programmers-and-the-future-of-this/) — *Computer Things* `05-06`
+- [Unified config files](https://www.johndcook.com/blog/2026/05/06/unified-config-files/) — *John D. Cook* `05-06`
+- [Live blog: Code w/ Claude 2026](https://simonwillison.net/2026/May/6/code-w-claude-2026/#atom-everything) — *Simon Willison's Weblog* `05-06`
 <!--BLOG_RADAR:end-->
 
 ---

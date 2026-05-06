@@ -4,13 +4,62 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 06 May 2026 14:32:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 19:55:13 +0000</lastBuildDate>
+    <item>
+      <title>Claris CEO Ryan McCann on FileMaker in the Age of Agentic Coding</title>
+      <link>https://www.claris.com/blog/2026/how-claris-is-building-for-what-comes-next</link>
+      <guid isPermaLink="true">https://www.claris.com/blog/2026/how-claris-is-building-for-what-comes-next</guid>
+      <pubDate>Wed, 06 May 2026 19:41:36 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Luca Maestri Runs the Cafeteria</title>
+      <link>https://www.apple.com/leadership/luca-maestri/</link>
+      <guid isPermaLink="true">https://www.apple.com/leadership/luca-maestri/</guid>
+      <pubDate>Wed, 06 May 2026 19:29:08 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>New Logic for Programmers (and the future of this newsletter)</title>
+      <link>https://buttondown.com/hillelwayne/archive/new-logic-for-programmers-and-the-future-of-this/</link>
+      <guid isPermaLink="true">https://buttondown.com/hillelwayne/archive/new-logic-for-programmers-and-the-future-of-this/</guid>
+      <pubDate>Wed, 06 May 2026 17:03:46 +0000</pubDate>
+      <description>Computer Things</description>
+    </item>
+    <item>
+      <title>Unified config files</title>
+      <link>https://www.johndcook.com/blog/2026/05/06/unified-config-files/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/06/unified-config-files/</guid>
+      <pubDate>Wed, 06 May 2026 16:32:20 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Live blog: Code w/ Claude 2026</title>
+      <link>https://simonwillison.net/2026/May/6/code-w-claude-2026/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/6/code-w-claude-2026/#atom-everything</guid>
+      <pubDate>Wed, 06 May 2026 15:58:27 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Am I Meant To Be Impressed?</title>
+      <link>https://www.wheresyoured.at/am-i-meant-to-be-impressed/</link>
+      <guid isPermaLink="true">https://www.wheresyoured.at/am-i-meant-to-be-impressed/</guid>
+      <pubDate>Wed, 06 May 2026 15:13:07 +0000</pubDate>
+      <description>Ed Zitron's Where's Your Ed At</description>
+    </item>
     <item>
       <title>Vibe coding and agentic engineering are getting closer than I'd like</title>
       <link>https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/#atom-everything</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/#atom-everything</guid>
       <pubDate>Wed, 06 May 2026 14:24:08 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Why not have changes in API behavior depend on the SDK you link against?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260506-00/?p=112303</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260506-00/?p=112303</guid>
+      <pubDate>Wed, 06 May 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Asimov's three laws are merely a suggestion</title>
@@ -76,7 +125,7 @@
       <description>Troy Hunt</description>
     </item>
     <item>
-      <title>Open weights are quietly closing up — and that's a problem</title>
+      <title>Open weights are quietly closing up - and that's a problem</title>
       <link>https://martinalderson.com/posts/open-weights-are-quietly-closing-up/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
       <guid isPermaLink="true">https://martinalderson.com/posts/open-weights-are-quietly-closing-up/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
       <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
@@ -795,55 +844,6 @@
       <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsSwitchingToOnlyCorfu</guid>
       <pubDate>Thu, 30 Apr 2026 02:23:21 +0000</pubDate>
       <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>The Zig project's rationale for their firm anti-AI contribution policy</title>
-      <link>https://simonwillison.net/2026/Apr/30/zig-anti-ai/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/30/zig-anti-ai/#atom-everything</guid>
-      <pubDate>Thu, 30 Apr 2026 01:24:23 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>You’re probably taking the wrong painkiller</title>
-      <link>https://dynomight.net/painkillers/</link>
-      <guid isPermaLink="true">https://dynomight.net/painkillers/</guid>
-      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
-    </item>
-    <item>
-      <title>Notes from April 2026</title>
-      <link>https://evanhahn.com/notes-from-april-2026/</link>
-      <guid isPermaLink="true">https://evanhahn.com/notes-from-april-2026/</guid>
-      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Evan Hahn (dot com)</description>
-    </item>
-    <item>
-      <title>Why are the Artemis II photos on Flickr?</title>
-      <link>https://anildash.com/2026/04/30/artemis-photos-flickr/</link>
-      <guid isPermaLink="true">https://anildash.com/2026/04/30/artemis-photos-flickr/</guid>
-      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Anil Dash</description>
-    </item>
-    <item>
-      <title>llm 0.32a1</title>
-      <link>https://simonwillison.net/2026/Apr/29/llm-3/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/29/llm-3/#atom-everything</guid>
-      <pubDate>Wed, 29 Apr 2026 23:52:50 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Have You Seen the New Excel?</title>
-      <link>https://idiallo.com/blog/have-you-seen-the-new-xl-ai-parody?src=feed</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/have-you-seen-the-new-xl-ai-parody?src=feed</guid>
-      <pubDate>Wed, 29 Apr 2026 23:40:00 +0000</pubDate>
-      <description>iDiallo.com</description>
-    </item>
-    <item>
-      <title>Oakland’s Airport Is Now Officially ‘Oakland San Francisco Bay Airport’</title>
-      <link>https://sfstandard.com/2026/04/28/oak-sfo-reach-naming-settlement/</link>
-      <guid isPermaLink="true">https://sfstandard.com/2026/04/28/oak-sfo-reach-naming-settlement/</guid>
-      <pubDate>Wed, 29 Apr 2026 21:24:06 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
