@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 07 May 2026 03:48:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 08:43:46 +0000</lastBuildDate>
+    <item>
+      <title>Pluralistic: Bubbles are REALLY evil (07 May 2026)</title>
+      <link>https://pluralistic.net/2026/05/07/dump-the-pumpers/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/05/07/dump-the-pumpers/</guid>
+      <pubDate>Thu, 07 May 2026 08:08:49 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
     <item>
       <title>Your Linux distribution may no longer auto-generate new SSH host keys</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/linux/SSHHostKeysAndAutogeneration</link>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/</guid>
       <pubDate>Thu, 30 Apr 2026 14:04:26 +0000</pubDate>
       <description>Krebs on Security</description>
-    </item>
-    <item>
-      <title>Developing a cross-process reader/writer lock with limited readers, part 3: Fairness</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260430-00/?p=112288</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260430-00/?p=112288</guid>
-      <pubDate>Thu, 30 Apr 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
     </item>
   </channel>
 </rss>

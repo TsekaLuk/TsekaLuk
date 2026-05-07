@@ -208,11 +208,11 @@ Last Updated: Thursday, May 7th, 2026, 4:25:43 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Pluralistic: Bubbles are REALLY evil (07 May 2026)](https://pluralistic.net/2026/05/07/dump-the-pumpers/) — *Pluralistic: Daily links from Cory Doctorow* `05-07`
 - [Your Linux distribution may no longer auto-generate new SSH host keys](https://utcc.utoronto.ca/~cks/space/blog/linux/SSHHostKeysAndAutogeneration) — *Chris's Wiki :: blog* `05-07`
 - [The war between fast and legitimate is here](https://www.joanwestenberg.com/the-war-between-fast-and-legitimate-is-here/) — *Westenberg.* `05-07`
 - [SQLAlchemy 2 In Practice - Chapter 7: Asynchronous SQLAlchemy](https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-7-asynchronous-sqlalchemy) — *Miguel Grinberg's Blog* `05-06`
 - [Broadcast Booths Around Baseball Tip Their Caps to John Sterling](https://www.mlb.com/news/broadcast-booths-around-baseball-mirror-john-sterling-signature-calls) — *Daring Fireball* `05-06`
-- [Triangular analog of the squircle](https://www.johndcook.com/blog/2026/05/06/triangular-analog-of-the-squircle/) — *John D. Cook* `05-06`
 <!--BLOG_RADAR:end-->
 
 ---
