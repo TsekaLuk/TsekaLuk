@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 07 May 2026 08:43:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 14:34:18 +0000</lastBuildDate>
+    <item>
+      <title>I've found just the right paper for my Bottom Hole problem</title>
+      <link>https://shkspr.mobi/blog/2026/05/ive-found-just-the-right-paper-for-my-bottom-hole-problem/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/ive-found-just-the-right-paper-for-my-bottom-hole-problem/</guid>
+      <pubDate>Thu, 07 May 2026 11:34:54 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Monitor your devices with LibreNMS on FreeBSD</title>
+      <link>https://it-notes.dragas.net/2026/05/07/monitor-your-services-with-librenms-on-freebsd/</link>
+      <guid isPermaLink="true">https://it-notes.dragas.net/2026/05/07/monitor-your-services-with-librenms-on-freebsd/</guid>
+      <pubDate>Thu, 07 May 2026 10:45:00 +0000</pubDate>
+      <description>IT Notes</description>
+    </item>
+    <item>
+      <title>Free as in Tribbles</title>
+      <link>https://nesbitt.io/2026/05/07/free-as-in-tribbles.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/05/07/free-as-in-tribbles.html</guid>
+      <pubDate>Thu, 07 May 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>The Intolerable Hypocrisy of Cyberlibertarianism</title>
+      <link>https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/</link>
+      <guid isPermaLink="true">https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/</guid>
+      <pubDate>Thu, 07 May 2026 09:43:28 +0000</pubDate>
+      <description>matduggan.com</description>
+    </item>
     <item>
       <title>Pluralistic: Bubbles are REALLY evil (07 May 2026)</title>
       <link>https://pluralistic.net/2026/05/07/dump-the-pumpers/</link>
@@ -25,6 +53,20 @@
       <guid isPermaLink="true">https://www.joanwestenberg.com/the-war-between-fast-and-legitimate-is-here/</guid>
       <pubDate>Thu, 07 May 2026 01:18:04 +0000</pubDate>
       <description>Westenberg.</description>
+    </item>
+    <item>
+      <title>Why hasn't longer-horizon training slowed AI progress?</title>
+      <link>https://seangoedecke.com/why-hasnt-longer-horizon-training-slowed-ai-progress/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/why-hasnt-longer-horizon-training-slowed-ai-progress/</guid>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Article previews in RSS</title>
+      <link>https://entropicthoughts.com/article-previews-in-rss</link>
+      <guid isPermaLink="true">https://entropicthoughts.com/article-previews-in-rss</guid>
+      <pubDate>Wed, 06 May 2026 22:00:00 +0000</pubDate>
+      <description>Entropic Thoughts</description>
     </item>
     <item>
       <title>SQLAlchemy 2 In Practice - Chapter 7: Asynchronous SQLAlchemy</title>
@@ -699,18 +741,18 @@
       <description>The Digital Antiquarian</description>
     </item>
     <item>
-      <title>Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260501-00/?p=112291</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260501-00/?p=112291</guid>
-      <pubDate>Fri, 01 May 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
       <title>SBC Clusters are a terrible value, but they're fun anyway</title>
       <link>https://www.jeffgeerling.com/blog/2026/deskpi-super4c-sbc-cluster/</link>
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/deskpi-super4c-sbc-cluster/</guid>
       <pubDate>Fri, 01 May 2026 14:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260501-00/?p=112291</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260501-00/?p=112291</guid>
+      <pubDate>Fri, 01 May 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>NHS Goes To War Against Open Source</title>
@@ -802,48 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Apr/30/andrew-kelley/#atom-everything</guid>
       <pubDate>Thu, 30 Apr 2026 21:24:55 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>We need RSS for sharing abundant vibe-coded apps</title>
-      <link>https://simonwillison.net/2026/Apr/30/rss-vibe-coded-apps/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/30/rss-vibe-coded-apps/#atom-everything</guid>
-      <pubDate>Thu, 30 Apr 2026 18:38:48 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>I’m Starting to Wonder What They’re Smoking Over There at MacRumors</title>
-      <link>https://www.macrumors.com/2026/04/29/apple-questioning-iphone-magsafe/</link>
-      <guid isPermaLink="true">https://www.macrumors.com/2026/04/29/apple-questioning-iphone-magsafe/</guid>
-      <pubDate>Thu, 30 Apr 2026 15:16:12 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Three ways to differentiate ReLU</title>
-      <link>https://www.johndcook.com/blog/2026/04/30/derivative-of-relu/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/04/30/derivative-of-relu/</guid>
-      <pubDate>Thu, 30 Apr 2026 14:51:08 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Pluralistic: How not to ban surveillance pricing (30 Apr 2026)</title>
-      <link>https://pluralistic.net/2026/04/30/something-must-be-done/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/04/30/something-must-be-done/</guid>
-      <pubDate>Thu, 30 Apr 2026 14:38:35 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>New Banksy in London</title>
-      <link>https://www.instagram.com/reel/DXwf7pis6KT/</link>
-      <guid isPermaLink="true">https://www.instagram.com/reel/DXwf7pis6KT/</guid>
-      <pubDate>Thu, 30 Apr 2026 14:25:27 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Anti-DDoS Firm Heaped Attacks on Brazilian ISPs</title>
-      <link>https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/</link>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/</guid>
-      <pubDate>Thu, 30 Apr 2026 14:04:26 +0000</pubDate>
-      <description>Krebs on Security</description>
     </item>
   </channel>
 </rss>
