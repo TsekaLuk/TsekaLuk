@@ -4,7 +4,42 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 06 May 2026 19:55:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 03:48:42 +0000</lastBuildDate>
+    <item>
+      <title>Your Linux distribution may no longer auto-generate new SSH host keys</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/SSHHostKeysAndAutogeneration</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/SSHHostKeysAndAutogeneration</guid>
+      <pubDate>Thu, 07 May 2026 03:03:13 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>The war between fast and legitimate is here</title>
+      <link>https://www.joanwestenberg.com/the-war-between-fast-and-legitimate-is-here/</link>
+      <guid isPermaLink="true">https://www.joanwestenberg.com/the-war-between-fast-and-legitimate-is-here/</guid>
+      <pubDate>Thu, 07 May 2026 01:18:04 +0000</pubDate>
+      <description>Westenberg.</description>
+    </item>
+    <item>
+      <title>SQLAlchemy 2 In Practice - Chapter 7: Asynchronous SQLAlchemy</title>
+      <link>https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-7-asynchronous-sqlalchemy</link>
+      <guid isPermaLink="true">https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-7-asynchronous-sqlalchemy</guid>
+      <pubDate>Wed, 06 May 2026 21:49:20 +0000</pubDate>
+      <description>Miguel Grinberg's Blog</description>
+    </item>
+    <item>
+      <title>Broadcast Booths Around Baseball Tip Their Caps to John Sterling</title>
+      <link>https://www.mlb.com/news/broadcast-booths-around-baseball-mirror-john-sterling-signature-calls</link>
+      <guid isPermaLink="true">https://www.mlb.com/news/broadcast-booths-around-baseball-mirror-john-sterling-signature-calls</guid>
+      <pubDate>Wed, 06 May 2026 20:33:51 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Triangular analog of the squircle</title>
+      <link>https://www.johndcook.com/blog/2026/05/06/triangular-analog-of-the-squircle/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/06/triangular-analog-of-the-squircle/</guid>
+      <pubDate>Wed, 06 May 2026 19:53:29 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
     <item>
       <title>Claris CEO Ryan McCann on FileMaker in the Age of Agentic Coding</title>
       <link>https://www.claris.com/blog/2026/how-claris-is-building-for-what-comes-next</link>
@@ -657,18 +692,18 @@
       <description>The Digital Antiquarian</description>
     </item>
     <item>
-      <title>SBC Clusters are a terrible value, but they're fun anyway</title>
-      <link>https://www.jeffgeerling.com/blog/2026/deskpi-super4c-sbc-cluster/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/deskpi-super4c-sbc-cluster/</guid>
-      <pubDate>Fri, 01 May 2026 14:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
       <title>Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260501-00/?p=112291</link>
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260501-00/?p=112291</guid>
       <pubDate>Fri, 01 May 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>SBC Clusters are a terrible value, but they're fun anyway</title>
+      <link>https://www.jeffgeerling.com/blog/2026/deskpi-super4c-sbc-cluster/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/deskpi-super4c-sbc-cluster/</guid>
+      <pubDate>Fri, 01 May 2026 14:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
     </item>
     <item>
       <title>NHS Goes To War Against Open Source</title>
@@ -809,41 +844,6 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260430-00/?p=112288</guid>
       <pubDate>Thu, 30 Apr 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>How an Oil Refinery Works</title>
-      <link>https://www.construction-physics.com/p/how-an-oil-refinery-works</link>
-      <guid isPermaLink="true">https://www.construction-physics.com/p/how-an-oil-refinery-works</guid>
-      <pubDate>Thu, 30 Apr 2026 12:03:35 +0000</pubDate>
-      <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>If I Could Make My Own GitHub</title>
-      <link>https://matduggan.com/if-i-could-make-my-own-github/</link>
-      <guid isPermaLink="true">https://matduggan.com/if-i-could-make-my-own-github/</guid>
-      <pubDate>Thu, 30 Apr 2026 12:02:49 +0000</pubDate>
-      <description>matduggan.com</description>
-    </item>
-    <item>
-      <title>Announcing the 2026 Open Source Fantasy Draft</title>
-      <link>https://nesbitt.io/2026/04/30/open-source-fantasy-draft.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/04/30/open-source-fantasy-draft.html</guid>
-      <pubDate>Thu, 30 Apr 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Thoughts on WebAssembly as a stack machine</title>
-      <link>https://eli.thegreenplace.net/2026/thoughts-on-webassembly-as-a-stack-machine/</link>
-      <guid isPermaLink="true">https://eli.thegreenplace.net/2026/thoughts-on-webassembly-as-a-stack-machine/</guid>
-      <pubDate>Thu, 30 Apr 2026 02:28:00 +0000</pubDate>
-      <description>Eli Bendersky's website</description>
-    </item>
-    <item>
-      <title>Switching entirely to Corfu in my GNU Emacs configuration</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsSwitchingToOnlyCorfu</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsSwitchingToOnlyCorfu</guid>
-      <pubDate>Thu, 30 Apr 2026 02:23:21 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
     </item>
   </channel>
 </rss>

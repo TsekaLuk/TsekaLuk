@@ -208,11 +208,11 @@ Last Updated: Thursday, May 7th, 2026, 10:26:08 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Claris CEO Ryan McCann on FileMaker in the Age of Agentic Coding](https://www.claris.com/blog/2026/how-claris-is-building-for-what-comes-next) — *Daring Fireball* `05-06`
-- [Luca Maestri Runs the Cafeteria](https://www.apple.com/leadership/luca-maestri/) — *Daring Fireball* `05-06`
-- [New Logic for Programmers (and the future of this newsletter)](https://buttondown.com/hillelwayne/archive/new-logic-for-programmers-and-the-future-of-this/) — *Computer Things* `05-06`
-- [Unified config files](https://www.johndcook.com/blog/2026/05/06/unified-config-files/) — *John D. Cook* `05-06`
-- [Live blog: Code w/ Claude 2026](https://simonwillison.net/2026/May/6/code-w-claude-2026/#atom-everything) — *Simon Willison's Weblog* `05-06`
+- [Your Linux distribution may no longer auto-generate new SSH host keys](https://utcc.utoronto.ca/~cks/space/blog/linux/SSHHostKeysAndAutogeneration) — *Chris's Wiki :: blog* `05-07`
+- [The war between fast and legitimate is here](https://www.joanwestenberg.com/the-war-between-fast-and-legitimate-is-here/) — *Westenberg.* `05-07`
+- [SQLAlchemy 2 In Practice - Chapter 7: Asynchronous SQLAlchemy](https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-7-asynchronous-sqlalchemy) — *Miguel Grinberg's Blog* `05-06`
+- [Broadcast Booths Around Baseball Tip Their Caps to John Sterling](https://www.mlb.com/news/broadcast-booths-around-baseball-mirror-john-sterling-signature-calls) — *Daring Fireball* `05-06`
+- [Triangular analog of the squircle](https://www.johndcook.com/blog/2026/05/06/triangular-analog-of-the-squircle/) — *John D. Cook* `05-06`
 <!--BLOG_RADAR:end-->
 
 ---
