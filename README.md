@@ -208,11 +208,11 @@ Last Updated: Friday, May 8th, 2026, 3:37:38 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [I've found just the right paper for my Bottom Hole problem](https://shkspr.mobi/blog/2026/05/ive-found-just-the-right-paper-for-my-bottom-hole-problem/) — *Terence Eden’s Blog* `05-07`
-- [Monitor your devices with LibreNMS on FreeBSD](https://it-notes.dragas.net/2026/05/07/monitor-your-services-with-librenms-on-freebsd/) — *IT Notes* `05-07`
-- [Free as in Tribbles](https://nesbitt.io/2026/05/07/free-as-in-tribbles.html) — *Andrew Nesbitt* `05-07`
-- [The Intolerable Hypocrisy of Cyberlibertarianism](https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/) — *matduggan.com* `05-07`
-- [Pluralistic: Bubbles are REALLY evil (07 May 2026)](https://pluralistic.net/2026/05/07/dump-the-pumpers/) — *Pluralistic: Daily links from Cory Doctorow* `05-07`
+- [Big Words](https://simonwillison.net/2026/May/7/big-words/#atom-everything) — *Simon Willison's Weblog* `05-07`
+- [Smoothed polygons](https://www.johndcook.com/blog/2026/05/07/smoothed-polygons/) — *John D. Cook* `05-07`
+- [Behind the Scenes Hardening Firefox with Claude Mythos Preview](https://simonwillison.net/2026/May/7/firefox-claude-mythos/#atom-everything) — *Simon Willison's Weblog* `05-07`
+- [Notes on the xAI/Anthropic data center deal](https://simonwillison.net/2026/May/7/xai-anthropic/#atom-everything) — *Simon Willison's Weblog* `05-07`
+- [How Long Do We Wait for New Inventions?](https://www.construction-physics.com/p/how-long-do-we-wait-for-new-inventions) — *Construction Physics* `05-07`
 <!--BLOG_RADAR:end-->
 
 ---

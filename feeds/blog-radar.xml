@@ -4,7 +4,56 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 07 May 2026 14:34:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 19:48:57 +0000</lastBuildDate>
+    <item>
+      <title>Big Words</title>
+      <link>https://simonwillison.net/2026/May/7/big-words/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/7/big-words/#atom-everything</guid>
+      <pubDate>Thu, 07 May 2026 18:47:09 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Smoothed polygons</title>
+      <link>https://www.johndcook.com/blog/2026/05/07/smoothed-polygons/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/07/smoothed-polygons/</guid>
+      <pubDate>Thu, 07 May 2026 18:19:24 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Behind the Scenes Hardening Firefox with Claude Mythos Preview</title>
+      <link>https://simonwillison.net/2026/May/7/firefox-claude-mythos/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/7/firefox-claude-mythos/#atom-everything</guid>
+      <pubDate>Thu, 07 May 2026 17:56:25 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Notes on the xAI/Anthropic data center deal</title>
+      <link>https://simonwillison.net/2026/May/7/xai-anthropic/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/7/xai-anthropic/#atom-everything</guid>
+      <pubDate>Thu, 07 May 2026 17:09:28 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>How Long Do We Wait for New Inventions?</title>
+      <link>https://www.construction-physics.com/p/how-long-do-we-wait-for-new-inventions</link>
+      <guid isPermaLink="true">https://www.construction-physics.com/p/how-long-do-we-wait-for-new-inventions</guid>
+      <pubDate>Thu, 07 May 2026 15:23:28 +0000</pubDate>
+      <description>Construction Physics</description>
+    </item>
+    <item>
+      <title>The Greatest Match Cut in Cinematic History, Improved by Amazon Prime</title>
+      <link>https://bsky.app/profile/gethill.bsky.social/post/3ml6fyfv7kc2l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/gethill.bsky.social/post/3ml6fyfv7kc2l</guid>
+      <pubDate>Thu, 07 May 2026 15:21:34 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>When you upgrade your resource strings to Unicode, don’t forget to specify the L prefix</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260507-00/?p=112307</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260507-00/?p=112307</guid>
+      <pubDate>Thu, 07 May 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
     <item>
       <title>I've found just the right paper for my Bottom Hole problem</title>
       <link>https://shkspr.mobi/blog/2026/05/ive-found-just-the-right-paper-for-my-bottom-hole-problem/</link>
@@ -39,6 +88,13 @@
       <guid isPermaLink="true">https://pluralistic.net/2026/05/07/dump-the-pumpers/</guid>
       <pubDate>Thu, 07 May 2026 08:08:49 +0000</pubDate>
       <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>GitHub Repo Stats</title>
+      <link>https://simonwillison.net/2026/May/7/github-repo-stats/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/7/github-repo-stats/#atom-everything</guid>
+      <pubDate>Thu, 07 May 2026 07:25:14 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
     <item>
       <title>Your Linux distribution may no longer auto-generate new SSH host keys</title>
@@ -788,62 +844,6 @@
       <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/python/VenvsNotEntirelyMovable</guid>
       <pubDate>Fri, 01 May 2026 02:53:19 +0000</pubDate>
       <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>Scientology ‘Speed Running’ Trend</title>
-      <link>https://www.theguardian.com/us-news/2026/apr/30/hollywood-church-of-scientology-speed-runs?CMP=bsky_gu</link>
-      <guid isPermaLink="true">https://www.theguardian.com/us-news/2026/apr/30/hollywood-church-of-scientology-speed-runs?CMP=bsky_gu</guid>
-      <pubDate>Fri, 01 May 2026 02:36:36 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Apple Q2 2026 Results</title>
-      <link>https://www.apple.com/newsroom/2026/04/apple-reports-second-quarter-results/</link>
-      <guid isPermaLink="true">https://www.apple.com/newsroom/2026/04/apple-reports-second-quarter-results/</guid>
-      <pubDate>Fri, 01 May 2026 00:41:20 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>★ On the Future of Apple’s Vision Platform</title>
-      <link>https://daringfireball.net/2026/04/on_the_future_of_apples_vision_platform</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/04/on_the_future_of_apples_vision_platform</guid>
-      <pubDate>Fri, 01 May 2026 00:11:15 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Approximating even functions by powers of cosine</title>
-      <link>https://www.johndcook.com/blog/2026/04/30/burmanns-theorem/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/04/30/burmanns-theorem/</guid>
-      <pubDate>Fri, 01 May 2026 00:06:12 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Offline command line translation with TranslateGemma + Ollama</title>
-      <link>https://evanhahn.com/offline-cli-translation-with-translategemma-and-ollama/</link>
-      <guid isPermaLink="true">https://evanhahn.com/offline-cli-translation-with-translategemma-and-ollama/</guid>
-      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-      <description>Evan Hahn (dot com)</description>
-    </item>
-    <item>
-      <title>Codex CLI 0.128.0 adds /goal</title>
-      <link>https://simonwillison.net/2026/Apr/30/codex-goals/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/30/codex-goals/#atom-everything</guid>
-      <pubDate>Thu, 30 Apr 2026 23:23:17 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Our evaluation of OpenAI's GPT-5.5 cyber capabilities</title>
-      <link>https://simonwillison.net/2026/Apr/30/gpt-55-cyber-capabilities/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/30/gpt-55-cyber-capabilities/#atom-everything</guid>
-      <pubDate>Thu, 30 Apr 2026 23:03:24 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Quoting Andrew Kelley</title>
-      <link>https://simonwillison.net/2026/Apr/30/andrew-kelley/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Apr/30/andrew-kelley/#atom-everything</guid>
-      <pubDate>Thu, 30 Apr 2026 21:24:55 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
