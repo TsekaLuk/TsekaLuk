@@ -4,13 +4,48 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 08 May 2026 14:05:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 19:38:58 +0000</lastBuildDate>
+    <item>
+      <title>David Reich – Why the Bronze Age was an inflection point in human evolution</title>
+      <link>https://www.dwarkesh.com/p/david-reich-2</link>
+      <guid isPermaLink="true">https://www.dwarkesh.com/p/david-reich-2</guid>
+      <pubDate>Fri, 08 May 2026 16:38:22 +0000</pubDate>
+      <description>Dwarkesh Podcast</description>
+    </item>
+    <item>
+      <title>This Week on The Analog Antiquarian</title>
+      <link>https://www.filfre.net/2026/05/this-week-on-the-analog-antiquarian/</link>
+      <guid isPermaLink="true">https://www.filfre.net/2026/05/this-week-on-the-analog-antiquarian/</guid>
+      <pubDate>Fri, 08 May 2026 16:11:33 +0000</pubDate>
+      <description>The Digital Antiquarian</description>
+    </item>
+    <item>
+      <title>Premium: AI's Circular Psychosis</title>
+      <link>https://www.wheresyoured.at/premium-ais-circular-psychosis/</link>
+      <guid isPermaLink="true">https://www.wheresyoured.at/premium-ais-circular-psychosis/</guid>
+      <pubDate>Fri, 08 May 2026 14:40:45 +0000</pubDate>
+      <description>Ed Zitron's Where's Your Ed At</description>
+    </item>
+    <item>
+      <title>HomePod mini feels like magic, but it's just good timing</title>
+      <link>https://www.jeffgeerling.com/blog/2026/homepod-mini-feels-like-magic--but-it-s-just-good-timing/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/homepod-mini-feels-like-magic--but-it-s-just-good-timing/</guid>
+      <pubDate>Fri, 08 May 2026 14:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
+    </item>
     <item>
       <title>Hi stranger</title>
       <link>https://idiallo.com/blog/hi?src=feed</link>
       <guid isPermaLink="true">https://idiallo.com/blog/hi?src=feed</guid>
       <pubDate>Fri, 08 May 2026 14:00:00 +0000</pubDate>
       <description>iDiallo.com</description>
+    </item>
+    <item>
+      <title>Developing more confidence when tracking renames via Read­Directory­ChangesW</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260508-00/?p=112310</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260508-00/?p=112310</guid>
+      <pubDate>Fri, 08 May 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Calculating curvature</title>
@@ -55,18 +90,18 @@
       <description>Tedium: The Dull Side of the Internet.</description>
     </item>
     <item>
-      <title>Notes on incidents</title>
-      <link>https://seangoedecke.com/notes-on-incidents/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/notes-on-incidents/</guid>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
       <title>Pushing Local Models With Focus And Polish</title>
       <link>https://lucumr.pocoo.org/2026/5/8/local-models/</link>
       <guid isPermaLink="true">https://lucumr.pocoo.org/2026/5/8/local-models/</guid>
       <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
       <description>Armin Ronacher's Thoughts and Writings</description>
+    </item>
+    <item>
+      <title>Notes on incidents</title>
+      <link>https://seangoedecke.com/notes-on-incidents/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/notes-on-incidents/</guid>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>Steering Zig Fmt</title>
@@ -209,18 +244,18 @@
       <description>Westenberg.</description>
     </item>
     <item>
-      <title>Why hasn't longer-horizon training slowed AI progress?</title>
-      <link>https://seangoedecke.com/why-hasnt-longer-horizon-training-slowed-ai-progress/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/why-hasnt-longer-horizon-training-slowed-ai-progress/</guid>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
       <title>Maybe you shouldn't install new software for a bit</title>
       <link>https://xeiaso.net/blog/2026/abstain-from-install/</link>
       <guid isPermaLink="true">https://xeiaso.net/blog/2026/abstain-from-install/</guid>
       <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>Why hasn't longer-horizon training slowed AI progress?</title>
+      <link>https://seangoedecke.com/why-hasnt-longer-horizon-training-slowed-ai-progress/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/why-hasnt-longer-horizon-training-slowed-ai-progress/</guid>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>Article previews in RSS</title>
@@ -809,41 +844,6 @@
       <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/BackupsDependOnGoals</guid>
       <pubDate>Sat, 02 May 2026 20:12:58 +0000</pubDate>
       <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>Sightings</title>
-      <link>https://simonwillison.net/2026/May/2/sightings/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/2/sightings/#atom-everything</guid>
-      <pubDate>Sat, 02 May 2026 17:26:40 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Scaling, stretching and shifting sinusoids</title>
-      <link>https://eli.thegreenplace.net/2026/scaling-stretching-and-shifting-sinusoids/</link>
-      <guid isPermaLink="true">https://eli.thegreenplace.net/2026/scaling-stretching-and-shifting-sinusoids/</guid>
-      <pubDate>Sat, 02 May 2026 14:17:00 +0000</pubDate>
-      <description>Eli Bendersky's website</description>
-    </item>
-    <item>
-      <title>Reading List 05/02/2026</title>
-      <link>https://www.construction-physics.com/p/reading-list-05022026</link>
-      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-05022026</guid>
-      <pubDate>Sat, 02 May 2026 12:01:30 +0000</pubDate>
-      <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>Pluralistic: The prehistory of the Democratic Nuremberg Caucus (02 May 2026)</title>
-      <link>https://pluralistic.net/2026/05/02/denazification/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/05/02/denazification/</guid>
-      <pubDate>Sat, 02 May 2026 11:22:11 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>A GitHub for maintainers</title>
-      <link>https://nesbitt.io/2026/05/02/a-github-for-maintainers.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/05/02/a-github-for-maintainers.html</guid>
-      <pubDate>Sat, 02 May 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
     </item>
   </channel>
 </rss>

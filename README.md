@@ -208,11 +208,11 @@ Last Updated: Saturday, May 9th, 2026, 3:08:52 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [David Reich – Why the Bronze Age was an inflection point in human evolution](https://www.dwarkesh.com/p/david-reich-2) — *Dwarkesh Podcast* `05-08`
+- [This Week on The Analog Antiquarian](https://www.filfre.net/2026/05/this-week-on-the-analog-antiquarian/) — *The Digital Antiquarian* `05-08`
+- [Premium: AI's Circular Psychosis](https://www.wheresyoured.at/premium-ais-circular-psychosis/) — *Ed Zitron's Where's Your Ed At* `05-08`
+- [HomePod mini feels like magic, but it's just good timing](https://www.jeffgeerling.com/blog/2026/homepod-mini-feels-like-magic--but-it-s-just-good-timing/) — *Jeff Geerling* `05-08`
 - [Hi stranger](https://idiallo.com/blog/hi?src=feed) — *iDiallo.com* `05-08`
-- [Calculating curvature](https://www.johndcook.com/blog/2026/05/08/calculating-curvature/) — *John D. Cook* `05-08`
-- [Pluralistic: Lee Lai's "Cannon" (08 May 2026)](https://pluralistic.net/2026/05/08/gung-gung/) — *Pluralistic: Daily links from Cory Doctorow* `05-08`
-- [Weekend at Bernie’s](https://nesbitt.io/2026/05/08/weekend-at-bernies.html) — *Andrew Nesbitt* `05-08`
-- [Detecting (or not) the use of -l and -c together in Bourne shells](https://utcc.utoronto.ca/~cks/space/blog/unix/BourneShellLoginWithCommand) — *Chris's Wiki :: blog* `05-08`
 <!--BLOG_RADAR:end-->
 
 ---
