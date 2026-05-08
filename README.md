@@ -208,11 +208,11 @@ Last Updated: Friday, May 8th, 2026, 10:33:40 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Big Words](https://simonwillison.net/2026/May/7/big-words/#atom-everything) — *Simon Willison's Weblog* `05-07`
-- [Smoothed polygons](https://www.johndcook.com/blog/2026/05/07/smoothed-polygons/) — *John D. Cook* `05-07`
-- [Behind the Scenes Hardening Firefox with Claude Mythos Preview](https://simonwillison.net/2026/May/7/firefox-claude-mythos/#atom-everything) — *Simon Willison's Weblog* `05-07`
-- [Notes on the xAI/Anthropic data center deal](https://simonwillison.net/2026/May/7/xai-anthropic/#atom-everything) — *Simon Willison's Weblog* `05-07`
-- [How Long Do We Wait for New Inventions?](https://www.construction-physics.com/p/how-long-do-we-wait-for-new-inventions) — *Construction Physics* `05-07`
+- [Canvas Breach Disrupts Schools & Colleges Nationwide](https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/) — *Krebs on Security* `05-08`
+- [The Bold Ones Win](https://feed.tedium.co/link/15204/17336568/ted-turner-bold-ceo-bets) — *Tedium: The Dull Side of the Internet.* `05-08`
+- [Notes on the Hantavirus Outbreak](https://borretti.me/article/notes-on-the-hantavirus-outbreak) — *Fernando Borretti* `05-08`
+- [Prolost Watches 1.0](https://prolost.com/blog/prolostwatches) — *Daring Fireball* `05-07`
+- [llm-gemini 0.31](https://simonwillison.net/2026/May/7/llm-gemini/#atom-everything) — *Simon Willison's Weblog* `05-07`
 <!--BLOG_RADAR:end-->
 
 ---

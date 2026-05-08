@@ -4,7 +4,42 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 07 May 2026 19:48:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 03:39:32 +0000</lastBuildDate>
+    <item>
+      <title>Canvas Breach Disrupts Schools &amp; Colleges Nationwide</title>
+      <link>https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/</link>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/</guid>
+      <pubDate>Fri, 08 May 2026 02:58:46 +0000</pubDate>
+      <description>Krebs on Security</description>
+    </item>
+    <item>
+      <title>The Bold Ones Win</title>
+      <link>https://feed.tedium.co/link/15204/17336568/ted-turner-bold-ceo-bets</link>
+      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17336568/ted-turner-bold-ceo-bets</guid>
+      <pubDate>Fri, 08 May 2026 00:13:15 +0000</pubDate>
+      <description>Tedium: The Dull Side of the Internet.</description>
+    </item>
+    <item>
+      <title>Notes on the Hantavirus Outbreak</title>
+      <link>https://borretti.me/article/notes-on-the-hantavirus-outbreak</link>
+      <guid isPermaLink="true">https://borretti.me/article/notes-on-the-hantavirus-outbreak</guid>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <description>Fernando Borretti</description>
+    </item>
+    <item>
+      <title>Prolost Watches 1.0</title>
+      <link>https://prolost.com/blog/prolostwatches</link>
+      <guid isPermaLink="true">https://prolost.com/blog/prolostwatches</guid>
+      <pubDate>Thu, 07 May 2026 21:27:27 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>llm-gemini 0.31</title>
+      <link>https://simonwillison.net/2026/May/7/llm-gemini/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/7/llm-gemini/#atom-everything</guid>
+      <pubDate>Thu, 07 May 2026 19:57:06 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Big Words</title>
       <link>https://simonwillison.net/2026/May/7/big-words/#atom-everything</link>
@@ -116,6 +151,13 @@
       <guid isPermaLink="true">https://seangoedecke.com/why-hasnt-longer-horizon-training-slowed-ai-progress/</guid>
       <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Maybe you shouldn't install new software for a bit</title>
+      <link>https://xeiaso.net/blog/2026/abstain-from-install/</link>
+      <guid isPermaLink="true">https://xeiaso.net/blog/2026/abstain-from-install/</guid>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>Article previews in RSS</title>
@@ -802,48 +844,6 @@
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/deskpi-super4c-sbc-cluster/</guid>
       <pubDate>Fri, 01 May 2026 14:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
-    </item>
-    <item>
-      <title>Developing a cross-process reader/writer lock with limited readers, part 4: Abandonment</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260501-00/?p=112291</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260501-00/?p=112291</guid>
-      <pubDate>Fri, 01 May 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>NHS Goes To War Against Open Source</title>
-      <link>https://shkspr.mobi/blog/2026/05/nhs-goes-to-war-against-open-source/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/nhs-goes-to-war-against-open-source/</guid>
-      <pubDate>Fri, 01 May 2026 11:44:04 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Patching and forking in package managers</title>
-      <link>https://nesbitt.io/2026/05/01/patching-and-forking-in-package-managers.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/05/01/patching-and-forking-in-package-managers.html</guid>
-      <pubDate>Fri, 01 May 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>AI will create jobs</title>
-      <link>https://geohot.github.io//blog/jekyll/update/2026/05/01/ai-will-create-jobs.html</link>
-      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/05/01/ai-will-create-jobs.html</guid>
-      <pubDate>Fri, 01 May 2026 07:00:00 +0000</pubDate>
-      <description>the singularity is nearer</description>
-    </item>
-    <item>
-      <title>The Talk Show: ‘Food and Beverage Director’</title>
-      <link>https://daringfireball.net/thetalkshow/2026/04/30/ep-446</link>
-      <guid isPermaLink="true">https://daringfireball.net/thetalkshow/2026/04/30/ep-446</guid>
-      <pubDate>Fri, 01 May 2026 02:58:44 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Learning my lesson that Python virtual environments aren't always movable</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/python/VenvsNotEntirelyMovable</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/python/VenvsNotEntirelyMovable</guid>
-      <pubDate>Fri, 01 May 2026 02:53:19 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
     </item>
   </channel>
 </rss>
