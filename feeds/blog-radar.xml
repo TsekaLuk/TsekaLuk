@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 08 May 2026 07:50:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 14:05:44 +0000</lastBuildDate>
+    <item>
+      <title>Hi stranger</title>
+      <link>https://idiallo.com/blog/hi?src=feed</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/hi?src=feed</guid>
+      <pubDate>Fri, 08 May 2026 14:00:00 +0000</pubDate>
+      <description>iDiallo.com</description>
+    </item>
+    <item>
+      <title>Calculating curvature</title>
+      <link>https://www.johndcook.com/blog/2026/05/08/calculating-curvature/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/08/calculating-curvature/</guid>
+      <pubDate>Fri, 08 May 2026 13:54:18 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Pluralistic: Lee Lai's "Cannon" (08 May 2026)</title>
+      <link>https://pluralistic.net/2026/05/08/gung-gung/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/05/08/gung-gung/</guid>
+      <pubDate>Fri, 08 May 2026 12:19:36 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Weekend at Bernie’s</title>
+      <link>https://nesbitt.io/2026/05/08/weekend-at-bernies.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/05/08/weekend-at-bernies.html</guid>
+      <pubDate>Fri, 08 May 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
     <item>
       <title>Detecting (or not) the use of -l and -c together in Bourne shells</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/unix/BourneShellLoginWithCommand</link>
@@ -34,11 +62,32 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
+      <title>Pushing Local Models With Focus And Polish</title>
+      <link>https://lucumr.pocoo.org/2026/5/8/local-models/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/5/8/local-models/</guid>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <description>Armin Ronacher's Thoughts and Writings</description>
+    </item>
+    <item>
+      <title>Steering Zig Fmt</title>
+      <link>https://matklad.github.io/2026/05/08/steering-zig-fmt.html</link>
+      <guid isPermaLink="true">https://matklad.github.io/2026/05/08/steering-zig-fmt.html</guid>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <description>matklad</description>
+    </item>
+    <item>
       <title>Notes on the Hantavirus Outbreak</title>
       <link>https://borretti.me/article/notes-on-the-hantavirus-outbreak</link>
       <guid isPermaLink="true">https://borretti.me/article/notes-on-the-hantavirus-outbreak</guid>
       <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
       <description>Fernando Borretti</description>
+    </item>
+    <item>
+      <title>Flower: an SSG with a Clojure template language</title>
+      <link>https://jyn.dev/talks/flower/</link>
+      <guid isPermaLink="true">https://jyn.dev/talks/flower/</guid>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <description>the website of jyn</description>
     </item>
     <item>
       <title>Prolost Watches 1.0</title>
@@ -795,55 +844,6 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/05/02/a-github-for-maintainers.html</guid>
       <pubDate>Sat, 02 May 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Some of our servers revived themselves unexpectedly</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ServersSurpriseRevival</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ServersSurpriseRevival</guid>
-      <pubDate>Sat, 02 May 2026 03:54:16 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>Editing my LLM assisted Articles</title>
-      <link>https://idiallo.com/byte-size/editing-llm-assisted-articles?src=feed</link>
-      <guid isPermaLink="true">https://idiallo.com/byte-size/editing-llm-assisted-articles?src=feed</guid>
-      <pubDate>Sat, 02 May 2026 03:00:23 +0000</pubDate>
-      <description>iDiallo.com</description>
-    </item>
-    <item>
-      <title>More on Apple’s Logically Elegant Tariff Refund Puzzle Solution</title>
-      <link>https://daringfireball.net/linked/2026/05/01/tim-cooks-clever-solution-to-the-tariff-refund-puzzle</link>
-      <guid isPermaLink="true">https://daringfireball.net/linked/2026/05/01/tim-cooks-clever-solution-to-the-tariff-refund-puzzle</guid>
-      <pubDate>Sat, 02 May 2026 01:06:31 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Disable Auto-Update</title>
-      <link>https://idiallo.com/blog/disable-auto-update?src=feed</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/disable-auto-update?src=feed</guid>
-      <pubDate>Fri, 01 May 2026 23:30:00 +0000</pubDate>
-      <description>iDiallo.com</description>
-    </item>
-    <item>
-      <title>Meta Solved Their Problem With Kenyan Contractors Seeing Footage of AI Glasses Wearers on the Toilet</title>
-      <link>https://www.bbc.com/news/articles/c5y7yvgy0w6o</link>
-      <guid isPermaLink="true">https://www.bbc.com/news/articles/c5y7yvgy0w6o</guid>
-      <pubDate>Fri, 01 May 2026 21:00:36 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Tim Cook’s Clever Solution to the Tariff Refund Puzzle</title>
-      <link>https://sixcolors.com/post/2026/04/apple-results-analysis-net-net-over-the-moon/</link>
-      <guid isPermaLink="true">https://sixcolors.com/post/2026/04/apple-results-analysis-net-net-over-the-moon/</guid>
-      <pubDate>Fri, 01 May 2026 20:30:47 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>iNaturalist Sightings</title>
-      <link>https://simonwillison.net/2026/May/1/inat-sightings/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/1/inat-sightings/#atom-everything</guid>
-      <pubDate>Fri, 01 May 2026 19:35:41 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
