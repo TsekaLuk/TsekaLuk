@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 08 May 2026 03:39:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 07:50:07 +0000</lastBuildDate>
+    <item>
+      <title>Detecting (or not) the use of -l and -c together in Bourne shells</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/unix/BourneShellLoginWithCommand</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/unix/BourneShellLoginWithCommand</guid>
+      <pubDate>Fri, 08 May 2026 03:31:17 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
     <item>
       <title>Canvas Breach Disrupts Schools &amp; Colleges Nationwide</title>
       <link>https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/</link>
@@ -18,6 +25,13 @@
       <guid isPermaLink="true">https://feed.tedium.co/link/15204/17336568/ted-turner-bold-ceo-bets</guid>
       <pubDate>Fri, 08 May 2026 00:13:15 +0000</pubDate>
       <description>Tedium: The Dull Side of the Internet.</description>
+    </item>
+    <item>
+      <title>Notes on incidents</title>
+      <link>https://seangoedecke.com/notes-on-incidents/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/notes-on-incidents/</guid>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>Notes on the Hantavirus Outbreak</title>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/May/1/inat-sightings/#atom-everything</guid>
       <pubDate>Fri, 01 May 2026 19:35:41 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>The Mystery of Rennes-le-Château, Part 5: The Man Behind the Curtain</title>
-      <link>https://www.filfre.net/2026/05/the-mystery-of-rennes-le-chateau-part-5-the-man-behind-the-curtain/</link>
-      <guid isPermaLink="true">https://www.filfre.net/2026/05/the-mystery-of-rennes-le-chateau-part-5-the-man-behind-the-curtain/</guid>
-      <pubDate>Fri, 01 May 2026 15:46:03 +0000</pubDate>
-      <description>The Digital Antiquarian</description>
-    </item>
-    <item>
-      <title>SBC Clusters are a terrible value, but they're fun anyway</title>
-      <link>https://www.jeffgeerling.com/blog/2026/deskpi-super4c-sbc-cluster/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/deskpi-super4c-sbc-cluster/</guid>
-      <pubDate>Fri, 01 May 2026 14:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
     </item>
   </channel>
 </rss>

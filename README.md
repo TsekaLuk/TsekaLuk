@@ -208,11 +208,11 @@ Last Updated: Friday, May 8th, 2026, 3:21:49 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Detecting (or not) the use of -l and -c together in Bourne shells](https://utcc.utoronto.ca/~cks/space/blog/unix/BourneShellLoginWithCommand) — *Chris's Wiki :: blog* `05-08`
 - [Canvas Breach Disrupts Schools & Colleges Nationwide](https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/) — *Krebs on Security* `05-08`
 - [The Bold Ones Win](https://feed.tedium.co/link/15204/17336568/ted-turner-bold-ceo-bets) — *Tedium: The Dull Side of the Internet.* `05-08`
+- [Notes on incidents](https://seangoedecke.com/notes-on-incidents/) — *seangoedecke.com RSS feed* `05-08`
 - [Notes on the Hantavirus Outbreak](https://borretti.me/article/notes-on-the-hantavirus-outbreak) — *Fernando Borretti* `05-08`
-- [Prolost Watches 1.0](https://prolost.com/blog/prolostwatches) — *Daring Fireball* `05-07`
-- [llm-gemini 0.31](https://simonwillison.net/2026/May/7/llm-gemini/#atom-everything) — *Simon Willison's Weblog* `05-07`
 <!--BLOG_RADAR:end-->
 
 ---
