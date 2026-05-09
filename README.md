@@ -208,11 +208,11 @@ Last Updated: Saturday, May 9th, 2026, 10:26:42 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [David Reich – Why the Bronze Age was an inflection point in human evolution](https://www.dwarkesh.com/p/david-reich-2) — *Dwarkesh Podcast* `05-08`
-- [This Week on The Analog Antiquarian](https://www.filfre.net/2026/05/this-week-on-the-analog-antiquarian/) — *The Digital Antiquarian* `05-08`
-- [Premium: AI's Circular Psychosis](https://www.wheresyoured.at/premium-ais-circular-psychosis/) — *Ed Zitron's Where's Your Ed At* `05-08`
-- [HomePod mini feels like magic, but it's just good timing](https://www.jeffgeerling.com/blog/2026/homepod-mini-feels-like-magic--but-it-s-just-good-timing/) — *Jeff Geerling* `05-08`
-- [Hi stranger](https://idiallo.com/blog/hi?src=feed) — *iDiallo.com* `05-08`
+- [Notes on using GNU Emacs' Tramp system in an unusual shell environment](https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsTrampNotes) — *Chris's Wiki :: blog* `05-09`
+- [Quoting Luke Curley](https://simonwillison.net/2026/May/9/luke-curley/#atom-everything) — *Simon Willison's Weblog* `05-09`
+- [AI makes weak engineers less harmful](https://seangoedecke.com/ai-makes-weak-engineers-less-harmful/) — *seangoedecke.com RSS feed* `05-09`
+- [Using Claude Code: The Unreasonable Effectiveness of HTML](https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/#atom-everything) — *Simon Willison's Weblog* `05-08`
+- [George Orwell's review of Russel's Power: A New Social Analysis](https://berthub.eu/articles/posts/orwell-review-bertrand-russells-power/) — *Bert Hubert's writings* `05-08`
 <!--BLOG_RADAR:end-->
 
 ---

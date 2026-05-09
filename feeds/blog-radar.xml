@@ -4,7 +4,42 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 08 May 2026 19:38:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 03:40:31 +0000</lastBuildDate>
+    <item>
+      <title>Notes on using GNU Emacs' Tramp system in an unusual shell environment</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsTrampNotes</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsTrampNotes</guid>
+      <pubDate>Sat, 09 May 2026 02:09:46 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>Quoting Luke Curley</title>
+      <link>https://simonwillison.net/2026/May/9/luke-curley/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/9/luke-curley/#atom-everything</guid>
+      <pubDate>Sat, 09 May 2026 01:03:58 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>AI makes weak engineers less harmful</title>
+      <link>https://seangoedecke.com/ai-makes-weak-engineers-less-harmful/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/ai-makes-weak-engineers-less-harmful/</guid>
+      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Using Claude Code: The Unreasonable Effectiveness of HTML</title>
+      <link>https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/#atom-everything</guid>
+      <pubDate>Fri, 08 May 2026 21:00:11 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>George Orwell's review of Russel's Power: A New Social Analysis</title>
+      <link>https://berthub.eu/articles/posts/orwell-review-bertrand-russells-power/</link>
+      <guid isPermaLink="true">https://berthub.eu/articles/posts/orwell-review-bertrand-russells-power/</guid>
+      <pubDate>Fri, 08 May 2026 20:35:10 +0000</pubDate>
+      <description>Bert Hubert's writings</description>
+    </item>
     <item>
       <title>David Reich – Why the Bronze Age was an inflection point in human evolution</title>
       <link>https://www.dwarkesh.com/p/david-reich-2</link>
@@ -34,18 +69,18 @@
       <description>Jeff Geerling</description>
     </item>
     <item>
-      <title>Hi stranger</title>
-      <link>https://idiallo.com/blog/hi?src=feed</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/hi?src=feed</guid>
-      <pubDate>Fri, 08 May 2026 14:00:00 +0000</pubDate>
-      <description>iDiallo.com</description>
-    </item>
-    <item>
       <title>Developing more confidence when tracking renames via Read­Directory­ChangesW</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260508-00/?p=112310</link>
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260508-00/?p=112310</guid>
       <pubDate>Fri, 08 May 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>Hi stranger</title>
+      <link>https://idiallo.com/blog/hi?src=feed</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/hi?src=feed</guid>
+      <pubDate>Fri, 08 May 2026 14:00:00 +0000</pubDate>
+      <description>iDiallo.com</description>
     </item>
     <item>
       <title>Calculating curvature</title>
@@ -90,13 +125,6 @@
       <description>Tedium: The Dull Side of the Internet.</description>
     </item>
     <item>
-      <title>Pushing Local Models With Focus And Polish</title>
-      <link>https://lucumr.pocoo.org/2026/5/8/local-models/</link>
-      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/5/8/local-models/</guid>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-      <description>Armin Ronacher's Thoughts and Writings</description>
-    </item>
-    <item>
       <title>Notes on incidents</title>
       <link>https://seangoedecke.com/notes-on-incidents/</link>
       <guid isPermaLink="true">https://seangoedecke.com/notes-on-incidents/</guid>
@@ -104,11 +132,25 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
+      <title>Pushing Local Models With Focus And Polish</title>
+      <link>https://lucumr.pocoo.org/2026/5/8/local-models/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/5/8/local-models/</guid>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <description>Armin Ronacher's Thoughts and Writings</description>
+    </item>
+    <item>
       <title>Steering Zig Fmt</title>
       <link>https://matklad.github.io/2026/05/08/steering-zig-fmt.html</link>
       <guid isPermaLink="true">https://matklad.github.io/2026/05/08/steering-zig-fmt.html</guid>
       <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
       <description>matklad</description>
+    </item>
+    <item>
+      <title>Wander Console 0.6.0</title>
+      <link>https://susam.net/code/news/wander/0.6.0.html</link>
+      <guid isPermaLink="true">https://susam.net/code/news/wander/0.6.0.html</guid>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <description>Susam Pal</description>
     </item>
     <item>
       <title>Notes on the Hantavirus Outbreak</title>
@@ -244,18 +286,18 @@
       <description>Westenberg.</description>
     </item>
     <item>
-      <title>Maybe you shouldn't install new software for a bit</title>
-      <link>https://xeiaso.net/blog/2026/abstain-from-install/</link>
-      <guid isPermaLink="true">https://xeiaso.net/blog/2026/abstain-from-install/</guid>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
       <title>Why hasn't longer-horizon training slowed AI progress?</title>
       <link>https://seangoedecke.com/why-hasnt-longer-horizon-training-slowed-ai-progress/</link>
       <guid isPermaLink="true">https://seangoedecke.com/why-hasnt-longer-horizon-training-slowed-ai-progress/</guid>
       <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Maybe you shouldn't install new software for a bit</title>
+      <link>https://xeiaso.net/blog/2026/abstain-from-install/</link>
+      <guid isPermaLink="true">https://xeiaso.net/blog/2026/abstain-from-install/</guid>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>Article previews in RSS</title>
@@ -802,48 +844,6 @@
       <guid isPermaLink="true">https://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html</guid>
       <pubDate>Sun, 03 May 2026 06:44:00 +0000</pubDate>
       <description>Old Vintage Computing Research</description>
-    </item>
-    <item>
-      <title>Why I don't like the "staff engineer archetypes"</title>
-      <link>https://seangoedecke.com/staff-engineer-archetypes/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/staff-engineer-archetypes/</guid>
-      <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>Minimal Viable Zig Error Contexts</title>
-      <link>https://matklad.github.io/2026/05/03/zig-error-context.html</link>
-      <guid isPermaLink="true">https://matklad.github.io/2026/05/03/zig-error-context.html</guid>
-      <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
-      <description>matklad</description>
-    </item>
-    <item>
-      <title>png-cmp: like cmp for PNGs</title>
-      <link>https://evanhahn.com/png-cmp-is-cmp-but-for-pngs/</link>
-      <guid isPermaLink="true">https://evanhahn.com/png-cmp-is-cmp-but-for-pngs/</guid>
-      <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
-      <description>Evan Hahn (dot com)</description>
-    </item>
-    <item>
-      <title>QuickQWERTY 1.2.3</title>
-      <link>https://susam.net/code/news/quickqwerty/1.2.3.html</link>
-      <guid isPermaLink="true">https://susam.net/code/news/quickqwerty/1.2.3.html</guid>
-      <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
-      <description>Susam Pal</description>
-    </item>
-    <item>
-      <title>callgraph analysis</title>
-      <link>https://jyn.dev/callgraph-analysis/</link>
-      <guid isPermaLink="true">https://jyn.dev/callgraph-analysis/</guid>
-      <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
-      <description>the website of jyn</description>
-    </item>
-    <item>
-      <title>How backups work depends on the goals of the people setting them up</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/BackupsDependOnGoals</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/BackupsDependOnGoals</guid>
-      <pubDate>Sat, 02 May 2026 20:12:58 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
     </item>
   </channel>
 </rss>
