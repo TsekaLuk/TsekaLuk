@@ -208,11 +208,11 @@ Last Updated: Saturday, May 9th, 2026, 9:04:33 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Pluralistic: Trump's fruitless search for a goreable ox (09 May 2026)](https://pluralistic.net/2026/05/09/cossie-livvie-crissie/) — *Pluralistic: Daily links from Cory Doctorow* `05-09`
+- [Reading List 05/09/2026](https://www.construction-physics.com/p/reading-list-05092026) — *Construction Physics* `05-09`
+- [Book Review: The Names by Florence Knapp ★★⯪☆☆](https://shkspr.mobi/blog/2026/05/book-review-the-names-by-florence-knapp/) — *Terence Eden’s Blog* `05-09`
+- [The Mismeasure of Open Source](https://nesbitt.io/2026/05/09/the-mismeasure-of-open-source.html) — *Andrew Nesbitt* `05-09`
 - [Notes on using GNU Emacs' Tramp system in an unusual shell environment](https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsTrampNotes) — *Chris's Wiki :: blog* `05-09`
-- [Quoting Luke Curley](https://simonwillison.net/2026/May/9/luke-curley/#atom-everything) — *Simon Willison's Weblog* `05-09`
-- [AI makes weak engineers less harmful](https://seangoedecke.com/ai-makes-weak-engineers-less-harmful/) — *seangoedecke.com RSS feed* `05-09`
-- [I Will Not Add Query Strings to Your URLs](https://susam.net/no-query-strings.html) — *Susam Pal* `05-09`
-- [Using Claude Code: The Unreasonable Effectiveness of HTML](https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/#atom-everything) — *Simon Willison's Weblog* `05-08`
 <!--BLOG_RADAR:end-->
 
 ---
