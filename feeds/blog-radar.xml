@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 09 May 2026 13:41:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 19:13:48 +0000</lastBuildDate>
     <item>
       <title>Pluralistic: Trump's fruitless search for a goreable ox (09 May 2026)</title>
       <link>https://pluralistic.net/2026/05/09/cossie-livvie-crissie/</link>
@@ -160,18 +160,18 @@
       <description>Tedium: The Dull Side of the Internet.</description>
     </item>
     <item>
-      <title>Pushing Local Models With Focus And Polish</title>
-      <link>https://lucumr.pocoo.org/2026/5/8/local-models/</link>
-      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/5/8/local-models/</guid>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-      <description>Armin Ronacher's Thoughts and Writings</description>
-    </item>
-    <item>
       <title>Notes on incidents</title>
       <link>https://seangoedecke.com/notes-on-incidents/</link>
       <guid isPermaLink="true">https://seangoedecke.com/notes-on-incidents/</guid>
       <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Pushing Local Models With Focus And Polish</title>
+      <link>https://lucumr.pocoo.org/2026/5/8/local-models/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/5/8/local-models/</guid>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
       <title>Steering Zig Fmt</title>
