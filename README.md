@@ -211,8 +211,8 @@ Last Updated: Saturday, May 9th, 2026, 3:48:43 PM
 - [Notes on using GNU Emacs' Tramp system in an unusual shell environment](https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsTrampNotes) — *Chris's Wiki :: blog* `05-09`
 - [Quoting Luke Curley](https://simonwillison.net/2026/May/9/luke-curley/#atom-everything) — *Simon Willison's Weblog* `05-09`
 - [AI makes weak engineers less harmful](https://seangoedecke.com/ai-makes-weak-engineers-less-harmful/) — *seangoedecke.com RSS feed* `05-09`
+- [I Will Not Add Query Strings to Your URLs](https://susam.net/no-query-strings.html) — *Susam Pal* `05-09`
 - [Using Claude Code: The Unreasonable Effectiveness of HTML](https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/#atom-everything) — *Simon Willison's Weblog* `05-08`
-- [George Orwell's review of Russel's Power: A New Social Analysis](https://berthub.eu/articles/posts/orwell-review-bertrand-russells-power/) — *Bert Hubert's writings* `05-08`
 <!--BLOG_RADAR:end-->
 
 ---

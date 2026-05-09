@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 09 May 2026 03:40:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 08:04:03 +0000</lastBuildDate>
     <item>
       <title>Notes on using GNU Emacs' Tramp system in an unusual shell environment</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsTrampNotes</link>
@@ -25,6 +25,13 @@
       <guid isPermaLink="true">https://seangoedecke.com/ai-makes-weak-engineers-less-harmful/</guid>
       <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>I Will Not Add Query Strings to Your URLs</title>
+      <link>https://susam.net/no-query-strings.html</link>
+      <guid isPermaLink="true">https://susam.net/no-query-strings.html</guid>
+      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+      <description>Susam Pal</description>
     </item>
     <item>
       <title>Using Claude Code: The Unreasonable Effectiveness of HTML</title>
@@ -125,18 +132,18 @@
       <description>Tedium: The Dull Side of the Internet.</description>
     </item>
     <item>
-      <title>Notes on incidents</title>
-      <link>https://seangoedecke.com/notes-on-incidents/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/notes-on-incidents/</guid>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
       <title>Pushing Local Models With Focus And Polish</title>
       <link>https://lucumr.pocoo.org/2026/5/8/local-models/</link>
       <guid isPermaLink="true">https://lucumr.pocoo.org/2026/5/8/local-models/</guid>
       <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
       <description>Armin Ronacher's Thoughts and Writings</description>
+    </item>
+    <item>
+      <title>Notes on incidents</title>
+      <link>https://seangoedecke.com/notes-on-incidents/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/notes-on-incidents/</guid>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>Steering Zig Fmt</title>
@@ -286,18 +293,18 @@
       <description>Westenberg.</description>
     </item>
     <item>
-      <title>Why hasn't longer-horizon training slowed AI progress?</title>
-      <link>https://seangoedecke.com/why-hasnt-longer-horizon-training-slowed-ai-progress/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/why-hasnt-longer-horizon-training-slowed-ai-progress/</guid>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
       <title>Maybe you shouldn't install new software for a bit</title>
       <link>https://xeiaso.net/blog/2026/abstain-from-install/</link>
       <guid isPermaLink="true">https://xeiaso.net/blog/2026/abstain-from-install/</guid>
       <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>Why hasn't longer-horizon training slowed AI progress?</title>
+      <link>https://seangoedecke.com/why-hasnt-longer-horizon-training-slowed-ai-progress/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/why-hasnt-longer-horizon-training-slowed-ai-progress/</guid>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>Article previews in RSS</title>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/05/03/punk-or-why-i-dont-stream.html</guid>
       <pubDate>Sun, 03 May 2026 07:00:00 +0000</pubDate>
       <description>the singularity is nearer</description>
-    </item>
-    <item>
-      <title>Testing MacOS on the Apple Network Server 2.0 ROMs</title>
-      <link>https://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html</link>
-      <guid isPermaLink="true">https://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html</guid>
-      <pubDate>Sun, 03 May 2026 06:44:00 +0000</pubDate>
-      <description>Old Vintage Computing Research</description>
     </item>
   </channel>
 </rss>
