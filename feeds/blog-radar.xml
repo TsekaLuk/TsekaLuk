@@ -4,7 +4,42 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 10 May 2026 13:43:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 19:14:40 +0000</lastBuildDate>
+    <item>
+      <title>The linear algebra of bit twiddling</title>
+      <link>https://www.johndcook.com/blog/2026/05/10/the-linear-algebra-of-bit-twiddling/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/10/the-linear-algebra-of-bit-twiddling/</guid>
+      <pubDate>Sun, 10 May 2026 18:51:40 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Reverse engineering Mersenne Twister with Linear Algebra</title>
+      <link>https://www.johndcook.com/blog/2026/05/10/reverse-mersenne-twister/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/10/reverse-mersenne-twister/</guid>
+      <pubDate>Sun, 10 May 2026 17:32:02 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Quoting Andrew Quinn</title>
+      <link>https://simonwillison.net/2026/May/10/andrew-quinn/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/10/andrew-quinn/#atom-everything</guid>
+      <pubDate>Sun, 10 May 2026 14:59:17 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>WorkOS</title>
+      <link>https://workos.com/?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026</link>
+      <guid isPermaLink="true">https://workos.com/?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026</guid>
+      <pubDate>Sun, 10 May 2026 14:05:00 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Meta to Start Capturing Employee Mouse Movements, Keystrokes for AI Training Data</title>
+      <link>https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/</link>
+      <guid isPermaLink="true">https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/</guid>
+      <pubDate>Sun, 10 May 2026 14:04:19 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>[RSS Club] A Sneak Preview of Upcoming Posts</title>
       <link>https://shkspr.mobi/blog/2026/05/rss-club-a-sneak-preview-of-upcoming-posts/</link>
@@ -363,18 +398,18 @@
       <description>Westenberg.</description>
     </item>
     <item>
-      <title>Why hasn't longer-horizon training slowed AI progress?</title>
-      <link>https://seangoedecke.com/why-hasnt-longer-horizon-training-slowed-ai-progress/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/why-hasnt-longer-horizon-training-slowed-ai-progress/</guid>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
       <title>Maybe you shouldn't install new software for a bit</title>
       <link>https://xeiaso.net/blog/2026/abstain-from-install/</link>
       <guid isPermaLink="true">https://xeiaso.net/blog/2026/abstain-from-install/</guid>
       <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>Why hasn't longer-horizon training slowed AI progress?</title>
+      <link>https://seangoedecke.com/why-hasnt-longer-horizon-training-slowed-ai-progress/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/why-hasnt-longer-horizon-training-slowed-ai-progress/</guid>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>Article previews in RSS</title>
@@ -622,13 +657,6 @@
       <description>Chris's Wiki :: blog</description>
     </item>
     <item>
-      <title>[Sponsor] WorkOS: Ready to Sell to Enterprise? Your Product Is Ready, Your Auth Infrastructure Isn’t.</title>
-      <link>https://workos.com/?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026</link>
-      <guid isPermaLink="true">https://workos.com/?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026</guid>
-      <pubDate>Tue, 05 May 2026 02:28:25 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
       <title>Chess Peace</title>
       <link>https://chesspeace.app/</link>
       <guid isPermaLink="true">https://chesspeace.app/</guid>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/05/04/package-manager-cwes.html</guid>
       <pubDate>Mon, 04 May 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Pluralistic: Demand destruction vs fuel-superseding infrastructure (04 May 2026)</title>
-      <link>https://pluralistic.net/2026/05/04/hope-in-the-dark/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/05/04/hope-in-the-dark/</guid>
-      <pubDate>Mon, 04 May 2026 09:39:28 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Some views on Eglot and lsp-mode in GNU Emacs</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsEglotAndLspMode</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsEglotAndLspMode</guid>
-      <pubDate>Mon, 04 May 2026 02:40:38 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>X, the Platform of Free Speech</title>
-      <link>https://bsky.app/profile/gilduran.com/post/3mky5taqg3222</link>
-      <guid isPermaLink="true">https://bsky.app/profile/gilduran.com/post/3mky5taqg3222</guid>
-      <pubDate>Mon, 04 May 2026 00:15:21 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Content for Content’s Sake</title>
-      <link>https://lucumr.pocoo.org/2026/5/4/content-for-contents-sake/</link>
-      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/5/4/content-for-contents-sake/</guid>
-      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
-      <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
   </channel>
 </rss>

@@ -208,11 +208,11 @@ Last Updated: Monday, May 11th, 2026, 2:53:55 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [[RSS Club] A Sneak Preview of Upcoming Posts](https://shkspr.mobi/blog/2026/05/rss-club-a-sneak-preview-of-upcoming-posts/) — *Terence Eden’s Blog* `05-10`
-- [Madame Semver Will See You Now](https://nesbitt.io/2026/05/10/madame-semver-will-see-you-now.html) — *Andrew Nesbitt* `05-10`
-- [The left-wing case for AI](https://seangoedecke.com/the-left-wing-case-for-ai/) — *seangoedecke.com RSS feed* `05-10`
-- [Using a Python 3 LSP server with Python 2 code works (more or less)](https://utcc.utoronto.ca/~cks/space/blog/python/Python2WithPython3LSP) — *Chris's Wiki :: blog* `05-09`
-- [Pluralistic: Trump's fruitless search for a goreable ox (09 May 2026)](https://pluralistic.net/2026/05/09/cossie-livvie-crissie/) — *Pluralistic: Daily links from Cory Doctorow* `05-09`
+- [The linear algebra of bit twiddling](https://www.johndcook.com/blog/2026/05/10/the-linear-algebra-of-bit-twiddling/) — *John D. Cook* `05-10`
+- [Reverse engineering Mersenne Twister with Linear Algebra](https://www.johndcook.com/blog/2026/05/10/reverse-mersenne-twister/) — *John D. Cook* `05-10`
+- [Quoting Andrew Quinn](https://simonwillison.net/2026/May/10/andrew-quinn/#atom-everything) — *Simon Willison's Weblog* `05-10`
+- [WorkOS](https://workos.com/?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q22026) — *Daring Fireball* `05-10`
+- [Meta to Start Capturing Employee Mouse Movements, Keystrokes for AI Training Data](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/) — *Daring Fireball* `05-10`
 <!--BLOG_RADAR:end-->
 
 ---
