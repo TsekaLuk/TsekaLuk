@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 10 May 2026 08:18:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 13:43:52 +0000</lastBuildDate>
+    <item>
+      <title>[RSS Club] A Sneak Preview of Upcoming Posts</title>
+      <link>https://shkspr.mobi/blog/2026/05/rss-club-a-sneak-preview-of-upcoming-posts/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/rss-club-a-sneak-preview-of-upcoming-posts/</guid>
+      <pubDate>Sun, 10 May 2026 11:34:38 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Madame Semver Will See You Now</title>
+      <link>https://nesbitt.io/2026/05/10/madame-semver-will-see-you-now.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/05/10/madame-semver-will-see-you-now.html</guid>
+      <pubDate>Sun, 10 May 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>The left-wing case for AI</title>
+      <link>https://seangoedecke.com/the-left-wing-case-for-ai/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/the-left-wing-case-for-ai/</guid>
+      <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
+    </item>
     <item>
       <title>Using a Python 3 LSP server with Python 2 code works (more or less)</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/python/Python2WithPython3LSP</link>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://lucumr.pocoo.org/2026/5/4/content-for-contents-sake/</guid>
       <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
       <description>Armin Ronacher's Thoughts and Writings</description>
-    </item>
-    <item>
-      <title>From RSS to Atom</title>
-      <link>https://susam.net/from-rss-to-atom.html</link>
-      <guid isPermaLink="true">https://susam.net/from-rss-to-atom.html</guid>
-      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
-      <description>Susam Pal</description>
-    </item>
-    <item>
-      <title>29th August 2026: a scenario</title>
-      <link>https://martinalderson.com/posts/august-29-2026-a-scenario/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
-      <guid isPermaLink="true">https://martinalderson.com/posts/august-29-2026-a-scenario/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
-      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
-      <description>Martin Alderson</description>
-    </item>
-    <item>
-      <title>‘2 Letters From Steve’</title>
-      <link>https://davidgelphman.wordpress.com/2013/03/29/2-letters-from-steve/</link>
-      <guid isPermaLink="true">https://davidgelphman.wordpress.com/2013/03/29/2-letters-from-steve/</guid>
-      <pubDate>Sun, 03 May 2026 23:47:11 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
