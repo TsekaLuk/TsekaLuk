@@ -208,11 +208,11 @@ Last Updated: Sunday, May 10th, 2026, 10:29:27 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Using a Python 3 LSP server with Python 2 code works (more or less)](https://utcc.utoronto.ca/~cks/space/blog/python/Python2WithPython3LSP) — *Chris's Wiki :: blog* `05-09`
 - [Pluralistic: Trump's fruitless search for a goreable ox (09 May 2026)](https://pluralistic.net/2026/05/09/cossie-livvie-crissie/) — *Pluralistic: Daily links from Cory Doctorow* `05-09`
 - [Reading List 05/09/2026](https://www.construction-physics.com/p/reading-list-05092026) — *Construction Physics* `05-09`
 - [Book Review: The Names by Florence Knapp ★★⯪☆☆](https://shkspr.mobi/blog/2026/05/book-review-the-names-by-florence-knapp/) — *Terence Eden’s Blog* `05-09`
 - [The Mismeasure of Open Source](https://nesbitt.io/2026/05/09/the-mismeasure-of-open-source.html) — *Andrew Nesbitt* `05-09`
-- [Notes on using GNU Emacs' Tramp system in an unusual shell environment](https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsTrampNotes) — *Chris's Wiki :: blog* `05-09`
 <!--BLOG_RADAR:end-->
 
 ---

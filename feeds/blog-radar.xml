@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 09 May 2026 19:13:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 03:57:24 +0000</lastBuildDate>
+    <item>
+      <title>Using a Python 3 LSP server with Python 2 code works (more or less)</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/python/Python2WithPython3LSP</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/python/Python2WithPython3LSP</guid>
+      <pubDate>Sat, 09 May 2026 21:57:35 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
     <item>
       <title>Pluralistic: Trump's fruitless search for a goreable ox (09 May 2026)</title>
       <link>https://pluralistic.net/2026/05/09/cossie-livvie-crissie/</link>
@@ -34,6 +41,13 @@
       <description>Andrew Nesbitt</description>
     </item>
     <item>
+      <title>The Real Singularity is the Friends We Made Along the Way</title>
+      <link>https://geohot.github.io//blog/jekyll/update/2026/05/09/real-singularity.html</link>
+      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/05/09/real-singularity.html</guid>
+      <pubDate>Sat, 09 May 2026 07:00:00 +0000</pubDate>
+      <description>the singularity is nearer</description>
+    </item>
+    <item>
       <title>Notes on using GNU Emacs' Tramp system in an unusual shell environment</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsTrampNotes</link>
       <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsTrampNotes</guid>
@@ -60,6 +74,13 @@
       <guid isPermaLink="true">https://susam.net/no-query-strings.html</guid>
       <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
       <description>Susam Pal</description>
+    </item>
+    <item>
+      <title>extremely low frequencies</title>
+      <link>https://computer.rip/2026-05-09-extremely-low-frequencies.html</link>
+      <guid isPermaLink="true">https://computer.rip/2026-05-09-extremely-low-frequencies.html</guid>
+      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+      <description>computers are bad</description>
     </item>
     <item>
       <title>Using Claude Code: The Unreasonable Effectiveness of HTML</title>
@@ -97,6 +118,13 @@
       <description>Ed Zitron's Where's Your Ed At</description>
     </item>
     <item>
+      <title>Developing more confidence when tracking renames via Read­Directory­ChangesW</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260508-00/?p=112310</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260508-00/?p=112310</guid>
+      <pubDate>Fri, 08 May 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
+    <item>
       <title>HomePod mini feels like magic, but it's just good timing</title>
       <link>https://www.jeffgeerling.com/blog/2026/homepod-mini-feels-like-magic--but-it-s-just-good-timing/</link>
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/homepod-mini-feels-like-magic--but-it-s-just-good-timing/</guid>
@@ -109,13 +137,6 @@
       <guid isPermaLink="true">https://idiallo.com/blog/hi?src=feed</guid>
       <pubDate>Fri, 08 May 2026 14:00:00 +0000</pubDate>
       <description>iDiallo.com</description>
-    </item>
-    <item>
-      <title>Developing more confidence when tracking renames via Read­Directory­ChangesW</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260508-00/?p=112310</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260508-00/?p=112310</guid>
-      <pubDate>Fri, 08 May 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Calculating curvature</title>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://davidgelphman.wordpress.com/2013/03/29/2-letters-from-steve/</guid>
       <pubDate>Sun, 03 May 2026 23:47:11 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>★ Crimes Against Decency Need as Much Cover-Up as Crimes Against the Law</title>
-      <link>https://daringfireball.net/2026/05/crimes_against_decency_need_as_much_cover-up_as_crimes_against_the_law</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/05/crimes_against_decency_need_as_much_cover-up_as_crimes_against_the_law</guid>
-      <pubDate>Sun, 03 May 2026 23:25:41 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The shape of a guitar pick</title>
-      <link>https://www.johndcook.com/blog/2026/05/03/guitar-pick/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/03/guitar-pick/</guid>
-      <pubDate>Sun, 03 May 2026 20:49:41 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Reminder: You Can Stitch Together Lots of Little HTML Pages With Navigations For Interactions</title>
-      <link>https://blog.jim-nielsen.com/2026/small-html-pages/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/small-html-pages/</guid>
-      <pubDate>Sun, 03 May 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
     </item>
   </channel>
 </rss>
