@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 10 May 2026 03:57:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 08:18:33 +0000</lastBuildDate>
     <item>
       <title>Using a Python 3 LSP server with Python 2 code works (more or less)</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/python/Python2WithPython3LSP</link>
@@ -118,13 +118,6 @@
       <description>Ed Zitron's Where's Your Ed At</description>
     </item>
     <item>
-      <title>Developing more confidence when tracking renames via Read­Directory­ChangesW</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260508-00/?p=112310</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260508-00/?p=112310</guid>
-      <pubDate>Fri, 08 May 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
       <title>HomePod mini feels like magic, but it's just good timing</title>
       <link>https://www.jeffgeerling.com/blog/2026/homepod-mini-feels-like-magic--but-it-s-just-good-timing/</link>
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/homepod-mini-feels-like-magic--but-it-s-just-good-timing/</guid>
@@ -137,6 +130,13 @@
       <guid isPermaLink="true">https://idiallo.com/blog/hi?src=feed</guid>
       <pubDate>Fri, 08 May 2026 14:00:00 +0000</pubDate>
       <description>iDiallo.com</description>
+    </item>
+    <item>
+      <title>Developing more confidence when tracking renames via Read­Directory­ChangesW</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260508-00/?p=112310</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260508-00/?p=112310</guid>
+      <pubDate>Fri, 08 May 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Calculating curvature</title>
