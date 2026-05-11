@@ -4,7 +4,63 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 11 May 2026 15:27:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 19:57:13 +0000</lastBuildDate>
+    <item>
+      <title>Quoting James Shore</title>
+      <link>https://simonwillison.net/2026/May/11/james-shore/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/11/james-shore/#atom-everything</guid>
+      <pubDate>Mon, 11 May 2026 19:48:32 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Your AI Use Is Breaking My Brain</title>
+      <link>https://simonwillison.net/2026/May/11/zombie-internet/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/11/zombie-internet/#atom-everything</guid>
+      <pubDate>Mon, 11 May 2026 19:21:27 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Using LLM in the shebang line of a script</title>
+      <link>https://simonwillison.net/2026/May/11/llm-shebang/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/11/llm-shebang/#atom-everything</guid>
+      <pubDate>Mon, 11 May 2026 18:48:57 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>The New PowerMac</title>
+      <link>https://www.kraftheinz.com/kraft-mac-and-cheese/products/00021000086856-power-mac-original-flavor-mac-cheese-macaroni-and-cheese-dinner</link>
+      <guid isPermaLink="true">https://www.kraftheinz.com/kraft-mac-and-cheese/products/00021000086856-power-mac-original-flavor-mac-cheese-macaroni-and-cheese-dinner</guid>
+      <pubDate>Mon, 11 May 2026 18:32:03 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Tahoe’s UI Issues Have Nothing to Do With Display Technology, and Maybe, Just Maybe, We Should Stop Assuming Gurman Knows Anything About Apple’s Vision Hardware Roadmap</title>
+      <link>https://www.bloomberg.com/news/newsletters/2026-05-10/apple-plans-macos-27-design-changes-latest-on-ios-27-visionos-safari-wwdc-26-mozuaz9m?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3ODQyMTgwOSwiZXhwIjoxNzc5MDI2NjA5LCJhcnRpY2xlSWQiOiJURVRRVzFLR0NURkwwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.VPDmd_jJhdzOBKvj1AUZTernGpGdF1zR9kGgFIF-9Hw&amp;leadSource=uverify%20wall</link>
+      <guid isPermaLink="true">https://www.bloomberg.com/news/newsletters/2026-05-10/apple-plans-macos-27-design-changes-latest-on-ios-27-visionos-safari-wwdc-26-mozuaz9m?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3ODQyMTgwOSwiZXhwIjoxNzc5MDI2NjA5LCJhcnRpY2xlSWQiOiJURVRRVzFLR0NURkwwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.VPDmd_jJhdzOBKvj1AUZTernGpGdF1zR9kGgFIF-9Hw&amp;leadSource=uverify%20wall</guid>
+      <pubDate>Mon, 11 May 2026 17:55:47 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Learning on the Shop floor</title>
+      <link>https://simonwillison.net/2026/May/11/learning-on-the-shop-floor/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/11/learning-on-the-shop-floor/#atom-everything</guid>
+      <pubDate>Mon, 11 May 2026 15:46:36 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Inverse shift</title>
+      <link>https://www.johndcook.com/blog/2026/05/11/inverse-shift/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/11/inverse-shift/</guid>
+      <pubDate>Mon, 11 May 2026 15:30:30 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Additional notes on controlling which handles are inherited by Create­Process</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260511-00/?p=112313</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260511-00/?p=112313</guid>
+      <pubDate>Mon, 11 May 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
     <item>
       <title>Probability that a random binary matrix is invertible</title>
       <link>https://www.johndcook.com/blog/2026/05/11/random-binary-matrices/</link>
@@ -60,6 +116,13 @@
       <guid isPermaLink="true">https://www.troyhunt.com/welcoming-the-costa-rican-government-to-have-i-been-pwned/</guid>
       <pubDate>Mon, 11 May 2026 00:24:17 +0000</pubDate>
       <description>Troy Hunt</description>
+    </item>
+    <item>
+      <title>Hosting a website on an 8-bit microcontroller.</title>
+      <link>https://maurycyz.com/projects/mcusite/</link>
+      <guid isPermaLink="true">https://maurycyz.com/projects/mcusite/</guid>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
     </item>
     <item>
       <title>The Problem of Pedagogy in Advanced Mathematics</title>
@@ -258,13 +321,6 @@
       <description>Ed Zitron's Where's Your Ed At</description>
     </item>
     <item>
-      <title>Hi stranger</title>
-      <link>https://idiallo.com/blog/hi?src=feed</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/hi?src=feed</guid>
-      <pubDate>Fri, 08 May 2026 14:00:00 +0000</pubDate>
-      <description>iDiallo.com</description>
-    </item>
-    <item>
       <title>HomePod mini feels like magic, but it's just good timing</title>
       <link>https://www.jeffgeerling.com/blog/2026/homepod-mini-feels-like-magic--but-it-s-just-good-timing/</link>
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/homepod-mini-feels-like-magic--but-it-s-just-good-timing/</guid>
@@ -277,6 +333,13 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260508-00/?p=112310</guid>
       <pubDate>Fri, 08 May 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>Hi stranger</title>
+      <link>https://idiallo.com/blog/hi?src=feed</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/hi?src=feed</guid>
+      <pubDate>Fri, 08 May 2026 14:00:00 +0000</pubDate>
+      <description>iDiallo.com</description>
     </item>
     <item>
       <title>Calculating curvature</title>
@@ -781,69 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/May/4/granite-41-3b-svg-pelican-gallery/#atom-everything</guid>
       <pubDate>Mon, 04 May 2026 23:49:24 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Paul Thurrott Might Write a Book on Markdown</title>
-      <link>https://www.thurrott.com/paul/334577/the-markdown-book-on-writing?utm_source=dlvr.it&amp;utm_medium=mastodon</link>
-      <guid isPermaLink="true">https://www.thurrott.com/paul/334577/the-markdown-book-on-writing?utm_source=dlvr.it&amp;utm_medium=mastodon</guid>
-      <pubDate>Mon, 04 May 2026 22:58:40 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Quoting Andy Masley</title>
-      <link>https://simonwillison.net/2026/May/4/andy-masley/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/4/andy-masley/#atom-everything</guid>
-      <pubDate>Mon, 04 May 2026 22:51:09 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>★ Y Combinator’s Stake in OpenAI</title>
-      <link>https://daringfireball.net/2026/05/y_combinators_stake_in_openai</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/05/y_combinators_stake_in_openai</guid>
-      <pubDate>Mon, 04 May 2026 22:47:01 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>April 2026 newsletter</title>
-      <link>https://simonwillison.net/2026/May/4/april-newsletter/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/4/april-newsletter/#atom-everything</guid>
-      <pubDate>Mon, 04 May 2026 22:38:36 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>AI didn't delete your database, you did</title>
-      <link>https://idiallo.com/blog/ai-didnt-delete-your-database-you-did?src=feed</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/ai-didnt-delete-your-database-you-did?src=feed</guid>
-      <pubDate>Mon, 04 May 2026 22:25:00 +0000</pubDate>
-      <description>iDiallo.com</description>
-    </item>
-    <item>
-      <title>Fizz Buzz Through Monoids</title>
-      <link>https://entropicthoughts.com/fizzbuzz-through-monoids</link>
-      <guid isPermaLink="true">https://entropicthoughts.com/fizzbuzz-through-monoids</guid>
-      <pubDate>Mon, 04 May 2026 22:00:00 +0000</pubDate>
-      <description>Entropic Thoughts</description>
-    </item>
-    <item>
-      <title>Google Owns a Big Chunk of Anthropic</title>
-      <link>https://www.nytimes.com/2025/03/11/technology/google-investment-anthropic.html?unlocked_article_code=1.f1A.eSTf.D5ECvk6f4DZ7</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2025/03/11/technology/google-investment-anthropic.html?unlocked_article_code=1.f1A.eSTf.D5ECvk6f4DZ7</guid>
-      <pubDate>Mon, 04 May 2026 21:40:32 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>App Store Search Ads and the Slippery Slope</title>
-      <link>https://blog.thinktapwork.com/post/812803664980967425/ios-app-store-search-is-rotten</link>
-      <guid isPermaLink="true">https://blog.thinktapwork.com/post/812803664980967425/ios-app-store-search-is-rotten</guid>
-      <pubDate>Mon, 04 May 2026 21:09:21 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>‘Noir, Japan’s Hard-Boiled Bittersweet Answer to Oreos’</title>
-      <link>https://tokyopaladin.substack.com/p/the-japanese-oreo-noir-kills-the</link>
-      <guid isPermaLink="true">https://tokyopaladin.substack.com/p/the-japanese-oreo-noir-kills-the</guid>
-      <pubDate>Mon, 04 May 2026 19:48:48 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
