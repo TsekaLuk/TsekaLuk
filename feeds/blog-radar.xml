@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 11 May 2026 09:53:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 15:27:49 +0000</lastBuildDate>
+    <item>
+      <title>Probability that a random binary matrix is invertible</title>
+      <link>https://www.johndcook.com/blog/2026/05/11/random-binary-matrices/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/11/random-binary-matrices/</guid>
+      <pubDate>Mon, 11 May 2026 13:25:13 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>We Are Not Going to Agree on AI</title>
+      <link>https://idiallo.com/blog/we-are-not-going-to-agree-on-ai?src=feed</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/we-are-not-going-to-agree-on-ai?src=feed</guid>
+      <pubDate>Mon, 11 May 2026 12:00:00 +0000</pubDate>
+      <description>iDiallo.com</description>
+    </item>
+    <item>
+      <title>Find blog posts with missing featured images - and missing alt text - without a plugin</title>
+      <link>https://shkspr.mobi/blog/2026/05/find-blog-posts-with-missing-featured-images-and-missing-alt-text-without-a-plugin/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/find-blog-posts-with-missing-featured-images-and-missing-alt-text-without-a-plugin/</guid>
+      <pubDate>Mon, 11 May 2026 11:34:39 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>proxy</title>
+      <link>https://nesbitt.io/2026/05/11/proxy.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/05/11/proxy.html</guid>
+      <pubDate>Mon, 11 May 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
     <item>
       <title>Pluralistic: 2024 (apart from the obvious) (11 May 2026)</title>
       <link>https://pluralistic.net/2026/05/11/postmortem/</link>
@@ -230,18 +258,18 @@
       <description>Ed Zitron's Where's Your Ed At</description>
     </item>
     <item>
-      <title>HomePod mini feels like magic, but it's just good timing</title>
-      <link>https://www.jeffgeerling.com/blog/2026/homepod-mini-feels-like-magic--but-it-s-just-good-timing/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/homepod-mini-feels-like-magic--but-it-s-just-good-timing/</guid>
-      <pubDate>Fri, 08 May 2026 14:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
       <title>Hi stranger</title>
       <link>https://idiallo.com/blog/hi?src=feed</link>
       <guid isPermaLink="true">https://idiallo.com/blog/hi?src=feed</guid>
       <pubDate>Fri, 08 May 2026 14:00:00 +0000</pubDate>
       <description>iDiallo.com</description>
+    </item>
+    <item>
+      <title>HomePod mini feels like magic, but it's just good timing</title>
+      <link>https://www.jeffgeerling.com/blog/2026/homepod-mini-feels-like-magic--but-it-s-just-good-timing/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/homepod-mini-feels-like-magic--but-it-s-just-good-timing/</guid>
+      <pubDate>Fri, 08 May 2026 14:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
     </item>
     <item>
       <title>Developing more confidence when tracking renames via Read­Directory­ChangesW</title>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://tokyopaladin.substack.com/p/the-japanese-oreo-noir-kills-the</guid>
       <pubDate>Mon, 04 May 2026 19:48:48 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Photoshop’s ‘Modern User Interface’ Sucks (and Doesn’t Feel Modern)</title>
-      <link>https://unsung.aresluna.org/photoshops-challenges-with-focus-pt-2/</link>
-      <guid isPermaLink="true">https://unsung.aresluna.org/photoshops-challenges-with-focus-pt-2/</guid>
-      <pubDate>Mon, 04 May 2026 19:13:06 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Anthropic Executive, One Year Ago: Fully AI Employees Are a Year Away</title>
-      <link>https://www.axios.com/2025/04/22/ai-anthropic-virtual-employees-security</link>
-      <guid isPermaLink="true">https://www.axios.com/2025/04/22/ai-anthropic-virtual-employees-security</guid>
-      <pubDate>Mon, 04 May 2026 18:20:39 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>TRE Python binding — ReDoS robustness demo</title>
-      <link>https://simonwillison.net/2026/May/4/tre-python-binding/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/4/tre-python-binding/#atom-everything</guid>
-      <pubDate>Mon, 04 May 2026 17:52:00 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Redis Array Playground</title>
-      <link>https://simonwillison.net/2026/May/4/redis-array/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/4/redis-array/#atom-everything</guid>
-      <pubDate>Mon, 04 May 2026 15:53:57 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>

@@ -208,11 +208,11 @@ Last Updated: Monday, May 11th, 2026, 10:36:53 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Probability that a random binary matrix is invertible](https://www.johndcook.com/blog/2026/05/11/random-binary-matrices/) — *John D. Cook* `05-11`
+- [We Are Not Going to Agree on AI](https://idiallo.com/blog/we-are-not-going-to-agree-on-ai?src=feed) — *iDiallo.com* `05-11`
+- [Find blog posts with missing featured images - and missing alt text - without a plugin](https://shkspr.mobi/blog/2026/05/find-blog-posts-with-missing-featured-images-and-missing-alt-text-without-a-plugin/) — *Terence Eden’s Blog* `05-11`
+- [proxy](https://nesbitt.io/2026/05/11/proxy.html) — *Andrew Nesbitt* `05-11`
 - [Pluralistic: 2024 (apart from the obvious) (11 May 2026)](https://pluralistic.net/2026/05/11/postmortem/) — *Pluralistic: Daily links from Cory Doctorow* `05-11`
-- [Fear is information.](https://www.joanwestenberg.com/fear-is-information/) — *Westenberg.* `05-11`
-- [Moving from lsp-mode in GNU Emacs to Eglot](https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsLspModeToEglot) — *Chris's Wiki :: blog* `05-11`
-- [Welcoming the Costa Rican Government to Have I Been Pwned](https://www.troyhunt.com/welcoming-the-costa-rican-government-to-have-i-been-pwned/) — *Troy Hunt* `05-11`
-- [The Problem of Pedagogy in Advanced Mathematics](https://susam.net/advanced-mathematics-pedagogy.html) — *Susam Pal* `05-11`
 <!--BLOG_RADAR:end-->
 
 ---
