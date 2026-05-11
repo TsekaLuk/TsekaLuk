@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 11 May 2026 04:08:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 09:53:59 +0000</lastBuildDate>
+    <item>
+      <title>Pluralistic: 2024 (apart from the obvious) (11 May 2026)</title>
+      <link>https://pluralistic.net/2026/05/11/postmortem/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/05/11/postmortem/</guid>
+      <pubDate>Mon, 11 May 2026 09:43:59 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
     <item>
       <title>Fear is information.</title>
       <link>https://www.joanwestenberg.com/fear-is-information/</link>
@@ -27,6 +34,13 @@
       <description>Troy Hunt</description>
     </item>
     <item>
+      <title>The Problem of Pedagogy in Advanced Mathematics</title>
+      <link>https://susam.net/advanced-mathematics-pedagogy.html</link>
+      <guid isPermaLink="true">https://susam.net/advanced-mathematics-pedagogy.html</guid>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <description>Susam Pal</description>
+    </item>
+    <item>
       <title>Quoting New York Times Editors’ Note</title>
       <link>https://simonwillison.net/2026/May/10/new-york-times-editors-note/#atom-everything</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/May/10/new-york-times-editors-note/#atom-everything</guid>
@@ -39,6 +53,13 @@
       <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-503/</guid>
       <pubDate>Sun, 10 May 2026 23:52:52 +0000</pubDate>
       <description>Troy Hunt</description>
+    </item>
+    <item>
+      <title>Out With the JS, In With the HTML</title>
+      <link>https://blog.jim-nielsen.com/2026/out-with-js-in-with-html/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/out-with-js-in-with-html/</guid>
+      <pubDate>Sun, 10 May 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
     </item>
     <item>
       <title>The linear algebra of bit twiddling</title>
@@ -216,18 +237,18 @@
       <description>Jeff Geerling</description>
     </item>
     <item>
-      <title>Developing more confidence when tracking renames via Read­Directory­ChangesW</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260508-00/?p=112310</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260508-00/?p=112310</guid>
-      <pubDate>Fri, 08 May 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
       <title>Hi stranger</title>
       <link>https://idiallo.com/blog/hi?src=feed</link>
       <guid isPermaLink="true">https://idiallo.com/blog/hi?src=feed</guid>
       <pubDate>Fri, 08 May 2026 14:00:00 +0000</pubDate>
       <description>iDiallo.com</description>
+    </item>
+    <item>
+      <title>Developing more confidence when tracking renames via Read­Directory­ChangesW</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260508-00/?p=112310</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260508-00/?p=112310</guid>
+      <pubDate>Fri, 08 May 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Calculating curvature</title>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/May/4/redis-array/#atom-everything</guid>
       <pubDate>Mon, 04 May 2026 15:53:57 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Commits on GitHub Are Up 14× Year-Over-Year</title>
-      <link>https://daringfireball.net/linked/2026/03/13/amodei-ai-code-claim-chowder</link>
-      <guid isPermaLink="true">https://daringfireball.net/linked/2026/03/13/amodei-ai-code-claim-chowder</guid>
-      <pubDate>Mon, 04 May 2026 15:00:33 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>ScopeXR — Cataract Surgery Using Apple Vision Pro Mixed Reality</title>
-      <link>https://www.prnewswire.com/news-releases/sightmds-dr-eric-rosenberg-becomes-first-surgeon-in-the-world-to-perform-cataract-surgery-using-apple-vision-pro-mixed-reality-302754311.html</link>
-      <guid isPermaLink="true">https://www.prnewswire.com/news-releases/sightmds-dr-eric-rosenberg-becomes-first-surgeon-in-the-world-to-perform-cataract-surgery-using-apple-vision-pro-mixed-reality-302754311.html</guid>
-      <pubDate>Mon, 04 May 2026 14:37:26 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>John Sterling, Beloved Longtime Yankees Radio Voice, Passes at 87</title>
-      <link>https://www.mlb.com/news/john-sterling-passes-away</link>
-      <guid isPermaLink="true">https://www.mlb.com/news/john-sterling-passes-away</guid>
-      <pubDate>Mon, 04 May 2026 14:30:53 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>

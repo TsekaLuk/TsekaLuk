@@ -208,11 +208,11 @@ Last Updated: Monday, May 11th, 2026, 5:30:28 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Pluralistic: 2024 (apart from the obvious) (11 May 2026)](https://pluralistic.net/2026/05/11/postmortem/) — *Pluralistic: Daily links from Cory Doctorow* `05-11`
 - [Fear is information.](https://www.joanwestenberg.com/fear-is-information/) — *Westenberg.* `05-11`
 - [Moving from lsp-mode in GNU Emacs to Eglot](https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsLspModeToEglot) — *Chris's Wiki :: blog* `05-11`
 - [Welcoming the Costa Rican Government to Have I Been Pwned](https://www.troyhunt.com/welcoming-the-costa-rican-government-to-have-i-been-pwned/) — *Troy Hunt* `05-11`
-- [Quoting New York Times Editors’ Note](https://simonwillison.net/2026/May/10/new-york-times-editors-note/#atom-everything) — *Simon Willison's Weblog* `05-10`
-- [Weekly Update 503](https://www.troyhunt.com/weekly-update-503/) — *Troy Hunt* `05-10`
+- [The Problem of Pedagogy in Advanced Mathematics](https://susam.net/advanced-mathematics-pedagogy.html) — *Susam Pal* `05-11`
 <!--BLOG_RADAR:end-->
 
 ---
