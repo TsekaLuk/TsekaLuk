@@ -4,7 +4,42 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 10 May 2026 19:14:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 04:08:18 +0000</lastBuildDate>
+    <item>
+      <title>Fear is information.</title>
+      <link>https://www.joanwestenberg.com/fear-is-information/</link>
+      <guid isPermaLink="true">https://www.joanwestenberg.com/fear-is-information/</guid>
+      <pubDate>Mon, 11 May 2026 03:52:45 +0000</pubDate>
+      <description>Westenberg.</description>
+    </item>
+    <item>
+      <title>Moving from lsp-mode in GNU Emacs to Eglot</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsLspModeToEglot</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsLspModeToEglot</guid>
+      <pubDate>Mon, 11 May 2026 03:15:43 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>Welcoming the Costa Rican Government to Have I Been Pwned</title>
+      <link>https://www.troyhunt.com/welcoming-the-costa-rican-government-to-have-i-been-pwned/</link>
+      <guid isPermaLink="true">https://www.troyhunt.com/welcoming-the-costa-rican-government-to-have-i-been-pwned/</guid>
+      <pubDate>Mon, 11 May 2026 00:24:17 +0000</pubDate>
+      <description>Troy Hunt</description>
+    </item>
+    <item>
+      <title>Quoting New York Times Editors’ Note</title>
+      <link>https://simonwillison.net/2026/May/10/new-york-times-editors-note/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/10/new-york-times-editors-note/#atom-everything</guid>
+      <pubDate>Sun, 10 May 2026 23:58:49 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Weekly Update 503</title>
+      <link>https://www.troyhunt.com/weekly-update-503/</link>
+      <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-503/</guid>
+      <pubDate>Sun, 10 May 2026 23:52:52 +0000</pubDate>
+      <description>Troy Hunt</description>
+    </item>
     <item>
       <title>The linear algebra of bit twiddling</title>
       <link>https://www.johndcook.com/blog/2026/05/10/the-linear-algebra-of-bit-twiddling/</link>
@@ -181,18 +216,18 @@
       <description>Jeff Geerling</description>
     </item>
     <item>
-      <title>Hi stranger</title>
-      <link>https://idiallo.com/blog/hi?src=feed</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/hi?src=feed</guid>
-      <pubDate>Fri, 08 May 2026 14:00:00 +0000</pubDate>
-      <description>iDiallo.com</description>
-    </item>
-    <item>
       <title>Developing more confidence when tracking renames via Read­Directory­ChangesW</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260508-00/?p=112310</link>
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260508-00/?p=112310</guid>
       <pubDate>Fri, 08 May 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>Hi stranger</title>
+      <link>https://idiallo.com/blog/hi?src=feed</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/hi?src=feed</guid>
+      <pubDate>Fri, 08 May 2026 14:00:00 +0000</pubDate>
+      <description>iDiallo.com</description>
     </item>
     <item>
       <title>Calculating curvature</title>
@@ -398,18 +433,18 @@
       <description>Westenberg.</description>
     </item>
     <item>
-      <title>Maybe you shouldn't install new software for a bit</title>
-      <link>https://xeiaso.net/blog/2026/abstain-from-install/</link>
-      <guid isPermaLink="true">https://xeiaso.net/blog/2026/abstain-from-install/</guid>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
       <title>Why hasn't longer-horizon training slowed AI progress?</title>
       <link>https://seangoedecke.com/why-hasnt-longer-horizon-training-slowed-ai-progress/</link>
       <guid isPermaLink="true">https://seangoedecke.com/why-hasnt-longer-horizon-training-slowed-ai-progress/</guid>
       <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Maybe you shouldn't install new software for a bit</title>
+      <link>https://xeiaso.net/blog/2026/abstain-from-install/</link>
+      <guid isPermaLink="true">https://xeiaso.net/blog/2026/abstain-from-install/</guid>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>Article previews in RSS</title>
@@ -809,41 +844,6 @@
       <guid isPermaLink="true">https://www.mlb.com/news/john-sterling-passes-away</guid>
       <pubDate>Mon, 04 May 2026 14:30:53 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Redis array type: short story of a long development</title>
-      <link>http://antirez.com/news/164</link>
-      <guid isPermaLink="true">http://antirez.com/news/164</guid>
-      <pubDate>Mon, 04 May 2026 14:21:45 +0000</pubDate>
-      <description>&lt;antirez&gt;</description>
-    </item>
-    <item>
-      <title>Premium: The AI Compute Demand Story Is A Lie</title>
-      <link>https://www.wheresyoured.at/premium-the-ai-compute-demand-story-is-a-lie/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/premium-the-ai-compute-demand-story-is-a-lie/</guid>
-      <pubDate>Mon, 04 May 2026 14:09:22 +0000</pubDate>
-      <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>How do I inform Windows that I’m writing a binary file?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260504-00/?p=112296</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260504-00/?p=112296</guid>
-      <pubDate>Mon, 04 May 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>[RSS Club] Where are you from?</title>
-      <link>https://shkspr.mobi/blog/2026/05/rss-club-where-are-you-from/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/rss-club-where-are-you-from/</guid>
-      <pubDate>Mon, 04 May 2026 11:34:40 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Package Manager CWEs</title>
-      <link>https://nesbitt.io/2026/05/04/package-manager-cwes.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/05/04/package-manager-cwes.html</guid>
-      <pubDate>Mon, 04 May 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
     </item>
   </channel>
 </rss>

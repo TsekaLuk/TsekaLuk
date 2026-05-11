@@ -208,11 +208,11 @@ Last Updated: Monday, May 11th, 2026, 10:38:51 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [The linear algebra of bit twiddling](https://www.johndcook.com/blog/2026/05/10/the-linear-algebra-of-bit-twiddling/) — *John D. Cook* `05-10`
-- [Reverse engineering Mersenne Twister with Linear Algebra](https://www.johndcook.com/blog/2026/05/10/reverse-mersenne-twister/) — *John D. Cook* `05-10`
-- [Quoting Andrew Quinn](https://simonwillison.net/2026/May/10/andrew-quinn/#atom-everything) — *Simon Willison's Weblog* `05-10`
-- [WorkOS](https://workos.com/?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q22026) — *Daring Fireball* `05-10`
-- [Meta to Start Capturing Employee Mouse Movements, Keystrokes for AI Training Data](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/) — *Daring Fireball* `05-10`
+- [Fear is information.](https://www.joanwestenberg.com/fear-is-information/) — *Westenberg.* `05-11`
+- [Moving from lsp-mode in GNU Emacs to Eglot](https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsLspModeToEglot) — *Chris's Wiki :: blog* `05-11`
+- [Welcoming the Costa Rican Government to Have I Been Pwned](https://www.troyhunt.com/welcoming-the-costa-rican-government-to-have-i-been-pwned/) — *Troy Hunt* `05-11`
+- [Quoting New York Times Editors’ Note](https://simonwillison.net/2026/May/10/new-york-times-editors-note/#atom-everything) — *Simon Willison's Weblog* `05-10`
+- [Weekly Update 503](https://www.troyhunt.com/weekly-update-503/) — *Troy Hunt* `05-10`
 <!--BLOG_RADAR:end-->
 
 ---
