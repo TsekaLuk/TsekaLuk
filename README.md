@@ -208,11 +208,11 @@ Last Updated: Wednesday, May 13th, 2026, 3:42:04 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Broadcasters Urge EU to Use the DMA to Go After Smart TV Platforms, None of Which Are From European Companies](https://www.reuters.com/sustainability/boards-policy-regulation/eu-digital-rules-should-apply-big-techs-smart-tvs-broadcasters-tell-antitrust-2026-03-23/) — *Daring Fireball* `05-12`
+- [Building Software Requires Digestion](https://blog.jim-nielsen.com/2026/software-requires-digestion/) — *Jim Nielsen’s Blog* `05-12`
+- [New DMA Compliance Features for EU Users in iOS 26.5 (and Perhaps the EU Has Finally Come to Their Senses on Tech Regulation)](https://www.macrumors.com/2026/05/11/ios-26-5-eu-third-party-wearable-changes/) — *Daring Fireball* `05-12`
+- [Where Are All The Data Centers?](https://www.wheresyoured.at/where-are-all-the-data-centers/) — *Ed Zitron's Where's Your Ed At* `05-12`
 - [Bambu Lab is abusing the open source social contract](https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/) — *Jeff Geerling* `05-12`
-- [Shame them, shun them, ban them, beat them!](https://www.experimental-history.com/p/shame-them-shun-them-ban-them-beat) — *Experimental History* `05-12`
-- [Initialize and print 128-bit integers in C](https://www.johndcook.com/blog/2026/05/12/c-128-bit-int/) — *John D. Cook* `05-12`
-- [Hacking the lehmer64 RNG](https://www.johndcook.com/blog/2026/05/12/hacking-the-lehmer64-rng/) — *John D. Cook* `05-12`
-- [Position or Perish: The Narrative Blueprint](https://www.joanwestenberg.com/position-or-perish-the-narrative-blueprint/) — *Westenberg.* `05-12`
 <!--BLOG_RADAR:end-->
 
 ---

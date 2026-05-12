@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 12 May 2026 14:39:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 20:02:34 +0000</lastBuildDate>
+    <item>
+      <title>Broadcasters Urge EU to Use the DMA to Go After Smart TV Platforms, None of Which Are From European Companies</title>
+      <link>https://www.reuters.com/sustainability/boards-policy-regulation/eu-digital-rules-should-apply-big-techs-smart-tvs-broadcasters-tell-antitrust-2026-03-23/</link>
+      <guid isPermaLink="true">https://www.reuters.com/sustainability/boards-policy-regulation/eu-digital-rules-should-apply-big-techs-smart-tvs-broadcasters-tell-antitrust-2026-03-23/</guid>
+      <pubDate>Tue, 12 May 2026 19:34:00 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Building Software Requires Digestion</title>
+      <link>https://blog.jim-nielsen.com/2026/software-requires-digestion/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/software-requires-digestion/</guid>
+      <pubDate>Tue, 12 May 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
+    </item>
+    <item>
+      <title>New DMA Compliance Features for EU Users in iOS 26.5 (and Perhaps the EU Has Finally Come to Their Senses on Tech Regulation)</title>
+      <link>https://www.macrumors.com/2026/05/11/ios-26-5-eu-third-party-wearable-changes/</link>
+      <guid isPermaLink="true">https://www.macrumors.com/2026/05/11/ios-26-5-eu-third-party-wearable-changes/</guid>
+      <pubDate>Tue, 12 May 2026 18:52:12 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Where Are All The Data Centers?</title>
+      <link>https://www.wheresyoured.at/where-are-all-the-data-centers/</link>
+      <guid isPermaLink="true">https://www.wheresyoured.at/where-are-all-the-data-centers/</guid>
+      <pubDate>Tue, 12 May 2026 16:17:30 +0000</pubDate>
+      <description>Ed Zitron's Where's Your Ed At</description>
+    </item>
     <item>
       <title>Bambu Lab is abusing the open source social contract</title>
       <link>https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/</link>
@@ -237,18 +265,18 @@
       <description>Troy Hunt</description>
     </item>
     <item>
-      <title>I'm really frustrated that GitLab is doing layoffs</title>
-      <link>https://xeiaso.net/notes/2026/gitlab-layoffs/</link>
-      <guid isPermaLink="true">https://xeiaso.net/notes/2026/gitlab-layoffs/</guid>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
       <title>Hosting a website on an 8-bit microcontroller.</title>
       <link>https://maurycyz.com/projects/mcusite/</link>
       <guid isPermaLink="true">https://maurycyz.com/projects/mcusite/</guid>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
       <description>Maurycy's Blog</description>
+    </item>
+    <item>
+      <title>I'm really frustrated that GitLab is doing layoffs</title>
+      <link>https://xeiaso.net/notes/2026/gitlab-layoffs/</link>
+      <guid isPermaLink="true">https://xeiaso.net/notes/2026/gitlab-layoffs/</guid>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>The Problem of Pedagogy in Advanced Mathematics</title>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://9to5mac.com/2026/05/05/apple-reaches-250m-settlement-over-siri-delays-users-could-get-up-to-95-per-device/</guid>
       <pubDate>Wed, 06 May 2026 00:29:22 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Emotional regulation is a dying art.</title>
-      <link>https://www.joanwestenberg.com/emotional-regulation-is-a-dying-art/</link>
-      <guid isPermaLink="true">https://www.joanwestenberg.com/emotional-regulation-is-a-dying-art/</guid>
-      <pubDate>Wed, 06 May 2026 00:21:50 +0000</pubDate>
-      <description>Westenberg.</description>
-    </item>
-    <item>
-      <title>Weekly Update 502</title>
-      <link>https://www.troyhunt.com/weekly-update-502/</link>
-      <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-502/</guid>
-      <pubDate>Wed, 06 May 2026 00:14:13 +0000</pubDate>
-      <description>Troy Hunt</description>
-    </item>
-    <item>
-      <title>Open weights are quietly closing up - and that's a problem</title>
-      <link>https://martinalderson.com/posts/open-weights-are-quietly-closing-up/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
-      <guid isPermaLink="true">https://martinalderson.com/posts/open-weights-are-quietly-closing-up/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
-      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-      <description>Martin Alderson</description>
-    </item>
-    <item>
-      <title>datasette-referrer-policy 0.1</title>
-      <link>https://simonwillison.net/2026/May/5/datasette-referrer-policy/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/5/datasette-referrer-policy/#atom-everything</guid>
-      <pubDate>Tue, 05 May 2026 23:44:27 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
