@@ -208,11 +208,11 @@ Last Updated: Tuesday, May 12th, 2026, 4:31:54 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Pluralistic: A fascist paradigm (12 May 2026)](https://pluralistic.net/2026/05/12/donella-meadows/) — *Pluralistic: Daily links from Cory Doctorow* `05-12`
 - [A code (reformatting) conundrum in Python, and heuristics](https://utcc.utoronto.ca/~cks/space/blog/python/CodeFormattingBlockHeuristics) — *Chris's Wiki :: blog* `05-12`
 - [[Sponsor] Drata](https://drata.com/daring) — *Daring Fireball* `05-12`
 - [Euler function](https://www.johndcook.com/blog/2026/05/11/euler-function/) — *John D. Cook* `05-12`
 - [Thinking Machines and interaction models](https://seangoedecke.com/interaction-models/) — *seangoedecke.com RSS feed* `05-12`
-- [Thoughts on GitLab's workforce reduction" and "structural and strategic decisions"](https://simonwillison.net/2026/May/11/gitlab-act-2/#atom-everything) — *Simon Willison's Weblog* `05-11`
 <!--BLOG_RADAR:end-->
 
 ---

@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 12 May 2026 03:52:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 08:49:23 +0000</lastBuildDate>
+    <item>
+      <title>Pluralistic: A fascist paradigm (12 May 2026)</title>
+      <link>https://pluralistic.net/2026/05/12/donella-meadows/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/05/12/donella-meadows/</guid>
+      <pubDate>Tue, 12 May 2026 07:22:17 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
     <item>
       <title>A code (reformatting) conundrum in Python, and heuristics</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/python/CodeFormattingBlockHeuristics</link>
@@ -53,6 +60,13 @@
       <guid isPermaLink="true">https://www.troyhunt.com/welcoming-the-bangladesh-government-to-have-i-been-pwned/</guid>
       <pubDate>Mon, 11 May 2026 22:27:32 +0000</pubDate>
       <description>Troy Hunt</description>
+    </item>
+    <item>
+      <title>Regatta Starting Stations – Chi-squared Continued</title>
+      <link>https://entropicthoughts.com/regatta-starting-stations</link>
+      <guid isPermaLink="true">https://entropicthoughts.com/regatta-starting-stations</guid>
+      <pubDate>Mon, 11 May 2026 22:00:00 +0000</pubDate>
+      <description>Entropic Thoughts</description>
     </item>
     <item>
       <title>iPhone Models Ranked 1st, 2nd, 3rd, and 6th in Counterpoint’s List of 10 Bestselling Phones Worldwide in Q1 2026</title>
@@ -384,18 +398,18 @@
       <description>Ed Zitron's Where's Your Ed At</description>
     </item>
     <item>
-      <title>HomePod mini feels like magic, but it's just good timing</title>
-      <link>https://www.jeffgeerling.com/blog/2026/homepod-mini-feels-like-magic--but-it-s-just-good-timing/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/homepod-mini-feels-like-magic--but-it-s-just-good-timing/</guid>
-      <pubDate>Fri, 08 May 2026 14:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
       <title>Developing more confidence when tracking renames via Read­Directory­ChangesW</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260508-00/?p=112310</link>
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260508-00/?p=112310</guid>
       <pubDate>Fri, 08 May 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>HomePod mini feels like magic, but it's just good timing</title>
+      <link>https://www.jeffgeerling.com/blog/2026/homepod-mini-feels-like-magic--but-it-s-just-good-timing/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/homepod-mini-feels-like-magic--but-it-s-just-good-timing/</guid>
+      <pubDate>Fri, 08 May 2026 14:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
     </item>
     <item>
       <title>Hi stranger</title>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298</guid>
       <pubDate>Tue, 05 May 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Pluralistic: The three armies fighting for the post-American world (05 May 2026)</title>
-      <link>https://pluralistic.net/2026/05/05/three-is-a-magic-number/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/05/05/three-is-a-magic-number/</guid>
-      <pubDate>Tue, 05 May 2026 12:31:41 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>RSS Feeds Send Me More Traffic Than Google</title>
-      <link>https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/</guid>
-      <pubDate>Tue, 05 May 2026 11:34:12 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
   </channel>
 </rss>
