@@ -4,7 +4,49 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 12 May 2026 08:49:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 14:39:54 +0000</lastBuildDate>
+    <item>
+      <title>Bambu Lab is abusing the open source social contract</title>
+      <link>https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/</guid>
+      <pubDate>Tue, 12 May 2026 14:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>Shame them, shun them, ban them, beat them!</title>
+      <link>https://www.experimental-history.com/p/shame-them-shun-them-ban-them-beat</link>
+      <guid isPermaLink="true">https://www.experimental-history.com/p/shame-them-shun-them-ban-them-beat</guid>
+      <pubDate>Tue, 12 May 2026 13:23:30 +0000</pubDate>
+      <description>Experimental History</description>
+    </item>
+    <item>
+      <title>Initialize and print 128-bit integers in C</title>
+      <link>https://www.johndcook.com/blog/2026/05/12/c-128-bit-int/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/12/c-128-bit-int/</guid>
+      <pubDate>Tue, 12 May 2026 12:20:20 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Hacking the lehmer64 RNG</title>
+      <link>https://www.johndcook.com/blog/2026/05/12/hacking-the-lehmer64-rng/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/12/hacking-the-lehmer64-rng/</guid>
+      <pubDate>Tue, 12 May 2026 11:07:31 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Position or Perish: The Narrative Blueprint</title>
+      <link>https://www.joanwestenberg.com/position-or-perish-the-narrative-blueprint/</link>
+      <guid isPermaLink="true">https://www.joanwestenberg.com/position-or-perish-the-narrative-blueprint/</guid>
+      <pubDate>Tue, 12 May 2026 10:15:17 +0000</pubDate>
+      <description>Westenberg.</description>
+    </item>
+    <item>
+      <title>Not a Security Issue</title>
+      <link>https://nesbitt.io/2026/05/12/not-a-security-issue.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/05/12/not-a-security-issue.html</guid>
+      <pubDate>Tue, 12 May 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
     <item>
       <title>Pluralistic: A fascist paradigm (12 May 2026)</title>
       <link>https://pluralistic.net/2026/05/12/donella-meadows/</link>
@@ -39,6 +81,13 @@
       <guid isPermaLink="true">https://seangoedecke.com/interaction-models/</guid>
       <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Learning Software Architecture</title>
+      <link>https://matklad.github.io/2026/05/12/software-architecture.html</link>
+      <guid isPermaLink="true">https://matklad.github.io/2026/05/12/software-architecture.html</guid>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <description>matklad</description>
     </item>
     <item>
       <title>Thoughts on GitLab's workforce reduction" and "structural and strategic decisions"</title>
@@ -188,18 +237,18 @@
       <description>Troy Hunt</description>
     </item>
     <item>
-      <title>Hosting a website on an 8-bit microcontroller.</title>
-      <link>https://maurycyz.com/projects/mcusite/</link>
-      <guid isPermaLink="true">https://maurycyz.com/projects/mcusite/</guid>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
-    </item>
-    <item>
       <title>I'm really frustrated that GitLab is doing layoffs</title>
       <link>https://xeiaso.net/notes/2026/gitlab-layoffs/</link>
       <guid isPermaLink="true">https://xeiaso.net/notes/2026/gitlab-layoffs/</guid>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>Hosting a website on an 8-bit microcontroller.</title>
+      <link>https://maurycyz.com/projects/mcusite/</link>
+      <guid isPermaLink="true">https://maurycyz.com/projects/mcusite/</guid>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
     </item>
     <item>
       <title>The Problem of Pedagogy in Advanced Mathematics</title>
@@ -398,18 +447,18 @@
       <description>Ed Zitron's Where's Your Ed At</description>
     </item>
     <item>
-      <title>Developing more confidence when tracking renames via Read­Directory­ChangesW</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260508-00/?p=112310</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260508-00/?p=112310</guid>
-      <pubDate>Fri, 08 May 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
       <title>HomePod mini feels like magic, but it's just good timing</title>
       <link>https://www.jeffgeerling.com/blog/2026/homepod-mini-feels-like-magic--but-it-s-just-good-timing/</link>
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/homepod-mini-feels-like-magic--but-it-s-just-good-timing/</guid>
       <pubDate>Fri, 08 May 2026 14:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>Developing more confidence when tracking renames via Read­Directory­ChangesW</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260508-00/?p=112310</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260508-00/?p=112310</guid>
+      <pubDate>Fri, 08 May 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Hi stranger</title>
@@ -795,55 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/May/5/datasette-referrer-policy/#atom-everything</guid>
       <pubDate>Tue, 05 May 2026 23:44:27 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Changing one character in a PDF</title>
-      <link>https://www.johndcook.com/blog/2026/05/05/changing-one-character-in-a-pdf/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/05/changing-one-character-in-a-pdf/</guid>
-      <pubDate>Tue, 05 May 2026 22:45:26 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Our AI started a cafe in Stockholm</title>
-      <link>https://simonwillison.net/2026/May/5/our-ai-started-a-cafe-in-stockholm/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/5/our-ai-started-a-cafe-in-stockholm/#atom-everything</guid>
-      <pubDate>Tue, 05 May 2026 22:14:21 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>The Pentagon Pegs the Cost of the Iran War, So Far, at $25 Billion</title>
-      <link>https://politicalwire.com/2026/04/29/iran-war-has-cost-25-billion-so-far/</link>
-      <guid isPermaLink="true">https://politicalwire.com/2026/04/29/iran-war-has-cost-25-billion-so-far/</guid>
-      <pubDate>Tue, 05 May 2026 21:55:53 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>★ Software as the Product of Obsession Times Voice</title>
-      <link>https://daringfireball.net/2026/05/software_as_the_product_of_obsession_times_voice</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/05/software_as_the_product_of_obsession_times_voice</guid>
-      <pubDate>Tue, 05 May 2026 21:01:05 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Pedometer++ 8.0</title>
-      <link>https://david-smith.org/blog/2026/04/29/maps-on-watchos/</link>
-      <guid isPermaLink="true">https://david-smith.org/blog/2026/04/29/maps-on-watchos/</guid>
-      <pubDate>Tue, 05 May 2026 18:12:44 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The Impossible Things We Have to Believe</title>
-      <link>https://berthub.eu/articles/posts/the-impossible-things-we-have-to-believe/</link>
-      <guid isPermaLink="true">https://berthub.eu/articles/posts/the-impossible-things-we-have-to-believe/</guid>
-      <pubDate>Tue, 05 May 2026 15:09:12 +0000</pubDate>
-      <description>Bert Hubert's writings</description>
-    </item>
-    <item>
-      <title>A dispute over the TAB key highlights a mismatch between Microsoft and IBM organizational structures</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298</guid>
-      <pubDate>Tue, 05 May 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
     </item>
   </channel>
 </rss>

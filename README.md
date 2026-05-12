@@ -208,11 +208,11 @@ Last Updated: Tuesday, May 12th, 2026, 10:08:14 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Pluralistic: A fascist paradigm (12 May 2026)](https://pluralistic.net/2026/05/12/donella-meadows/) — *Pluralistic: Daily links from Cory Doctorow* `05-12`
-- [A code (reformatting) conundrum in Python, and heuristics](https://utcc.utoronto.ca/~cks/space/blog/python/CodeFormattingBlockHeuristics) — *Chris's Wiki :: blog* `05-12`
-- [[Sponsor] Drata](https://drata.com/daring) — *Daring Fireball* `05-12`
-- [Euler function](https://www.johndcook.com/blog/2026/05/11/euler-function/) — *John D. Cook* `05-12`
-- [Thinking Machines and interaction models](https://seangoedecke.com/interaction-models/) — *seangoedecke.com RSS feed* `05-12`
+- [Bambu Lab is abusing the open source social contract](https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/) — *Jeff Geerling* `05-12`
+- [Shame them, shun them, ban them, beat them!](https://www.experimental-history.com/p/shame-them-shun-them-ban-them-beat) — *Experimental History* `05-12`
+- [Initialize and print 128-bit integers in C](https://www.johndcook.com/blog/2026/05/12/c-128-bit-int/) — *John D. Cook* `05-12`
+- [Hacking the lehmer64 RNG](https://www.johndcook.com/blog/2026/05/12/hacking-the-lehmer64-rng/) — *John D. Cook* `05-12`
+- [Position or Perish: The Narrative Blueprint](https://www.joanwestenberg.com/position-or-perish-the-narrative-blueprint/) — *Westenberg.* `05-12`
 <!--BLOG_RADAR:end-->
 
 ---
