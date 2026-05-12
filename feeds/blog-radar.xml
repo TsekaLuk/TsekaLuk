@@ -4,7 +4,63 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 11 May 2026 19:57:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 03:52:16 +0000</lastBuildDate>
+    <item>
+      <title>A code (reformatting) conundrum in Python, and heuristics</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/python/CodeFormattingBlockHeuristics</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/python/CodeFormattingBlockHeuristics</guid>
+      <pubDate>Tue, 12 May 2026 02:26:53 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>[Sponsor] Drata</title>
+      <link>https://drata.com/daring</link>
+      <guid isPermaLink="true">https://drata.com/daring</guid>
+      <pubDate>Tue, 12 May 2026 00:54:08 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Euler function</title>
+      <link>https://www.johndcook.com/blog/2026/05/11/euler-function/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/11/euler-function/</guid>
+      <pubDate>Tue, 12 May 2026 00:49:41 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Thinking Machines and interaction models</title>
+      <link>https://seangoedecke.com/interaction-models/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/interaction-models/</guid>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Thoughts on GitLab's workforce reduction" and "structural and strategic decisions"</title>
+      <link>https://simonwillison.net/2026/May/11/gitlab-act-2/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/11/gitlab-act-2/#atom-everything</guid>
+      <pubDate>Mon, 11 May 2026 23:58:55 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>iOS 26.5 Includes Beta Support for End-to-End Encrypted RCS Messaging</title>
+      <link>https://www.apple.com/newsroom/2026/05/end-to-end-encrypted-rcs-messaging-begins-rolling-out-today-in-beta/</link>
+      <guid isPermaLink="true">https://www.apple.com/newsroom/2026/05/end-to-end-encrypted-rcs-messaging-begins-rolling-out-today-in-beta/</guid>
+      <pubDate>Mon, 11 May 2026 22:57:00 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Welcoming the Bangladesh Government to Have I Been Pwned</title>
+      <link>https://www.troyhunt.com/welcoming-the-bangladesh-government-to-have-i-been-pwned/</link>
+      <guid isPermaLink="true">https://www.troyhunt.com/welcoming-the-bangladesh-government-to-have-i-been-pwned/</guid>
+      <pubDate>Mon, 11 May 2026 22:27:32 +0000</pubDate>
+      <description>Troy Hunt</description>
+    </item>
+    <item>
+      <title>iPhone Models Ranked 1st, 2nd, 3rd, and 6th in Counterpoint’s List of 10 Bestselling Phones Worldwide in Q1 2026</title>
+      <link>https://appleworld.today/2026/05/apples-iphone-17-was-the-worlds-best-selling-smartphone-in-quarter-one-of-2026/</link>
+      <guid isPermaLink="true">https://appleworld.today/2026/05/apples-iphone-17-was-the-worlds-best-selling-smartphone-in-quarter-one-of-2026/</guid>
+      <pubDate>Mon, 11 May 2026 20:48:05 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Quoting James Shore</title>
       <link>https://simonwillison.net/2026/May/11/james-shore/#atom-everything</link>
@@ -123,6 +179,13 @@
       <guid isPermaLink="true">https://maurycyz.com/projects/mcusite/</guid>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
       <description>Maurycy's Blog</description>
+    </item>
+    <item>
+      <title>I'm really frustrated that GitLab is doing layoffs</title>
+      <link>https://xeiaso.net/notes/2026/gitlab-layoffs/</link>
+      <guid isPermaLink="true">https://xeiaso.net/notes/2026/gitlab-layoffs/</guid>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>The Problem of Pedagogy in Advanced Mathematics</title>
@@ -781,69 +844,6 @@
       <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/</guid>
       <pubDate>Tue, 05 May 2026 11:34:12 +0000</pubDate>
       <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Package Manager Threat Models</title>
-      <link>https://nesbitt.io/2026/05/05/package-manager-threat-models.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/05/05/package-manager-threat-models.html</guid>
-      <pubDate>Tue, 05 May 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Outrage is letting someone else set the frame</title>
-      <link>https://www.joanwestenberg.com/outrag/</link>
-      <guid isPermaLink="true">https://www.joanwestenberg.com/outrag/</guid>
-      <pubDate>Tue, 05 May 2026 06:20:33 +0000</pubDate>
-      <description>Westenberg.</description>
-    </item>
-    <item>
-      <title>Straightforward checklists don't fit every situation</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ChecklistsDontFitEverything</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ChecklistsDontFitEverything</guid>
-      <pubDate>Tue, 05 May 2026 03:28:21 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>Chess Peace</title>
-      <link>https://chesspeace.app/</link>
-      <guid isPermaLink="true">https://chesspeace.app/</guid>
-      <pubDate>Tue, 05 May 2026 02:18:00 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Adobe’s ‘Modern’ User Interface Is Just Webpages</title>
-      <link>https://pxlnv.com/linklog/adobe-modern-user-interface/</link>
-      <guid isPermaLink="true">https://pxlnv.com/linklog/adobe-modern-user-interface/</guid>
-      <pubDate>Tue, 05 May 2026 02:17:00 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>datasette-llm 0.1a7</title>
-      <link>https://simonwillison.net/2026/May/5/datasette-llm/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/5/datasette-llm/#atom-everything</guid>
-      <pubDate>Tue, 05 May 2026 01:56:55 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>llm-echo 0.5a0</title>
-      <link>https://simonwillison.net/2026/May/5/llm-echo/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/5/llm-echo/#atom-everything</guid>
-      <pubDate>Tue, 05 May 2026 01:31:54 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Quoting John Gruber</title>
-      <link>https://simonwillison.net/2026/May/5/john-gruber/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/5/john-gruber/#atom-everything</guid>
-      <pubDate>Tue, 05 May 2026 00:46:29 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Granite 4.1 3B SVG Pelican Gallery</title>
-      <link>https://simonwillison.net/2026/May/4/granite-41-3b-svg-pelican-gallery/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/4/granite-41-3b-svg-pelican-gallery/#atom-everything</guid>
-      <pubDate>Mon, 04 May 2026 23:49:24 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>

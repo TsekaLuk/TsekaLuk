@@ -208,11 +208,11 @@ Last Updated: Tuesday, May 12th, 2026, 10:31:58 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Quoting James Shore](https://simonwillison.net/2026/May/11/james-shore/#atom-everything) — *Simon Willison's Weblog* `05-11`
-- [Your AI Use Is Breaking My Brain](https://simonwillison.net/2026/May/11/zombie-internet/#atom-everything) — *Simon Willison's Weblog* `05-11`
-- [Using LLM in the shebang line of a script](https://simonwillison.net/2026/May/11/llm-shebang/#atom-everything) — *Simon Willison's Weblog* `05-11`
-- [The New PowerMac](https://www.kraftheinz.com/kraft-mac-and-cheese/products/00021000086856-power-mac-original-flavor-mac-cheese-macaroni-and-cheese-dinner) — *Daring Fireball* `05-11`
-- [Tahoe’s UI Issues Have Nothing to Do With Display Technology, and Maybe, Just Maybe, We Should Stop Assuming Gurman Knows Anything About Apple’s Vision Hardware Roadmap](https://www.bloomberg.com/news/newsletters/2026-05-10/apple-plans-macos-27-design-changes-latest-on-ios-27-visionos-safari-wwdc-26-mozuaz9m?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3ODQyMTgwOSwiZXhwIjoxNzc5MDI2NjA5LCJhcnRpY2xlSWQiOiJURVRRVzFLR0NURkwwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.VPDmd_jJhdzOBKvj1AUZTernGpGdF1zR9kGgFIF-9Hw&leadSource=uverify%20wall) — *Daring Fireball* `05-11`
+- [A code (reformatting) conundrum in Python, and heuristics](https://utcc.utoronto.ca/~cks/space/blog/python/CodeFormattingBlockHeuristics) — *Chris's Wiki :: blog* `05-12`
+- [[Sponsor] Drata](https://drata.com/daring) — *Daring Fireball* `05-12`
+- [Euler function](https://www.johndcook.com/blog/2026/05/11/euler-function/) — *John D. Cook* `05-12`
+- [Thinking Machines and interaction models](https://seangoedecke.com/interaction-models/) — *seangoedecke.com RSS feed* `05-12`
+- [Thoughts on GitLab's workforce reduction" and "structural and strategic decisions"](https://simonwillison.net/2026/May/11/gitlab-act-2/#atom-everything) — *Simon Willison's Weblog* `05-11`
 <!--BLOG_RADAR:end-->
 
 ---
