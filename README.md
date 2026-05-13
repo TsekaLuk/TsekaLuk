@@ -208,11 +208,11 @@ Last Updated: Wednesday, May 13th, 2026, 4:37:37 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [CSP Allow-list Experiment](https://simonwillison.net/2026/May/13/csp-allow/#atom-everything) — *Simon Willison's Weblog* `05-13`
 - [★ Nextpad++](https://daringfireball.net/2026/05/nextpad) — *Daring Fireball* `05-13`
 - [In praise of the Linux kernel netconsole (in the right circumstances)](https://utcc.utoronto.ca/~cks/space/blog/linux/NetconsoleForDesktopPanics) — *Chris's Wiki :: blog* `05-13`
+- [AI datacenters in space do not have a cooling problem](https://seangoedecke.com/space-ai-datacenters-do-not-have-a-cooling-problem/) — *seangoedecke.com RSS feed* `05-13`
 - [datasette 1.0a29](https://simonwillison.net/2026/May/12/datasette/#atom-everything) — *Simon Willison's Weblog* `05-12`
-- [Quoting Mo Bitar](https://simonwillison.net/2026/May/12/mo-bitar/#atom-everything) — *Simon Willison's Weblog* `05-12`
-- [Quoting Mitchell Hashimoto](https://simonwillison.net/2026/May/12/mitchell-hashimoto/#atom-everything) — *Simon Willison's Weblog* `05-12`
 <!--BLOG_RADAR:end-->
 
 ---

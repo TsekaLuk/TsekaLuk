@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 13 May 2026 04:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 08:53:09 +0000</lastBuildDate>
+    <item>
+      <title>CSP Allow-list Experiment</title>
+      <link>https://simonwillison.net/2026/May/13/csp-allow/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/13/csp-allow/#atom-everything</guid>
+      <pubDate>Wed, 13 May 2026 04:50:45 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>★ Nextpad++</title>
       <link>https://daringfireball.net/2026/05/nextpad</link>
@@ -18,6 +25,13 @@
       <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/NetconsoleForDesktopPanics</guid>
       <pubDate>Wed, 13 May 2026 00:29:35 +0000</pubDate>
       <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>AI datacenters in space do not have a cooling problem</title>
+      <link>https://seangoedecke.com/space-ai-datacenters-do-not-have-a-cooling-problem/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/space-ai-datacenters-do-not-have-a-cooling-problem/</guid>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>datasette 1.0a29</title>
@@ -559,13 +573,6 @@
       <description>Ed Zitron's Where's Your Ed At</description>
     </item>
     <item>
-      <title>Hi stranger</title>
-      <link>https://idiallo.com/blog/hi?src=feed</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/hi?src=feed</guid>
-      <pubDate>Fri, 08 May 2026 14:00:00 +0000</pubDate>
-      <description>iDiallo.com</description>
-    </item>
-    <item>
       <title>HomePod mini feels like magic, but it's just good timing</title>
       <link>https://www.jeffgeerling.com/blog/2026/homepod-mini-feels-like-magic--but-it-s-just-good-timing/</link>
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/homepod-mini-feels-like-magic--but-it-s-just-good-timing/</guid>
@@ -578,6 +585,13 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260508-00/?p=112310</guid>
       <pubDate>Fri, 08 May 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>Hi stranger</title>
+      <link>https://idiallo.com/blog/hi?src=feed</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/hi?src=feed</guid>
+      <pubDate>Fri, 08 May 2026 14:00:00 +0000</pubDate>
+      <description>iDiallo.com</description>
     </item>
     <item>
       <title>Calculating curvature</title>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://www.claris.com/blog/2026/how-claris-is-building-for-what-comes-next</guid>
       <pubDate>Wed, 06 May 2026 19:41:36 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Luca Maestri Runs the Cafeteria</title>
-      <link>https://www.apple.com/leadership/luca-maestri/</link>
-      <guid isPermaLink="true">https://www.apple.com/leadership/luca-maestri/</guid>
-      <pubDate>Wed, 06 May 2026 19:29:08 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>New Logic for Programmers (and the future of this newsletter)</title>
-      <link>https://buttondown.com/hillelwayne/archive/new-logic-for-programmers-and-the-future-of-this/</link>
-      <guid isPermaLink="true">https://buttondown.com/hillelwayne/archive/new-logic-for-programmers-and-the-future-of-this/</guid>
-      <pubDate>Wed, 06 May 2026 17:03:46 +0000</pubDate>
-      <description>Computer Things</description>
     </item>
   </channel>
 </rss>
