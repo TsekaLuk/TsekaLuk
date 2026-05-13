@@ -208,11 +208,11 @@ Last Updated: Wednesday, May 13th, 2026, 10:38:41 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Broadcasters Urge EU to Use the DMA to Go After Smart TV Platforms, None of Which Are From European Companies](https://www.reuters.com/sustainability/boards-policy-regulation/eu-digital-rules-should-apply-big-techs-smart-tvs-broadcasters-tell-antitrust-2026-03-23/) — *Daring Fireball* `05-12`
-- [Building Software Requires Digestion](https://blog.jim-nielsen.com/2026/software-requires-digestion/) — *Jim Nielsen’s Blog* `05-12`
-- [New DMA Compliance Features for EU Users in iOS 26.5 (and Perhaps the EU Has Finally Come to Their Senses on Tech Regulation)](https://www.macrumors.com/2026/05/11/ios-26-5-eu-third-party-wearable-changes/) — *Daring Fireball* `05-12`
-- [Where Are All The Data Centers?](https://www.wheresyoured.at/where-are-all-the-data-centers/) — *Ed Zitron's Where's Your Ed At* `05-12`
-- [Bambu Lab is abusing the open source social contract](https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/) — *Jeff Geerling* `05-12`
+- [★ Nextpad++](https://daringfireball.net/2026/05/nextpad) — *Daring Fireball* `05-13`
+- [In praise of the Linux kernel netconsole (in the right circumstances)](https://utcc.utoronto.ca/~cks/space/blog/linux/NetconsoleForDesktopPanics) — *Chris's Wiki :: blog* `05-13`
+- [datasette 1.0a29](https://simonwillison.net/2026/May/12/datasette/#atom-everything) — *Simon Willison's Weblog* `05-12`
+- [Quoting Mo Bitar](https://simonwillison.net/2026/May/12/mo-bitar/#atom-everything) — *Simon Willison's Weblog* `05-12`
+- [Quoting Mitchell Hashimoto](https://simonwillison.net/2026/May/12/mitchell-hashimoto/#atom-everything) — *Simon Willison's Weblog* `05-12`
 <!--BLOG_RADAR:end-->
 
 ---

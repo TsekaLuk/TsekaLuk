@@ -4,7 +4,77 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 12 May 2026 20:02:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 04:00:31 +0000</lastBuildDate>
+    <item>
+      <title>★ Nextpad++</title>
+      <link>https://daringfireball.net/2026/05/nextpad</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/05/nextpad</guid>
+      <pubDate>Wed, 13 May 2026 02:22:16 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>In praise of the Linux kernel netconsole (in the right circumstances)</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/NetconsoleForDesktopPanics</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/NetconsoleForDesktopPanics</guid>
+      <pubDate>Wed, 13 May 2026 00:29:35 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>datasette 1.0a29</title>
+      <link>https://simonwillison.net/2026/May/12/datasette/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/12/datasette/#atom-everything</guid>
+      <pubDate>Tue, 12 May 2026 23:41:06 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Quoting Mo Bitar</title>
+      <link>https://simonwillison.net/2026/May/12/mo-bitar/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/12/mo-bitar/#atom-everything</guid>
+      <pubDate>Tue, 12 May 2026 22:59:58 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Quoting Mitchell Hashimoto</title>
+      <link>https://simonwillison.net/2026/May/12/mitchell-hashimoto/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/12/mitchell-hashimoto/#atom-everything</guid>
+      <pubDate>Tue, 12 May 2026 22:21:51 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Patch Tuesday, May 2026 Edition</title>
+      <link>https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/</link>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/</guid>
+      <pubDate>Tue, 12 May 2026 21:46:45 +0000</pubDate>
+      <description>Krebs on Security</description>
+    </item>
+    <item>
+      <title>Kagi Snaps</title>
+      <link>https://help.kagi.com/kagi/features/snaps.html</link>
+      <guid isPermaLink="true">https://help.kagi.com/kagi/features/snaps.html</guid>
+      <pubDate>Tue, 12 May 2026 21:06:21 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Seriously, Give Kagi a Try</title>
+      <link>https://daringfireball.net/2025/04/try_switching_to_kagi</link>
+      <guid isPermaLink="true">https://daringfireball.net/2025/04/try_switching_to_kagi</guid>
+      <pubDate>Tue, 12 May 2026 20:31:49 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Search Ads as a Vector for Travel Scams</title>
+      <link>https://www.wsj.com/lifestyle/travel/the-simple-travel-scam-that-cost-a-seasoned-traveler-over-12-000-7d317f20?st=WDTpv5</link>
+      <guid isPermaLink="true">https://www.wsj.com/lifestyle/travel/the-simple-travel-scam-that-cost-a-seasoned-traveler-over-12-000-7d317f20?st=WDTpv5</guid>
+      <pubDate>Tue, 12 May 2026 20:22:20 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Teresa Ribera Visited the U.S. and No One Noticed</title>
+      <link>https://www.politico.eu/article/eu-big-tech-rulebook-shifting-digital-economy-ribera-dma-pulse-forum/</link>
+      <guid isPermaLink="true">https://www.politico.eu/article/eu-big-tech-rulebook-shifting-digital-economy-ribera-dma-pulse-forum/</guid>
+      <pubDate>Tue, 12 May 2026 20:05:28 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Broadcasters Urge EU to Use the DMA to Go After Smart TV Platforms, None of Which Are From European Companies</title>
       <link>https://www.reuters.com/sustainability/boards-policy-regulation/eu-digital-rules-should-apply-big-techs-smart-tvs-broadcasters-tell-antitrust-2026-03-23/</link>
@@ -25,6 +95,13 @@
       <guid isPermaLink="true">https://www.macrumors.com/2026/05/11/ios-26-5-eu-third-party-wearable-changes/</guid>
       <pubDate>Tue, 12 May 2026 18:52:12 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>llm 0.32a2</title>
+      <link>https://simonwillison.net/2026/May/12/llm/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/12/llm/#atom-everything</guid>
+      <pubDate>Tue, 12 May 2026 17:45:07 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
     <item>
       <title>Where Are All The Data Centers?</title>
@@ -116,6 +193,13 @@
       <guid isPermaLink="true">https://matklad.github.io/2026/05/12/software-architecture.html</guid>
       <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
       <description>matklad</description>
+    </item>
+    <item>
+      <title>Partial static single information form</title>
+      <link>https://bernsteinbear.com/blog/partial-ssi/?utm_source=rss</link>
+      <guid isPermaLink="true">https://bernsteinbear.com/blog/partial-ssi/?utm_source=rss</guid>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <description>Max Bernstein's Blog</description>
     </item>
     <item>
       <title>Thoughts on GitLab's workforce reduction" and "structural and strategic decisions"</title>
@@ -475,6 +559,13 @@
       <description>Ed Zitron's Where's Your Ed At</description>
     </item>
     <item>
+      <title>Hi stranger</title>
+      <link>https://idiallo.com/blog/hi?src=feed</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/hi?src=feed</guid>
+      <pubDate>Fri, 08 May 2026 14:00:00 +0000</pubDate>
+      <description>iDiallo.com</description>
+    </item>
+    <item>
       <title>HomePod mini feels like magic, but it's just good timing</title>
       <link>https://www.jeffgeerling.com/blog/2026/homepod-mini-feels-like-magic--but-it-s-just-good-timing/</link>
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/homepod-mini-feels-like-magic--but-it-s-just-good-timing/</guid>
@@ -487,13 +578,6 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260508-00/?p=112310</guid>
       <pubDate>Fri, 08 May 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Hi stranger</title>
-      <link>https://idiallo.com/blog/hi?src=feed</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/hi?src=feed</guid>
-      <pubDate>Fri, 08 May 2026 14:00:00 +0000</pubDate>
-      <description>iDiallo.com</description>
     </item>
     <item>
       <title>Calculating curvature</title>
@@ -760,90 +844,6 @@
       <guid isPermaLink="true">https://buttondown.com/hillelwayne/archive/new-logic-for-programmers-and-the-future-of-this/</guid>
       <pubDate>Wed, 06 May 2026 17:03:46 +0000</pubDate>
       <description>Computer Things</description>
-    </item>
-    <item>
-      <title>Unified config files</title>
-      <link>https://www.johndcook.com/blog/2026/05/06/unified-config-files/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/06/unified-config-files/</guid>
-      <pubDate>Wed, 06 May 2026 16:32:20 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Live blog: Code w/ Claude 2026</title>
-      <link>https://simonwillison.net/2026/May/6/code-w-claude-2026/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/6/code-w-claude-2026/#atom-everything</guid>
-      <pubDate>Wed, 06 May 2026 15:58:27 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Am I Meant To Be Impressed?</title>
-      <link>https://www.wheresyoured.at/am-i-meant-to-be-impressed/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/am-i-meant-to-be-impressed/</guid>
-      <pubDate>Wed, 06 May 2026 15:13:07 +0000</pubDate>
-      <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>Vibe coding and agentic engineering are getting closer than I'd like</title>
-      <link>https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/#atom-everything</guid>
-      <pubDate>Wed, 06 May 2026 14:24:08 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Why not have changes in API behavior depend on the SDK you link against?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260506-00/?p=112303</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260506-00/?p=112303</guid>
-      <pubDate>Wed, 06 May 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Asimov's three laws are merely a suggestion</title>
-      <link>https://idiallo.com/blog/asimov-three-laws-dont-work-with-ai?src=feed</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/asimov-three-laws-dont-work-with-ai?src=feed</guid>
-      <pubDate>Wed, 06 May 2026 12:00:00 +0000</pubDate>
-      <description>iDiallo.com</description>
-    </item>
-    <item>
-      <title>The mythology of category theory</title>
-      <link>https://www.johndcook.com/blog/2026/05/06/category-mythology/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/06/category-mythology/</guid>
-      <pubDate>Wed, 06 May 2026 11:37:42 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Pluralistic: In praise of vultures (06 May 2026)</title>
-      <link>https://pluralistic.net/2026/05/06/champerty-loves-company/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/05/06/champerty-loves-company/</guid>
-      <pubDate>Wed, 06 May 2026 10:15:36 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Revisiting the 2015 Open Source Census</title>
-      <link>https://nesbitt.io/2026/05/06/revisiting-the-2015-open-source-census.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/05/06/revisiting-the-2015-open-source-census.html</guid>
-      <pubDate>Wed, 06 May 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Splitting up my .emacs, or "use-package doesn't solve all problems"</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsSplittingMyInitFile</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsSplittingMyInitFile</guid>
-      <pubDate>Wed, 06 May 2026 02:41:26 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>Apple Cuts More Mac Studio and Mac Mini RAM Options as Memory Shortage Worsens</title>
-      <link>https://www.macrumors.com/2026/05/05/apple-mac-studio-mac-mini-ram-cuts/</link>
-      <guid isPermaLink="true">https://www.macrumors.com/2026/05/05/apple-mac-studio-mac-mini-ram-cuts/</guid>
-      <pubDate>Wed, 06 May 2026 00:36:29 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Apple Settles Class Action Lawsuit Over AI Features That Were Advertised but Didn’t Ship for $250 Million</title>
-      <link>https://9to5mac.com/2026/05/05/apple-reaches-250m-settlement-over-siri-delays-users-could-get-up-to-95-per-device/</link>
-      <guid isPermaLink="true">https://9to5mac.com/2026/05/05/apple-reaches-250m-settlement-over-siri-delays-users-could-get-up-to-95-per-device/</guid>
-      <pubDate>Wed, 06 May 2026 00:29:22 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
