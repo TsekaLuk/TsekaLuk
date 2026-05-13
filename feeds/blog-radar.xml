@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 13 May 2026 08:53:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 14:50:30 +0000</lastBuildDate>
+    <item>
+      <title>Stupidly Simple SVG Sparklines</title>
+      <link>https://shkspr.mobi/blog/2026/05/stupidly-simple-svg-sparklines/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/stupidly-simple-svg-sparklines/</guid>
+      <pubDate>Wed, 13 May 2026 11:34:01 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Showing Our Work</title>
+      <link>https://nesbitt.io/2026/05/13/showing-our-work.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/05/13/showing-our-work.html</guid>
+      <pubDate>Wed, 13 May 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
     <item>
       <title>CSP Allow-list Experiment</title>
       <link>https://simonwillison.net/2026/May/13/csp-allow/#atom-everything</link>
@@ -32,6 +46,20 @@
       <guid isPermaLink="true">https://seangoedecke.com/space-ai-datacenters-do-not-have-a-cooling-problem/</guid>
       <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Open Link in Unloaded Tab, a little Firefox extension</title>
+      <link>https://evanhahn.com/open-link-in-unloaded-tab-for-firefox/</link>
+      <guid isPermaLink="true">https://evanhahn.com/open-link-in-unloaded-tab-for-firefox/</guid>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <description>Evan Hahn (dot com)</description>
+    </item>
+    <item>
+      <title>What’s with all the slide decks?</title>
+      <link>https://dynomight.net/slides/</link>
+      <guid isPermaLink="true">https://dynomight.net/slides/</guid>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>datasette 1.0a29</title>
@@ -363,18 +391,18 @@
       <description>Troy Hunt</description>
     </item>
     <item>
-      <title>Hosting a website on an 8-bit microcontroller.</title>
-      <link>https://maurycyz.com/projects/mcusite/</link>
-      <guid isPermaLink="true">https://maurycyz.com/projects/mcusite/</guid>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
-    </item>
-    <item>
       <title>I'm really frustrated that GitLab is doing layoffs</title>
       <link>https://xeiaso.net/notes/2026/gitlab-layoffs/</link>
       <guid isPermaLink="true">https://xeiaso.net/notes/2026/gitlab-layoffs/</guid>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>Hosting a website on an 8-bit microcontroller.</title>
+      <link>https://maurycyz.com/projects/mcusite/</link>
+      <guid isPermaLink="true">https://maurycyz.com/projects/mcusite/</guid>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
     </item>
     <item>
       <title>The Problem of Pedagogy in Advanced Mathematics</title>
@@ -636,18 +664,18 @@
       <description>Tedium: The Dull Side of the Internet.</description>
     </item>
     <item>
-      <title>Notes on incidents</title>
-      <link>https://seangoedecke.com/notes-on-incidents/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/notes-on-incidents/</guid>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
       <title>Pushing Local Models With Focus And Polish</title>
       <link>https://lucumr.pocoo.org/2026/5/8/local-models/</link>
       <guid isPermaLink="true">https://lucumr.pocoo.org/2026/5/8/local-models/</guid>
       <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
       <description>Armin Ronacher's Thoughts and Writings</description>
+    </item>
+    <item>
+      <title>Notes on incidents</title>
+      <link>https://seangoedecke.com/notes-on-incidents/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/notes-on-incidents/</guid>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>Steering Zig Fmt</title>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://entropicthoughts.com/article-previews-in-rss</guid>
       <pubDate>Wed, 06 May 2026 22:00:00 +0000</pubDate>
       <description>Entropic Thoughts</description>
-    </item>
-    <item>
-      <title>SQLAlchemy 2 In Practice - Chapter 7: Asynchronous SQLAlchemy</title>
-      <link>https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-7-asynchronous-sqlalchemy</link>
-      <guid isPermaLink="true">https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-7-asynchronous-sqlalchemy</guid>
-      <pubDate>Wed, 06 May 2026 21:49:20 +0000</pubDate>
-      <description>Miguel Grinberg's Blog</description>
-    </item>
-    <item>
-      <title>Broadcast Booths Around Baseball Tip Their Caps to John Sterling</title>
-      <link>https://www.mlb.com/news/broadcast-booths-around-baseball-mirror-john-sterling-signature-calls</link>
-      <guid isPermaLink="true">https://www.mlb.com/news/broadcast-booths-around-baseball-mirror-john-sterling-signature-calls</guid>
-      <pubDate>Wed, 06 May 2026 20:33:51 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Triangular analog of the squircle</title>
-      <link>https://www.johndcook.com/blog/2026/05/06/triangular-analog-of-the-squircle/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/06/triangular-analog-of-the-squircle/</guid>
-      <pubDate>Wed, 06 May 2026 19:53:29 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Claris CEO Ryan McCann on FileMaker in the Age of Agentic Coding</title>
-      <link>https://www.claris.com/blog/2026/how-claris-is-building-for-what-comes-next</link>
-      <guid isPermaLink="true">https://www.claris.com/blog/2026/how-claris-is-building-for-what-comes-next</guid>
-      <pubDate>Wed, 06 May 2026 19:41:36 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>

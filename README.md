@@ -208,11 +208,11 @@ Last Updated: Wednesday, May 13th, 2026, 10:19:17 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Stupidly Simple SVG Sparklines](https://shkspr.mobi/blog/2026/05/stupidly-simple-svg-sparklines/) — *Terence Eden’s Blog* `05-13`
+- [Showing Our Work](https://nesbitt.io/2026/05/13/showing-our-work.html) — *Andrew Nesbitt* `05-13`
 - [CSP Allow-list Experiment](https://simonwillison.net/2026/May/13/csp-allow/#atom-everything) — *Simon Willison's Weblog* `05-13`
 - [★ Nextpad++](https://daringfireball.net/2026/05/nextpad) — *Daring Fireball* `05-13`
 - [In praise of the Linux kernel netconsole (in the right circumstances)](https://utcc.utoronto.ca/~cks/space/blog/linux/NetconsoleForDesktopPanics) — *Chris's Wiki :: blog* `05-13`
-- [AI datacenters in space do not have a cooling problem](https://seangoedecke.com/space-ai-datacenters-do-not-have-a-cooling-problem/) — *seangoedecke.com RSS feed* `05-13`
-- [datasette 1.0a29](https://simonwillison.net/2026/May/12/datasette/#atom-everything) — *Simon Willison's Weblog* `05-12`
 <!--BLOG_RADAR:end-->
 
 ---
