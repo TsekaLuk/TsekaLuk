@@ -208,11 +208,11 @@ Last Updated: Thursday, May 14th, 2026, 3:46:59 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Stupidly Simple SVG Sparklines](https://shkspr.mobi/blog/2026/05/stupidly-simple-svg-sparklines/) — *Terence Eden’s Blog* `05-13`
-- [Showing Our Work](https://nesbitt.io/2026/05/13/showing-our-work.html) — *Andrew Nesbitt* `05-13`
-- [CSP Allow-list Experiment](https://simonwillison.net/2026/May/13/csp-allow/#atom-everything) — *Simon Willison's Weblog* `05-13`
-- [★ Nextpad++](https://daringfireball.net/2026/05/nextpad) — *Daring Fireball* `05-13`
-- [In praise of the Linux kernel netconsole (in the right circumstances)](https://utcc.utoronto.ca/~cks/space/blog/linux/NetconsoleForDesktopPanics) — *Chris's Wiki :: blog* `05-13`
+- [Commenting Guidelines](https://susam.net/commenting.html) — *Susam Pal* `05-14`
+- [Quoting Boris Mann](https://simonwillison.net/2026/May/13/boris-mann/#atom-everything) — *Simon Willison's Weblog* `05-13`
+- [Points are a weird and inconsistent unit of measure](https://buttondown.com/hillelwayne/archive/points-are-a-weird-and-inconsistent-unit-of/) — *Computer Things* `05-13`
+- [Pluralistic: Billionaire solipsism, dictator solipsism, AI, and the fascist paradigm (13 May 2026)](https://pluralistic.net/2026/05/13/vibe-governance/) — *Pluralistic: Daily links from Cory Doctorow* `05-13`
+- [The case of the hang when the user changed keyboard layouts](https://devblogs.microsoft.com/oldnewthing/20260513-00/?p=112318) — *The Old New Thing* `05-13`
 <!--BLOG_RADAR:end-->
 
 ---
