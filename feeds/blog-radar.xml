@@ -4,13 +4,69 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 14 May 2026 14:30:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 19:55:09 +0000</lastBuildDate>
+    <item>
+      <title>Tim Cook Is in Trump’s Executive Entourage for China Summit</title>
+      <link>https://www.the-independent.com/news/world/americas/us-politics/elon-musk-tim-cook-trump-china-tech-ceo-b2975568.html</link>
+      <guid isPermaLink="true">https://www.the-independent.com/news/world/americas/us-politics/elon-musk-tim-cook-trump-china-tech-ceo-b2975568.html</guid>
+      <pubDate>Thu, 14 May 2026 19:36:58 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Google Announces Its Chromebook Successor: The Googlebook</title>
+      <link>https://www.theverge.com/tech/928479/google-googlebook-laptops-android-tease-aluminium-chromebook?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjNVSjlWdlZESmgiLCJwIjoiL3RlY2gvOTI4NDc5L2dvb2dsZS1nb29nbGVib29rLWxhcHRvcHMtYW5kcm9pZC10ZWFzZS1hbHVtaW5pdW0tY2hyb21lYm9vayIsImV4cCI6MTc3OTIxNjg2NiwiaWF0IjoxNzc4Nzg0ODY2fQ.a74WT34THV0Ih1pGO7NH4daq39ytQXdhO4EAgE6HCeI</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/928479/google-googlebook-laptops-android-tease-aluminium-chromebook?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjNVSjlWdlZESmgiLCJwIjoiL3RlY2gvOTI4NDc5L2dvb2dsZS1nb29nbGVib29rLWxhcHRvcHMtYW5kcm9pZC10ZWFzZS1hbHVtaW5pdW0tY2hyb21lYm9vayIsImV4cCI6MTc3OTIxNjg2NiwiaWF0IjoxNzc4Nzg0ODY2fQ.a74WT34THV0Ih1pGO7NH4daq39ytQXdhO4EAgE6HCeI</guid>
+      <pubDate>Thu, 14 May 2026 19:02:21 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Gurman Reports that OpenAI Is Unhappy With Apple Deal</title>
+      <link>https://www.bloomberg.com/news/articles/2026-05-14/openai-apple-partnership-frays-setting-up-possible-legal-fight?srnd=undefined&amp;embedded-checkout=true</link>
+      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-05-14/openai-apple-partnership-frays-setting-up-possible-legal-fight?srnd=undefined&amp;embedded-checkout=true</guid>
+      <pubDate>Thu, 14 May 2026 18:27:50 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>A GNU Emacs learning experience with text-mode hooks</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsTextModeHooksGotcha</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsTextModeHooksGotcha</guid>
+      <pubDate>Thu, 14 May 2026 17:51:54 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>The Trump T1 Phone Starts Shipping This Week, Supposedly</title>
+      <link>https://www.theverge.com/gadgets/929471/trump-mobile-t1-phone-shipping-this-week</link>
+      <guid isPermaLink="true">https://www.theverge.com/gadgets/929471/trump-mobile-t1-phone-shipping-this-week</guid>
+      <pubDate>Thu, 14 May 2026 17:50:05 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Klack</title>
+      <link>https://tryklack.com/</link>
+      <guid isPermaLink="true">https://tryklack.com/</guid>
+      <pubDate>Thu, 14 May 2026 17:39:25 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>New Driver for the Old Griffin PowerMate</title>
+      <link>https://github.com/jameslockman/Griffin-PowerMate-Driver</link>
+      <guid isPermaLink="true">https://github.com/jameslockman/Griffin-PowerMate-Driver</guid>
+      <pubDate>Thu, 14 May 2026 16:20:54 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>The First Democratic Tech Alliance Assembly</title>
       <link>https://berthub.eu/articles/posts/democratic-tech-alliance-may-2026/</link>
       <guid isPermaLink="true">https://berthub.eu/articles/posts/democratic-tech-alliance-may-2026/</guid>
       <pubDate>Thu, 14 May 2026 14:17:12 +0000</pubDate>
       <description>Bert Hubert's writings</description>
+    </item>
+    <item>
+      <title>A constant-space linear-time algorithm for deleting all but the 10 most recent files in a directory</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260514-00/?p=112322</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260514-00/?p=112322</guid>
+      <pubDate>Thu, 14 May 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Pluralistic: Kickstarting "The Reverse Centaur's Guide to Life After AI" (14 May 2026)</title>
@@ -34,6 +90,13 @@
       <description>iDiallo.com</description>
     </item>
     <item>
+      <title>datasette-ip-rate-limit 0.1a0</title>
+      <link>https://simonwillison.net/2026/May/14/datasette-ip-rate-limit/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/14/datasette-ip-rate-limit/#atom-everything</guid>
+      <pubDate>Thu, 14 May 2026 04:10:23 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
       <title>The Biz Reaper</title>
       <link>https://feed.tedium.co/link/15204/17340934/buzzfeed-byron-allen-analysis</link>
       <guid isPermaLink="true">https://feed.tedium.co/link/15204/17340934/buzzfeed-byron-allen-analysis</guid>
@@ -55,11 +118,25 @@
       <description>Chris's Wiki :: blog</description>
     </item>
     <item>
+      <title>Catch Flakes On Main</title>
+      <link>https://matklad.github.io/2026/05/14/catch-flakes-on-main.html</link>
+      <guid isPermaLink="true">https://matklad.github.io/2026/05/14/catch-flakes-on-main.html</guid>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <description>matklad</description>
+    </item>
+    <item>
       <title>Commenting Guidelines</title>
       <link>https://susam.net/commenting.html</link>
       <guid isPermaLink="true">https://susam.net/commenting.html</guid>
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
       <description>Susam Pal</description>
+    </item>
+    <item>
+      <title>Managed agents are the new Lambda</title>
+      <link>https://martinalderson.com/posts/managed-agents-are-the-new-lambda/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
+      <guid isPermaLink="true">https://martinalderson.com/posts/managed-agents-are-the-new-lambda/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <description>Martin Alderson</description>
     </item>
     <item>
       <title>Welcome to the Datasette blog</title>
@@ -263,6 +340,13 @@
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/</guid>
       <pubDate>Tue, 12 May 2026 14:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>Why do Windows client editions on 32-bit x86 systems artificially limit RAM to 4 GB?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260512-00/?p=112316</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260512-00/?p=112316</guid>
+      <pubDate>Tue, 12 May 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Shame them, shun them, ban them, beat them!</title>
@@ -496,18 +580,18 @@
       <description>Troy Hunt</description>
     </item>
     <item>
-      <title>Hosting a website on an 8-bit microcontroller.</title>
-      <link>https://maurycyz.com/projects/mcusite/</link>
-      <guid isPermaLink="true">https://maurycyz.com/projects/mcusite/</guid>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
-    </item>
-    <item>
       <title>I'm really frustrated that GitLab is doing layoffs</title>
       <link>https://xeiaso.net/notes/2026/gitlab-layoffs/</link>
       <guid isPermaLink="true">https://xeiaso.net/notes/2026/gitlab-layoffs/</guid>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>Hosting a website on an 8-bit microcontroller.</title>
+      <link>https://maurycyz.com/projects/mcusite/</link>
+      <guid isPermaLink="true">https://maurycyz.com/projects/mcusite/</guid>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
     </item>
     <item>
       <title>The Problem of Pedagogy in Advanced Mathematics</title>
@@ -760,90 +844,6 @@
       <guid isPermaLink="true">https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/</guid>
       <pubDate>Fri, 08 May 2026 02:58:46 +0000</pubDate>
       <description>Krebs on Security</description>
-    </item>
-    <item>
-      <title>The Bold Ones Win</title>
-      <link>https://feed.tedium.co/link/15204/17336568/ted-turner-bold-ceo-bets</link>
-      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17336568/ted-turner-bold-ceo-bets</guid>
-      <pubDate>Fri, 08 May 2026 00:13:15 +0000</pubDate>
-      <description>Tedium: The Dull Side of the Internet.</description>
-    </item>
-    <item>
-      <title>Notes on incidents</title>
-      <link>https://seangoedecke.com/notes-on-incidents/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/notes-on-incidents/</guid>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>Pushing Local Models With Focus And Polish</title>
-      <link>https://lucumr.pocoo.org/2026/5/8/local-models/</link>
-      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/5/8/local-models/</guid>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-      <description>Armin Ronacher's Thoughts and Writings</description>
-    </item>
-    <item>
-      <title>Steering Zig Fmt</title>
-      <link>https://matklad.github.io/2026/05/08/steering-zig-fmt.html</link>
-      <guid isPermaLink="true">https://matklad.github.io/2026/05/08/steering-zig-fmt.html</guid>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-      <description>matklad</description>
-    </item>
-    <item>
-      <title>Wander Console 0.6.0</title>
-      <link>https://susam.net/code/news/wander/0.6.0.html</link>
-      <guid isPermaLink="true">https://susam.net/code/news/wander/0.6.0.html</guid>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-      <description>Susam Pal</description>
-    </item>
-    <item>
-      <title>Notes on the Hantavirus Outbreak</title>
-      <link>https://borretti.me/article/notes-on-the-hantavirus-outbreak</link>
-      <guid isPermaLink="true">https://borretti.me/article/notes-on-the-hantavirus-outbreak</guid>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-      <description>Fernando Borretti</description>
-    </item>
-    <item>
-      <title>Flower: an SSG with a Clojure template language</title>
-      <link>https://jyn.dev/talks/flower/</link>
-      <guid isPermaLink="true">https://jyn.dev/talks/flower/</guid>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-      <description>the website of jyn</description>
-    </item>
-    <item>
-      <title>Prolost Watches 1.0</title>
-      <link>https://prolost.com/blog/prolostwatches</link>
-      <guid isPermaLink="true">https://prolost.com/blog/prolostwatches</guid>
-      <pubDate>Thu, 07 May 2026 21:27:27 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>llm-gemini 0.31</title>
-      <link>https://simonwillison.net/2026/May/7/llm-gemini/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/7/llm-gemini/#atom-everything</guid>
-      <pubDate>Thu, 07 May 2026 19:57:06 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Big Words</title>
-      <link>https://simonwillison.net/2026/May/7/big-words/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/7/big-words/#atom-everything</guid>
-      <pubDate>Thu, 07 May 2026 18:47:09 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Smoothed polygons</title>
-      <link>https://www.johndcook.com/blog/2026/05/07/smoothed-polygons/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/07/smoothed-polygons/</guid>
-      <pubDate>Thu, 07 May 2026 18:19:24 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Behind the Scenes Hardening Firefox with Claude Mythos Preview</title>
-      <link>https://simonwillison.net/2026/May/7/firefox-claude-mythos/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/7/firefox-claude-mythos/#atom-everything</guid>
-      <pubDate>Thu, 07 May 2026 17:56:25 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>

@@ -208,11 +208,11 @@ Last Updated: Friday, May 15th, 2026, 3:39:51 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [The First Democratic Tech Alliance Assembly](https://berthub.eu/articles/posts/democratic-tech-alliance-may-2026/) — *Bert Hubert's writings* `05-14`
-- [Pluralistic: Kickstarting "The Reverse Centaur's Guide to Life After AI" (14 May 2026)](https://pluralistic.net/2026/05/14/who-it-does-it-for/) — *Pluralistic: Daily links from Cory Doctorow* `05-14`
-- [Centrality is not vitality](https://nesbitt.io/2026/05/14/centrality-is-not-vitality.html) — *Andrew Nesbitt* `05-14`
-- [It's funny because it's true](https://idiallo.com/byte-size/its-funny-because-its-true?src=feed) — *iDiallo.com* `05-14`
-- [The Biz Reaper](https://feed.tedium.co/link/15204/17340934/buzzfeed-byron-allen-analysis) — *Tedium: The Dull Side of the Internet.* `05-14`
+- [Tim Cook Is in Trump’s Executive Entourage for China Summit](https://www.the-independent.com/news/world/americas/us-politics/elon-musk-tim-cook-trump-china-tech-ceo-b2975568.html) — *Daring Fireball* `05-14`
+- [Google Announces Its Chromebook Successor: The Googlebook](https://www.theverge.com/tech/928479/google-googlebook-laptops-android-tease-aluminium-chromebook?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjNVSjlWdlZESmgiLCJwIjoiL3RlY2gvOTI4NDc5L2dvb2dsZS1nb29nbGVib29rLWxhcHRvcHMtYW5kcm9pZC10ZWFzZS1hbHVtaW5pdW0tY2hyb21lYm9vayIsImV4cCI6MTc3OTIxNjg2NiwiaWF0IjoxNzc4Nzg0ODY2fQ.a74WT34THV0Ih1pGO7NH4daq39ytQXdhO4EAgE6HCeI) — *Daring Fireball* `05-14`
+- [Gurman Reports that OpenAI Is Unhappy With Apple Deal](https://www.bloomberg.com/news/articles/2026-05-14/openai-apple-partnership-frays-setting-up-possible-legal-fight?srnd=undefined&embedded-checkout=true) — *Daring Fireball* `05-14`
+- [A GNU Emacs learning experience with text-mode hooks](https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsTextModeHooksGotcha) — *Chris's Wiki :: blog* `05-14`
+- [The Trump T1 Phone Starts Shipping This Week, Supposedly](https://www.theverge.com/gadgets/929471/trump-mobile-t1-phone-shipping-this-week) — *Daring Fireball* `05-14`
 <!--BLOG_RADAR:end-->
 
 ---
