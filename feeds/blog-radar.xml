@@ -4,13 +4,41 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 13 May 2026 20:03:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 03:59:31 +0000</lastBuildDate>
+    <item>
+      <title>Welcoming the Bahamian Government to Have I Been Pwned</title>
+      <link>https://www.troyhunt.com/welcoming-the-bahamian-government-to-have-i-been-pwned/</link>
+      <guid isPermaLink="true">https://www.troyhunt.com/welcoming-the-bahamian-government-to-have-i-been-pwned/</guid>
+      <pubDate>Thu, 14 May 2026 03:49:29 +0000</pubDate>
+      <description>Troy Hunt</description>
+    </item>
+    <item>
+      <title>Going from a ZFS object ID to its path the easier way</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/solaris/ZFSObjectIdToPath</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/solaris/ZFSObjectIdToPath</guid>
+      <pubDate>Thu, 14 May 2026 02:52:19 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
     <item>
       <title>Commenting Guidelines</title>
       <link>https://susam.net/commenting.html</link>
       <guid isPermaLink="true">https://susam.net/commenting.html</guid>
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
       <description>Susam Pal</description>
+    </item>
+    <item>
+      <title>Welcome to the Datasette blog</title>
+      <link>https://simonwillison.net/2026/May/13/welcome-to-the-datasette-blog/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/13/welcome-to-the-datasette-blog/#atom-everything</guid>
+      <pubDate>Wed, 13 May 2026 23:59:39 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Software Engineers are Obsolete</title>
+      <link>https://idiallo.com/blog/everyone-is-better-than-you?src=feed</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/everyone-is-better-than-you?src=feed</guid>
+      <pubDate>Wed, 13 May 2026 22:40:00 +0000</pubDate>
+      <description>iDiallo.com</description>
     </item>
     <item>
       <title>Quoting Boris Mann</title>
@@ -433,18 +461,18 @@
       <description>Troy Hunt</description>
     </item>
     <item>
-      <title>Hosting a website on an 8-bit microcontroller.</title>
-      <link>https://maurycyz.com/projects/mcusite/</link>
-      <guid isPermaLink="true">https://maurycyz.com/projects/mcusite/</guid>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
-    </item>
-    <item>
       <title>I'm really frustrated that GitLab is doing layoffs</title>
       <link>https://xeiaso.net/notes/2026/gitlab-layoffs/</link>
       <guid isPermaLink="true">https://xeiaso.net/notes/2026/gitlab-layoffs/</guid>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>Hosting a website on an 8-bit microcontroller.</title>
+      <link>https://maurycyz.com/projects/mcusite/</link>
+      <guid isPermaLink="true">https://maurycyz.com/projects/mcusite/</guid>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
     </item>
     <item>
       <title>The Problem of Pedagogy in Advanced Mathematics</title>
@@ -643,13 +671,6 @@
       <description>Ed Zitron's Where's Your Ed At</description>
     </item>
     <item>
-      <title>Developing more confidence when tracking renames via Read­Directory­ChangesW</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260508-00/?p=112310</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260508-00/?p=112310</guid>
-      <pubDate>Fri, 08 May 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
       <title>Hi stranger</title>
       <link>https://idiallo.com/blog/hi?src=feed</link>
       <guid isPermaLink="true">https://idiallo.com/blog/hi?src=feed</guid>
@@ -662,6 +683,13 @@
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/homepod-mini-feels-like-magic--but-it-s-just-good-timing/</guid>
       <pubDate>Fri, 08 May 2026 14:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>Developing more confidence when tracking renames via Read­Directory­ChangesW</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260508-00/?p=112310</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260508-00/?p=112310</guid>
+      <pubDate>Fri, 08 May 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Calculating curvature</title>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/ive-found-just-the-right-paper-for-my-bottom-hole-problem/</guid>
       <pubDate>Thu, 07 May 2026 11:34:54 +0000</pubDate>
       <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Monitor your devices with LibreNMS on FreeBSD</title>
-      <link>https://it-notes.dragas.net/2026/05/07/monitor-your-services-with-librenms-on-freebsd/</link>
-      <guid isPermaLink="true">https://it-notes.dragas.net/2026/05/07/monitor-your-services-with-librenms-on-freebsd/</guid>
-      <pubDate>Thu, 07 May 2026 10:45:00 +0000</pubDate>
-      <description>IT Notes</description>
-    </item>
-    <item>
-      <title>Free as in Tribbles</title>
-      <link>https://nesbitt.io/2026/05/07/free-as-in-tribbles.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/05/07/free-as-in-tribbles.html</guid>
-      <pubDate>Thu, 07 May 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>The Intolerable Hypocrisy of Cyberlibertarianism</title>
-      <link>https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/</link>
-      <guid isPermaLink="true">https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/</guid>
-      <pubDate>Thu, 07 May 2026 09:43:28 +0000</pubDate>
-      <description>matduggan.com</description>
-    </item>
-    <item>
-      <title>Pluralistic: Bubbles are REALLY evil (07 May 2026)</title>
-      <link>https://pluralistic.net/2026/05/07/dump-the-pumpers/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/05/07/dump-the-pumpers/</guid>
-      <pubDate>Thu, 07 May 2026 08:08:49 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
     </item>
   </channel>
 </rss>

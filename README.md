@@ -208,11 +208,11 @@ Last Updated: Thursday, May 14th, 2026, 10:38:56 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Welcoming the Bahamian Government to Have I Been Pwned](https://www.troyhunt.com/welcoming-the-bahamian-government-to-have-i-been-pwned/) — *Troy Hunt* `05-14`
+- [Going from a ZFS object ID to its path the easier way](https://utcc.utoronto.ca/~cks/space/blog/solaris/ZFSObjectIdToPath) — *Chris's Wiki :: blog* `05-14`
 - [Commenting Guidelines](https://susam.net/commenting.html) — *Susam Pal* `05-14`
-- [Quoting Boris Mann](https://simonwillison.net/2026/May/13/boris-mann/#atom-everything) — *Simon Willison's Weblog* `05-13`
-- [Points are a weird and inconsistent unit of measure](https://buttondown.com/hillelwayne/archive/points-are-a-weird-and-inconsistent-unit-of/) — *Computer Things* `05-13`
-- [Pluralistic: Billionaire solipsism, dictator solipsism, AI, and the fascist paradigm (13 May 2026)](https://pluralistic.net/2026/05/13/vibe-governance/) — *Pluralistic: Daily links from Cory Doctorow* `05-13`
-- [The case of the hang when the user changed keyboard layouts](https://devblogs.microsoft.com/oldnewthing/20260513-00/?p=112318) — *The Old New Thing* `05-13`
+- [Welcome to the Datasette blog](https://simonwillison.net/2026/May/13/welcome-to-the-datasette-blog/#atom-everything) — *Simon Willison's Weblog* `05-13`
+- [Software Engineers are Obsolete](https://idiallo.com/blog/everyone-is-better-than-you?src=feed) — *iDiallo.com* `05-13`
 <!--BLOG_RADAR:end-->
 
 ---
