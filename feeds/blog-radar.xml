@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 14 May 2026 03:59:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 08:46:04 +0000</lastBuildDate>
+    <item>
+      <title>It's funny because it's true</title>
+      <link>https://idiallo.com/byte-size/its-funny-because-its-true?src=feed</link>
+      <guid isPermaLink="true">https://idiallo.com/byte-size/its-funny-because-its-true?src=feed</guid>
+      <pubDate>Thu, 14 May 2026 07:13:34 +0000</pubDate>
+      <description>iDiallo.com</description>
+    </item>
+    <item>
+      <title>The Biz Reaper</title>
+      <link>https://feed.tedium.co/link/15204/17340934/buzzfeed-byron-allen-analysis</link>
+      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17340934/buzzfeed-byron-allen-analysis</guid>
+      <pubDate>Thu, 14 May 2026 03:50:47 +0000</pubDate>
+      <description>Tedium: The Dull Side of the Internet.</description>
+    </item>
     <item>
       <title>Welcoming the Bahamian Government to Have I Been Pwned</title>
       <link>https://www.troyhunt.com/welcoming-the-bahamian-government-to-have-i-been-pwned/</link>
@@ -104,18 +118,18 @@
       <description>Chris's Wiki :: blog</description>
     </item>
     <item>
-      <title>What’s with all the slide decks?</title>
-      <link>https://dynomight.net/slides/</link>
-      <guid isPermaLink="true">https://dynomight.net/slides/</guid>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
-    </item>
-    <item>
       <title>AI datacenters in space do not have a cooling problem</title>
       <link>https://seangoedecke.com/space-ai-datacenters-do-not-have-a-cooling-problem/</link>
       <guid isPermaLink="true">https://seangoedecke.com/space-ai-datacenters-do-not-have-a-cooling-problem/</guid>
       <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>What’s with all the slide decks?</title>
+      <link>https://dynomight.net/slides/</link>
+      <guid isPermaLink="true">https://dynomight.net/slides/</guid>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>Open Link in Unloaded Tab, a little Firefox extension</title>
@@ -461,18 +475,18 @@
       <description>Troy Hunt</description>
     </item>
     <item>
-      <title>I'm really frustrated that GitLab is doing layoffs</title>
-      <link>https://xeiaso.net/notes/2026/gitlab-layoffs/</link>
-      <guid isPermaLink="true">https://xeiaso.net/notes/2026/gitlab-layoffs/</guid>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
       <title>Hosting a website on an 8-bit microcontroller.</title>
       <link>https://maurycyz.com/projects/mcusite/</link>
       <guid isPermaLink="true">https://maurycyz.com/projects/mcusite/</guid>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
       <description>Maurycy's Blog</description>
+    </item>
+    <item>
+      <title>I'm really frustrated that GitLab is doing layoffs</title>
+      <link>https://xeiaso.net/notes/2026/gitlab-layoffs/</link>
+      <guid isPermaLink="true">https://xeiaso.net/notes/2026/gitlab-layoffs/</guid>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>The Problem of Pedagogy in Advanced Mathematics</title>
@@ -671,13 +685,6 @@
       <description>Ed Zitron's Where's Your Ed At</description>
     </item>
     <item>
-      <title>Hi stranger</title>
-      <link>https://idiallo.com/blog/hi?src=feed</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/hi?src=feed</guid>
-      <pubDate>Fri, 08 May 2026 14:00:00 +0000</pubDate>
-      <description>iDiallo.com</description>
-    </item>
-    <item>
       <title>HomePod mini feels like magic, but it's just good timing</title>
       <link>https://www.jeffgeerling.com/blog/2026/homepod-mini-feels-like-magic--but-it-s-just-good-timing/</link>
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/homepod-mini-feels-like-magic--but-it-s-just-good-timing/</guid>
@@ -690,6 +697,13 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260508-00/?p=112310</guid>
       <pubDate>Fri, 08 May 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>Hi stranger</title>
+      <link>https://idiallo.com/blog/hi?src=feed</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/hi?src=feed</guid>
+      <pubDate>Fri, 08 May 2026 14:00:00 +0000</pubDate>
+      <description>iDiallo.com</description>
     </item>
     <item>
       <title>Calculating curvature</title>
@@ -734,18 +748,18 @@
       <description>Tedium: The Dull Side of the Internet.</description>
     </item>
     <item>
-      <title>Notes on incidents</title>
-      <link>https://seangoedecke.com/notes-on-incidents/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/notes-on-incidents/</guid>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
       <title>Pushing Local Models With Focus And Polish</title>
       <link>https://lucumr.pocoo.org/2026/5/8/local-models/</link>
       <guid isPermaLink="true">https://lucumr.pocoo.org/2026/5/8/local-models/</guid>
       <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
       <description>Armin Ronacher's Thoughts and Writings</description>
+    </item>
+    <item>
+      <title>Notes on incidents</title>
+      <link>https://seangoedecke.com/notes-on-incidents/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/notes-on-incidents/</guid>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>Steering Zig Fmt</title>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://bsky.app/profile/gethill.bsky.social/post/3ml6fyfv7kc2l</guid>
       <pubDate>Thu, 07 May 2026 15:21:34 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>When you upgrade your resource strings to Unicode, don’t forget to specify the L prefix</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260507-00/?p=112307</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260507-00/?p=112307</guid>
-      <pubDate>Thu, 07 May 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>I've found just the right paper for my Bottom Hole problem</title>
-      <link>https://shkspr.mobi/blog/2026/05/ive-found-just-the-right-paper-for-my-bottom-hole-problem/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/ive-found-just-the-right-paper-for-my-bottom-hole-problem/</guid>
-      <pubDate>Thu, 07 May 2026 11:34:54 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
   </channel>
 </rss>
