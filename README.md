@@ -208,11 +208,11 @@ Last Updated: Thursday, May 14th, 2026, 9:56:29 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [The First Democratic Tech Alliance Assembly](https://berthub.eu/articles/posts/democratic-tech-alliance-may-2026/) — *Bert Hubert's writings* `05-14`
+- [Pluralistic: Kickstarting "The Reverse Centaur's Guide to Life After AI" (14 May 2026)](https://pluralistic.net/2026/05/14/who-it-does-it-for/) — *Pluralistic: Daily links from Cory Doctorow* `05-14`
+- [Centrality is not vitality](https://nesbitt.io/2026/05/14/centrality-is-not-vitality.html) — *Andrew Nesbitt* `05-14`
 - [It's funny because it's true](https://idiallo.com/byte-size/its-funny-because-its-true?src=feed) — *iDiallo.com* `05-14`
 - [The Biz Reaper](https://feed.tedium.co/link/15204/17340934/buzzfeed-byron-allen-analysis) — *Tedium: The Dull Side of the Internet.* `05-14`
-- [Welcoming the Bahamian Government to Have I Been Pwned](https://www.troyhunt.com/welcoming-the-bahamian-government-to-have-i-been-pwned/) — *Troy Hunt* `05-14`
-- [Going from a ZFS object ID to its path the easier way](https://utcc.utoronto.ca/~cks/space/blog/solaris/ZFSObjectIdToPath) — *Chris's Wiki :: blog* `05-14`
-- [Commenting Guidelines](https://susam.net/commenting.html) — *Susam Pal* `05-14`
 <!--BLOG_RADAR:end-->
 
 ---
