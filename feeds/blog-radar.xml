@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 15 May 2026 08:57:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 14:23:51 +0000</lastBuildDate>
+    <item>
+      <title>Pluralistic: No one wants a permanent gerontocracy (15 May 2026)</title>
+      <link>https://pluralistic.net/2026/05/15/not-ok-boomer/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/05/15/not-ok-boomer/</guid>
+      <pubDate>Fri, 15 May 2026 12:38:04 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Recovering the state of xorshift128</title>
+      <link>https://www.johndcook.com/blog/2026/05/15/xorshift128-state/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/15/xorshift128-state/</guid>
+      <pubDate>Fri, 15 May 2026 12:34:29 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Language Registries Are Unstable by Default</title>
+      <link>https://nesbitt.io/2026/05/15/language-registries-are-unstable-by-default.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/05/15/language-registries-are-unstable-by-default.html</guid>
+      <pubDate>Fri, 15 May 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
     <item>
       <title>UK Government Kicks Out Palantir</title>
       <link>https://shkspr.mobi/blog/2026/05/uk-government-kicks-out-palantir/</link>
@@ -195,18 +216,18 @@
       <description>Chris's Wiki :: blog</description>
     </item>
     <item>
-      <title>Building a clock from salvaged Vacuum Fluorescent Displays</title>
-      <link>https://maurycyz.com/projects/tubeclock/</link>
-      <guid isPermaLink="true">https://maurycyz.com/projects/tubeclock/</guid>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
-    </item>
-    <item>
       <title>Amazonbot is finally respecting robots.txt</title>
       <link>https://xeiaso.net/notes/2026/amazonbot-respecting-robots-txt/</link>
       <guid isPermaLink="true">https://xeiaso.net/notes/2026/amazonbot-respecting-robots-txt/</guid>
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>Building a clock from salvaged Vacuum Fluorescent Displays</title>
+      <link>https://maurycyz.com/projects/tubeclock/</link>
+      <guid isPermaLink="true">https://maurycyz.com/projects/tubeclock/</guid>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
     </item>
     <item>
       <title>Catch Flakes On Main</title>
@@ -307,18 +328,18 @@
       <description>Chris's Wiki :: blog</description>
     </item>
     <item>
-      <title>What’s with all the slide decks?</title>
-      <link>https://dynomight.net/slides/</link>
-      <guid isPermaLink="true">https://dynomight.net/slides/</guid>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
-    </item>
-    <item>
       <title>AI datacenters in space do not have a cooling problem</title>
       <link>https://seangoedecke.com/space-ai-datacenters-do-not-have-a-cooling-problem/</link>
       <guid isPermaLink="true">https://seangoedecke.com/space-ai-datacenters-do-not-have-a-cooling-problem/</guid>
       <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>What’s with all the slide decks?</title>
+      <link>https://dynomight.net/slides/</link>
+      <guid isPermaLink="true">https://dynomight.net/slides/</guid>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>Open Link in Unloaded Tab, a little Firefox extension</title>
@@ -671,18 +692,18 @@
       <description>Troy Hunt</description>
     </item>
     <item>
-      <title>Hosting a website on an 8-bit microcontroller.</title>
-      <link>https://maurycyz.com/projects/mcusite/</link>
-      <guid isPermaLink="true">https://maurycyz.com/projects/mcusite/</guid>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
-    </item>
-    <item>
       <title>I'm really frustrated that GitLab is doing layoffs</title>
       <link>https://xeiaso.net/notes/2026/gitlab-layoffs/</link>
       <guid isPermaLink="true">https://xeiaso.net/notes/2026/gitlab-layoffs/</guid>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>Hosting a website on an 8-bit microcontroller.</title>
+      <link>https://maurycyz.com/projects/mcusite/</link>
+      <guid isPermaLink="true">https://maurycyz.com/projects/mcusite/</guid>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
     </item>
     <item>
       <title>The Problem of Pedagogy in Advanced Mathematics</title>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/May/9/luke-curley/#atom-everything</guid>
       <pubDate>Sat, 09 May 2026 01:03:58 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>AI makes weak engineers less harmful</title>
-      <link>https://seangoedecke.com/ai-makes-weak-engineers-less-harmful/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/ai-makes-weak-engineers-less-harmful/</guid>
-      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>I Will Not Add Query Strings to Your URLs</title>
-      <link>https://susam.net/no-query-strings.html</link>
-      <guid isPermaLink="true">https://susam.net/no-query-strings.html</guid>
-      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
-      <description>Susam Pal</description>
-    </item>
-    <item>
-      <title>extremely low frequencies</title>
-      <link>https://computer.rip/2026-05-09-extremely-low-frequencies.html</link>
-      <guid isPermaLink="true">https://computer.rip/2026-05-09-extremely-low-frequencies.html</guid>
-      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
-      <description>computers are bad</description>
     </item>
   </channel>
 </rss>
