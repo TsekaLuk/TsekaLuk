@@ -4,7 +4,77 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 14 May 2026 19:55:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 04:04:28 +0000</lastBuildDate>
+    <item>
+      <title>‘Musk v. Altman’ Closing Arguments</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/931006/musk-v-altman-closing-arguments-analysis?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6ImhxZzBnTXFpSk8iLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzkzMTAwNi9tdXNrLXYtYWx0bWFuLWNsb3NpbmctYXJndW1lbnRzLWFuYWx5c2lzIiwiZXhwIjoxNzc5MjM2OTUwLCJpYXQiOjE3Nzg4MDQ5NTB9.TXQtcV9vkuuKyqcrMaKtSqqoL9_wGWeSYgUyO6ZzK-Y</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/931006/musk-v-altman-closing-arguments-analysis?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6ImhxZzBnTXFpSk8iLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzkzMTAwNi9tdXNrLXYtYWx0bWFuLWNsb3NpbmctYXJndW1lbnRzLWFuYWx5c2lzIiwiZXhwIjoxNzc5MjM2OTUwLCJpYXQiOjE3Nzg4MDQ5NTB9.TXQtcV9vkuuKyqcrMaKtSqqoL9_wGWeSYgUyO6ZzK-Y</guid>
+      <pubDate>Fri, 15 May 2026 00:57:38 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Let’s Run a Neologism Poll</title>
+      <link>https://mastodon.social/@gruber/116575825801893849</link>
+      <guid isPermaLink="true">https://mastodon.social/@gruber/116575825801893849</guid>
+      <pubDate>Fri, 15 May 2026 00:53:54 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>I've finally ported &lt;a href="https://utcc.utoronto.ca/~cks/space/dwiki/DWiki"&gt;DWiki&lt;/a&gt; from Python 2 to Python 3</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/python/DWikiPython3Now</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/python/DWikiPython3Now</guid>
+      <pubDate>Fri, 15 May 2026 00:17:27 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>The Youth AI Safety Institute Has Margrethe Vestager’s Backing</title>
+      <link>https://www.euronews.com/next/2026/05/12/margrethe-vestager-backs-new-ai-safety-institute-for-children-after-decade-regulating-big-</link>
+      <guid isPermaLink="true">https://www.euronews.com/next/2026/05/12/margrethe-vestager-backs-new-ai-safety-institute-for-children-after-decade-regulating-big-</guid>
+      <pubDate>Fri, 15 May 2026 00:03:13 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Aided by Mythos Preview, Researchers Announce MacOS Kernel Exploit Circumventing M5 Memory Integrity Enforcement</title>
+      <link>https://blog.calif.io/p/first-public-kernel-memory-corruption</link>
+      <guid isPermaLink="true">https://blog.calif.io/p/first-public-kernel-memory-corruption</guid>
+      <pubDate>Thu, 14 May 2026 23:44:20 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Not so locked in any more</title>
+      <link>https://simonwillison.net/2026/May/14/not-so-locked-in/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/14/not-so-locked-in/#atom-everything</guid>
+      <pubDate>Thu, 14 May 2026 22:53:49 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Wired on the Dark Mood Inside Meta</title>
+      <link>https://www.wired.com/story/meta-layoffs-bad-vibes-mark-zuckerberg-ai/</link>
+      <guid isPermaLink="true">https://www.wired.com/story/meta-layoffs-bad-vibes-mark-zuckerberg-ai/</guid>
+      <pubDate>Thu, 14 May 2026 22:53:10 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Quoting Mitchell Hashimoto</title>
+      <link>https://simonwillison.net/2026/May/14/mitchell-hashimoto/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/14/mitchell-hashimoto/#atom-everything</guid>
+      <pubDate>Thu, 14 May 2026 22:31:20 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>A few words on DS4</title>
+      <link>http://antirez.com/news/165</link>
+      <guid isPermaLink="true">http://antirez.com/news/165</guid>
+      <pubDate>Thu, 14 May 2026 22:22:45 +0000</pubDate>
+      <description>&lt;antirez&gt;</description>
+    </item>
+    <item>
+      <title>Geoffrey Fowler and the Launch of the Youth AI Safety Institute</title>
+      <link>https://geoffreyfowler.substack.com/p/what-is-ai-doing-to-our-kids-im-going</link>
+      <guid isPermaLink="true">https://geoffreyfowler.substack.com/p/what-is-ai-doing-to-our-kids-im-going</guid>
+      <pubDate>Thu, 14 May 2026 20:51:04 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Tim Cook Is in Trump’s Executive Entourage for China Summit</title>
       <link>https://www.the-independent.com/news/world/americas/us-politics/elon-musk-tim-cook-trump-china-tech-ceo-b2975568.html</link>
@@ -118,6 +188,20 @@
       <description>Chris's Wiki :: blog</description>
     </item>
     <item>
+      <title>Building a clock from salvaged Vacuum Fluorescent Displays</title>
+      <link>https://maurycyz.com/projects/tubeclock/</link>
+      <guid isPermaLink="true">https://maurycyz.com/projects/tubeclock/</guid>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
+    </item>
+    <item>
+      <title>Amazonbot is finally respecting robots.txt</title>
+      <link>https://xeiaso.net/notes/2026/amazonbot-respecting-robots-txt/</link>
+      <guid isPermaLink="true">https://xeiaso.net/notes/2026/amazonbot-respecting-robots-txt/</guid>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
+    </item>
+    <item>
       <title>Catch Flakes On Main</title>
       <link>https://matklad.github.io/2026/05/14/catch-flakes-on-main.html</link>
       <guid isPermaLink="true">https://matklad.github.io/2026/05/14/catch-flakes-on-main.html</guid>
@@ -216,18 +300,18 @@
       <description>Chris's Wiki :: blog</description>
     </item>
     <item>
-      <title>AI datacenters in space do not have a cooling problem</title>
-      <link>https://seangoedecke.com/space-ai-datacenters-do-not-have-a-cooling-problem/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/space-ai-datacenters-do-not-have-a-cooling-problem/</guid>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
       <title>What’s with all the slide decks?</title>
       <link>https://dynomight.net/slides/</link>
       <guid isPermaLink="true">https://dynomight.net/slides/</guid>
       <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
       <description>DYNOMIGHT</description>
+    </item>
+    <item>
+      <title>AI datacenters in space do not have a cooling problem</title>
+      <link>https://seangoedecke.com/space-ai-datacenters-do-not-have-a-cooling-problem/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/space-ai-datacenters-do-not-have-a-cooling-problem/</guid>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>Open Link in Unloaded Tab, a little Firefox extension</title>
@@ -580,18 +664,18 @@
       <description>Troy Hunt</description>
     </item>
     <item>
-      <title>I'm really frustrated that GitLab is doing layoffs</title>
-      <link>https://xeiaso.net/notes/2026/gitlab-layoffs/</link>
-      <guid isPermaLink="true">https://xeiaso.net/notes/2026/gitlab-layoffs/</guid>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
       <title>Hosting a website on an 8-bit microcontroller.</title>
       <link>https://maurycyz.com/projects/mcusite/</link>
       <guid isPermaLink="true">https://maurycyz.com/projects/mcusite/</guid>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
       <description>Maurycy's Blog</description>
+    </item>
+    <item>
+      <title>I'm really frustrated that GitLab is doing layoffs</title>
+      <link>https://xeiaso.net/notes/2026/gitlab-layoffs/</link>
+      <guid isPermaLink="true">https://xeiaso.net/notes/2026/gitlab-layoffs/</guid>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>The Problem of Pedagogy in Advanced Mathematics</title>
@@ -760,90 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/#atom-everything</guid>
       <pubDate>Fri, 08 May 2026 21:00:11 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>George Orwell's review of Russel's Power: A New Social Analysis</title>
-      <link>https://berthub.eu/articles/posts/orwell-review-bertrand-russells-power/</link>
-      <guid isPermaLink="true">https://berthub.eu/articles/posts/orwell-review-bertrand-russells-power/</guid>
-      <pubDate>Fri, 08 May 2026 20:35:10 +0000</pubDate>
-      <description>Bert Hubert's writings</description>
-    </item>
-    <item>
-      <title>David Reich – Why the Bronze Age was an inflection point in human evolution</title>
-      <link>https://www.dwarkesh.com/p/david-reich-2</link>
-      <guid isPermaLink="true">https://www.dwarkesh.com/p/david-reich-2</guid>
-      <pubDate>Fri, 08 May 2026 16:38:22 +0000</pubDate>
-      <description>Dwarkesh Podcast</description>
-    </item>
-    <item>
-      <title>This Week on The Analog Antiquarian</title>
-      <link>https://www.filfre.net/2026/05/this-week-on-the-analog-antiquarian/</link>
-      <guid isPermaLink="true">https://www.filfre.net/2026/05/this-week-on-the-analog-antiquarian/</guid>
-      <pubDate>Fri, 08 May 2026 16:11:33 +0000</pubDate>
-      <description>The Digital Antiquarian</description>
-    </item>
-    <item>
-      <title>Premium: AI's Circular Psychosis</title>
-      <link>https://www.wheresyoured.at/premium-ais-circular-psychosis/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/premium-ais-circular-psychosis/</guid>
-      <pubDate>Fri, 08 May 2026 14:40:45 +0000</pubDate>
-      <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>HomePod mini feels like magic, but it's just good timing</title>
-      <link>https://www.jeffgeerling.com/blog/2026/homepod-mini-feels-like-magic--but-it-s-just-good-timing/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/homepod-mini-feels-like-magic--but-it-s-just-good-timing/</guid>
-      <pubDate>Fri, 08 May 2026 14:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
-      <title>Developing more confidence when tracking renames via Read­Directory­ChangesW</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260508-00/?p=112310</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260508-00/?p=112310</guid>
-      <pubDate>Fri, 08 May 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Hi stranger</title>
-      <link>https://idiallo.com/blog/hi?src=feed</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/hi?src=feed</guid>
-      <pubDate>Fri, 08 May 2026 14:00:00 +0000</pubDate>
-      <description>iDiallo.com</description>
-    </item>
-    <item>
-      <title>Calculating curvature</title>
-      <link>https://www.johndcook.com/blog/2026/05/08/calculating-curvature/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/08/calculating-curvature/</guid>
-      <pubDate>Fri, 08 May 2026 13:54:18 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Pluralistic: Lee Lai's "Cannon" (08 May 2026)</title>
-      <link>https://pluralistic.net/2026/05/08/gung-gung/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/05/08/gung-gung/</guid>
-      <pubDate>Fri, 08 May 2026 12:19:36 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Weekend at Bernie’s</title>
-      <link>https://nesbitt.io/2026/05/08/weekend-at-bernies.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/05/08/weekend-at-bernies.html</guid>
-      <pubDate>Fri, 08 May 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Detecting (or not) the use of -l and -c together in Bourne shells</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/unix/BourneShellLoginWithCommand</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/unix/BourneShellLoginWithCommand</guid>
-      <pubDate>Fri, 08 May 2026 03:31:17 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>Canvas Breach Disrupts Schools &amp; Colleges Nationwide</title>
-      <link>https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/</link>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/</guid>
-      <pubDate>Fri, 08 May 2026 02:58:46 +0000</pubDate>
-      <description>Krebs on Security</description>
     </item>
   </channel>
 </rss>
