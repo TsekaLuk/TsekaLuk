@@ -208,11 +208,11 @@ Last Updated: Saturday, May 16th, 2026, 3:23:43 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Pluralistic: No one wants a permanent gerontocracy (15 May 2026)](https://pluralistic.net/2026/05/15/not-ok-boomer/) — *Pluralistic: Daily links from Cory Doctorow* `05-15`
-- [Recovering the state of xorshift128](https://www.johndcook.com/blog/2026/05/15/xorshift128-state/) — *John D. Cook* `05-15`
-- [Language Registries Are Unstable by Default](https://nesbitt.io/2026/05/15/language-registries-are-unstable-by-default.html) — *Andrew Nesbitt* `05-15`
-- [UK Government Kicks Out Palantir](https://shkspr.mobi/blog/2026/05/uk-government-kicks-out-palantir/) — *Terence Eden’s Blog* `05-15`
-- [‘Musk v. Altman’ Closing Arguments](https://www.theverge.com/ai-artificial-intelligence/931006/musk-v-altman-closing-arguments-analysis?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6ImhxZzBnTXFpSk8iLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzkzMTAwNi9tdXNrLXYtYWx0bWFuLWNsb3NpbmctYXJndW1lbnRzLWFuYWx5c2lzIiwiZXhwIjoxNzc5MjM2OTUwLCJpYXQiOjE3Nzg4MDQ5NTB9.TXQtcV9vkuuKyqcrMaKtSqqoL9_wGWeSYgUyO6ZzK-Y) — *Daring Fireball* `05-15`
+- [Dropover, a Mac Shelf Utility That Makes Clever Use of Mouse Shaking](https://dropoverapp.com/) — *Daring Fireball* `05-15`
+- [Aluminium OS: Google’s ‘Android for PC’ OS for Googlebooks](https://aluminium-os.com/) — *Daring Fireball* `05-15`
+- [Premium: What If...We're In An AI Bubble? (Part 1)](https://www.wheresyoured.at/premium-what-if-were-in-an-ai-bubble-part-1/) — *Ed Zitron's Where's Your Ed At* `05-15`
+- [Eric Jang – Building AlphaGo from scratch](https://www.dwarkesh.com/p/eric-jang) — *Dwarkesh Podcast* `05-15`
+- [The case of the Create­File­Mapping that always reported ERROR_ALREADY_EXISTS](https://devblogs.microsoft.com/oldnewthing/20260515-00/?p=112327) — *The Old New Thing* `05-15`
 <!--BLOG_RADAR:end-->
 
 ---
