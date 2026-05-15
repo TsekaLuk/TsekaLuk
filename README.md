@@ -208,11 +208,11 @@ Last Updated: Friday, May 15th, 2026, 4:43:07 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [UK Government Kicks Out Palantir](https://shkspr.mobi/blog/2026/05/uk-government-kicks-out-palantir/) — *Terence Eden’s Blog* `05-15`
 - [‘Musk v. Altman’ Closing Arguments](https://www.theverge.com/ai-artificial-intelligence/931006/musk-v-altman-closing-arguments-analysis?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6ImhxZzBnTXFpSk8iLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzkzMTAwNi9tdXNrLXYtYWx0bWFuLWNsb3NpbmctYXJndW1lbnRzLWFuYWx5c2lzIiwiZXhwIjoxNzc5MjM2OTUwLCJpYXQiOjE3Nzg4MDQ5NTB9.TXQtcV9vkuuKyqcrMaKtSqqoL9_wGWeSYgUyO6ZzK-Y) — *Daring Fireball* `05-15`
 - [Let’s Run a Neologism Poll](https://mastodon.social/@gruber/116575825801893849) — *Daring Fireball* `05-15`
 - [I've finally ported <a href="https://utcc.utoronto.ca/~cks/space/dwiki/DWiki">DWiki</a> from Python 2 to Python 3](https://utcc.utoronto.ca/~cks/space/blog/python/DWikiPython3Now) — *Chris's Wiki :: blog* `05-15`
 - [The Youth AI Safety Institute Has Margrethe Vestager’s Backing](https://www.euronews.com/next/2026/05/12/margrethe-vestager-backs-new-ai-safety-institute-for-children-after-decade-regulating-big-) — *Daring Fireball* `05-15`
-- [Aided by Mythos Preview, Researchers Announce MacOS Kernel Exploit Circumventing M5 Memory Integrity Enforcement](https://blog.calif.io/p/first-public-kernel-memory-corruption) — *Daring Fireball* `05-14`
 <!--BLOG_RADAR:end-->
 
 ---
