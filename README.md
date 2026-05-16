@@ -211,8 +211,8 @@ Last Updated: Saturday, May 16th, 2026, 3:56:36 PM
 - [Getting C code navigation even for Debian (or Ubuntu) packages](https://utcc.utoronto.ca/~cks/space/blog/linux/CCodeIntelligenceForDebs) — *Chris's Wiki :: blog* `05-16`
 - [The Talk Show: ‘A Sociopathic Father’](https://daringfireball.net/thetalkshow/2026/05/15/ep-447) — *Daring Fireball* `05-16`
 - [Greg Brockman Officially Takes Control of Products at OpenAI, a Very Stable Well-Run Company](https://www.wired.com/story/openai-reorg-greg-brockman-product/) — *Daring Fireball* `05-16`
+- [DeepSeek-V4-Flash means LLM steering is interesting again](https://seangoedecke.com/steering-vectors/) — *seangoedecke.com RSS feed* `05-16`
 - [inaturalist-clumper 0.1](https://simonwillison.net/2026/May/15/inaturalist-clumper/#atom-everything) — *Simon Willison's Weblog* `05-15`
-- [Wanton Destruction of CBS Property](https://www.youtube.com/watch?v=eBKWKu2Rqxc) — *Daring Fireball* `05-15`
 <!--BLOG_RADAR:end-->
 
 ---

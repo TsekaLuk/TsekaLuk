@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 16 May 2026 03:46:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 08:12:48 +0000</lastBuildDate>
     <item>
       <title>Getting C code navigation even for Debian (or Ubuntu) packages</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/linux/CCodeIntelligenceForDebs</link>
@@ -25,6 +25,13 @@
       <guid isPermaLink="true">https://www.wired.com/story/openai-reorg-greg-brockman-product/</guid>
       <pubDate>Sat, 16 May 2026 01:37:57 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>DeepSeek-V4-Flash means LLM steering is interesting again</title>
+      <link>https://seangoedecke.com/steering-vectors/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/steering-vectors/</guid>
+      <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>inaturalist-clumper 0.1</title>
@@ -426,6 +433,13 @@
       <description>Chris's Wiki :: blog</description>
     </item>
     <item>
+      <title>What’s with all the slide decks?</title>
+      <link>https://dynomight.net/slides/</link>
+      <guid isPermaLink="true">https://dynomight.net/slides/</guid>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
+    </item>
+    <item>
       <title>AI datacenters in space do not have a cooling problem</title>
       <link>https://seangoedecke.com/space-ai-datacenters-do-not-have-a-cooling-problem/</link>
       <guid isPermaLink="true">https://seangoedecke.com/space-ai-datacenters-do-not-have-a-cooling-problem/</guid>
@@ -438,13 +452,6 @@
       <guid isPermaLink="true">https://evanhahn.com/open-link-in-unloaded-tab-for-firefox/</guid>
       <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
       <description>Evan Hahn (dot com)</description>
-    </item>
-    <item>
-      <title>What’s with all the slide decks?</title>
-      <link>https://dynomight.net/slides/</link>
-      <guid isPermaLink="true">https://dynomight.net/slides/</guid>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>Ideal failures</title>
@@ -545,18 +552,18 @@
       <description>Ed Zitron's Where's Your Ed At</description>
     </item>
     <item>
-      <title>Why do Windows client editions on 32-bit x86 systems artificially limit RAM to 4 GB?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260512-00/?p=112316</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260512-00/?p=112316</guid>
-      <pubDate>Tue, 12 May 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
       <title>Bambu Lab is abusing the open source social contract</title>
       <link>https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/</link>
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/</guid>
       <pubDate>Tue, 12 May 2026 14:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>Why do Windows client editions on 32-bit x86 systems artificially limit RAM to 4 GB?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260512-00/?p=112316</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260512-00/?p=112316</guid>
+      <pubDate>Tue, 12 May 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Shame them, shun them, ban them, beat them!</title>
@@ -836,13 +843,6 @@
       <link>https://www.johndcook.com/blog/2026/05/10/the-linear-algebra-of-bit-twiddling/</link>
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/10/the-linear-algebra-of-bit-twiddling/</guid>
       <pubDate>Sun, 10 May 2026 18:51:40 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Reverse engineering Mersenne Twister with Linear Algebra</title>
-      <link>https://www.johndcook.com/blog/2026/05/10/reverse-mersenne-twister/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/10/reverse-mersenne-twister/</guid>
-      <pubDate>Sun, 10 May 2026 17:32:02 +0000</pubDate>
       <description>John D. Cook</description>
     </item>
   </channel>
