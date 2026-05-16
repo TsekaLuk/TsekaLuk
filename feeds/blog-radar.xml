@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 16 May 2026 08:12:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 13:47:16 +0000</lastBuildDate>
+    <item>
+      <title>SQLAlchemy 2 In Practice - Chapter 8: SQLAlchemy and the Web</title>
+      <link>https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-8-sqlalchemy-and-the-web</link>
+      <guid isPermaLink="true">https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-8-sqlalchemy-and-the-web</guid>
+      <pubDate>Sat, 16 May 2026 13:35:14 +0000</pubDate>
+      <description>Miguel Grinberg's Blog</description>
+    </item>
+    <item>
+      <title>Reading List 05/16/26</title>
+      <link>https://www.construction-physics.com/p/reading-list-051626</link>
+      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-051626</guid>
+      <pubDate>Sat, 16 May 2026 12:01:26 +0000</pubDate>
+      <description>Construction Physics</description>
+    </item>
+    <item>
+      <title>Pluralistic: Making sense of Trump's unscheduled sudden midair disassembly of the American empire (16 May 2026)</title>
+      <link>https://pluralistic.net/2026/05/16/technopoly/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/05/16/technopoly/</guid>
+      <pubDate>Sat, 16 May 2026 08:35:41 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
     <item>
       <title>Getting C code navigation even for Debian (or Ubuntu) packages</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/linux/CCodeIntelligenceForDebs</link>
@@ -32,6 +53,13 @@
       <guid isPermaLink="true">https://seangoedecke.com/steering-vectors/</guid>
       <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Five Minutes of Prime Time</title>
+      <link>https://susam.net/five-minutes-of-prime-time.html</link>
+      <guid isPermaLink="true">https://susam.net/five-minutes-of-prime-time.html</guid>
+      <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
+      <description>Susam Pal</description>
     </item>
     <item>
       <title>inaturalist-clumper 0.1</title>
@@ -433,13 +461,6 @@
       <description>Chris's Wiki :: blog</description>
     </item>
     <item>
-      <title>What’s with all the slide decks?</title>
-      <link>https://dynomight.net/slides/</link>
-      <guid isPermaLink="true">https://dynomight.net/slides/</guid>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
-    </item>
-    <item>
       <title>AI datacenters in space do not have a cooling problem</title>
       <link>https://seangoedecke.com/space-ai-datacenters-do-not-have-a-cooling-problem/</link>
       <guid isPermaLink="true">https://seangoedecke.com/space-ai-datacenters-do-not-have-a-cooling-problem/</guid>
@@ -452,6 +473,13 @@
       <guid isPermaLink="true">https://evanhahn.com/open-link-in-unloaded-tab-for-firefox/</guid>
       <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
       <description>Evan Hahn (dot com)</description>
+    </item>
+    <item>
+      <title>What’s with all the slide decks?</title>
+      <link>https://dynomight.net/slides/</link>
+      <guid isPermaLink="true">https://dynomight.net/slides/</guid>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>Ideal failures</title>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://susam.net/advanced-mathematics-pedagogy.html</guid>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
       <description>Susam Pal</description>
-    </item>
-    <item>
-      <title>Quoting New York Times Editors’ Note</title>
-      <link>https://simonwillison.net/2026/May/10/new-york-times-editors-note/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/10/new-york-times-editors-note/#atom-everything</guid>
-      <pubDate>Sun, 10 May 2026 23:58:49 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Weekly Update 503</title>
-      <link>https://www.troyhunt.com/weekly-update-503/</link>
-      <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-503/</guid>
-      <pubDate>Sun, 10 May 2026 23:52:52 +0000</pubDate>
-      <description>Troy Hunt</description>
-    </item>
-    <item>
-      <title>Out With the JS, In With the HTML</title>
-      <link>https://blog.jim-nielsen.com/2026/out-with-js-in-with-html/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/out-with-js-in-with-html/</guid>
-      <pubDate>Sun, 10 May 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
-      <title>The linear algebra of bit twiddling</title>
-      <link>https://www.johndcook.com/blog/2026/05/10/the-linear-algebra-of-bit-twiddling/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/10/the-linear-algebra-of-bit-twiddling/</guid>
-      <pubDate>Sun, 10 May 2026 18:51:40 +0000</pubDate>
-      <description>John D. Cook</description>
     </item>
   </channel>
 </rss>

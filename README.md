@@ -208,11 +208,11 @@ Last Updated: Saturday, May 16th, 2026, 9:10:04 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [SQLAlchemy 2 In Practice - Chapter 8: SQLAlchemy and the Web](https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-8-sqlalchemy-and-the-web) — *Miguel Grinberg's Blog* `05-16`
+- [Reading List 05/16/26](https://www.construction-physics.com/p/reading-list-051626) — *Construction Physics* `05-16`
+- [Pluralistic: Making sense of Trump's unscheduled sudden midair disassembly of the American empire (16 May 2026)](https://pluralistic.net/2026/05/16/technopoly/) — *Pluralistic: Daily links from Cory Doctorow* `05-16`
 - [Getting C code navigation even for Debian (or Ubuntu) packages](https://utcc.utoronto.ca/~cks/space/blog/linux/CCodeIntelligenceForDebs) — *Chris's Wiki :: blog* `05-16`
 - [The Talk Show: ‘A Sociopathic Father’](https://daringfireball.net/thetalkshow/2026/05/15/ep-447) — *Daring Fireball* `05-16`
-- [Greg Brockman Officially Takes Control of Products at OpenAI, a Very Stable Well-Run Company](https://www.wired.com/story/openai-reorg-greg-brockman-product/) — *Daring Fireball* `05-16`
-- [DeepSeek-V4-Flash means LLM steering is interesting again](https://seangoedecke.com/steering-vectors/) — *seangoedecke.com RSS feed* `05-16`
-- [inaturalist-clumper 0.1](https://simonwillison.net/2026/May/15/inaturalist-clumper/#atom-everything) — *Simon Willison's Weblog* `05-15`
 <!--BLOG_RADAR:end-->
 
 ---
