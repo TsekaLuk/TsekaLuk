@@ -208,11 +208,11 @@ Last Updated: Sunday, May 17th, 2026, 2:56:17 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [The mistake of conflating intelligence and power](https://www.dwarkesh.com/p/the-mistake-of-conflating-intelligence) — *Dwarkesh Podcast* `05-16`
+- [Notes on pretraining parallelisms and failed training runs.](https://www.dwarkesh.com/p/notes-on-pretraining-parallelisms) — *Dwarkesh Podcast* `05-16`
+- [RLVR might be disproportionately bad at science](https://www.dwarkesh.com/p/rlvr-might-be-disproportionately) — *Dwarkesh Podcast* `05-16`
+- [Quoting Julia Evans](https://simonwillison.net/2026/May/16/julia-evans/#atom-everything) — *Simon Willison's Weblog* `05-16`
 - [SQLAlchemy 2 In Practice - Chapter 8: SQLAlchemy and the Web](https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-8-sqlalchemy-and-the-web) — *Miguel Grinberg's Blog* `05-16`
-- [Reading List 05/16/26](https://www.construction-physics.com/p/reading-list-051626) — *Construction Physics* `05-16`
-- [Pluralistic: Making sense of Trump's unscheduled sudden midair disassembly of the American empire (16 May 2026)](https://pluralistic.net/2026/05/16/technopoly/) — *Pluralistic: Daily links from Cory Doctorow* `05-16`
-- [Getting C code navigation even for Debian (or Ubuntu) packages](https://utcc.utoronto.ca/~cks/space/blog/linux/CCodeIntelligenceForDebs) — *Chris's Wiki :: blog* `05-16`
-- [The Talk Show: ‘A Sociopathic Father’](https://daringfireball.net/thetalkshow/2026/05/15/ep-447) — *Daring Fireball* `05-16`
 <!--BLOG_RADAR:end-->
 
 ---
