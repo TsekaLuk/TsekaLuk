@@ -4,7 +4,42 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 15 May 2026 19:47:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 03:46:38 +0000</lastBuildDate>
+    <item>
+      <title>Getting C code navigation even for Debian (or Ubuntu) packages</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/CCodeIntelligenceForDebs</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/CCodeIntelligenceForDebs</guid>
+      <pubDate>Sat, 16 May 2026 02:00:52 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>The Talk Show: ‘A Sociopathic Father’</title>
+      <link>https://daringfireball.net/thetalkshow/2026/05/15/ep-447</link>
+      <guid isPermaLink="true">https://daringfireball.net/thetalkshow/2026/05/15/ep-447</guid>
+      <pubDate>Sat, 16 May 2026 01:38:00 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Greg Brockman Officially Takes Control of Products at OpenAI, a Very Stable Well-Run Company</title>
+      <link>https://www.wired.com/story/openai-reorg-greg-brockman-product/</link>
+      <guid isPermaLink="true">https://www.wired.com/story/openai-reorg-greg-brockman-product/</guid>
+      <pubDate>Sat, 16 May 2026 01:37:57 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>inaturalist-clumper 0.1</title>
+      <link>https://simonwillison.net/2026/May/15/inaturalist-clumper/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/15/inaturalist-clumper/#atom-everything</guid>
+      <pubDate>Fri, 15 May 2026 23:53:11 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Wanton Destruction of CBS Property</title>
+      <link>https://www.youtube.com/watch?v=eBKWKu2Rqxc</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=eBKWKu2Rqxc</guid>
+      <pubDate>Fri, 15 May 2026 20:12:09 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Dropover, a Mac Shelf Utility That Makes Clever Use of Mouse Shaking</title>
       <link>https://dropoverapp.com/</link>
@@ -32,6 +67,13 @@
       <guid isPermaLink="true">https://www.dwarkesh.com/p/eric-jang</guid>
       <pubDate>Fri, 15 May 2026 16:04:58 +0000</pubDate>
       <description>Dwarkesh Podcast</description>
+    </item>
+    <item>
+      <title>Western Gull, Rock Pigeon</title>
+      <link>https://simonwillison.net/2026/May/15/sighting-361818285/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/15/sighting-361818285/#atom-everything</guid>
+      <pubDate>Fri, 15 May 2026 14:42:00 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
     <item>
       <title>The case of the Create­File­Mapping that always reported ERROR_ALREADY_EXISTS</title>
@@ -90,6 +132,13 @@
       <description>Daring Fireball</description>
     </item>
     <item>
+      <title>datasette-llm-limits 0.1a0</title>
+      <link>https://simonwillison.net/2026/May/15/datasette-llm-limits/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/15/datasette-llm-limits/#atom-everything</guid>
+      <pubDate>Fri, 15 May 2026 00:42:09 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
       <title>I've finally ported &lt;a href="https://utcc.utoronto.ca/~cks/space/dwiki/DWiki"&gt;DWiki&lt;/a&gt; from Python 2 to Python 3</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/python/DWikiPython3Now</link>
       <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/python/DWikiPython3Now</guid>
@@ -102,6 +151,13 @@
       <guid isPermaLink="true">https://www.euronews.com/next/2026/05/12/margrethe-vestager-backs-new-ai-safety-institute-for-children-after-decade-regulating-big-</guid>
       <pubDate>Fri, 15 May 2026 00:03:13 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Search engine results are truly terrible</title>
+      <link>https://maurycyz.com/misc/search/</link>
+      <guid isPermaLink="true">https://maurycyz.com/misc/search/</guid>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
     </item>
     <item>
       <title>Aided by Mythos Preview, Researchers Announce MacOS Kernel Exploit Circumventing M5 Memory Integrity Enforcement</title>
@@ -377,18 +433,18 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>What’s with all the slide decks?</title>
-      <link>https://dynomight.net/slides/</link>
-      <guid isPermaLink="true">https://dynomight.net/slides/</guid>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
-    </item>
-    <item>
       <title>Open Link in Unloaded Tab, a little Firefox extension</title>
       <link>https://evanhahn.com/open-link-in-unloaded-tab-for-firefox/</link>
       <guid isPermaLink="true">https://evanhahn.com/open-link-in-unloaded-tab-for-firefox/</guid>
       <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
       <description>Evan Hahn (dot com)</description>
+    </item>
+    <item>
+      <title>What’s with all the slide decks?</title>
+      <link>https://dynomight.net/slides/</link>
+      <guid isPermaLink="true">https://dynomight.net/slides/</guid>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>Ideal failures</title>
@@ -489,18 +545,18 @@
       <description>Ed Zitron's Where's Your Ed At</description>
     </item>
     <item>
-      <title>Bambu Lab is abusing the open source social contract</title>
-      <link>https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/</guid>
-      <pubDate>Tue, 12 May 2026 14:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
       <title>Why do Windows client editions on 32-bit x86 systems artificially limit RAM to 4 GB?</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260512-00/?p=112316</link>
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260512-00/?p=112316</guid>
       <pubDate>Tue, 12 May 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>Bambu Lab is abusing the open source social contract</title>
+      <link>https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/</guid>
+      <pubDate>Tue, 12 May 2026 14:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
     </item>
     <item>
       <title>Shame them, shun them, ban them, beat them!</title>
@@ -788,62 +844,6 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/10/reverse-mersenne-twister/</guid>
       <pubDate>Sun, 10 May 2026 17:32:02 +0000</pubDate>
       <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Quoting Andrew Quinn</title>
-      <link>https://simonwillison.net/2026/May/10/andrew-quinn/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/10/andrew-quinn/#atom-everything</guid>
-      <pubDate>Sun, 10 May 2026 14:59:17 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>WorkOS</title>
-      <link>https://workos.com/?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026</link>
-      <guid isPermaLink="true">https://workos.com/?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026</guid>
-      <pubDate>Sun, 10 May 2026 14:05:00 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Meta to Start Capturing Employee Mouse Movements, Keystrokes for AI Training Data</title>
-      <link>https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/</link>
-      <guid isPermaLink="true">https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/</guid>
-      <pubDate>Sun, 10 May 2026 14:04:19 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>[RSS Club] A Sneak Preview of Upcoming Posts</title>
-      <link>https://shkspr.mobi/blog/2026/05/rss-club-a-sneak-preview-of-upcoming-posts/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/rss-club-a-sneak-preview-of-upcoming-posts/</guid>
-      <pubDate>Sun, 10 May 2026 11:34:38 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Madame Semver Will See You Now</title>
-      <link>https://nesbitt.io/2026/05/10/madame-semver-will-see-you-now.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/05/10/madame-semver-will-see-you-now.html</guid>
-      <pubDate>Sun, 10 May 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>The left-wing case for AI</title>
-      <link>https://seangoedecke.com/the-left-wing-case-for-ai/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/the-left-wing-case-for-ai/</guid>
-      <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>Using a Python 3 LSP server with Python 2 code works (more or less)</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/python/Python2WithPython3LSP</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/python/Python2WithPython3LSP</guid>
-      <pubDate>Sat, 09 May 2026 21:57:35 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>Pluralistic: Trump's fruitless search for a goreable ox (09 May 2026)</title>
-      <link>https://pluralistic.net/2026/05/09/cossie-livvie-crissie/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/05/09/cossie-livvie-crissie/</guid>
-      <pubDate>Sat, 09 May 2026 12:51:02 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
     </item>
   </channel>
 </rss>

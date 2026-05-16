@@ -208,11 +208,11 @@ Last Updated: Saturday, May 16th, 2026, 10:29:13 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Dropover, a Mac Shelf Utility That Makes Clever Use of Mouse Shaking](https://dropoverapp.com/) — *Daring Fireball* `05-15`
-- [Aluminium OS: Google’s ‘Android for PC’ OS for Googlebooks](https://aluminium-os.com/) — *Daring Fireball* `05-15`
-- [Premium: What If...We're In An AI Bubble? (Part 1)](https://www.wheresyoured.at/premium-what-if-were-in-an-ai-bubble-part-1/) — *Ed Zitron's Where's Your Ed At* `05-15`
-- [Eric Jang – Building AlphaGo from scratch](https://www.dwarkesh.com/p/eric-jang) — *Dwarkesh Podcast* `05-15`
-- [The case of the Create­File­Mapping that always reported ERROR_ALREADY_EXISTS](https://devblogs.microsoft.com/oldnewthing/20260515-00/?p=112327) — *The Old New Thing* `05-15`
+- [Getting C code navigation even for Debian (or Ubuntu) packages](https://utcc.utoronto.ca/~cks/space/blog/linux/CCodeIntelligenceForDebs) — *Chris's Wiki :: blog* `05-16`
+- [The Talk Show: ‘A Sociopathic Father’](https://daringfireball.net/thetalkshow/2026/05/15/ep-447) — *Daring Fireball* `05-16`
+- [Greg Brockman Officially Takes Control of Products at OpenAI, a Very Stable Well-Run Company](https://www.wired.com/story/openai-reorg-greg-brockman-product/) — *Daring Fireball* `05-16`
+- [inaturalist-clumper 0.1](https://simonwillison.net/2026/May/15/inaturalist-clumper/#atom-everything) — *Simon Willison's Weblog* `05-15`
+- [Wanton Destruction of CBS Property](https://www.youtube.com/watch?v=eBKWKu2Rqxc) — *Daring Fireball* `05-15`
 <!--BLOG_RADAR:end-->
 
 ---
