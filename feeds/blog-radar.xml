@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 17 May 2026 13:47:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 19:18:38 +0000</lastBuildDate>
+    <item>
+      <title>Drata</title>
+      <link>https://drata.com/daring</link>
+      <guid isPermaLink="true">https://drata.com/daring</guid>
+      <pubDate>Sun, 17 May 2026 17:59:15 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>GDS weighs in on the NHS's decision to retreat from Open Source</title>
+      <link>https://simonwillison.net/2026/May/17/gds-weighs-in/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/17/gds-weighs-in/#atom-everything</guid>
+      <pubDate>Sun, 17 May 2026 15:59:41 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>In the Empire's Defense</title>
       <link>https://idiallo.com/blog/the-empire-won?src=feed</link>
@@ -503,7 +517,7 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>Software Engineers are Obsolete</title>
+      <title>Software engineers are obsolete... for now</title>
       <link>https://idiallo.com/blog/everyone-is-better-than-you?src=feed</link>
       <guid isPermaLink="true">https://idiallo.com/blog/everyone-is-better-than-you?src=feed</guid>
       <pubDate>Wed, 13 May 2026 22:40:00 +0000</pubDate>
@@ -580,18 +594,18 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>What’s with all the slide decks?</title>
-      <link>https://dynomight.net/slides/</link>
-      <guid isPermaLink="true">https://dynomight.net/slides/</guid>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
-    </item>
-    <item>
       <title>Open Link in Unloaded Tab, a little Firefox extension</title>
       <link>https://evanhahn.com/open-link-in-unloaded-tab-for-firefox/</link>
       <guid isPermaLink="true">https://evanhahn.com/open-link-in-unloaded-tab-for-firefox/</guid>
       <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
       <description>Evan Hahn (dot com)</description>
+    </item>
+    <item>
+      <title>What’s with all the slide decks?</title>
+      <link>https://dynomight.net/slides/</link>
+      <guid isPermaLink="true">https://dynomight.net/slides/</guid>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>Ideal failures</title>
@@ -755,13 +769,6 @@
       <description>Chris's Wiki :: blog</description>
     </item>
     <item>
-      <title>[Sponsor] Drata</title>
-      <link>https://drata.com/daring</link>
-      <guid isPermaLink="true">https://drata.com/daring</guid>
-      <pubDate>Tue, 12 May 2026 00:54:08 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
       <title>Euler function</title>
       <link>https://www.johndcook.com/blog/2026/05/11/euler-function/</link>
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/11/euler-function/</guid>
@@ -836,13 +843,6 @@
       <link>https://simonwillison.net/2026/May/11/zombie-internet/#atom-everything</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/May/11/zombie-internet/#atom-everything</guid>
       <pubDate>Mon, 11 May 2026 19:21:27 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Using LLM in the shebang line of a script</title>
-      <link>https://simonwillison.net/2026/May/11/llm-shebang/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/11/llm-shebang/#atom-everything</guid>
-      <pubDate>Mon, 11 May 2026 18:48:57 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
     </item>
   </channel>
