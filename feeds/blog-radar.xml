@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 17 May 2026 08:28:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 13:47:09 +0000</lastBuildDate>
+    <item>
+      <title>In the Empire's Defense</title>
+      <link>https://idiallo.com/blog/the-empire-won?src=feed</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/the-empire-won?src=feed</guid>
+      <pubDate>Sun, 17 May 2026 12:00:00 +0000</pubDate>
+      <description>iDiallo.com</description>
+    </item>
+    <item>
+      <title>GDS weighs in on the NHS's decision to retreat from Open Source</title>
+      <link>https://shkspr.mobi/blog/2026/05/gds-weighs-in-on-the-nhss-decision-to-retreat-from-open-source/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/gds-weighs-in-on-the-nhss-decision-to-retreat-from-open-source/</guid>
+      <pubDate>Sun, 17 May 2026 11:34:30 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
     <item>
       <title>Our servers seem to have surprisingly low power consumption</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/tech/ServersLowPowerConsumption</link>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/May/11/llm-shebang/#atom-everything</guid>
       <pubDate>Mon, 11 May 2026 18:48:57 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>The New PowerMac</title>
-      <link>https://www.kraftheinz.com/kraft-mac-and-cheese/products/00021000086856-power-mac-original-flavor-mac-cheese-macaroni-and-cheese-dinner</link>
-      <guid isPermaLink="true">https://www.kraftheinz.com/kraft-mac-and-cheese/products/00021000086856-power-mac-original-flavor-mac-cheese-macaroni-and-cheese-dinner</guid>
-      <pubDate>Mon, 11 May 2026 18:32:03 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Tahoe’s UI Issues Have Nothing to Do With Display Technology, and Maybe, Just Maybe, We Should Stop Assuming Gurman Knows Anything About Apple’s Vision Hardware Roadmap</title>
-      <link>https://www.bloomberg.com/news/newsletters/2026-05-10/apple-plans-macos-27-design-changes-latest-on-ios-27-visionos-safari-wwdc-26-mozuaz9m?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3ODQyMTgwOSwiZXhwIjoxNzc5MDI2NjA5LCJhcnRpY2xlSWQiOiJURVRRVzFLR0NURkwwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.VPDmd_jJhdzOBKvj1AUZTernGpGdF1zR9kGgFIF-9Hw&amp;leadSource=uverify%20wall</link>
-      <guid isPermaLink="true">https://www.bloomberg.com/news/newsletters/2026-05-10/apple-plans-macos-27-design-changes-latest-on-ios-27-visionos-safari-wwdc-26-mozuaz9m?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3ODQyMTgwOSwiZXhwIjoxNzc5MDI2NjA5LCJhcnRpY2xlSWQiOiJURVRRVzFLR0NURkwwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.VPDmd_jJhdzOBKvj1AUZTernGpGdF1zR9kGgFIF-9Hw&amp;leadSource=uverify%20wall</guid>
-      <pubDate>Mon, 11 May 2026 17:55:47 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
