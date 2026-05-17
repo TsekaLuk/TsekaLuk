@@ -4,7 +4,70 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 16 May 2026 19:15:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 04:04:27 +0000</lastBuildDate>
+    <item>
+      <title>Our servers seem to have surprisingly low power consumption</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/tech/ServersLowPowerConsumption</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/tech/ServersLowPowerConsumption</guid>
+      <pubDate>Sun, 17 May 2026 03:03:11 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>The Tomy Tutor and the state of 1983 home computers</title>
+      <link>https://oldvcr.blogspot.com/2026/05/the-tomy-tutor-and-state-of-1983-home.html</link>
+      <guid isPermaLink="true">https://oldvcr.blogspot.com/2026/05/the-tomy-tutor-and-state-of-1983-home.html</guid>
+      <pubDate>Sun, 17 May 2026 01:09:46 +0000</pubDate>
+      <description>Old Vintage Computing Research</description>
+    </item>
+    <item>
+      <title>How I use LLMs as a staff engineer in 2026</title>
+      <link>https://seangoedecke.com/how-i-use-llms-in-2026/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/how-i-use-llms-in-2026/</guid>
+      <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>The Applicability of Spaced Repetition</title>
+      <link>https://borretti.me/article/the-applicability-of-spaced-repetition</link>
+      <guid isPermaLink="true">https://borretti.me/article/the-applicability-of-spaced-repetition</guid>
+      <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
+      <description>Fernando Borretti</description>
+    </item>
+    <item>
+      <title>Reddit Is Blocking Some Users From Accessing Its Website From Mobile Devices</title>
+      <link>https://arstechnica.com/information-technology/2026/05/why-reddit-blocked-my-daily-visit-to-its-mobile-website/</link>
+      <guid isPermaLink="true">https://arstechnica.com/information-technology/2026/05/why-reddit-blocked-my-daily-visit-to-its-mobile-website/</guid>
+      <pubDate>Sat, 16 May 2026 21:22:38 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Santa Clara County Sues Meta Over Alleged Scam Ads</title>
+      <link>https://sanjosespotlight.com/santa-clara-county-sues-meta-over-alleged-scam-ads/</link>
+      <guid isPermaLink="true">https://sanjosespotlight.com/santa-clara-county-sues-meta-over-alleged-scam-ads/</guid>
+      <pubDate>Sat, 16 May 2026 21:17:15 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>★ AI Is Technology, Not a Product</title>
+      <link>https://daringfireball.net/2026/05/ai_is_technology_not_a_product</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/05/ai_is_technology_not_a_product</guid>
+      <pubDate>Sat, 16 May 2026 20:32:51 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Warelay -&gt; OpenClaw</title>
+      <link>https://simonwillison.net/2026/May/16/openclaw-names/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/16/openclaw-names/#atom-everything</guid>
+      <pubDate>Sat, 16 May 2026 20:23:30 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>ArXiv to Ban Researchers for a Year if They Submit AI Slop</title>
+      <link>https://www.404media.co/new-arxiv-rules-ai-generated-papers-ban/</link>
+      <guid isPermaLink="true">https://www.404media.co/new-arxiv-rules-ai-generated-papers-ban/</guid>
+      <pubDate>Sat, 16 May 2026 19:27:34 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>The mistake of conflating intelligence and power</title>
       <link>https://www.dwarkesh.com/p/the-mistake-of-conflating-intelligence</link>
@@ -81,6 +144,13 @@
       <guid isPermaLink="true">https://seangoedecke.com/steering-vectors/</guid>
       <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Make ZIP files smaller with ZIP Shrinker</title>
+      <link>https://evanhahn.com/make-zip-files-smaller-with-zip-shrinker/</link>
+      <guid isPermaLink="true">https://evanhahn.com/make-zip-files-smaller-with-zip-shrinker/</guid>
+      <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
+      <description>Evan Hahn (dot com)</description>
     </item>
     <item>
       <title>Five Minutes of Prime Time</title>
@@ -384,18 +454,18 @@
       <description>Xe Iaso's blog</description>
     </item>
     <item>
-      <title>Catch Flakes On Main</title>
-      <link>https://matklad.github.io/2026/05/14/catch-flakes-on-main.html</link>
-      <guid isPermaLink="true">https://matklad.github.io/2026/05/14/catch-flakes-on-main.html</guid>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-      <description>matklad</description>
-    </item>
-    <item>
       <title>Building a clock from salvaged Vacuum Fluorescent Displays</title>
       <link>https://maurycyz.com/projects/tubeclock/</link>
       <guid isPermaLink="true">https://maurycyz.com/projects/tubeclock/</guid>
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
       <description>Maurycy's Blog</description>
+    </item>
+    <item>
+      <title>Catch Flakes On Main</title>
+      <link>https://matklad.github.io/2026/05/14/catch-flakes-on-main.html</link>
+      <guid isPermaLink="true">https://matklad.github.io/2026/05/14/catch-flakes-on-main.html</guid>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <description>matklad</description>
     </item>
     <item>
       <title>Commenting Guidelines</title>
@@ -489,18 +559,18 @@
       <description>Chris's Wiki :: blog</description>
     </item>
     <item>
-      <title>AI datacenters in space do not have a cooling problem</title>
-      <link>https://seangoedecke.com/space-ai-datacenters-do-not-have-a-cooling-problem/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/space-ai-datacenters-do-not-have-a-cooling-problem/</guid>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
       <title>What’s with all the slide decks?</title>
       <link>https://dynomight.net/slides/</link>
       <guid isPermaLink="true">https://dynomight.net/slides/</guid>
       <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
       <description>DYNOMIGHT</description>
+    </item>
+    <item>
+      <title>AI datacenters in space do not have a cooling problem</title>
+      <link>https://seangoedecke.com/space-ai-datacenters-do-not-have-a-cooling-problem/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/space-ai-datacenters-do-not-have-a-cooling-problem/</guid>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>Open Link in Unloaded Tab, a little Firefox extension</title>
@@ -608,18 +678,18 @@
       <description>Ed Zitron's Where's Your Ed At</description>
     </item>
     <item>
-      <title>Why do Windows client editions on 32-bit x86 systems artificially limit RAM to 4 GB?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260512-00/?p=112316</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260512-00/?p=112316</guid>
-      <pubDate>Tue, 12 May 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
       <title>Bambu Lab is abusing the open source social contract</title>
       <link>https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/</link>
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/</guid>
       <pubDate>Tue, 12 May 2026 14:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>Why do Windows client editions on 32-bit x86 systems artificially limit RAM to 4 GB?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260512-00/?p=112316</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260512-00/?p=112316</guid>
+      <pubDate>Tue, 12 May 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Shame them, shun them, ban them, beat them!</title>
@@ -774,76 +844,6 @@
       <guid isPermaLink="true">https://www.bloomberg.com/news/newsletters/2026-05-10/apple-plans-macos-27-design-changes-latest-on-ios-27-visionos-safari-wwdc-26-mozuaz9m?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3ODQyMTgwOSwiZXhwIjoxNzc5MDI2NjA5LCJhcnRpY2xlSWQiOiJURVRRVzFLR0NURkwwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.VPDmd_jJhdzOBKvj1AUZTernGpGdF1zR9kGgFIF-9Hw&amp;leadSource=uverify%20wall</guid>
       <pubDate>Mon, 11 May 2026 17:55:47 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Learning on the Shop floor</title>
-      <link>https://simonwillison.net/2026/May/11/learning-on-the-shop-floor/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/11/learning-on-the-shop-floor/#atom-everything</guid>
-      <pubDate>Mon, 11 May 2026 15:46:36 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Inverse shift</title>
-      <link>https://www.johndcook.com/blog/2026/05/11/inverse-shift/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/11/inverse-shift/</guid>
-      <pubDate>Mon, 11 May 2026 15:30:30 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Additional notes on controlling which handles are inherited by Create­Process</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260511-00/?p=112313</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260511-00/?p=112313</guid>
-      <pubDate>Mon, 11 May 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Probability that a random binary matrix is invertible</title>
-      <link>https://www.johndcook.com/blog/2026/05/11/random-binary-matrices/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/11/random-binary-matrices/</guid>
-      <pubDate>Mon, 11 May 2026 13:25:13 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>We Are Not Going to Agree on AI</title>
-      <link>https://idiallo.com/blog/we-are-not-going-to-agree-on-ai?src=feed</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/we-are-not-going-to-agree-on-ai?src=feed</guid>
-      <pubDate>Mon, 11 May 2026 12:00:00 +0000</pubDate>
-      <description>iDiallo.com</description>
-    </item>
-    <item>
-      <title>Find blog posts with missing featured images - and missing alt text - without a plugin</title>
-      <link>https://shkspr.mobi/blog/2026/05/find-blog-posts-with-missing-featured-images-and-missing-alt-text-without-a-plugin/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/find-blog-posts-with-missing-featured-images-and-missing-alt-text-without-a-plugin/</guid>
-      <pubDate>Mon, 11 May 2026 11:34:39 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>proxy</title>
-      <link>https://nesbitt.io/2026/05/11/proxy.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/05/11/proxy.html</guid>
-      <pubDate>Mon, 11 May 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Pluralistic: 2024 (apart from the obvious) (11 May 2026)</title>
-      <link>https://pluralistic.net/2026/05/11/postmortem/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/05/11/postmortem/</guid>
-      <pubDate>Mon, 11 May 2026 09:43:59 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Fear is information.</title>
-      <link>https://www.joanwestenberg.com/fear-is-information/</link>
-      <guid isPermaLink="true">https://www.joanwestenberg.com/fear-is-information/</guid>
-      <pubDate>Mon, 11 May 2026 03:52:45 +0000</pubDate>
-      <description>Westenberg.</description>
-    </item>
-    <item>
-      <title>Moving from lsp-mode in GNU Emacs to Eglot</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsLspModeToEglot</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsLspModeToEglot</guid>
-      <pubDate>Mon, 11 May 2026 03:15:43 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
     </item>
   </channel>
 </rss>

@@ -208,11 +208,11 @@ Last Updated: Sunday, May 17th, 2026, 10:36:41 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [The mistake of conflating intelligence and power](https://www.dwarkesh.com/p/the-mistake-of-conflating-intelligence) — *Dwarkesh Podcast* `05-16`
-- [Notes on pretraining parallelisms and failed training runs.](https://www.dwarkesh.com/p/notes-on-pretraining-parallelisms) — *Dwarkesh Podcast* `05-16`
-- [RLVR might be disproportionately bad at science](https://www.dwarkesh.com/p/rlvr-might-be-disproportionately) — *Dwarkesh Podcast* `05-16`
-- [Quoting Julia Evans](https://simonwillison.net/2026/May/16/julia-evans/#atom-everything) — *Simon Willison's Weblog* `05-16`
-- [SQLAlchemy 2 In Practice - Chapter 8: SQLAlchemy and the Web](https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-8-sqlalchemy-and-the-web) — *Miguel Grinberg's Blog* `05-16`
+- [Our servers seem to have surprisingly low power consumption](https://utcc.utoronto.ca/~cks/space/blog/tech/ServersLowPowerConsumption) — *Chris's Wiki :: blog* `05-17`
+- [The Tomy Tutor and the state of 1983 home computers](https://oldvcr.blogspot.com/2026/05/the-tomy-tutor-and-state-of-1983-home.html) — *Old Vintage Computing Research* `05-17`
+- [How I use LLMs as a staff engineer in 2026](https://seangoedecke.com/how-i-use-llms-in-2026/) — *seangoedecke.com RSS feed* `05-17`
+- [The Applicability of Spaced Repetition](https://borretti.me/article/the-applicability-of-spaced-repetition) — *Fernando Borretti* `05-17`
+- [Reddit Is Blocking Some Users From Accessing Its Website From Mobile Devices](https://arstechnica.com/information-technology/2026/05/why-reddit-blocked-my-daily-visit-to-its-mobile-website/) — *Daring Fireball* `05-16`
 <!--BLOG_RADAR:end-->
 
 ---
