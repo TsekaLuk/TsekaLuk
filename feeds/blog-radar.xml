@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 17 May 2026 04:04:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 08:28:51 +0000</lastBuildDate>
     <item>
       <title>Our servers seem to have surprisingly low power consumption</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/tech/ServersLowPowerConsumption</link>
@@ -454,18 +454,18 @@
       <description>Xe Iaso's blog</description>
     </item>
     <item>
-      <title>Building a clock from salvaged Vacuum Fluorescent Displays</title>
-      <link>https://maurycyz.com/projects/tubeclock/</link>
-      <guid isPermaLink="true">https://maurycyz.com/projects/tubeclock/</guid>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
-    </item>
-    <item>
       <title>Catch Flakes On Main</title>
       <link>https://matklad.github.io/2026/05/14/catch-flakes-on-main.html</link>
       <guid isPermaLink="true">https://matklad.github.io/2026/05/14/catch-flakes-on-main.html</guid>
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
       <description>matklad</description>
+    </item>
+    <item>
+      <title>Building a clock from salvaged Vacuum Fluorescent Displays</title>
+      <link>https://maurycyz.com/projects/tubeclock/</link>
+      <guid isPermaLink="true">https://maurycyz.com/projects/tubeclock/</guid>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
     </item>
     <item>
       <title>Commenting Guidelines</title>
@@ -559,18 +559,18 @@
       <description>Chris's Wiki :: blog</description>
     </item>
     <item>
-      <title>What’s with all the slide decks?</title>
-      <link>https://dynomight.net/slides/</link>
-      <guid isPermaLink="true">https://dynomight.net/slides/</guid>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
-    </item>
-    <item>
       <title>AI datacenters in space do not have a cooling problem</title>
       <link>https://seangoedecke.com/space-ai-datacenters-do-not-have-a-cooling-problem/</link>
       <guid isPermaLink="true">https://seangoedecke.com/space-ai-datacenters-do-not-have-a-cooling-problem/</guid>
       <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>What’s with all the slide decks?</title>
+      <link>https://dynomight.net/slides/</link>
+      <guid isPermaLink="true">https://dynomight.net/slides/</guid>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>Open Link in Unloaded Tab, a little Firefox extension</title>
