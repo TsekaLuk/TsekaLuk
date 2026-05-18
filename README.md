@@ -208,11 +208,11 @@ Last Updated: Monday, May 18th, 2026, 5:51:04 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [FediMeteo, HAProxy, and the art of not wasting snac threads](https://it-notes.dragas.net/2026/05/18/fedimeteo-haproxy-and-the-art-of-not-wasting-snac-threads/) — *IT Notes* `05-18`
 - [Weekly Update 504](https://www.troyhunt.com/weekly-update-504/) — *Troy Hunt* `05-18`
 - [Unicode and Emoji in terminals, or my simple but difficult wish](https://utcc.utoronto.ca/~cks/space/blog/tech/UnicodeEmojiInTerminals) — *Chris's Wiki :: blog* `05-18`
-- [How to be inspired without copying](https://www.joanwestenberg.com/how-to-be-inspired-without-copying/) — *Westenberg.* `05-17`
-- [Drata](https://drata.com/daring) — *Daring Fireball* `05-17`
-- [GDS weighs in on the NHS's decision to retreat from Open Source](https://simonwillison.net/2026/May/17/gds-weighs-in/#atom-everything) — *Simon Willison's Weblog* `05-17`
+- [How I Use My Index 01 + Production Update](https://repebble.com/blog/how-i-use-my-index-01-production-update) — *Eric Migicovsky's Blog RSS Feed* `05-18`
+- [The just-say-no engineer was a ZIRP phenomenon](https://seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/) — *seangoedecke.com RSS feed* `05-18`
 <!--BLOG_RADAR:end-->
 
 ---
