@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 17 May 2026 19:18:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 04:17:17 +0000</lastBuildDate>
+    <item>
+      <title>Weekly Update 504</title>
+      <link>https://www.troyhunt.com/weekly-update-504/</link>
+      <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-504/</guid>
+      <pubDate>Mon, 18 May 2026 03:46:55 +0000</pubDate>
+      <description>Troy Hunt</description>
+    </item>
+    <item>
+      <title>Unicode and Emoji in terminals, or my simple but difficult wish</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/tech/UnicodeEmojiInTerminals</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/tech/UnicodeEmojiInTerminals</guid>
+      <pubDate>Mon, 18 May 2026 02:26:40 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>How to be inspired without copying</title>
+      <link>https://www.joanwestenberg.com/how-to-be-inspired-without-copying/</link>
+      <guid isPermaLink="true">https://www.joanwestenberg.com/how-to-be-inspired-without-copying/</guid>
+      <pubDate>Sun, 17 May 2026 22:33:32 +0000</pubDate>
+      <description>Westenberg.</description>
+    </item>
     <item>
       <title>Drata</title>
       <link>https://drata.com/daring</link>
@@ -587,6 +608,13 @@
       <description>Chris's Wiki :: blog</description>
     </item>
     <item>
+      <title>What’s with all the slide decks?</title>
+      <link>https://dynomight.net/slides/</link>
+      <guid isPermaLink="true">https://dynomight.net/slides/</guid>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
+    </item>
+    <item>
       <title>AI datacenters in space do not have a cooling problem</title>
       <link>https://seangoedecke.com/space-ai-datacenters-do-not-have-a-cooling-problem/</link>
       <guid isPermaLink="true">https://seangoedecke.com/space-ai-datacenters-do-not-have-a-cooling-problem/</guid>
@@ -599,13 +627,6 @@
       <guid isPermaLink="true">https://evanhahn.com/open-link-in-unloaded-tab-for-firefox/</guid>
       <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
       <description>Evan Hahn (dot com)</description>
-    </item>
-    <item>
-      <title>What’s with all the slide decks?</title>
-      <link>https://dynomight.net/slides/</link>
-      <guid isPermaLink="true">https://dynomight.net/slides/</guid>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>Ideal failures</title>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://entropicthoughts.com/regatta-starting-stations</guid>
       <pubDate>Mon, 11 May 2026 22:00:00 +0000</pubDate>
       <description>Entropic Thoughts</description>
-    </item>
-    <item>
-      <title>iPhone Models Ranked 1st, 2nd, 3rd, and 6th in Counterpoint’s List of 10 Bestselling Phones Worldwide in Q1 2026</title>
-      <link>https://appleworld.today/2026/05/apples-iphone-17-was-the-worlds-best-selling-smartphone-in-quarter-one-of-2026/</link>
-      <guid isPermaLink="true">https://appleworld.today/2026/05/apples-iphone-17-was-the-worlds-best-selling-smartphone-in-quarter-one-of-2026/</guid>
-      <pubDate>Mon, 11 May 2026 20:48:05 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Quoting James Shore</title>
-      <link>https://simonwillison.net/2026/May/11/james-shore/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/11/james-shore/#atom-everything</guid>
-      <pubDate>Mon, 11 May 2026 19:48:32 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Your AI Use Is Breaking My Brain</title>
-      <link>https://simonwillison.net/2026/May/11/zombie-internet/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/11/zombie-internet/#atom-everything</guid>
-      <pubDate>Mon, 11 May 2026 19:21:27 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>

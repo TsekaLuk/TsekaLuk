@@ -208,11 +208,11 @@ Last Updated: Monday, May 18th, 2026, 10:47:01 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Weekly Update 504](https://www.troyhunt.com/weekly-update-504/) — *Troy Hunt* `05-18`
+- [Unicode and Emoji in terminals, or my simple but difficult wish](https://utcc.utoronto.ca/~cks/space/blog/tech/UnicodeEmojiInTerminals) — *Chris's Wiki :: blog* `05-18`
+- [How to be inspired without copying](https://www.joanwestenberg.com/how-to-be-inspired-without-copying/) — *Westenberg.* `05-17`
 - [Drata](https://drata.com/daring) — *Daring Fireball* `05-17`
 - [GDS weighs in on the NHS's decision to retreat from Open Source](https://simonwillison.net/2026/May/17/gds-weighs-in/#atom-everything) — *Simon Willison's Weblog* `05-17`
-- [In the Empire's Defense](https://idiallo.com/blog/the-empire-won?src=feed) — *iDiallo.com* `05-17`
-- [GDS weighs in on the NHS's decision to retreat from Open Source](https://shkspr.mobi/blog/2026/05/gds-weighs-in-on-the-nhss-decision-to-retreat-from-open-source/) — *Terence Eden’s Blog* `05-17`
-- [Our servers seem to have surprisingly low power consumption](https://utcc.utoronto.ca/~cks/space/blog/tech/ServersLowPowerConsumption) — *Chris's Wiki :: blog* `05-17`
 <!--BLOG_RADAR:end-->
 
 ---
