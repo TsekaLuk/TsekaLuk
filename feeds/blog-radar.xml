@@ -4,13 +4,62 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 18 May 2026 15:48:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 19:53:45 +0000</lastBuildDate>
+    <item>
+      <title>10Gb/s Ethernet: using mini-heatsinks with a 10GBASE-T SFP+ module</title>
+      <link>https://www.gilesthomas.com/2026/05/10g-ethernet-sfpplus-mini-heatsinks</link>
+      <guid isPermaLink="true">https://www.gilesthomas.com/2026/05/10g-ethernet-sfpplus-mini-heatsinks</guid>
+      <pubDate>Mon, 18 May 2026 19:15:00 +0000</pubDate>
+      <description>Giles' blog</description>
+    </item>
     <item>
       <title>Something’s Rotten in the State of macOS Icon Design</title>
       <link>https://blog.jim-nielsen.com/2026/rotten-macos-icon-design/</link>
       <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/rotten-macos-icon-design/</guid>
       <pubDate>Mon, 18 May 2026 19:00:00 +0000</pubDate>
       <description>Jim Nielsen’s Blog</description>
+    </item>
+    <item>
+      <title>Jury Rejects Elon Musk’s Claim Against Sam Altman in Unanimous Verdict</title>
+      <link>https://www.nytimes.com/live/2026/05/18/technology/openai-trial-verdict-altman-musk?unlocked_article_code=1.jVA.Cc2V.IwYuu2r4SJfQ</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/05/18/technology/openai-trial-verdict-altman-musk?unlocked_article_code=1.jVA.Cc2V.IwYuu2r4SJfQ</guid>
+      <pubDate>Mon, 18 May 2026 17:53:33 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>‘John Appleseed’</title>
+      <link>https://om.co/2026/04/20/john-appleseed/</link>
+      <guid isPermaLink="true">https://om.co/2026/04/20/john-appleseed/</guid>
+      <pubDate>Mon, 18 May 2026 17:34:46 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Define ‘Boom’ Please</title>
+      <link>https://www.nytimes.com/2026/04/21/business/how-apple-became-a-4-trillion-company-under-tim-cook.html?unlocked_article_code=1.jVA.MV8m.0JfUOJOME5WH</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/04/21/business/how-apple-became-a-4-trillion-company-under-tim-cook.html?unlocked_article_code=1.jVA.MV8m.0JfUOJOME5WH</guid>
+      <pubDate>Mon, 18 May 2026 17:17:02 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Ted Turner’s Small Apartment Above the Former CNN Center</title>
+      <link>https://www.youtube.com/watch?v=OUIVs58oyPI</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=OUIVs58oyPI</guid>
+      <pubDate>Mon, 18 May 2026 16:52:03 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Existing Stakeholders Have a Say in the Future</title>
+      <link>https://daringfireball.net/2026/05/ai_is_technology_not_a_product</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/05/ai_is_technology_not_a_product</guid>
+      <pubDate>Mon, 18 May 2026 16:47:08 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>‘AI, “Humanity”, and Dr. Manhattan Syndrome’</title>
+      <link>https://www.personfamiliar.com/p/ai-humanity-and-dr-manhattan-syndrome</link>
+      <guid isPermaLink="true">https://www.personfamiliar.com/p/ai-humanity-and-dr-manhattan-syndrome</guid>
+      <pubDate>Mon, 18 May 2026 16:21:35 +0000</pubDate>
+      <description>Daring Fireball</description>
     </item>
     <item>
       <title>The Alaska Permanent Fund as Loose Precedent for AI Data Center ‘UBI’ Payments</title>
@@ -25,6 +74,13 @@
       <guid isPermaLink="true">https://news.gallup.com/poll/709772/americans-oppose-data-centers-area.aspx</guid>
       <pubDate>Mon, 18 May 2026 14:59:59 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Glaucous-winged Gull, Brown Pelican, Snowy Egret, Canada Goose</title>
+      <link>https://simonwillison.net/2026/May/18/sighting-362781627/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/18/sighting-362781627/#atom-everything</guid>
+      <pubDate>Mon, 18 May 2026 14:51:00 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
     <item>
       <title>Don't call yourself a Software Engineer, you are an AI Enabled Engineer.</title>
@@ -160,13 +216,6 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>★ AI Is Technology, Not a Product</title>
-      <link>https://daringfireball.net/2026/05/ai_is_technology_not_a_product</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/05/ai_is_technology_not_a_product</guid>
-      <pubDate>Sat, 16 May 2026 20:32:51 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
       <title>Warelay -&gt; OpenClaw</title>
       <link>https://simonwillison.net/2026/May/16/openclaw-names/#atom-everything</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/May/16/openclaw-names/#atom-everything</guid>
@@ -258,18 +307,18 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>Five Minutes of Prime Time</title>
-      <link>https://susam.net/five-minutes-of-prime-time.html</link>
-      <guid isPermaLink="true">https://susam.net/five-minutes-of-prime-time.html</guid>
-      <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
-      <description>Susam Pal</description>
-    </item>
-    <item>
       <title>Make ZIP files smaller with ZIP Shrinker</title>
       <link>https://evanhahn.com/make-zip-files-smaller-with-zip-shrinker/</link>
       <guid isPermaLink="true">https://evanhahn.com/make-zip-files-smaller-with-zip-shrinker/</guid>
       <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
       <description>Evan Hahn (dot com)</description>
+    </item>
+    <item>
+      <title>Five Minutes of Prime Time</title>
+      <link>https://susam.net/five-minutes-of-prime-time.html</link>
+      <guid isPermaLink="true">https://susam.net/five-minutes-of-prime-time.html</guid>
+      <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
+      <description>Susam Pal</description>
     </item>
     <item>
       <title>inaturalist-clumper 0.1</title>
@@ -671,18 +720,18 @@
       <description>Chris's Wiki :: blog</description>
     </item>
     <item>
-      <title>What’s with all the slide decks?</title>
-      <link>https://dynomight.net/slides/</link>
-      <guid isPermaLink="true">https://dynomight.net/slides/</guid>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
-    </item>
-    <item>
       <title>AI datacenters in space do not have a cooling problem</title>
       <link>https://seangoedecke.com/space-ai-datacenters-do-not-have-a-cooling-problem/</link>
       <guid isPermaLink="true">https://seangoedecke.com/space-ai-datacenters-do-not-have-a-cooling-problem/</guid>
       <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>What’s with all the slide decks?</title>
+      <link>https://dynomight.net/slides/</link>
+      <guid isPermaLink="true">https://dynomight.net/slides/</guid>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>Open Link in Unloaded Tab, a little Firefox extension</title>
@@ -790,60 +839,11 @@
       <description>Ed Zitron's Where's Your Ed At</description>
     </item>
     <item>
-      <title>Bambu Lab is abusing the open source social contract</title>
-      <link>https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/</guid>
-      <pubDate>Tue, 12 May 2026 14:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
       <title>Why do Windows client editions on 32-bit x86 systems artificially limit RAM to 4 GB?</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260512-00/?p=112316</link>
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260512-00/?p=112316</guid>
       <pubDate>Tue, 12 May 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Shame them, shun them, ban them, beat them!</title>
-      <link>https://www.experimental-history.com/p/shame-them-shun-them-ban-them-beat</link>
-      <guid isPermaLink="true">https://www.experimental-history.com/p/shame-them-shun-them-ban-them-beat</guid>
-      <pubDate>Tue, 12 May 2026 13:23:30 +0000</pubDate>
-      <description>Experimental History</description>
-    </item>
-    <item>
-      <title>Initialize and print 128-bit integers in C</title>
-      <link>https://www.johndcook.com/blog/2026/05/12/c-128-bit-int/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/12/c-128-bit-int/</guid>
-      <pubDate>Tue, 12 May 2026 12:20:20 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Hacking the lehmer64 RNG</title>
-      <link>https://www.johndcook.com/blog/2026/05/12/hacking-the-lehmer64-rng/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/12/hacking-the-lehmer64-rng/</guid>
-      <pubDate>Tue, 12 May 2026 11:07:31 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Position or Perish: The Narrative Blueprint</title>
-      <link>https://www.joanwestenberg.com/position-or-perish-the-narrative-blueprint/</link>
-      <guid isPermaLink="true">https://www.joanwestenberg.com/position-or-perish-the-narrative-blueprint/</guid>
-      <pubDate>Tue, 12 May 2026 10:15:17 +0000</pubDate>
-      <description>Westenberg.</description>
-    </item>
-    <item>
-      <title>Not a Security Issue</title>
-      <link>https://nesbitt.io/2026/05/12/not-a-security-issue.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/05/12/not-a-security-issue.html</guid>
-      <pubDate>Tue, 12 May 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Pluralistic: A fascist paradigm (12 May 2026)</title>
-      <link>https://pluralistic.net/2026/05/12/donella-meadows/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/05/12/donella-meadows/</guid>
-      <pubDate>Tue, 12 May 2026 07:22:17 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
     </item>
   </channel>
 </rss>
