@@ -208,11 +208,11 @@ Last Updated: Monday, May 18th, 2026, 11:16:52 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Something’s Rotten in the State of macOS Icon Design](https://blog.jim-nielsen.com/2026/rotten-macos-icon-design/) — *Jim Nielsen’s Blog* `05-18`
+- [The Alaska Permanent Fund as Loose Precedent for AI Data Center ‘UBI’ Payments](https://en.wikipedia.org/wiki/Alaska_Permanent_Fund) — *Daring Fireball* `05-18`
+- [AI Data Centers Are Deeply Unpopular, Across the Political Spectrum](https://news.gallup.com/poll/709772/americans-oppose-data-centers-area.aspx) — *Daring Fireball* `05-18`
+- [Don't call yourself a Software Engineer, you are an AI Enabled Engineer.](https://idiallo.com/blog/you-are-an-ai-enabled-engineer-now?src=feed) — *iDiallo.com* `05-18`
 - [FediMeteo, HAProxy, and the art of not wasting snac threads](https://it-notes.dragas.net/2026/05/18/fedimeteo-haproxy-and-the-art-of-not-wasting-snac-threads/) — *IT Notes* `05-18`
-- [Weekly Update 504](https://www.troyhunt.com/weekly-update-504/) — *Troy Hunt* `05-18`
-- [Unicode and Emoji in terminals, or my simple but difficult wish](https://utcc.utoronto.ca/~cks/space/blog/tech/UnicodeEmojiInTerminals) — *Chris's Wiki :: blog* `05-18`
-- [How I Use My Index 01 + Production Update](https://repebble.com/blog/how-i-use-my-index-01-production-update) — *Eric Migicovsky's Blog RSS Feed* `05-18`
-- [The just-say-no engineer was a ZIRP phenomenon](https://seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/) — *seangoedecke.com RSS feed* `05-18`
 <!--BLOG_RADAR:end-->
 
 ---
