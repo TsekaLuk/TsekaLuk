@@ -208,11 +208,11 @@ Last Updated: Tuesday, May 19th, 2026, 10:48:12 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Wi-Wi Is Wireless Time Sync at 1 nanosecond](https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/) — *Jeff Geerling* `05-19`
+- [Approximating Markov’s equation](https://www.johndcook.com/blog/2026/05/19/zagiers-equation/) — *John D. Cook* `05-19`
+- [Book Review: Terrible Worlds: Destinations by Adrian Tchaikovsky ★★★★★](https://shkspr.mobi/blog/2026/05/book-review-terrible-worlds-destinations-by-adrian-tchaikovsky/) — *Terence Eden’s Blog* `05-19`
+- [Dumb Ways for an Open Source Project to Die](https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html) — *Andrew Nesbitt* `05-19`
 - [Alternatives for the EDIT tool of LLM agents](http://antirez.com/news/166) — *<antirez>* `05-19`
-- [Pluralistic: There's no such thing as "age verification" (19 May 2026)](https://pluralistic.net/2026/05/19/shes-dead-of-course/) — *Pluralistic: Daily links from Cory Doctorow* `05-19`
-- [[Sponsor] WorkOS: Agents Need Context. Ship the Integrations That Give It to Them.](https://workos.com/docs/pipes?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q22026) — *Daring Fireball* `05-19`
-- [The last six months in LLMs in five minutes](https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything) — *Simon Willison's Weblog* `05-19`
-- [Pythagorean Addition](https://entropicthoughts.com/pythagorean-addition) — *Entropic Thoughts* `05-18`
 <!--BLOG_RADAR:end-->
 
 ---

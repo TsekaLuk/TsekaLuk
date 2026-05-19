@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 19 May 2026 09:58:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 15:40:01 +0000</lastBuildDate>
+    <item>
+      <title>Wi-Wi Is Wireless Time Sync at 1 nanosecond</title>
+      <link>https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/</guid>
+      <pubDate>Tue, 19 May 2026 14:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>Approximating Markov’s equation</title>
+      <link>https://www.johndcook.com/blog/2026/05/19/zagiers-equation/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/19/zagiers-equation/</guid>
+      <pubDate>Tue, 19 May 2026 12:09:54 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Book Review: Terrible Worlds: Destinations by Adrian Tchaikovsky ★★★★★</title>
+      <link>https://shkspr.mobi/blog/2026/05/book-review-terrible-worlds-destinations-by-adrian-tchaikovsky/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/book-review-terrible-worlds-destinations-by-adrian-tchaikovsky/</guid>
+      <pubDate>Tue, 19 May 2026 11:34:17 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Dumb Ways for an Open Source Project to Die</title>
+      <link>https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html</guid>
+      <pubDate>Tue, 19 May 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
     <item>
       <title>Alternatives for the EDIT tool of LLM agents</title>
       <link>http://antirez.com/news/166</link>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/May/12/mo-bitar/#atom-everything</guid>
       <pubDate>Tue, 12 May 2026 22:59:58 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Quoting Mitchell Hashimoto</title>
-      <link>https://simonwillison.net/2026/May/12/mitchell-hashimoto/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/12/mitchell-hashimoto/#atom-everything</guid>
-      <pubDate>Tue, 12 May 2026 22:21:51 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Patch Tuesday, May 2026 Edition</title>
-      <link>https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/</link>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/</guid>
-      <pubDate>Tue, 12 May 2026 21:46:45 +0000</pubDate>
-      <description>Krebs on Security</description>
-    </item>
-    <item>
-      <title>Kagi Snaps</title>
-      <link>https://help.kagi.com/kagi/features/snaps.html</link>
-      <guid isPermaLink="true">https://help.kagi.com/kagi/features/snaps.html</guid>
-      <pubDate>Tue, 12 May 2026 21:06:21 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Seriously, Give Kagi a Try</title>
-      <link>https://daringfireball.net/2025/04/try_switching_to_kagi</link>
-      <guid isPermaLink="true">https://daringfireball.net/2025/04/try_switching_to_kagi</guid>
-      <pubDate>Tue, 12 May 2026 20:31:49 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
