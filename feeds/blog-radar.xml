@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 19 May 2026 15:40:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 19:59:27 +0000</lastBuildDate>
+    <item>
+      <title>AI Is Too Expensive</title>
+      <link>https://www.wheresyoured.at/ai-is-too-expensive/</link>
+      <guid isPermaLink="true">https://www.wheresyoured.at/ai-is-too-expensive/</guid>
+      <pubDate>Tue, 19 May 2026 15:48:42 +0000</pubDate>
+      <description>Ed Zitron's Where's Your Ed At</description>
+    </item>
+    <item>
+      <title>Andrej Karpathy Joined Anthropic</title>
+      <link>https://x.com/karpathy/status/2056753169888334312</link>
+      <guid isPermaLink="true">https://x.com/karpathy/status/2056753169888334312</guid>
+      <pubDate>Tue, 19 May 2026 15:42:38 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Wi-Wi Is Wireless Time Sync at 1 nanosecond</title>
       <link>https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/</link>
@@ -692,6 +706,13 @@
       <description>Chris's Wiki :: blog</description>
     </item>
     <item>
+      <title>Catch Flakes On Main</title>
+      <link>https://matklad.github.io/2026/05/14/catch-flakes-on-main.html</link>
+      <guid isPermaLink="true">https://matklad.github.io/2026/05/14/catch-flakes-on-main.html</guid>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <description>matklad</description>
+    </item>
+    <item>
       <title>Amazonbot is finally respecting robots.txt</title>
       <link>https://xeiaso.net/notes/2026/amazonbot-respecting-robots-txt/</link>
       <guid isPermaLink="true">https://xeiaso.net/notes/2026/amazonbot-respecting-robots-txt/</guid>
@@ -704,13 +725,6 @@
       <guid isPermaLink="true">https://maurycyz.com/projects/tubeclock/</guid>
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
       <description>Maurycy's Blog</description>
-    </item>
-    <item>
-      <title>Catch Flakes On Main</title>
-      <link>https://matklad.github.io/2026/05/14/catch-flakes-on-main.html</link>
-      <guid isPermaLink="true">https://matklad.github.io/2026/05/14/catch-flakes-on-main.html</guid>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-      <description>matklad</description>
     </item>
     <item>
       <title>Commenting Guidelines</title>
@@ -811,13 +825,6 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>What’s with all the slide decks?</title>
-      <link>https://dynomight.net/slides/</link>
-      <guid isPermaLink="true">https://dynomight.net/slides/</guid>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
-    </item>
-    <item>
       <title>Open Link in Unloaded Tab, a little Firefox extension</title>
       <link>https://evanhahn.com/open-link-in-unloaded-tab-for-firefox/</link>
       <guid isPermaLink="true">https://evanhahn.com/open-link-in-unloaded-tab-for-firefox/</guid>
@@ -825,25 +832,18 @@
       <description>Evan Hahn (dot com)</description>
     </item>
     <item>
+      <title>What’s with all the slide decks?</title>
+      <link>https://dynomight.net/slides/</link>
+      <guid isPermaLink="true">https://dynomight.net/slides/</guid>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
+    </item>
+    <item>
       <title>Ideal failures</title>
       <link>https://danieldelaney.net/ideal-failures/</link>
       <guid isPermaLink="true">https://danieldelaney.net/ideal-failures/</guid>
       <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
       <description>Daniel De Laney</description>
-    </item>
-    <item>
-      <title>datasette 1.0a29</title>
-      <link>https://simonwillison.net/2026/May/12/datasette/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/12/datasette/#atom-everything</guid>
-      <pubDate>Tue, 12 May 2026 23:41:06 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Quoting Mo Bitar</title>
-      <link>https://simonwillison.net/2026/May/12/mo-bitar/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/12/mo-bitar/#atom-everything</guid>
-      <pubDate>Tue, 12 May 2026 22:59:58 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>

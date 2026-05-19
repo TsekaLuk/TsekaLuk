@@ -208,11 +208,11 @@ Last Updated: Wednesday, May 20th, 2026, 3:46:23 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [AI Is Too Expensive](https://www.wheresyoured.at/ai-is-too-expensive/) — *Ed Zitron's Where's Your Ed At* `05-19`
+- [Andrej Karpathy Joined Anthropic](https://x.com/karpathy/status/2056753169888334312) — *Daring Fireball* `05-19`
 - [Wi-Wi Is Wireless Time Sync at 1 nanosecond](https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/) — *Jeff Geerling* `05-19`
 - [Approximating Markov’s equation](https://www.johndcook.com/blog/2026/05/19/zagiers-equation/) — *John D. Cook* `05-19`
 - [Book Review: Terrible Worlds: Destinations by Adrian Tchaikovsky ★★★★★](https://shkspr.mobi/blog/2026/05/book-review-terrible-worlds-destinations-by-adrian-tchaikovsky/) — *Terence Eden’s Blog* `05-19`
-- [Dumb Ways for an Open Source Project to Die](https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html) — *Andrew Nesbitt* `05-19`
-- [Alternatives for the EDIT tool of LLM agents](http://antirez.com/news/166) — *<antirez>* `05-19`
 <!--BLOG_RADAR:end-->
 
 ---
