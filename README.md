@@ -208,11 +208,11 @@ Last Updated: Tuesday, May 19th, 2026, 10:44:23 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [[Sponsor] WorkOS: Agents Need Context. Ship the Integrations That Give It to Them.](https://workos.com/docs/pipes?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q22026) — *Daring Fireball* `05-19`
+- [The last six months in LLMs in five minutes](https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything) — *Simon Willison's Weblog* `05-19`
+- [CISA Admin Leaked AWS GovCloud Keys on Github](https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/) — *Krebs on Security* `05-18`
 - [10Gb/s Ethernet: using mini-heatsinks with a 10GBASE-T SFP+ module](https://www.gilesthomas.com/2026/05/10g-ethernet-sfpplus-mini-heatsinks) — *Giles' blog* `05-18`
 - [Something’s Rotten in the State of macOS Icon Design](https://blog.jim-nielsen.com/2026/rotten-macos-icon-design/) — *Jim Nielsen’s Blog* `05-18`
-- [Jury Rejects Elon Musk’s Claim Against Sam Altman in Unanimous Verdict](https://www.nytimes.com/live/2026/05/18/technology/openai-trial-verdict-altman-musk?unlocked_article_code=1.jVA.Cc2V.IwYuu2r4SJfQ) — *Daring Fireball* `05-18`
-- [‘John Appleseed’](https://om.co/2026/04/20/john-appleseed/) — *Daring Fireball* `05-18`
-- [Define ‘Boom’ Please](https://www.nytimes.com/2026/04/21/business/how-apple-became-a-4-trillion-company-under-tim-cook.html?unlocked_article_code=1.jVA.MV8m.0JfUOJOME5WH) — *Daring Fireball* `05-18`
 <!--BLOG_RADAR:end-->
 
 ---

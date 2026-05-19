@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 18 May 2026 19:53:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 04:12:15 +0000</lastBuildDate>
+    <item>
+      <title>[Sponsor] WorkOS: Agents Need Context. Ship the Integrations That Give It to Them.</title>
+      <link>https://workos.com/docs/pipes?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026</link>
+      <guid isPermaLink="true">https://workos.com/docs/pipes?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026</guid>
+      <pubDate>Tue, 19 May 2026 01:27:00 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>The last six months in LLMs in five minutes</title>
+      <link>https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything</guid>
+      <pubDate>Tue, 19 May 2026 01:09:44 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>CISA Admin Leaked AWS GovCloud Keys on Github</title>
+      <link>https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/</link>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/</guid>
+      <pubDate>Mon, 18 May 2026 20:48:21 +0000</pubDate>
+      <description>Krebs on Security</description>
+    </item>
     <item>
       <title>10Gb/s Ethernet: using mini-heatsinks with a 10GBASE-T SFP+ module</title>
       <link>https://www.gilesthomas.com/2026/05/10g-ethernet-sfpplus-mini-heatsinks</link>
@@ -83,6 +104,13 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
+      <title>Just shows that nobody cares about debugging the parity flag any more</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260518-00/?p=112334</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260518-00/?p=112334</guid>
+      <pubDate>Mon, 18 May 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
+    <item>
       <title>Don't call yourself a Software Engineer, you are an AI Enabled Engineer.</title>
       <link>https://idiallo.com/blog/you-are-an-ai-enabled-engineer-now?src=feed</link>
       <guid isPermaLink="true">https://idiallo.com/blog/you-are-an-ai-enabled-engineer-now?src=feed</guid>
@@ -130,6 +158,13 @@
       <guid isPermaLink="true">https://matklad.github.io/2026/05/18/always-be-blaming.html</guid>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
       <description>matklad</description>
+    </item>
+    <item>
+      <title>Human Bottlenecks</title>
+      <link>https://borretti.me/article/human-bottlenecks</link>
+      <guid isPermaLink="true">https://borretti.me/article/human-bottlenecks</guid>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <description>Fernando Borretti</description>
     </item>
     <item>
       <title>Travel notes: RubyKaigi Hakodate</title>
@@ -809,41 +844,6 @@
       <guid isPermaLink="true">https://www.reuters.com/sustainability/boards-policy-regulation/eu-digital-rules-should-apply-big-techs-smart-tvs-broadcasters-tell-antitrust-2026-03-23/</guid>
       <pubDate>Tue, 12 May 2026 19:34:00 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Building Software Requires Digestion</title>
-      <link>https://blog.jim-nielsen.com/2026/software-requires-digestion/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/software-requires-digestion/</guid>
-      <pubDate>Tue, 12 May 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
-      <title>New DMA Compliance Features for EU Users in iOS 26.5 (and Perhaps the EU Has Finally Come to Their Senses on Tech Regulation)</title>
-      <link>https://www.macrumors.com/2026/05/11/ios-26-5-eu-third-party-wearable-changes/</link>
-      <guid isPermaLink="true">https://www.macrumors.com/2026/05/11/ios-26-5-eu-third-party-wearable-changes/</guid>
-      <pubDate>Tue, 12 May 2026 18:52:12 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>llm 0.32a2</title>
-      <link>https://simonwillison.net/2026/May/12/llm/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/12/llm/#atom-everything</guid>
-      <pubDate>Tue, 12 May 2026 17:45:07 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Where Are All The Data Centers?</title>
-      <link>https://www.wheresyoured.at/where-are-all-the-data-centers/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/where-are-all-the-data-centers/</guid>
-      <pubDate>Tue, 12 May 2026 16:17:30 +0000</pubDate>
-      <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>Why do Windows client editions on 32-bit x86 systems artificially limit RAM to 4 GB?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260512-00/?p=112316</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260512-00/?p=112316</guid>
-      <pubDate>Tue, 12 May 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
     </item>
   </channel>
 </rss>
