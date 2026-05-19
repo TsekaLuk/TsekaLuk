@@ -208,11 +208,11 @@ Last Updated: Tuesday, May 19th, 2026, 5:33:02 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Alternatives for the EDIT tool of LLM agents](http://antirez.com/news/166) — *<antirez>* `05-19`
+- [Pluralistic: There's no such thing as "age verification" (19 May 2026)](https://pluralistic.net/2026/05/19/shes-dead-of-course/) — *Pluralistic: Daily links from Cory Doctorow* `05-19`
 - [[Sponsor] WorkOS: Agents Need Context. Ship the Integrations That Give It to Them.](https://workos.com/docs/pipes?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q22026) — *Daring Fireball* `05-19`
 - [The last six months in LLMs in five minutes](https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything) — *Simon Willison's Weblog* `05-19`
-- [CISA Admin Leaked AWS GovCloud Keys on Github](https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/) — *Krebs on Security* `05-18`
-- [10Gb/s Ethernet: using mini-heatsinks with a 10GBASE-T SFP+ module](https://www.gilesthomas.com/2026/05/10g-ethernet-sfpplus-mini-heatsinks) — *Giles' blog* `05-18`
-- [Something’s Rotten in the State of macOS Icon Design](https://blog.jim-nielsen.com/2026/rotten-macos-icon-design/) — *Jim Nielsen’s Blog* `05-18`
+- [Pythagorean Addition](https://entropicthoughts.com/pythagorean-addition) — *Entropic Thoughts* `05-18`
 <!--BLOG_RADAR:end-->
 
 ---
