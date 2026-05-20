@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 20 May 2026 04:12:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 09:48:42 +0000</lastBuildDate>
     <item>
       <title>Notes about reading messages with the Python email packages</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/python/EmailPackagesNotes</link>
@@ -18,6 +18,13 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/19/square-root-of-x-squared-minus-one/</guid>
       <pubDate>Wed, 20 May 2026 00:49:50 +0000</pubDate>
       <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Prompts are technical debt too</title>
+      <link>https://seangoedecke.com/prompts-are-technical-debt-too/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/prompts-are-technical-debt-too/</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>llm-gemini 0.32</title>
@@ -783,6 +790,13 @@
       <description>Chris's Wiki :: blog</description>
     </item>
     <item>
+      <title>Amazonbot is finally respecting robots.txt</title>
+      <link>https://xeiaso.net/notes/2026/amazonbot-respecting-robots-txt/</link>
+      <guid isPermaLink="true">https://xeiaso.net/notes/2026/amazonbot-respecting-robots-txt/</guid>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
+    </item>
+    <item>
       <title>Catch Flakes On Main</title>
       <link>https://matklad.github.io/2026/05/14/catch-flakes-on-main.html</link>
       <guid isPermaLink="true">https://matklad.github.io/2026/05/14/catch-flakes-on-main.html</guid>
@@ -795,13 +809,6 @@
       <guid isPermaLink="true">https://maurycyz.com/projects/tubeclock/</guid>
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
       <description>Maurycy's Blog</description>
-    </item>
-    <item>
-      <title>Amazonbot is finally respecting robots.txt</title>
-      <link>https://xeiaso.net/notes/2026/amazonbot-respecting-robots-txt/</link>
-      <guid isPermaLink="true">https://xeiaso.net/notes/2026/amazonbot-respecting-robots-txt/</guid>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>Commenting Guidelines</title>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/May/13/boris-mann/#atom-everything</guid>
       <pubDate>Wed, 13 May 2026 16:15:50 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Points are a weird and inconsistent unit of measure</title>
-      <link>https://buttondown.com/hillelwayne/archive/points-are-a-weird-and-inconsistent-unit-of/</link>
-      <guid isPermaLink="true">https://buttondown.com/hillelwayne/archive/points-are-a-weird-and-inconsistent-unit-of/</guid>
-      <pubDate>Wed, 13 May 2026 15:56:37 +0000</pubDate>
-      <description>Computer Things</description>
     </item>
   </channel>
 </rss>

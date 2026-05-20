@@ -210,9 +210,9 @@ Last Updated: Wednesday, May 20th, 2026, 4:58:14 PM
 <!--BLOG_RADAR:start-->
 - [Notes about reading messages with the Python email packages](https://utcc.utoronto.ca/~cks/space/blog/python/EmailPackagesNotes) — *Chris's Wiki :: blog* `05-20`
 - [Square root of x² − 1](https://www.johndcook.com/blog/2026/05/19/square-root-of-x-squared-minus-one/) — *John D. Cook* `05-20`
+- [Prompts are technical debt too](https://seangoedecke.com/prompts-are-technical-debt-too/) — *seangoedecke.com RSS feed* `05-20`
 - [llm-gemini 0.32](https://simonwillison.net/2026/May/19/llm-gemini-2/#atom-everything) — *Simon Willison's Weblog* `05-19`
 - [Closer look at an identity](https://www.johndcook.com/blog/2026/05/19/closer-look-at-an-identity/) — *John D. Cook* `05-19`
-- [Gemini 3.5 Flash: more expensive, but Google plan to use it for everything](https://simonwillison.net/2026/May/19/gemini-35-flash/#atom-everything) — *Simon Willison's Weblog* `05-19`
 <!--BLOG_RADAR:end-->
 
 ---
