@@ -208,11 +208,11 @@ Last Updated: Wednesday, May 20th, 2026, 10:47:45 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Google I/O, Gemini Spark, Antigravity](https://simonwillison.net/2026/May/20/google-io/#atom-everything) — *Simon Willison's Weblog* `05-20`
+- [Assumptions weaken properties](https://buttondown.com/hillelwayne/archive/assumptions-weaken-properties/) — *Computer Things* `05-20`
+- [[RSS Club] Let's meet up AFK](https://shkspr.mobi/blog/2026/05/rss-club-lets-meet-up-afk/) — *Terence Eden’s Blog* `05-20`
 - [Notes about reading messages with the Python email packages](https://utcc.utoronto.ca/~cks/space/blog/python/EmailPackagesNotes) — *Chris's Wiki :: blog* `05-20`
 - [Square root of x² − 1](https://www.johndcook.com/blog/2026/05/19/square-root-of-x-squared-minus-one/) — *John D. Cook* `05-20`
-- [Prompts are technical debt too](https://seangoedecke.com/prompts-are-technical-debt-too/) — *seangoedecke.com RSS feed* `05-20`
-- [llm-gemini 0.32](https://simonwillison.net/2026/May/19/llm-gemini-2/#atom-everything) — *Simon Willison's Weblog* `05-19`
-- [Closer look at an identity](https://www.johndcook.com/blog/2026/05/19/closer-look-at-an-identity/) — *John D. Cook* `05-19`
 <!--BLOG_RADAR:end-->
 
 ---

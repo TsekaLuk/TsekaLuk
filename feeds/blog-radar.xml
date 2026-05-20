@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 20 May 2026 09:48:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 15:41:11 +0000</lastBuildDate>
+    <item>
+      <title>Google I/O, Gemini Spark, Antigravity</title>
+      <link>https://simonwillison.net/2026/May/20/google-io/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/20/google-io/#atom-everything</guid>
+      <pubDate>Wed, 20 May 2026 15:32:17 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Assumptions weaken properties</title>
+      <link>https://buttondown.com/hillelwayne/archive/assumptions-weaken-properties/</link>
+      <guid isPermaLink="true">https://buttondown.com/hillelwayne/archive/assumptions-weaken-properties/</guid>
+      <pubDate>Wed, 20 May 2026 15:13:16 +0000</pubDate>
+      <description>Computer Things</description>
+    </item>
+    <item>
+      <title>[RSS Club] Let's meet up AFK</title>
+      <link>https://shkspr.mobi/blog/2026/05/rss-club-lets-meet-up-afk/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/rss-club-lets-meet-up-afk/</guid>
+      <pubDate>Wed, 20 May 2026 11:34:04 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
     <item>
       <title>Notes about reading messages with the Python email packages</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/python/EmailPackagesNotes</link>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://martinalderson.com/posts/managed-agents-are-the-new-lambda/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
       <description>Martin Alderson</description>
-    </item>
-    <item>
-      <title>Welcome to the Datasette blog</title>
-      <link>https://simonwillison.net/2026/May/13/welcome-to-the-datasette-blog/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/13/welcome-to-the-datasette-blog/#atom-everything</guid>
-      <pubDate>Wed, 13 May 2026 23:59:39 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Software engineers are obsolete... for now</title>
-      <link>https://idiallo.com/blog/everyone-is-better-than-you?src=feed</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/everyone-is-better-than-you?src=feed</guid>
-      <pubDate>Wed, 13 May 2026 22:40:00 +0000</pubDate>
-      <description>iDiallo.com</description>
-    </item>
-    <item>
-      <title>Quoting Boris Mann</title>
-      <link>https://simonwillison.net/2026/May/13/boris-mann/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/13/boris-mann/#atom-everything</guid>
-      <pubDate>Wed, 13 May 2026 16:15:50 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
