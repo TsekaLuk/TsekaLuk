@@ -208,11 +208,11 @@ Last Updated: Wednesday, May 20th, 2026, 10:44:54 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [AI Is Too Expensive](https://www.wheresyoured.at/ai-is-too-expensive/) — *Ed Zitron's Where's Your Ed At* `05-19`
-- [Andrej Karpathy Joined Anthropic](https://x.com/karpathy/status/2056753169888334312) — *Daring Fireball* `05-19`
-- [Wi-Wi Is Wireless Time Sync at 1 nanosecond](https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/) — *Jeff Geerling* `05-19`
-- [Approximating Markov’s equation](https://www.johndcook.com/blog/2026/05/19/zagiers-equation/) — *John D. Cook* `05-19`
-- [Book Review: Terrible Worlds: Destinations by Adrian Tchaikovsky ★★★★★](https://shkspr.mobi/blog/2026/05/book-review-terrible-worlds-destinations-by-adrian-tchaikovsky/) — *Terence Eden’s Blog* `05-19`
+- [Notes about reading messages with the Python email packages](https://utcc.utoronto.ca/~cks/space/blog/python/EmailPackagesNotes) — *Chris's Wiki :: blog* `05-20`
+- [Square root of x² − 1](https://www.johndcook.com/blog/2026/05/19/square-root-of-x-squared-minus-one/) — *John D. Cook* `05-20`
+- [llm-gemini 0.32](https://simonwillison.net/2026/May/19/llm-gemini-2/#atom-everything) — *Simon Willison's Weblog* `05-19`
+- [Closer look at an identity](https://www.johndcook.com/blog/2026/05/19/closer-look-at-an-identity/) — *John D. Cook* `05-19`
+- [Gemini 3.5 Flash: more expensive, but Google plan to use it for everything](https://simonwillison.net/2026/May/19/gemini-35-flash/#atom-everything) — *Simon Willison's Weblog* `05-19`
 <!--BLOG_RADAR:end-->
 
 ---
