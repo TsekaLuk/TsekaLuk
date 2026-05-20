@@ -208,11 +208,11 @@ Last Updated: Thursday, May 21st, 2026, 4:06:47 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [How fast is 10 tokens per second really?](https://simonwillison.net/2026/May/20/tokens-per-second/#atom-everything) — *Simon Willison's Weblog* `05-20`
 - [Google I/O, Gemini Spark, Antigravity](https://simonwillison.net/2026/May/20/google-io/#atom-everything) — *Simon Willison's Weblog* `05-20`
 - [Assumptions weaken properties](https://buttondown.com/hillelwayne/archive/assumptions-weaken-properties/) — *Computer Things* `05-20`
-- [[RSS Club] Let's meet up AFK](https://shkspr.mobi/blog/2026/05/rss-club-lets-meet-up-afk/) — *Terence Eden’s Blog* `05-20`
+- [What will better AI mean?](https://geohot.github.io//blog/jekyll/update/2026/05/20/what-will-better-mean.html) — *the singularity is nearer* `05-20`
 - [Notes about reading messages with the Python email packages](https://utcc.utoronto.ca/~cks/space/blog/python/EmailPackagesNotes) — *Chris's Wiki :: blog* `05-20`
-- [Square root of x² − 1](https://www.johndcook.com/blog/2026/05/19/square-root-of-x-squared-minus-one/) — *John D. Cook* `05-20`
 <!--BLOG_RADAR:end-->
 
 ---
