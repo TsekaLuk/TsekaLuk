@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 21 May 2026 15:43:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 20:02:31 +0000</lastBuildDate>
+    <item>
+      <title>Datasette Agent</title>
+      <link>https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything</guid>
+      <pubDate>Thu, 21 May 2026 19:52:19 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Apple Sports Expands to More Than 90 New Countries on Cusp of World Cup</title>
+      <link>https://www.apple.com/newsroom/2026/05/apple-sports-expands-to-more-than-90-new-countries-and-regions/</link>
+      <guid isPermaLink="true">https://www.apple.com/newsroom/2026/05/apple-sports-expands-to-more-than-90-new-countries-and-regions/</guid>
+      <pubDate>Thu, 21 May 2026 19:13:56 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Book Notes: “Poor Charlie’s Almanack”</title>
       <link>https://blog.jim-nielsen.com/2026/book-notes-charlie-munger/</link>
@@ -13,11 +27,46 @@
       <description>Jim Nielsen’s Blog</description>
     </item>
     <item>
+      <title>datasette-agent-sprites 0.1a0</title>
+      <link>https://simonwillison.net/2026/May/21/datasette-agent-sprites/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/21/datasette-agent-sprites/#atom-everything</guid>
+      <pubDate>Thu, 21 May 2026 18:21:07 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Couth and uncouth function pairs</title>
+      <link>https://www.johndcook.com/blog/2026/05/21/couth-and-uncouth-function-pairs/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/21/couth-and-uncouth-function-pairs/</guid>
+      <pubDate>Thu, 21 May 2026 17:31:13 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Anthropic's "Profitability" Swindle</title>
+      <link>https://www.wheresyoured.at/anthropics-profitability-swindle/</link>
+      <guid isPermaLink="true">https://www.wheresyoured.at/anthropics-profitability-swindle/</guid>
+      <pubDate>Thu, 21 May 2026 17:08:19 +0000</pubDate>
+      <description>Ed Zitron's Where's Your Ed At</description>
+    </item>
+    <item>
+      <title>Circular and hyperbolic functions differ by rotations</title>
+      <link>https://www.johndcook.com/blog/2026/05/21/circular-hyperbolic-rotations/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/21/circular-hyperbolic-rotations/</guid>
+      <pubDate>Thu, 21 May 2026 15:53:56 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
       <title>Google I/O Keynote in 54 Seconds</title>
       <link>https://x.com/ArtemR/status/2056961743142957143</link>
       <guid isPermaLink="true">https://x.com/ArtemR/status/2056961743142957143</guid>
       <pubDate>Thu, 21 May 2026 15:31:54 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>datasette-agent 0.1a3</title>
+      <link>https://simonwillison.net/2026/May/21/datasette-agent-2/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/21/datasette-agent-2/#atom-everything</guid>
+      <pubDate>Thu, 21 May 2026 15:04:09 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
     <item>
       <title>The $500 Price Increase</title>
@@ -102,6 +151,13 @@
       <guid isPermaLink="true">https://seangoedecke.com/the-o3-geoguessr-prompt-did-not-work/</guid>
       <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>"No way to prevent this" say users of only language where this regularly happens</title>
+      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2026-45250/</link>
+      <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2026-45250/</guid>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>Read Cindy Cohn's new book, Privacy's Defender: My Thirty-Year Fight Against Digital Surveillance</title>
@@ -200,6 +256,13 @@
       <guid isPermaLink="true">https://seangoedecke.com/prompts-are-technical-debt-too/</guid>
       <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>"No way to prevent this" say users of only language where this regularly happens</title>
+      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2026-45584/</link>
+      <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2026-45584/</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>Magic the Gathering format: Fun 40</title>
@@ -440,7 +503,7 @@
       <description>The Old New Thing</description>
     </item>
     <item>
-      <title>Don't call yourself a Software Engineer, you are an AI Enabled Engineer.</title>
+      <title>Don't call yourself a Software Engineer, and other Career Advice</title>
       <link>https://idiallo.com/blog/you-are-an-ai-enabled-engineer-now?src=feed</link>
       <guid isPermaLink="true">https://idiallo.com/blog/you-are-an-ai-enabled-engineer-now?src=feed</guid>
       <pubDate>Mon, 18 May 2026 12:00:00 +0000</pubDate>
@@ -781,69 +844,6 @@
       <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/931006/musk-v-altman-closing-arguments-analysis?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6ImhxZzBnTXFpSk8iLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzkzMTAwNi9tdXNrLXYtYWx0bWFuLWNsb3NpbmctYXJndW1lbnRzLWFuYWx5c2lzIiwiZXhwIjoxNzc5MjM2OTUwLCJpYXQiOjE3Nzg4MDQ5NTB9.TXQtcV9vkuuKyqcrMaKtSqqoL9_wGWeSYgUyO6ZzK-Y</guid>
       <pubDate>Fri, 15 May 2026 00:57:38 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Let’s Run a Neologism Poll</title>
-      <link>https://mastodon.social/@gruber/116575825801893849</link>
-      <guid isPermaLink="true">https://mastodon.social/@gruber/116575825801893849</guid>
-      <pubDate>Fri, 15 May 2026 00:53:54 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>datasette-llm-limits 0.1a0</title>
-      <link>https://simonwillison.net/2026/May/15/datasette-llm-limits/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/15/datasette-llm-limits/#atom-everything</guid>
-      <pubDate>Fri, 15 May 2026 00:42:09 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>I've finally ported &lt;a href="https://utcc.utoronto.ca/~cks/space/dwiki/DWiki"&gt;DWiki&lt;/a&gt; from Python 2 to Python 3</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/python/DWikiPython3Now</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/python/DWikiPython3Now</guid>
-      <pubDate>Fri, 15 May 2026 00:17:27 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>The Youth AI Safety Institute Has Margrethe Vestager’s Backing</title>
-      <link>https://www.euronews.com/next/2026/05/12/margrethe-vestager-backs-new-ai-safety-institute-for-children-after-decade-regulating-big-</link>
-      <guid isPermaLink="true">https://www.euronews.com/next/2026/05/12/margrethe-vestager-backs-new-ai-safety-institute-for-children-after-decade-regulating-big-</guid>
-      <pubDate>Fri, 15 May 2026 00:03:13 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Search engine results are truly terrible</title>
-      <link>https://maurycyz.com/misc/search/</link>
-      <guid isPermaLink="true">https://maurycyz.com/misc/search/</guid>
-      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
-    </item>
-    <item>
-      <title>Aided by Mythos Preview, Researchers Announce MacOS Kernel Exploit Circumventing M5 Memory Integrity Enforcement</title>
-      <link>https://blog.calif.io/p/first-public-kernel-memory-corruption</link>
-      <guid isPermaLink="true">https://blog.calif.io/p/first-public-kernel-memory-corruption</guid>
-      <pubDate>Thu, 14 May 2026 23:44:20 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Not so locked in any more</title>
-      <link>https://simonwillison.net/2026/May/14/not-so-locked-in/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/14/not-so-locked-in/#atom-everything</guid>
-      <pubDate>Thu, 14 May 2026 22:53:49 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Wired on the Dark Mood Inside Meta</title>
-      <link>https://www.wired.com/story/meta-layoffs-bad-vibes-mark-zuckerberg-ai/</link>
-      <guid isPermaLink="true">https://www.wired.com/story/meta-layoffs-bad-vibes-mark-zuckerberg-ai/</guid>
-      <pubDate>Thu, 14 May 2026 22:53:10 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Quoting Mitchell Hashimoto</title>
-      <link>https://simonwillison.net/2026/May/14/mitchell-hashimoto/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/14/mitchell-hashimoto/#atom-everything</guid>
-      <pubDate>Thu, 14 May 2026 22:31:20 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>

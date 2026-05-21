@@ -208,11 +208,11 @@ Last Updated: Friday, May 22nd, 2026, 3:46:29 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Datasette Agent](https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything) — *Simon Willison's Weblog* `05-21`
+- [Apple Sports Expands to More Than 90 New Countries on Cusp of World Cup](https://www.apple.com/newsroom/2026/05/apple-sports-expands-to-more-than-90-new-countries-and-regions/) — *Daring Fireball* `05-21`
 - [Book Notes: “Poor Charlie’s Almanack”](https://blog.jim-nielsen.com/2026/book-notes-charlie-munger/) — *Jim Nielsen’s Blog* `05-21`
-- [Google I/O Keynote in 54 Seconds](https://x.com/ArtemR/status/2056961743142957143) — *Daring Fireball* `05-21`
-- [The $500 Price Increase](https://feed.tedium.co/link/15204/17345764/plex-price-increase-self-hosting) — *Tedium: The Dull Side of the Internet.* `05-21`
-- [Pluralistic: Shopping isn't politics (21 May 2026)](https://pluralistic.net/2026/05/21/purity-culture/) — *Pluralistic: Daily links from Cory Doctorow* `05-21`
-- [‘Geography Is Four-Dimensional’](https://sive.rs/4d) — *Daring Fireball* `05-21`
+- [datasette-agent-sprites 0.1a0](https://simonwillison.net/2026/May/21/datasette-agent-sprites/#atom-everything) — *Simon Willison's Weblog* `05-21`
+- [Couth and uncouth function pairs](https://www.johndcook.com/blog/2026/05/21/couth-and-uncouth-function-pairs/) — *John D. Cook* `05-21`
 <!--BLOG_RADAR:end-->
 
 ---
