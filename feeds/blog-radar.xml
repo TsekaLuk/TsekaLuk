@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 21 May 2026 04:21:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 09:55:20 +0000</lastBuildDate>
     <item>
       <title>Unix has been changing, but in places where I don't see it</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/unix/UnixChangingQuietly</link>
@@ -32,6 +32,13 @@
       <guid isPermaLink="true">https://www.wsj.com/tech/ai/google-unveils-new-gemini-ai-agent-for-personal-tasks-b8093197?st=BFmPev</guid>
       <pubDate>Thu, 21 May 2026 01:05:14 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>The famous o3 "GeoGuessr" prompt did not work</title>
+      <link>https://seangoedecke.com/the-o3-geoguessr-prompt-did-not-work/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/the-o3-geoguessr-prompt-did-not-work/</guid>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>Read Cindy Cohn's new book, Privacy's Defender: My Thirty-Year Fight Against Digital Surveillance</title>
@@ -398,18 +405,18 @@
       <description>Chris's Wiki :: blog</description>
     </item>
     <item>
-      <title>The just-say-no engineer was a ZIRP phenomenon</title>
-      <link>https://seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/</guid>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
       <title>How I Use My Index 01 + Production Update</title>
       <link>https://repebble.com/blog/how-i-use-my-index-01-production-update</link>
       <guid isPermaLink="true">https://repebble.com/blog/how-i-use-my-index-01-production-update</guid>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
       <description>Eric Migicovsky's Blog RSS Feed</description>
+    </item>
+    <item>
+      <title>The just-say-no engineer was a ZIRP phenomenon</title>
+      <link>https://seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/</guid>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>Always Be Blaming</title>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://github.com/jameslockman/Griffin-PowerMate-Driver</guid>
       <pubDate>Thu, 14 May 2026 16:20:54 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The First Democratic Tech Alliance Assembly</title>
-      <link>https://berthub.eu/articles/posts/democratic-tech-alliance-may-2026/</link>
-      <guid isPermaLink="true">https://berthub.eu/articles/posts/democratic-tech-alliance-may-2026/</guid>
-      <pubDate>Thu, 14 May 2026 14:17:12 +0000</pubDate>
-      <description>Bert Hubert's writings</description>
     </item>
   </channel>
 </rss>
