@@ -4,7 +4,70 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 21 May 2026 09:55:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 15:43:03 +0000</lastBuildDate>
+    <item>
+      <title>Book Notes: “Poor Charlie’s Almanack”</title>
+      <link>https://blog.jim-nielsen.com/2026/book-notes-charlie-munger/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/book-notes-charlie-munger/</guid>
+      <pubDate>Thu, 21 May 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
+    </item>
+    <item>
+      <title>Google I/O Keynote in 54 Seconds</title>
+      <link>https://x.com/ArtemR/status/2056961743142957143</link>
+      <guid isPermaLink="true">https://x.com/ArtemR/status/2056961743142957143</guid>
+      <pubDate>Thu, 21 May 2026 15:31:54 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>The $500 Price Increase</title>
+      <link>https://feed.tedium.co/link/15204/17345764/plex-price-increase-self-hosting</link>
+      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17345764/plex-price-increase-self-hosting</guid>
+      <pubDate>Thu, 21 May 2026 15:03:44 +0000</pubDate>
+      <description>Tedium: The Dull Side of the Internet.</description>
+    </item>
+    <item>
+      <title>Pluralistic: Shopping isn't politics (21 May 2026)</title>
+      <link>https://pluralistic.net/2026/05/21/purity-culture/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/05/21/purity-culture/</guid>
+      <pubDate>Thu, 21 May 2026 15:03:37 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>‘Geography Is Four-Dimensional’</title>
+      <link>https://sive.rs/4d</link>
+      <guid isPermaLink="true">https://sive.rs/4d</guid>
+      <pubDate>Thu, 21 May 2026 14:39:19 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>The Rise of Build-to-Rent Housing</title>
+      <link>https://www.construction-physics.com/p/the-rise-of-build-to-rent-housing</link>
+      <guid isPermaLink="true">https://www.construction-physics.com/p/the-rise-of-build-to-rent-housing</guid>
+      <pubDate>Thu, 21 May 2026 12:03:24 +0000</pubDate>
+      <description>Construction Physics</description>
+    </item>
+    <item>
+      <title>Whale Fall</title>
+      <link>https://shkspr.mobi/blog/2026/05/whale-fall/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/whale-fall/</guid>
+      <pubDate>Thu, 21 May 2026 11:34:15 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Digitale autonomie: wat kunnen organisaties NU doen</title>
+      <link>https://berthub.eu/articles/posts/digitale-autonomie-wat-kunnen-organisaties-nu-doen/</link>
+      <guid isPermaLink="true">https://berthub.eu/articles/posts/digitale-autonomie-wat-kunnen-organisaties-nu-doen/</guid>
+      <pubDate>Thu, 21 May 2026 11:30:00 +0000</pubDate>
+      <description>Bert Hubert's writings</description>
+    </item>
+    <item>
+      <title>RFC: Artificial Contributors to Open Source</title>
+      <link>https://nesbitt.io/2026/05/21/rfc-artificial-contributors-to-open-source.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/05/21/rfc-artificial-contributors-to-open-source.html</guid>
+      <pubDate>Thu, 21 May 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
     <item>
       <title>Unix has been changing, but in places where I don't see it</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/unix/UnixChangingQuietly</link>
@@ -53,6 +116,13 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/May/20/spacex-s1/#atom-everything</guid>
       <pubDate>Wed, 20 May 2026 22:26:36 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>The stock market returns 4 %</title>
+      <link>https://entropicthoughts.com/stock-market-returns-4-percent</link>
+      <guid isPermaLink="true">https://entropicthoughts.com/stock-market-returns-4-percent</guid>
+      <pubDate>Wed, 20 May 2026 22:00:00 +0000</pubDate>
+      <description>Entropic Thoughts</description>
     </item>
     <item>
       <title>NYT: ‘Powered by A.I., Google Changes Its Search Box for the First Time in 25 Years’</title>
@@ -130,13 +200,6 @@
       <guid isPermaLink="true">https://seangoedecke.com/prompts-are-technical-debt-too/</guid>
       <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>"No way to prevent this" say users of only language where this regularly happens</title>
-      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2026-45584/</link>
-      <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2026-45584/</guid>
-      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>Magic the Gathering format: Fun 40</title>
@@ -781,69 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/May/14/mitchell-hashimoto/#atom-everything</guid>
       <pubDate>Thu, 14 May 2026 22:31:20 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>A few words on DS4</title>
-      <link>http://antirez.com/news/165</link>
-      <guid isPermaLink="true">http://antirez.com/news/165</guid>
-      <pubDate>Thu, 14 May 2026 22:22:45 +0000</pubDate>
-      <description>&lt;antirez&gt;</description>
-    </item>
-    <item>
-      <title>Geoffrey Fowler and the Launch of the Youth AI Safety Institute</title>
-      <link>https://geoffreyfowler.substack.com/p/what-is-ai-doing-to-our-kids-im-going</link>
-      <guid isPermaLink="true">https://geoffreyfowler.substack.com/p/what-is-ai-doing-to-our-kids-im-going</guid>
-      <pubDate>Thu, 14 May 2026 20:51:04 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Tim Cook Is in Trump’s Executive Entourage for China Summit</title>
-      <link>https://www.the-independent.com/news/world/americas/us-politics/elon-musk-tim-cook-trump-china-tech-ceo-b2975568.html</link>
-      <guid isPermaLink="true">https://www.the-independent.com/news/world/americas/us-politics/elon-musk-tim-cook-trump-china-tech-ceo-b2975568.html</guid>
-      <pubDate>Thu, 14 May 2026 19:36:58 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Google Announces Its Chromebook Successor: The Googlebook</title>
-      <link>https://www.theverge.com/tech/928479/google-googlebook-laptops-android-tease-aluminium-chromebook?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjNVSjlWdlZESmgiLCJwIjoiL3RlY2gvOTI4NDc5L2dvb2dsZS1nb29nbGVib29rLWxhcHRvcHMtYW5kcm9pZC10ZWFzZS1hbHVtaW5pdW0tY2hyb21lYm9vayIsImV4cCI6MTc3OTIxNjg2NiwiaWF0IjoxNzc4Nzg0ODY2fQ.a74WT34THV0Ih1pGO7NH4daq39ytQXdhO4EAgE6HCeI</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/928479/google-googlebook-laptops-android-tease-aluminium-chromebook?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjNVSjlWdlZESmgiLCJwIjoiL3RlY2gvOTI4NDc5L2dvb2dsZS1nb29nbGVib29rLWxhcHRvcHMtYW5kcm9pZC10ZWFzZS1hbHVtaW5pdW0tY2hyb21lYm9vayIsImV4cCI6MTc3OTIxNjg2NiwiaWF0IjoxNzc4Nzg0ODY2fQ.a74WT34THV0Ih1pGO7NH4daq39ytQXdhO4EAgE6HCeI</guid>
-      <pubDate>Thu, 14 May 2026 19:02:21 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Gurman Reports that OpenAI Is Unhappy With Apple Deal</title>
-      <link>https://www.bloomberg.com/news/articles/2026-05-14/openai-apple-partnership-frays-setting-up-possible-legal-fight?srnd=undefined&amp;embedded-checkout=true</link>
-      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-05-14/openai-apple-partnership-frays-setting-up-possible-legal-fight?srnd=undefined&amp;embedded-checkout=true</guid>
-      <pubDate>Thu, 14 May 2026 18:27:50 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>A GNU Emacs learning experience with text-mode hooks</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsTextModeHooksGotcha</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsTextModeHooksGotcha</guid>
-      <pubDate>Thu, 14 May 2026 17:51:54 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>The Trump T1 Phone Starts Shipping This Week, Supposedly</title>
-      <link>https://www.theverge.com/gadgets/929471/trump-mobile-t1-phone-shipping-this-week</link>
-      <guid isPermaLink="true">https://www.theverge.com/gadgets/929471/trump-mobile-t1-phone-shipping-this-week</guid>
-      <pubDate>Thu, 14 May 2026 17:50:05 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Klack</title>
-      <link>https://tryklack.com/</link>
-      <guid isPermaLink="true">https://tryklack.com/</guid>
-      <pubDate>Thu, 14 May 2026 17:39:25 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>New Driver for the Old Griffin PowerMate</title>
-      <link>https://github.com/jameslockman/Griffin-PowerMate-Driver</link>
-      <guid isPermaLink="true">https://github.com/jameslockman/Griffin-PowerMate-Driver</guid>
-      <pubDate>Thu, 14 May 2026 16:20:54 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>

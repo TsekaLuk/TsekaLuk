@@ -208,11 +208,11 @@ Last Updated: Thursday, May 21st, 2026, 10:52:59 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Unix has been changing, but in places where I don't see it](https://utcc.utoronto.ca/~cks/space/blog/unix/UnixChangingQuietly) — *Chris's Wiki :: blog* `05-21`
-- [The Verge: ‘The 13 Biggest Announcements at Google I/O 2026’](https://www.theverge.com/tech/933415/google-io-2026-biggest-announcements-ai-gemini?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6Ik5tNTBSc0hxRXQiLCJwIjoiL3RlY2gvOTMzNDE1L2dvb2dsZS1pby0yMDI2LWJpZ2dlc3QtYW5ub3VuY2VtZW50cy1haS1nZW1pbmkiLCJleHAiOjE3Nzk3NTk5MjQsImlhdCI6MTc3OTMyNzkyNH0.g_JiqbJBfi9YcDT1re8aofzmpb3tcZNwY2jQybgwJL0) — *Daring Fireball* `05-21`
-- [Nobody is destined for greatness.](https://www.joanwestenberg.com/nobody-is-destined-for-greatness/) — *Westenberg.* `05-21`
-- [WSJ: ‘Google Unveils New Gemini AI Agent for Personal Tasks’](https://www.wsj.com/tech/ai/google-unveils-new-gemini-ai-agent-for-personal-tasks-b8093197?st=BFmPev) — *Daring Fireball* `05-21`
-- [The famous o3 "GeoGuessr" prompt did not work](https://seangoedecke.com/the-o3-geoguessr-prompt-did-not-work/) — *seangoedecke.com RSS feed* `05-21`
+- [Book Notes: “Poor Charlie’s Almanack”](https://blog.jim-nielsen.com/2026/book-notes-charlie-munger/) — *Jim Nielsen’s Blog* `05-21`
+- [Google I/O Keynote in 54 Seconds](https://x.com/ArtemR/status/2056961743142957143) — *Daring Fireball* `05-21`
+- [The $500 Price Increase](https://feed.tedium.co/link/15204/17345764/plex-price-increase-self-hosting) — *Tedium: The Dull Side of the Internet.* `05-21`
+- [Pluralistic: Shopping isn't politics (21 May 2026)](https://pluralistic.net/2026/05/21/purity-culture/) — *Pluralistic: Daily links from Cory Doctorow* `05-21`
+- [‘Geography Is Four-Dimensional’](https://sive.rs/4d) — *Daring Fireball* `05-21`
 <!--BLOG_RADAR:end-->
 
 ---
