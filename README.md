@@ -208,11 +208,11 @@ Last Updated: Thursday, May 21st, 2026, 10:47:25 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [How fast is 10 tokens per second really?](https://simonwillison.net/2026/May/20/tokens-per-second/#atom-everything) — *Simon Willison's Weblog* `05-20`
-- [Google I/O, Gemini Spark, Antigravity](https://simonwillison.net/2026/May/20/google-io/#atom-everything) — *Simon Willison's Weblog* `05-20`
-- [Assumptions weaken properties](https://buttondown.com/hillelwayne/archive/assumptions-weaken-properties/) — *Computer Things* `05-20`
-- [What will better AI mean?](https://geohot.github.io//blog/jekyll/update/2026/05/20/what-will-better-mean.html) — *the singularity is nearer* `05-20`
-- [Notes about reading messages with the Python email packages](https://utcc.utoronto.ca/~cks/space/blog/python/EmailPackagesNotes) — *Chris's Wiki :: blog* `05-20`
+- [Unix has been changing, but in places where I don't see it](https://utcc.utoronto.ca/~cks/space/blog/unix/UnixChangingQuietly) — *Chris's Wiki :: blog* `05-21`
+- [The Verge: ‘The 13 Biggest Announcements at Google I/O 2026’](https://www.theverge.com/tech/933415/google-io-2026-biggest-announcements-ai-gemini?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6Ik5tNTBSc0hxRXQiLCJwIjoiL3RlY2gvOTMzNDE1L2dvb2dsZS1pby0yMDI2LWJpZ2dlc3QtYW5ub3VuY2VtZW50cy1haS1nZW1pbmkiLCJleHAiOjE3Nzk3NTk5MjQsImlhdCI6MTc3OTMyNzkyNH0.g_JiqbJBfi9YcDT1re8aofzmpb3tcZNwY2jQybgwJL0) — *Daring Fireball* `05-21`
+- [Nobody is destined for greatness.](https://www.joanwestenberg.com/nobody-is-destined-for-greatness/) — *Westenberg.* `05-21`
+- [WSJ: ‘Google Unveils New Gemini AI Agent for Personal Tasks’](https://www.wsj.com/tech/ai/google-unveils-new-gemini-ai-agent-for-personal-tasks-b8093197?st=BFmPev) — *Daring Fireball* `05-21`
+- [Read Cindy Cohn's new book, Privacy's Defender: My Thirty-Year Fight Against Digital Surveillance](https://micahflee.com/read-cindy-cohns-new-book-privacys-defender-my-thirty-year-fight-against-digital-surveillance/) — *micahflee* `05-20`
 <!--BLOG_RADAR:end-->
 
 ---

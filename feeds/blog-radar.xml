@@ -4,7 +4,63 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 20 May 2026 20:26:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 04:21:30 +0000</lastBuildDate>
+    <item>
+      <title>Unix has been changing, but in places where I don't see it</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/unix/UnixChangingQuietly</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/unix/UnixChangingQuietly</guid>
+      <pubDate>Thu, 21 May 2026 01:57:31 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>The Verge: ‘The 13 Biggest Announcements at Google I/O 2026’</title>
+      <link>https://www.theverge.com/tech/933415/google-io-2026-biggest-announcements-ai-gemini?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6Ik5tNTBSc0hxRXQiLCJwIjoiL3RlY2gvOTMzNDE1L2dvb2dsZS1pby0yMDI2LWJpZ2dlc3QtYW5ub3VuY2VtZW50cy1haS1nZW1pbmkiLCJleHAiOjE3Nzk3NTk5MjQsImlhdCI6MTc3OTMyNzkyNH0.g_JiqbJBfi9YcDT1re8aofzmpb3tcZNwY2jQybgwJL0</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/933415/google-io-2026-biggest-announcements-ai-gemini?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6Ik5tNTBSc0hxRXQiLCJwIjoiL3RlY2gvOTMzNDE1L2dvb2dsZS1pby0yMDI2LWJpZ2dlc3QtYW5ub3VuY2VtZW50cy1haS1nZW1pbmkiLCJleHAiOjE3Nzk3NTk5MjQsImlhdCI6MTc3OTMyNzkyNH0.g_JiqbJBfi9YcDT1re8aofzmpb3tcZNwY2jQybgwJL0</guid>
+      <pubDate>Thu, 21 May 2026 01:47:24 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Nobody is destined for greatness.</title>
+      <link>https://www.joanwestenberg.com/nobody-is-destined-for-greatness/</link>
+      <guid isPermaLink="true">https://www.joanwestenberg.com/nobody-is-destined-for-greatness/</guid>
+      <pubDate>Thu, 21 May 2026 01:31:20 +0000</pubDate>
+      <description>Westenberg.</description>
+    </item>
+    <item>
+      <title>WSJ: ‘Google Unveils New Gemini AI Agent for Personal Tasks’</title>
+      <link>https://www.wsj.com/tech/ai/google-unveils-new-gemini-ai-agent-for-personal-tasks-b8093197?st=BFmPev</link>
+      <guid isPermaLink="true">https://www.wsj.com/tech/ai/google-unveils-new-gemini-ai-agent-for-personal-tasks-b8093197?st=BFmPev</guid>
+      <pubDate>Thu, 21 May 2026 01:05:14 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Read Cindy Cohn's new book, Privacy's Defender: My Thirty-Year Fight Against Digital Surveillance</title>
+      <link>https://micahflee.com/read-cindy-cohns-new-book-privacys-defender-my-thirty-year-fight-against-digital-surveillance/</link>
+      <guid isPermaLink="true">https://micahflee.com/read-cindy-cohns-new-book-privacys-defender-my-thirty-year-fight-against-digital-surveillance/</guid>
+      <pubDate>Wed, 20 May 2026 22:36:13 +0000</pubDate>
+      <description>micahflee</description>
+    </item>
+    <item>
+      <title>Quoting SpaceX S-1</title>
+      <link>https://simonwillison.net/2026/May/20/spacex-s1/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/20/spacex-s1/#atom-everything</guid>
+      <pubDate>Wed, 20 May 2026 22:26:36 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>NYT: ‘Powered by A.I., Google Changes Its Search Box for the First Time in 25 Years’</title>
+      <link>https://www.nytimes.com/2026/05/19/business/google-seach-bar-ai-gemini.html?unlocked_article_code=1.jlA.95yh.ptfBUHf-rBtB&amp;smid=url-share</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/19/business/google-seach-bar-ai-gemini.html?unlocked_article_code=1.jlA.95yh.ptfBUHf-rBtB&amp;smid=url-share</guid>
+      <pubDate>Wed, 20 May 2026 21:20:23 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>‘You Do Not Need Fancy Equipment, You Do Not Need a Degree, to Make Money and to Do This as Your Job’</title>
+      <link>https://www.tiktok.com/@brye.shhh/video/7641047549758934285</link>
+      <guid isPermaLink="true">https://www.tiktok.com/@brye.shhh/video/7641047549758934285</guid>
+      <pubDate>Wed, 20 May 2026 20:53:22 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>How fast is 10 tokens per second really?</title>
       <link>https://simonwillison.net/2026/May/20/tokens-per-second/#atom-everything</link>
@@ -25,6 +81,20 @@
       <guid isPermaLink="true">https://buttondown.com/hillelwayne/archive/assumptions-weaken-properties/</guid>
       <pubDate>Wed, 20 May 2026 15:13:16 +0000</pubDate>
       <description>Computer Things</description>
+    </item>
+    <item>
+      <title>The classic TreeView control lets me sort by name or by lParam, but why not both?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260520-00/?p=112343</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260520-00/?p=112343</guid>
+      <pubDate>Wed, 20 May 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>[RSS Club] Let's meet up AFK</title>
+      <link>https://shkspr.mobi/blog/2026/05/rss-club-lets-meet-up-afk/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/rss-club-lets-meet-up-afk/</guid>
+      <pubDate>Wed, 20 May 2026 11:34:04 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>What will better AI mean?</title>
@@ -53,6 +123,20 @@
       <guid isPermaLink="true">https://seangoedecke.com/prompts-are-technical-debt-too/</guid>
       <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>"No way to prevent this" say users of only language where this regularly happens</title>
+      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2026-45584/</link>
+      <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2026-45584/</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>Magic the Gathering format: Fun 40</title>
+      <link>https://fabiensanglard.net/mtg/fun//index.html</link>
+      <guid isPermaLink="true">https://fabiensanglard.net/mtg/fun//index.html</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+      <description>Fabien Sanglard</description>
     </item>
     <item>
       <title>llm-gemini 0.32</title>
@@ -118,13 +202,6 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>What is the history of the ERROR_ARENA_TRASHED error code?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260519-00/?p=112339</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260519-00/?p=112339</guid>
-      <pubDate>Tue, 19 May 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
       <title>Wi-Wi Is Wireless Time Sync at 1 nanosecond</title>
       <link>https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/</link>
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/</guid>
@@ -132,11 +209,25 @@
       <description>Jeff Geerling</description>
     </item>
     <item>
+      <title>What is the history of the ERROR_ARENA_TRASHED error code?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260519-00/?p=112339</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260519-00/?p=112339</guid>
+      <pubDate>Tue, 19 May 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
+    <item>
       <title>Approximating Markov’s equation</title>
       <link>https://www.johndcook.com/blog/2026/05/19/zagiers-equation/</link>
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/19/zagiers-equation/</guid>
       <pubDate>Tue, 19 May 2026 12:09:54 +0000</pubDate>
       <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Book Review: Terrible Worlds: Destinations by Adrian Tchaikovsky ★★★★★</title>
+      <link>https://shkspr.mobi/blog/2026/05/book-review-terrible-worlds-destinations-by-adrian-tchaikovsky/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/book-review-terrible-worlds-destinations-by-adrian-tchaikovsky/</guid>
+      <pubDate>Tue, 19 May 2026 11:34:17 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Dumb Ways for an Open Source Project to Die</title>
@@ -307,18 +398,18 @@
       <description>Chris's Wiki :: blog</description>
     </item>
     <item>
-      <title>How I Use My Index 01 + Production Update</title>
-      <link>https://repebble.com/blog/how-i-use-my-index-01-production-update</link>
-      <guid isPermaLink="true">https://repebble.com/blog/how-i-use-my-index-01-production-update</guid>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <description>Eric Migicovsky's Blog RSS Feed</description>
-    </item>
-    <item>
       <title>The just-say-no engineer was a ZIRP phenomenon</title>
       <link>https://seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/</link>
       <guid isPermaLink="true">https://seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/</guid>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>How I Use My Index 01 + Production Update</title>
+      <link>https://repebble.com/blog/how-i-use-my-index-01-production-update</link>
+      <guid isPermaLink="true">https://repebble.com/blog/how-i-use-my-index-01-production-update</guid>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <description>Eric Migicovsky's Blog RSS Feed</description>
     </item>
     <item>
       <title>Always Be Blaming</title>
@@ -368,6 +459,13 @@
       <guid isPermaLink="true">https://idiallo.com/blog/the-empire-won?src=feed</guid>
       <pubDate>Sun, 17 May 2026 12:00:00 +0000</pubDate>
       <description>iDiallo.com</description>
+    </item>
+    <item>
+      <title>GDS weighs in on the NHS's decision to retreat from Open Source</title>
+      <link>https://shkspr.mobi/blog/2026/05/gds-weighs-in-on-the-nhss-decision-to-retreat-from-open-source/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/gds-weighs-in-on-the-nhss-decision-to-retreat-from-open-source/</guid>
+      <pubDate>Sun, 17 May 2026 11:34:30 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Our servers seem to have surprisingly low power consumption</title>
@@ -594,6 +692,13 @@
       <description>Andrew Nesbitt</description>
     </item>
     <item>
+      <title>UK Government Kicks Out Palantir</title>
+      <link>https://shkspr.mobi/blog/2026/05/uk-government-kicks-out-palantir/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/uk-government-kicks-out-palantir/</guid>
+      <pubDate>Fri, 15 May 2026 05:34:03 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>QR code generator</title>
       <link>https://simonwillison.net/2026/May/15/qr-code-generator/#atom-everything</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/May/15/qr-code-generator/#atom-everything</guid>
@@ -739,111 +844,6 @@
       <guid isPermaLink="true">https://berthub.eu/articles/posts/democratic-tech-alliance-may-2026/</guid>
       <pubDate>Thu, 14 May 2026 14:17:12 +0000</pubDate>
       <description>Bert Hubert's writings</description>
-    </item>
-    <item>
-      <title>A constant-space linear-time algorithm for deleting all but the 10 most recent files in a directory</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260514-00/?p=112322</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260514-00/?p=112322</guid>
-      <pubDate>Thu, 14 May 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Pluralistic: Kickstarting "The Reverse Centaur's Guide to Life After AI" (14 May 2026)</title>
-      <link>https://pluralistic.net/2026/05/14/who-it-does-it-for/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/05/14/who-it-does-it-for/</guid>
-      <pubDate>Thu, 14 May 2026 11:04:43 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Centrality is not vitality</title>
-      <link>https://nesbitt.io/2026/05/14/centrality-is-not-vitality.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/05/14/centrality-is-not-vitality.html</guid>
-      <pubDate>Thu, 14 May 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>It's funny because it's true</title>
-      <link>https://idiallo.com/byte-size/its-funny-because-its-true?src=feed</link>
-      <guid isPermaLink="true">https://idiallo.com/byte-size/its-funny-because-its-true?src=feed</guid>
-      <pubDate>Thu, 14 May 2026 07:13:34 +0000</pubDate>
-      <description>iDiallo.com</description>
-    </item>
-    <item>
-      <title>datasette-ip-rate-limit 0.1a0</title>
-      <link>https://simonwillison.net/2026/May/14/datasette-ip-rate-limit/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/14/datasette-ip-rate-limit/#atom-everything</guid>
-      <pubDate>Thu, 14 May 2026 04:10:23 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>The Biz Reaper</title>
-      <link>https://feed.tedium.co/link/15204/17340934/buzzfeed-byron-allen-analysis</link>
-      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17340934/buzzfeed-byron-allen-analysis</guid>
-      <pubDate>Thu, 14 May 2026 03:50:47 +0000</pubDate>
-      <description>Tedium: The Dull Side of the Internet.</description>
-    </item>
-    <item>
-      <title>Welcoming the Bahamian Government to Have I Been Pwned</title>
-      <link>https://www.troyhunt.com/welcoming-the-bahamian-government-to-have-i-been-pwned/</link>
-      <guid isPermaLink="true">https://www.troyhunt.com/welcoming-the-bahamian-government-to-have-i-been-pwned/</guid>
-      <pubDate>Thu, 14 May 2026 03:49:29 +0000</pubDate>
-      <description>Troy Hunt</description>
-    </item>
-    <item>
-      <title>Going from a ZFS object ID to its path the easier way</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/solaris/ZFSObjectIdToPath</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/solaris/ZFSObjectIdToPath</guid>
-      <pubDate>Thu, 14 May 2026 02:52:19 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>Amazonbot is finally respecting robots.txt</title>
-      <link>https://xeiaso.net/notes/2026/amazonbot-respecting-robots-txt/</link>
-      <guid isPermaLink="true">https://xeiaso.net/notes/2026/amazonbot-respecting-robots-txt/</guid>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
-      <title>Building a clock from salvaged Vacuum Fluorescent Displays</title>
-      <link>https://maurycyz.com/projects/tubeclock/</link>
-      <guid isPermaLink="true">https://maurycyz.com/projects/tubeclock/</guid>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
-    </item>
-    <item>
-      <title>Catch Flakes On Main</title>
-      <link>https://matklad.github.io/2026/05/14/catch-flakes-on-main.html</link>
-      <guid isPermaLink="true">https://matklad.github.io/2026/05/14/catch-flakes-on-main.html</guid>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-      <description>matklad</description>
-    </item>
-    <item>
-      <title>Commenting Guidelines</title>
-      <link>https://susam.net/commenting.html</link>
-      <guid isPermaLink="true">https://susam.net/commenting.html</guid>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-      <description>Susam Pal</description>
-    </item>
-    <item>
-      <title>Managed agents are the new Lambda</title>
-      <link>https://martinalderson.com/posts/managed-agents-are-the-new-lambda/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
-      <guid isPermaLink="true">https://martinalderson.com/posts/managed-agents-are-the-new-lambda/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-      <description>Martin Alderson</description>
-    </item>
-    <item>
-      <title>Welcome to the Datasette blog</title>
-      <link>https://simonwillison.net/2026/May/13/welcome-to-the-datasette-blog/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/13/welcome-to-the-datasette-blog/#atom-everything</guid>
-      <pubDate>Wed, 13 May 2026 23:59:39 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Software engineers are obsolete... for now</title>
-      <link>https://idiallo.com/blog/everyone-is-better-than-you?src=feed</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/everyone-is-better-than-you?src=feed</guid>
-      <pubDate>Wed, 13 May 2026 22:40:00 +0000</pubDate>
-      <description>iDiallo.com</description>
     </item>
   </channel>
 </rss>
