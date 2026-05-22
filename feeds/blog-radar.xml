@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 22 May 2026 09:40:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 14:52:04 +0000</lastBuildDate>
+    <item>
+      <title>StubZero: $148,337 RCE in Google Cloud Production</title>
+      <link>https://brutecat.com/articles/google-cloud-rce</link>
+      <guid isPermaLink="true">https://brutecat.com/articles/google-cloud-rce</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Brutecat · Research</description>
+    </item>
+    <item>
+      <title>News: OpenAI Had A Negative 122% Non-GAAP Operating Margin In Q1 2026, and ChatGPT Growth Has Stalled</title>
+      <link>https://www.wheresyoured.at/news-openai-had-a-negative-122-operating-margin-in-q1-2026-and-chatgpt-growth-has-stalled/</link>
+      <guid isPermaLink="true">https://www.wheresyoured.at/news-openai-had-a-negative-122-operating-margin-in-q1-2026-and-chatgpt-growth-has-stalled/</guid>
+      <pubDate>Fri, 22 May 2026 14:21:18 +0000</pubDate>
+      <description>Ed Zitron's Where's Your Ed At</description>
+    </item>
+    <item>
+      <title>Dependency Pruning</title>
+      <link>https://nesbitt.io/2026/05/22/dependency-pruning.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/05/22/dependency-pruning.html</guid>
+      <pubDate>Fri, 22 May 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
     <item>
       <title>FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to Settle Charges They Deceived Customers About “Active Listening” AI-Powered Marketing Service</title>
       <link>https://simonwillison.net/2026/May/22/ftc-active-listening/#atom-everything</link>
@@ -405,18 +426,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>What is the history of the ERROR_ARENA_TRASHED error code?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260519-00/?p=112339</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260519-00/?p=112339</guid>
-      <pubDate>Tue, 19 May 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
       <title>Wi-Wi Is Wireless Time Sync at 1 nanosecond</title>
       <link>https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/</link>
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/</guid>
       <pubDate>Tue, 19 May 2026 14:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>What is the history of the ERROR_ARENA_TRASHED error code?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260519-00/?p=112339</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260519-00/?p=112339</guid>
+      <pubDate>Tue, 19 May 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Approximating Markov’s equation</title>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/May/15/inaturalist-clumper/#atom-everything</guid>
       <pubDate>Fri, 15 May 2026 23:53:11 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Wanton Destruction of CBS Property</title>
-      <link>https://www.youtube.com/watch?v=eBKWKu2Rqxc</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=eBKWKu2Rqxc</guid>
-      <pubDate>Fri, 15 May 2026 20:12:09 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Dropover, a Mac Shelf Utility That Makes Clever Use of Mouse Shaking</title>
-      <link>https://dropoverapp.com/</link>
-      <guid isPermaLink="true">https://dropoverapp.com/</guid>
-      <pubDate>Fri, 15 May 2026 19:24:10 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Aluminium OS: Google’s ‘Android for PC’ OS for Googlebooks</title>
-      <link>https://aluminium-os.com/</link>
-      <guid isPermaLink="true">https://aluminium-os.com/</guid>
-      <pubDate>Fri, 15 May 2026 18:37:13 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
