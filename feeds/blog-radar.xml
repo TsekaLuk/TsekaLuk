@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 21 May 2026 20:02:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 04:16:39 +0000</lastBuildDate>
+    <item>
+      <title>Apple Seeks Supreme Court Review of Contempt Finding and Injunction Scope in Epic Games Case</title>
+      <link>https://9to5mac.com/2026/05/21/apple-seeks-supreme-court-review-of-contempt-finding-and-injunction-scope-in-epic-games-case/</link>
+      <guid isPermaLink="true">https://9to5mac.com/2026/05/21/apple-seeks-supreme-court-review-of-contempt-finding-and-injunction-scope-in-epic-games-case/</guid>
+      <pubDate>Fri, 22 May 2026 01:00:47 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Apple TV to Broadcast Entire MLS Match Shot Using iPhones</title>
+      <link>https://www.apple.com/newsroom/2026/05/apple-tv-to-air-first-major-live-pro-sports-event-shot-on-iphone-17-pro/</link>
+      <guid isPermaLink="true">https://www.apple.com/newsroom/2026/05/apple-tv-to-air-first-major-live-pro-sports-event-shot-on-iphone-17-pro/</guid>
+      <pubDate>Thu, 21 May 2026 23:59:07 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Notes on respectfully getting a personal copy of a website's contents</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/web/RespectfulPersonalArchiving</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/web/RespectfulPersonalArchiving</guid>
+      <pubDate>Thu, 21 May 2026 22:45:34 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada</title>
+      <link>https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/</link>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/</guid>
+      <pubDate>Thu, 21 May 2026 21:50:25 +0000</pubDate>
+      <description>Krebs on Security</description>
+    </item>
     <item>
       <title>Datasette Agent</title>
       <link>https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything</link>
@@ -60,6 +88,13 @@
       <guid isPermaLink="true">https://x.com/ArtemR/status/2056961743142957143</guid>
       <pubDate>Thu, 21 May 2026 15:31:54 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>datasette-agent-charts 0.1a2</title>
+      <link>https://simonwillison.net/2026/May/21/datasette-agent-charts/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/21/datasette-agent-charts/#atom-everything</guid>
+      <pubDate>Thu, 21 May 2026 15:15:58 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
     <item>
       <title>datasette-agent 0.1a3</title>
@@ -153,11 +188,25 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
+      <title>"No way to prevent this" say users of only package manager where this regularly happens</title>
+      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/supply-chain/2026-art-template/</link>
+      <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/supply-chain/2026-art-template/</guid>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
+    </item>
+    <item>
       <title>"No way to prevent this" say users of only language where this regularly happens</title>
       <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2026-45250/</link>
       <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2026-45250/</guid>
       <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>TIL: Symlinking NixOS Dotfiles</title>
+      <link>https://matklad.github.io/2026/05/21/symlinking-nixos-dotfiles.html</link>
+      <guid isPermaLink="true">https://matklad.github.io/2026/05/21/symlinking-nixos-dotfiles.html</guid>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+      <description>matklad</description>
     </item>
     <item>
       <title>Read Cindy Cohn's new book, Privacy's Defender: My Thirty-Year Fight Against Digital Surveillance</title>
@@ -214,6 +263,13 @@
       <guid isPermaLink="true">https://buttondown.com/hillelwayne/archive/assumptions-weaken-properties/</guid>
       <pubDate>Wed, 20 May 2026 15:13:16 +0000</pubDate>
       <description>Computer Things</description>
+    </item>
+    <item>
+      <title>datasette-agent-charts 0.1a1</title>
+      <link>https://simonwillison.net/2026/May/20/datasette-agent-charts/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/20/datasette-agent-charts/#atom-everything</guid>
+      <pubDate>Wed, 20 May 2026 14:52:16 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
     <item>
       <title>The classic TreeView control lets me sort by name or by lParam, but why not both?</title>
@@ -788,62 +844,6 @@
       <guid isPermaLink="true">https://www.dwarkesh.com/p/eric-jang</guid>
       <pubDate>Fri, 15 May 2026 16:04:58 +0000</pubDate>
       <description>Dwarkesh Podcast</description>
-    </item>
-    <item>
-      <title>Western Gull, Rock Pigeon</title>
-      <link>https://simonwillison.net/2026/May/15/sighting-361818285/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/15/sighting-361818285/#atom-everything</guid>
-      <pubDate>Fri, 15 May 2026 14:42:00 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>The case of the Create­File­Mapping that always reported ERROR_ALREADY_EXISTS</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260515-00/?p=112327</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260515-00/?p=112327</guid>
-      <pubDate>Fri, 15 May 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Pluralistic: No one wants a permanent gerontocracy (15 May 2026)</title>
-      <link>https://pluralistic.net/2026/05/15/not-ok-boomer/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/05/15/not-ok-boomer/</guid>
-      <pubDate>Fri, 15 May 2026 12:38:04 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Recovering the state of xorshift128</title>
-      <link>https://www.johndcook.com/blog/2026/05/15/xorshift128-state/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/15/xorshift128-state/</guid>
-      <pubDate>Fri, 15 May 2026 12:34:29 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Language Registries Are Unstable by Default</title>
-      <link>https://nesbitt.io/2026/05/15/language-registries-are-unstable-by-default.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/05/15/language-registries-are-unstable-by-default.html</guid>
-      <pubDate>Fri, 15 May 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>UK Government Kicks Out Palantir</title>
-      <link>https://shkspr.mobi/blog/2026/05/uk-government-kicks-out-palantir/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/uk-government-kicks-out-palantir/</guid>
-      <pubDate>Fri, 15 May 2026 05:34:03 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>QR code generator</title>
-      <link>https://simonwillison.net/2026/May/15/qr-code-generator/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/15/qr-code-generator/#atom-everything</guid>
-      <pubDate>Fri, 15 May 2026 04:00:49 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>‘Musk v. Altman’ Closing Arguments</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/931006/musk-v-altman-closing-arguments-analysis?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6ImhxZzBnTXFpSk8iLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzkzMTAwNi9tdXNrLXYtYWx0bWFuLWNsb3NpbmctYXJndW1lbnRzLWFuYWx5c2lzIiwiZXhwIjoxNzc5MjM2OTUwLCJpYXQiOjE3Nzg4MDQ5NTB9.TXQtcV9vkuuKyqcrMaKtSqqoL9_wGWeSYgUyO6ZzK-Y</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/931006/musk-v-altman-closing-arguments-analysis?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6ImhxZzBnTXFpSk8iLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzkzMTAwNi9tdXNrLXYtYWx0bWFuLWNsb3NpbmctYXJndW1lbnRzLWFuYWx5c2lzIiwiZXhwIjoxNzc5MjM2OTUwLCJpYXQiOjE3Nzg4MDQ5NTB9.TXQtcV9vkuuKyqcrMaKtSqqoL9_wGWeSYgUyO6ZzK-Y</guid>
-      <pubDate>Fri, 15 May 2026 00:57:38 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>

@@ -208,11 +208,11 @@ Last Updated: Friday, May 22nd, 2026, 10:48:17 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Apple Seeks Supreme Court Review of Contempt Finding and Injunction Scope in Epic Games Case](https://9to5mac.com/2026/05/21/apple-seeks-supreme-court-review-of-contempt-finding-and-injunction-scope-in-epic-games-case/) — *Daring Fireball* `05-22`
+- [Apple TV to Broadcast Entire MLS Match Shot Using iPhones](https://www.apple.com/newsroom/2026/05/apple-tv-to-air-first-major-live-pro-sports-event-shot-on-iphone-17-pro/) — *Daring Fireball* `05-21`
+- [Notes on respectfully getting a personal copy of a website's contents](https://utcc.utoronto.ca/~cks/space/blog/web/RespectfulPersonalArchiving) — *Chris's Wiki :: blog* `05-21`
+- [Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada](https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/) — *Krebs on Security* `05-21`
 - [Datasette Agent](https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything) — *Simon Willison's Weblog* `05-21`
-- [Apple Sports Expands to More Than 90 New Countries on Cusp of World Cup](https://www.apple.com/newsroom/2026/05/apple-sports-expands-to-more-than-90-new-countries-and-regions/) — *Daring Fireball* `05-21`
-- [Book Notes: “Poor Charlie’s Almanack”](https://blog.jim-nielsen.com/2026/book-notes-charlie-munger/) — *Jim Nielsen’s Blog* `05-21`
-- [datasette-agent-sprites 0.1a0](https://simonwillison.net/2026/May/21/datasette-agent-sprites/#atom-everything) — *Simon Willison's Weblog* `05-21`
-- [Couth and uncouth function pairs](https://www.johndcook.com/blog/2026/05/21/couth-and-uncouth-function-pairs/) — *John D. Cook* `05-21`
 <!--BLOG_RADAR:end-->
 
 ---
