@@ -4,13 +4,69 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 22 May 2026 14:52:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 19:58:10 +0000</lastBuildDate>
     <item>
       <title>StubZero: $148,337 RCE in Google Cloud Production</title>
       <link>https://brutecat.com/articles/google-cloud-rce</link>
       <guid isPermaLink="true">https://brutecat.com/articles/google-cloud-rce</guid>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
       <description>Brutecat · Research</description>
+    </item>
+    <item>
+      <title>How to Talk to Your Coworkers</title>
+      <link>https://idiallo.com/blog/how-to-talk-to-your-coworkers?src=feed</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/how-to-talk-to-your-coworkers?src=feed</guid>
+      <pubDate>Fri, 22 May 2026 19:00:00 +0000</pubDate>
+      <description>iDiallo.com</description>
+    </item>
+    <item>
+      <title>The Ninth Circuit Appeal Ruling in ‘Epic v. Apple’ That Apple Is Seeking to Overturn at the Supreme Court (PDF)</title>
+      <link>https://cdn.ca9.uscourts.gov/datastore/opinions/2025/12/11/25-2935.pdf</link>
+      <guid isPermaLink="true">https://cdn.ca9.uscourts.gov/datastore/opinions/2025/12/11/25-2935.pdf</guid>
+      <pubDate>Fri, 22 May 2026 17:39:05 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Zero Sum Problems and Apple Sports</title>
+      <link>https://kieranhealy.org/blog/archives/2026/05/21/zero-sum-problems/</link>
+      <guid isPermaLink="true">https://kieranhealy.org/blog/archives/2026/05/21/zero-sum-problems/</guid>
+      <pubDate>Fri, 22 May 2026 17:15:00 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Stephen Colbert’s ‘The Late Show’ Finale</title>
+      <link>https://www.nytimes.com/2026/05/22/arts/television/colbert-last-late-show.html?unlocked_article_code=1.kVA.GO3I.gVq9KeUrHEyM</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/22/arts/television/colbert-last-late-show.html?unlocked_article_code=1.kVA.GO3I.gVq9KeUrHEyM</guid>
+      <pubDate>Fri, 22 May 2026 17:12:10 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Lawmakers Demand Answers as CISA Tries to Contain Data Leak</title>
+      <link>https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/</link>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/</guid>
+      <pubDate>Fri, 22 May 2026 16:34:24 +0000</pubDate>
+      <description>Krebs on Security</description>
+    </item>
+    <item>
+      <title>Planescape: Torment, Part 1: From the Tabletop…</title>
+      <link>https://www.filfre.net/2026/05/planescape-torment-part-1-from-the-tabletop/</link>
+      <guid isPermaLink="true">https://www.filfre.net/2026/05/planescape-torment-part-1-from-the-tabletop/</guid>
+      <pubDate>Fri, 22 May 2026 16:27:41 +0000</pubDate>
+      <description>The Digital Antiquarian</description>
+    </item>
+    <item>
+      <title>Premium: What If...We're In An AI Bubble? (Part 2)</title>
+      <link>https://www.wheresyoured.at/premium-what-if-were-in-an-ai-bubble-part-2/</link>
+      <guid isPermaLink="true">https://www.wheresyoured.at/premium-what-if-were-in-an-ai-bubble-part-2/</guid>
+      <pubDate>Fri, 22 May 2026 16:21:32 +0000</pubDate>
+      <description>Ed Zitron's Where's Your Ed At</description>
+    </item>
+    <item>
+      <title>Reiner Pope – Chip design from the bottom up</title>
+      <link>https://www.dwarkesh.com/p/reiner-pope-2</link>
+      <guid isPermaLink="true">https://www.dwarkesh.com/p/reiner-pope-2</guid>
+      <pubDate>Fri, 22 May 2026 15:38:34 +0000</pubDate>
+      <description>Dwarkesh Podcast</description>
     </item>
     <item>
       <title>News: OpenAI Had A Negative 122% Non-GAAP Operating Margin In Q1 2026, and ChatGPT Growth Has Stalled</title>
@@ -426,18 +482,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Wi-Wi Is Wireless Time Sync at 1 nanosecond</title>
-      <link>https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/</guid>
-      <pubDate>Tue, 19 May 2026 14:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
       <title>What is the history of the ERROR_ARENA_TRASHED error code?</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260519-00/?p=112339</link>
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260519-00/?p=112339</guid>
       <pubDate>Tue, 19 May 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>Wi-Wi Is Wireless Time Sync at 1 nanosecond</title>
+      <link>https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/</guid>
+      <pubDate>Tue, 19 May 2026 14:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
     </item>
     <item>
       <title>Approximating Markov’s equation</title>
@@ -788,62 +844,6 @@
       <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-051626</guid>
       <pubDate>Sat, 16 May 2026 12:01:26 +0000</pubDate>
       <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>Pluralistic: Making sense of Trump's unscheduled sudden midair disassembly of the American empire (16 May 2026)</title>
-      <link>https://pluralistic.net/2026/05/16/technopoly/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/05/16/technopoly/</guid>
-      <pubDate>Sat, 16 May 2026 08:35:41 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Getting C code navigation even for Debian (or Ubuntu) packages</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/CCodeIntelligenceForDebs</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/CCodeIntelligenceForDebs</guid>
-      <pubDate>Sat, 16 May 2026 02:00:52 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>The Talk Show: ‘A Sociopathic Father’</title>
-      <link>https://daringfireball.net/thetalkshow/2026/05/15/ep-447</link>
-      <guid isPermaLink="true">https://daringfireball.net/thetalkshow/2026/05/15/ep-447</guid>
-      <pubDate>Sat, 16 May 2026 01:38:00 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Greg Brockman Officially Takes Control of Products at OpenAI, a Very Stable Well-Run Company</title>
-      <link>https://www.wired.com/story/openai-reorg-greg-brockman-product/</link>
-      <guid isPermaLink="true">https://www.wired.com/story/openai-reorg-greg-brockman-product/</guid>
-      <pubDate>Sat, 16 May 2026 01:37:57 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>DeepSeek-V4-Flash means LLM steering is interesting again</title>
-      <link>https://seangoedecke.com/steering-vectors/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/steering-vectors/</guid>
-      <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>Make ZIP files smaller with ZIP Shrinker</title>
-      <link>https://evanhahn.com/make-zip-files-smaller-with-zip-shrinker/</link>
-      <guid isPermaLink="true">https://evanhahn.com/make-zip-files-smaller-with-zip-shrinker/</guid>
-      <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
-      <description>Evan Hahn (dot com)</description>
-    </item>
-    <item>
-      <title>Five Minutes of Prime Time</title>
-      <link>https://susam.net/five-minutes-of-prime-time.html</link>
-      <guid isPermaLink="true">https://susam.net/five-minutes-of-prime-time.html</guid>
-      <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
-      <description>Susam Pal</description>
-    </item>
-    <item>
-      <title>inaturalist-clumper 0.1</title>
-      <link>https://simonwillison.net/2026/May/15/inaturalist-clumper/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/15/inaturalist-clumper/#atom-everything</guid>
-      <pubDate>Fri, 15 May 2026 23:53:11 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>

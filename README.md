@@ -209,10 +209,10 @@ Last Updated: Saturday, May 23rd, 2026, 3:26:50 AM
 
 <!--BLOG_RADAR:start-->
 - [StubZero: $148,337 RCE in Google Cloud Production](https://brutecat.com/articles/google-cloud-rce) — *Brutecat · Research* `06-01`
-- [News: OpenAI Had A Negative 122% Non-GAAP Operating Margin In Q1 2026, and ChatGPT Growth Has Stalled](https://www.wheresyoured.at/news-openai-had-a-negative-122-operating-margin-in-q1-2026-and-chatgpt-growth-has-stalled/) — *Ed Zitron's Where's Your Ed At* `05-22`
-- [Dependency Pruning](https://nesbitt.io/2026/05/22/dependency-pruning.html) — *Andrew Nesbitt* `05-22`
-- [FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to Settle Charges They Deceived Customers About “Active Listening” AI-Powered Marketing Service](https://simonwillison.net/2026/May/22/ftc-active-listening/#atom-everything) — *Simon Willison's Weblog* `05-22`
-- [Apple Seeks Supreme Court Review of Contempt Finding and Injunction Scope in Epic Games Case](https://9to5mac.com/2026/05/21/apple-seeks-supreme-court-review-of-contempt-finding-and-injunction-scope-in-epic-games-case/) — *Daring Fireball* `05-22`
+- [How to Talk to Your Coworkers](https://idiallo.com/blog/how-to-talk-to-your-coworkers?src=feed) — *iDiallo.com* `05-22`
+- [The Ninth Circuit Appeal Ruling in ‘Epic v. Apple’ That Apple Is Seeking to Overturn at the Supreme Court (PDF)](https://cdn.ca9.uscourts.gov/datastore/opinions/2025/12/11/25-2935.pdf) — *Daring Fireball* `05-22`
+- [Zero Sum Problems and Apple Sports](https://kieranhealy.org/blog/archives/2026/05/21/zero-sum-problems/) — *Daring Fireball* `05-22`
+- [Stephen Colbert’s ‘The Late Show’ Finale](https://www.nytimes.com/2026/05/22/arts/television/colbert-last-late-show.html?unlocked_article_code=1.kVA.GO3I.gVq9KeUrHEyM) — *Daring Fireball* `05-22`
 <!--BLOG_RADAR:end-->
 
 ---
