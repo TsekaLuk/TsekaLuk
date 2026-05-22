@@ -208,11 +208,11 @@ Last Updated: Friday, May 22nd, 2026, 4:53:10 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to Settle Charges They Deceived Customers About “Active Listening” AI-Powered Marketing Service](https://simonwillison.net/2026/May/22/ftc-active-listening/#atom-everything) — *Simon Willison's Weblog* `05-22`
 - [Apple Seeks Supreme Court Review of Contempt Finding and Injunction Scope in Epic Games Case](https://9to5mac.com/2026/05/21/apple-seeks-supreme-court-review-of-contempt-finding-and-injunction-scope-in-epic-games-case/) — *Daring Fireball* `05-22`
 - [Apple TV to Broadcast Entire MLS Match Shot Using iPhones](https://www.apple.com/newsroom/2026/05/apple-tv-to-air-first-major-live-pro-sports-event-shot-on-iphone-17-pro/) — *Daring Fireball* `05-21`
 - [Notes on respectfully getting a personal copy of a website's contents](https://utcc.utoronto.ca/~cks/space/blog/web/RespectfulPersonalArchiving) — *Chris's Wiki :: blog* `05-21`
 - [Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada](https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/) — *Krebs on Security* `05-21`
-- [Datasette Agent](https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything) — *Simon Willison's Weblog* `05-21`
 <!--BLOG_RADAR:end-->
 
 ---

@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 22 May 2026 04:16:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 09:40:27 +0000</lastBuildDate>
+    <item>
+      <title>FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to Settle Charges They Deceived Customers About “Active Listening” AI-Powered Marketing Service</title>
+      <link>https://simonwillison.net/2026/May/22/ftc-active-listening/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/22/ftc-active-listening/#atom-everything</guid>
+      <pubDate>Fri, 22 May 2026 04:48:32 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Apple Seeks Supreme Court Review of Contempt Finding and Injunction Scope in Epic Games Case</title>
       <link>https://9to5mac.com/2026/05/21/apple-seeks-supreme-court-review-of-contempt-finding-and-injunction-scope-in-epic-games-case/</link>
@@ -123,6 +130,13 @@
       <guid isPermaLink="true">https://sive.rs/4d</guid>
       <pubDate>Thu, 21 May 2026 14:39:19 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>How do I use Win32 structures from the Windows Runtime?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260521-00/?p=112345</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260521-00/?p=112345</guid>
+      <pubDate>Thu, 21 May 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>The Rise of Build-to-Rent Housing</title>
@@ -391,18 +405,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Wi-Wi Is Wireless Time Sync at 1 nanosecond</title>
-      <link>https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/</guid>
-      <pubDate>Tue, 19 May 2026 14:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
       <title>What is the history of the ERROR_ARENA_TRASHED error code?</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260519-00/?p=112339</link>
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260519-00/?p=112339</guid>
       <pubDate>Tue, 19 May 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>Wi-Wi Is Wireless Time Sync at 1 nanosecond</title>
+      <link>https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/</guid>
+      <pubDate>Tue, 19 May 2026 14:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
     </item>
     <item>
       <title>Approximating Markov’s equation</title>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://aluminium-os.com/</guid>
       <pubDate>Fri, 15 May 2026 18:37:13 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Premium: What If...We're In An AI Bubble? (Part 1)</title>
-      <link>https://www.wheresyoured.at/premium-what-if-were-in-an-ai-bubble-part-1/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/premium-what-if-were-in-an-ai-bubble-part-1/</guid>
-      <pubDate>Fri, 15 May 2026 16:44:27 +0000</pubDate>
-      <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>Eric Jang – Building AlphaGo from scratch</title>
-      <link>https://www.dwarkesh.com/p/eric-jang</link>
-      <guid isPermaLink="true">https://www.dwarkesh.com/p/eric-jang</guid>
-      <pubDate>Fri, 15 May 2026 16:04:58 +0000</pubDate>
-      <description>Dwarkesh Podcast</description>
     </item>
   </channel>
 </rss>
