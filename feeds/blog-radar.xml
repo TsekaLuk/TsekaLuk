@@ -4,13 +4,34 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 23 May 2026 08:27:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 13:51:48 +0000</lastBuildDate>
     <item>
-      <title>StubZero: $148,337 RCE in Google Cloud Production</title>
-      <link>https://brutecat.com/articles/google-cloud-rce</link>
-      <guid isPermaLink="true">https://brutecat.com/articles/google-cloud-rce</guid>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Brutecat · Research</description>
+      <title>Reading List 05/23/26</title>
+      <link>https://www.construction-physics.com/p/reading-list-052326</link>
+      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-052326</guid>
+      <pubDate>Sat, 23 May 2026 12:02:39 +0000</pubDate>
+      <description>Construction Physics</description>
+    </item>
+    <item>
+      <title>Which age-gates should be skill-gates and vice-versa?</title>
+      <link>https://shkspr.mobi/blog/2026/05/which-age-gates-should-be-skill-gates-and-vice-versa/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/which-age-gates-should-be-skill-gates-and-vice-versa/</guid>
+      <pubDate>Sat, 23 May 2026 11:34:31 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>This Week in Package Management: 23 May 2026</title>
+      <link>https://nesbitt.io/2026/05/23/this-week-in-package-management.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/05/23/this-week-in-package-management.html</guid>
+      <pubDate>Sat, 23 May 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>Some notes on how we ended up with Palantir &amp; how to replace it</title>
+      <link>https://berthub.eu/articles/posts/some-notes-on-palantir/</link>
+      <guid isPermaLink="true">https://berthub.eu/articles/posts/some-notes-on-palantir/</guid>
+      <pubDate>Sat, 23 May 2026 08:30:00 +0000</pubDate>
+      <description>Bert Hubert's writings</description>
     </item>
     <item>
       <title>Building complex functions out of real parts</title>
@@ -151,6 +172,13 @@
       <guid isPermaLink="true">https://9to5mac.com/2026/05/21/apple-seeks-supreme-court-review-of-contempt-finding-and-injunction-scope-in-epic-games-case/</guid>
       <pubDate>Fri, 22 May 2026 01:00:47 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>StubZero: $148,337 RCE in Google Cloud Production</title>
+      <link>https://brutecat.com/articles/google-cloud-rce</link>
+      <guid isPermaLink="true">https://brutecat.com/articles/google-cloud-rce</guid>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <description>Brutecat · Research</description>
     </item>
     <item>
       <title>Apple TV to Broadcast Entire MLS Match Shot Using iPhones</title>
@@ -335,6 +363,13 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
+      <title>TIL: Symlinking NixOS Dotfiles</title>
+      <link>https://matklad.github.io/2026/05/21/symlinking-nixos-dotfiles.html</link>
+      <guid isPermaLink="true">https://matklad.github.io/2026/05/21/symlinking-nixos-dotfiles.html</guid>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+      <description>matklad</description>
+    </item>
+    <item>
       <title>"No way to prevent this" say users of only package manager where this regularly happens</title>
       <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/supply-chain/2026-art-template/</link>
       <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/supply-chain/2026-art-template/</guid>
@@ -347,13 +382,6 @@
       <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2026-45250/</guid>
       <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
-    </item>
-    <item>
-      <title>TIL: Symlinking NixOS Dotfiles</title>
-      <link>https://matklad.github.io/2026/05/21/symlinking-nixos-dotfiles.html</link>
-      <guid isPermaLink="true">https://matklad.github.io/2026/05/21/symlinking-nixos-dotfiles.html</guid>
-      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-      <description>matklad</description>
     </item>
     <item>
       <title>Read Cindy Cohn's new book, Privacy's Defender: My Thirty-Year Fight Against Digital Surveillance</title>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://oldvcr.blogspot.com/2026/05/the-tomy-tutor-and-state-of-1983-home.html</guid>
       <pubDate>Sun, 17 May 2026 01:09:46 +0000</pubDate>
       <description>Old Vintage Computing Research</description>
-    </item>
-    <item>
-      <title>How I use LLMs as a staff engineer in 2026</title>
-      <link>https://seangoedecke.com/how-i-use-llms-in-2026/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/how-i-use-llms-in-2026/</guid>
-      <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>The Applicability of Spaced Repetition</title>
-      <link>https://borretti.me/article/the-applicability-of-spaced-repetition</link>
-      <guid isPermaLink="true">https://borretti.me/article/the-applicability-of-spaced-repetition</guid>
-      <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
-      <description>Fernando Borretti</description>
-    </item>
-    <item>
-      <title>Reddit Is Blocking Some Users From Accessing Its Website From Mobile Devices</title>
-      <link>https://arstechnica.com/information-technology/2026/05/why-reddit-blocked-my-daily-visit-to-its-mobile-website/</link>
-      <guid isPermaLink="true">https://arstechnica.com/information-technology/2026/05/why-reddit-blocked-my-daily-visit-to-its-mobile-website/</guid>
-      <pubDate>Sat, 16 May 2026 21:22:38 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Santa Clara County Sues Meta Over Alleged Scam Ads</title>
-      <link>https://sanjosespotlight.com/santa-clara-county-sues-meta-over-alleged-scam-ads/</link>
-      <guid isPermaLink="true">https://sanjosespotlight.com/santa-clara-county-sues-meta-over-alleged-scam-ads/</guid>
-      <pubDate>Sat, 16 May 2026 21:17:15 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>

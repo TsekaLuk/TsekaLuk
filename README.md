@@ -208,11 +208,11 @@ Last Updated: Saturday, May 23rd, 2026, 9:12:45 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [StubZero: $148,337 RCE in Google Cloud Production](https://brutecat.com/articles/google-cloud-rce) — *Brutecat · Research* `06-01`
+- [Reading List 05/23/26](https://www.construction-physics.com/p/reading-list-052326) — *Construction Physics* `05-23`
+- [Which age-gates should be skill-gates and vice-versa?](https://shkspr.mobi/blog/2026/05/which-age-gates-should-be-skill-gates-and-vice-versa/) — *Terence Eden’s Blog* `05-23`
+- [This Week in Package Management: 23 May 2026](https://nesbitt.io/2026/05/23/this-week-in-package-management.html) — *Andrew Nesbitt* `05-23`
+- [Some notes on how we ended up with Palantir & how to replace it](https://berthub.eu/articles/posts/some-notes-on-palantir/) — *Bert Hubert's writings* `05-23`
 - [Building complex functions out of real parts](https://www.johndcook.com/blog/2026/05/22/complex-functions-real-parts/) — *John D. Cook* `05-23`
-- [My views on Flymake and Flycheck in GNU Emacs (as of mid 2026)](https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsFlymakeFlycheck) — *Chris's Wiki :: blog* `05-23`
-- [The commencement speech that shook the world](https://idiallo.com/blog/the-commencement-speech-that-shook-the-world?src=feed) — *iDiallo.com* `05-23`
-- [Don't Roll Your Own ...](https://susam.net/do-not-roll-your-own.html) — *Susam Pal* `05-23`
 <!--BLOG_RADAR:end-->
 
 ---
