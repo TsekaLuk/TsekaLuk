@@ -4,13 +4,55 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 22 May 2026 19:58:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 03:54:41 +0000</lastBuildDate>
     <item>
       <title>StubZero: $148,337 RCE in Google Cloud Production</title>
       <link>https://brutecat.com/articles/google-cloud-rce</link>
       <guid isPermaLink="true">https://brutecat.com/articles/google-cloud-rce</guid>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
       <description>Brutecat · Research</description>
+    </item>
+    <item>
+      <title>Building complex functions out of real parts</title>
+      <link>https://www.johndcook.com/blog/2026/05/22/complex-functions-real-parts/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/22/complex-functions-real-parts/</guid>
+      <pubDate>Sat, 23 May 2026 03:24:10 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>My views on Flymake and Flycheck in GNU Emacs (as of mid 2026)</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsFlymakeFlycheck</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsFlymakeFlycheck</guid>
+      <pubDate>Sat, 23 May 2026 02:57:53 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>The commencement speech that shook the world</title>
+      <link>https://idiallo.com/blog/the-commencement-speech-that-shook-the-world?src=feed</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/the-commencement-speech-that-shook-the-world?src=feed</guid>
+      <pubDate>Sat, 23 May 2026 01:14:24 +0000</pubDate>
+      <description>iDiallo.com</description>
+    </item>
+    <item>
+      <title>The memory shortage is causing a repricing of consumer electronics</title>
+      <link>https://simonwillison.net/2026/May/22/memory-shortage/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/22/memory-shortage/#atom-everything</guid>
+      <pubDate>Fri, 22 May 2026 22:01:31 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>★ The Fonts of the U.S. Federal Courts</title>
+      <link>https://daringfireball.net/2026/05/the_fonts_of_the_us_federal_courts</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/05/the_fonts_of_the_us_federal_courts</guid>
+      <pubDate>Fri, 22 May 2026 20:30:18 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>News about Raspberry Pi 6 and Microcontroller Development</title>
+      <link>https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/</guid>
+      <pubDate>Fri, 22 May 2026 20:15:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
     </item>
     <item>
       <title>How to Talk to Your Coworkers</title>
@@ -74,6 +116,13 @@
       <guid isPermaLink="true">https://www.wheresyoured.at/news-openai-had-a-negative-122-operating-margin-in-q1-2026-and-chatgpt-growth-has-stalled/</guid>
       <pubDate>Fri, 22 May 2026 14:21:18 +0000</pubDate>
       <description>Ed Zitron's Where's Your Ed At</description>
+    </item>
+    <item>
+      <title>Why do you say that a COM STA thread must pump messages if I see sample code creating STA threads and not pumping messages?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260522-00/?p=112348</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260522-00/?p=112348</guid>
+      <pubDate>Fri, 22 May 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Dependency Pruning</title>
@@ -795,55 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/May/16/openclaw-names/#atom-everything</guid>
       <pubDate>Sat, 16 May 2026 20:23:30 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>ArXiv to Ban Researchers for a Year if They Submit AI Slop</title>
-      <link>https://www.404media.co/new-arxiv-rules-ai-generated-papers-ban/</link>
-      <guid isPermaLink="true">https://www.404media.co/new-arxiv-rules-ai-generated-papers-ban/</guid>
-      <pubDate>Sat, 16 May 2026 19:27:34 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The mistake of conflating intelligence and power</title>
-      <link>https://www.dwarkesh.com/p/the-mistake-of-conflating-intelligence</link>
-      <guid isPermaLink="true">https://www.dwarkesh.com/p/the-mistake-of-conflating-intelligence</guid>
-      <pubDate>Sat, 16 May 2026 19:04:16 +0000</pubDate>
-      <description>Dwarkesh Podcast</description>
-    </item>
-    <item>
-      <title>Notes on pretraining parallelisms and failed training runs.</title>
-      <link>https://www.dwarkesh.com/p/notes-on-pretraining-parallelisms</link>
-      <guid isPermaLink="true">https://www.dwarkesh.com/p/notes-on-pretraining-parallelisms</guid>
-      <pubDate>Sat, 16 May 2026 19:01:16 +0000</pubDate>
-      <description>Dwarkesh Podcast</description>
-    </item>
-    <item>
-      <title>RLVR might be disproportionately bad at science</title>
-      <link>https://www.dwarkesh.com/p/rlvr-might-be-disproportionately</link>
-      <guid isPermaLink="true">https://www.dwarkesh.com/p/rlvr-might-be-disproportionately</guid>
-      <pubDate>Sat, 16 May 2026 19:00:59 +0000</pubDate>
-      <description>Dwarkesh Podcast</description>
-    </item>
-    <item>
-      <title>Quoting Julia Evans</title>
-      <link>https://simonwillison.net/2026/May/16/julia-evans/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/16/julia-evans/#atom-everything</guid>
-      <pubDate>Sat, 16 May 2026 16:45:37 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>SQLAlchemy 2 In Practice - Chapter 8: SQLAlchemy and the Web</title>
-      <link>https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-8-sqlalchemy-and-the-web</link>
-      <guid isPermaLink="true">https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---chapter-8-sqlalchemy-and-the-web</guid>
-      <pubDate>Sat, 16 May 2026 13:35:14 +0000</pubDate>
-      <description>Miguel Grinberg's Blog</description>
-    </item>
-    <item>
-      <title>Reading List 05/16/26</title>
-      <link>https://www.construction-physics.com/p/reading-list-051626</link>
-      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-051626</guid>
-      <pubDate>Sat, 16 May 2026 12:01:26 +0000</pubDate>
-      <description>Construction Physics</description>
     </item>
   </channel>
 </rss>

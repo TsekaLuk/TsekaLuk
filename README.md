@@ -209,10 +209,10 @@ Last Updated: Saturday, May 23rd, 2026, 10:33:12 AM
 
 <!--BLOG_RADAR:start-->
 - [StubZero: $148,337 RCE in Google Cloud Production](https://brutecat.com/articles/google-cloud-rce) — *Brutecat · Research* `06-01`
-- [How to Talk to Your Coworkers](https://idiallo.com/blog/how-to-talk-to-your-coworkers?src=feed) — *iDiallo.com* `05-22`
-- [The Ninth Circuit Appeal Ruling in ‘Epic v. Apple’ That Apple Is Seeking to Overturn at the Supreme Court (PDF)](https://cdn.ca9.uscourts.gov/datastore/opinions/2025/12/11/25-2935.pdf) — *Daring Fireball* `05-22`
-- [Zero Sum Problems and Apple Sports](https://kieranhealy.org/blog/archives/2026/05/21/zero-sum-problems/) — *Daring Fireball* `05-22`
-- [Stephen Colbert’s ‘The Late Show’ Finale](https://www.nytimes.com/2026/05/22/arts/television/colbert-last-late-show.html?unlocked_article_code=1.kVA.GO3I.gVq9KeUrHEyM) — *Daring Fireball* `05-22`
+- [Building complex functions out of real parts](https://www.johndcook.com/blog/2026/05/22/complex-functions-real-parts/) — *John D. Cook* `05-23`
+- [My views on Flymake and Flycheck in GNU Emacs (as of mid 2026)](https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsFlymakeFlycheck) — *Chris's Wiki :: blog* `05-23`
+- [The commencement speech that shook the world](https://idiallo.com/blog/the-commencement-speech-that-shook-the-world?src=feed) — *iDiallo.com* `05-23`
+- [The memory shortage is causing a repricing of consumer electronics](https://simonwillison.net/2026/May/22/memory-shortage/#atom-everything) — *Simon Willison's Weblog* `05-22`
 <!--BLOG_RADAR:end-->
 
 ---
