@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 23 May 2026 13:51:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 19:20:58 +0000</lastBuildDate>
+    <item>
+      <title>Reverse engineering circuitry in a Spacelab computer from 1980</title>
+      <link>http://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html</link>
+      <guid isPermaLink="true">http://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html</guid>
+      <pubDate>Sat, 23 May 2026 16:17:44 +0000</pubDate>
+      <description>Ken Shirriff's blog</description>
+    </item>
+    <item>
+      <title>Hilbert transform as an infinite matrix</title>
+      <link>https://www.johndcook.com/blog/2026/05/23/hilbert-transform-as-an-infinite-matrix/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/23/hilbert-transform-as-an-infinite-matrix/</guid>
+      <pubDate>Sat, 23 May 2026 15:09:34 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Real and imaginary parts</title>
+      <link>https://www.johndcook.com/blog/2026/05/23/real-and-imaginary-parts/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/23/real-and-imaginary-parts/</guid>
+      <pubDate>Sat, 23 May 2026 13:57:21 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
     <item>
       <title>Reading List 05/23/26</title>
       <link>https://www.construction-physics.com/p/reading-list-052326</link>
@@ -32,6 +53,13 @@
       <guid isPermaLink="true">https://berthub.eu/articles/posts/some-notes-on-palantir/</guid>
       <pubDate>Sat, 23 May 2026 08:30:00 +0000</pubDate>
       <description>Bert Hubert's writings</description>
+    </item>
+    <item>
+      <title>There is only one bad AI scenario</title>
+      <link>https://geohot.github.io//blog/jekyll/update/2026/05/23/one-bad-scenario.html</link>
+      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/05/23/one-bad-scenario.html</guid>
+      <pubDate>Sat, 23 May 2026 07:00:00 +0000</pubDate>
+      <description>the singularity is nearer</description>
     </item>
     <item>
       <title>Building complex functions out of real parts</title>
@@ -356,20 +384,6 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>The famous o3 "GeoGuessr" prompt did not work</title>
-      <link>https://seangoedecke.com/the-o3-geoguessr-prompt-did-not-work/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/the-o3-geoguessr-prompt-did-not-work/</guid>
-      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>TIL: Symlinking NixOS Dotfiles</title>
-      <link>https://matklad.github.io/2026/05/21/symlinking-nixos-dotfiles.html</link>
-      <guid isPermaLink="true">https://matklad.github.io/2026/05/21/symlinking-nixos-dotfiles.html</guid>
-      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-      <description>matklad</description>
-    </item>
-    <item>
       <title>"No way to prevent this" say users of only package manager where this regularly happens</title>
       <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/supply-chain/2026-art-template/</link>
       <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/supply-chain/2026-art-template/</guid>
@@ -382,6 +396,20 @@
       <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2026-45250/</guid>
       <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>The famous o3 "GeoGuessr" prompt did not work</title>
+      <link>https://seangoedecke.com/the-o3-geoguessr-prompt-did-not-work/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/the-o3-geoguessr-prompt-did-not-work/</guid>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>TIL: Symlinking NixOS Dotfiles</title>
+      <link>https://matklad.github.io/2026/05/21/symlinking-nixos-dotfiles.html</link>
+      <guid isPermaLink="true">https://matklad.github.io/2026/05/21/symlinking-nixos-dotfiles.html</guid>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+      <description>matklad</description>
     </item>
     <item>
       <title>Read Cindy Cohn's new book, Privacy's Defender: My Thirty-Year Fight Against Digital Surveillance</title>
@@ -482,18 +510,18 @@
       <description>John D. Cook</description>
     </item>
     <item>
-      <title>Prompts are technical debt too</title>
-      <link>https://seangoedecke.com/prompts-are-technical-debt-too/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/prompts-are-technical-debt-too/</guid>
-      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
       <title>"No way to prevent this" say users of only language where this regularly happens</title>
       <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2026-45584/</link>
       <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2026-45584/</guid>
       <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>Prompts are technical debt too</title>
+      <link>https://seangoedecke.com/prompts-are-technical-debt-too/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/prompts-are-technical-debt-too/</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>Magic the Gathering format: Fun 40</title>
@@ -566,18 +594,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Wi-Wi Is Wireless Time Sync at 1 nanosecond</title>
-      <link>https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/</guid>
-      <pubDate>Tue, 19 May 2026 14:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
       <title>What is the history of the ERROR_ARENA_TRASHED error code?</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260519-00/?p=112339</link>
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260519-00/?p=112339</guid>
       <pubDate>Tue, 19 May 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>Wi-Wi Is Wireless Time Sync at 1 nanosecond</title>
+      <link>https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/</guid>
+      <pubDate>Tue, 19 May 2026 14:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
     </item>
     <item>
       <title>Approximating Markov’s equation</title>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/May/17/gds-weighs-in/#atom-everything</guid>
       <pubDate>Sun, 17 May 2026 15:59:41 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>In the Empire's Defense</title>
-      <link>https://idiallo.com/blog/the-empire-won?src=feed</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/the-empire-won?src=feed</guid>
-      <pubDate>Sun, 17 May 2026 12:00:00 +0000</pubDate>
-      <description>iDiallo.com</description>
-    </item>
-    <item>
-      <title>GDS weighs in on the NHS's decision to retreat from Open Source</title>
-      <link>https://shkspr.mobi/blog/2026/05/gds-weighs-in-on-the-nhss-decision-to-retreat-from-open-source/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/gds-weighs-in-on-the-nhss-decision-to-retreat-from-open-source/</guid>
-      <pubDate>Sun, 17 May 2026 11:34:30 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Our servers seem to have surprisingly low power consumption</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/tech/ServersLowPowerConsumption</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/tech/ServersLowPowerConsumption</guid>
-      <pubDate>Sun, 17 May 2026 03:03:11 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>The Tomy Tutor and the state of 1983 home computers</title>
-      <link>https://oldvcr.blogspot.com/2026/05/the-tomy-tutor-and-state-of-1983-home.html</link>
-      <guid isPermaLink="true">https://oldvcr.blogspot.com/2026/05/the-tomy-tutor-and-state-of-1983-home.html</guid>
-      <pubDate>Sun, 17 May 2026 01:09:46 +0000</pubDate>
-      <description>Old Vintage Computing Research</description>
     </item>
   </channel>
 </rss>
