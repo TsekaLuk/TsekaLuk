@@ -212,7 +212,7 @@ Last Updated: Saturday, May 23rd, 2026, 4:10:34 PM
 - [Building complex functions out of real parts](https://www.johndcook.com/blog/2026/05/22/complex-functions-real-parts/) — *John D. Cook* `05-23`
 - [My views on Flymake and Flycheck in GNU Emacs (as of mid 2026)](https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsFlymakeFlycheck) — *Chris's Wiki :: blog* `05-23`
 - [The commencement speech that shook the world](https://idiallo.com/blog/the-commencement-speech-that-shook-the-world?src=feed) — *iDiallo.com* `05-23`
-- [The memory shortage is causing a repricing of consumer electronics](https://simonwillison.net/2026/May/22/memory-shortage/#atom-everything) — *Simon Willison's Weblog* `05-22`
+- [Don't Roll Your Own ...](https://susam.net/do-not-roll-your-own.html) — *Susam Pal* `05-23`
 <!--BLOG_RADAR:end-->
 
 ---
