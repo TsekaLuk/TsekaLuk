@@ -4,7 +4,42 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 24 May 2026 13:49:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 19:25:15 +0000</lastBuildDate>
+    <item>
+      <title>Quoting Armin Ronacher</title>
+      <link>https://simonwillison.net/2026/May/24/armin-ronacher/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/24/armin-ronacher/#atom-everything</guid>
+      <pubDate>Sun, 24 May 2026 18:46:53 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Why Steve Kerr Stayed With the Warriors</title>
+      <link>https://www.espn.com/nba/story/_/id/48686303/steve-kerr-decision-return-coach-golden-state-warriors-steph-curry</link>
+      <guid isPermaLink="true">https://www.espn.com/nba/story/_/id/48686303/steve-kerr-decision-return-coach-golden-state-warriors-steph-curry</guid>
+      <pubDate>Sun, 24 May 2026 17:27:24 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Walking the dog with Claude</title>
+      <link>http://xania.org/202605/walking-the-dog?utm_source=feed&amp;utm_medium=rss</link>
+      <guid isPermaLink="true">http://xania.org/202605/walking-the-dog?utm_source=feed&amp;utm_medium=rss</guid>
+      <pubDate>Sun, 24 May 2026 16:55:00 +0000</pubDate>
+      <description>Matt Godbolt’s blog</description>
+    </item>
+    <item>
+      <title>An idea: user level WireGuard for UDP based encryption and authentication</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/tech/WireGuardForUDPAuthEncryption</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/tech/WireGuardForUDPAuthEncryption</guid>
+      <pubDate>Sun, 24 May 2026 14:24:46 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>How my minimal, memory-safe Go rsync steers clear of vulnerabilities</title>
+      <link>https://michael.stapelberg.ch/posts/2026-05-24-minimal-memory-safe-go-rsync-vulns/</link>
+      <guid isPermaLink="true">https://michael.stapelberg.ch/posts/2026-05-24-minimal-memory-safe-go-rsync-vulns/</guid>
+      <pubDate>Sun, 24 May 2026 14:20:22 +0000</pubDate>
+      <description>Michael Stapelbergs Website</description>
+    </item>
     <item>
       <title>Signing is for the bad days</title>
       <link>https://nesbitt.io/2026/05/24/signing-is-for-the-bad-days.html</link>
@@ -13,11 +48,25 @@
       <description>Andrew Nesbitt</description>
     </item>
     <item>
+      <title>The Eternal Sloptember</title>
+      <link>https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html</link>
+      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html</guid>
+      <pubDate>Sun, 24 May 2026 07:00:00 +0000</pubDate>
+      <description>the singularity is nearer</description>
+    </item>
+    <item>
       <title>Weekly Update 505</title>
       <link>https://www.troyhunt.com/weekly-update-505/</link>
       <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-505/</guid>
       <pubDate>Sun, 24 May 2026 01:34:54 +0000</pubDate>
       <description>Troy Hunt</description>
+    </item>
+    <item>
+      <title>Building Pi With Pi</title>
+      <link>https://lucumr.pocoo.org/2026/5/24/pi-oss/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/5/24/pi-oss/</guid>
+      <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+      <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
       <title>Childhood Computing</title>
@@ -629,18 +678,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>What is the history of the ERROR_ARENA_TRASHED error code?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260519-00/?p=112339</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260519-00/?p=112339</guid>
-      <pubDate>Tue, 19 May 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
       <title>Wi-Wi Is Wireless Time Sync at 1 nanosecond</title>
       <link>https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/</link>
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/</guid>
       <pubDate>Tue, 19 May 2026 14:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>What is the history of the ERROR_ARENA_TRASHED error code?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260519-00/?p=112339</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260519-00/?p=112339</guid>
+      <pubDate>Tue, 19 May 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Approximating Markov’s equation</title>
@@ -795,55 +844,6 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260518-00/?p=112334</guid>
       <pubDate>Mon, 18 May 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Don't call yourself a Software Engineer, and other Career Advice</title>
-      <link>https://idiallo.com/blog/you-are-an-ai-enabled-engineer-now?src=feed</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/you-are-an-ai-enabled-engineer-now?src=feed</guid>
-      <pubDate>Mon, 18 May 2026 12:00:00 +0000</pubDate>
-      <description>iDiallo.com</description>
-    </item>
-    <item>
-      <title>FediMeteo, HAProxy, and the art of not wasting snac threads</title>
-      <link>https://it-notes.dragas.net/2026/05/18/fedimeteo-haproxy-and-the-art-of-not-wasting-snac-threads/</link>
-      <guid isPermaLink="true">https://it-notes.dragas.net/2026/05/18/fedimeteo-haproxy-and-the-art-of-not-wasting-snac-threads/</guid>
-      <pubDate>Mon, 18 May 2026 09:44:00 +0000</pubDate>
-      <description>IT Notes</description>
-    </item>
-    <item>
-      <title>Weekly Update 504</title>
-      <link>https://www.troyhunt.com/weekly-update-504/</link>
-      <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-504/</guid>
-      <pubDate>Mon, 18 May 2026 03:46:55 +0000</pubDate>
-      <description>Troy Hunt</description>
-    </item>
-    <item>
-      <title>Unicode and Emoji in terminals, or my simple but difficult wish</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/tech/UnicodeEmojiInTerminals</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/tech/UnicodeEmojiInTerminals</guid>
-      <pubDate>Mon, 18 May 2026 02:26:40 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>How I Use My Index 01 + Production Update</title>
-      <link>https://repebble.com/blog/how-i-use-my-index-01-production-update</link>
-      <guid isPermaLink="true">https://repebble.com/blog/how-i-use-my-index-01-production-update</guid>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <description>Eric Migicovsky's Blog RSS Feed</description>
-    </item>
-    <item>
-      <title>The just-say-no engineer was a ZIRP phenomenon</title>
-      <link>https://seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/</guid>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>Always Be Blaming</title>
-      <link>https://matklad.github.io/2026/05/18/always-be-blaming.html</link>
-      <guid isPermaLink="true">https://matklad.github.io/2026/05/18/always-be-blaming.html</guid>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <description>matklad</description>
     </item>
   </channel>
 </rss>
