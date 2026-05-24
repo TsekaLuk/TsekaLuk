@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 24 May 2026 08:39:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 13:49:38 +0000</lastBuildDate>
+    <item>
+      <title>Signing is for the bad days</title>
+      <link>https://nesbitt.io/2026/05/24/signing-is-for-the-bad-days.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/05/24/signing-is-for-the-bad-days.html</guid>
+      <pubDate>Sun, 24 May 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
     <item>
       <title>Weekly Update 505</title>
       <link>https://www.troyhunt.com/weekly-update-505/</link>
@@ -622,18 +629,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Wi-Wi Is Wireless Time Sync at 1 nanosecond</title>
-      <link>https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/</guid>
-      <pubDate>Tue, 19 May 2026 14:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
       <title>What is the history of the ERROR_ARENA_TRASHED error code?</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260519-00/?p=112339</link>
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260519-00/?p=112339</guid>
       <pubDate>Tue, 19 May 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>Wi-Wi Is Wireless Time Sync at 1 nanosecond</title>
+      <link>https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/</guid>
+      <pubDate>Tue, 19 May 2026 14:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
     </item>
     <item>
       <title>Approximating Markov’s equation</title>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://matklad.github.io/2026/05/18/always-be-blaming.html</guid>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
       <description>matklad</description>
-    </item>
-    <item>
-      <title>Human Bottlenecks</title>
-      <link>https://borretti.me/article/human-bottlenecks</link>
-      <guid isPermaLink="true">https://borretti.me/article/human-bottlenecks</guid>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <description>Fernando Borretti</description>
     </item>
   </channel>
 </rss>

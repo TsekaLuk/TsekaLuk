@@ -208,11 +208,11 @@ Last Updated: Sunday, May 24th, 2026, 9:13:13 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Signing is for the bad days](https://nesbitt.io/2026/05/24/signing-is-for-the-bad-days.html) — *Andrew Nesbitt* `05-24`
 - [Weekly Update 505](https://www.troyhunt.com/weekly-update-505/) — *Troy Hunt* `05-24`
 - [Childhood Computing](https://susam.net/childhood-computing.html) — *Susam Pal* `05-24`
 - [How our environment still needs the security boundary of Unix logins](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/WhyWeNeedUnixLoginSecurity) — *Chris's Wiki :: blog* `05-23`
 - [On the <dl>](https://simonwillison.net/2026/May/23/on-the-dl/#atom-everything) — *Simon Willison's Weblog* `05-23`
-- [Reverse engineering circuitry in a Spacelab computer from 1980](http://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html) — *Ken Shirriff's blog* `05-23`
 <!--BLOG_RADAR:end-->
 
 ---
