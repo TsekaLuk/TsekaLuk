@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 23 May 2026 19:20:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 04:15:14 +0000</lastBuildDate>
+    <item>
+      <title>Weekly Update 505</title>
+      <link>https://www.troyhunt.com/weekly-update-505/</link>
+      <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-505/</guid>
+      <pubDate>Sun, 24 May 2026 01:34:54 +0000</pubDate>
+      <description>Troy Hunt</description>
+    </item>
+    <item>
+      <title>How our environment still needs the security boundary of Unix logins</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/WhyWeNeedUnixLoginSecurity</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/WhyWeNeedUnixLoginSecurity</guid>
+      <pubDate>Sat, 23 May 2026 23:28:33 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>On the &lt;dl&gt;</title>
+      <link>https://simonwillison.net/2026/May/23/on-the-dl/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/23/on-the-dl/#atom-everything</guid>
+      <pubDate>Sat, 23 May 2026 20:24:48 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Reverse engineering circuitry in a Spacelab computer from 1980</title>
       <link>http://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html</link>
@@ -384,6 +405,13 @@
       <description>Daring Fireball</description>
     </item>
     <item>
+      <title>The famous o3 "GeoGuessr" prompt did not work</title>
+      <link>https://seangoedecke.com/the-o3-geoguessr-prompt-did-not-work/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/the-o3-geoguessr-prompt-did-not-work/</guid>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
       <title>"No way to prevent this" say users of only package manager where this regularly happens</title>
       <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/supply-chain/2026-art-template/</link>
       <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/supply-chain/2026-art-template/</guid>
@@ -396,13 +424,6 @@
       <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2026-45250/</guid>
       <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
-    </item>
-    <item>
-      <title>The famous o3 "GeoGuessr" prompt did not work</title>
-      <link>https://seangoedecke.com/the-o3-geoguessr-prompt-did-not-work/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/the-o3-geoguessr-prompt-did-not-work/</guid>
-      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>TIL: Symlinking NixOS Dotfiles</title>
@@ -510,18 +531,18 @@
       <description>John D. Cook</description>
     </item>
     <item>
-      <title>"No way to prevent this" say users of only language where this regularly happens</title>
-      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2026-45584/</link>
-      <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2026-45584/</guid>
-      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
       <title>Prompts are technical debt too</title>
       <link>https://seangoedecke.com/prompts-are-technical-debt-too/</link>
       <guid isPermaLink="true">https://seangoedecke.com/prompts-are-technical-debt-too/</guid>
       <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>"No way to prevent this" say users of only language where this regularly happens</title>
+      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2026-45584/</link>
+      <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2026-45584/</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>Magic the Gathering format: Fun 40</title>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://bernsteinbear.com/blog/travel-notes-rubykaigi-hakodate/?utm_source=rss</guid>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
       <description>Max Bernstein's Blog</description>
-    </item>
-    <item>
-      <title>How to be inspired without copying</title>
-      <link>https://www.joanwestenberg.com/how-to-be-inspired-without-copying/</link>
-      <guid isPermaLink="true">https://www.joanwestenberg.com/how-to-be-inspired-without-copying/</guid>
-      <pubDate>Sun, 17 May 2026 22:33:32 +0000</pubDate>
-      <description>Westenberg.</description>
-    </item>
-    <item>
-      <title>Drata</title>
-      <link>https://drata.com/daring</link>
-      <guid isPermaLink="true">https://drata.com/daring</guid>
-      <pubDate>Sun, 17 May 2026 17:59:15 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>GDS weighs in on the NHS's decision to retreat from Open Source</title>
-      <link>https://simonwillison.net/2026/May/17/gds-weighs-in/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/17/gds-weighs-in/#atom-everything</guid>
-      <pubDate>Sun, 17 May 2026 15:59:41 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>

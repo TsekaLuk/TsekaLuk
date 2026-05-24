@@ -208,11 +208,11 @@ Last Updated: Sunday, May 24th, 2026, 10:44:22 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Weekly Update 505](https://www.troyhunt.com/weekly-update-505/) — *Troy Hunt* `05-24`
+- [How our environment still needs the security boundary of Unix logins](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/WhyWeNeedUnixLoginSecurity) — *Chris's Wiki :: blog* `05-23`
+- [On the <dl>](https://simonwillison.net/2026/May/23/on-the-dl/#atom-everything) — *Simon Willison's Weblog* `05-23`
 - [Reverse engineering circuitry in a Spacelab computer from 1980](http://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html) — *Ken Shirriff's blog* `05-23`
 - [Hilbert transform as an infinite matrix](https://www.johndcook.com/blog/2026/05/23/hilbert-transform-as-an-infinite-matrix/) — *John D. Cook* `05-23`
-- [Real and imaginary parts](https://www.johndcook.com/blog/2026/05/23/real-and-imaginary-parts/) — *John D. Cook* `05-23`
-- [Reading List 05/23/26](https://www.construction-physics.com/p/reading-list-052326) — *Construction Physics* `05-23`
-- [Which age-gates should be skill-gates and vice-versa?](https://shkspr.mobi/blog/2026/05/which-age-gates-should-be-skill-gates-and-vice-versa/) — *Terence Eden’s Blog* `05-23`
 <!--BLOG_RADAR:end-->
 
 ---
