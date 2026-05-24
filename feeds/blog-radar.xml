@@ -4,13 +4,20 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 24 May 2026 04:15:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 08:39:33 +0000</lastBuildDate>
     <item>
       <title>Weekly Update 505</title>
       <link>https://www.troyhunt.com/weekly-update-505/</link>
       <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-505/</guid>
       <pubDate>Sun, 24 May 2026 01:34:54 +0000</pubDate>
       <description>Troy Hunt</description>
+    </item>
+    <item>
+      <title>Childhood Computing</title>
+      <link>https://susam.net/childhood-computing.html</link>
+      <guid isPermaLink="true">https://susam.net/childhood-computing.html</guid>
+      <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+      <description>Susam Pal</description>
     </item>
     <item>
       <title>How our environment still needs the security boundary of Unix logins</title>
@@ -615,18 +622,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>What is the history of the ERROR_ARENA_TRASHED error code?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260519-00/?p=112339</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260519-00/?p=112339</guid>
-      <pubDate>Tue, 19 May 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
       <title>Wi-Wi Is Wireless Time Sync at 1 nanosecond</title>
       <link>https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/</link>
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/</guid>
       <pubDate>Tue, 19 May 2026 14:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>What is the history of the ERROR_ARENA_TRASHED error code?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260519-00/?p=112339</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260519-00/?p=112339</guid>
+      <pubDate>Tue, 19 May 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Approximating Markov’s equation</title>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://borretti.me/article/human-bottlenecks</guid>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
       <description>Fernando Borretti</description>
-    </item>
-    <item>
-      <title>Travel notes: RubyKaigi Hakodate</title>
-      <link>https://bernsteinbear.com/blog/travel-notes-rubykaigi-hakodate/?utm_source=rss</link>
-      <guid isPermaLink="true">https://bernsteinbear.com/blog/travel-notes-rubykaigi-hakodate/?utm_source=rss</guid>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <description>Max Bernstein's Blog</description>
     </item>
   </channel>
 </rss>

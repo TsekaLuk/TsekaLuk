@@ -209,10 +209,10 @@ Last Updated: Sunday, May 24th, 2026, 4:22:06 PM
 
 <!--BLOG_RADAR:start-->
 - [Weekly Update 505](https://www.troyhunt.com/weekly-update-505/) — *Troy Hunt* `05-24`
+- [Childhood Computing](https://susam.net/childhood-computing.html) — *Susam Pal* `05-24`
 - [How our environment still needs the security boundary of Unix logins](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/WhyWeNeedUnixLoginSecurity) — *Chris's Wiki :: blog* `05-23`
 - [On the <dl>](https://simonwillison.net/2026/May/23/on-the-dl/#atom-everything) — *Simon Willison's Weblog* `05-23`
 - [Reverse engineering circuitry in a Spacelab computer from 1980](http://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html) — *Ken Shirriff's blog* `05-23`
-- [Hilbert transform as an infinite matrix](https://www.johndcook.com/blog/2026/05/23/hilbert-transform-as-an-infinite-matrix/) — *John D. Cook* `05-23`
 <!--BLOG_RADAR:end-->
 
 ---
