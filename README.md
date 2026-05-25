@@ -208,11 +208,11 @@ Last Updated: Monday, May 25th, 2026, 5:55:43 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [FediMeteo, timezones, and the art of not breaking what already works](https://it-notes.dragas.net/2026/05/25/fedimeteo-timezones-and-the-art-of-not-breaking-what-already-works/) — *IT Notes* `05-25`
+- [Pluralistic: No honor among (ad-tech) thieves (25 May 2026)](https://pluralistic.net/2026/05/25/lying-spies/) — *Pluralistic: Daily links from Cory Doctorow* `05-25`
 - [Why I can't stand the word "driven"](https://www.joanwestenberg.com/why-i-cant-stand-the-word-driven/) — *Westenberg.* `05-25`
 - [datasette 1.0a30](https://simonwillison.net/2026/May/24/datasette/#atom-everything) — *Simon Willison's Weblog* `05-24`
 - [datasette-agent 0.1a4](https://simonwillison.net/2026/May/24/datasette-agent/#atom-everything) — *Simon Willison's Weblog* `05-24`
-- [datasette-fixtures 0.1a0](https://simonwillison.net/2026/May/24/datasette-fixtures/#atom-everything) — *Simon Willison's Weblog* `05-24`
-- [Quoting Armin Ronacher](https://simonwillison.net/2026/May/24/armin-ronacher/#atom-everything) — *Simon Willison's Weblog* `05-24`
 <!--BLOG_RADAR:end-->
 
 ---

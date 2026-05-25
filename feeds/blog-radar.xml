@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 25 May 2026 04:26:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 10:22:34 +0000</lastBuildDate>
+    <item>
+      <title>FediMeteo, timezones, and the art of not breaking what already works</title>
+      <link>https://it-notes.dragas.net/2026/05/25/fedimeteo-timezones-and-the-art-of-not-breaking-what-already-works/</link>
+      <guid isPermaLink="true">https://it-notes.dragas.net/2026/05/25/fedimeteo-timezones-and-the-art-of-not-breaking-what-already-works/</guid>
+      <pubDate>Mon, 25 May 2026 09:14:00 +0000</pubDate>
+      <description>IT Notes</description>
+    </item>
+    <item>
+      <title>Pluralistic: No honor among (ad-tech) thieves (25 May 2026)</title>
+      <link>https://pluralistic.net/2026/05/25/lying-spies/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/05/25/lying-spies/</guid>
+      <pubDate>Mon, 25 May 2026 08:21:45 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
     <item>
       <title>Why I can't stand the word "driven"</title>
       <link>https://www.joanwestenberg.com/why-i-cant-stand-the-word-driven/</link>
@@ -97,6 +111,13 @@
       <description>Troy Hunt</description>
     </item>
     <item>
+      <title>Building Pi With Pi</title>
+      <link>https://lucumr.pocoo.org/2026/5/24/pi-oss/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/5/24/pi-oss/</guid>
+      <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+      <description>Armin Ronacher's Thoughts and Writings</description>
+    </item>
+    <item>
       <title>Childhood Computing</title>
       <link>https://susam.net/childhood-computing.html</link>
       <guid isPermaLink="true">https://susam.net/childhood-computing.html</guid>
@@ -104,11 +125,11 @@
       <description>Susam Pal</description>
     </item>
     <item>
-      <title>Building Pi With Pi</title>
-      <link>https://lucumr.pocoo.org/2026/5/24/pi-oss/</link>
-      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/5/24/pi-oss/</guid>
+      <title>Games Are the Art Form of Our Time</title>
+      <link>https://hey.paris/posts/ncp-submission/</link>
+      <guid isPermaLink="true">https://hey.paris/posts/ncp-submission/</guid>
       <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
-      <description>Armin Ronacher's Thoughts and Writings</description>
+      <description>Dr Paris Buttfield-Addison</description>
     </item>
     <item>
       <title>How our environment still needs the security boundary of Unix logins</title>
@@ -151,13 +172,6 @@
       <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-052326</guid>
       <pubDate>Sat, 23 May 2026 12:02:39 +0000</pubDate>
       <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>Which age-gates should be skill-gates and vice-versa?</title>
-      <link>https://shkspr.mobi/blog/2026/05/which-age-gates-should-be-skill-gates-and-vice-versa/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/which-age-gates-should-be-skill-gates-and-vice-versa/</guid>
-      <pubDate>Sat, 23 May 2026 11:34:31 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>This Week in Package Management: 23 May 2026</title>
@@ -454,13 +468,6 @@
       <description>Construction Physics</description>
     </item>
     <item>
-      <title>Whale Fall</title>
-      <link>https://shkspr.mobi/blog/2026/05/whale-fall/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/whale-fall/</guid>
-      <pubDate>Thu, 21 May 2026 11:34:15 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>Digitale autonomie: wat kunnen organisaties NU doen</title>
       <link>https://berthub.eu/articles/posts/digitale-autonomie-wat-kunnen-organisaties-nu-doen/</link>
       <guid isPermaLink="true">https://berthub.eu/articles/posts/digitale-autonomie-wat-kunnen-organisaties-nu-doen/</guid>
@@ -531,6 +538,13 @@
       <description>matklad</description>
     </item>
     <item>
+      <title>Leo wouldn't stand still</title>
+      <link>https://hey.paris/posts/leo-sprite-alignment/</link>
+      <guid isPermaLink="true">https://hey.paris/posts/leo-sprite-alignment/</guid>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+      <description>Dr Paris Buttfield-Addison</description>
+    </item>
+    <item>
       <title>Read Cindy Cohn's new book, Privacy's Defender: My Thirty-Year Fight Against Digital Surveillance</title>
       <link>https://micahflee.com/read-cindy-cohns-new-book-privacys-defender-my-thirty-year-fight-against-digital-surveillance/</link>
       <guid isPermaLink="true">https://micahflee.com/read-cindy-cohns-new-book-privacys-defender-my-thirty-year-fight-against-digital-surveillance/</guid>
@@ -599,13 +613,6 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260520-00/?p=112343</guid>
       <pubDate>Wed, 20 May 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>[RSS Club] Let's meet up AFK</title>
-      <link>https://shkspr.mobi/blog/2026/05/rss-club-lets-meet-up-afk/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/rss-club-lets-meet-up-afk/</guid>
-      <pubDate>Wed, 20 May 2026 11:34:04 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>What will better AI mean?</title>
@@ -732,13 +739,6 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/19/zagiers-equation/</guid>
       <pubDate>Tue, 19 May 2026 12:09:54 +0000</pubDate>
       <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Book Review: Terrible Worlds: Destinations by Adrian Tchaikovsky ★★★★★</title>
-      <link>https://shkspr.mobi/blog/2026/05/book-review-terrible-worlds-destinations-by-adrian-tchaikovsky/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/book-review-terrible-worlds-destinations-by-adrian-tchaikovsky/</guid>
-      <pubDate>Tue, 19 May 2026 11:34:17 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Dumb Ways for an Open Source Project to Die</title>
