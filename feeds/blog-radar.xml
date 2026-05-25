@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 25 May 2026 15:21:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 19:50:50 +0000</lastBuildDate>
+    <item>
+      <title>Thieves Are Texting Threats to Victims of iPhone Theft in London</title>
+      <link>https://www.nytimes.com/2026/05/23/world/europe/phone-theft-threats-london.html?unlocked_article_code=1.lFA.OUt7.VJ_FoDpINr0L</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/05/23/world/europe/phone-theft-threats-london.html?unlocked_article_code=1.lFA.OUt7.VJ_FoDpINr0L</guid>
+      <pubDate>Mon, 25 May 2026 19:23:32 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Trump Mobile Website Exposed the Number of Pre-Orders — Both Completed and Abandoned — and the Associated Customer Information</title>
+      <link>https://www.theguardian.com/us-news/2026/may/23/trump-mobile-investigating-potential-exposure-of-would-be-customers-personal-information</link>
+      <guid isPermaLink="true">https://www.theguardian.com/us-news/2026/may/23/trump-mobile-investigating-potential-exposure-of-would-be-customers-personal-information</guid>
+      <pubDate>Mon, 25 May 2026 18:54:37 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>The History of ‘OK’</title>
+      <link>https://www.merriam-webster.com/wordplay/the-hilarious-history-of-ok-okay</link>
+      <guid isPermaLink="true">https://www.merriam-webster.com/wordplay/the-hilarious-history-of-ok-okay</guid>
+      <pubDate>Mon, 25 May 2026 17:18:56 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Anti-robot techniques can be nice but the problem is, they're not static</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/web/RobotsVsLowAttentionWebsites</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/web/RobotsVsLowAttentionWebsites</guid>
+      <pubDate>Mon, 25 May 2026 17:13:14 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
     <item>
       <title>WorkOS: ‘Agents Need Context. Ship the Integrations That Give It to Them.’</title>
       <link>https://workos.com/docs/pipes?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026</link>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">http://antirez.com/news/166</guid>
       <pubDate>Tue, 19 May 2026 07:26:03 +0000</pubDate>
       <description>&lt;antirez&gt;</description>
-    </item>
-    <item>
-      <title>Pluralistic: There's no such thing as "age verification" (19 May 2026)</title>
-      <link>https://pluralistic.net/2026/05/19/shes-dead-of-course/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/05/19/shes-dead-of-course/</guid>
-      <pubDate>Tue, 19 May 2026 07:17:09 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>The last six months in LLMs in five minutes</title>
-      <link>https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything</guid>
-      <pubDate>Tue, 19 May 2026 01:09:44 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>The Fourth Era of Computing</title>
-      <link>https://danieldelaney.net/fourth-era/</link>
-      <guid isPermaLink="true">https://danieldelaney.net/fourth-era/</guid>
-      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-      <description>Daniel De Laney</description>
-    </item>
-    <item>
-      <title>Pythagorean Addition</title>
-      <link>https://entropicthoughts.com/pythagorean-addition</link>
-      <guid isPermaLink="true">https://entropicthoughts.com/pythagorean-addition</guid>
-      <pubDate>Mon, 18 May 2026 22:00:00 +0000</pubDate>
-      <description>Entropic Thoughts</description>
     </item>
   </channel>
 </rss>

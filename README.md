@@ -208,11 +208,11 @@ Last Updated: Tuesday, May 26th, 2026, 3:21:06 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Thieves Are Texting Threats to Victims of iPhone Theft in London](https://www.nytimes.com/2026/05/23/world/europe/phone-theft-threats-london.html?unlocked_article_code=1.lFA.OUt7.VJ_FoDpINr0L) — *Daring Fireball* `05-25`
+- [Trump Mobile Website Exposed the Number of Pre-Orders — Both Completed and Abandoned — and the Associated Customer Information](https://www.theguardian.com/us-news/2026/may/23/trump-mobile-investigating-potential-exposure-of-would-be-customers-personal-information) — *Daring Fireball* `05-25`
+- [The History of ‘OK’](https://www.merriam-webster.com/wordplay/the-hilarious-history-of-ok-okay) — *Daring Fireball* `05-25`
+- [Anti-robot techniques can be nice but the problem is, they're not static](https://utcc.utoronto.ca/~cks/space/blog/web/RobotsVsLowAttentionWebsites) — *Chris's Wiki :: blog* `05-25`
 - [WorkOS: ‘Agents Need Context. Ship the Integrations That Give It to Them.’](https://workos.com/docs/pipes?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q22026) — *Daring Fireball* `05-25`
-- [Distributing LLM inference in DwarfStar](http://antirez.com/news/167) — *<antirez>* `05-25`
-- [Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks](https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/) — *Krebs on Security* `05-25`
-- [PHP - simple way to send HTTP headers before a script ends](https://shkspr.mobi/blog/2026/05/php-simple-way-to-send-http-headers-before-a-script-ends/) — *Terence Eden’s Blog* `05-25`
-- [GitHub Actions security in Python packages](https://nesbitt.io/2026/05/25/github-actions-security-in-python-packages.html) — *Andrew Nesbitt* `05-25`
 <!--BLOG_RADAR:end-->
 
 ---
