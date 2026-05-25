@@ -208,11 +208,11 @@ Last Updated: Monday, May 25th, 2026, 10:53:16 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Why I can't stand the word "driven"](https://www.joanwestenberg.com/why-i-cant-stand-the-word-driven/) — *Westenberg.* `05-25`
+- [datasette 1.0a30](https://simonwillison.net/2026/May/24/datasette/#atom-everything) — *Simon Willison's Weblog* `05-24`
+- [datasette-agent 0.1a4](https://simonwillison.net/2026/May/24/datasette-agent/#atom-everything) — *Simon Willison's Weblog* `05-24`
+- [datasette-fixtures 0.1a0](https://simonwillison.net/2026/May/24/datasette-fixtures/#atom-everything) — *Simon Willison's Weblog* `05-24`
 - [Quoting Armin Ronacher](https://simonwillison.net/2026/May/24/armin-ronacher/#atom-everything) — *Simon Willison's Weblog* `05-24`
-- [Why Steve Kerr Stayed With the Warriors](https://www.espn.com/nba/story/_/id/48686303/steve-kerr-decision-return-coach-golden-state-warriors-steph-curry) — *Daring Fireball* `05-24`
-- [Walking the dog with Claude](http://xania.org/202605/walking-the-dog?utm_source=feed&utm_medium=rss) — *Matt Godbolt’s blog* `05-24`
-- [An idea: user level WireGuard for UDP based encryption and authentication](https://utcc.utoronto.ca/~cks/space/blog/tech/WireGuardForUDPAuthEncryption) — *Chris's Wiki :: blog* `05-24`
-- [How my minimal, memory-safe Go rsync steers clear of vulnerabilities](https://michael.stapelberg.ch/posts/2026-05-24-minimal-memory-safe-go-rsync-vulns/) — *Michael Stapelbergs Website* `05-24`
 <!--BLOG_RADAR:end-->
 
 ---

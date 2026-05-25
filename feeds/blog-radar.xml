@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 24 May 2026 19:25:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 04:26:13 +0000</lastBuildDate>
+    <item>
+      <title>Why I can't stand the word "driven"</title>
+      <link>https://www.joanwestenberg.com/why-i-cant-stand-the-word-driven/</link>
+      <guid isPermaLink="true">https://www.joanwestenberg.com/why-i-cant-stand-the-word-driven/</guid>
+      <pubDate>Mon, 25 May 2026 00:08:34 +0000</pubDate>
+      <description>Westenberg.</description>
+    </item>
+    <item>
+      <title>datasette 1.0a30</title>
+      <link>https://simonwillison.net/2026/May/24/datasette/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/24/datasette/#atom-everything</guid>
+      <pubDate>Sun, 24 May 2026 23:52:37 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>datasette-agent 0.1a4</title>
+      <link>https://simonwillison.net/2026/May/24/datasette-agent/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/24/datasette-agent/#atom-everything</guid>
+      <pubDate>Sun, 24 May 2026 23:19:34 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>datasette-fixtures 0.1a0</title>
+      <link>https://simonwillison.net/2026/May/24/datasette-fixtures/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/24/datasette-fixtures/#atom-everything</guid>
+      <pubDate>Sun, 24 May 2026 21:38:32 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Quoting Armin Ronacher</title>
       <link>https://simonwillison.net/2026/May/24/armin-ronacher/#atom-everything</link>
@@ -18,6 +46,13 @@
       <guid isPermaLink="true">https://www.espn.com/nba/story/_/id/48686303/steve-kerr-decision-return-coach-golden-state-warriors-steph-curry</guid>
       <pubDate>Sun, 24 May 2026 17:27:24 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Mad House — Usborne Creepy Computer Games</title>
+      <link>https://simonwillison.net/2026/May/24/usborne-mad-house/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/24/usborne-mad-house/#atom-everything</guid>
+      <pubDate>Sun, 24 May 2026 17:14:11 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
     <item>
       <title>Walking the dog with Claude</title>
@@ -62,18 +97,18 @@
       <description>Troy Hunt</description>
     </item>
     <item>
-      <title>Building Pi With Pi</title>
-      <link>https://lucumr.pocoo.org/2026/5/24/pi-oss/</link>
-      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/5/24/pi-oss/</guid>
-      <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
-      <description>Armin Ronacher's Thoughts and Writings</description>
-    </item>
-    <item>
       <title>Childhood Computing</title>
       <link>https://susam.net/childhood-computing.html</link>
       <guid isPermaLink="true">https://susam.net/childhood-computing.html</guid>
       <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
       <description>Susam Pal</description>
+    </item>
+    <item>
+      <title>Building Pi With Pi</title>
+      <link>https://lucumr.pocoo.org/2026/5/24/pi-oss/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/5/24/pi-oss/</guid>
+      <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+      <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
       <title>How our environment still needs the security boundary of Unix logins</title>
@@ -809,41 +844,6 @@
       <guid isPermaLink="true">https://daringfireball.net/2026/05/ai_is_technology_not_a_product</guid>
       <pubDate>Mon, 18 May 2026 16:47:08 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>‘AI, “Humanity”, and Dr. Manhattan Syndrome’</title>
-      <link>https://www.personfamiliar.com/p/ai-humanity-and-dr-manhattan-syndrome</link>
-      <guid isPermaLink="true">https://www.personfamiliar.com/p/ai-humanity-and-dr-manhattan-syndrome</guid>
-      <pubDate>Mon, 18 May 2026 16:21:35 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The Alaska Permanent Fund as Loose Precedent for AI Data Center ‘UBI’ Payments</title>
-      <link>https://en.wikipedia.org/wiki/Alaska_Permanent_Fund</link>
-      <guid isPermaLink="true">https://en.wikipedia.org/wiki/Alaska_Permanent_Fund</guid>
-      <pubDate>Mon, 18 May 2026 15:34:47 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>AI Data Centers Are Deeply Unpopular, Across the Political Spectrum</title>
-      <link>https://news.gallup.com/poll/709772/americans-oppose-data-centers-area.aspx</link>
-      <guid isPermaLink="true">https://news.gallup.com/poll/709772/americans-oppose-data-centers-area.aspx</guid>
-      <pubDate>Mon, 18 May 2026 14:59:59 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Glaucous-winged Gull, Brown Pelican, Snowy Egret, Canada Goose</title>
-      <link>https://simonwillison.net/2026/May/18/sighting-362781627/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/18/sighting-362781627/#atom-everything</guid>
-      <pubDate>Mon, 18 May 2026 14:51:00 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Just shows that nobody cares about debugging the parity flag any more</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260518-00/?p=112334</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260518-00/?p=112334</guid>
-      <pubDate>Mon, 18 May 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
     </item>
   </channel>
 </rss>
