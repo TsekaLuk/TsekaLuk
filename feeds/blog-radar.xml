@@ -4,7 +4,42 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 25 May 2026 10:22:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 15:21:33 +0000</lastBuildDate>
+    <item>
+      <title>WorkOS: ‘Agents Need Context. Ship the Integrations That Give It to Them.’</title>
+      <link>https://workos.com/docs/pipes?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026</link>
+      <guid isPermaLink="true">https://workos.com/docs/pipes?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026</guid>
+      <pubDate>Mon, 25 May 2026 15:09:17 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Distributing LLM inference in DwarfStar</title>
+      <link>http://antirez.com/news/167</link>
+      <guid isPermaLink="true">http://antirez.com/news/167</guid>
+      <pubDate>Mon, 25 May 2026 14:54:59 +0000</pubDate>
+      <description>&lt;antirez&gt;</description>
+    </item>
+    <item>
+      <title>Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks</title>
+      <link>https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/</link>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/</guid>
+      <pubDate>Mon, 25 May 2026 13:21:49 +0000</pubDate>
+      <description>Krebs on Security</description>
+    </item>
+    <item>
+      <title>PHP - simple way to send HTTP headers before a script ends</title>
+      <link>https://shkspr.mobi/blog/2026/05/php-simple-way-to-send-http-headers-before-a-script-ends/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/php-simple-way-to-send-http-headers-before-a-script-ends/</guid>
+      <pubDate>Mon, 25 May 2026 11:34:38 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>GitHub Actions security in Python packages</title>
+      <link>https://nesbitt.io/2026/05/25/github-actions-security-in-python-packages.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/05/25/github-actions-security-in-python-packages.html</guid>
+      <pubDate>Mon, 25 May 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
     <item>
       <title>FediMeteo, timezones, and the art of not breaking what already works</title>
       <link>https://it-notes.dragas.net/2026/05/25/fedimeteo-timezones-and-the-art-of-not-breaking-what-already-works/</link>
@@ -172,6 +207,13 @@
       <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-052326</guid>
       <pubDate>Sat, 23 May 2026 12:02:39 +0000</pubDate>
       <description>Construction Physics</description>
+    </item>
+    <item>
+      <title>Which age-gates should be skill-gates and vice-versa?</title>
+      <link>https://shkspr.mobi/blog/2026/05/which-age-gates-should-be-skill-gates-and-vice-versa/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/which-age-gates-should-be-skill-gates-and-vice-versa/</guid>
+      <pubDate>Sat, 23 May 2026 11:34:31 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>This Week in Package Management: 23 May 2026</title>
@@ -468,6 +510,13 @@
       <description>Construction Physics</description>
     </item>
     <item>
+      <title>Whale Fall</title>
+      <link>https://shkspr.mobi/blog/2026/05/whale-fall/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/whale-fall/</guid>
+      <pubDate>Thu, 21 May 2026 11:34:15 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>Digitale autonomie: wat kunnen organisaties NU doen</title>
       <link>https://berthub.eu/articles/posts/digitale-autonomie-wat-kunnen-organisaties-nu-doen/</link>
       <guid isPermaLink="true">https://berthub.eu/articles/posts/digitale-autonomie-wat-kunnen-organisaties-nu-doen/</guid>
@@ -615,6 +664,13 @@
       <description>The Old New Thing</description>
     </item>
     <item>
+      <title>[RSS Club] Let's meet up AFK</title>
+      <link>https://shkspr.mobi/blog/2026/05/rss-club-lets-meet-up-afk/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/rss-club-lets-meet-up-afk/</guid>
+      <pubDate>Wed, 20 May 2026 11:34:04 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>What will better AI mean?</title>
       <link>https://geohot.github.io//blog/jekyll/update/2026/05/20/what-will-better-mean.html</link>
       <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/05/20/what-will-better-mean.html</guid>
@@ -741,6 +797,13 @@
       <description>John D. Cook</description>
     </item>
     <item>
+      <title>Book Review: Terrible Worlds: Destinations by Adrian Tchaikovsky ★★★★★</title>
+      <link>https://shkspr.mobi/blog/2026/05/book-review-terrible-worlds-destinations-by-adrian-tchaikovsky/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/book-review-terrible-worlds-destinations-by-adrian-tchaikovsky/</guid>
+      <pubDate>Tue, 19 May 2026 11:34:17 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>Dumb Ways for an Open Source Project to Die</title>
       <link>https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html</guid>
@@ -762,13 +825,6 @@
       <description>Pluralistic: Daily links from Cory Doctorow</description>
     </item>
     <item>
-      <title>[Sponsor] WorkOS: Agents Need Context. Ship the Integrations That Give It to Them.</title>
-      <link>https://workos.com/docs/pipes?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026</link>
-      <guid isPermaLink="true">https://workos.com/docs/pipes?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026</guid>
-      <pubDate>Tue, 19 May 2026 01:27:00 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
       <title>The last six months in LLMs in five minutes</title>
       <link>https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything</guid>
@@ -788,62 +844,6 @@
       <guid isPermaLink="true">https://entropicthoughts.com/pythagorean-addition</guid>
       <pubDate>Mon, 18 May 2026 22:00:00 +0000</pubDate>
       <description>Entropic Thoughts</description>
-    </item>
-    <item>
-      <title>CISA Admin Leaked AWS GovCloud Keys on Github</title>
-      <link>https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/</link>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/</guid>
-      <pubDate>Mon, 18 May 2026 20:48:21 +0000</pubDate>
-      <description>Krebs on Security</description>
-    </item>
-    <item>
-      <title>10Gb/s Ethernet: using mini-heatsinks with a 10GBASE-T SFP+ module</title>
-      <link>https://www.gilesthomas.com/2026/05/10g-ethernet-sfpplus-mini-heatsinks</link>
-      <guid isPermaLink="true">https://www.gilesthomas.com/2026/05/10g-ethernet-sfpplus-mini-heatsinks</guid>
-      <pubDate>Mon, 18 May 2026 19:15:00 +0000</pubDate>
-      <description>Giles' blog</description>
-    </item>
-    <item>
-      <title>Something’s Rotten in the State of macOS Icon Design</title>
-      <link>https://blog.jim-nielsen.com/2026/rotten-macos-icon-design/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/rotten-macos-icon-design/</guid>
-      <pubDate>Mon, 18 May 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
-      <title>Jury Rejects Elon Musk’s Claim Against Sam Altman in Unanimous Verdict</title>
-      <link>https://www.nytimes.com/live/2026/05/18/technology/openai-trial-verdict-altman-musk?unlocked_article_code=1.jVA.Cc2V.IwYuu2r4SJfQ</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/05/18/technology/openai-trial-verdict-altman-musk?unlocked_article_code=1.jVA.Cc2V.IwYuu2r4SJfQ</guid>
-      <pubDate>Mon, 18 May 2026 17:53:33 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>‘John Appleseed’</title>
-      <link>https://om.co/2026/04/20/john-appleseed/</link>
-      <guid isPermaLink="true">https://om.co/2026/04/20/john-appleseed/</guid>
-      <pubDate>Mon, 18 May 2026 17:34:46 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Define ‘Boom’ Please</title>
-      <link>https://www.nytimes.com/2026/04/21/business/how-apple-became-a-4-trillion-company-under-tim-cook.html?unlocked_article_code=1.jVA.MV8m.0JfUOJOME5WH</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/04/21/business/how-apple-became-a-4-trillion-company-under-tim-cook.html?unlocked_article_code=1.jVA.MV8m.0JfUOJOME5WH</guid>
-      <pubDate>Mon, 18 May 2026 17:17:02 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Ted Turner’s Small Apartment Above the Former CNN Center</title>
-      <link>https://www.youtube.com/watch?v=OUIVs58oyPI</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=OUIVs58oyPI</guid>
-      <pubDate>Mon, 18 May 2026 16:52:03 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Existing Stakeholders Have a Say in the Future</title>
-      <link>https://daringfireball.net/2026/05/ai_is_technology_not_a_product</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/05/ai_is_technology_not_a_product</guid>
-      <pubDate>Mon, 18 May 2026 16:47:08 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>

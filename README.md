@@ -208,11 +208,11 @@ Last Updated: Monday, May 25th, 2026, 10:43:48 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [FediMeteo, timezones, and the art of not breaking what already works](https://it-notes.dragas.net/2026/05/25/fedimeteo-timezones-and-the-art-of-not-breaking-what-already-works/) — *IT Notes* `05-25`
-- [Pluralistic: No honor among (ad-tech) thieves (25 May 2026)](https://pluralistic.net/2026/05/25/lying-spies/) — *Pluralistic: Daily links from Cory Doctorow* `05-25`
-- [Why I can't stand the word "driven"](https://www.joanwestenberg.com/why-i-cant-stand-the-word-driven/) — *Westenberg.* `05-25`
-- [datasette 1.0a30](https://simonwillison.net/2026/May/24/datasette/#atom-everything) — *Simon Willison's Weblog* `05-24`
-- [datasette-agent 0.1a4](https://simonwillison.net/2026/May/24/datasette-agent/#atom-everything) — *Simon Willison's Weblog* `05-24`
+- [WorkOS: ‘Agents Need Context. Ship the Integrations That Give It to Them.’](https://workos.com/docs/pipes?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q22026) — *Daring Fireball* `05-25`
+- [Distributing LLM inference in DwarfStar](http://antirez.com/news/167) — *<antirez>* `05-25`
+- [Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks](https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/) — *Krebs on Security* `05-25`
+- [PHP - simple way to send HTTP headers before a script ends](https://shkspr.mobi/blog/2026/05/php-simple-way-to-send-http-headers-before-a-script-ends/) — *Terence Eden’s Blog* `05-25`
+- [GitHub Actions security in Python packages](https://nesbitt.io/2026/05/25/github-actions-security-in-python-packages.html) — *Andrew Nesbitt* `05-25`
 <!--BLOG_RADAR:end-->
 
 ---
