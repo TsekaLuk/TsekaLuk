@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 26 May 2026 04:12:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 10:10:29 +0000</lastBuildDate>
+    <item>
+      <title>Pluralistic: The AI bubble isn't like the internet bubble (26 May 2026)</title>
+      <link>https://pluralistic.net/2026/05/26/the-ai-will-continue/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/05/26/the-ai-will-continue/</guid>
+      <pubDate>Tue, 26 May 2026 09:45:37 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Copying Remote Command Output to Your macOS Clipboard</title>
+      <link>https://it-notes.dragas.net/2026/05/26/copying-remote-command-output-to-your-macos-clipboard/</link>
+      <guid isPermaLink="true">https://it-notes.dragas.net/2026/05/26/copying-remote-command-output-to-your-macos-clipboard/</guid>
+      <pubDate>Tue, 26 May 2026 09:00:00 +0000</pubDate>
+      <description>IT Notes</description>
+    </item>
     <item>
       <title>Amber Alert with Spam URL?</title>
       <link>https://idiallo.com/byte-size/amber-alert-with-spam-link?src=feed</link>
@@ -95,6 +109,13 @@
       <guid isPermaLink="true">http://antirez.com/news/167</guid>
       <pubDate>Mon, 25 May 2026 14:54:59 +0000</pubDate>
       <description>&lt;antirez&gt;</description>
+    </item>
+    <item>
+      <title>A hypothetical redesign of System.Diagnostics.Process to avoid confusion over properties that are valid only when you are the one who called Start</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260525-00/?p=112351</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260525-00/?p=112351</guid>
+      <pubDate>Mon, 25 May 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks</title>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/May/19/datasette-llm-accountant/#atom-everything</guid>
       <pubDate>Tue, 19 May 2026 20:45:43 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>llm-gemini 0.32a0</title>
-      <link>https://simonwillison.net/2026/May/19/llm-gemini/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/19/llm-gemini/#atom-everything</guid>
-      <pubDate>Tue, 19 May 2026 20:36:23 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>datasette-llm 0.1a8</title>
-      <link>https://simonwillison.net/2026/May/19/datasette-llm/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/19/datasette-llm/#atom-everything</guid>
-      <pubDate>Tue, 19 May 2026 20:28:16 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>AI Is Too Expensive</title>
-      <link>https://www.wheresyoured.at/ai-is-too-expensive/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/ai-is-too-expensive/</guid>
-      <pubDate>Tue, 19 May 2026 15:48:42 +0000</pubDate>
-      <description>Ed Zitron's Where's Your Ed At</description>
     </item>
   </channel>
 </rss>

@@ -208,11 +208,11 @@ Last Updated: Tuesday, May 26th, 2026, 5:41:52 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Pluralistic: The AI bubble isn't like the internet bubble (26 May 2026)](https://pluralistic.net/2026/05/26/the-ai-will-continue/) — *Pluralistic: Daily links from Cory Doctorow* `05-26`
+- [Copying Remote Command Output to Your macOS Clipboard](https://it-notes.dragas.net/2026/05/26/copying-remote-command-output-to-your-macos-clipboard/) — *IT Notes* `05-26`
 - [Amber Alert with Spam URL?](https://idiallo.com/byte-size/amber-alert-with-spam-link?src=feed) — *iDiallo.com* `05-26`
 - [Quoting Corey Quinn](https://simonwillison.net/2026/May/26/corey-quinn/#atom-everything) — *Simon Willison's Weblog* `05-26`
 - [Notes on Pope Leo XIV's encyclical on AI](https://simonwillison.net/2026/May/25/encyclical-on-ai/#atom-everything) — *Simon Willison's Weblog* `05-25`
-- [[Sponsor] exe.dev](https://exe.dev/?df) — *Daring Fireball* `05-25`
-- [Welcoming the Bhutanese Government to Have I Been Pwned](https://www.troyhunt.com/welcoming-the-bhutanese-government-to-have-i-been-pwned/) — *Troy Hunt* `05-25`
 <!--BLOG_RADAR:end-->
 
 ---
