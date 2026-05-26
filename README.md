@@ -208,11 +208,11 @@ Last Updated: Tuesday, May 26th, 2026, 10:55:17 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Pluralistic: The AI bubble isn't like the internet bubble (26 May 2026)](https://pluralistic.net/2026/05/26/the-ai-will-continue/) — *Pluralistic: Daily links from Cory Doctorow* `05-26`
-- [Copying Remote Command Output to Your macOS Clipboard](https://it-notes.dragas.net/2026/05/26/copying-remote-command-output-to-your-macos-clipboard/) — *IT Notes* `05-26`
-- [Amber Alert with Spam URL?](https://idiallo.com/byte-size/amber-alert-with-spam-link?src=feed) — *iDiallo.com* `05-26`
-- [Quoting Corey Quinn](https://simonwillison.net/2026/May/26/corey-quinn/#atom-everything) — *Simon Willison's Weblog* `05-26`
-- [Notes on Pope Leo XIV's encyclical on AI](https://simonwillison.net/2026/May/25/encyclical-on-ai/#atom-everything) — *Simon Willison's Weblog* `05-25`
+- [Microsoft Copilot Cowork Exfiltrates Files](https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/#atom-everything) — *Simon Willison's Weblog* `05-26`
+- [The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin](https://minimaxir.com/2026/05/openrouter-hy3/) — *Max Woolf's Blog* `05-26`
+- [Quoting Paul Graham](https://simonwillison.net/2026/May/26/paul-graham/#atom-everything) — *Simon Willison's Weblog* `05-26`
+- [Expected IQ spread on a jury](https://www.johndcook.com/blog/2026/05/26/expected-iq-spread-on-a-jury/) — *John D. Cook* `05-26`
+- [The Great Depopulation](https://www.theatlantic.com/ideas/2026/05/global-birthrate-decline/687297/?utm_source=feed) — *Derek Thompson | The Atlantic* `05-26`
 <!--BLOG_RADAR:end-->
 
 ---

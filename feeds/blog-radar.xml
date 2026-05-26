@@ -4,7 +4,42 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 26 May 2026 10:10:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 15:57:03 +0000</lastBuildDate>
+    <item>
+      <title>Microsoft Copilot Cowork Exfiltrates Files</title>
+      <link>https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/#atom-everything</guid>
+      <pubDate>Tue, 26 May 2026 15:36:48 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin</title>
+      <link>https://minimaxir.com/2026/05/openrouter-hy3/</link>
+      <guid isPermaLink="true">https://minimaxir.com/2026/05/openrouter-hy3/</guid>
+      <pubDate>Tue, 26 May 2026 15:30:00 +0000</pubDate>
+      <description>Max Woolf's Blog</description>
+    </item>
+    <item>
+      <title>Quoting Paul Graham</title>
+      <link>https://simonwillison.net/2026/May/26/paul-graham/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/26/paul-graham/#atom-everything</guid>
+      <pubDate>Tue, 26 May 2026 15:02:30 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Expected IQ spread on a jury</title>
+      <link>https://www.johndcook.com/blog/2026/05/26/expected-iq-spread-on-a-jury/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/26/expected-iq-spread-on-a-jury/</guid>
+      <pubDate>Tue, 26 May 2026 13:50:51 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>The Great Depopulation</title>
+      <link>https://www.theatlantic.com/ideas/2026/05/global-birthrate-decline/687297/?utm_source=feed</link>
+      <guid isPermaLink="true">https://www.theatlantic.com/ideas/2026/05/global-birthrate-decline/687297/?utm_source=feed</guid>
+      <pubDate>Tue, 26 May 2026 11:00:00 +0000</pubDate>
+      <description>Derek Thompson | The Atlantic</description>
+    </item>
     <item>
       <title>Pluralistic: The AI bubble isn't like the internet bubble (26 May 2026)</title>
       <link>https://pluralistic.net/2026/05/26/the-ai-will-continue/</link>
@@ -34,6 +69,13 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
+      <title>Clanker: A Word For The Machine</title>
+      <link>https://lucumr.pocoo.org/2026/5/26/clankers/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/5/26/clankers/</guid>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <description>Armin Ronacher's Thoughts and Writings</description>
+    </item>
+    <item>
       <title>Notes on Pope Leo XIV's encyclical on AI</title>
       <link>https://simonwillison.net/2026/May/25/encyclical-on-ai/#atom-everything</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/May/25/encyclical-on-ai/#atom-everything</guid>
@@ -48,11 +90,25 @@
       <description>Daring Fireball</description>
     </item>
     <item>
+      <title>California Brown Pelican, Snowy Egret, California Sea Lion, Harbor Seal</title>
+      <link>https://simonwillison.net/2026/May/25/sighting-365297287/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/25/sighting-365297287/#atom-everything</guid>
+      <pubDate>Mon, 25 May 2026 23:08:00 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
       <title>Welcoming the Bhutanese Government to Have I Been Pwned</title>
       <link>https://www.troyhunt.com/welcoming-the-bhutanese-government-to-have-i-been-pwned/</link>
       <guid isPermaLink="true">https://www.troyhunt.com/welcoming-the-bhutanese-government-to-have-i-been-pwned/</guid>
       <pubDate>Mon, 25 May 2026 22:52:15 +0000</pubDate>
       <description>Troy Hunt</description>
+    </item>
+    <item>
+      <title>90 % of the t distribution</title>
+      <link>https://entropicthoughts.com/ninety-percent-of-the-t-distribution</link>
+      <guid isPermaLink="true">https://entropicthoughts.com/ninety-percent-of-the-t-distribution</guid>
+      <pubDate>Mon, 25 May 2026 22:00:00 +0000</pubDate>
+      <description>Entropic Thoughts</description>
     </item>
     <item>
       <title>Awarding Jay Haynes His Being Right Points for Predicting Apple Hitting $3 Trillion in Market Cap</title>
@@ -788,62 +844,6 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/19/square-root-of-x-squared-minus-one/</guid>
       <pubDate>Wed, 20 May 2026 00:49:50 +0000</pubDate>
       <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Prompts are technical debt too</title>
-      <link>https://seangoedecke.com/prompts-are-technical-debt-too/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/prompts-are-technical-debt-too/</guid>
-      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>"No way to prevent this" say users of only language where this regularly happens</title>
-      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2026-45584/</link>
-      <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2026-45584/</guid>
-      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
-      <title>Magic the Gathering format: Fun 40</title>
-      <link>https://fabiensanglard.net/mtg/fun//index.html</link>
-      <guid isPermaLink="true">https://fabiensanglard.net/mtg/fun//index.html</guid>
-      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
-      <description>Fabien Sanglard</description>
-    </item>
-    <item>
-      <title>llm-gemini 0.32</title>
-      <link>https://simonwillison.net/2026/May/19/llm-gemini-2/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/19/llm-gemini-2/#atom-everything</guid>
-      <pubDate>Tue, 19 May 2026 23:46:27 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Closer look at an identity</title>
-      <link>https://www.johndcook.com/blog/2026/05/19/closer-look-at-an-identity/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/19/closer-look-at-an-identity/</guid>
-      <pubDate>Tue, 19 May 2026 23:37:31 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Gemini 3.5 Flash: more expensive, but Google plan to use it for everything</title>
-      <link>https://simonwillison.net/2026/May/19/gemini-35-flash/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/19/gemini-35-flash/#atom-everything</guid>
-      <pubDate>Tue, 19 May 2026 22:40:25 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>The hardware needs of our mail system (as of mid 2026)</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OurMailSystemHardware</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OurMailSystemHardware</guid>
-      <pubDate>Tue, 19 May 2026 21:08:56 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>datasette-llm-accountant 0.1a4</title>
-      <link>https://simonwillison.net/2026/May/19/datasette-llm-accountant/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/19/datasette-llm-accountant/#atom-everything</guid>
-      <pubDate>Tue, 19 May 2026 20:45:43 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
