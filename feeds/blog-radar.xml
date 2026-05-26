@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 26 May 2026 15:57:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 20:21:06 +0000</lastBuildDate>
+    <item>
+      <title>Calculating the expected range of normal samples</title>
+      <link>https://www.johndcook.com/blog/2026/05/26/calculating-expected-normal-range/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/26/calculating-expected-normal-range/</guid>
+      <pubDate>Tue, 26 May 2026 17:59:53 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Revenge of The Business Idiot</title>
+      <link>https://www.wheresyoured.at/the-revenge-of-the-business-idiot/</link>
+      <guid isPermaLink="true">https://www.wheresyoured.at/the-revenge-of-the-business-idiot/</guid>
+      <pubDate>Tue, 26 May 2026 16:47:30 +0000</pubDate>
+      <description>Ed Zitron's Where's Your Ed At</description>
+    </item>
+    <item>
+      <title>Only insane people use the internet</title>
+      <link>https://www.experimental-history.com/p/only-insane-people-use-the-internet</link>
+      <guid isPermaLink="true">https://www.experimental-history.com/p/only-insane-people-use-the-internet</guid>
+      <pubDate>Tue, 26 May 2026 16:02:14 +0000</pubDate>
+      <description>Experimental History</description>
+    </item>
     <item>
       <title>Microsoft Copilot Cowork Exfiltrates Files</title>
       <link>https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/#atom-everything</link>
@@ -67,6 +88,13 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/May/26/corey-quinn/#atom-everything</guid>
       <pubDate>Tue, 26 May 2026 02:28:54 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Is “colorectal cancer” rising in “young people”?</title>
+      <link>https://dynomight.net/crc-rates/</link>
+      <guid isPermaLink="true">https://dynomight.net/crc-rates/</guid>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>Clanker: A Word For The Machine</title>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260520-00/?p=112343</guid>
       <pubDate>Wed, 20 May 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>[RSS Club] Let's meet up AFK</title>
-      <link>https://shkspr.mobi/blog/2026/05/rss-club-lets-meet-up-afk/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/rss-club-lets-meet-up-afk/</guid>
-      <pubDate>Wed, 20 May 2026 11:34:04 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>What will better AI mean?</title>
-      <link>https://geohot.github.io//blog/jekyll/update/2026/05/20/what-will-better-mean.html</link>
-      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/05/20/what-will-better-mean.html</guid>
-      <pubDate>Wed, 20 May 2026 07:00:00 +0000</pubDate>
-      <description>the singularity is nearer</description>
-    </item>
-    <item>
-      <title>Notes about reading messages with the Python email packages</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/python/EmailPackagesNotes</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/python/EmailPackagesNotes</guid>
-      <pubDate>Wed, 20 May 2026 03:01:03 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>Square root of x² − 1</title>
-      <link>https://www.johndcook.com/blog/2026/05/19/square-root-of-x-squared-minus-one/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/19/square-root-of-x-squared-minus-one/</guid>
-      <pubDate>Wed, 20 May 2026 00:49:50 +0000</pubDate>
-      <description>John D. Cook</description>
     </item>
   </channel>
 </rss>

@@ -208,11 +208,11 @@ Last Updated: Wednesday, May 27th, 2026, 4:01:34 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Calculating the expected range of normal samples](https://www.johndcook.com/blog/2026/05/26/calculating-expected-normal-range/) — *John D. Cook* `05-26`
+- [Revenge of The Business Idiot](https://www.wheresyoured.at/the-revenge-of-the-business-idiot/) — *Ed Zitron's Where's Your Ed At* `05-26`
+- [Only insane people use the internet](https://www.experimental-history.com/p/only-insane-people-use-the-internet) — *Experimental History* `05-26`
 - [Microsoft Copilot Cowork Exfiltrates Files](https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/#atom-everything) — *Simon Willison's Weblog* `05-26`
 - [The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin](https://minimaxir.com/2026/05/openrouter-hy3/) — *Max Woolf's Blog* `05-26`
-- [Quoting Paul Graham](https://simonwillison.net/2026/May/26/paul-graham/#atom-everything) — *Simon Willison's Weblog* `05-26`
-- [Expected IQ spread on a jury](https://www.johndcook.com/blog/2026/05/26/expected-iq-spread-on-a-jury/) — *John D. Cook* `05-26`
-- [The Great Depopulation](https://www.theatlantic.com/ideas/2026/05/global-birthrate-decline/687297/?utm_source=feed) — *Derek Thompson | The Atlantic* `05-26`
 <!--BLOG_RADAR:end-->
 
 ---
