@@ -4,7 +4,56 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 25 May 2026 19:50:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 04:12:01 +0000</lastBuildDate>
+    <item>
+      <title>Amber Alert with Spam URL?</title>
+      <link>https://idiallo.com/byte-size/amber-alert-with-spam-link?src=feed</link>
+      <guid isPermaLink="true">https://idiallo.com/byte-size/amber-alert-with-spam-link?src=feed</guid>
+      <pubDate>Tue, 26 May 2026 03:25:17 +0000</pubDate>
+      <description>iDiallo.com</description>
+    </item>
+    <item>
+      <title>Quoting Corey Quinn</title>
+      <link>https://simonwillison.net/2026/May/26/corey-quinn/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/26/corey-quinn/#atom-everything</guid>
+      <pubDate>Tue, 26 May 2026 02:28:54 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Notes on Pope Leo XIV's encyclical on AI</title>
+      <link>https://simonwillison.net/2026/May/25/encyclical-on-ai/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/25/encyclical-on-ai/#atom-everything</guid>
+      <pubDate>Mon, 25 May 2026 23:58:17 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>[Sponsor] exe.dev</title>
+      <link>https://exe.dev/?df</link>
+      <guid isPermaLink="true">https://exe.dev/?df</guid>
+      <pubDate>Mon, 25 May 2026 23:57:24 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Welcoming the Bhutanese Government to Have I Been Pwned</title>
+      <link>https://www.troyhunt.com/welcoming-the-bhutanese-government-to-have-i-been-pwned/</link>
+      <guid isPermaLink="true">https://www.troyhunt.com/welcoming-the-bhutanese-government-to-have-i-been-pwned/</guid>
+      <pubDate>Mon, 25 May 2026 22:52:15 +0000</pubDate>
+      <description>Troy Hunt</description>
+    </item>
+    <item>
+      <title>Awarding Jay Haynes His Being Right Points for Predicting Apple Hitting $3 Trillion in Market Cap</title>
+      <link>https://daringfireball.net/linked/2014/01/29/haynes-aapl</link>
+      <guid isPermaLink="true">https://daringfireball.net/linked/2014/01/29/haynes-aapl</guid>
+      <pubDate>Mon, 25 May 2026 20:32:29 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Solving the board game Quoridor</title>
+      <link>https://grantslatton.com/solving-quoridor</link>
+      <guid isPermaLink="true">https://grantslatton.com/solving-quoridor</guid>
+      <pubDate>Mon, 25 May 2026 20:01:38 +0000</pubDate>
+      <description>Grant Slatton's Blog</description>
+    </item>
     <item>
       <title>Thieves Are Texting Threats to Victims of iPhone Theft in London</title>
       <link>https://www.nytimes.com/2026/05/23/world/europe/phone-theft-threats-london.html?unlocked_article_code=1.lFA.OUt7.VJ_FoDpINr0L</link>
@@ -795,55 +844,6 @@
       <guid isPermaLink="true">https://www.wheresyoured.at/ai-is-too-expensive/</guid>
       <pubDate>Tue, 19 May 2026 15:48:42 +0000</pubDate>
       <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>Andrej Karpathy Joined Anthropic</title>
-      <link>https://x.com/karpathy/status/2056753169888334312</link>
-      <guid isPermaLink="true">https://x.com/karpathy/status/2056753169888334312</guid>
-      <pubDate>Tue, 19 May 2026 15:42:38 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Wi-Wi Is Wireless Time Sync at 1 nanosecond</title>
-      <link>https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/</guid>
-      <pubDate>Tue, 19 May 2026 14:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
-      <title>What is the history of the ERROR_ARENA_TRASHED error code?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260519-00/?p=112339</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260519-00/?p=112339</guid>
-      <pubDate>Tue, 19 May 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Approximating Markov’s equation</title>
-      <link>https://www.johndcook.com/blog/2026/05/19/zagiers-equation/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/19/zagiers-equation/</guid>
-      <pubDate>Tue, 19 May 2026 12:09:54 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Book Review: Terrible Worlds: Destinations by Adrian Tchaikovsky ★★★★★</title>
-      <link>https://shkspr.mobi/blog/2026/05/book-review-terrible-worlds-destinations-by-adrian-tchaikovsky/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/book-review-terrible-worlds-destinations-by-adrian-tchaikovsky/</guid>
-      <pubDate>Tue, 19 May 2026 11:34:17 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Dumb Ways for an Open Source Project to Die</title>
-      <link>https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html</guid>
-      <pubDate>Tue, 19 May 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Alternatives for the EDIT tool of LLM agents</title>
-      <link>http://antirez.com/news/166</link>
-      <guid isPermaLink="true">http://antirez.com/news/166</guid>
-      <pubDate>Tue, 19 May 2026 07:26:03 +0000</pubDate>
-      <description>&lt;antirez&gt;</description>
     </item>
   </channel>
 </rss>

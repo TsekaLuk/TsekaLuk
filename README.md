@@ -208,11 +208,11 @@ Last Updated: Tuesday, May 26th, 2026, 10:41:17 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Thieves Are Texting Threats to Victims of iPhone Theft in London](https://www.nytimes.com/2026/05/23/world/europe/phone-theft-threats-london.html?unlocked_article_code=1.lFA.OUt7.VJ_FoDpINr0L) — *Daring Fireball* `05-25`
-- [Trump Mobile Website Exposed the Number of Pre-Orders — Both Completed and Abandoned — and the Associated Customer Information](https://www.theguardian.com/us-news/2026/may/23/trump-mobile-investigating-potential-exposure-of-would-be-customers-personal-information) — *Daring Fireball* `05-25`
-- [The History of ‘OK’](https://www.merriam-webster.com/wordplay/the-hilarious-history-of-ok-okay) — *Daring Fireball* `05-25`
-- [Anti-robot techniques can be nice but the problem is, they're not static](https://utcc.utoronto.ca/~cks/space/blog/web/RobotsVsLowAttentionWebsites) — *Chris's Wiki :: blog* `05-25`
-- [WorkOS: ‘Agents Need Context. Ship the Integrations That Give It to Them.’](https://workos.com/docs/pipes?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q22026) — *Daring Fireball* `05-25`
+- [Amber Alert with Spam URL?](https://idiallo.com/byte-size/amber-alert-with-spam-link?src=feed) — *iDiallo.com* `05-26`
+- [Quoting Corey Quinn](https://simonwillison.net/2026/May/26/corey-quinn/#atom-everything) — *Simon Willison's Weblog* `05-26`
+- [Notes on Pope Leo XIV's encyclical on AI](https://simonwillison.net/2026/May/25/encyclical-on-ai/#atom-everything) — *Simon Willison's Weblog* `05-25`
+- [[Sponsor] exe.dev](https://exe.dev/?df) — *Daring Fireball* `05-25`
+- [Welcoming the Bhutanese Government to Have I Been Pwned](https://www.troyhunt.com/welcoming-the-bhutanese-government-to-have-i-been-pwned/) — *Troy Hunt* `05-25`
 <!--BLOG_RADAR:end-->
 
 ---
