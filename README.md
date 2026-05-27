@@ -208,11 +208,11 @@ Last Updated: Wednesday, May 27th, 2026, 11:24:57 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [The Meta logo and fitting Besace curves](https://www.johndcook.com/blog/2026/05/27/the-meta-logo-and-fitting-besace-curves/) — *John D. Cook* `05-27`
+- [Using My Fucking Brain](https://terriblesoftware.org/2026/05/27/using-my-fucking-brain/) — *Terrible Software* `05-27`
+- [Gadget Review: Chuwi Minibook X N150 + Linux ★★★★☆](https://shkspr.mobi/blog/2026/05/gadget-review-chuwi-minibook-x-n150-linux/) — *Terence Eden’s Blog* `05-27`
+- [CHAOSS Metrics in 2026](https://nesbitt.io/2026/05/27/chaoss-metrics-in-2026.html) — *Andrew Nesbitt* `05-27`
 - [Het Solvinity besluit in detail, en de mogelijke gevolgen](https://berthub.eu/articles/posts/het-solvinity-besluit-gevolgen/) — *Bert Hubert's writings* `05-27`
-- [Pluralistic: AI and a world without migrants (27 May 2026)](https://pluralistic.net/2026/05/27/unnecessariat/) — *Pluralistic: Daily links from Cory Doctorow* `05-27`
-- [Resurfacing posts](https://herman.bearblog.dev/resurfacing-posts/) — *Herman's blog* `05-27`
-- [Quoting Kyle Ferrana](https://simonwillison.net/2026/May/27/kyle-ferrana/#atom-everything) — *Simon Willison's Weblog* `05-27`
-- [My views on some Python LSP servers in GNU Emacs (as of mid 2026)](https://utcc.utoronto.ca/~cks/space/blog/python/PythonLSPServersInEmacs-2026) — *Chris's Wiki :: blog* `05-27`
 <!--BLOG_RADAR:end-->
 
 ---

@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 27 May 2026 10:08:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 16:01:09 +0000</lastBuildDate>
+    <item>
+      <title>The Meta logo and fitting Besace curves</title>
+      <link>https://www.johndcook.com/blog/2026/05/27/the-meta-logo-and-fitting-besace-curves/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/27/the-meta-logo-and-fitting-besace-curves/</guid>
+      <pubDate>Wed, 27 May 2026 15:15:51 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Using My Fucking Brain</title>
+      <link>https://terriblesoftware.org/2026/05/27/using-my-fucking-brain/</link>
+      <guid isPermaLink="true">https://terriblesoftware.org/2026/05/27/using-my-fucking-brain/</guid>
+      <pubDate>Wed, 27 May 2026 12:38:57 +0000</pubDate>
+      <description>Terrible Software</description>
+    </item>
+    <item>
+      <title>Gadget Review: Chuwi Minibook X N150 + Linux ★★★★☆</title>
+      <link>https://shkspr.mobi/blog/2026/05/gadget-review-chuwi-minibook-x-n150-linux/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/gadget-review-chuwi-minibook-x-n150-linux/</guid>
+      <pubDate>Wed, 27 May 2026 11:34:36 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>CHAOSS Metrics in 2026</title>
+      <link>https://nesbitt.io/2026/05/27/chaoss-metrics-in-2026.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/05/27/chaoss-metrics-in-2026.html</guid>
+      <pubDate>Wed, 27 May 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
     <item>
       <title>Het Solvinity besluit in detail, en de mogelijke gevolgen</title>
       <link>https://berthub.eu/articles/posts/het-solvinity-besluit-gevolgen/</link>
@@ -153,18 +181,18 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>Clanker: A Word For The Machine</title>
-      <link>https://lucumr.pocoo.org/2026/5/26/clankers/</link>
-      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/5/26/clankers/</guid>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-      <description>Armin Ronacher's Thoughts and Writings</description>
-    </item>
-    <item>
       <title>Is “colorectal cancer” rising in “young people”?</title>
       <link>https://dynomight.net/crc-rates/</link>
       <guid isPermaLink="true">https://dynomight.net/crc-rates/</guid>
       <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
       <description>DYNOMIGHT</description>
+    </item>
+    <item>
+      <title>Clanker: A Word For The Machine</title>
+      <link>https://lucumr.pocoo.org/2026/5/26/clankers/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/5/26/clankers/</guid>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
       <title>Notes on Pope Leo XIV's encyclical on AI</title>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/supply-chain/2026-art-template/</guid>
       <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
-    </item>
-    <item>
-      <title>"No way to prevent this" say users of only language where this regularly happens</title>
-      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2026-45250/</link>
-      <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2026-45250/</guid>
-      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
-      <title>TIL: Symlinking NixOS Dotfiles</title>
-      <link>https://matklad.github.io/2026/05/21/symlinking-nixos-dotfiles.html</link>
-      <guid isPermaLink="true">https://matklad.github.io/2026/05/21/symlinking-nixos-dotfiles.html</guid>
-      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-      <description>matklad</description>
-    </item>
-    <item>
-      <title>Leo wouldn't stand still</title>
-      <link>https://hey.paris/posts/leo-sprite-alignment/</link>
-      <guid isPermaLink="true">https://hey.paris/posts/leo-sprite-alignment/</guid>
-      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-      <description>Dr Paris Buttfield-Addison</description>
-    </item>
-    <item>
-      <title>Read Cindy Cohn's new book, Privacy's Defender: My Thirty-Year Fight Against Digital Surveillance</title>
-      <link>https://micahflee.com/read-cindy-cohns-new-book-privacys-defender-my-thirty-year-fight-against-digital-surveillance/</link>
-      <guid isPermaLink="true">https://micahflee.com/read-cindy-cohns-new-book-privacys-defender-my-thirty-year-fight-against-digital-surveillance/</guid>
-      <pubDate>Wed, 20 May 2026 22:36:13 +0000</pubDate>
-      <description>micahflee</description>
     </item>
   </channel>
 </rss>
