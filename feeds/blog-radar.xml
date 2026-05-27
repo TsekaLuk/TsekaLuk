@@ -4,13 +4,34 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 27 May 2026 16:01:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 20:25:47 +0000</lastBuildDate>
+    <item>
+      <title>SQLAlchemy 2 In Practice - Solutions to the Exercises</title>
+      <link>https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---solutions-to-the-exercises</link>
+      <guid isPermaLink="true">https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---solutions-to-the-exercises</guid>
+      <pubDate>Wed, 27 May 2026 19:22:35 +0000</pubDate>
+      <description>Miguel Grinberg's Blog</description>
+    </item>
+    <item>
+      <title>I think Anthropic and OpenAI have found product-market fit</title>
+      <link>https://simonwillison.net/2026/May/27/product-market-fit/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/27/product-market-fit/#atom-everything</guid>
+      <pubDate>Wed, 27 May 2026 16:38:35 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>The Meta logo and fitting Besace curves</title>
       <link>https://www.johndcook.com/blog/2026/05/27/the-meta-logo-and-fitting-besace-curves/</link>
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/27/the-meta-logo-and-fitting-besace-curves/</guid>
       <pubDate>Wed, 27 May 2026 15:15:51 +0000</pubDate>
       <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 1</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260527-00/?p=112361</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260527-00/?p=112361</guid>
+      <pubDate>Wed, 27 May 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Using My Fucking Brain</title>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://www.joanwestenberg.com/nobody-is-destined-for-greatness/</guid>
       <pubDate>Thu, 21 May 2026 01:31:20 +0000</pubDate>
       <description>Westenberg.</description>
-    </item>
-    <item>
-      <title>WSJ: ‘Google Unveils New Gemini AI Agent for Personal Tasks’</title>
-      <link>https://www.wsj.com/tech/ai/google-unveils-new-gemini-ai-agent-for-personal-tasks-b8093197?st=BFmPev</link>
-      <guid isPermaLink="true">https://www.wsj.com/tech/ai/google-unveils-new-gemini-ai-agent-for-personal-tasks-b8093197?st=BFmPev</guid>
-      <pubDate>Thu, 21 May 2026 01:05:14 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The famous o3 "GeoGuessr" prompt did not work</title>
-      <link>https://seangoedecke.com/the-o3-geoguessr-prompt-did-not-work/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/the-o3-geoguessr-prompt-did-not-work/</guid>
-      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>"No way to prevent this" say users of only package manager where this regularly happens</title>
-      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/supply-chain/2026-art-template/</link>
-      <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/supply-chain/2026-art-template/</guid>
-      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
     </item>
   </channel>
 </rss>
