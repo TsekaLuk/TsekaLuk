@@ -208,11 +208,11 @@ Last Updated: Wednesday, May 27th, 2026, 5:35:40 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Het Solvinity besluit in detail, en de mogelijke gevolgen](https://berthub.eu/articles/posts/het-solvinity-besluit-gevolgen/) — *Bert Hubert's writings* `05-27`
+- [Pluralistic: AI and a world without migrants (27 May 2026)](https://pluralistic.net/2026/05/27/unnecessariat/) — *Pluralistic: Daily links from Cory Doctorow* `05-27`
+- [Resurfacing posts](https://herman.bearblog.dev/resurfacing-posts/) — *Herman's blog* `05-27`
+- [Quoting Kyle Ferrana](https://simonwillison.net/2026/May/27/kyle-ferrana/#atom-everything) — *Simon Willison's Weblog* `05-27`
 - [My views on some Python LSP servers in GNU Emacs (as of mid 2026)](https://utcc.utoronto.ca/~cks/space/blog/python/PythonLSPServersInEmacs-2026) — *Chris's Wiki :: blog* `05-27`
-- [I patched iozone for better disk benchmarks on modern macOS](https://www.jeffgeerling.com/blog/2026/i-patched-iozone-for-better-disk-benchmarks-on-modern-macos/) — *Jeff Geerling* `05-27`
-- [How Many Tokens Did You Burn Today](https://idiallo.com/blog/how-many-tokens-did-you-burn-today?src=feed) — *Software and Tech stories from an Insider - iDiallo.com* `05-27`
-- [The pressure](https://simonwillison.net/2026/May/26/the-pressure/#atom-everything) — *Simon Willison's Weblog* `05-26`
-- [Calculating the expected range of normal samples](https://www.johndcook.com/blog/2026/05/26/calculating-expected-normal-range/) — *John D. Cook* `05-26`
 <!--BLOG_RADAR:end-->
 
 ---

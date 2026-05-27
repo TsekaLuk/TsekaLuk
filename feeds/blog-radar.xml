@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 27 May 2026 04:25:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 10:08:09 +0000</lastBuildDate>
+    <item>
+      <title>Het Solvinity besluit in detail, en de mogelijke gevolgen</title>
+      <link>https://berthub.eu/articles/posts/het-solvinity-besluit-gevolgen/</link>
+      <guid isPermaLink="true">https://berthub.eu/articles/posts/het-solvinity-besluit-gevolgen/</guid>
+      <pubDate>Wed, 27 May 2026 08:00:00 +0000</pubDate>
+      <description>Bert Hubert's writings</description>
+    </item>
+    <item>
+      <title>Pluralistic: AI and a world without migrants (27 May 2026)</title>
+      <link>https://pluralistic.net/2026/05/27/unnecessariat/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/05/27/unnecessariat/</guid>
+      <pubDate>Wed, 27 May 2026 07:57:41 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Resurfacing posts</title>
+      <link>https://herman.bearblog.dev/resurfacing-posts/</link>
+      <guid isPermaLink="true">https://herman.bearblog.dev/resurfacing-posts/</guid>
+      <pubDate>Wed, 27 May 2026 06:45:00 +0000</pubDate>
+      <description>Herman's blog</description>
+    </item>
+    <item>
+      <title>Quoting Kyle Ferrana</title>
+      <link>https://simonwillison.net/2026/May/27/kyle-ferrana/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/27/kyle-ferrana/#atom-everything</guid>
+      <pubDate>Wed, 27 May 2026 06:41:43 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>My views on some Python LSP servers in GNU Emacs (as of mid 2026)</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/python/PythonLSPServersInEmacs-2026</link>
@@ -783,13 +811,6 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>TIL: Symlinking NixOS Dotfiles</title>
-      <link>https://matklad.github.io/2026/05/21/symlinking-nixos-dotfiles.html</link>
-      <guid isPermaLink="true">https://matklad.github.io/2026/05/21/symlinking-nixos-dotfiles.html</guid>
-      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-      <description>matklad</description>
-    </item>
-    <item>
       <title>"No way to prevent this" say users of only package manager where this regularly happens</title>
       <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/supply-chain/2026-art-template/</link>
       <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/supply-chain/2026-art-template/</guid>
@@ -804,6 +825,13 @@
       <description>Xe Iaso's blog</description>
     </item>
     <item>
+      <title>TIL: Symlinking NixOS Dotfiles</title>
+      <link>https://matklad.github.io/2026/05/21/symlinking-nixos-dotfiles.html</link>
+      <guid isPermaLink="true">https://matklad.github.io/2026/05/21/symlinking-nixos-dotfiles.html</guid>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+      <description>matklad</description>
+    </item>
+    <item>
       <title>Leo wouldn't stand still</title>
       <link>https://hey.paris/posts/leo-sprite-alignment/</link>
       <guid isPermaLink="true">https://hey.paris/posts/leo-sprite-alignment/</guid>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://micahflee.com/read-cindy-cohns-new-book-privacys-defender-my-thirty-year-fight-against-digital-surveillance/</guid>
       <pubDate>Wed, 20 May 2026 22:36:13 +0000</pubDate>
       <description>micahflee</description>
-    </item>
-    <item>
-      <title>Quoting SpaceX S-1</title>
-      <link>https://simonwillison.net/2026/May/20/spacex-s1/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/20/spacex-s1/#atom-everything</guid>
-      <pubDate>Wed, 20 May 2026 22:26:36 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>The stock market returns 4 %</title>
-      <link>https://entropicthoughts.com/stock-market-returns-4-percent</link>
-      <guid isPermaLink="true">https://entropicthoughts.com/stock-market-returns-4-percent</guid>
-      <pubDate>Wed, 20 May 2026 22:00:00 +0000</pubDate>
-      <description>Entropic Thoughts</description>
-    </item>
-    <item>
-      <title>NYT: ‘Powered by A.I., Google Changes Its Search Box for the First Time in 25 Years’</title>
-      <link>https://www.nytimes.com/2026/05/19/business/google-seach-bar-ai-gemini.html?unlocked_article_code=1.jlA.95yh.ptfBUHf-rBtB&amp;smid=url-share</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/19/business/google-seach-bar-ai-gemini.html?unlocked_article_code=1.jlA.95yh.ptfBUHf-rBtB&amp;smid=url-share</guid>
-      <pubDate>Wed, 20 May 2026 21:20:23 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>‘You Do Not Need Fancy Equipment, You Do Not Need a Degree, to Make Money and to Do This as Your Job’</title>
-      <link>https://www.tiktok.com/@brye.shhh/video/7641047549758934285</link>
-      <guid isPermaLink="true">https://www.tiktok.com/@brye.shhh/video/7641047549758934285</guid>
-      <pubDate>Wed, 20 May 2026 20:53:22 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
