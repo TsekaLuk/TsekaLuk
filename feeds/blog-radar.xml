@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 26 May 2026 20:21:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 04:25:12 +0000</lastBuildDate>
+    <item>
+      <title>My views on some Python LSP servers in GNU Emacs (as of mid 2026)</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/python/PythonLSPServersInEmacs-2026</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/python/PythonLSPServersInEmacs-2026</guid>
+      <pubDate>Wed, 27 May 2026 02:06:24 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>I patched iozone for better disk benchmarks on modern macOS</title>
+      <link>https://www.jeffgeerling.com/blog/2026/i-patched-iozone-for-better-disk-benchmarks-on-modern-macos/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/i-patched-iozone-for-better-disk-benchmarks-on-modern-macos/</guid>
+      <pubDate>Wed, 27 May 2026 01:32:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>How Many Tokens Did You Burn Today</title>
+      <link>https://idiallo.com/blog/how-many-tokens-did-you-burn-today?src=feed</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/how-many-tokens-did-you-burn-today?src=feed</guid>
+      <pubDate>Wed, 27 May 2026 00:31:22 +0000</pubDate>
+      <description>Software and Tech stories from an Insider - iDiallo.com</description>
+    </item>
+    <item>
+      <title>The pressure</title>
+      <link>https://simonwillison.net/2026/May/26/the-pressure/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/26/the-pressure/#atom-everything</guid>
+      <pubDate>Tue, 26 May 2026 23:48:45 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Calculating the expected range of normal samples</title>
       <link>https://www.johndcook.com/blog/2026/05/26/calculating-expected-normal-range/</link>
@@ -48,6 +76,13 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
+      <title>If C# and JavaScript lets me await a Windows Runtime asynchronous operation more than once, why not C++/WinRT?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260526-00/?p=112354</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260526-00/?p=112354</guid>
+      <pubDate>Tue, 26 May 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
+    <item>
       <title>Expected IQ spread on a jury</title>
       <link>https://www.johndcook.com/blog/2026/05/26/expected-iq-spread-on-a-jury/</link>
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/26/expected-iq-spread-on-a-jury/</guid>
@@ -76,11 +111,11 @@
       <description>IT Notes</description>
     </item>
     <item>
-      <title>Amber Alert with Spam URL?</title>
+      <title>Amber Alert sends Spam URL?</title>
       <link>https://idiallo.com/byte-size/amber-alert-with-spam-link?src=feed</link>
       <guid isPermaLink="true">https://idiallo.com/byte-size/amber-alert-with-spam-link?src=feed</guid>
       <pubDate>Tue, 26 May 2026 03:25:17 +0000</pubDate>
-      <description>iDiallo.com</description>
+      <description>Software and Tech stories from an Insider - iDiallo.com</description>
     </item>
     <item>
       <title>Quoting Corey Quinn</title>
@@ -90,18 +125,18 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>Is “colorectal cancer” rising in “young people”?</title>
-      <link>https://dynomight.net/crc-rates/</link>
-      <guid isPermaLink="true">https://dynomight.net/crc-rates/</guid>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
-    </item>
-    <item>
       <title>Clanker: A Word For The Machine</title>
       <link>https://lucumr.pocoo.org/2026/5/26/clankers/</link>
       <guid isPermaLink="true">https://lucumr.pocoo.org/2026/5/26/clankers/</guid>
       <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
       <description>Armin Ronacher's Thoughts and Writings</description>
+    </item>
+    <item>
+      <title>Is “colorectal cancer” rising in “young people”?</title>
+      <link>https://dynomight.net/crc-rates/</link>
+      <guid isPermaLink="true">https://dynomight.net/crc-rates/</guid>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>Notes on Pope Leo XIV's encyclical on AI</title>
@@ -437,7 +472,7 @@
       <link>https://idiallo.com/blog/the-commencement-speech-that-shook-the-world?src=feed</link>
       <guid isPermaLink="true">https://idiallo.com/blog/the-commencement-speech-that-shook-the-world?src=feed</guid>
       <pubDate>Sat, 23 May 2026 01:14:24 +0000</pubDate>
-      <description>iDiallo.com</description>
+      <description>Software and Tech stories from an Insider - iDiallo.com</description>
     </item>
     <item>
       <title>Don't Roll Your Own ...</title>
@@ -472,7 +507,7 @@
       <link>https://idiallo.com/blog/how-to-talk-to-your-coworkers?src=feed</link>
       <guid isPermaLink="true">https://idiallo.com/blog/how-to-talk-to-your-coworkers?src=feed</guid>
       <pubDate>Fri, 22 May 2026 19:00:00 +0000</pubDate>
-      <description>iDiallo.com</description>
+      <description>Software and Tech stories from an Insider - iDiallo.com</description>
     </item>
     <item>
       <title>The Ninth Circuit Appeal Ruling in ‘Epic v. Apple’ That Apple Is Seeking to Overturn at the Supreme Court (PDF)</title>
@@ -748,6 +783,13 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
+      <title>TIL: Symlinking NixOS Dotfiles</title>
+      <link>https://matklad.github.io/2026/05/21/symlinking-nixos-dotfiles.html</link>
+      <guid isPermaLink="true">https://matklad.github.io/2026/05/21/symlinking-nixos-dotfiles.html</guid>
+      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+      <description>matklad</description>
+    </item>
+    <item>
       <title>"No way to prevent this" say users of only package manager where this regularly happens</title>
       <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/supply-chain/2026-art-template/</link>
       <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/supply-chain/2026-art-template/</guid>
@@ -760,13 +802,6 @@
       <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2026-45250/</guid>
       <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
-    </item>
-    <item>
-      <title>TIL: Symlinking NixOS Dotfiles</title>
-      <link>https://matklad.github.io/2026/05/21/symlinking-nixos-dotfiles.html</link>
-      <guid isPermaLink="true">https://matklad.github.io/2026/05/21/symlinking-nixos-dotfiles.html</guid>
-      <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-      <description>matklad</description>
     </item>
     <item>
       <title>Leo wouldn't stand still</title>
@@ -809,41 +844,6 @@
       <guid isPermaLink="true">https://www.tiktok.com/@brye.shhh/video/7641047549758934285</guid>
       <pubDate>Wed, 20 May 2026 20:53:22 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>How fast is 10 tokens per second really?</title>
-      <link>https://simonwillison.net/2026/May/20/tokens-per-second/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/20/tokens-per-second/#atom-everything</guid>
-      <pubDate>Wed, 20 May 2026 17:57:45 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Google I/O, Gemini Spark, Antigravity</title>
-      <link>https://simonwillison.net/2026/May/20/google-io/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/20/google-io/#atom-everything</guid>
-      <pubDate>Wed, 20 May 2026 15:32:17 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Assumptions weaken properties</title>
-      <link>https://buttondown.com/hillelwayne/archive/assumptions-weaken-properties/</link>
-      <guid isPermaLink="true">https://buttondown.com/hillelwayne/archive/assumptions-weaken-properties/</guid>
-      <pubDate>Wed, 20 May 2026 15:13:16 +0000</pubDate>
-      <description>Computer Things</description>
-    </item>
-    <item>
-      <title>datasette-agent-charts 0.1a1</title>
-      <link>https://simonwillison.net/2026/May/20/datasette-agent-charts/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/20/datasette-agent-charts/#atom-everything</guid>
-      <pubDate>Wed, 20 May 2026 14:52:16 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>The classic TreeView control lets me sort by name or by lParam, but why not both?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260520-00/?p=112343</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260520-00/?p=112343</guid>
-      <pubDate>Wed, 20 May 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
     </item>
   </channel>
 </rss>

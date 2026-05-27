@@ -208,11 +208,11 @@ Last Updated: Wednesday, May 27th, 2026, 10:51:41 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [My views on some Python LSP servers in GNU Emacs (as of mid 2026)](https://utcc.utoronto.ca/~cks/space/blog/python/PythonLSPServersInEmacs-2026) — *Chris's Wiki :: blog* `05-27`
+- [I patched iozone for better disk benchmarks on modern macOS](https://www.jeffgeerling.com/blog/2026/i-patched-iozone-for-better-disk-benchmarks-on-modern-macos/) — *Jeff Geerling* `05-27`
+- [How Many Tokens Did You Burn Today](https://idiallo.com/blog/how-many-tokens-did-you-burn-today?src=feed) — *Software and Tech stories from an Insider - iDiallo.com* `05-27`
+- [The pressure](https://simonwillison.net/2026/May/26/the-pressure/#atom-everything) — *Simon Willison's Weblog* `05-26`
 - [Calculating the expected range of normal samples](https://www.johndcook.com/blog/2026/05/26/calculating-expected-normal-range/) — *John D. Cook* `05-26`
-- [Revenge of The Business Idiot](https://www.wheresyoured.at/the-revenge-of-the-business-idiot/) — *Ed Zitron's Where's Your Ed At* `05-26`
-- [Only insane people use the internet](https://www.experimental-history.com/p/only-insane-people-use-the-internet) — *Experimental History* `05-26`
-- [Microsoft Copilot Cowork Exfiltrates Files](https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/#atom-everything) — *Simon Willison's Weblog* `05-26`
-- [The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin](https://minimaxir.com/2026/05/openrouter-hy3/) — *Max Woolf's Blog* `05-26`
 <!--BLOG_RADAR:end-->
 
 ---
