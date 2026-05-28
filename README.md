@@ -208,11 +208,11 @@ Last Updated: Thursday, May 28th, 2026, 11:37:06 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Notes on Fourier series](https://eli.thegreenplace.net/2026/notes-on-fourier-series/) — *Eli Bendersky's website* `05-28`
-- [Using typing in Python leads to different sorts of code](https://utcc.utoronto.ca/~cks/space/blog/python/TypeHintsDifferentCode) — *Chris's Wiki :: blog* `05-28`
-- [Turning K-L divergence into a metric](https://www.johndcook.com/blog/2026/05/27/jensen-shannon/) — *John D. Cook* `05-28`
-- [The Costco theory of the internet](https://www.joanwestenberg.com/the-costco-theory-of-the-internet/) — *Westenberg.* `05-28`
-- [sqlite AGENTS.md](https://simonwillison.net/2026/May/27/sqlite-agents/#atom-everything) — *Simon Willison's Weblog* `05-27`
+- [Protestware for coding agents](https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html) — *Andrew Nesbitt* `05-28`
+- [Researchers Publish Method to Surveil Web Page Visitors by Analyzing Their SSD Activity](https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/) — *Daring Fireball* `05-28`
+- [Tuning in FM Radio on a 3D Printer Heatbed](https://www.jeffgeerling.com/blog/2026/tuning-in-fm-radio-on-a-3d-printer-heatbed/) — *Jeff Geerling* `05-28`
+- [Every Enemy Wears Your Face](https://simone.org/projection/) — *Simone Salis* `05-28`
+- [Where Are the Economies of Scale in Homebuilding?](https://www.construction-physics.com/p/where-are-the-economies-of-scale) — *Construction Physics* `05-28`
 <!--BLOG_RADAR:end-->
 
 ---
