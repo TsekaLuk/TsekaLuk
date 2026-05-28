@@ -208,11 +208,11 @@ Last Updated: Friday, May 29th, 2026, 4:11:27 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras](https://tv.apple.com/us/sporting-event/mls-wrap-up/umc.cse.3a198p24hrehwhonbhgx2zvhv) — *Daring Fireball* `05-28`
+- [Knowing about things is cheaper than knowing things](https://buttondown.com/hillelwayne/archive/knowing-about-things-is-cheaper-than-knowing/) — *Computer Things* `05-28`
 - [Protestware for coding agents](https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html) — *Andrew Nesbitt* `05-28`
 - [Researchers Publish Method to Surveil Web Page Visitors by Analyzing Their SSD Activity](https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/) — *Daring Fireball* `05-28`
 - [Tuning in FM Radio on a 3D Printer Heatbed](https://www.jeffgeerling.com/blog/2026/tuning-in-fm-radio-on-a-3d-printer-heatbed/) — *Jeff Geerling* `05-28`
-- [Every Enemy Wears Your Face](https://simone.org/projection/) — *Simone Salis* `05-28`
-- [Where Are the Economies of Scale in Homebuilding?](https://www.construction-physics.com/p/where-are-the-economies-of-scale) — *Construction Physics* `05-28`
 <!--BLOG_RADAR:end-->
 
 ---

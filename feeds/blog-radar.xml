@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 28 May 2026 16:15:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 20:32:14 +0000</lastBuildDate>
+    <item>
+      <title>Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras</title>
+      <link>https://tv.apple.com/us/sporting-event/mls-wrap-up/umc.cse.3a198p24hrehwhonbhgx2zvhv</link>
+      <guid isPermaLink="true">https://tv.apple.com/us/sporting-event/mls-wrap-up/umc.cse.3a198p24hrehwhonbhgx2zvhv</guid>
+      <pubDate>Thu, 28 May 2026 16:51:57 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Knowing about things is cheaper than knowing things</title>
+      <link>https://buttondown.com/hillelwayne/archive/knowing-about-things-is-cheaper-than-knowing/</link>
+      <guid isPermaLink="true">https://buttondown.com/hillelwayne/archive/knowing-about-things-is-cheaper-than-knowing/</guid>
+      <pubDate>Thu, 28 May 2026 16:03:01 +0000</pubDate>
+      <description>Computer Things</description>
+    </item>
     <item>
       <title>Protestware for coding agents</title>
       <link>https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html</link>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/May/21/datasette-agent-sprites/#atom-everything</guid>
       <pubDate>Thu, 21 May 2026 18:21:07 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Couth and uncouth function pairs</title>
-      <link>https://www.johndcook.com/blog/2026/05/21/couth-and-uncouth-function-pairs/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/21/couth-and-uncouth-function-pairs/</guid>
-      <pubDate>Thu, 21 May 2026 17:31:13 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Anthropic's "Profitability" Swindle</title>
-      <link>https://www.wheresyoured.at/anthropics-profitability-swindle/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/anthropics-profitability-swindle/</guid>
-      <pubDate>Thu, 21 May 2026 17:08:19 +0000</pubDate>
-      <description>Ed Zitron's Where's Your Ed At</description>
     </item>
   </channel>
 </rss>
