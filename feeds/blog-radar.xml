@@ -4,7 +4,42 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 27 May 2026 20:25:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 04:15:09 +0000</lastBuildDate>
+    <item>
+      <title>Notes on Fourier series</title>
+      <link>https://eli.thegreenplace.net/2026/notes-on-fourier-series/</link>
+      <guid isPermaLink="true">https://eli.thegreenplace.net/2026/notes-on-fourier-series/</guid>
+      <pubDate>Thu, 28 May 2026 02:30:00 +0000</pubDate>
+      <description>Eli Bendersky's website</description>
+    </item>
+    <item>
+      <title>Using typing in Python leads to different sorts of code</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/python/TypeHintsDifferentCode</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/python/TypeHintsDifferentCode</guid>
+      <pubDate>Thu, 28 May 2026 01:56:55 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>Turning K-L divergence into a metric</title>
+      <link>https://www.johndcook.com/blog/2026/05/27/jensen-shannon/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/27/jensen-shannon/</guid>
+      <pubDate>Thu, 28 May 2026 01:35:54 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>The Costco theory of the internet</title>
+      <link>https://www.joanwestenberg.com/the-costco-theory-of-the-internet/</link>
+      <guid isPermaLink="true">https://www.joanwestenberg.com/the-costco-theory-of-the-internet/</guid>
+      <pubDate>Thu, 28 May 2026 01:29:39 +0000</pubDate>
+      <description>Westenberg.</description>
+    </item>
+    <item>
+      <title>sqlite AGENTS.md</title>
+      <link>https://simonwillison.net/2026/May/27/sqlite-agents/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/27/sqlite-agents/#atom-everything</guid>
+      <pubDate>Wed, 27 May 2026 23:44:37 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>SQLAlchemy 2 In Practice - Solutions to the Exercises</title>
       <link>https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---solutions-to-the-exercises</link>
@@ -102,6 +137,13 @@
       <guid isPermaLink="true">https://idiallo.com/blog/how-many-tokens-did-you-burn-today?src=feed</guid>
       <pubDate>Wed, 27 May 2026 00:31:22 +0000</pubDate>
       <description>Software and Tech stories from an Insider - iDiallo.com</description>
+    </item>
+    <item>
+      <title>Notes on optimizing battery life:</title>
+      <link>https://maurycyz.com/misc/battery/</link>
+      <guid isPermaLink="true">https://maurycyz.com/misc/battery/</guid>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
     </item>
     <item>
       <title>The pressure</title>
@@ -202,18 +244,18 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>Is “colorectal cancer” rising in “young people”?</title>
-      <link>https://dynomight.net/crc-rates/</link>
-      <guid isPermaLink="true">https://dynomight.net/crc-rates/</guid>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
-    </item>
-    <item>
       <title>Clanker: A Word For The Machine</title>
       <link>https://lucumr.pocoo.org/2026/5/26/clankers/</link>
       <guid isPermaLink="true">https://lucumr.pocoo.org/2026/5/26/clankers/</guid>
       <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
       <description>Armin Ronacher's Thoughts and Writings</description>
+    </item>
+    <item>
+      <title>Is “colorectal cancer” rising in “young people”?</title>
+      <link>https://dynomight.net/crc-rates/</link>
+      <guid isPermaLink="true">https://dynomight.net/crc-rates/</guid>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>Notes on Pope Leo XIV's encyclical on AI</title>
@@ -802,48 +844,6 @@
       <guid isPermaLink="true">https://www.construction-physics.com/p/the-rise-of-build-to-rent-housing</guid>
       <pubDate>Thu, 21 May 2026 12:03:24 +0000</pubDate>
       <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>Whale Fall</title>
-      <link>https://shkspr.mobi/blog/2026/05/whale-fall/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/whale-fall/</guid>
-      <pubDate>Thu, 21 May 2026 11:34:15 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Digitale autonomie: wat kunnen organisaties NU doen</title>
-      <link>https://berthub.eu/articles/posts/digitale-autonomie-wat-kunnen-organisaties-nu-doen/</link>
-      <guid isPermaLink="true">https://berthub.eu/articles/posts/digitale-autonomie-wat-kunnen-organisaties-nu-doen/</guid>
-      <pubDate>Thu, 21 May 2026 11:30:00 +0000</pubDate>
-      <description>Bert Hubert's writings</description>
-    </item>
-    <item>
-      <title>RFC: Artificial Contributors to Open Source</title>
-      <link>https://nesbitt.io/2026/05/21/rfc-artificial-contributors-to-open-source.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/05/21/rfc-artificial-contributors-to-open-source.html</guid>
-      <pubDate>Thu, 21 May 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Unix has been changing, but in places where I don't see it</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/unix/UnixChangingQuietly</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/unix/UnixChangingQuietly</guid>
-      <pubDate>Thu, 21 May 2026 01:57:31 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>The Verge: ‘The 13 Biggest Announcements at Google I/O 2026’</title>
-      <link>https://www.theverge.com/tech/933415/google-io-2026-biggest-announcements-ai-gemini?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6Ik5tNTBSc0hxRXQiLCJwIjoiL3RlY2gvOTMzNDE1L2dvb2dsZS1pby0yMDI2LWJpZ2dlc3QtYW5ub3VuY2VtZW50cy1haS1nZW1pbmkiLCJleHAiOjE3Nzk3NTk5MjQsImlhdCI6MTc3OTMyNzkyNH0.g_JiqbJBfi9YcDT1re8aofzmpb3tcZNwY2jQybgwJL0</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/933415/google-io-2026-biggest-announcements-ai-gemini?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6Ik5tNTBSc0hxRXQiLCJwIjoiL3RlY2gvOTMzNDE1L2dvb2dsZS1pby0yMDI2LWJpZ2dlc3QtYW5ub3VuY2VtZW50cy1haS1nZW1pbmkiLCJleHAiOjE3Nzk3NTk5MjQsImlhdCI6MTc3OTMyNzkyNH0.g_JiqbJBfi9YcDT1re8aofzmpb3tcZNwY2jQybgwJL0</guid>
-      <pubDate>Thu, 21 May 2026 01:47:24 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Nobody is destined for greatness.</title>
-      <link>https://www.joanwestenberg.com/nobody-is-destined-for-greatness/</link>
-      <guid isPermaLink="true">https://www.joanwestenberg.com/nobody-is-destined-for-greatness/</guid>
-      <pubDate>Thu, 21 May 2026 01:31:20 +0000</pubDate>
-      <description>Westenberg.</description>
     </item>
   </channel>
 </rss>

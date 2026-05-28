@@ -208,11 +208,11 @@ Last Updated: Thursday, May 28th, 2026, 10:39:16 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [SQLAlchemy 2 In Practice - Solutions to the Exercises](https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---solutions-to-the-exercises) — *Miguel Grinberg's Blog* `05-27`
-- [I think Anthropic and OpenAI have found product-market fit](https://simonwillison.net/2026/May/27/product-market-fit/#atom-everything) — *Simon Willison's Weblog* `05-27`
-- [The Meta logo and fitting Besace curves](https://www.johndcook.com/blog/2026/05/27/the-meta-logo-and-fitting-besace-curves/) — *John D. Cook* `05-27`
-- [Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 1](https://devblogs.microsoft.com/oldnewthing/20260527-00/?p=112361) — *The Old New Thing* `05-27`
-- [Using My Fucking Brain](https://terriblesoftware.org/2026/05/27/using-my-fucking-brain/) — *Terrible Software* `05-27`
+- [Notes on Fourier series](https://eli.thegreenplace.net/2026/notes-on-fourier-series/) — *Eli Bendersky's website* `05-28`
+- [Using typing in Python leads to different sorts of code](https://utcc.utoronto.ca/~cks/space/blog/python/TypeHintsDifferentCode) — *Chris's Wiki :: blog* `05-28`
+- [Turning K-L divergence into a metric](https://www.johndcook.com/blog/2026/05/27/jensen-shannon/) — *John D. Cook* `05-28`
+- [The Costco theory of the internet](https://www.joanwestenberg.com/the-costco-theory-of-the-internet/) — *Westenberg.* `05-28`
+- [sqlite AGENTS.md](https://simonwillison.net/2026/May/27/sqlite-agents/#atom-everything) — *Simon Willison's Weblog* `05-27`
 <!--BLOG_RADAR:end-->
 
 ---
