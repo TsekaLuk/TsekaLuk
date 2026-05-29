@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 28 May 2026 20:32:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 04:17:45 +0000</lastBuildDate>
+    <item>
+      <title>The Go language server can do some impressive code navigation</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/programming/GoLSPImpressiveCodeNavigation</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/programming/GoLSPImpressiveCodeNavigation</guid>
+      <pubDate>Fri, 29 May 2026 01:37:37 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>Anthropic's run-rate revenue hits $47 billion</title>
+      <link>https://simonwillison.net/2026/May/29/anthropic/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/29/anthropic/#atom-everything</guid>
+      <pubDate>Fri, 29 May 2026 01:23:08 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Claude Opus 4.8: "a modest but tangible improvement"</title>
+      <link>https://simonwillison.net/2026/May/28/claude-opus-4-8/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/28/claude-opus-4-8/#atom-everything</guid>
+      <pubDate>Thu, 28 May 2026 23:59:50 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>llm-anthropic 0.25.1</title>
+      <link>https://simonwillison.net/2026/May/28/llm-anthropic/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/28/llm-anthropic/#atom-everything</guid>
+      <pubDate>Thu, 28 May 2026 23:54:56 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras</title>
       <link>https://tv.apple.com/us/sporting-event/mls-wrap-up/umc.cse.3a198p24hrehwhonbhgx2zvhv</link>
@@ -39,6 +67,13 @@
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/tuning-in-fm-radio-on-a-3d-printer-heatbed/</guid>
       <pubDate>Thu, 28 May 2026 14:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260528-00/?p=112365</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260528-00/?p=112365</guid>
+      <pubDate>Thu, 28 May 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Every Enemy Wears Your Face</title>
@@ -321,18 +356,18 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>Is “colorectal cancer” rising in “young people”?</title>
-      <link>https://dynomight.net/crc-rates/</link>
-      <guid isPermaLink="true">https://dynomight.net/crc-rates/</guid>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
-    </item>
-    <item>
       <title>Clanker: A Word For The Machine</title>
       <link>https://lucumr.pocoo.org/2026/5/26/clankers/</link>
       <guid isPermaLink="true">https://lucumr.pocoo.org/2026/5/26/clankers/</guid>
       <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
       <description>Armin Ronacher's Thoughts and Writings</description>
+    </item>
+    <item>
+      <title>Is “colorectal cancer” rising in “young people”?</title>
+      <link>https://dynomight.net/crc-rates/</link>
+      <guid isPermaLink="true">https://dynomight.net/crc-rates/</guid>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>Notes on Pope Leo XIV's encyclical on AI</title>
@@ -809,41 +844,6 @@
       <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/web/RespectfulPersonalArchiving</guid>
       <pubDate>Thu, 21 May 2026 22:45:34 +0000</pubDate>
       <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada</title>
-      <link>https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/</link>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/</guid>
-      <pubDate>Thu, 21 May 2026 21:50:25 +0000</pubDate>
-      <description>Krebs on Security</description>
-    </item>
-    <item>
-      <title>Datasette Agent</title>
-      <link>https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything</guid>
-      <pubDate>Thu, 21 May 2026 19:52:19 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Apple Sports Expands to More Than 90 New Countries on Cusp of World Cup</title>
-      <link>https://www.apple.com/newsroom/2026/05/apple-sports-expands-to-more-than-90-new-countries-and-regions/</link>
-      <guid isPermaLink="true">https://www.apple.com/newsroom/2026/05/apple-sports-expands-to-more-than-90-new-countries-and-regions/</guid>
-      <pubDate>Thu, 21 May 2026 19:13:56 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Book Notes: “Poor Charlie’s Almanack”</title>
-      <link>https://blog.jim-nielsen.com/2026/book-notes-charlie-munger/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/book-notes-charlie-munger/</guid>
-      <pubDate>Thu, 21 May 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
-      <title>datasette-agent-sprites 0.1a0</title>
-      <link>https://simonwillison.net/2026/May/21/datasette-agent-sprites/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/21/datasette-agent-sprites/#atom-everything</guid>
-      <pubDate>Thu, 21 May 2026 18:21:07 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
