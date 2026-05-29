@@ -208,11 +208,11 @@ Last Updated: Saturday, May 30th, 2026, 4:12:04 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Premium: What If...We're In An AI Bubble? (Part 3)](https://www.wheresyoured.at/premium-what-if-were-in-an-ai-bubble-part-3/) — *Ed Zitron's Where's Your Ed At* `05-29`
+- [This Week on The Analog Antiquarian](https://www.filfre.net/2026/05/this-week-on-the-analog-antiquarian/) — *The Digital Antiquarian* `05-29`
+- [One Group, Clearly, Is Deranged](https://paulkrugman.substack.com/p/whos-deranged-exactly) — *Daring Fireball* `05-29`
 - [It's hard to justify buying a Framework 12](https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/) — *Jeff Geerling* `05-29`
 - [Online (one-pass) algorithms](https://www.johndcook.com/blog/2026/05/29/online-one-pass-algorithms/) — *John D. Cook* `05-29`
-- [The UK Government's Low Value Purchase System is a Waste of Time](https://shkspr.mobi/blog/2026/05/the-uk-governments-low-value-purchase-system-is-a-waste-of-time/) — *Terence Eden’s Blog* `05-29`
-- [Composer’s dependency policies](https://nesbitt.io/2026/05/29/composer-dependency-policies.html) — *Andrew Nesbitt* `05-29`
-- [datasette 1.0a31](https://simonwillison.net/2026/May/29/datasette/#atom-everything) — *Simon Willison's Weblog* `05-29`
 <!--BLOG_RADAR:end-->
 
 ---
