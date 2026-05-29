@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 29 May 2026 10:06:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 15:58:22 +0000</lastBuildDate>
+    <item>
+      <title>It's hard to justify buying a Framework 12</title>
+      <link>https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/</guid>
+      <pubDate>Fri, 29 May 2026 14:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>Online (one-pass) algorithms</title>
+      <link>https://www.johndcook.com/blog/2026/05/29/online-one-pass-algorithms/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/29/online-one-pass-algorithms/</guid>
+      <pubDate>Fri, 29 May 2026 12:24:30 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>The UK Government's Low Value Purchase System is a Waste of Time</title>
+      <link>https://shkspr.mobi/blog/2026/05/the-uk-governments-low-value-purchase-system-is-a-waste-of-time/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/the-uk-governments-low-value-purchase-system-is-a-waste-of-time/</guid>
+      <pubDate>Fri, 29 May 2026 11:34:54 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Composer’s dependency policies</title>
+      <link>https://nesbitt.io/2026/05/29/composer-dependency-policies.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/05/29/composer-dependency-policies.html</guid>
+      <pubDate>Fri, 29 May 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
     <item>
       <title>datasette 1.0a31</title>
       <link>https://simonwillison.net/2026/May/29/datasette/#atom-everything</link>
@@ -25,6 +53,13 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/May/29/anthropic/#atom-everything</guid>
       <pubDate>Fri, 29 May 2026 01:23:08 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>What's going on with Gemini?</title>
+      <link>https://martinalderson.com/posts/whats-going-on-with-gemini/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
+      <guid isPermaLink="true">https://martinalderson.com/posts/whats-going-on-with-gemini/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+      <description>Martin Alderson</description>
     </item>
     <item>
       <title>Claude Opus 4.8: "a modest but tangible improvement"</title>
@@ -809,41 +844,6 @@
       <guid isPermaLink="true">https://www.wheresyoured.at/news-openai-had-a-negative-122-operating-margin-in-q1-2026-and-chatgpt-growth-has-stalled/</guid>
       <pubDate>Fri, 22 May 2026 14:21:18 +0000</pubDate>
       <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>Why do you say that a COM STA thread must pump messages if I see sample code creating STA threads and not pumping messages?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260522-00/?p=112348</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260522-00/?p=112348</guid>
-      <pubDate>Fri, 22 May 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Dependency Pruning</title>
-      <link>https://nesbitt.io/2026/05/22/dependency-pruning.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/05/22/dependency-pruning.html</guid>
-      <pubDate>Fri, 22 May 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to Settle Charges They Deceived Customers About “Active Listening” AI-Powered Marketing Service</title>
-      <link>https://simonwillison.net/2026/May/22/ftc-active-listening/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/22/ftc-active-listening/#atom-everything</guid>
-      <pubDate>Fri, 22 May 2026 04:48:32 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Apple Seeks Supreme Court Review of Contempt Finding and Injunction Scope in Epic Games Case</title>
-      <link>https://9to5mac.com/2026/05/21/apple-seeks-supreme-court-review-of-contempt-finding-and-injunction-scope-in-epic-games-case/</link>
-      <guid isPermaLink="true">https://9to5mac.com/2026/05/21/apple-seeks-supreme-court-review-of-contempt-finding-and-injunction-scope-in-epic-games-case/</guid>
-      <pubDate>Fri, 22 May 2026 01:00:47 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>StubZero: $148,337 RCE in Google Cloud Production</title>
-      <link>https://brutecat.com/articles/google-cloud-rce</link>
-      <guid isPermaLink="true">https://brutecat.com/articles/google-cloud-rce</guid>
-      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-      <description>Brutecat · Research</description>
     </item>
   </channel>
 </rss>

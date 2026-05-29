@@ -208,11 +208,11 @@ Last Updated: Friday, May 29th, 2026, 10:50:30 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [It's hard to justify buying a Framework 12](https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/) — *Jeff Geerling* `05-29`
+- [Online (one-pass) algorithms](https://www.johndcook.com/blog/2026/05/29/online-one-pass-algorithms/) — *John D. Cook* `05-29`
+- [The UK Government's Low Value Purchase System is a Waste of Time](https://shkspr.mobi/blog/2026/05/the-uk-governments-low-value-purchase-system-is-a-waste-of-time/) — *Terence Eden’s Blog* `05-29`
+- [Composer’s dependency policies](https://nesbitt.io/2026/05/29/composer-dependency-policies.html) — *Andrew Nesbitt* `05-29`
 - [datasette 1.0a31](https://simonwillison.net/2026/May/29/datasette/#atom-everything) — *Simon Willison's Weblog* `05-29`
-- [The Go language server can do some impressive code navigation](https://utcc.utoronto.ca/~cks/space/blog/programming/GoLSPImpressiveCodeNavigation) — *Chris's Wiki :: blog* `05-29`
-- [Anthropic's run-rate revenue hits $47 billion](https://simonwillison.net/2026/May/29/anthropic/#atom-everything) — *Simon Willison's Weblog* `05-29`
-- [Claude Opus 4.8: "a modest but tangible improvement"](https://simonwillison.net/2026/May/28/claude-opus-4-8/#atom-everything) — *Simon Willison's Weblog* `05-28`
-- [llm-anthropic 0.25.1](https://simonwillison.net/2026/May/28/llm-anthropic/#atom-everything) — *Simon Willison's Weblog* `05-28`
 <!--BLOG_RADAR:end-->
 
 ---
