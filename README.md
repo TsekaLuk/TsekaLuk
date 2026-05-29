@@ -208,11 +208,11 @@ Last Updated: Friday, May 29th, 2026, 5:42:50 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [datasette 1.0a31](https://simonwillison.net/2026/May/29/datasette/#atom-everything) — *Simon Willison's Weblog* `05-29`
 - [The Go language server can do some impressive code navigation](https://utcc.utoronto.ca/~cks/space/blog/programming/GoLSPImpressiveCodeNavigation) — *Chris's Wiki :: blog* `05-29`
 - [Anthropic's run-rate revenue hits $47 billion](https://simonwillison.net/2026/May/29/anthropic/#atom-everything) — *Simon Willison's Weblog* `05-29`
 - [Claude Opus 4.8: "a modest but tangible improvement"](https://simonwillison.net/2026/May/28/claude-opus-4-8/#atom-everything) — *Simon Willison's Weblog* `05-28`
 - [llm-anthropic 0.25.1](https://simonwillison.net/2026/May/28/llm-anthropic/#atom-everything) — *Simon Willison's Weblog* `05-28`
-- [Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras](https://tv.apple.com/us/sporting-event/mls-wrap-up/umc.cse.3a198p24hrehwhonbhgx2zvhv) — *Daring Fireball* `05-28`
 <!--BLOG_RADAR:end-->
 
 ---
