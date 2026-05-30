@@ -4,7 +4,42 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 30 May 2026 13:54:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 19:27:08 +0000</lastBuildDate>
+    <item>
+      <title>On first looking into JAX</title>
+      <link>https://www.gilesthomas.com/2026/05/on-first-looking-into-jax</link>
+      <guid isPermaLink="true">https://www.gilesthomas.com/2026/05/on-first-looking-into-jax</guid>
+      <pubDate>Sat, 30 May 2026 18:45:00 +0000</pubDate>
+      <description>Giles' blog</description>
+    </item>
+    <item>
+      <title>Quoting Daniel Jalkut</title>
+      <link>https://simonwillison.net/2026/May/30/daniel-jalkut/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/30/daniel-jalkut/#atom-everything</guid>
+      <pubDate>Sat, 30 May 2026 17:29:55 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Microcode inside the Intel 8087 floating-point chip: register exchange</title>
+      <link>http://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html</link>
+      <guid isPermaLink="true">http://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html</guid>
+      <pubDate>Sat, 30 May 2026 17:09:35 +0000</pubDate>
+      <description>Ken Shirriff's blog</description>
+    </item>
+    <item>
+      <title>Meta Is Launching Instagram, Facebook, and WhatsApp Subscriptions for ‘Fun Features’</title>
+      <link>https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/</guid>
+      <pubDate>Sat, 30 May 2026 15:34:02 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Daniel Jalkut on AI</title>
+      <link>https://mastodon.social/@danielpunkass/116639318125898071</link>
+      <guid isPermaLink="true">https://mastodon.social/@danielpunkass/116639318125898071</guid>
+      <pubDate>Sat, 30 May 2026 15:27:20 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Yours Truly on TBPN Yesterday</title>
       <link>https://www.youtube.com/live/sQVwLUxFdMY?t=1997</link>
@@ -41,6 +76,13 @@
       <description>Chris's Wiki :: blog</description>
     </item>
     <item>
+      <title>Notes from May 2026</title>
+      <link>https://evanhahn.com/notes-from-may-2026/</link>
+      <guid isPermaLink="true">https://evanhahn.com/notes-from-may-2026/</guid>
+      <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
+      <description>Evan Hahn (dot com)</description>
+    </item>
+    <item>
       <title>★ What Is a Dickover?</title>
       <link>https://daringfireball.net/2026/05/what_is_a_dickover</link>
       <guid isPermaLink="true">https://daringfireball.net/2026/05/what_is_a_dickover</guid>
@@ -69,18 +111,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260529-00/?p=112368</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260529-00/?p=112368</guid>
-      <pubDate>Fri, 29 May 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
       <title>It's hard to justify buying a Framework 12</title>
       <link>https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/</link>
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/</guid>
       <pubDate>Fri, 29 May 2026 14:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260529-00/?p=112368</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260529-00/?p=112368</guid>
+      <pubDate>Fri, 29 May 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Online (one-pass) algorithms</title>
@@ -181,18 +223,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260528-00/?p=112365</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260528-00/?p=112365</guid>
-      <pubDate>Thu, 28 May 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
       <title>Tuning in FM Radio on a 3D Printer Heatbed</title>
       <link>https://www.jeffgeerling.com/blog/2026/tuning-in-fm-radio-on-a-3d-printer-heatbed/</link>
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/tuning-in-fm-radio-on-a-3d-printer-heatbed/</guid>
       <pubDate>Thu, 28 May 2026 14:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260528-00/?p=112365</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260528-00/?p=112365</guid>
+      <pubDate>Thu, 28 May 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Every Enemy Wears Your Face</title>
@@ -475,18 +517,18 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>Clanker: A Word For The Machine</title>
-      <link>https://lucumr.pocoo.org/2026/5/26/clankers/</link>
-      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/5/26/clankers/</guid>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-      <description>Armin Ronacher's Thoughts and Writings</description>
-    </item>
-    <item>
       <title>Is “colorectal cancer” rising in “young people”?</title>
       <link>https://dynomight.net/crc-rates/</link>
       <guid isPermaLink="true">https://dynomight.net/crc-rates/</guid>
       <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
       <description>DYNOMIGHT</description>
+    </item>
+    <item>
+      <title>Clanker: A Word For The Machine</title>
+      <link>https://lucumr.pocoo.org/2026/5/26/clankers/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/5/26/clankers/</guid>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
       <title>Notes on Pope Leo XIV's encyclical on AI</title>
@@ -802,48 +844,6 @@
       <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/05/23/one-bad-scenario.html</guid>
       <pubDate>Sat, 23 May 2026 07:00:00 +0000</pubDate>
       <description>the singularity is nearer</description>
-    </item>
-    <item>
-      <title>Building complex functions out of real parts</title>
-      <link>https://www.johndcook.com/blog/2026/05/22/complex-functions-real-parts/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/22/complex-functions-real-parts/</guid>
-      <pubDate>Sat, 23 May 2026 03:24:10 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>My views on Flymake and Flycheck in GNU Emacs (as of mid 2026)</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsFlymakeFlycheck</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsFlymakeFlycheck</guid>
-      <pubDate>Sat, 23 May 2026 02:57:53 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>The commencement speech that shook the world</title>
-      <link>https://idiallo.com/blog/the-commencement-speech-that-shook-the-world?src=feed</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/the-commencement-speech-that-shook-the-world?src=feed</guid>
-      <pubDate>Sat, 23 May 2026 01:14:24 +0000</pubDate>
-      <description>Software and Tech stories from an Insider - iDiallo.com</description>
-    </item>
-    <item>
-      <title>Don't Roll Your Own ...</title>
-      <link>https://susam.net/do-not-roll-your-own.html</link>
-      <guid isPermaLink="true">https://susam.net/do-not-roll-your-own.html</guid>
-      <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
-      <description>Susam Pal</description>
-    </item>
-    <item>
-      <title>The memory shortage is causing a repricing of consumer electronics</title>
-      <link>https://simonwillison.net/2026/May/22/memory-shortage/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/22/memory-shortage/#atom-everything</guid>
-      <pubDate>Fri, 22 May 2026 22:01:31 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>★ The Fonts of the U.S. Federal Courts</title>
-      <link>https://daringfireball.net/2026/05/the_fonts_of_the_us_federal_courts</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/05/the_fonts_of_the_us_federal_courts</guid>
-      <pubDate>Fri, 22 May 2026 20:30:18 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>

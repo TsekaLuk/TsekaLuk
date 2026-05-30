@@ -208,11 +208,11 @@ Last Updated: Sunday, May 31st, 2026, 3:05:03 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Yours Truly on TBPN Yesterday](https://www.youtube.com/live/sQVwLUxFdMY?t=1997) — *Daring Fireball* `05-30`
-- [Reading List 05/30/26](https://www.construction-physics.com/p/reading-list-053026) — *Construction Physics* `05-30`
-- [This Week in Package Management: 30 May 2026](https://nesbitt.io/2026/05/30/this-week-in-package-management.html) — *Andrew Nesbitt* `05-30`
-- [Pluralistic: Carneyism without Carney (30 May 2026)](https://pluralistic.net/2026/05/30/rupture/) — *Pluralistic: Daily links from Cory Doctorow* `05-30`
-- [Our servers mostly don't seem to have high peak power usage](https://utcc.utoronto.ca/~cks/space/blog/tech/ServersLowMaxPowerConsumption) — *Chris's Wiki :: blog* `05-30`
+- [On first looking into JAX](https://www.gilesthomas.com/2026/05/on-first-looking-into-jax) — *Giles' blog* `05-30`
+- [Quoting Daniel Jalkut](https://simonwillison.net/2026/May/30/daniel-jalkut/#atom-everything) — *Simon Willison's Weblog* `05-30`
+- [Microcode inside the Intel 8087 floating-point chip: register exchange](http://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html) — *Ken Shirriff's blog* `05-30`
+- [Meta Is Launching Instagram, Facebook, and WhatsApp Subscriptions for ‘Fun Features’](https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/) — *Daring Fireball* `05-30`
+- [Daniel Jalkut on AI](https://mastodon.social/@danielpunkass/116639318125898071) — *Daring Fireball* `05-30`
 <!--BLOG_RADAR:end-->
 
 ---
