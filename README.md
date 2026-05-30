@@ -208,11 +208,11 @@ Last Updated: Saturday, May 30th, 2026, 9:16:03 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Yours Truly on TBPN Yesterday](https://www.youtube.com/live/sQVwLUxFdMY?t=1997) — *Daring Fireball* `05-30`
+- [Reading List 05/30/26](https://www.construction-physics.com/p/reading-list-053026) — *Construction Physics* `05-30`
+- [This Week in Package Management: 30 May 2026](https://nesbitt.io/2026/05/30/this-week-in-package-management.html) — *Andrew Nesbitt* `05-30`
+- [Pluralistic: Carneyism without Carney (30 May 2026)](https://pluralistic.net/2026/05/30/rupture/) — *Pluralistic: Daily links from Cory Doctorow* `05-30`
 - [Our servers mostly don't seem to have high peak power usage](https://utcc.utoronto.ca/~cks/space/blog/tech/ServersLowMaxPowerConsumption) — *Chris's Wiki :: blog* `05-30`
-- [★ What Is a Dickover?](https://daringfireball.net/2026/05/what_is_a_dickover) — *Daring Fireball* `05-29`
-- [Premium: What If...We're In An AI Bubble? (Part 3)](https://www.wheresyoured.at/premium-what-if-were-in-an-ai-bubble-part-3/) — *Ed Zitron's Where's Your Ed At* `05-29`
-- [This Week on The Analog Antiquarian](https://www.filfre.net/2026/05/this-week-on-the-analog-antiquarian/) — *The Digital Antiquarian* `05-29`
-- [One Group, Clearly, Is Deranged](https://paulkrugman.substack.com/p/whos-deranged-exactly) — *Daring Fireball* `05-29`
 <!--BLOG_RADAR:end-->
 
 ---

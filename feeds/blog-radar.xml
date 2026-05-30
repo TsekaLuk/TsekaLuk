@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 30 May 2026 08:35:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 13:54:59 +0000</lastBuildDate>
+    <item>
+      <title>Yours Truly on TBPN Yesterday</title>
+      <link>https://www.youtube.com/live/sQVwLUxFdMY?t=1997</link>
+      <guid isPermaLink="true">https://www.youtube.com/live/sQVwLUxFdMY?t=1997</guid>
+      <pubDate>Sat, 30 May 2026 12:28:10 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Reading List 05/30/26</title>
+      <link>https://www.construction-physics.com/p/reading-list-053026</link>
+      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-053026</guid>
+      <pubDate>Sat, 30 May 2026 12:02:52 +0000</pubDate>
+      <description>Construction Physics</description>
+    </item>
+    <item>
+      <title>This Week in Package Management: 30 May 2026</title>
+      <link>https://nesbitt.io/2026/05/30/this-week-in-package-management.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/05/30/this-week-in-package-management.html</guid>
+      <pubDate>Sat, 30 May 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>Pluralistic: Carneyism without Carney (30 May 2026)</title>
+      <link>https://pluralistic.net/2026/05/30/rupture/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/05/30/rupture/</guid>
+      <pubDate>Sat, 30 May 2026 09:31:41 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
     <item>
       <title>Our servers mostly don't seem to have high peak power usage</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/tech/ServersLowMaxPowerConsumption</link>
@@ -447,18 +475,18 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>Is “colorectal cancer” rising in “young people”?</title>
-      <link>https://dynomight.net/crc-rates/</link>
-      <guid isPermaLink="true">https://dynomight.net/crc-rates/</guid>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
-    </item>
-    <item>
       <title>Clanker: A Word For The Machine</title>
       <link>https://lucumr.pocoo.org/2026/5/26/clankers/</link>
       <guid isPermaLink="true">https://lucumr.pocoo.org/2026/5/26/clankers/</guid>
       <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
       <description>Armin Ronacher's Thoughts and Writings</description>
+    </item>
+    <item>
+      <title>Is “colorectal cancer” rising in “young people”?</title>
+      <link>https://dynomight.net/crc-rates/</link>
+      <guid isPermaLink="true">https://dynomight.net/crc-rates/</guid>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>Notes on Pope Leo XIV's encyclical on AI</title>
@@ -815,34 +843,6 @@
       <link>https://daringfireball.net/2026/05/the_fonts_of_the_us_federal_courts</link>
       <guid isPermaLink="true">https://daringfireball.net/2026/05/the_fonts_of_the_us_federal_courts</guid>
       <pubDate>Fri, 22 May 2026 20:30:18 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>News about Raspberry Pi 6 and Microcontroller Development</title>
-      <link>https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/</guid>
-      <pubDate>Fri, 22 May 2026 20:15:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
-      <title>How to Talk to Your Coworkers</title>
-      <link>https://idiallo.com/blog/how-to-talk-to-your-coworkers?src=feed</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/how-to-talk-to-your-coworkers?src=feed</guid>
-      <pubDate>Fri, 22 May 2026 19:00:00 +0000</pubDate>
-      <description>Software and Tech stories from an Insider - iDiallo.com</description>
-    </item>
-    <item>
-      <title>The Ninth Circuit Appeal Ruling in ‘Epic v. Apple’ That Apple Is Seeking to Overturn at the Supreme Court (PDF)</title>
-      <link>https://cdn.ca9.uscourts.gov/datastore/opinions/2025/12/11/25-2935.pdf</link>
-      <guid isPermaLink="true">https://cdn.ca9.uscourts.gov/datastore/opinions/2025/12/11/25-2935.pdf</guid>
-      <pubDate>Fri, 22 May 2026 17:39:05 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Zero Sum Problems and Apple Sports</title>
-      <link>https://kieranhealy.org/blog/archives/2026/05/21/zero-sum-problems/</link>
-      <guid isPermaLink="true">https://kieranhealy.org/blog/archives/2026/05/21/zero-sum-problems/</guid>
-      <pubDate>Fri, 22 May 2026 17:15:00 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
   </channel>
