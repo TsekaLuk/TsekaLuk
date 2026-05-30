@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 29 May 2026 20:34:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 04:02:35 +0000</lastBuildDate>
+    <item>
+      <title>Our servers mostly don't seem to have high peak power usage</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/tech/ServersLowMaxPowerConsumption</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/tech/ServersLowMaxPowerConsumption</guid>
+      <pubDate>Sat, 30 May 2026 03:34:57 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>★ What Is a Dickover?</title>
+      <link>https://daringfireball.net/2026/05/what_is_a_dickover</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/05/what_is_a_dickover</guid>
+      <pubDate>Fri, 29 May 2026 20:58:56 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Premium: What If...We're In An AI Bubble? (Part 3)</title>
       <link>https://www.wheresyoured.at/premium-what-if-were-in-an-ai-bubble-part-3/</link>
@@ -32,6 +46,13 @@
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/</guid>
       <pubDate>Fri, 29 May 2026 14:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260529-00/?p=112368</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260529-00/?p=112368</guid>
+      <pubDate>Fri, 29 May 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Online (one-pass) algorithms</title>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://kieranhealy.org/blog/archives/2026/05/21/zero-sum-problems/</guid>
       <pubDate>Fri, 22 May 2026 17:15:00 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Stephen Colbert’s ‘The Late Show’ Finale</title>
-      <link>https://www.nytimes.com/2026/05/22/arts/television/colbert-last-late-show.html?unlocked_article_code=1.kVA.GO3I.gVq9KeUrHEyM</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/22/arts/television/colbert-last-late-show.html?unlocked_article_code=1.kVA.GO3I.gVq9KeUrHEyM</guid>
-      <pubDate>Fri, 22 May 2026 17:12:10 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Lawmakers Demand Answers as CISA Tries to Contain Data Leak</title>
-      <link>https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/</link>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/</guid>
-      <pubDate>Fri, 22 May 2026 16:34:24 +0000</pubDate>
-      <description>Krebs on Security</description>
-    </item>
-    <item>
-      <title>Planescape: Torment, Part 1: From the Tabletop…</title>
-      <link>https://www.filfre.net/2026/05/planescape-torment-part-1-from-the-tabletop/</link>
-      <guid isPermaLink="true">https://www.filfre.net/2026/05/planescape-torment-part-1-from-the-tabletop/</guid>
-      <pubDate>Fri, 22 May 2026 16:27:41 +0000</pubDate>
-      <description>The Digital Antiquarian</description>
     </item>
   </channel>
 </rss>
