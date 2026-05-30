@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 30 May 2026 04:02:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 08:35:37 +0000</lastBuildDate>
     <item>
       <title>Our servers mostly don't seem to have high peak power usage</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/tech/ServersLowMaxPowerConsumption</link>
@@ -41,18 +41,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>It's hard to justify buying a Framework 12</title>
-      <link>https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/</guid>
-      <pubDate>Fri, 29 May 2026 14:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
       <title>Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260529-00/?p=112368</link>
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260529-00/?p=112368</guid>
       <pubDate>Fri, 29 May 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>It's hard to justify buying a Framework 12</title>
+      <link>https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/</guid>
+      <pubDate>Fri, 29 May 2026 14:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
     </item>
     <item>
       <title>Online (one-pass) algorithms</title>
@@ -153,18 +153,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Tuning in FM Radio on a 3D Printer Heatbed</title>
-      <link>https://www.jeffgeerling.com/blog/2026/tuning-in-fm-radio-on-a-3d-printer-heatbed/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/tuning-in-fm-radio-on-a-3d-printer-heatbed/</guid>
-      <pubDate>Thu, 28 May 2026 14:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
       <title>Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260528-00/?p=112365</link>
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260528-00/?p=112365</guid>
       <pubDate>Thu, 28 May 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>Tuning in FM Radio on a 3D Printer Heatbed</title>
+      <link>https://www.jeffgeerling.com/blog/2026/tuning-in-fm-radio-on-a-3d-printer-heatbed/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/tuning-in-fm-radio-on-a-3d-printer-heatbed/</guid>
+      <pubDate>Thu, 28 May 2026 14:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
     </item>
     <item>
       <title>Every Enemy Wears Your Face</title>
@@ -447,18 +447,18 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>Clanker: A Word For The Machine</title>
-      <link>https://lucumr.pocoo.org/2026/5/26/clankers/</link>
-      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/5/26/clankers/</guid>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-      <description>Armin Ronacher's Thoughts and Writings</description>
-    </item>
-    <item>
       <title>Is “colorectal cancer” rising in “young people”?</title>
       <link>https://dynomight.net/crc-rates/</link>
       <guid isPermaLink="true">https://dynomight.net/crc-rates/</guid>
       <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
       <description>DYNOMIGHT</description>
+    </item>
+    <item>
+      <title>Clanker: A Word For The Machine</title>
+      <link>https://lucumr.pocoo.org/2026/5/26/clankers/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/5/26/clankers/</guid>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
       <title>Notes on Pope Leo XIV's encyclical on AI</title>
