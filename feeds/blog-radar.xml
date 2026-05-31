@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 31 May 2026 04:38:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 08:55:52 +0000</lastBuildDate>
     <item>
       <title>Ahoy, DECmate II! the little PDP-8 that could</title>
       <link>https://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html</link>
@@ -25,6 +25,13 @@
       <guid isPermaLink="true">https://feed.tedium.co/link/15204/17351430/google-ai-udm14-reflection</guid>
       <pubDate>Sun, 31 May 2026 00:43:46 +0000</pubDate>
       <description>Tedium: The Dull Side of the Internet.</description>
+    </item>
+    <item>
+      <title>Build agents, not pipelines</title>
+      <link>https://seangoedecke.com/build-agents-not-pipelines/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/build-agents-not-pipelines/</guid>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>Our unusual system of "web home directories" for people</title>
@@ -580,18 +587,18 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>Is “colorectal cancer” rising in “young people”?</title>
-      <link>https://dynomight.net/crc-rates/</link>
-      <guid isPermaLink="true">https://dynomight.net/crc-rates/</guid>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
-    </item>
-    <item>
       <title>Clanker: A Word For The Machine</title>
       <link>https://lucumr.pocoo.org/2026/5/26/clankers/</link>
       <guid isPermaLink="true">https://lucumr.pocoo.org/2026/5/26/clankers/</guid>
       <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
       <description>Armin Ronacher's Thoughts and Writings</description>
+    </item>
+    <item>
+      <title>Is “colorectal cancer” rising in “young people”?</title>
+      <link>https://dynomight.net/crc-rates/</link>
+      <guid isPermaLink="true">https://dynomight.net/crc-rates/</guid>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>Notes on Pope Leo XIV's encyclical on AI</title>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://hey.paris/posts/ncp-submission/</guid>
       <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
       <description>Dr Paris Buttfield-Addison</description>
-    </item>
-    <item>
-      <title>How our environment still needs the security boundary of Unix logins</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/WhyWeNeedUnixLoginSecurity</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/WhyWeNeedUnixLoginSecurity</guid>
-      <pubDate>Sat, 23 May 2026 23:28:33 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
     </item>
   </channel>
 </rss>

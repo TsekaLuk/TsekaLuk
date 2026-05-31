@@ -211,8 +211,8 @@ Last Updated: Sunday, May 31st, 2026, 4:37:54 PM
 - [Ahoy, DECmate II! the little PDP-8 that could](https://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html) — *Old Vintage Computing Research* `05-31`
 - [Quoting Karen Kwok for Reuters Breakingviews](https://simonwillison.net/2026/May/31/anthropic-run-rate/#atom-everything) — *Simon Willison's Weblog* `05-31`
 - [One &udm After Another](https://feed.tedium.co/link/15204/17351430/google-ai-udm14-reflection) — *Tedium: The Dull Side of the Internet.* `05-31`
+- [Build agents, not pipelines](https://seangoedecke.com/build-agents-not-pipelines/) — *seangoedecke.com RSS feed* `05-31`
 - [Our unusual system of "web home directories" for people](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OurWebHomeDirectories) — *Chris's Wiki :: blog* `05-30`
-- [How we contain Claude across products](https://simonwillison.net/2026/May/30/how-we-contain-claude/#atom-everything) — *Simon Willison's Weblog* `05-30`
 <!--BLOG_RADAR:end-->
 
 ---
