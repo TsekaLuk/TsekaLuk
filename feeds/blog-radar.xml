@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 31 May 2026 08:55:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 14:00:47 +0000</lastBuildDate>
+    <item>
+      <title>Who are the actors in the UK's 2015 passport?</title>
+      <link>https://shkspr.mobi/blog/2026/05/who-are-the-actors-in-the-uks-2015-passport/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/who-are-the-actors-in-the-uks-2015-passport/</guid>
+      <pubDate>Sun, 31 May 2026 11:34:08 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
     <item>
       <title>Ahoy, DECmate II! the little PDP-8 that could</title>
       <link>https://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html</link>
@@ -32,6 +39,13 @@
       <guid isPermaLink="true">https://seangoedecke.com/build-agents-not-pipelines/</guid>
       <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>A day in the threatened forests of the Central Highlands</title>
+      <link>https://hey.paris/posts/threatened-forests/</link>
+      <guid isPermaLink="true">https://hey.paris/posts/threatened-forests/</guid>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+      <description>Dr Paris Buttfield-Addison</description>
     </item>
     <item>
       <title>Our unusual system of "web home directories" for people</title>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://lucumr.pocoo.org/2026/5/24/pi-oss/</guid>
       <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
       <description>Armin Ronacher's Thoughts and Writings</description>
-    </item>
-    <item>
-      <title>Childhood Computing</title>
-      <link>https://susam.net/childhood-computing.html</link>
-      <guid isPermaLink="true">https://susam.net/childhood-computing.html</guid>
-      <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
-      <description>Susam Pal</description>
-    </item>
-    <item>
-      <title>Games Are the Art Form of Our Time</title>
-      <link>https://hey.paris/posts/ncp-submission/</link>
-      <guid isPermaLink="true">https://hey.paris/posts/ncp-submission/</guid>
-      <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
-      <description>Dr Paris Buttfield-Addison</description>
     </item>
   </channel>
 </rss>
