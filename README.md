@@ -208,11 +208,11 @@ Last Updated: Sunday, May 31st, 2026, 10:53:50 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [On first looking into JAX](https://www.gilesthomas.com/2026/05/on-first-looking-into-jax) — *Giles' blog* `05-30`
-- [Quoting Daniel Jalkut](https://simonwillison.net/2026/May/30/daniel-jalkut/#atom-everything) — *Simon Willison's Weblog* `05-30`
-- [Microcode inside the Intel 8087 floating-point chip: register exchange](http://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html) — *Ken Shirriff's blog* `05-30`
-- [Meta Is Launching Instagram, Facebook, and WhatsApp Subscriptions for ‘Fun Features’](https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/) — *Daring Fireball* `05-30`
-- [Daniel Jalkut on AI](https://mastodon.social/@danielpunkass/116639318125898071) — *Daring Fireball* `05-30`
+- [Ahoy, DECmate II! the little PDP-8 that could](https://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html) — *Old Vintage Computing Research* `05-31`
+- [Quoting Karen Kwok for Reuters Breakingviews](https://simonwillison.net/2026/May/31/anthropic-run-rate/#atom-everything) — *Simon Willison's Weblog* `05-31`
+- [One &udm After Another](https://feed.tedium.co/link/15204/17351430/google-ai-udm14-reflection) — *Tedium: The Dull Side of the Internet.* `05-31`
+- [Our unusual system of "web home directories" for people](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OurWebHomeDirectories) — *Chris's Wiki :: blog* `05-30`
+- [How we contain Claude across products](https://simonwillison.net/2026/May/30/how-we-contain-claude/#atom-everything) — *Simon Willison's Weblog* `05-30`
 <!--BLOG_RADAR:end-->
 
 ---

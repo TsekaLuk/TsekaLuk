@@ -4,7 +4,63 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 30 May 2026 19:27:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 04:38:07 +0000</lastBuildDate>
+    <item>
+      <title>Ahoy, DECmate II! the little PDP-8 that could</title>
+      <link>https://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html</link>
+      <guid isPermaLink="true">https://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html</guid>
+      <pubDate>Sun, 31 May 2026 02:19:49 +0000</pubDate>
+      <description>Old Vintage Computing Research</description>
+    </item>
+    <item>
+      <title>Quoting Karen Kwok for Reuters Breakingviews</title>
+      <link>https://simonwillison.net/2026/May/31/anthropic-run-rate/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/31/anthropic-run-rate/#atom-everything</guid>
+      <pubDate>Sun, 31 May 2026 01:48:12 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>One &amp;udm After Another</title>
+      <link>https://feed.tedium.co/link/15204/17351430/google-ai-udm14-reflection</link>
+      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17351430/google-ai-udm14-reflection</guid>
+      <pubDate>Sun, 31 May 2026 00:43:46 +0000</pubDate>
+      <description>Tedium: The Dull Side of the Internet.</description>
+    </item>
+    <item>
+      <title>Our unusual system of "web home directories" for people</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OurWebHomeDirectories</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OurWebHomeDirectories</guid>
+      <pubDate>Sat, 30 May 2026 23:50:13 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>How we contain Claude across products</title>
+      <link>https://simonwillison.net/2026/May/30/how-we-contain-claude/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/30/how-we-contain-claude/#atom-everything</guid>
+      <pubDate>Sat, 30 May 2026 21:36:24 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Spot checking polynomial identities</title>
+      <link>https://www.johndcook.com/blog/2026/05/30/schwartz-zippel/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/30/schwartz-zippel/</guid>
+      <pubDate>Sat, 30 May 2026 21:06:49 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Running Python ASGI apps in the browser via Pyodide + a service worker</title>
+      <link>https://simonwillison.net/2026/May/30/pyodide-asgi-browser/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/30/pyodide-asgi-browser/#atom-everything</guid>
+      <pubDate>Sat, 30 May 2026 21:02:16 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>I Am Retiring from Tech to Live Offline</title>
+      <link>https://simonwillison.net/2026/May/30/retiring-from-tech-to-live-offline/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/30/retiring-from-tech-to-live-offline/#atom-everything</guid>
+      <pubDate>Sat, 30 May 2026 19:39:08 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>On first looking into JAX</title>
       <link>https://www.gilesthomas.com/2026/05/on-first-looking-into-jax</link>
@@ -74,6 +130,13 @@
       <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/tech/ServersLowMaxPowerConsumption</guid>
       <pubDate>Sat, 30 May 2026 03:34:57 +0000</pubDate>
       <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>Arp 114:</title>
+      <link>https://maurycyz.com/astro/arp114/</link>
+      <guid isPermaLink="true">https://maurycyz.com/astro/arp114/</guid>
+      <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
     </item>
     <item>
       <title>Notes from May 2026</title>
@@ -781,69 +844,6 @@
       <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/WhyWeNeedUnixLoginSecurity</guid>
       <pubDate>Sat, 23 May 2026 23:28:33 +0000</pubDate>
       <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>On the &lt;dl&gt;</title>
-      <link>https://simonwillison.net/2026/May/23/on-the-dl/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/23/on-the-dl/#atom-everything</guid>
-      <pubDate>Sat, 23 May 2026 20:24:48 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Reverse engineering circuitry in a Spacelab computer from 1980</title>
-      <link>http://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html</link>
-      <guid isPermaLink="true">http://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html</guid>
-      <pubDate>Sat, 23 May 2026 16:17:44 +0000</pubDate>
-      <description>Ken Shirriff's blog</description>
-    </item>
-    <item>
-      <title>Hilbert transform as an infinite matrix</title>
-      <link>https://www.johndcook.com/blog/2026/05/23/hilbert-transform-as-an-infinite-matrix/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/23/hilbert-transform-as-an-infinite-matrix/</guid>
-      <pubDate>Sat, 23 May 2026 15:09:34 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Real and imaginary parts</title>
-      <link>https://www.johndcook.com/blog/2026/05/23/real-and-imaginary-parts/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/23/real-and-imaginary-parts/</guid>
-      <pubDate>Sat, 23 May 2026 13:57:21 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Reading List 05/23/26</title>
-      <link>https://www.construction-physics.com/p/reading-list-052326</link>
-      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-052326</guid>
-      <pubDate>Sat, 23 May 2026 12:02:39 +0000</pubDate>
-      <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>Which age-gates should be skill-gates and vice-versa?</title>
-      <link>https://shkspr.mobi/blog/2026/05/which-age-gates-should-be-skill-gates-and-vice-versa/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/which-age-gates-should-be-skill-gates-and-vice-versa/</guid>
-      <pubDate>Sat, 23 May 2026 11:34:31 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>This Week in Package Management: 23 May 2026</title>
-      <link>https://nesbitt.io/2026/05/23/this-week-in-package-management.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/05/23/this-week-in-package-management.html</guid>
-      <pubDate>Sat, 23 May 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Some notes on how we ended up with Palantir &amp; how to replace it</title>
-      <link>https://berthub.eu/articles/posts/some-notes-on-palantir/</link>
-      <guid isPermaLink="true">https://berthub.eu/articles/posts/some-notes-on-palantir/</guid>
-      <pubDate>Sat, 23 May 2026 08:30:00 +0000</pubDate>
-      <description>Bert Hubert's writings</description>
-    </item>
-    <item>
-      <title>There is only one bad AI scenario</title>
-      <link>https://geohot.github.io//blog/jekyll/update/2026/05/23/one-bad-scenario.html</link>
-      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/05/23/one-bad-scenario.html</guid>
-      <pubDate>Sat, 23 May 2026 07:00:00 +0000</pubDate>
-      <description>the singularity is nearer</description>
     </item>
   </channel>
 </rss>
