@@ -208,11 +208,11 @@ Last Updated: Monday, June 1st, 2026, 3:07:36 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Who are the actors in the UK's 2015 passport?](https://shkspr.mobi/blog/2026/05/who-are-the-actors-in-the-uks-2015-passport/) — *Terence Eden’s Blog* `05-31`
+- [The solution might be cancelling my AI subscription](https://simonwillison.net/2026/May/31/the-solution-might-be-cancelling-my-ai-subscription/#atom-everything) — *Simon Willison's Weblog* `05-31`
+- [Another Gaussian approximation](https://www.johndcook.com/blog/2026/05/31/another-gaussian-approximation/) — *John D. Cook* `05-31`
 - [Ahoy, DECmate II! the little PDP-8 that could](https://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html) — *Old Vintage Computing Research* `05-31`
 - [Quoting Karen Kwok for Reuters Breakingviews](https://simonwillison.net/2026/May/31/anthropic-run-rate/#atom-everything) — *Simon Willison's Weblog* `05-31`
 - [One &udm After Another](https://feed.tedium.co/link/15204/17351430/google-ai-udm14-reflection) — *Tedium: The Dull Side of the Internet.* `05-31`
-- [Build agents, not pipelines](https://seangoedecke.com/build-agents-not-pipelines/) — *seangoedecke.com RSS feed* `05-31`
 <!--BLOG_RADAR:end-->
 
 ---

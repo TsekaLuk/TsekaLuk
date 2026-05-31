@@ -4,13 +4,20 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 31 May 2026 14:00:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 19:26:27 +0000</lastBuildDate>
     <item>
-      <title>Who are the actors in the UK's 2015 passport?</title>
-      <link>https://shkspr.mobi/blog/2026/05/who-are-the-actors-in-the-uks-2015-passport/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/who-are-the-actors-in-the-uks-2015-passport/</guid>
-      <pubDate>Sun, 31 May 2026 11:34:08 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
+      <title>The solution might be cancelling my AI subscription</title>
+      <link>https://simonwillison.net/2026/May/31/the-solution-might-be-cancelling-my-ai-subscription/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/31/the-solution-might-be-cancelling-my-ai-subscription/#atom-everything</guid>
+      <pubDate>Sun, 31 May 2026 16:31:32 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Another Gaussian approximation</title>
+      <link>https://www.johndcook.com/blog/2026/05/31/another-gaussian-approximation/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/31/another-gaussian-approximation/</guid>
+      <pubDate>Sun, 31 May 2026 16:15:49 +0000</pubDate>
+      <description>John D. Cook</description>
     </item>
     <item>
       <title>Ahoy, DECmate II! the little PDP-8 that could</title>
@@ -214,13 +221,6 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/29/online-one-pass-algorithms/</guid>
       <pubDate>Fri, 29 May 2026 12:24:30 +0000</pubDate>
       <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>The UK Government's Low Value Purchase System is a Waste of Time</title>
-      <link>https://shkspr.mobi/blog/2026/05/the-uk-governments-low-value-purchase-system-is-a-waste-of-time/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/the-uk-governments-low-value-purchase-system-is-a-waste-of-time/</guid>
-      <pubDate>Fri, 29 May 2026 11:34:54 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Composer’s dependency policies</title>
@@ -431,13 +431,6 @@
       <guid isPermaLink="true">https://terriblesoftware.org/2026/05/27/using-my-fucking-brain/</guid>
       <pubDate>Wed, 27 May 2026 12:38:57 +0000</pubDate>
       <description>Terrible Software</description>
-    </item>
-    <item>
-      <title>Gadget Review: Chuwi Minibook X N150 + Linux ★★★★☆</title>
-      <link>https://shkspr.mobi/blog/2026/05/gadget-review-chuwi-minibook-x-n150-linux/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/gadget-review-chuwi-minibook-x-n150-linux/</guid>
-      <pubDate>Wed, 27 May 2026 11:34:36 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>CHAOSS Metrics in 2026</title>
@@ -720,13 +713,6 @@
       <description>Krebs on Security</description>
     </item>
     <item>
-      <title>PHP - simple way to send HTTP headers before a script ends</title>
-      <link>https://shkspr.mobi/blog/2026/05/php-simple-way-to-send-http-headers-before-a-script-ends/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/php-simple-way-to-send-http-headers-before-a-script-ends/</guid>
-      <pubDate>Mon, 25 May 2026 11:34:38 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>GitHub Actions security in Python packages</title>
       <link>https://nesbitt.io/2026/05/25/github-actions-security-in-python-packages.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/05/25/github-actions-security-in-python-packages.html</guid>
@@ -844,6 +830,20 @@
       <guid isPermaLink="true">https://lucumr.pocoo.org/2026/5/24/pi-oss/</guid>
       <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
       <description>Armin Ronacher's Thoughts and Writings</description>
+    </item>
+    <item>
+      <title>Childhood Computing</title>
+      <link>https://susam.net/childhood-computing.html</link>
+      <guid isPermaLink="true">https://susam.net/childhood-computing.html</guid>
+      <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+      <description>Susam Pal</description>
+    </item>
+    <item>
+      <title>Games Are the Art Form of Our Time</title>
+      <link>https://hey.paris/posts/ncp-submission/</link>
+      <guid isPermaLink="true">https://hey.paris/posts/ncp-submission/</guid>
+      <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+      <description>Dr Paris Buttfield-Addison</description>
     </item>
   </channel>
 </rss>
