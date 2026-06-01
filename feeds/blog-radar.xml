@@ -4,7 +4,70 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 31 May 2026 19:26:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 04:59:33 +0000</lastBuildDate>
+    <item>
+      <title>May 2026 newsletter</title>
+      <link>https://simonwillison.net/2026/Jun/1/may-newsletter/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/1/may-newsletter/#atom-everything</guid>
+      <pubDate>Mon, 01 Jun 2026 04:45:00 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Weekly Update 506</title>
+      <link>https://www.troyhunt.com/weekly-update-506/</link>
+      <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-506/</guid>
+      <pubDate>Mon, 01 Jun 2026 03:32:33 +0000</pubDate>
+      <description>Troy Hunt</description>
+    </item>
+    <item>
+      <title>I'm not sure we'd use AppArmor much even if we could</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/AppArmorAndUsThoughts</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/AppArmorAndUsThoughts</guid>
+      <pubDate>Mon, 01 Jun 2026 02:47:52 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>The Talk Show Live From WWDC 2026: Tuesday June 9</title>
+      <link>https://ti.to/daringfireball/the-talk-show-live-from-wwdc-2026</link>
+      <guid isPermaLink="true">https://ti.to/daringfireball/the-talk-show-live-from-wwdc-2026</guid>
+      <pubDate>Mon, 01 Jun 2026 01:59:00 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>exe.dev</title>
+      <link>https://exe.dev/?df</link>
+      <guid isPermaLink="true">https://exe.dev/?df</guid>
+      <pubDate>Mon, 01 Jun 2026 01:55:40 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Micro Instrumentation and Telemetry Systems</title>
+      <link>https://www.abortretry.fail/p/micro-instrumentation-and-telemetry</link>
+      <guid isPermaLink="true">https://www.abortretry.fail/p/micro-instrumentation-and-telemetry</guid>
+      <pubDate>Mon, 01 Jun 2026 01:28:37 +0000</pubDate>
+      <description>Abort Retry Fail</description>
+    </item>
+    <item>
+      <title>Take Two</title>
+      <link>https://x.com/markgurman/status/2061236259843182813</link>
+      <guid isPermaLink="true">https://x.com/markgurman/status/2061236259843182813</guid>
+      <pubDate>Mon, 01 Jun 2026 00:15:44 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>datasette 1.0a32</title>
+      <link>https://simonwillison.net/2026/May/31/datasette/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/31/datasette/#atom-everything</guid>
+      <pubDate>Sun, 31 May 2026 23:23:38 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Be thou not pilled</title>
+      <link>https://www.joanwestenberg.com/be-thou-not-pilled/</link>
+      <guid isPermaLink="true">https://www.joanwestenberg.com/be-thou-not-pilled/</guid>
+      <pubDate>Sun, 31 May 2026 23:21:45 +0000</pubDate>
+      <description>Westenberg.</description>
+    </item>
     <item>
       <title>The solution might be cancelling my AI subscription</title>
       <link>https://simonwillison.net/2026/May/31/the-solution-might-be-cancelling-my-ai-subscription/#atom-everything</link>
@@ -18,6 +81,13 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/31/another-gaussian-approximation/</guid>
       <pubDate>Sun, 31 May 2026 16:15:49 +0000</pubDate>
       <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Who are the actors in the UK's 2015 passport?</title>
+      <link>https://shkspr.mobi/blog/2026/05/who-are-the-actors-in-the-uks-2015-passport/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/who-are-the-actors-in-the-uks-2015-passport/</guid>
+      <pubDate>Sun, 31 May 2026 11:34:08 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Ahoy, DECmate II! the little PDP-8 that could</title>
@@ -48,11 +118,25 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
+      <title>Please don't mess with links:</title>
+      <link>https://maurycyz.com/misc/real_links/</link>
+      <guid isPermaLink="true">https://maurycyz.com/misc/real_links/</guid>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
+    </item>
+    <item>
       <title>A day in the threatened forests of the Central Highlands</title>
       <link>https://hey.paris/posts/threatened-forests/</link>
       <guid isPermaLink="true">https://hey.paris/posts/threatened-forests/</guid>
       <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
       <description>Dr Paris Buttfield-Addison</description>
+    </item>
+    <item>
+      <title>the totalisator</title>
+      <link>https://computer.rip/2026-05-31-totalisator.html</link>
+      <guid isPermaLink="true">https://computer.rip/2026-05-31-totalisator.html</guid>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+      <description>computers are bad</description>
     </item>
     <item>
       <title>Our unusual system of "web home directories" for people</title>
@@ -221,6 +305,13 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/29/online-one-pass-algorithms/</guid>
       <pubDate>Fri, 29 May 2026 12:24:30 +0000</pubDate>
       <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>The UK Government's Low Value Purchase System is a Waste of Time</title>
+      <link>https://shkspr.mobi/blog/2026/05/the-uk-governments-low-value-purchase-system-is-a-waste-of-time/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/the-uk-governments-low-value-purchase-system-is-a-waste-of-time/</guid>
+      <pubDate>Fri, 29 May 2026 11:34:54 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Composer’s dependency policies</title>
@@ -433,6 +524,13 @@
       <description>Terrible Software</description>
     </item>
     <item>
+      <title>Gadget Review: Chuwi Minibook X N150 + Linux ★★★★☆</title>
+      <link>https://shkspr.mobi/blog/2026/05/gadget-review-chuwi-minibook-x-n150-linux/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/gadget-review-chuwi-minibook-x-n150-linux/</guid>
+      <pubDate>Wed, 27 May 2026 11:34:36 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>CHAOSS Metrics in 2026</title>
       <link>https://nesbitt.io/2026/05/27/chaoss-metrics-in-2026.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/05/27/chaoss-metrics-in-2026.html</guid>
@@ -615,13 +713,6 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>[Sponsor] exe.dev</title>
-      <link>https://exe.dev/?df</link>
-      <guid isPermaLink="true">https://exe.dev/?df</guid>
-      <pubDate>Mon, 25 May 2026 23:57:24 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
       <title>California Brown Pelican, Snowy Egret, California Sea Lion, Harbor Seal</title>
       <link>https://simonwillison.net/2026/May/25/sighting-365297287/#atom-everything</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/May/25/sighting-365297287/#atom-everything</guid>
@@ -713,6 +804,13 @@
       <description>Krebs on Security</description>
     </item>
     <item>
+      <title>PHP - simple way to send HTTP headers before a script ends</title>
+      <link>https://shkspr.mobi/blog/2026/05/php-simple-way-to-send-http-headers-before-a-script-ends/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/php-simple-way-to-send-http-headers-before-a-script-ends/</guid>
+      <pubDate>Mon, 25 May 2026 11:34:38 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>GitHub Actions security in Python packages</title>
       <link>https://nesbitt.io/2026/05/25/github-actions-security-in-python-packages.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/05/25/github-actions-security-in-python-packages.html</guid>
@@ -746,104 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/May/24/datasette/#atom-everything</guid>
       <pubDate>Sun, 24 May 2026 23:52:37 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>datasette-agent 0.1a4</title>
-      <link>https://simonwillison.net/2026/May/24/datasette-agent/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/24/datasette-agent/#atom-everything</guid>
-      <pubDate>Sun, 24 May 2026 23:19:34 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>datasette-fixtures 0.1a0</title>
-      <link>https://simonwillison.net/2026/May/24/datasette-fixtures/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/24/datasette-fixtures/#atom-everything</guid>
-      <pubDate>Sun, 24 May 2026 21:38:32 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Quoting Armin Ronacher</title>
-      <link>https://simonwillison.net/2026/May/24/armin-ronacher/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/24/armin-ronacher/#atom-everything</guid>
-      <pubDate>Sun, 24 May 2026 18:46:53 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Why Steve Kerr Stayed With the Warriors</title>
-      <link>https://www.espn.com/nba/story/_/id/48686303/steve-kerr-decision-return-coach-golden-state-warriors-steph-curry</link>
-      <guid isPermaLink="true">https://www.espn.com/nba/story/_/id/48686303/steve-kerr-decision-return-coach-golden-state-warriors-steph-curry</guid>
-      <pubDate>Sun, 24 May 2026 17:27:24 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Mad House — Usborne Creepy Computer Games</title>
-      <link>https://simonwillison.net/2026/May/24/usborne-mad-house/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/24/usborne-mad-house/#atom-everything</guid>
-      <pubDate>Sun, 24 May 2026 17:14:11 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Walking the dog with Claude</title>
-      <link>http://xania.org/202605/walking-the-dog?utm_source=feed&amp;utm_medium=rss</link>
-      <guid isPermaLink="true">http://xania.org/202605/walking-the-dog?utm_source=feed&amp;utm_medium=rss</guid>
-      <pubDate>Sun, 24 May 2026 16:55:00 +0000</pubDate>
-      <description>Matt Godbolt’s blog</description>
-    </item>
-    <item>
-      <title>An idea: user level WireGuard for UDP based encryption and authentication</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/tech/WireGuardForUDPAuthEncryption</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/tech/WireGuardForUDPAuthEncryption</guid>
-      <pubDate>Sun, 24 May 2026 14:24:46 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>How my minimal, memory-safe Go rsync steers clear of vulnerabilities</title>
-      <link>https://michael.stapelberg.ch/posts/2026-05-24-minimal-memory-safe-go-rsync-vulns/</link>
-      <guid isPermaLink="true">https://michael.stapelberg.ch/posts/2026-05-24-minimal-memory-safe-go-rsync-vulns/</guid>
-      <pubDate>Sun, 24 May 2026 14:20:22 +0000</pubDate>
-      <description>Michael Stapelbergs Website</description>
-    </item>
-    <item>
-      <title>Signing is for the bad days</title>
-      <link>https://nesbitt.io/2026/05/24/signing-is-for-the-bad-days.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/05/24/signing-is-for-the-bad-days.html</guid>
-      <pubDate>Sun, 24 May 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>The Eternal Sloptember</title>
-      <link>https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html</link>
-      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html</guid>
-      <pubDate>Sun, 24 May 2026 07:00:00 +0000</pubDate>
-      <description>the singularity is nearer</description>
-    </item>
-    <item>
-      <title>Weekly Update 505</title>
-      <link>https://www.troyhunt.com/weekly-update-505/</link>
-      <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-505/</guid>
-      <pubDate>Sun, 24 May 2026 01:34:54 +0000</pubDate>
-      <description>Troy Hunt</description>
-    </item>
-    <item>
-      <title>Building Pi With Pi</title>
-      <link>https://lucumr.pocoo.org/2026/5/24/pi-oss/</link>
-      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/5/24/pi-oss/</guid>
-      <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
-      <description>Armin Ronacher's Thoughts and Writings</description>
-    </item>
-    <item>
-      <title>Childhood Computing</title>
-      <link>https://susam.net/childhood-computing.html</link>
-      <guid isPermaLink="true">https://susam.net/childhood-computing.html</guid>
-      <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
-      <description>Susam Pal</description>
-    </item>
-    <item>
-      <title>Games Are the Art Form of Our Time</title>
-      <link>https://hey.paris/posts/ncp-submission/</link>
-      <guid isPermaLink="true">https://hey.paris/posts/ncp-submission/</guid>
-      <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
-      <description>Dr Paris Buttfield-Addison</description>
     </item>
   </channel>
 </rss>

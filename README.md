@@ -208,11 +208,11 @@ Last Updated: Monday, June 1st, 2026, 11:29:52 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [The solution might be cancelling my AI subscription](https://simonwillison.net/2026/May/31/the-solution-might-be-cancelling-my-ai-subscription/#atom-everything) — *Simon Willison's Weblog* `05-31`
-- [Another Gaussian approximation](https://www.johndcook.com/blog/2026/05/31/another-gaussian-approximation/) — *John D. Cook* `05-31`
-- [Ahoy, DECmate II! the little PDP-8 that could](https://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html) — *Old Vintage Computing Research* `05-31`
-- [Quoting Karen Kwok for Reuters Breakingviews](https://simonwillison.net/2026/May/31/anthropic-run-rate/#atom-everything) — *Simon Willison's Weblog* `05-31`
-- [One &udm After Another](https://feed.tedium.co/link/15204/17351430/google-ai-udm14-reflection) — *Tedium: The Dull Side of the Internet.* `05-31`
+- [May 2026 newsletter](https://simonwillison.net/2026/Jun/1/may-newsletter/#atom-everything) — *Simon Willison's Weblog* `06-01`
+- [Weekly Update 506](https://www.troyhunt.com/weekly-update-506/) — *Troy Hunt* `06-01`
+- [I'm not sure we'd use AppArmor much even if we could](https://utcc.utoronto.ca/~cks/space/blog/linux/AppArmorAndUsThoughts) — *Chris's Wiki :: blog* `06-01`
+- [The Talk Show Live From WWDC 2026: Tuesday June 9](https://ti.to/daringfireball/the-talk-show-live-from-wwdc-2026) — *Daring Fireball* `06-01`
+- [exe.dev](https://exe.dev/?df) — *Daring Fireball* `06-01`
 <!--BLOG_RADAR:end-->
 
 ---
