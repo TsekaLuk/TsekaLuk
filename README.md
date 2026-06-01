@@ -185,20 +185,20 @@ As **Founder & CEO**, I operate **Nebutra Intelligence** as an **AI-Native OPC (
 ### 🕒 **Recent Activity**
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 1st, 2026, 11:29:52 AM
+Last Updated: Monday, June 1st, 2026, 7:21:02 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-- ⬆️ Pushed updates to [Nebutra/Sailor-Template](https://github.com/Nebutra/Sailor-Template)<br>
-- ⬆️ Pushed updates to [Nebutra/Nebutra-Sailor](https://github.com/Nebutra/Nebutra-Sailor)<br>
-- ⬆️ Pushed updates to [Nebutra/Sailor-Template](https://github.com/Nebutra/Sailor-Template)<br>
-- ⬆️ Pushed updates to [Nebutra/Nebutra-Sailor](https://github.com/Nebutra/Nebutra-Sailor)<br>
-- ⬆️ Pushed updates to [Nebutra/Sailor-Template](https://github.com/Nebutra/Sailor-Template)<br>
-- ⬆️ Pushed updates to [Nebutra/Nebutra-Sailor](https://github.com/Nebutra/Nebutra-Sailor)<br>
-- ⬆️ Pushed updates to [Nebutra/Sailor-Template](https://github.com/Nebutra/Sailor-Template)<br>
-- ⬆️ Pushed updates to [Nebutra/Nebutra-Sailor](https://github.com/Nebutra/Nebutra-Sailor)<br>
-- ⬆️ Pushed updates to [Nebutra/MinerU-Skill](https://github.com/Nebutra/MinerU-Skill)<br>
-- ⬆️ Pushed updates to [Nebutra/MinerU-Skill](https://github.com/Nebutra/MinerU-Skill)<br>
+- ❌ Closed PR [#87](undefined) in [Nebutra/Nebutra-Sailor](https://github.com/Nebutra/Nebutra-Sailor)<br>
+- ❌ Closed PR [#72](undefined) in [Nebutra/Nebutra-Sailor](https://github.com/Nebutra/Nebutra-Sailor)<br>
+- ❌ Closed PR [#89](undefined) in [Nebutra/Nebutra-Sailor](https://github.com/Nebutra/Nebutra-Sailor)<br>
+- ❌ Closed PR [#127](undefined) in [Nebutra/Nebutra-Sailor](https://github.com/Nebutra/Nebutra-Sailor)<br>
+- ❌ Closed PR [#73](undefined) in [Nebutra/Nebutra-Sailor](https://github.com/Nebutra/Nebutra-Sailor)<br>
+- ❌ Closed PR [#128](undefined) in [Nebutra/Nebutra-Sailor](https://github.com/Nebutra/Nebutra-Sailor)<br>
+- ❌ Closed PR [#96](undefined) in [Nebutra/Nebutra-Sailor](https://github.com/Nebutra/Nebutra-Sailor)<br>
+- ❌ Closed PR [#129](undefined) in [Nebutra/Nebutra-Sailor](https://github.com/Nebutra/Nebutra-Sailor)<br>
+- ❌ Closed PR [#74](undefined) in [Nebutra/Nebutra-Sailor](https://github.com/Nebutra/Nebutra-Sailor)<br>
+- ❌ Closed PR [#68](undefined) in [Nebutra/Nebutra-Sailor](https://github.com/Nebutra/Nebutra-Sailor)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
