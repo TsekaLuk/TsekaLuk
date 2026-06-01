@@ -208,11 +208,11 @@ Last Updated: Monday, June 1st, 2026, 7:21:02 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Subscribe by email](https://www.johndcook.com/blog/2026/06/01/subscribe-by-email/) — *John D. Cook* `06-01`
+- [The Infosec Phrasebook](https://nesbitt.io/2026/06/01/the-infosec-phrasebook.html) — *Andrew Nesbitt* `06-01`
+- [Pluralistic: Molly Crabapple's 'Here Where We Live Is Our Country' (01 Jun 2026)](https://pluralistic.net/2026/06/01/doikayt/) — *Pluralistic: Daily links from Cory Doctorow* `06-01`
+- [1,000 Data Breaches Later, the Disclosure Lag is Worse Than Ever](https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/) — *Troy Hunt* `06-01`
 - [May 2026 newsletter](https://simonwillison.net/2026/Jun/1/may-newsletter/#atom-everything) — *Simon Willison's Weblog* `06-01`
-- [Weekly Update 506](https://www.troyhunt.com/weekly-update-506/) — *Troy Hunt* `06-01`
-- [I'm not sure we'd use AppArmor much even if we could](https://utcc.utoronto.ca/~cks/space/blog/linux/AppArmorAndUsThoughts) — *Chris's Wiki :: blog* `06-01`
-- [The Talk Show Live From WWDC 2026: Tuesday June 9](https://ti.to/daringfireball/the-talk-show-live-from-wwdc-2026) — *Daring Fireball* `06-01`
-- [exe.dev](https://exe.dev/?df) — *Daring Fireball* `06-01`
 <!--BLOG_RADAR:end-->
 
 ---
