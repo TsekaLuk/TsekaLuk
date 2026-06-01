@@ -208,11 +208,11 @@ Last Updated: Tuesday, June 2nd, 2026, 1:26:51 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts](https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/) — *Krebs on Security* `06-01`
+- [Amazon Made AI Podcasts for Products](https://www.businessinsider.com/amazon-ai-generated-podcasts-products-2026-4) — *Daring Fireball* `06-01`
+- [It’s not just Taylor series](https://www.johndcook.com/blog/2026/06/01/not-just-taylor-series/) — *John D. Cook* `06-01`
 - [Subscribe by email](https://www.johndcook.com/blog/2026/06/01/subscribe-by-email/) — *John D. Cook* `06-01`
 - [The Infosec Phrasebook](https://nesbitt.io/2026/06/01/the-infosec-phrasebook.html) — *Andrew Nesbitt* `06-01`
-- [Pluralistic: Molly Crabapple's 'Here Where We Live Is Our Country' (01 Jun 2026)](https://pluralistic.net/2026/06/01/doikayt/) — *Pluralistic: Daily links from Cory Doctorow* `06-01`
-- [1,000 Data Breaches Later, the Disclosure Lag is Worse Than Ever](https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/) — *Troy Hunt* `06-01`
-- [May 2026 newsletter](https://simonwillison.net/2026/Jun/1/may-newsletter/#atom-everything) — *Simon Willison's Weblog* `06-01`
 <!--BLOG_RADAR:end-->
 
 ---

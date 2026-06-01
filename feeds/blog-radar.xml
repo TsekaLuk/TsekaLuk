@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 01 Jun 2026 11:48:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 17:55:12 +0000</lastBuildDate>
+    <item>
+      <title>Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts</title>
+      <link>https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/</link>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/</guid>
+      <pubDate>Mon, 01 Jun 2026 17:32:50 +0000</pubDate>
+      <description>Krebs on Security</description>
+    </item>
+    <item>
+      <title>Amazon Made AI Podcasts for Products</title>
+      <link>https://www.businessinsider.com/amazon-ai-generated-podcasts-products-2026-4</link>
+      <guid isPermaLink="true">https://www.businessinsider.com/amazon-ai-generated-podcasts-products-2026-4</guid>
+      <pubDate>Mon, 01 Jun 2026 16:41:51 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>It’s not just Taylor series</title>
+      <link>https://www.johndcook.com/blog/2026/06/01/not-just-taylor-series/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/01/not-just-taylor-series/</guid>
+      <pubDate>Mon, 01 Jun 2026 12:42:12 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
     <item>
       <title>Subscribe by email</title>
       <link>https://www.johndcook.com/blog/2026/06/01/subscribe-by-email/</link>
@@ -88,6 +109,20 @@
       <guid isPermaLink="true">https://seangoedecke.com/weird-projects-i-shipped-with-ai/</guid>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>"No way to prevent this" say users of only package manager where this regularly happens</title>
+      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/supply-chain/2026-redhat-javascript-clients/</link>
+      <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/supply-chain/2026-redhat-javascript-clients/</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>Checking assembly with Z3</title>
+      <link>https://bernsteinbear.com/blog/asm-z3/?utm_source=rss</link>
+      <guid isPermaLink="true">https://bernsteinbear.com/blog/asm-z3/?utm_source=rss</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Max Bernstein's Blog</description>
     </item>
     <item>
       <title>datasette 1.0a32</title>
@@ -727,18 +762,18 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>Is “colorectal cancer” rising in “young people”?</title>
-      <link>https://dynomight.net/crc-rates/</link>
-      <guid isPermaLink="true">https://dynomight.net/crc-rates/</guid>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
-    </item>
-    <item>
       <title>Clanker: A Word For The Machine</title>
       <link>https://lucumr.pocoo.org/2026/5/26/clankers/</link>
       <guid isPermaLink="true">https://lucumr.pocoo.org/2026/5/26/clankers/</guid>
       <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
       <description>Armin Ronacher's Thoughts and Writings</description>
+    </item>
+    <item>
+      <title>Is “colorectal cancer” rising in “young people”?</title>
+      <link>https://dynomight.net/crc-rates/</link>
+      <guid isPermaLink="true">https://dynomight.net/crc-rates/</guid>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>Notes on Pope Leo XIV's encyclical on AI</title>
@@ -809,41 +844,6 @@
       <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/web/RobotsVsLowAttentionWebsites</guid>
       <pubDate>Mon, 25 May 2026 17:13:14 +0000</pubDate>
       <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>WorkOS: ‘Agents Need Context. Ship the Integrations That Give It to Them.’</title>
-      <link>https://workos.com/docs/pipes?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026</link>
-      <guid isPermaLink="true">https://workos.com/docs/pipes?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026</guid>
-      <pubDate>Mon, 25 May 2026 15:09:17 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Distributing LLM inference in DwarfStar</title>
-      <link>http://antirez.com/news/167</link>
-      <guid isPermaLink="true">http://antirez.com/news/167</guid>
-      <pubDate>Mon, 25 May 2026 14:54:59 +0000</pubDate>
-      <description>&lt;antirez&gt;</description>
-    </item>
-    <item>
-      <title>A hypothetical redesign of System.Diagnostics.Process to avoid confusion over properties that are valid only when you are the one who called Start</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260525-00/?p=112351</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260525-00/?p=112351</guid>
-      <pubDate>Mon, 25 May 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks</title>
-      <link>https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/</link>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/</guid>
-      <pubDate>Mon, 25 May 2026 13:21:49 +0000</pubDate>
-      <description>Krebs on Security</description>
-    </item>
-    <item>
-      <title>PHP - simple way to send HTTP headers before a script ends</title>
-      <link>https://shkspr.mobi/blog/2026/05/php-simple-way-to-send-http-headers-before-a-script-ends/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/php-simple-way-to-send-http-headers-before-a-script-ends/</guid>
-      <pubDate>Mon, 25 May 2026 11:34:38 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
   </channel>
 </rss>
