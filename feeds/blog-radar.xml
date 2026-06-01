@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 01 Jun 2026 17:55:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 21:40:15 +0000</lastBuildDate>
+    <item>
+      <title>Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked</title>
+      <link>https://simonwillison.net/2026/Jun/1/hackers-simply-asked-meta-ai/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/1/hackers-simply-asked-meta-ai/#atom-everything</guid>
+      <pubDate>Mon, 01 Jun 2026 21:14:47 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>‘We Are Living in Pinocchio’s World’</title>
+      <link>https://om.co/2026/05/25/we-are-living-in-pinocchios-world/</link>
+      <guid isPermaLink="true">https://om.co/2026/05/25/we-are-living-in-pinocchios-world/</guid>
+      <pubDate>Mon, 01 Jun 2026 20:05:17 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>The web is changing, and we are not going back</title>
+      <link>https://idiallo.com/blog/web-is-changing-we-are-not-going-back?src=feed</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/web-is-changing-we-are-not-going-back?src=feed</guid>
+      <pubDate>Mon, 01 Jun 2026 19:34:37 +0000</pubDate>
+      <description>Software and Tech stories from an Insider - iDiallo.com</description>
+    </item>
     <item>
       <title>Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts</title>
       <link>https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/</link>
@@ -104,6 +125,13 @@
       <description>Daring Fireball</description>
     </item>
     <item>
+      <title>"No way to prevent this" say users of only package manager where this regularly happens</title>
+      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/supply-chain/2026-redhat-javascript-clients/</link>
+      <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/supply-chain/2026-redhat-javascript-clients/</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
+    </item>
+    <item>
       <title>Weird projects I shipped with AI</title>
       <link>https://seangoedecke.com/weird-projects-i-shipped-with-ai/</link>
       <guid isPermaLink="true">https://seangoedecke.com/weird-projects-i-shipped-with-ai/</guid>
@@ -111,11 +139,11 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>"No way to prevent this" say users of only package manager where this regularly happens</title>
-      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/supply-chain/2026-redhat-javascript-clients/</link>
-      <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/supply-chain/2026-redhat-javascript-clients/</guid>
+      <title>The art and engineering of Silpheed</title>
+      <link>https://fabiensanglard.net/silpheed/index.html</link>
+      <guid isPermaLink="true">https://fabiensanglard.net/silpheed/index.html</guid>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
+      <description>Fabien Sanglard</description>
     </item>
     <item>
       <title>Checking assembly with Z3</title>
@@ -410,6 +438,13 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/May/29/anthropic/#atom-everything</guid>
       <pubDate>Fri, 29 May 2026 01:23:08 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Joining the IndieWeb - #1: Microformats</title>
+      <link>https://tomrenner.com/posts/joining-the-indieweb-1/</link>
+      <guid isPermaLink="true">https://tomrenner.com/posts/joining-the-indieweb-1/</guid>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+      <description>Tom Renner on My place to put things</description>
     </item>
     <item>
       <title>What's going on with Gemini?</title>
@@ -809,41 +844,6 @@
       <guid isPermaLink="true">https://daringfireball.net/linked/2014/01/29/haynes-aapl</guid>
       <pubDate>Mon, 25 May 2026 20:32:29 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Solving the board game Quoridor</title>
-      <link>https://grantslatton.com/solving-quoridor</link>
-      <guid isPermaLink="true">https://grantslatton.com/solving-quoridor</guid>
-      <pubDate>Mon, 25 May 2026 20:01:38 +0000</pubDate>
-      <description>Grant Slatton's Blog</description>
-    </item>
-    <item>
-      <title>Thieves Are Texting Threats to Victims of iPhone Theft in London</title>
-      <link>https://www.nytimes.com/2026/05/23/world/europe/phone-theft-threats-london.html?unlocked_article_code=1.lFA.OUt7.VJ_FoDpINr0L</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/05/23/world/europe/phone-theft-threats-london.html?unlocked_article_code=1.lFA.OUt7.VJ_FoDpINr0L</guid>
-      <pubDate>Mon, 25 May 2026 19:23:32 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Trump Mobile Website Exposed the Number of Pre-Orders — Both Completed and Abandoned — and the Associated Customer Information</title>
-      <link>https://www.theguardian.com/us-news/2026/may/23/trump-mobile-investigating-potential-exposure-of-would-be-customers-personal-information</link>
-      <guid isPermaLink="true">https://www.theguardian.com/us-news/2026/may/23/trump-mobile-investigating-potential-exposure-of-would-be-customers-personal-information</guid>
-      <pubDate>Mon, 25 May 2026 18:54:37 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The History of ‘OK’</title>
-      <link>https://www.merriam-webster.com/wordplay/the-hilarious-history-of-ok-okay</link>
-      <guid isPermaLink="true">https://www.merriam-webster.com/wordplay/the-hilarious-history-of-ok-okay</guid>
-      <pubDate>Mon, 25 May 2026 17:18:56 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Anti-robot techniques can be nice but the problem is, they're not static</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/web/RobotsVsLowAttentionWebsites</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/web/RobotsVsLowAttentionWebsites</guid>
-      <pubDate>Mon, 25 May 2026 17:13:14 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
     </item>
   </channel>
 </rss>

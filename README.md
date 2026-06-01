@@ -208,11 +208,11 @@ Last Updated: Tuesday, June 2nd, 2026, 5:25:10 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked](https://simonwillison.net/2026/Jun/1/hackers-simply-asked-meta-ai/#atom-everything) — *Simon Willison's Weblog* `06-01`
+- [‘We Are Living in Pinocchio’s World’](https://om.co/2026/05/25/we-are-living-in-pinocchios-world/) — *Daring Fireball* `06-01`
+- [The web is changing, and we are not going back](https://idiallo.com/blog/web-is-changing-we-are-not-going-back?src=feed) — *Software and Tech stories from an Insider - iDiallo.com* `06-01`
 - [Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts](https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/) — *Krebs on Security* `06-01`
 - [Amazon Made AI Podcasts for Products](https://www.businessinsider.com/amazon-ai-generated-podcasts-products-2026-4) — *Daring Fireball* `06-01`
-- [It’s not just Taylor series](https://www.johndcook.com/blog/2026/06/01/not-just-taylor-series/) — *John D. Cook* `06-01`
-- [Subscribe by email](https://www.johndcook.com/blog/2026/06/01/subscribe-by-email/) — *John D. Cook* `06-01`
-- [The Infosec Phrasebook](https://nesbitt.io/2026/06/01/the-infosec-phrasebook.html) — *Andrew Nesbitt* `06-01`
 <!--BLOG_RADAR:end-->
 
 ---
