@@ -208,11 +208,11 @@ Last Updated: Wednesday, June 3rd, 2026, 12:11:20 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Pluralistic: The tedious power of storytelling (02 Jun 2026) must-we-pretend](https://pluralistic.net/2026/06/02/must-we-pretend/) — *Pluralistic: Daily links from Cory Doctorow* `06-02`
-- [Pasted File Editor](https://simonwillison.net/2026/Jun/2/pasted-file-editor/#atom-everything) — *Simon Willison's Weblog* `06-02`
-- [[Sponsor] Mux — Video for Developers](https://www.mux.com/?utm_campaign=fireball&utm_source=DF) — *Daring Fireball* `06-02`
-- [When <code>su</code> replaced <code>login</code> for becoming another Unix login](https://utcc.utoronto.ca/~cks/space/blog/unix/SuAsLoginReplacement) — *Chris's Wiki :: blog* `06-02`
-- [‘The Metaverse Fever Dream’](https://pxlnv.com/blog/metaverse-fever-dream/) — *Daring Fireball* `06-02`
+- [An Ode to the Exacting Pedantry of Computers](https://blog.jim-nielsen.com/2026/pedantry-of-computing/) — *Jim Nielsen’s Blog* `06-02`
+- [Three Ways to Get Paid](https://jasonzweig.com/three-ways-to-get-paid/) — *Daring Fireball* `06-02`
+- [The First-Time-Buyer-Discount Dickover Scheme](https://x.com/usgraphics/status/2060559523585355986) — *Daring Fireball* `06-02`
+- [Logic for Programmers extra credits](https://buttondown.com/hillelwayne/archive/logic-for-programmers-extra-credits/) — *Computer Things* `06-02`
+- [AI Doesn't Have ROI](https://www.wheresyoured.at/ai-doesnt-have-roi/) — *Ed Zitron's Where's Your Ed At* `06-02`
 <!--BLOG_RADAR:end-->
 
 ---
