@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 01 Jun 2026 21:40:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 04:46:27 +0000</lastBuildDate>
+    <item>
+      <title>[Sponsor] Mux — Video for Developers</title>
+      <link>https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF</link>
+      <guid isPermaLink="true">https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF</guid>
+      <pubDate>Tue, 02 Jun 2026 01:45:43 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>When &lt;code&gt;su&lt;/code&gt; replaced &lt;code&gt;login&lt;/code&gt; for becoming another Unix login</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/unix/SuAsLoginReplacement</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/unix/SuAsLoginReplacement</guid>
+      <pubDate>Tue, 02 Jun 2026 01:19:33 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>‘The Metaverse Fever Dream’</title>
+      <link>https://pxlnv.com/blog/metaverse-fever-dream/</link>
+      <guid isPermaLink="true">https://pxlnv.com/blog/metaverse-fever-dream/</guid>
+      <pubDate>Tue, 02 Jun 2026 00:24:39 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>‘If You Take the Weasel Job Then You Must Be the Weasel’</title>
+      <link>https://www.hamiltonnolan.com/p/if-you-take-the-weasel-job-then-you?r=qy6gq</link>
+      <guid isPermaLink="true">https://www.hamiltonnolan.com/p/if-you-take-the-weasel-job-then-you?r=qy6gq</guid>
+      <pubDate>Mon, 01 Jun 2026 23:31:54 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked</title>
       <link>https://simonwillison.net/2026/Jun/1/hackers-simply-asked-meta-ai/#atom-everything</link>
@@ -39,6 +67,13 @@
       <guid isPermaLink="true">https://www.businessinsider.com/amazon-ai-generated-podcasts-products-2026-4</guid>
       <pubDate>Mon, 01 Jun 2026 16:41:51 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>The placeholder name for the Windows 8 experience was “modern”</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260601-00/?p=112373</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260601-00/?p=112373</guid>
+      <pubDate>Mon, 01 Jun 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>It’s not just Taylor series</title>
@@ -125,18 +160,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>"No way to prevent this" say users of only package manager where this regularly happens</title>
-      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/supply-chain/2026-redhat-javascript-clients/</link>
-      <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/supply-chain/2026-redhat-javascript-clients/</guid>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
       <title>Weird projects I shipped with AI</title>
       <link>https://seangoedecke.com/weird-projects-i-shipped-with-ai/</link>
       <guid isPermaLink="true">https://seangoedecke.com/weird-projects-i-shipped-with-ai/</guid>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>"No way to prevent this" say users of only package manager where this regularly happens</title>
+      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/supply-chain/2026-redhat-javascript-clients/</link>
+      <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/supply-chain/2026-redhat-javascript-clients/</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>The art and engineering of Silpheed</title>
@@ -809,41 +844,6 @@
       <guid isPermaLink="true">https://dynomight.net/crc-rates/</guid>
       <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
       <description>DYNOMIGHT</description>
-    </item>
-    <item>
-      <title>Notes on Pope Leo XIV's encyclical on AI</title>
-      <link>https://simonwillison.net/2026/May/25/encyclical-on-ai/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/25/encyclical-on-ai/#atom-everything</guid>
-      <pubDate>Mon, 25 May 2026 23:58:17 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>California Brown Pelican, Snowy Egret, California Sea Lion, Harbor Seal</title>
-      <link>https://simonwillison.net/2026/May/25/sighting-365297287/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/25/sighting-365297287/#atom-everything</guid>
-      <pubDate>Mon, 25 May 2026 23:08:00 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Welcoming the Bhutanese Government to Have I Been Pwned</title>
-      <link>https://www.troyhunt.com/welcoming-the-bhutanese-government-to-have-i-been-pwned/</link>
-      <guid isPermaLink="true">https://www.troyhunt.com/welcoming-the-bhutanese-government-to-have-i-been-pwned/</guid>
-      <pubDate>Mon, 25 May 2026 22:52:15 +0000</pubDate>
-      <description>Troy Hunt</description>
-    </item>
-    <item>
-      <title>90 % of the t distribution</title>
-      <link>https://entropicthoughts.com/ninety-percent-of-the-t-distribution</link>
-      <guid isPermaLink="true">https://entropicthoughts.com/ninety-percent-of-the-t-distribution</guid>
-      <pubDate>Mon, 25 May 2026 22:00:00 +0000</pubDate>
-      <description>Entropic Thoughts</description>
-    </item>
-    <item>
-      <title>Awarding Jay Haynes His Being Right Points for Predicting Apple Hitting $3 Trillion in Market Cap</title>
-      <link>https://daringfireball.net/linked/2014/01/29/haynes-aapl</link>
-      <guid isPermaLink="true">https://daringfireball.net/linked/2014/01/29/haynes-aapl</guid>
-      <pubDate>Mon, 25 May 2026 20:32:29 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>

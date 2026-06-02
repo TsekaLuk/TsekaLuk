@@ -208,11 +208,11 @@ Last Updated: Tuesday, June 2nd, 2026, 11:26:24 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [[Sponsor] Mux — Video for Developers](https://www.mux.com/?utm_campaign=fireball&utm_source=DF) — *Daring Fireball* `06-02`
+- [When <code>su</code> replaced <code>login</code> for becoming another Unix login](https://utcc.utoronto.ca/~cks/space/blog/unix/SuAsLoginReplacement) — *Chris's Wiki :: blog* `06-02`
+- [‘The Metaverse Fever Dream’](https://pxlnv.com/blog/metaverse-fever-dream/) — *Daring Fireball* `06-02`
+- [‘If You Take the Weasel Job Then You Must Be the Weasel’](https://www.hamiltonnolan.com/p/if-you-take-the-weasel-job-then-you?r=qy6gq) — *Daring Fireball* `06-01`
 - [Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked](https://simonwillison.net/2026/Jun/1/hackers-simply-asked-meta-ai/#atom-everything) — *Simon Willison's Weblog* `06-01`
-- [‘We Are Living in Pinocchio’s World’](https://om.co/2026/05/25/we-are-living-in-pinocchios-world/) — *Daring Fireball* `06-01`
-- [The web is changing, and we are not going back](https://idiallo.com/blog/web-is-changing-we-are-not-going-back?src=feed) — *Software and Tech stories from an Insider - iDiallo.com* `06-01`
-- [Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts](https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/) — *Krebs on Security* `06-01`
-- [Amazon Made AI Podcasts for Products](https://www.businessinsider.com/amazon-ai-generated-podcasts-products-2026-4) — *Daring Fireball* `06-01`
 <!--BLOG_RADAR:end-->
 
 ---
