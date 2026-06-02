@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 02 Jun 2026 04:46:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 10:48:11 +0000</lastBuildDate>
+    <item>
+      <title>Pluralistic: The tedious power of storytelling (02 Jun 2026) must-we-pretend</title>
+      <link>https://pluralistic.net/2026/06/02/must-we-pretend/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/06/02/must-we-pretend/</guid>
+      <pubDate>Tue, 02 Jun 2026 09:18:16 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Pasted File Editor</title>
+      <link>https://simonwillison.net/2026/Jun/2/pasted-file-editor/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/2/pasted-file-editor/#atom-everything</guid>
+      <pubDate>Tue, 02 Jun 2026 04:13:36 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>[Sponsor] Mux — Video for Developers</title>
       <link>https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF</link>
@@ -32,6 +46,13 @@
       <guid isPermaLink="true">https://www.hamiltonnolan.com/p/if-you-take-the-weasel-job-then-you?r=qy6gq</guid>
       <pubDate>Mon, 01 Jun 2026 23:31:54 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Is the Monaco Grand Prix decided at qualifying?</title>
+      <link>https://entropicthoughts.com/is-monaco-decided-at-qualifying</link>
+      <guid isPermaLink="true">https://entropicthoughts.com/is-monaco-decided-at-qualifying</guid>
+      <pubDate>Mon, 01 Jun 2026 22:00:00 +0000</pubDate>
+      <description>Entropic Thoughts</description>
     </item>
     <item>
       <title>Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked</title>
@@ -293,13 +314,6 @@
       <description>John D. Cook</description>
     </item>
     <item>
-      <title>Running Python ASGI apps in the browser via Pyodide + a service worker</title>
-      <link>https://simonwillison.net/2026/May/30/pyodide-asgi-browser/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/30/pyodide-asgi-browser/#atom-everything</guid>
-      <pubDate>Sat, 30 May 2026 21:02:16 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
       <title>I Am Retiring from Tech to Live Offline</title>
       <link>https://simonwillison.net/2026/May/30/retiring-from-tech-to-live-offline/#atom-everything</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/May/30/retiring-from-tech-to-live-offline/#atom-everything</guid>
@@ -333,6 +347,13 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/</guid>
       <pubDate>Sat, 30 May 2026 15:34:02 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Running Python ASGI apps in the browser via Pyodide + a service worker</title>
+      <link>https://simonwillison.net/2026/May/30/pyodide-asgi-browser/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/May/30/pyodide-asgi-browser/#atom-everything</guid>
+      <pubDate>Sat, 30 May 2026 15:34:00 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
     <item>
       <title>Daniel Jalkut on AI</title>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://idiallo.com/byte-size/amber-alert-with-spam-link?src=feed</guid>
       <pubDate>Tue, 26 May 2026 03:25:17 +0000</pubDate>
       <description>Software and Tech stories from an Insider - iDiallo.com</description>
-    </item>
-    <item>
-      <title>Quoting Corey Quinn</title>
-      <link>https://simonwillison.net/2026/May/26/corey-quinn/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/26/corey-quinn/#atom-everything</guid>
-      <pubDate>Tue, 26 May 2026 02:28:54 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Clanker: A Word For The Machine</title>
-      <link>https://lucumr.pocoo.org/2026/5/26/clankers/</link>
-      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/5/26/clankers/</guid>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-      <description>Armin Ronacher's Thoughts and Writings</description>
-    </item>
-    <item>
-      <title>Is “colorectal cancer” rising in “young people”?</title>
-      <link>https://dynomight.net/crc-rates/</link>
-      <guid isPermaLink="true">https://dynomight.net/crc-rates/</guid>
-      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
     </item>
   </channel>
 </rss>
