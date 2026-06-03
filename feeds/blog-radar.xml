@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 02 Jun 2026 21:17:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 04:55:54 +0000</lastBuildDate>
+    <item>
+      <title>Welcoming the Philippine Government to Have I Been Pwned</title>
+      <link>https://www.troyhunt.com/welcoming-the-philippine-government-to-have-i-been-pwned/</link>
+      <guid isPermaLink="true">https://www.troyhunt.com/welcoming-the-philippine-government-to-have-i-been-pwned/</guid>
+      <pubDate>Wed, 03 Jun 2026 03:40:17 +0000</pubDate>
+      <description>Troy Hunt</description>
+    </item>
+    <item>
+      <title>A wish for automatic or semi-automatic disk setup in Linux server installers</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/InstallerAutomatedDiskSetupWish</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/InstallerAutomatedDiskSetupWish</guid>
+      <pubDate>Wed, 03 Jun 2026 02:44:20 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>Microsoft's new MAI models</title>
+      <link>https://simonwillison.net/2026/Jun/2/microsofts-new-models/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/2/microsofts-new-models/#atom-everything</guid>
+      <pubDate>Tue, 02 Jun 2026 22:21:52 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Meta Reportedly Has a Slew of New Smart Glasses Planned for This Year</title>
+      <link>https://gizmodo.com/meta-has-a-ridiculous-amount-of-smart-glasses-planned-for-this-year-2000765741</link>
+      <guid isPermaLink="true">https://gizmodo.com/meta-has-a-ridiculous-amount-of-smart-glasses-planned-for-this-year-2000765741</guid>
+      <pubDate>Tue, 02 Jun 2026 21:54:43 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Apple, the Anti-‘Metaverse’ VR Company</title>
       <link>https://daringfireball.net/2025/12/meta_says_fuck_that_metaverse_shit</link>
@@ -27,11 +55,32 @@
       <description>Daring Fireball</description>
     </item>
     <item>
+      <title>datasette-agent-micropython 0.1a0</title>
+      <link>https://simonwillison.net/2026/Jun/2/datasette-agent-micropython/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/2/datasette-agent-micropython/#atom-everything</guid>
+      <pubDate>Tue, 02 Jun 2026 19:28:36 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>micropython-wasm 0.1a1</title>
+      <link>https://simonwillison.net/2026/Jun/2/micropython-wasm/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/2/micropython-wasm/#atom-everything</guid>
+      <pubDate>Tue, 02 Jun 2026 19:20:47 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
       <title>An Ode to the Exacting Pedantry of Computers</title>
       <link>https://blog.jim-nielsen.com/2026/pedantry-of-computing/</link>
       <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/pedantry-of-computing/</guid>
       <pubDate>Tue, 02 Jun 2026 19:00:00 +0000</pubDate>
       <description>Jim Nielsen’s Blog</description>
+    </item>
+    <item>
+      <title>California Brown Pelican</title>
+      <link>https://simonwillison.net/2026/Jun/2/sighting-367841339/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/2/sighting-367841339/#atom-everything</guid>
+      <pubDate>Tue, 02 Jun 2026 18:17:03 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
     <item>
       <title>Three Ways to Get Paid</title>
@@ -62,11 +111,11 @@
       <description>Ed Zitron's Where's Your Ed At</description>
     </item>
     <item>
-      <title>Using FourSquare's API to post location checkins to social media</title>
-      <link>https://shkspr.mobi/blog/2026/06/using-foursquares-api-to-post-location-checkins-to-social-media/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/using-foursquares-api-to-post-location-checkins-to-social-media/</guid>
-      <pubDate>Tue, 02 Jun 2026 11:34:51 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
+      <title>Rotation revisited: Another unidirectional algorithm</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260602-00/?p=112376</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260602-00/?p=112376</guid>
+      <pubDate>Tue, 02 Jun 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Pluralistic: The tedious power of storytelling (02 Jun 2026) must-we-pretend</title>
@@ -80,6 +129,13 @@
       <link>https://simonwillison.net/2026/Jun/2/pasted-file-editor/#atom-everything</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Jun/2/pasted-file-editor/#atom-everything</guid>
       <pubDate>Tue, 02 Jun 2026 04:13:36 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>micropython-wasm 0.1a0</title>
+      <link>https://simonwillison.net/2026/Jun/2/micropython-wasm-2/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/2/micropython-wasm-2/#atom-everything</guid>
+      <pubDate>Tue, 02 Jun 2026 03:43:45 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
@@ -307,13 +363,6 @@
       <description>John D. Cook</description>
     </item>
     <item>
-      <title>Who are the actors in the UK's 2015 passport?</title>
-      <link>https://shkspr.mobi/blog/2026/05/who-are-the-actors-in-the-uks-2015-passport/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/who-are-the-actors-in-the-uks-2015-passport/</guid>
-      <pubDate>Sun, 31 May 2026 11:34:08 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>Ahoy, DECmate II! the little PDP-8 that could</title>
       <link>https://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html</link>
       <guid isPermaLink="true">https://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html</guid>
@@ -510,13 +559,6 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260529-00/?p=112368</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260529-00/?p=112368</guid>
-      <pubDate>Fri, 29 May 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
       <title>It's hard to justify buying a Framework 12</title>
       <link>https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/</link>
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/</guid>
@@ -524,18 +566,18 @@
       <description>Jeff Geerling</description>
     </item>
     <item>
+      <title>Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260529-00/?p=112368</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260529-00/?p=112368</guid>
+      <pubDate>Fri, 29 May 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
+    <item>
       <title>Online (one-pass) algorithms</title>
       <link>https://www.johndcook.com/blog/2026/05/29/online-one-pass-algorithms/</link>
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/29/online-one-pass-algorithms/</guid>
       <pubDate>Fri, 29 May 2026 12:24:30 +0000</pubDate>
       <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>The UK Government's Low Value Purchase System is a Waste of Time</title>
-      <link>https://shkspr.mobi/blog/2026/05/the-uk-governments-low-value-purchase-system-is-a-waste-of-time/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/the-uk-governments-low-value-purchase-system-is-a-waste-of-time/</guid>
-      <pubDate>Fri, 29 May 2026 11:34:54 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Composer’s dependency policies</title>
@@ -629,18 +671,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260528-00/?p=112365</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260528-00/?p=112365</guid>
-      <pubDate>Thu, 28 May 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
       <title>Tuning in FM Radio on a 3D Printer Heatbed</title>
       <link>https://www.jeffgeerling.com/blog/2026/tuning-in-fm-radio-on-a-3d-printer-heatbed/</link>
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/tuning-in-fm-radio-on-a-3d-printer-heatbed/</guid>
       <pubDate>Thu, 28 May 2026 14:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260528-00/?p=112365</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260528-00/?p=112365</guid>
+      <pubDate>Thu, 28 May 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Every Enemy Wears Your Face</title>
@@ -755,13 +797,6 @@
       <description>Terrible Software</description>
     </item>
     <item>
-      <title>Gadget Review: Chuwi Minibook X N150 + Linux ★★★★☆</title>
-      <link>https://shkspr.mobi/blog/2026/05/gadget-review-chuwi-minibook-x-n150-linux/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/gadget-review-chuwi-minibook-x-n150-linux/</guid>
-      <pubDate>Wed, 27 May 2026 11:34:36 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>CHAOSS Metrics in 2026</title>
       <link>https://nesbitt.io/2026/05/27/chaoss-metrics-in-2026.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/05/27/chaoss-metrics-in-2026.html</guid>
@@ -809,41 +844,6 @@
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/i-patched-iozone-for-better-disk-benchmarks-on-modern-macos/</guid>
       <pubDate>Wed, 27 May 2026 01:32:00 +0000</pubDate>
       <description>Jeff Geerling</description>
-    </item>
-    <item>
-      <title>How Many Tokens Did You Burn Today</title>
-      <link>https://idiallo.com/blog/how-many-tokens-did-you-burn-today?src=feed</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/how-many-tokens-did-you-burn-today?src=feed</guid>
-      <pubDate>Wed, 27 May 2026 00:31:22 +0000</pubDate>
-      <description>Software and Tech stories from an Insider - iDiallo.com</description>
-    </item>
-    <item>
-      <title>Notes on optimizing battery life:</title>
-      <link>https://maurycyz.com/misc/battery/</link>
-      <guid isPermaLink="true">https://maurycyz.com/misc/battery/</guid>
-      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
-    </item>
-    <item>
-      <title>The pressure</title>
-      <link>https://simonwillison.net/2026/May/26/the-pressure/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/26/the-pressure/#atom-everything</guid>
-      <pubDate>Tue, 26 May 2026 23:48:45 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Calculating the expected range of normal samples</title>
-      <link>https://www.johndcook.com/blog/2026/05/26/calculating-expected-normal-range/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/26/calculating-expected-normal-range/</guid>
-      <pubDate>Tue, 26 May 2026 17:59:53 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Revenge of The Business Idiot</title>
-      <link>https://www.wheresyoured.at/the-revenge-of-the-business-idiot/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/the-revenge-of-the-business-idiot/</guid>
-      <pubDate>Tue, 26 May 2026 16:47:30 +0000</pubDate>
-      <description>Ed Zitron's Where's Your Ed At</description>
     </item>
   </channel>
 </rss>

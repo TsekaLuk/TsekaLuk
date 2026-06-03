@@ -208,11 +208,11 @@ Last Updated: Wednesday, June 3rd, 2026, 11:34:32 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Welcoming the Philippine Government to Have I Been Pwned](https://www.troyhunt.com/welcoming-the-philippine-government-to-have-i-been-pwned/) — *Troy Hunt* `06-03`
+- [A wish for automatic or semi-automatic disk setup in Linux server installers](https://utcc.utoronto.ca/~cks/space/blog/linux/InstallerAutomatedDiskSetupWish) — *Chris's Wiki :: blog* `06-03`
+- [Microsoft's new MAI models](https://simonwillison.net/2026/Jun/2/microsofts-new-models/#atom-everything) — *Simon Willison's Weblog* `06-02`
+- [Meta Reportedly Has a Slew of New Smart Glasses Planned for This Year](https://gizmodo.com/meta-has-a-ridiculous-amount-of-smart-glasses-planned-for-this-year-2000765741) — *Daring Fireball* `06-02`
 - [Apple, the Anti-‘Metaverse’ VR Company](https://daringfireball.net/2025/12/meta_says_fuck_that_metaverse_shit) — *Daring Fireball* `06-02`
-- [The Metaverse Was Snake Oil for Isolation](https://daringfireball.net/linked/2026/06/01/the-metaverse-fever-dream) — *Daring Fireball* `06-02`
-- [Scott Pelley Accuses CBS News Boss of ‘Murdering’ ‘60 Minutes’](https://www.nytimes.com/2026/06/01/business/media/cbs-60-minutes-scott-pelley-nick-bilton.html?unlocked_article_code=1.nFA.TDGJ.HbBmlXuQWmcQ&smid=url-share) — *Daring Fireball* `06-02`
-- [An Ode to the Exacting Pedantry of Computers](https://blog.jim-nielsen.com/2026/pedantry-of-computing/) — *Jim Nielsen’s Blog* `06-02`
-- [Three Ways to Get Paid](https://jasonzweig.com/three-ways-to-get-paid/) — *Daring Fireball* `06-02`
 <!--BLOG_RADAR:end-->
 
 ---
