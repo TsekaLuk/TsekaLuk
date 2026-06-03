@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 03 Jun 2026 04:55:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 11:13:41 +0000</lastBuildDate>
     <item>
       <title>Welcoming the Philippine Government to Have I Been Pwned</title>
       <link>https://www.troyhunt.com/welcoming-the-philippine-government-to-have-i-been-pwned/</link>
@@ -116,6 +116,13 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260602-00/?p=112376</guid>
       <pubDate>Tue, 02 Jun 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>Using FourSquare's API to post location checkins to social media</title>
+      <link>https://shkspr.mobi/blog/2026/06/using-foursquares-api-to-post-location-checkins-to-social-media/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/using-foursquares-api-to-post-location-checkins-to-social-media/</guid>
+      <pubDate>Tue, 02 Jun 2026 11:34:51 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Pluralistic: The tedious power of storytelling (02 Jun 2026) must-we-pretend</title>
@@ -363,6 +370,13 @@
       <description>John D. Cook</description>
     </item>
     <item>
+      <title>Who are the actors in the UK's 2015 passport?</title>
+      <link>https://shkspr.mobi/blog/2026/05/who-are-the-actors-in-the-uks-2015-passport/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/who-are-the-actors-in-the-uks-2015-passport/</guid>
+      <pubDate>Sun, 31 May 2026 11:34:08 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>Ahoy, DECmate II! the little PDP-8 that could</title>
       <link>https://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html</link>
       <guid isPermaLink="true">https://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html</guid>
@@ -578,6 +592,13 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/29/online-one-pass-algorithms/</guid>
       <pubDate>Fri, 29 May 2026 12:24:30 +0000</pubDate>
       <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>The UK Government's Low Value Purchase System is a Waste of Time</title>
+      <link>https://shkspr.mobi/blog/2026/05/the-uk-governments-low-value-purchase-system-is-a-waste-of-time/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/the-uk-governments-low-value-purchase-system-is-a-waste-of-time/</guid>
+      <pubDate>Fri, 29 May 2026 11:34:54 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Composer’s dependency policies</title>
@@ -797,6 +818,13 @@
       <description>Terrible Software</description>
     </item>
     <item>
+      <title>Gadget Review: Chuwi Minibook X N150 + Linux ★★★★☆</title>
+      <link>https://shkspr.mobi/blog/2026/05/gadget-review-chuwi-minibook-x-n150-linux/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/gadget-review-chuwi-minibook-x-n150-linux/</guid>
+      <pubDate>Wed, 27 May 2026 11:34:36 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>CHAOSS Metrics in 2026</title>
       <link>https://nesbitt.io/2026/05/27/chaoss-metrics-in-2026.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/05/27/chaoss-metrics-in-2026.html</guid>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://pluralistic.net/2026/05/27/unnecessariat/</guid>
       <pubDate>Wed, 27 May 2026 07:57:41 +0000</pubDate>
       <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Resurfacing posts</title>
-      <link>https://herman.bearblog.dev/resurfacing-posts/</link>
-      <guid isPermaLink="true">https://herman.bearblog.dev/resurfacing-posts/</guid>
-      <pubDate>Wed, 27 May 2026 06:45:00 +0000</pubDate>
-      <description>Herman's blog</description>
-    </item>
-    <item>
-      <title>Quoting Kyle Ferrana</title>
-      <link>https://simonwillison.net/2026/May/27/kyle-ferrana/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/27/kyle-ferrana/#atom-everything</guid>
-      <pubDate>Wed, 27 May 2026 06:41:43 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>My views on some Python LSP servers in GNU Emacs (as of mid 2026)</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/python/PythonLSPServersInEmacs-2026</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/python/PythonLSPServersInEmacs-2026</guid>
-      <pubDate>Wed, 27 May 2026 02:06:24 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>I patched iozone for better disk benchmarks on modern macOS</title>
-      <link>https://www.jeffgeerling.com/blog/2026/i-patched-iozone-for-better-disk-benchmarks-on-modern-macos/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/i-patched-iozone-for-better-disk-benchmarks-on-modern-macos/</guid>
-      <pubDate>Wed, 27 May 2026 01:32:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
     </item>
   </channel>
 </rss>
