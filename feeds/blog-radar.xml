@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 03 Jun 2026 17:03:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 21:23:25 +0000</lastBuildDate>
+    <item>
+      <title>Now that your newsletter is AI-generated, I've Unsubscribed</title>
+      <link>https://idiallo.com/blog/unsubscribed-from-ai-generated-newsletters?src=feed</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/unsubscribed-from-ai-generated-newsletters?src=feed</guid>
+      <pubDate>Wed, 03 Jun 2026 21:10:00 +0000</pubDate>
+      <description>Software and Tech stories from an Insider - iDiallo.com</description>
+    </item>
+    <item>
+      <title>My GNU Emacs completion setup (as of June 2026)</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsCompletion-2026-06</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsCompletion-2026-06</guid>
+      <pubDate>Wed, 03 Jun 2026 21:09:07 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>CBS News Fires Scott Pelley of ‘60 Minutes’</title>
+      <link>https://www.nytimes.com/2026/06/02/business/media/scott-pelley-cbs-bari-weiss.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/02/business/media/scott-pelley-cbs-bari-weiss.html</guid>
+      <pubDate>Wed, 03 Jun 2026 19:49:56 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>The Underworld Market to Remove the Recording Indicator Light on Meta Glasses</title>
+      <link>https://www.youtube.com/watch?v=EaJSPeJmqis</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=EaJSPeJmqis</guid>
+      <pubDate>Wed, 03 Jun 2026 19:39:13 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Naively summing an alternating series</title>
       <link>https://www.johndcook.com/blog/2026/06/03/naive-sum/</link>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/May/27/sqlite-agents/#atom-everything</guid>
       <pubDate>Wed, 27 May 2026 23:44:37 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>SQLAlchemy 2 In Practice - Solutions to the Exercises</title>
-      <link>https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---solutions-to-the-exercises</link>
-      <guid isPermaLink="true">https://blog.miguelgrinberg.com/post/sqlalchemy-2-in-practice---solutions-to-the-exercises</guid>
-      <pubDate>Wed, 27 May 2026 19:22:35 +0000</pubDate>
-      <description>Miguel Grinberg's Blog</description>
-    </item>
-    <item>
-      <title>I think Anthropic and OpenAI have found product-market fit</title>
-      <link>https://simonwillison.net/2026/May/27/product-market-fit/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/27/product-market-fit/#atom-everything</guid>
-      <pubDate>Wed, 27 May 2026 16:38:35 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>The Meta logo and fitting Besace curves</title>
-      <link>https://www.johndcook.com/blog/2026/05/27/the-meta-logo-and-fitting-besace-curves/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/27/the-meta-logo-and-fitting-besace-curves/</guid>
-      <pubDate>Wed, 27 May 2026 15:15:51 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 1</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260527-00/?p=112361</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260527-00/?p=112361</guid>
-      <pubDate>Wed, 27 May 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
     </item>
   </channel>
 </rss>

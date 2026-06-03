@@ -208,11 +208,11 @@ Last Updated: Thursday, June 4th, 2026, 4:50:18 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Now that your newsletter is AI-generated, I've Unsubscribed](https://idiallo.com/blog/unsubscribed-from-ai-generated-newsletters?src=feed) — *Software and Tech stories from an Insider - iDiallo.com* `06-03`
+- [My GNU Emacs completion setup (as of June 2026)](https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsCompletion-2026-06) — *Chris's Wiki :: blog* `06-03`
+- [CBS News Fires Scott Pelley of ‘60 Minutes’](https://www.nytimes.com/2026/06/02/business/media/scott-pelley-cbs-bari-weiss.html) — *Daring Fireball* `06-03`
+- [The Underworld Market to Remove the Recording Indicator Light on Meta Glasses](https://www.youtube.com/watch?v=EaJSPeJmqis) — *Daring Fireball* `06-03`
 - [Naively summing an alternating series](https://www.johndcook.com/blog/2026/06/03/naive-sum/) — *John D. Cook* `06-03`
-- [Skills Registry Threat Models](https://nesbitt.io/2026/06/03/skills-registry-threat-models.html) — *Andrew Nesbitt* `06-03`
-- [Uber Caps Usage of AI Tools Like Claude Code to Manage Costs](https://simonwillison.net/2026/Jun/3/uber-caps-usage/#atom-everything) — *Simon Willison's Weblog* `06-03`
-- [London Data Store Relaunch](https://shkspr.mobi/blog/2026/06/london-data-store-relaunch/) — *Terence Eden’s Blog* `06-03`
-- [Welcoming the Philippine Government to Have I Been Pwned](https://www.troyhunt.com/welcoming-the-philippine-government-to-have-i-been-pwned/) — *Troy Hunt* `06-03`
 <!--BLOG_RADAR:end-->
 
 ---
