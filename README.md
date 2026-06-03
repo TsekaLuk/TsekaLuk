@@ -208,11 +208,11 @@ Last Updated: Thursday, June 4th, 2026, 12:26:32 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Naively summing an alternating series](https://www.johndcook.com/blog/2026/06/03/naive-sum/) — *John D. Cook* `06-03`
+- [Skills Registry Threat Models](https://nesbitt.io/2026/06/03/skills-registry-threat-models.html) — *Andrew Nesbitt* `06-03`
+- [Uber Caps Usage of AI Tools Like Claude Code to Manage Costs](https://simonwillison.net/2026/Jun/3/uber-caps-usage/#atom-everything) — *Simon Willison's Weblog* `06-03`
+- [London Data Store Relaunch](https://shkspr.mobi/blog/2026/06/london-data-store-relaunch/) — *Terence Eden’s Blog* `06-03`
 - [Welcoming the Philippine Government to Have I Been Pwned](https://www.troyhunt.com/welcoming-the-philippine-government-to-have-i-been-pwned/) — *Troy Hunt* `06-03`
-- [A wish for automatic or semi-automatic disk setup in Linux server installers](https://utcc.utoronto.ca/~cks/space/blog/linux/InstallerAutomatedDiskSetupWish) — *Chris's Wiki :: blog* `06-03`
-- [Microsoft's new MAI models](https://simonwillison.net/2026/Jun/2/microsofts-new-models/#atom-everything) — *Simon Willison's Weblog* `06-02`
-- [Meta Reportedly Has a Slew of New Smart Glasses Planned for This Year](https://gizmodo.com/meta-has-a-ridiculous-amount-of-smart-glasses-planned-for-this-year-2000765741) — *Daring Fireball* `06-02`
-- [Apple, the Anti-‘Metaverse’ VR Company](https://daringfireball.net/2025/12/meta_says_fuck_that_metaverse_shit) — *Daring Fireball* `06-02`
 <!--BLOG_RADAR:end-->
 
 ---
