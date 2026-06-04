@@ -208,11 +208,11 @@ Last Updated: Thursday, June 4th, 2026, 10:45:57 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Pluralistic: Delusion as a service (04 Jun 2026)](https://pluralistic.net/2026/06/03/mission-space/) — *Pluralistic: Daily links from Cory Doctorow* `06-04`
-- [Another Gem From the Annals of Nick Bilton Jackassery](https://daringfireball.net/linked/2015/03/20/bilton-pseudoscience) — *Daring Fireball* `06-04`
-- [If There’s One Thing Nick Bilton Knows, It’s Television](https://daringfireball.net/linked/2011/10/27/bilton-itv) — *Daring Fireball* `06-04`
-- [Anti-AI nostalgia and the cult of the past](https://seangoedecke.com/anti-ai-nostalgia/) — *seangoedecke.com RSS feed* `06-04`
-- [How To Read More](https://borretti.me/article/how-to-read-more) — *Fernando Borretti* `06-04`
+- [How Long Does It Take to Plan a Bridge?](https://www.construction-physics.com/p/how-long-does-it-take-to-plan-a-bridge) — *Construction Physics* `06-04`
+- [Partitions over permutations](https://www.johndcook.com/blog/2026/06/04/partitions-over-permutations/) — *John D. Cook* `06-04`
+- [The AI-Driven Resurgence of Native Mac App Development](https://sixcolors.com/post/2026/06/road-to-wwdc-2026-whats-a-developer/) — *Daring Fireball* `06-04`
+- [Book Review: Accessible Communications by Lisa Riemers and Matisse Hamel-Nelis ★★★★★](https://shkspr.mobi/blog/2026/06/book-review-accessible-communications-by-lisa-riemers-and-matisse-hamel-nelis/) — *Terence Eden’s Blog* `06-04`
+- [gittuf - a signed log for git refs](https://nesbitt.io/2026/06/04/gittuf-a-signed-log-for-git-refs.html) — *Andrew Nesbitt* `06-04`
 <!--BLOG_RADAR:end-->
 
 ---

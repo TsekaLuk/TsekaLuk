@@ -4,7 +4,42 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 04 Jun 2026 10:06:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 15:31:32 +0000</lastBuildDate>
+    <item>
+      <title>How Long Does It Take to Plan a Bridge?</title>
+      <link>https://www.construction-physics.com/p/how-long-does-it-take-to-plan-a-bridge</link>
+      <guid isPermaLink="true">https://www.construction-physics.com/p/how-long-does-it-take-to-plan-a-bridge</guid>
+      <pubDate>Thu, 04 Jun 2026 15:24:24 +0000</pubDate>
+      <description>Construction Physics</description>
+    </item>
+    <item>
+      <title>Partitions over permutations</title>
+      <link>https://www.johndcook.com/blog/2026/06/04/partitions-over-permutations/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/04/partitions-over-permutations/</guid>
+      <pubDate>Thu, 04 Jun 2026 13:48:56 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>The AI-Driven Resurgence of Native Mac App Development</title>
+      <link>https://sixcolors.com/post/2026/06/road-to-wwdc-2026-whats-a-developer/</link>
+      <guid isPermaLink="true">https://sixcolors.com/post/2026/06/road-to-wwdc-2026-whats-a-developer/</guid>
+      <pubDate>Thu, 04 Jun 2026 13:43:26 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Book Review: Accessible Communications by Lisa Riemers and Matisse Hamel-Nelis ★★★★★</title>
+      <link>https://shkspr.mobi/blog/2026/06/book-review-accessible-communications-by-lisa-riemers-and-matisse-hamel-nelis/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/book-review-accessible-communications-by-lisa-riemers-and-matisse-hamel-nelis/</guid>
+      <pubDate>Thu, 04 Jun 2026 11:34:53 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>gittuf - a signed log for git refs</title>
+      <link>https://nesbitt.io/2026/06/04/gittuf-a-signed-log-for-git-refs.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/06/04/gittuf-a-signed-log-for-git-refs.html</guid>
+      <pubDate>Thu, 04 Jun 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
     <item>
       <title>Pluralistic: Delusion as a service (04 Jun 2026)</title>
       <link>https://pluralistic.net/2026/06/03/mission-space/</link>
@@ -706,18 +741,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260529-00/?p=112368</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260529-00/?p=112368</guid>
-      <pubDate>Fri, 29 May 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
       <title>It's hard to justify buying a Framework 12</title>
       <link>https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/</link>
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/</guid>
       <pubDate>Fri, 29 May 2026 14:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260529-00/?p=112368</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260529-00/?p=112368</guid>
+      <pubDate>Fri, 29 May 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Online (one-pass) algorithms</title>
@@ -809,41 +844,6 @@
       <guid isPermaLink="true">https://buttondown.com/hillelwayne/archive/knowing-about-things-is-cheaper-than-knowing/</guid>
       <pubDate>Thu, 28 May 2026 16:03:01 +0000</pubDate>
       <description>Computer Things</description>
-    </item>
-    <item>
-      <title>Protestware for coding agents</title>
-      <link>https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html</guid>
-      <pubDate>Thu, 28 May 2026 15:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Researchers Publish Method to Surveil Web Page Visitors by Analyzing Their SSD Activity</title>
-      <link>https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/</link>
-      <guid isPermaLink="true">https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/</guid>
-      <pubDate>Thu, 28 May 2026 14:11:03 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260528-00/?p=112365</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260528-00/?p=112365</guid>
-      <pubDate>Thu, 28 May 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Tuning in FM Radio on a 3D Printer Heatbed</title>
-      <link>https://www.jeffgeerling.com/blog/2026/tuning-in-fm-radio-on-a-3d-printer-heatbed/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/tuning-in-fm-radio-on-a-3d-printer-heatbed/</guid>
-      <pubDate>Thu, 28 May 2026 14:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
-      <title>Every Enemy Wears Your Face</title>
-      <link>https://simone.org/projection/</link>
-      <guid isPermaLink="true">https://simone.org/projection/</guid>
-      <pubDate>Thu, 28 May 2026 13:00:00 +0000</pubDate>
-      <description>Simone Salis</description>
     </item>
   </channel>
 </rss>
