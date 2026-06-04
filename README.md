@@ -208,11 +208,11 @@ Last Updated: Thursday, June 4th, 2026, 11:29:51 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Now that your newsletter is AI-generated, I've Unsubscribed](https://idiallo.com/blog/unsubscribed-from-ai-generated-newsletters?src=feed) — *Software and Tech stories from an Insider - iDiallo.com* `06-03`
-- [My GNU Emacs completion setup (as of June 2026)](https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsCompletion-2026-06) — *Chris's Wiki :: blog* `06-03`
-- [CBS News Fires Scott Pelley of ‘60 Minutes’](https://www.nytimes.com/2026/06/02/business/media/scott-pelley-cbs-bari-weiss.html) — *Daring Fireball* `06-03`
-- [The Underworld Market to Remove the Recording Indicator Light on Meta Glasses](https://www.youtube.com/watch?v=EaJSPeJmqis) — *Daring Fireball* `06-03`
-- [Naively summing an alternating series](https://www.johndcook.com/blog/2026/06/03/naive-sum/) — *John D. Cook* `06-03`
+- [Another Gem From the Annals of Nick Bilton Jackassery](https://daringfireball.net/linked/2015/03/20/bilton-pseudoscience) — *Daring Fireball* `06-04`
+- [If There’s One Thing Nick Bilton Knows, It’s Television](https://daringfireball.net/linked/2011/10/27/bilton-itv) — *Daring Fireball* `06-04`
+- [Is datacentre sovereignty really that important?](https://martinalderson.com/posts/is-datacentre-sovereignty-really-that-important/?utm_source=rss&utm_medium=rss&utm_campaign=feed) — *Martin Alderson* `06-04`
+- [Scott Pelley on Leaving ‘60 Minutes’: ‘Incompetence and Unprofessionalism in the New Management Have Wreaked Havoc’](https://www.instagram.com/p/DZHlWAoG3_3/?img_index=1) — *Daring Fireball* `06-03`
+- [The ‘60 Minutes’ Purge](https://www.paramountpressexpress.com/cbs-news-and-stations/shows/60-minutes/talent/) — *Daring Fireball* `06-03`
 <!--BLOG_RADAR:end-->
 
 ---

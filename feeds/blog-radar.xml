@@ -4,7 +4,42 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 03 Jun 2026 21:23:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 04:49:18 +0000</lastBuildDate>
+    <item>
+      <title>Another Gem From the Annals of Nick Bilton Jackassery</title>
+      <link>https://daringfireball.net/linked/2015/03/20/bilton-pseudoscience</link>
+      <guid isPermaLink="true">https://daringfireball.net/linked/2015/03/20/bilton-pseudoscience</guid>
+      <pubDate>Thu, 04 Jun 2026 02:26:50 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>If There’s One Thing Nick Bilton Knows, It’s Television</title>
+      <link>https://daringfireball.net/linked/2011/10/27/bilton-itv</link>
+      <guid isPermaLink="true">https://daringfireball.net/linked/2011/10/27/bilton-itv</guid>
+      <pubDate>Thu, 04 Jun 2026 02:23:25 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Is datacentre sovereignty really that important?</title>
+      <link>https://martinalderson.com/posts/is-datacentre-sovereignty-really-that-important/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
+      <guid isPermaLink="true">https://martinalderson.com/posts/is-datacentre-sovereignty-really-that-important/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Martin Alderson</description>
+    </item>
+    <item>
+      <title>Scott Pelley on Leaving ‘60 Minutes’: ‘Incompetence and Unprofessionalism in the New Management Have Wreaked Havoc’</title>
+      <link>https://www.instagram.com/p/DZHlWAoG3_3/?img_index=1</link>
+      <guid isPermaLink="true">https://www.instagram.com/p/DZHlWAoG3_3/?img_index=1</guid>
+      <pubDate>Wed, 03 Jun 2026 23:19:28 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>The ‘60 Minutes’ Purge</title>
+      <link>https://www.paramountpressexpress.com/cbs-news-and-stations/shows/60-minutes/talent/</link>
+      <guid isPermaLink="true">https://www.paramountpressexpress.com/cbs-news-and-stations/shows/60-minutes/talent/</guid>
+      <pubDate>Wed, 03 Jun 2026 21:32:52 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Now that your newsletter is AI-generated, I've Unsubscribed</title>
       <link>https://idiallo.com/blog/unsubscribed-from-ai-generated-newsletters?src=feed</link>
@@ -48,6 +83,13 @@
       <description>Andrew Nesbitt</description>
     </item>
     <item>
+      <title>Rotation revisited: A shocking discovery about gcc’s unidirectional rotation algorithm</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260603-00/?p=112378</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260603-00/?p=112378</guid>
+      <pubDate>Wed, 03 Jun 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
+    <item>
       <title>Uber Caps Usage of AI Tools Like Claude Code to Manage Costs</title>
       <link>https://simonwillison.net/2026/Jun/3/uber-caps-usage/#atom-everything</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Jun/3/uber-caps-usage/#atom-everything</guid>
@@ -74,6 +116,13 @@
       <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/InstallerAutomatedDiskSetupWish</guid>
       <pubDate>Wed, 03 Jun 2026 02:44:20 +0000</pubDate>
       <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>"Sixteenth of a year", a 1.8 KiB art piece</title>
+      <link>https://evanhahn.com/sixteenth-of-a-year/</link>
+      <guid isPermaLink="true">https://evanhahn.com/sixteenth-of-a-year/</guid>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Evan Hahn (dot com)</description>
     </item>
     <item>
       <title>A survey of inlining heuristics</title>
@@ -636,18 +685,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>It's hard to justify buying a Framework 12</title>
-      <link>https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/</guid>
-      <pubDate>Fri, 29 May 2026 14:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
       <title>Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260529-00/?p=112368</link>
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260529-00/?p=112368</guid>
       <pubDate>Fri, 29 May 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>It's hard to justify buying a Framework 12</title>
+      <link>https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/</guid>
+      <pubDate>Fri, 29 May 2026 14:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
     </item>
     <item>
       <title>Online (one-pass) algorithms</title>
@@ -755,18 +804,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Tuning in FM Radio on a 3D Printer Heatbed</title>
-      <link>https://www.jeffgeerling.com/blog/2026/tuning-in-fm-radio-on-a-3d-printer-heatbed/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/tuning-in-fm-radio-on-a-3d-printer-heatbed/</guid>
-      <pubDate>Thu, 28 May 2026 14:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
       <title>Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 2</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260528-00/?p=112365</link>
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260528-00/?p=112365</guid>
       <pubDate>Thu, 28 May 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>Tuning in FM Radio on a 3D Printer Heatbed</title>
+      <link>https://www.jeffgeerling.com/blog/2026/tuning-in-fm-radio-on-a-3d-printer-heatbed/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/tuning-in-fm-radio-on-a-3d-printer-heatbed/</guid>
+      <pubDate>Thu, 28 May 2026 14:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
     </item>
     <item>
       <title>Every Enemy Wears Your Face</title>
@@ -795,55 +844,6 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/05/28/package-managers-that-package-package-managers.html</guid>
       <pubDate>Thu, 28 May 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Notes on Fourier series</title>
-      <link>https://eli.thegreenplace.net/2026/notes-on-fourier-series/</link>
-      <guid isPermaLink="true">https://eli.thegreenplace.net/2026/notes-on-fourier-series/</guid>
-      <pubDate>Thu, 28 May 2026 02:30:00 +0000</pubDate>
-      <description>Eli Bendersky's website</description>
-    </item>
-    <item>
-      <title>Using typing in Python leads to different sorts of code</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/python/TypeHintsDifferentCode</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/python/TypeHintsDifferentCode</guid>
-      <pubDate>Thu, 28 May 2026 01:56:55 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>Turning K-L divergence into a metric</title>
-      <link>https://www.johndcook.com/blog/2026/05/27/jensen-shannon/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/27/jensen-shannon/</guid>
-      <pubDate>Thu, 28 May 2026 01:35:54 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>The Costco theory of the internet</title>
-      <link>https://www.joanwestenberg.com/the-costco-theory-of-the-internet/</link>
-      <guid isPermaLink="true">https://www.joanwestenberg.com/the-costco-theory-of-the-internet/</guid>
-      <pubDate>Thu, 28 May 2026 01:29:39 +0000</pubDate>
-      <description>Westenberg.</description>
-    </item>
-    <item>
-      <title>Dancing mad with sandboxing</title>
-      <link>https://xeiaso.net/blog/2026/dancing-mad-sandboxing/</link>
-      <guid isPermaLink="true">https://xeiaso.net/blog/2026/dancing-mad-sandboxing/</guid>
-      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
-      <title>Nitpicking the shell history scene in ‘Tron: Legacy’</title>
-      <link>https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/</link>
-      <guid isPermaLink="true">https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/</guid>
-      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-      <description>Simon Tatham's quasi-blog</description>
-    </item>
-    <item>
-      <title>sqlite AGENTS.md</title>
-      <link>https://simonwillison.net/2026/May/27/sqlite-agents/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/27/sqlite-agents/#atom-everything</guid>
-      <pubDate>Wed, 27 May 2026 23:44:37 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
