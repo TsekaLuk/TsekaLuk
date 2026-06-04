@@ -208,11 +208,11 @@ Last Updated: Friday, June 5th, 2026, 3:57:32 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [How Long Does It Take to Plan a Bridge?](https://www.construction-physics.com/p/how-long-does-it-take-to-plan-a-bridge) — *Construction Physics* `06-04`
-- [Partitions over permutations](https://www.johndcook.com/blog/2026/06/04/partitions-over-permutations/) — *John D. Cook* `06-04`
-- [The AI-Driven Resurgence of Native Mac App Development](https://sixcolors.com/post/2026/06/road-to-wwdc-2026-whats-a-developer/) — *Daring Fireball* `06-04`
-- [Book Review: Accessible Communications by Lisa Riemers and Matisse Hamel-Nelis ★★★★★](https://shkspr.mobi/blog/2026/06/book-review-accessible-communications-by-lisa-riemers-and-matisse-hamel-nelis/) — *Terence Eden’s Blog* `06-04`
-- [gittuf - a signed log for git refs](https://nesbitt.io/2026/06/04/gittuf-a-signed-log-for-git-refs.html) — *Andrew Nesbitt* `06-04`
+- [The Emacs packages that I use (as of June 2026)](https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsPackages-2026-06) — *Chris's Wiki :: blog* `06-04`
+- [Lingon and Lingon Pro 10](https://www.peterborgapps.com/lingon/) — *Daring Fireball* `06-04`
+- [Remember When Chrome Went Bad on MacOS?](https://chromeisbad.com/) — *Daring Fireball* `06-04`
+- [Google’s Gemini Mac App Is Native, in a Distinctly Google Way, But Annoyingly Presumptuous](https://gemini.google/mac/) — *Daring Fireball* `06-04`
+- [Integrating smooth periodic functions](https://www.johndcook.com/blog/2026/06/04/integrating-smooth-periodic-functions/) — *John D. Cook* `06-04`
 <!--BLOG_RADAR:end-->
 
 ---

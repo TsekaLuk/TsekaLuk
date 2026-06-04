@@ -4,7 +4,56 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 04 Jun 2026 15:31:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 20:12:42 +0000</lastBuildDate>
+    <item>
+      <title>The Emacs packages that I use (as of June 2026)</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsPackages-2026-06</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsPackages-2026-06</guid>
+      <pubDate>Thu, 04 Jun 2026 19:09:05 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>Lingon and Lingon Pro 10</title>
+      <link>https://www.peterborgapps.com/lingon/</link>
+      <guid isPermaLink="true">https://www.peterborgapps.com/lingon/</guid>
+      <pubDate>Thu, 04 Jun 2026 18:43:47 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Remember When Chrome Went Bad on MacOS?</title>
+      <link>https://chromeisbad.com/</link>
+      <guid isPermaLink="true">https://chromeisbad.com/</guid>
+      <pubDate>Thu, 04 Jun 2026 18:10:19 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Google’s Gemini Mac App Is Native, in a Distinctly Google Way, But Annoyingly Presumptuous</title>
+      <link>https://gemini.google/mac/</link>
+      <guid isPermaLink="true">https://gemini.google/mac/</guid>
+      <pubDate>Thu, 04 Jun 2026 17:29:26 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Integrating smooth periodic functions</title>
+      <link>https://www.johndcook.com/blog/2026/06/04/integrating-smooth-periodic-functions/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/04/integrating-smooth-periodic-functions/</guid>
+      <pubDate>Thu, 04 Jun 2026 17:18:40 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Quoting Emanuel Maiberg, 404 Media</title>
+      <link>https://simonwillison.net/2026/Jun/4/a-slightly-different-version/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/4/a-slightly-different-version/#atom-everything</guid>
+      <pubDate>Thu, 04 Jun 2026 16:38:29 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Alex Imas and Phil Trammell – What remains scarce after AGI?</title>
+      <link>https://www.dwarkesh.com/p/alex-imas-phil-trammell</link>
+      <guid isPermaLink="true">https://www.dwarkesh.com/p/alex-imas-phil-trammell</guid>
+      <pubDate>Thu, 04 Jun 2026 16:14:49 +0000</pubDate>
+      <description>Dwarkesh Podcast</description>
+    </item>
     <item>
       <title>How Long Does It Take to Plan a Bridge?</title>
       <link>https://www.construction-physics.com/p/how-long-does-it-take-to-plan-a-bridge</link>
@@ -25,13 +74,6 @@
       <guid isPermaLink="true">https://sixcolors.com/post/2026/06/road-to-wwdc-2026-whats-a-developer/</guid>
       <pubDate>Thu, 04 Jun 2026 13:43:26 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Book Review: Accessible Communications by Lisa Riemers and Matisse Hamel-Nelis ★★★★★</title>
-      <link>https://shkspr.mobi/blog/2026/06/book-review-accessible-communications-by-lisa-riemers-and-matisse-hamel-nelis/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/book-review-accessible-communications-by-lisa-riemers-and-matisse-hamel-nelis/</guid>
-      <pubDate>Thu, 04 Jun 2026 11:34:53 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>gittuf - a signed log for git refs</title>
@@ -151,13 +193,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Jun/3/uber-caps-usage/#atom-everything</guid>
       <pubDate>Wed, 03 Jun 2026 12:01:27 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>London Data Store Relaunch</title>
-      <link>https://shkspr.mobi/blog/2026/06/london-data-store-relaunch/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/london-data-store-relaunch/</guid>
-      <pubDate>Wed, 03 Jun 2026 11:34:49 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Welcoming the Philippine Government to Have I Been Pwned</title>
@@ -284,13 +319,6 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260602-00/?p=112376</guid>
       <pubDate>Tue, 02 Jun 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Using FourSquare's API to post location checkins to social media</title>
-      <link>https://shkspr.mobi/blog/2026/06/using-foursquares-api-to-post-location-checkins-to-social-media/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/using-foursquares-api-to-post-location-checkins-to-social-media/</guid>
-      <pubDate>Tue, 02 Jun 2026 11:34:51 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Pluralistic: The tedious power of storytelling (02 Jun 2026) must-we-pretend</title>
@@ -538,13 +566,6 @@
       <description>John D. Cook</description>
     </item>
     <item>
-      <title>Who are the actors in the UK's 2015 passport?</title>
-      <link>https://shkspr.mobi/blog/2026/05/who-are-the-actors-in-the-uks-2015-passport/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/who-are-the-actors-in-the-uks-2015-passport/</guid>
-      <pubDate>Sun, 31 May 2026 11:34:08 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>Ahoy, DECmate II! the little PDP-8 that could</title>
       <link>https://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html</link>
       <guid isPermaLink="true">https://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html</guid>
@@ -762,13 +783,6 @@
       <description>John D. Cook</description>
     </item>
     <item>
-      <title>The UK Government's Low Value Purchase System is a Waste of Time</title>
-      <link>https://shkspr.mobi/blog/2026/05/the-uk-governments-low-value-purchase-system-is-a-waste-of-time/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/the-uk-governments-low-value-purchase-system-is-a-waste-of-time/</guid>
-      <pubDate>Fri, 29 May 2026 11:34:54 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>Composer’s dependency policies</title>
       <link>https://nesbitt.io/2026/05/29/composer-dependency-policies.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/05/29/composer-dependency-policies.html</guid>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/May/28/markdown-svg-renderer/#atom-everything</guid>
       <pubDate>Thu, 28 May 2026 19:45:14 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Footage From the LA-Houston MLS Match That Apple Shot Using iPhone 17 Pro Cameras</title>
-      <link>https://tv.apple.com/us/sporting-event/mls-wrap-up/umc.cse.3a198p24hrehwhonbhgx2zvhv</link>
-      <guid isPermaLink="true">https://tv.apple.com/us/sporting-event/mls-wrap-up/umc.cse.3a198p24hrehwhonbhgx2zvhv</guid>
-      <pubDate>Thu, 28 May 2026 16:51:57 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Knowing about things is cheaper than knowing things</title>
-      <link>https://buttondown.com/hillelwayne/archive/knowing-about-things-is-cheaper-than-knowing/</link>
-      <guid isPermaLink="true">https://buttondown.com/hillelwayne/archive/knowing-about-things-is-cheaper-than-knowing/</guid>
-      <pubDate>Thu, 28 May 2026 16:03:01 +0000</pubDate>
-      <description>Computer Things</description>
     </item>
   </channel>
 </rss>
