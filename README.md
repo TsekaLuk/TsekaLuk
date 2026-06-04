@@ -208,11 +208,11 @@ Last Updated: Thursday, June 4th, 2026, 5:48:26 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Pluralistic: Delusion as a service (04 Jun 2026)](https://pluralistic.net/2026/06/03/mission-space/) — *Pluralistic: Daily links from Cory Doctorow* `06-04`
 - [Another Gem From the Annals of Nick Bilton Jackassery](https://daringfireball.net/linked/2015/03/20/bilton-pseudoscience) — *Daring Fireball* `06-04`
 - [If There’s One Thing Nick Bilton Knows, It’s Television](https://daringfireball.net/linked/2011/10/27/bilton-itv) — *Daring Fireball* `06-04`
-- [Is datacentre sovereignty really that important?](https://martinalderson.com/posts/is-datacentre-sovereignty-really-that-important/?utm_source=rss&utm_medium=rss&utm_campaign=feed) — *Martin Alderson* `06-04`
-- [Scott Pelley on Leaving ‘60 Minutes’: ‘Incompetence and Unprofessionalism in the New Management Have Wreaked Havoc’](https://www.instagram.com/p/DZHlWAoG3_3/?img_index=1) — *Daring Fireball* `06-03`
-- [The ‘60 Minutes’ Purge](https://www.paramountpressexpress.com/cbs-news-and-stations/shows/60-minutes/talent/) — *Daring Fireball* `06-03`
+- [Anti-AI nostalgia and the cult of the past](https://seangoedecke.com/anti-ai-nostalgia/) — *seangoedecke.com RSS feed* `06-04`
+- [How To Read More](https://borretti.me/article/how-to-read-more) — *Fernando Borretti* `06-04`
 <!--BLOG_RADAR:end-->
 
 ---
