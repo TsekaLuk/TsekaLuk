@@ -209,10 +209,10 @@ Last Updated: Friday, June 5th, 2026, 5:36:36 PM
 
 <!--BLOG_RADAR:start-->
 - [Giving your Go apps Tigris superpowers](https://www.tigrisdata.com/blog/storage-sdk-go/) — *Xe Iaso's blog* `06-09`
+- [Aggressive caching for a Mastodon reverse proxy: what to cache, what to never cache, and why content negotiation will eventually betray you](https://it-notes.dragas.net/2026/06/05/aggressive_caching_for_a_mastodon_reverse_proxy/) — *IT Notes* `06-05`
+- [The Giant's Cup](https://herman.bearblog.dev/the-giants-cup/) — *Herman's blog* `06-05`
 - [AI-indecision is a recursive trap. Don't get stuck.](https://www.joanwestenberg.com/ai-indecision-is-a-recursive-trap-dont-get-stuck/) — *Westenberg.* `06-05`
 - [Some People Rooted for The Empire in ‘Star Wars’, Too](https://hotair.com/ed-morrissey/2026/06/03/cbs-fires-scott-pelley-after-trying-very-hard-to-get-fired-n3815553) — *Daring Fireball* `06-05`
-- [IPv6 zones in URLs are a mistake](https://xeiaso.net/notes/2026/ipv6-zones-go-url/) — *Xe Iaso's blog* `06-05`
-- [AI enthusiasts are in a race against time, AI skeptics are in a race against entropy](https://simonwillison.net/2026/Jun/4/ai-enthusiasts-ai-skeptics/#atom-everything) — *Simon Willison's Weblog* `06-04`
 <!--BLOG_RADAR:end-->
 
 ---

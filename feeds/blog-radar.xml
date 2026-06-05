@@ -4,13 +4,27 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 05 Jun 2026 04:24:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 10:03:36 +0000</lastBuildDate>
     <item>
       <title>Giving your Go apps Tigris superpowers</title>
       <link>https://www.tigrisdata.com/blog/storage-sdk-go/</link>
       <guid isPermaLink="true">https://www.tigrisdata.com/blog/storage-sdk-go/</guid>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>Aggressive caching for a Mastodon reverse proxy: what to cache, what to never cache, and why content negotiation will eventually betray you</title>
+      <link>https://it-notes.dragas.net/2026/06/05/aggressive_caching_for_a_mastodon_reverse_proxy/</link>
+      <guid isPermaLink="true">https://it-notes.dragas.net/2026/06/05/aggressive_caching_for_a_mastodon_reverse_proxy/</guid>
+      <pubDate>Fri, 05 Jun 2026 08:44:00 +0000</pubDate>
+      <description>IT Notes</description>
+    </item>
+    <item>
+      <title>The Giant's Cup</title>
+      <link>https://herman.bearblog.dev/the-giants-cup/</link>
+      <guid isPermaLink="true">https://herman.bearblog.dev/the-giants-cup/</guid>
+      <pubDate>Fri, 05 Jun 2026 08:23:00 +0000</pubDate>
+      <description>Herman's blog</description>
     </item>
     <item>
       <title>AI-indecision is a recursive trap. Don't get stuck.</title>
@@ -130,6 +144,13 @@
       <guid isPermaLink="true">https://www.construction-physics.com/p/how-long-does-it-take-to-plan-a-bridge</guid>
       <pubDate>Thu, 04 Jun 2026 15:24:24 +0000</pubDate>
       <description>Construction Physics</description>
+    </item>
+    <item>
+      <title>Rotation revisited: Cycle decomposition in clang’s libcxx</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260604-00/?p=112384</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260604-00/?p=112384</guid>
+      <pubDate>Thu, 04 Jun 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Partitions over permutations</title>
@@ -678,18 +699,18 @@
       <description>Tedium: The Dull Side of the Internet.</description>
     </item>
     <item>
-      <title>Build agents, not pipelines</title>
-      <link>https://seangoedecke.com/build-agents-not-pipelines/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/build-agents-not-pipelines/</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
       <title>Please don't mess with links:</title>
       <link>https://maurycyz.com/misc/real_links/</link>
       <guid isPermaLink="true">https://maurycyz.com/misc/real_links/</guid>
       <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
       <description>Maurycy's Blog</description>
+    </item>
+    <item>
+      <title>Build agents, not pipelines</title>
+      <link>https://seangoedecke.com/build-agents-not-pipelines/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/build-agents-not-pipelines/</guid>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>A day in the threatened forests of the Central Highlands</title>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://evanhahn.com/notes-from-may-2026/</guid>
       <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
       <description>Evan Hahn (dot com)</description>
-    </item>
-    <item>
-      <title>★ What Is a Dickover?</title>
-      <link>https://daringfireball.net/2026/05/what_is_a_dickover</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/05/what_is_a_dickover</guid>
-      <pubDate>Fri, 29 May 2026 20:58:56 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Premium: What If...We're In An AI Bubble? (Part 3)</title>
-      <link>https://www.wheresyoured.at/premium-what-if-were-in-an-ai-bubble-part-3/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/premium-what-if-were-in-an-ai-bubble-part-3/</guid>
-      <pubDate>Fri, 29 May 2026 16:58:10 +0000</pubDate>
-      <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>This Week on The Analog Antiquarian</title>
-      <link>https://www.filfre.net/2026/05/this-week-on-the-analog-antiquarian/</link>
-      <guid isPermaLink="true">https://www.filfre.net/2026/05/this-week-on-the-analog-antiquarian/</guid>
-      <pubDate>Fri, 29 May 2026 16:34:30 +0000</pubDate>
-      <description>The Digital Antiquarian</description>
     </item>
   </channel>
 </rss>
