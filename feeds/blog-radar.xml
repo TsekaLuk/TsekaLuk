@@ -4,7 +4,77 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 04 Jun 2026 20:12:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 04:24:19 +0000</lastBuildDate>
+    <item>
+      <title>Giving your Go apps Tigris superpowers</title>
+      <link>https://www.tigrisdata.com/blog/storage-sdk-go/</link>
+      <guid isPermaLink="true">https://www.tigrisdata.com/blog/storage-sdk-go/</guid>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>AI-indecision is a recursive trap. Don't get stuck.</title>
+      <link>https://www.joanwestenberg.com/ai-indecision-is-a-recursive-trap-dont-get-stuck/</link>
+      <guid isPermaLink="true">https://www.joanwestenberg.com/ai-indecision-is-a-recursive-trap-dont-get-stuck/</guid>
+      <pubDate>Fri, 05 Jun 2026 04:06:59 +0000</pubDate>
+      <description>Westenberg.</description>
+    </item>
+    <item>
+      <title>Some People Rooted for The Empire in ‘Star Wars’, Too</title>
+      <link>https://hotair.com/ed-morrissey/2026/06/03/cbs-fires-scott-pelley-after-trying-very-hard-to-get-fired-n3815553</link>
+      <guid isPermaLink="true">https://hotair.com/ed-morrissey/2026/06/03/cbs-fires-scott-pelley-after-trying-very-hard-to-get-fired-n3815553</guid>
+      <pubDate>Fri, 05 Jun 2026 00:43:33 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>IPv6 zones in URLs are a mistake</title>
+      <link>https://xeiaso.net/notes/2026/ipv6-zones-go-url/</link>
+      <guid isPermaLink="true">https://xeiaso.net/notes/2026/ipv6-zones-go-url/</guid>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>AI enthusiasts are in a race against time, AI skeptics are in a race against entropy</title>
+      <link>https://simonwillison.net/2026/Jun/4/ai-enthusiasts-ai-skeptics/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/4/ai-enthusiasts-ai-skeptics/#atom-everything</guid>
+      <pubDate>Thu, 04 Jun 2026 23:55:27 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Using Safetensors with Flax</title>
+      <link>https://www.gilesthomas.com/2026/06/flax-and-safetensors</link>
+      <guid isPermaLink="true">https://www.gilesthomas.com/2026/06/flax-and-safetensors</guid>
+      <pubDate>Thu, 04 Jun 2026 23:30:00 +0000</pubDate>
+      <description>Giles' blog</description>
+    </item>
+    <item>
+      <title>The Talk Show Live From WWDC 2026: Tuesday in San Jose</title>
+      <link>https://ti.to/daringfireball/the-talk-show-live-from-wwdc-2026</link>
+      <guid isPermaLink="true">https://ti.to/daringfireball/the-talk-show-live-from-wwdc-2026</guid>
+      <pubDate>Thu, 04 Jun 2026 22:05:05 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>‘The Insider’</title>
+      <link>https://letterboxd.com/film/the-insider/</link>
+      <guid isPermaLink="true">https://letterboxd.com/film/the-insider/</guid>
+      <pubDate>Thu, 04 Jun 2026 20:42:35 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>‘Microsoft and OpenAI Broke Up — Now They’re Ready to Fight’</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjdiRHFjMlJadmgiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzk0MjI0Mi9taWNyb3NvZnQtYnVpbGQtYWktYWdlbnRzLW9wZW5haS1jb21wZXRpdGlvbiIsImV4cCI6MTc4MTAzNjQ2OSwiaWF0IjoxNzgwNjA0NDY5fQ.jP0KO9OVCO-fGkk1Utt0NIEn97JWaI8zs0zhjf2V2MQ</link>
+      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjdiRHFjMlJadmgiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzk0MjI0Mi9taWNyb3NvZnQtYnVpbGQtYWktYWdlbnRzLW9wZW5haS1jb21wZXRpdGlvbiIsImV4cCI6MTc4MTAzNjQ2OSwiaWF0IjoxNzgwNjA0NDY5fQ.jP0KO9OVCO-fGkk1Utt0NIEn97JWaI8zs0zhjf2V2MQ</guid>
+      <pubDate>Thu, 04 Jun 2026 20:25:27 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>The Latin of Linux</title>
+      <link>https://www.johndcook.com/blog/2026/06/04/the-latin-of-linux/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/04/the-latin-of-linux/</guid>
+      <pubDate>Thu, 04 Jun 2026 20:12:11 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
     <item>
       <title>The Emacs packages that I use (as of June 2026)</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsPackages-2026-06</link>
@@ -74,6 +144,13 @@
       <guid isPermaLink="true">https://sixcolors.com/post/2026/06/road-to-wwdc-2026-whats-a-developer/</guid>
       <pubDate>Thu, 04 Jun 2026 13:43:26 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Book Review: Accessible Communications by Lisa Riemers and Matisse Hamel-Nelis ★★★★★</title>
+      <link>https://shkspr.mobi/blog/2026/06/book-review-accessible-communications-by-lisa-riemers-and-matisse-hamel-nelis/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/book-review-accessible-communications-by-lisa-riemers-and-matisse-hamel-nelis/</guid>
+      <pubDate>Thu, 04 Jun 2026 11:34:53 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>gittuf - a signed log for git refs</title>
@@ -193,6 +270,13 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Jun/3/uber-caps-usage/#atom-everything</guid>
       <pubDate>Wed, 03 Jun 2026 12:01:27 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>London Data Store Relaunch</title>
+      <link>https://shkspr.mobi/blog/2026/06/london-data-store-relaunch/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/london-data-store-relaunch/</guid>
+      <pubDate>Wed, 03 Jun 2026 11:34:49 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Welcoming the Philippine Government to Have I Been Pwned</title>
@@ -319,6 +403,13 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260602-00/?p=112376</guid>
       <pubDate>Tue, 02 Jun 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>Using FourSquare's API to post location checkins to social media</title>
+      <link>https://shkspr.mobi/blog/2026/06/using-foursquares-api-to-post-location-checkins-to-social-media/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/using-foursquares-api-to-post-location-checkins-to-social-media/</guid>
+      <pubDate>Tue, 02 Jun 2026 11:34:51 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Pluralistic: The tedious power of storytelling (02 Jun 2026) must-we-pretend</title>
@@ -482,13 +573,6 @@
       <description>Chris's Wiki :: blog</description>
     </item>
     <item>
-      <title>The Talk Show Live From WWDC 2026: Tuesday June 9</title>
-      <link>https://ti.to/daringfireball/the-talk-show-live-from-wwdc-2026</link>
-      <guid isPermaLink="true">https://ti.to/daringfireball/the-talk-show-live-from-wwdc-2026</guid>
-      <pubDate>Mon, 01 Jun 2026 01:59:00 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
       <title>exe.dev</title>
       <link>https://exe.dev/?df</link>
       <guid isPermaLink="true">https://exe.dev/?df</guid>
@@ -564,6 +648,13 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/31/another-gaussian-approximation/</guid>
       <pubDate>Sun, 31 May 2026 16:15:49 +0000</pubDate>
       <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Who are the actors in the UK's 2015 passport?</title>
+      <link>https://shkspr.mobi/blog/2026/05/who-are-the-actors-in-the-uks-2015-passport/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/who-are-the-actors-in-the-uks-2015-passport/</guid>
+      <pubDate>Sun, 31 May 2026 11:34:08 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Ahoy, DECmate II! the little PDP-8 that could</title>
@@ -753,97 +844,6 @@
       <guid isPermaLink="true">https://www.filfre.net/2026/05/this-week-on-the-analog-antiquarian/</guid>
       <pubDate>Fri, 29 May 2026 16:34:30 +0000</pubDate>
       <description>The Digital Antiquarian</description>
-    </item>
-    <item>
-      <title>One Group, Clearly, Is Deranged</title>
-      <link>https://paulkrugman.substack.com/p/whos-deranged-exactly</link>
-      <guid isPermaLink="true">https://paulkrugman.substack.com/p/whos-deranged-exactly</guid>
-      <pubDate>Fri, 29 May 2026 16:22:10 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>It's hard to justify buying a Framework 12</title>
-      <link>https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/</guid>
-      <pubDate>Fri, 29 May 2026 14:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
-      <title>Sharing the result of a single Windows Runtime IAsyncOperation among multiple coroutines, part 3</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260529-00/?p=112368</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260529-00/?p=112368</guid>
-      <pubDate>Fri, 29 May 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Online (one-pass) algorithms</title>
-      <link>https://www.johndcook.com/blog/2026/05/29/online-one-pass-algorithms/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/29/online-one-pass-algorithms/</guid>
-      <pubDate>Fri, 29 May 2026 12:24:30 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Composer’s dependency policies</title>
-      <link>https://nesbitt.io/2026/05/29/composer-dependency-policies.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/05/29/composer-dependency-policies.html</guid>
-      <pubDate>Fri, 29 May 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>datasette 1.0a31</title>
-      <link>https://simonwillison.net/2026/May/29/datasette/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/29/datasette/#atom-everything</guid>
-      <pubDate>Fri, 29 May 2026 03:32:02 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>The Go language server can do some impressive code navigation</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/programming/GoLSPImpressiveCodeNavigation</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/programming/GoLSPImpressiveCodeNavigation</guid>
-      <pubDate>Fri, 29 May 2026 01:37:37 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>Anthropic's run-rate revenue hits $47 billion</title>
-      <link>https://simonwillison.net/2026/May/29/anthropic/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/29/anthropic/#atom-everything</guid>
-      <pubDate>Fri, 29 May 2026 01:23:08 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Joining the IndieWeb - #1: Microformats</title>
-      <link>https://tomrenner.com/posts/joining-the-indieweb-1/</link>
-      <guid isPermaLink="true">https://tomrenner.com/posts/joining-the-indieweb-1/</guid>
-      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
-      <description>Tom Renner on My place to put things</description>
-    </item>
-    <item>
-      <title>What's going on with Gemini?</title>
-      <link>https://martinalderson.com/posts/whats-going-on-with-gemini/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
-      <guid isPermaLink="true">https://martinalderson.com/posts/whats-going-on-with-gemini/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
-      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
-      <description>Martin Alderson</description>
-    </item>
-    <item>
-      <title>Claude Opus 4.8: "a modest but tangible improvement"</title>
-      <link>https://simonwillison.net/2026/May/28/claude-opus-4-8/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/28/claude-opus-4-8/#atom-everything</guid>
-      <pubDate>Thu, 28 May 2026 23:59:50 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>llm-anthropic 0.25.1</title>
-      <link>https://simonwillison.net/2026/May/28/llm-anthropic/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/28/llm-anthropic/#atom-everything</guid>
-      <pubDate>Thu, 28 May 2026 23:54:56 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>markdown-svg-renderer</title>
-      <link>https://simonwillison.net/2026/May/28/markdown-svg-renderer/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/28/markdown-svg-renderer/#atom-everything</guid>
-      <pubDate>Thu, 28 May 2026 19:45:14 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>

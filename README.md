@@ -208,11 +208,11 @@ Last Updated: Friday, June 5th, 2026, 10:52:02 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [The Emacs packages that I use (as of June 2026)](https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsPackages-2026-06) — *Chris's Wiki :: blog* `06-04`
-- [Lingon and Lingon Pro 10](https://www.peterborgapps.com/lingon/) — *Daring Fireball* `06-04`
-- [Remember When Chrome Went Bad on MacOS?](https://chromeisbad.com/) — *Daring Fireball* `06-04`
-- [Google’s Gemini Mac App Is Native, in a Distinctly Google Way, But Annoyingly Presumptuous](https://gemini.google/mac/) — *Daring Fireball* `06-04`
-- [Integrating smooth periodic functions](https://www.johndcook.com/blog/2026/06/04/integrating-smooth-periodic-functions/) — *John D. Cook* `06-04`
+- [Giving your Go apps Tigris superpowers](https://www.tigrisdata.com/blog/storage-sdk-go/) — *Xe Iaso's blog* `06-09`
+- [AI-indecision is a recursive trap. Don't get stuck.](https://www.joanwestenberg.com/ai-indecision-is-a-recursive-trap-dont-get-stuck/) — *Westenberg.* `06-05`
+- [Some People Rooted for The Empire in ‘Star Wars’, Too](https://hotair.com/ed-morrissey/2026/06/03/cbs-fires-scott-pelley-after-trying-very-hard-to-get-fired-n3815553) — *Daring Fireball* `06-05`
+- [IPv6 zones in URLs are a mistake](https://xeiaso.net/notes/2026/ipv6-zones-go-url/) — *Xe Iaso's blog* `06-05`
+- [AI enthusiasts are in a race against time, AI skeptics are in a race against entropy](https://simonwillison.net/2026/Jun/4/ai-enthusiasts-ai-skeptics/#atom-everything) — *Simon Willison's Weblog* `06-04`
 <!--BLOG_RADAR:end-->
 
 ---
