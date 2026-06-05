@@ -209,10 +209,10 @@ Last Updated: Saturday, June 6th, 2026, 3:46:39 AM
 
 <!--BLOG_RADAR:start-->
 - [Giving your Go apps Tigris superpowers](https://www.tigrisdata.com/blog/storage-sdk-go/) — *Xe Iaso's blog* `06-09`
+- [JAX backends and devices](https://www.gilesthomas.com/2026/06/jax-backends-and-devices) — *Giles' blog* `06-05`
+- [Premium: The Hater's Guide To The AI Bubble 3.0](https://www.wheresyoured.at/premium-the-haters-guide-to-the-ai-bubble-3-0/) — *Ed Zitron's Where's Your Ed At* `06-05`
+- [Checking in on Perplexity](https://daringfireball.net/linked/2025/08/05/regarding-those-rumors-of-apple-pursuing-an-acquisition-of-perplexity) — *Daring Fireball* `06-05`
 - [I tested every IP KVM in my Homelab](https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/) — *Jeff Geerling* `06-05`
-- [Mr. Bessel’s eponymous functions](https://www.johndcook.com/blog/2026/06/05/mr-bessels-eponymous-functions/) — *John D. Cook* `06-05`
-- [Install-script allowlists](https://nesbitt.io/2026/06/05/install-script-allowlists.html) — *Andrew Nesbitt* `06-05`
-- [Quoting Andreas Kling](https://simonwillison.net/2026/Jun/5/andreas-kling/#atom-everything) — *Simon Willison's Weblog* `06-05`
 <!--BLOG_RADAR:end-->
 
 ---

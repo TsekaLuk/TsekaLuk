@@ -4,13 +4,34 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 05 Jun 2026 15:19:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 20:05:38 +0000</lastBuildDate>
     <item>
       <title>Giving your Go apps Tigris superpowers</title>
       <link>https://www.tigrisdata.com/blog/storage-sdk-go/</link>
       <guid isPermaLink="true">https://www.tigrisdata.com/blog/storage-sdk-go/</guid>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>JAX backends and devices</title>
+      <link>https://www.gilesthomas.com/2026/06/jax-backends-and-devices</link>
+      <guid isPermaLink="true">https://www.gilesthomas.com/2026/06/jax-backends-and-devices</guid>
+      <pubDate>Fri, 05 Jun 2026 19:30:00 +0000</pubDate>
+      <description>Giles' blog</description>
+    </item>
+    <item>
+      <title>Premium: The Hater's Guide To The AI Bubble 3.0</title>
+      <link>https://www.wheresyoured.at/premium-the-haters-guide-to-the-ai-bubble-3-0/</link>
+      <guid isPermaLink="true">https://www.wheresyoured.at/premium-the-haters-guide-to-the-ai-bubble-3-0/</guid>
+      <pubDate>Fri, 05 Jun 2026 15:57:04 +0000</pubDate>
+      <description>Ed Zitron's Where's Your Ed At</description>
+    </item>
+    <item>
+      <title>Checking in on Perplexity</title>
+      <link>https://daringfireball.net/linked/2025/08/05/regarding-those-rumors-of-apple-pursuing-an-acquisition-of-perplexity</link>
+      <guid isPermaLink="true">https://daringfireball.net/linked/2025/08/05/regarding-those-rumors-of-apple-pursuing-an-acquisition-of-perplexity</guid>
+      <pubDate>Fri, 05 Jun 2026 15:26:29 +0000</pubDate>
+      <description>Daring Fireball</description>
     </item>
     <item>
       <title>I tested every IP KVM in my Homelab</title>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://mastodon.social/@danielpunkass/116639318125898071</guid>
       <pubDate>Sat, 30 May 2026 15:27:20 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Yours Truly on TBPN Yesterday</title>
-      <link>https://www.youtube.com/live/sQVwLUxFdMY?t=1997</link>
-      <guid isPermaLink="true">https://www.youtube.com/live/sQVwLUxFdMY?t=1997</guid>
-      <pubDate>Sat, 30 May 2026 12:28:10 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Reading List 05/30/26</title>
-      <link>https://www.construction-physics.com/p/reading-list-053026</link>
-      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-053026</guid>
-      <pubDate>Sat, 30 May 2026 12:02:52 +0000</pubDate>
-      <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>This Week in Package Management: 30 May 2026</title>
-      <link>https://nesbitt.io/2026/05/30/this-week-in-package-management.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/05/30/this-week-in-package-management.html</guid>
-      <pubDate>Sat, 30 May 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
     </item>
   </channel>
 </rss>
