@@ -209,10 +209,10 @@ Last Updated: Friday, June 5th, 2026, 10:36:19 PM
 
 <!--BLOG_RADAR:start-->
 - [Giving your Go apps Tigris superpowers](https://www.tigrisdata.com/blog/storage-sdk-go/) — *Xe Iaso's blog* `06-09`
-- [Aggressive caching for a Mastodon reverse proxy: what to cache, what to never cache, and why content negotiation will eventually betray you](https://it-notes.dragas.net/2026/06/05/aggressive_caching_for_a_mastodon_reverse_proxy/) — *IT Notes* `06-05`
-- [The Giant's Cup](https://herman.bearblog.dev/the-giants-cup/) — *Herman's blog* `06-05`
-- [AI-indecision is a recursive trap. Don't get stuck.](https://www.joanwestenberg.com/ai-indecision-is-a-recursive-trap-dont-get-stuck/) — *Westenberg.* `06-05`
-- [Some People Rooted for The Empire in ‘Star Wars’, Too](https://hotair.com/ed-morrissey/2026/06/03/cbs-fires-scott-pelley-after-trying-very-hard-to-get-fired-n3815553) — *Daring Fireball* `06-05`
+- [I tested every IP KVM in my Homelab](https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/) — *Jeff Geerling* `06-05`
+- [Mr. Bessel’s eponymous functions](https://www.johndcook.com/blog/2026/06/05/mr-bessels-eponymous-functions/) — *John D. Cook* `06-05`
+- [Install-script allowlists](https://nesbitt.io/2026/06/05/install-script-allowlists.html) — *Andrew Nesbitt* `06-05`
+- [Quoting Andreas Kling](https://simonwillison.net/2026/Jun/5/andreas-kling/#atom-everything) — *Simon Willison's Weblog* `06-05`
 <!--BLOG_RADAR:end-->
 
 ---

@@ -4,13 +4,41 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 05 Jun 2026 10:03:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 15:19:15 +0000</lastBuildDate>
     <item>
       <title>Giving your Go apps Tigris superpowers</title>
       <link>https://www.tigrisdata.com/blog/storage-sdk-go/</link>
       <guid isPermaLink="true">https://www.tigrisdata.com/blog/storage-sdk-go/</guid>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>I tested every IP KVM in my Homelab</title>
+      <link>https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/</guid>
+      <pubDate>Fri, 05 Jun 2026 14:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>Mr. Bessel’s eponymous functions</title>
+      <link>https://www.johndcook.com/blog/2026/06/05/mr-bessels-eponymous-functions/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/05/mr-bessels-eponymous-functions/</guid>
+      <pubDate>Fri, 05 Jun 2026 12:04:28 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Install-script allowlists</title>
+      <link>https://nesbitt.io/2026/06/05/install-script-allowlists.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/06/05/install-script-allowlists.html</guid>
+      <pubDate>Fri, 05 Jun 2026 12:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>Quoting Andreas Kling</title>
+      <link>https://simonwillison.net/2026/Jun/5/andreas-kling/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/5/andreas-kling/#atom-everything</guid>
+      <pubDate>Fri, 05 Jun 2026 11:10:05 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
     <item>
       <title>Aggressive caching for a Mastodon reverse proxy: what to cache, what to never cache, and why content negotiation will eventually betray you</title>
@@ -699,18 +727,18 @@
       <description>Tedium: The Dull Side of the Internet.</description>
     </item>
     <item>
-      <title>Please don't mess with links:</title>
-      <link>https://maurycyz.com/misc/real_links/</link>
-      <guid isPermaLink="true">https://maurycyz.com/misc/real_links/</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
-    </item>
-    <item>
       <title>Build agents, not pipelines</title>
       <link>https://seangoedecke.com/build-agents-not-pipelines/</link>
       <guid isPermaLink="true">https://seangoedecke.com/build-agents-not-pipelines/</guid>
       <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Please don't mess with links:</title>
+      <link>https://maurycyz.com/misc/real_links/</link>
+      <guid isPermaLink="true">https://maurycyz.com/misc/real_links/</guid>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
     </item>
     <item>
       <title>A day in the threatened forests of the Central Highlands</title>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/05/30/this-week-in-package-management.html</guid>
       <pubDate>Sat, 30 May 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Pluralistic: Carneyism without Carney (30 May 2026)</title>
-      <link>https://pluralistic.net/2026/05/30/rupture/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/05/30/rupture/</guid>
-      <pubDate>Sat, 30 May 2026 09:31:41 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Our servers mostly don't seem to have high peak power usage</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/tech/ServersLowMaxPowerConsumption</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/tech/ServersLowMaxPowerConsumption</guid>
-      <pubDate>Sat, 30 May 2026 03:34:57 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>Arp 114:</title>
-      <link>https://maurycyz.com/astro/arp114/</link>
-      <guid isPermaLink="true">https://maurycyz.com/astro/arp114/</guid>
-      <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
-    </item>
-    <item>
-      <title>Notes from May 2026</title>
-      <link>https://evanhahn.com/notes-from-may-2026/</link>
-      <guid isPermaLink="true">https://evanhahn.com/notes-from-may-2026/</guid>
-      <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
-      <description>Evan Hahn (dot com)</description>
     </item>
   </channel>
 </rss>
