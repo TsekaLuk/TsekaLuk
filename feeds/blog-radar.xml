@@ -4,13 +4,27 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 06 Jun 2026 13:59:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 19:40:52 +0000</lastBuildDate>
     <item>
       <title>Giving your Go apps Tigris superpowers</title>
       <link>https://www.tigrisdata.com/blog/storage-sdk-go/</link>
       <guid isPermaLink="true">https://www.tigrisdata.com/blog/storage-sdk-go/</guid>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>From Kepler to Bessel</title>
+      <link>https://www.johndcook.com/blog/2026/06/06/from-kepler-to-bessel/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/06/from-kepler-to-bessel/</guid>
+      <pubDate>Sat, 06 Jun 2026 18:46:02 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Pluralistic: Criticizing the everything machine (06 Jun 2026)</title>
+      <link>https://pluralistic.net/2026/06/06/applied-counterescatology/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/06/06/applied-counterescatology/</guid>
+      <pubDate>Sat, 06 Jun 2026 18:00:00 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
     </item>
     <item>
       <title>Reading List 06/06/26</title>
@@ -34,6 +48,13 @@
       <description>Andrew Nesbitt</description>
     </item>
     <item>
+      <title>Our Great War is a Spiritual War</title>
+      <link>https://geohot.github.io//blog/jekyll/update/2026/06/06/our-great-war.html</link>
+      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/06/06/our-great-war.html</guid>
+      <pubDate>Sat, 06 Jun 2026 07:00:00 +0000</pubDate>
+      <description>the singularity is nearer</description>
+    </item>
+    <item>
       <title>micropython-wasm 0.1a2</title>
       <link>https://simonwillison.net/2026/Jun/6/micropython-wasm/#atom-everything</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Jun/6/micropython-wasm/#atom-everything</guid>
@@ -53,6 +74,13 @@
       <guid isPermaLink="true">https://www.joanwestenberg.com/in-pursuit-of-desirable-difficulties/</guid>
       <pubDate>Sat, 06 Jun 2026 01:14:14 +0000</pubDate>
       <description>Westenberg.</description>
+    </item>
+    <item>
+      <title>Communities of Not</title>
+      <link>https://lucumr.pocoo.org/2026/6/6/communities-of-not/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/6/6/communities-of-not/</guid>
+      <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
       <title>OpenAI Help: Lockdown Mode</title>
@@ -125,18 +153,18 @@
       <description>The Old New Thing</description>
     </item>
     <item>
-      <title>Rotation revisited: Avoiding having to calculate the gcd when doing cycle decomposition</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260605-00/?p=112389</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260605-00/?p=112389</guid>
-      <pubDate>Fri, 05 Jun 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
       <title>I tested every IP KVM in my Homelab</title>
       <link>https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/</link>
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/</guid>
       <pubDate>Fri, 05 Jun 2026 14:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>Rotation revisited: Avoiding having to calculate the gcd when doing cycle decomposition</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260605-00/?p=112389</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260605-00/?p=112389</guid>
+      <pubDate>Fri, 05 Jun 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Mr. Bessel’s eponymous functions</title>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/31/another-gaussian-approximation/</guid>
       <pubDate>Sun, 31 May 2026 16:15:49 +0000</pubDate>
       <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Who are the actors in the UK's 2015 passport?</title>
-      <link>https://shkspr.mobi/blog/2026/05/who-are-the-actors-in-the-uks-2015-passport/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/05/who-are-the-actors-in-the-uks-2015-passport/</guid>
-      <pubDate>Sun, 31 May 2026 11:34:08 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Ahoy, DECmate II! the little PDP-8 that could</title>
-      <link>https://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html</link>
-      <guid isPermaLink="true">https://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html</guid>
-      <pubDate>Sun, 31 May 2026 02:19:49 +0000</pubDate>
-      <description>Old Vintage Computing Research</description>
-    </item>
-    <item>
-      <title>Quoting Karen Kwok for Reuters Breakingviews</title>
-      <link>https://simonwillison.net/2026/May/31/anthropic-run-rate/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/31/anthropic-run-rate/#atom-everything</guid>
-      <pubDate>Sun, 31 May 2026 01:48:12 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>One &amp;udm After Another</title>
-      <link>https://feed.tedium.co/link/15204/17351430/google-ai-udm14-reflection</link>
-      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17351430/google-ai-udm14-reflection</guid>
-      <pubDate>Sun, 31 May 2026 00:43:46 +0000</pubDate>
-      <description>Tedium: The Dull Side of the Internet.</description>
     </item>
   </channel>
 </rss>
