@@ -209,10 +209,10 @@ Last Updated: Saturday, June 6th, 2026, 10:38:52 AM
 
 <!--BLOG_RADAR:start-->
 - [Giving your Go apps Tigris superpowers](https://www.tigrisdata.com/blog/storage-sdk-go/) — *Xe Iaso's blog* `06-09`
-- [JAX backends and devices](https://www.gilesthomas.com/2026/06/jax-backends-and-devices) — *Giles' blog* `06-05`
-- [Premium: The Hater's Guide To The AI Bubble 3.0](https://www.wheresyoured.at/premium-the-haters-guide-to-the-ai-bubble-3-0/) — *Ed Zitron's Where's Your Ed At* `06-05`
-- [Checking in on Perplexity](https://daringfireball.net/linked/2025/08/05/regarding-those-rumors-of-apple-pursuing-an-acquisition-of-perplexity) — *Daring Fireball* `06-05`
-- [I tested every IP KVM in my Homelab](https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/) — *Jeff Geerling* `06-05`
+- [Running Python code in a sandbox with MicroPython and WASM](https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything) — *Simon Willison's Weblog* `06-06`
+- [In pursuit of desirable difficulties](https://www.joanwestenberg.com/in-pursuit-of-desirable-difficulties/) — *Westenberg.* `06-06`
+- [OpenAI Help: Lockdown Mode](https://simonwillison.net/2026/Jun/5/openai-help-lockdown-mode/#atom-everything) — *Simon Willison's Weblog* `06-05`
+- [It seems unlikely that I'll have basic ARM servers to deal with](https://utcc.utoronto.ca/~cks/space/blog/tech/ArmBasicServersSeemUnlikely) — *Chris's Wiki :: blog* `06-05`
 <!--BLOG_RADAR:end-->
 
 ---

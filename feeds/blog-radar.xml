@@ -4,13 +4,69 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 05 Jun 2026 20:05:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 04:06:39 +0000</lastBuildDate>
     <item>
       <title>Giving your Go apps Tigris superpowers</title>
       <link>https://www.tigrisdata.com/blog/storage-sdk-go/</link>
       <guid isPermaLink="true">https://www.tigrisdata.com/blog/storage-sdk-go/</guid>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>Running Python code in a sandbox with MicroPython and WASM</title>
+      <link>https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything</guid>
+      <pubDate>Sat, 06 Jun 2026 03:53:34 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>In pursuit of desirable difficulties</title>
+      <link>https://www.joanwestenberg.com/in-pursuit-of-desirable-difficulties/</link>
+      <guid isPermaLink="true">https://www.joanwestenberg.com/in-pursuit-of-desirable-difficulties/</guid>
+      <pubDate>Sat, 06 Jun 2026 01:14:14 +0000</pubDate>
+      <description>Westenberg.</description>
+    </item>
+    <item>
+      <title>OpenAI Help: Lockdown Mode</title>
+      <link>https://simonwillison.net/2026/Jun/5/openai-help-lockdown-mode/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/5/openai-help-lockdown-mode/#atom-everything</guid>
+      <pubDate>Fri, 05 Jun 2026 23:56:40 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>It seems unlikely that I'll have basic ARM servers to deal with</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/tech/ArmBasicServersSeemUnlikely</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/tech/ArmBasicServersSeemUnlikely</guid>
+      <pubDate>Fri, 05 Jun 2026 23:52:08 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>Why all the PRs?</title>
+      <link>https://idiallo.com/blog/why-all-the-prs</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/why-all-the-prs</guid>
+      <pubDate>Fri, 05 Jun 2026 23:00:00 +0000</pubDate>
+      <description>Software and Tech stories from an Insider - iDiallo.com</description>
+    </item>
+    <item>
+      <title>Pluralistic: Refining humanity (05 Jun 2026)</title>
+      <link>https://pluralistic.net/2026/06/05/defining-humanity/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/06/05/defining-humanity/</guid>
+      <pubDate>Fri, 05 Jun 2026 20:49:39 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Nieman Journalism Lab: Twitter/X Punishes Accounts That Post Links</title>
+      <link>https://www.niemanlab.org/2026/04/do-links-hurt-news-publishers-on-twitter-our-analysis-suggests-yes/</link>
+      <guid isPermaLink="true">https://www.niemanlab.org/2026/04/do-links-hurt-news-publishers-on-twitter-our-analysis-suggests-yes/</guid>
+      <pubDate>Fri, 05 Jun 2026 20:46:56 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Elon Musk’s X Is a Freak Show</title>
+      <link>https://www.natesilver.net/p/social-media-has-become-a-freak-show</link>
+      <guid isPermaLink="true">https://www.natesilver.net/p/social-media-has-become-a-freak-show</guid>
+      <pubDate>Fri, 05 Jun 2026 20:24:58 +0000</pubDate>
+      <description>Daring Fireball</description>
     </item>
     <item>
       <title>JAX backends and devices</title>
@@ -34,11 +90,25 @@
       <description>Daring Fireball</description>
     </item>
     <item>
+      <title>The back cover of C++: The Programming Language also raises questions not answered by the front cover</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391</guid>
+      <pubDate>Fri, 05 Jun 2026 14:00:01 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
+    <item>
       <title>I tested every IP KVM in my Homelab</title>
       <link>https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/</link>
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/</guid>
       <pubDate>Fri, 05 Jun 2026 14:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>Rotation revisited: Avoiding having to calculate the gcd when doing cycle decomposition</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260605-00/?p=112389</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260605-00/?p=112389</guid>
+      <pubDate>Fri, 05 Jun 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Mr. Bessel’s eponymous functions</title>
@@ -287,8 +357,8 @@
     </item>
     <item>
       <title>Now that your newsletter is AI-generated, I've Unsubscribed</title>
-      <link>https://idiallo.com/blog/unsubscribed-from-ai-generated-newsletters?src=feed</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/unsubscribed-from-ai-generated-newsletters?src=feed</guid>
+      <link>https://idiallo.com/blog/unsubscribed-from-ai-generated-newsletters</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/unsubscribed-from-ai-generated-newsletters</guid>
       <pubDate>Wed, 03 Jun 2026 21:10:00 +0000</pubDate>
       <description>Software and Tech stories from an Insider - iDiallo.com</description>
     </item>
@@ -560,8 +630,8 @@
     </item>
     <item>
       <title>The web is changing, and we are not going back</title>
-      <link>https://idiallo.com/blog/web-is-changing-we-are-not-going-back?src=feed</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/web-is-changing-we-are-not-going-back?src=feed</guid>
+      <link>https://idiallo.com/blog/web-is-changing-we-are-not-going-back</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/web-is-changing-we-are-not-going-back</guid>
       <pubDate>Mon, 01 Jun 2026 19:34:37 +0000</pubDate>
       <description>Software and Tech stories from an Insider - iDiallo.com</description>
     </item>
@@ -774,76 +844,6 @@
       <guid isPermaLink="true">https://computer.rip/2026-05-31-totalisator.html</guid>
       <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
       <description>computers are bad</description>
-    </item>
-    <item>
-      <title>Our unusual system of "web home directories" for people</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OurWebHomeDirectories</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OurWebHomeDirectories</guid>
-      <pubDate>Sat, 30 May 2026 23:50:13 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>How we contain Claude across products</title>
-      <link>https://simonwillison.net/2026/May/30/how-we-contain-claude/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/30/how-we-contain-claude/#atom-everything</guid>
-      <pubDate>Sat, 30 May 2026 21:36:24 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Spot checking polynomial identities</title>
-      <link>https://www.johndcook.com/blog/2026/05/30/schwartz-zippel/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/30/schwartz-zippel/</guid>
-      <pubDate>Sat, 30 May 2026 21:06:49 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>I Am Retiring from Tech to Live Offline</title>
-      <link>https://simonwillison.net/2026/May/30/retiring-from-tech-to-live-offline/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/30/retiring-from-tech-to-live-offline/#atom-everything</guid>
-      <pubDate>Sat, 30 May 2026 19:39:08 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>On first looking into JAX</title>
-      <link>https://www.gilesthomas.com/2026/05/on-first-looking-into-jax</link>
-      <guid isPermaLink="true">https://www.gilesthomas.com/2026/05/on-first-looking-into-jax</guid>
-      <pubDate>Sat, 30 May 2026 18:45:00 +0000</pubDate>
-      <description>Giles' blog</description>
-    </item>
-    <item>
-      <title>Quoting Daniel Jalkut</title>
-      <link>https://simonwillison.net/2026/May/30/daniel-jalkut/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/30/daniel-jalkut/#atom-everything</guid>
-      <pubDate>Sat, 30 May 2026 17:29:55 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Microcode inside the Intel 8087 floating-point chip: register exchange</title>
-      <link>http://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html</link>
-      <guid isPermaLink="true">http://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html</guid>
-      <pubDate>Sat, 30 May 2026 17:09:35 +0000</pubDate>
-      <description>Ken Shirriff's blog</description>
-    </item>
-    <item>
-      <title>Meta Is Launching Instagram, Facebook, and WhatsApp Subscriptions for ‘Fun Features’</title>
-      <link>https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/</guid>
-      <pubDate>Sat, 30 May 2026 15:34:02 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Running Python ASGI apps in the browser via Pyodide + a service worker</title>
-      <link>https://simonwillison.net/2026/May/30/pyodide-asgi-browser/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/30/pyodide-asgi-browser/#atom-everything</guid>
-      <pubDate>Sat, 30 May 2026 15:34:00 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Daniel Jalkut on AI</title>
-      <link>https://mastodon.social/@danielpunkass/116639318125898071</link>
-      <guid isPermaLink="true">https://mastodon.social/@danielpunkass/116639318125898071</guid>
-      <pubDate>Sat, 30 May 2026 15:27:20 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
