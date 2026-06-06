@@ -4,13 +4,20 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 06 Jun 2026 04:06:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 08:42:16 +0000</lastBuildDate>
     <item>
       <title>Giving your Go apps Tigris superpowers</title>
       <link>https://www.tigrisdata.com/blog/storage-sdk-go/</link>
       <guid isPermaLink="true">https://www.tigrisdata.com/blog/storage-sdk-go/</guid>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>micropython-wasm 0.1a2</title>
+      <link>https://simonwillison.net/2026/Jun/6/micropython-wasm/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/6/micropython-wasm/#atom-everything</guid>
+      <pubDate>Sat, 06 Jun 2026 04:26:06 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
     <item>
       <title>Running Python code in a sandbox with MicroPython and WASM</title>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://hey.paris/posts/threatened-forests/</guid>
       <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
       <description>Dr Paris Buttfield-Addison</description>
-    </item>
-    <item>
-      <title>the totalisator</title>
-      <link>https://computer.rip/2026-05-31-totalisator.html</link>
-      <guid isPermaLink="true">https://computer.rip/2026-05-31-totalisator.html</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-      <description>computers are bad</description>
     </item>
   </channel>
 </rss>
