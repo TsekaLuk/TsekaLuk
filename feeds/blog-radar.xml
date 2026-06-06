@@ -4,13 +4,34 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 06 Jun 2026 08:42:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 13:59:11 +0000</lastBuildDate>
     <item>
       <title>Giving your Go apps Tigris superpowers</title>
       <link>https://www.tigrisdata.com/blog/storage-sdk-go/</link>
       <guid isPermaLink="true">https://www.tigrisdata.com/blog/storage-sdk-go/</guid>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>Reading List 06/06/26</title>
+      <link>https://www.construction-physics.com/p/reading-list-060626</link>
+      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-060626</guid>
+      <pubDate>Sat, 06 Jun 2026 12:02:44 +0000</pubDate>
+      <description>Construction Physics</description>
+    </item>
+    <item>
+      <title>There's still no point in gigabit broadband</title>
+      <link>https://shkspr.mobi/blog/2026/06/theres-still-no-point-in-gigabit-broadband/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/theres-still-no-point-in-gigabit-broadband/</guid>
+      <pubDate>Sat, 06 Jun 2026 11:34:57 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>This Week in Package Management: 6 June 2026</title>
+      <link>https://nesbitt.io/2026/06/06/this-week-in-package-management.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/06/06/this-week-in-package-management.html</guid>
+      <pubDate>Sat, 06 Jun 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
     </item>
     <item>
       <title>micropython-wasm 0.1a2</title>
@@ -104,18 +125,18 @@
       <description>The Old New Thing</description>
     </item>
     <item>
-      <title>I tested every IP KVM in my Homelab</title>
-      <link>https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/</guid>
-      <pubDate>Fri, 05 Jun 2026 14:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
       <title>Rotation revisited: Avoiding having to calculate the gcd when doing cycle decomposition</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260605-00/?p=112389</link>
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260605-00/?p=112389</guid>
       <pubDate>Fri, 05 Jun 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>I tested every IP KVM in my Homelab</title>
+      <link>https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/</guid>
+      <pubDate>Fri, 05 Jun 2026 14:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
     </item>
     <item>
       <title>Mr. Bessel’s eponymous functions</title>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://feed.tedium.co/link/15204/17351430/google-ai-udm14-reflection</guid>
       <pubDate>Sun, 31 May 2026 00:43:46 +0000</pubDate>
       <description>Tedium: The Dull Side of the Internet.</description>
-    </item>
-    <item>
-      <title>Build agents, not pipelines</title>
-      <link>https://seangoedecke.com/build-agents-not-pipelines/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/build-agents-not-pipelines/</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>Please don't mess with links:</title>
-      <link>https://maurycyz.com/misc/real_links/</link>
-      <guid isPermaLink="true">https://maurycyz.com/misc/real_links/</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
-    </item>
-    <item>
-      <title>A day in the threatened forests of the Central Highlands</title>
-      <link>https://hey.paris/posts/threatened-forests/</link>
-      <guid isPermaLink="true">https://hey.paris/posts/threatened-forests/</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-      <description>Dr Paris Buttfield-Addison</description>
     </item>
   </channel>
 </rss>

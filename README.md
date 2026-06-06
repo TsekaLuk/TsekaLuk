@@ -209,10 +209,10 @@ Last Updated: Saturday, June 6th, 2026, 9:19:52 PM
 
 <!--BLOG_RADAR:start-->
 - [Giving your Go apps Tigris superpowers](https://www.tigrisdata.com/blog/storage-sdk-go/) — *Xe Iaso's blog* `06-09`
+- [Reading List 06/06/26](https://www.construction-physics.com/p/reading-list-060626) — *Construction Physics* `06-06`
+- [There's still no point in gigabit broadband](https://shkspr.mobi/blog/2026/06/theres-still-no-point-in-gigabit-broadband/) — *Terence Eden’s Blog* `06-06`
+- [This Week in Package Management: 6 June 2026](https://nesbitt.io/2026/06/06/this-week-in-package-management.html) — *Andrew Nesbitt* `06-06`
 - [micropython-wasm 0.1a2](https://simonwillison.net/2026/Jun/6/micropython-wasm/#atom-everything) — *Simon Willison's Weblog* `06-06`
-- [Running Python code in a sandbox with MicroPython and WASM](https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything) — *Simon Willison's Weblog* `06-06`
-- [In pursuit of desirable difficulties](https://www.joanwestenberg.com/in-pursuit-of-desirable-difficulties/) — *Westenberg.* `06-06`
-- [OpenAI Help: Lockdown Mode](https://simonwillison.net/2026/Jun/5/openai-help-lockdown-mode/#atom-everything) — *Simon Willison's Weblog* `06-05`
 <!--BLOG_RADAR:end-->
 
 ---
