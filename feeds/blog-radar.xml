@@ -4,13 +4,62 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 06 Jun 2026 19:40:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 04:42:52 +0000</lastBuildDate>
     <item>
       <title>Giving your Go apps Tigris superpowers</title>
       <link>https://www.tigrisdata.com/blog/storage-sdk-go/</link>
       <guid isPermaLink="true">https://www.tigrisdata.com/blog/storage-sdk-go/</guid>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>Copping My Style</title>
+      <link>https://feed.tedium.co/link/15204/17355475/adobe-creator-act-style-protection-commentary</link>
+      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17355475/adobe-creator-act-style-protection-commentary</guid>
+      <pubDate>Sun, 07 Jun 2026 02:54:43 +0000</pubDate>
+      <description>Tedium: The Dull Side of the Internet.</description>
+    </item>
+    <item>
+      <title>'Vim' has many faces</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/unix/VimManyFaces</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/unix/VimManyFaces</guid>
+      <pubDate>Sun, 07 Jun 2026 02:32:10 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>Halide Mark III</title>
+      <link>https://www.lux.camera/halide-mark-iii/</link>
+      <guid isPermaLink="true">https://www.lux.camera/halide-mark-iii/</guid>
+      <pubDate>Sun, 07 Jun 2026 00:49:15 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Thoughts on starting new projects with LLM agents</title>
+      <link>https://eli.thegreenplace.net/2026/thoughts-on-starting-new-projects-with-llm-agents/</link>
+      <guid isPermaLink="true">https://eli.thegreenplace.net/2026/thoughts-on-starting-new-projects-with-llm-agents/</guid>
+      <pubDate>Sun, 07 Jun 2026 00:38:00 +0000</pubDate>
+      <description>Eli Bendersky's website</description>
+    </item>
+    <item>
+      <title>Update: ending paid subscriptions, + Substack</title>
+      <link>https://www.joanwestenberg.com/update-ending-paid-subscriptions-substack/</link>
+      <guid isPermaLink="true">https://www.joanwestenberg.com/update-ending-paid-subscriptions-substack/</guid>
+      <pubDate>Sat, 06 Jun 2026 23:11:51 +0000</pubDate>
+      <description>Westenberg.</description>
+    </item>
+    <item>
+      <title>60 Minutes Correspondents Lesley Stahl, Bill Whitaker, and the Other Guy Will Stay at Show</title>
+      <link>https://www.nytimes.com/2026/06/05/business/media/60-minutes-cbs-stahl-whitaker-wertheim.html?unlocked_article_code=1.oFA.xooG.Pz8cQv8odz7Z</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/05/business/media/60-minutes-cbs-stahl-whitaker-wertheim.html?unlocked_article_code=1.oFA.xooG.Pz8cQv8odz7Z</guid>
+      <pubDate>Sat, 06 Jun 2026 20:04:06 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Trump Lawyer Argues Trump Can Tear Down Statue of Liberty</title>
+      <link>https://talkingpointsmemo.com/edblog/trump-can-tear-down-statue-of-liberty-says-trump-lawyer</link>
+      <guid isPermaLink="true">https://talkingpointsmemo.com/edblog/trump-can-tear-down-statue-of-liberty-says-trump-lawyer</guid>
+      <pubDate>Sat, 06 Jun 2026 19:56:01 +0000</pubDate>
+      <description>Daring Fireball</description>
     </item>
     <item>
       <title>From Kepler to Bessel</title>
@@ -795,55 +844,6 @@
       <guid isPermaLink="true">https://seangoedecke.com/weird-projects-i-shipped-with-ai/</guid>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>"No way to prevent this" say users of only package manager where this regularly happens</title>
-      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/supply-chain/2026-redhat-javascript-clients/</link>
-      <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/supply-chain/2026-redhat-javascript-clients/</guid>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
-      <title>The art and engineering of Silpheed</title>
-      <link>https://fabiensanglard.net/silpheed/index.html</link>
-      <guid isPermaLink="true">https://fabiensanglard.net/silpheed/index.html</guid>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Fabien Sanglard</description>
-    </item>
-    <item>
-      <title>Checking assembly with Z3</title>
-      <link>https://bernsteinbear.com/blog/asm-z3/?utm_source=rss</link>
-      <guid isPermaLink="true">https://bernsteinbear.com/blog/asm-z3/?utm_source=rss</guid>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Max Bernstein's Blog</description>
-    </item>
-    <item>
-      <title>datasette 1.0a32</title>
-      <link>https://simonwillison.net/2026/May/31/datasette/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/31/datasette/#atom-everything</guid>
-      <pubDate>Sun, 31 May 2026 23:23:38 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Be thou not pilled</title>
-      <link>https://www.joanwestenberg.com/be-thou-not-pilled/</link>
-      <guid isPermaLink="true">https://www.joanwestenberg.com/be-thou-not-pilled/</guid>
-      <pubDate>Sun, 31 May 2026 23:21:45 +0000</pubDate>
-      <description>Westenberg.</description>
-    </item>
-    <item>
-      <title>The solution might be cancelling my AI subscription</title>
-      <link>https://simonwillison.net/2026/May/31/the-solution-might-be-cancelling-my-ai-subscription/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/May/31/the-solution-might-be-cancelling-my-ai-subscription/#atom-everything</guid>
-      <pubDate>Sun, 31 May 2026 16:31:32 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Another Gaussian approximation</title>
-      <link>https://www.johndcook.com/blog/2026/05/31/another-gaussian-approximation/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/05/31/another-gaussian-approximation/</guid>
-      <pubDate>Sun, 31 May 2026 16:15:49 +0000</pubDate>
-      <description>John D. Cook</description>
     </item>
   </channel>
 </rss>
