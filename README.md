@@ -209,10 +209,10 @@ Last Updated: Sunday, June 7th, 2026, 9:40:45 PM
 
 <!--BLOG_RADAR:start-->
 - [Giving your Go apps Tigris superpowers](https://www.tigrisdata.com/blog/storage-sdk-go/) — *Xe Iaso's blog* `06-09`
+- [KPN Interactieve TV zonder Experia Box](https://berthub.eu/articles/posts/kpn-interactieve-tv-zelf-doen/) — *Bert Hubert's writings* `06-07`
+- [A new era for software testing](http://antirez.com/news/168) — *<antirez>* `06-07`
 - [Copping My Style](https://feed.tedium.co/link/15204/17355475/adobe-creator-act-style-protection-commentary) — *Tedium: The Dull Side of the Internet.* `06-07`
 - ['Vim' has many faces](https://utcc.utoronto.ca/~cks/space/blog/unix/VimManyFaces) — *Chris's Wiki :: blog* `06-07`
-- [Halide Mark III](https://www.lux.camera/halide-mark-iii/) — *Daring Fireball* `06-07`
-- [Thoughts on starting new projects with LLM agents](https://eli.thegreenplace.net/2026/thoughts-on-starting-new-projects-with-llm-agents/) — *Eli Bendersky's website* `06-07`
 <!--BLOG_RADAR:end-->
 
 ---

@@ -4,13 +4,27 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 07 Jun 2026 09:26:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 14:08:48 +0000</lastBuildDate>
     <item>
       <title>Giving your Go apps Tigris superpowers</title>
       <link>https://www.tigrisdata.com/blog/storage-sdk-go/</link>
       <guid isPermaLink="true">https://www.tigrisdata.com/blog/storage-sdk-go/</guid>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>KPN Interactieve TV zonder Experia Box</title>
+      <link>https://berthub.eu/articles/posts/kpn-interactieve-tv-zelf-doen/</link>
+      <guid isPermaLink="true">https://berthub.eu/articles/posts/kpn-interactieve-tv-zelf-doen/</guid>
+      <pubDate>Sun, 07 Jun 2026 10:36:42 +0000</pubDate>
+      <description>Bert Hubert's writings</description>
+    </item>
+    <item>
+      <title>A new era for software testing</title>
+      <link>http://antirez.com/news/168</link>
+      <guid isPermaLink="true">http://antirez.com/news/168</guid>
+      <pubDate>Sun, 07 Jun 2026 09:46:06 +0000</pubDate>
+      <description>&lt;antirez&gt;</description>
     </item>
     <item>
       <title>Copping My Style</title>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/supply-chain/2026-redhat-javascript-clients/</guid>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
-    </item>
-    <item>
-      <title>The art and engineering of Silpheed</title>
-      <link>https://fabiensanglard.net/silpheed/index.html</link>
-      <guid isPermaLink="true">https://fabiensanglard.net/silpheed/index.html</guid>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Fabien Sanglard</description>
-    </item>
-    <item>
-      <title>Checking assembly with Z3</title>
-      <link>https://bernsteinbear.com/blog/asm-z3/?utm_source=rss</link>
-      <guid isPermaLink="true">https://bernsteinbear.com/blog/asm-z3/?utm_source=rss</guid>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Max Bernstein's Blog</description>
     </item>
   </channel>
 </rss>
