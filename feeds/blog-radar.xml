@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 07 Jun 2026 04:42:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 09:26:33 +0000</lastBuildDate>
     <item>
       <title>Giving your Go apps Tigris superpowers</title>
       <link>https://www.tigrisdata.com/blog/storage-sdk-go/</link>
@@ -39,13 +39,6 @@
       <guid isPermaLink="true">https://eli.thegreenplace.net/2026/thoughts-on-starting-new-projects-with-llm-agents/</guid>
       <pubDate>Sun, 07 Jun 2026 00:38:00 +0000</pubDate>
       <description>Eli Bendersky's website</description>
-    </item>
-    <item>
-      <title>Update: ending paid subscriptions, + Substack</title>
-      <link>https://www.joanwestenberg.com/update-ending-paid-subscriptions-substack/</link>
-      <guid isPermaLink="true">https://www.joanwestenberg.com/update-ending-paid-subscriptions-substack/</guid>
-      <pubDate>Sat, 06 Jun 2026 23:11:51 +0000</pubDate>
-      <description>Westenberg.</description>
     </item>
     <item>
       <title>60 Minutes Correspondents Lesley Stahl, Bill Whitaker, and the Other Guy Will Stay at Show</title>
@@ -116,13 +109,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything</guid>
       <pubDate>Sat, 06 Jun 2026 03:53:34 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>In pursuit of desirable difficulties</title>
-      <link>https://www.joanwestenberg.com/in-pursuit-of-desirable-difficulties/</link>
-      <guid isPermaLink="true">https://www.joanwestenberg.com/in-pursuit-of-desirable-difficulties/</guid>
-      <pubDate>Sat, 06 Jun 2026 01:14:14 +0000</pubDate>
-      <description>Westenberg.</description>
     </item>
     <item>
       <title>Communities of Not</title>
@@ -249,13 +235,6 @@
       <guid isPermaLink="true">https://herman.bearblog.dev/the-giants-cup/</guid>
       <pubDate>Fri, 05 Jun 2026 08:23:00 +0000</pubDate>
       <description>Herman's blog</description>
-    </item>
-    <item>
-      <title>AI-indecision is a recursive trap. Don't get stuck.</title>
-      <link>https://www.joanwestenberg.com/ai-indecision-is-a-recursive-trap-dont-get-stuck/</link>
-      <guid isPermaLink="true">https://www.joanwestenberg.com/ai-indecision-is-a-recursive-trap-dont-get-stuck/</guid>
-      <pubDate>Fri, 05 Jun 2026 04:06:59 +0000</pubDate>
-      <description>Westenberg.</description>
     </item>
     <item>
       <title>Some People Rooted for The Empire in ‘Star Wars’, Too</title>
@@ -844,6 +823,27 @@
       <guid isPermaLink="true">https://seangoedecke.com/weird-projects-i-shipped-with-ai/</guid>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>"No way to prevent this" say users of only package manager where this regularly happens</title>
+      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/supply-chain/2026-redhat-javascript-clients/</link>
+      <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/supply-chain/2026-redhat-javascript-clients/</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>The art and engineering of Silpheed</title>
+      <link>https://fabiensanglard.net/silpheed/index.html</link>
+      <guid isPermaLink="true">https://fabiensanglard.net/silpheed/index.html</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Fabien Sanglard</description>
+    </item>
+    <item>
+      <title>Checking assembly with Z3</title>
+      <link>https://bernsteinbear.com/blog/asm-z3/?utm_source=rss</link>
+      <guid isPermaLink="true">https://bernsteinbear.com/blog/asm-z3/?utm_source=rss</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Max Bernstein's Blog</description>
     </item>
   </channel>
 </rss>
