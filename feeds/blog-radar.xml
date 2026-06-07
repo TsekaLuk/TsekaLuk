@@ -4,13 +4,41 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 07 Jun 2026 14:08:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 19:41:42 +0000</lastBuildDate>
     <item>
       <title>Giving your Go apps Tigris superpowers</title>
       <link>https://www.tigrisdata.com/blog/storage-sdk-go/</link>
       <guid isPermaLink="true">https://www.tigrisdata.com/blog/storage-sdk-go/</guid>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>The Laplace limit</title>
+      <link>https://www.johndcook.com/blog/2026/06/07/the-laplace-limit/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/07/the-laplace-limit/</guid>
+      <pubDate>Sun, 07 Jun 2026 19:06:36 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Mux — Video for Developers</title>
+      <link>https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF</link>
+      <guid isPermaLink="true">https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF</guid>
+      <pubDate>Sun, 07 Jun 2026 17:36:38 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Powering up a module from the IBM 604: an electronic calculator from 1948</title>
+      <link>http://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html</link>
+      <guid isPermaLink="true">http://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html</guid>
+      <pubDate>Sun, 07 Jun 2026 16:57:09 +0000</pubDate>
+      <description>Ken Shirriff's blog</description>
+    </item>
+    <item>
+      <title>A crank formula for π</title>
+      <link>https://www.johndcook.com/blog/2026/06/07/a-crank-formula-for-%cf%80/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/07/a-crank-formula-for-%cf%80/</guid>
+      <pubDate>Sun, 07 Jun 2026 16:34:26 +0000</pubDate>
+      <description>John D. Cook</description>
     </item>
     <item>
       <title>KPN Interactieve TV zonder Experia Box</title>
@@ -671,13 +699,6 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>[Sponsor] Mux — Video for Developers</title>
-      <link>https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF</link>
-      <guid isPermaLink="true">https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF</guid>
-      <pubDate>Tue, 02 Jun 2026 01:45:43 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
       <title>When &lt;code&gt;su&lt;/code&gt; replaced &lt;code&gt;login&lt;/code&gt; for becoming another Unix login</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/unix/SuAsLoginReplacement</link>
       <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/unix/SuAsLoginReplacement</guid>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://www.abortretry.fail/p/micro-instrumentation-and-telemetry</guid>
       <pubDate>Mon, 01 Jun 2026 01:28:37 +0000</pubDate>
       <description>Abort Retry Fail</description>
-    </item>
-    <item>
-      <title>Take Two</title>
-      <link>https://x.com/markgurman/status/2061236259843182813</link>
-      <guid isPermaLink="true">https://x.com/markgurman/status/2061236259843182813</guid>
-      <pubDate>Mon, 01 Jun 2026 00:15:44 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Weird projects I shipped with AI</title>
-      <link>https://seangoedecke.com/weird-projects-i-shipped-with-ai/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/weird-projects-i-shipped-with-ai/</guid>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>"No way to prevent this" say users of only package manager where this regularly happens</title>
-      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/supply-chain/2026-redhat-javascript-clients/</link>
-      <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/supply-chain/2026-redhat-javascript-clients/</guid>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
     </item>
   </channel>
 </rss>

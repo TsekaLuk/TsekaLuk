@@ -209,10 +209,10 @@ Last Updated: Monday, June 8th, 2026, 3:13:23 AM
 
 <!--BLOG_RADAR:start-->
 - [Giving your Go apps Tigris superpowers](https://www.tigrisdata.com/blog/storage-sdk-go/) — *Xe Iaso's blog* `06-09`
-- [KPN Interactieve TV zonder Experia Box](https://berthub.eu/articles/posts/kpn-interactieve-tv-zelf-doen/) — *Bert Hubert's writings* `06-07`
-- [A new era for software testing](http://antirez.com/news/168) — *<antirez>* `06-07`
-- [Copping My Style](https://feed.tedium.co/link/15204/17355475/adobe-creator-act-style-protection-commentary) — *Tedium: The Dull Side of the Internet.* `06-07`
-- ['Vim' has many faces](https://utcc.utoronto.ca/~cks/space/blog/unix/VimManyFaces) — *Chris's Wiki :: blog* `06-07`
+- [The Laplace limit](https://www.johndcook.com/blog/2026/06/07/the-laplace-limit/) — *John D. Cook* `06-07`
+- [Mux — Video for Developers](https://www.mux.com/?utm_campaign=fireball&utm_source=DF) — *Daring Fireball* `06-07`
+- [Powering up a module from the IBM 604: an electronic calculator from 1948](http://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html) — *Ken Shirriff's blog* `06-07`
+- [A crank formula for π](https://www.johndcook.com/blog/2026/06/07/a-crank-formula-for-%cf%80/) — *John D. Cook* `06-07`
 <!--BLOG_RADAR:end-->
 
 ---
