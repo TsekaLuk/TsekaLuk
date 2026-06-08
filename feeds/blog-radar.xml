@@ -4,13 +4,62 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 07 Jun 2026 19:41:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 04:47:46 +0000</lastBuildDate>
     <item>
       <title>Giving your Go apps Tigris superpowers</title>
       <link>https://www.tigrisdata.com/blog/storage-sdk-go/</link>
       <guid isPermaLink="true">https://www.tigrisdata.com/blog/storage-sdk-go/</guid>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>Should we care any more about Googlebot crawling our sites?</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/web/DoYouNeedGooglebotCrawling</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/web/DoYouNeedGooglebotCrawling</guid>
+      <pubDate>Mon, 08 Jun 2026 02:04:21 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>Mux — Video for Developers</title>
+      <link>https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF</link>
+      <guid isPermaLink="true">https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF</guid>
+      <pubDate>Mon, 08 Jun 2026 01:47:03 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>★ SwiftUI Only Makes It Easy to Develop Bad Apps</title>
+      <link>https://daringfireball.net/2026/06/swiftui_only_makes_it_easy_to_develop_bad_apps</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/06/swiftui_only_makes_it_easy_to_develop_bad_apps</guid>
+      <pubDate>Mon, 08 Jun 2026 01:30:00 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Alberto Romero on Apple’s AI Spending</title>
+      <link>https://www.thealgorithmicbridge.com/p/what-apple-knows-about-ai-that-silicon</link>
+      <guid isPermaLink="true">https://www.thealgorithmicbridge.com/p/what-apple-knows-about-ai-that-silicon</guid>
+      <pubDate>Mon, 08 Jun 2026 01:00:00 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Doing nothing at work</title>
+      <link>https://seangoedecke.com/doing-nothing-at-work/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/doing-nothing-at-work/</guid>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>datasette-agent-edit 0.1a0</title>
+      <link>https://simonwillison.net/2026/Jun/7/datasette-agent-edit/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/7/datasette-agent-edit/#atom-everything</guid>
+      <pubDate>Sun, 07 Jun 2026 23:56:38 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Aitken acceleration before Aitken</title>
+      <link>https://www.johndcook.com/blog/2026/06/07/aitkin-acceleration-kepler/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/07/aitkin-acceleration-kepler/</guid>
+      <pubDate>Sun, 07 Jun 2026 20:14:45 +0000</pubDate>
+      <description>John D. Cook</description>
     </item>
     <item>
       <title>The Laplace limit</title>
@@ -20,11 +69,11 @@
       <description>John D. Cook</description>
     </item>
     <item>
-      <title>Mux — Video for Developers</title>
-      <link>https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF</link>
-      <guid isPermaLink="true">https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF</guid>
-      <pubDate>Sun, 07 Jun 2026 17:36:38 +0000</pubDate>
-      <description>Daring Fireball</description>
+      <title>Coding Is Designing</title>
+      <link>https://blog.jim-nielsen.com/2026/code-is-design/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/code-is-design/</guid>
+      <pubDate>Sun, 07 Jun 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
     </item>
     <item>
       <title>Powering up a module from the IBM 604: an electronic calculator from 1948</title>
@@ -55,6 +104,13 @@
       <description>&lt;antirez&gt;</description>
     </item>
     <item>
+      <title>Stairway to Heaven</title>
+      <link>https://geohot.github.io//blog/jekyll/update/2026/06/07/stairway-to-heaven.html</link>
+      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/06/07/stairway-to-heaven.html</guid>
+      <pubDate>Sun, 07 Jun 2026 07:00:00 +0000</pubDate>
+      <description>the singularity is nearer</description>
+    </item>
+    <item>
       <title>Copping My Style</title>
       <link>https://feed.tedium.co/link/15204/17355475/adobe-creator-act-style-protection-commentary</link>
       <guid isPermaLink="true">https://feed.tedium.co/link/15204/17355475/adobe-creator-act-style-protection-commentary</guid>
@@ -81,6 +137,13 @@
       <guid isPermaLink="true">https://eli.thegreenplace.net/2026/thoughts-on-starting-new-projects-with-llm-agents/</guid>
       <pubDate>Sun, 07 Jun 2026 00:38:00 +0000</pubDate>
       <description>Eli Bendersky's website</description>
+    </item>
+    <item>
+      <title>Arp 297:</title>
+      <link>https://maurycyz.com/astro/arp297/</link>
+      <guid isPermaLink="true">https://maurycyz.com/astro/arp297/</guid>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
     </item>
     <item>
       <title>60 Minutes Correspondents Lesley Stahl, Bill Whitaker, and the Other Guy Will Stay at Show</title>
@@ -116,13 +179,6 @@
       <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-060626</guid>
       <pubDate>Sat, 06 Jun 2026 12:02:44 +0000</pubDate>
       <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>There's still no point in gigabit broadband</title>
-      <link>https://shkspr.mobi/blog/2026/06/theres-still-no-point-in-gigabit-broadband/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/theres-still-no-point-in-gigabit-broadband/</guid>
-      <pubDate>Sat, 06 Jun 2026 11:34:57 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>This Week in Package Management: 6 June 2026</title>
@@ -412,13 +468,6 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Book Review: Accessible Communications by Lisa Riemers and Matisse Hamel-Nelis ★★★★★</title>
-      <link>https://shkspr.mobi/blog/2026/06/book-review-accessible-communications-by-lisa-riemers-and-matisse-hamel-nelis/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/book-review-accessible-communications-by-lisa-riemers-and-matisse-hamel-nelis/</guid>
-      <pubDate>Thu, 04 Jun 2026 11:34:53 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>gittuf - a signed log for git refs</title>
       <link>https://nesbitt.io/2026/06/04/gittuf-a-signed-log-for-git-refs.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/06/04/gittuf-a-signed-log-for-git-refs.html</guid>
@@ -536,13 +585,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Jun/3/uber-caps-usage/#atom-everything</guid>
       <pubDate>Wed, 03 Jun 2026 12:01:27 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>London Data Store Relaunch</title>
-      <link>https://shkspr.mobi/blog/2026/06/london-data-store-relaunch/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/london-data-store-relaunch/</guid>
-      <pubDate>Wed, 03 Jun 2026 11:34:49 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Welcoming the Philippine Government to Have I Been Pwned</title>
@@ -669,13 +711,6 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260602-00/?p=112376</guid>
       <pubDate>Tue, 02 Jun 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Using FourSquare's API to post location checkins to social media</title>
-      <link>https://shkspr.mobi/blog/2026/06/using-foursquares-api-to-post-location-checkins-to-social-media/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/using-foursquares-api-to-post-location-checkins-to-social-media/</guid>
-      <pubDate>Tue, 02 Jun 2026 11:34:51 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Pluralistic: The tedious power of storytelling (02 Jun 2026) must-we-pretend</title>
@@ -809,41 +844,6 @@
       <guid isPermaLink="true">https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/</guid>
       <pubDate>Mon, 01 Jun 2026 08:22:52 +0000</pubDate>
       <description>Troy Hunt</description>
-    </item>
-    <item>
-      <title>May 2026 newsletter</title>
-      <link>https://simonwillison.net/2026/Jun/1/may-newsletter/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/1/may-newsletter/#atom-everything</guid>
-      <pubDate>Mon, 01 Jun 2026 04:45:00 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Weekly Update 506</title>
-      <link>https://www.troyhunt.com/weekly-update-506/</link>
-      <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-506/</guid>
-      <pubDate>Mon, 01 Jun 2026 03:32:33 +0000</pubDate>
-      <description>Troy Hunt</description>
-    </item>
-    <item>
-      <title>I'm not sure we'd use AppArmor much even if we could</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/AppArmorAndUsThoughts</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/AppArmorAndUsThoughts</guid>
-      <pubDate>Mon, 01 Jun 2026 02:47:52 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>exe.dev</title>
-      <link>https://exe.dev/?df</link>
-      <guid isPermaLink="true">https://exe.dev/?df</guid>
-      <pubDate>Mon, 01 Jun 2026 01:55:40 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Micro Instrumentation and Telemetry Systems</title>
-      <link>https://www.abortretry.fail/p/micro-instrumentation-and-telemetry</link>
-      <guid isPermaLink="true">https://www.abortretry.fail/p/micro-instrumentation-and-telemetry</guid>
-      <pubDate>Mon, 01 Jun 2026 01:28:37 +0000</pubDate>
-      <description>Abort Retry Fail</description>
     </item>
   </channel>
 </rss>

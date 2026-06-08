@@ -209,10 +209,10 @@ Last Updated: Monday, June 8th, 2026, 11:26:42 AM
 
 <!--BLOG_RADAR:start-->
 - [Giving your Go apps Tigris superpowers](https://www.tigrisdata.com/blog/storage-sdk-go/) — *Xe Iaso's blog* `06-09`
-- [The Laplace limit](https://www.johndcook.com/blog/2026/06/07/the-laplace-limit/) — *John D. Cook* `06-07`
-- [Mux — Video for Developers](https://www.mux.com/?utm_campaign=fireball&utm_source=DF) — *Daring Fireball* `06-07`
-- [Powering up a module from the IBM 604: an electronic calculator from 1948](http://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html) — *Ken Shirriff's blog* `06-07`
-- [A crank formula for π](https://www.johndcook.com/blog/2026/06/07/a-crank-formula-for-%cf%80/) — *John D. Cook* `06-07`
+- [Should we care any more about Googlebot crawling our sites?](https://utcc.utoronto.ca/~cks/space/blog/web/DoYouNeedGooglebotCrawling) — *Chris's Wiki :: blog* `06-08`
+- [Mux — Video for Developers](https://www.mux.com/?utm_campaign=fireball&utm_source=DF) — *Daring Fireball* `06-08`
+- [★ SwiftUI Only Makes It Easy to Develop Bad Apps](https://daringfireball.net/2026/06/swiftui_only_makes_it_easy_to_develop_bad_apps) — *Daring Fireball* `06-08`
+- [Alberto Romero on Apple’s AI Spending](https://www.thealgorithmicbridge.com/p/what-apple-knows-about-ai-that-silicon) — *Daring Fireball* `06-08`
 <!--BLOG_RADAR:end-->
 
 ---
