@@ -4,13 +4,20 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 08 Jun 2026 04:47:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 11:10:17 +0000</lastBuildDate>
     <item>
       <title>Giving your Go apps Tigris superpowers</title>
       <link>https://www.tigrisdata.com/blog/storage-sdk-go/</link>
       <guid isPermaLink="true">https://www.tigrisdata.com/blog/storage-sdk-go/</guid>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>Package Manager Patents</title>
+      <link>https://nesbitt.io/2026/06/08/package-manager-patents.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/06/08/package-manager-patents.html</guid>
+      <pubDate>Mon, 08 Jun 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
     </item>
     <item>
       <title>Should we care any more about Googlebot crawling our sites?</title>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://pluralistic.net/2026/06/01/doikayt/</guid>
       <pubDate>Mon, 01 Jun 2026 09:25:48 +0000</pubDate>
       <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>1,000 Data Breaches Later, the Disclosure Lag is Worse Than Ever</title>
-      <link>https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/</link>
-      <guid isPermaLink="true">https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/</guid>
-      <pubDate>Mon, 01 Jun 2026 08:22:52 +0000</pubDate>
-      <description>Troy Hunt</description>
     </item>
   </channel>
 </rss>

@@ -209,10 +209,10 @@ Last Updated: Monday, June 8th, 2026, 6:25:50 PM
 
 <!--BLOG_RADAR:start-->
 - [Giving your Go apps Tigris superpowers](https://www.tigrisdata.com/blog/storage-sdk-go/) — *Xe Iaso's blog* `06-09`
+- [Package Manager Patents](https://nesbitt.io/2026/06/08/package-manager-patents.html) — *Andrew Nesbitt* `06-08`
 - [Should we care any more about Googlebot crawling our sites?](https://utcc.utoronto.ca/~cks/space/blog/web/DoYouNeedGooglebotCrawling) — *Chris's Wiki :: blog* `06-08`
 - [Mux — Video for Developers](https://www.mux.com/?utm_campaign=fireball&utm_source=DF) — *Daring Fireball* `06-08`
 - [★ SwiftUI Only Makes It Easy to Develop Bad Apps](https://daringfireball.net/2026/06/swiftui_only_makes_it_easy_to_develop_bad_apps) — *Daring Fireball* `06-08`
-- [Alberto Romero on Apple’s AI Spending](https://www.thealgorithmicbridge.com/p/what-apple-knows-about-ai-that-silicon) — *Daring Fireball* `06-08`
 <!--BLOG_RADAR:end-->
 
 ---
