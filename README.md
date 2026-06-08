@@ -209,10 +209,10 @@ Last Updated: Monday, June 8th, 2026, 11:38:30 PM
 
 <!--BLOG_RADAR:start-->
 - [Giving your Go apps Tigris superpowers](https://www.tigrisdata.com/blog/storage-sdk-go/) — *Xe Iaso's blog* `06-09`
-- [Package Manager Patents](https://nesbitt.io/2026/06/08/package-manager-patents.html) — *Andrew Nesbitt* `06-08`
-- [Should we care any more about Googlebot crawling our sites?](https://utcc.utoronto.ca/~cks/space/blog/web/DoYouNeedGooglebotCrawling) — *Chris's Wiki :: blog* `06-08`
-- [Mux — Video for Developers](https://www.mux.com/?utm_campaign=fireball&utm_source=DF) — *Daring Fireball* `06-08`
-- [★ SwiftUI Only Makes It Easy to Develop Bad Apps](https://daringfireball.net/2026/06/swiftui_only_makes_it_easy_to_develop_bad_apps) — *Daring Fireball* `06-08`
+- [AI Is Slowing Down](https://www.wheresyoured.at/ai-is-slowing-down/) — *Ed Zitron's Where's Your Ed At* `06-08`
+- [Planescape: Torment, Part 2: …to the Desktop](https://www.filfre.net/2026/06/planescape-torment-part-2-to-the-desktop/) — *The Digital Antiquarian* `06-08`
+- [Hacking for Defense @ Stanford 2026 – Lessons Learned Presentations](https://steveblank.com/2026/06/08/g-for-defense-stanford-2026-lessons-learned-presentations/) — *Steve Blank* `06-08`
+- [How many consecutive hyphens can you have in a domain name?](https://shkspr.mobi/blog/2026/06/how-many-consecutive-hyphens-can-you-have-in-a-domain-name/) — *Terence Eden’s Blog* `06-08`
 <!--BLOG_RADAR:end-->
 
 ---

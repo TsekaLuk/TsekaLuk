@@ -4,13 +4,48 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 08 Jun 2026 11:10:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 16:08:02 +0000</lastBuildDate>
     <item>
       <title>Giving your Go apps Tigris superpowers</title>
       <link>https://www.tigrisdata.com/blog/storage-sdk-go/</link>
       <guid isPermaLink="true">https://www.tigrisdata.com/blog/storage-sdk-go/</guid>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>AI Is Slowing Down</title>
+      <link>https://www.wheresyoured.at/ai-is-slowing-down/</link>
+      <guid isPermaLink="true">https://www.wheresyoured.at/ai-is-slowing-down/</guid>
+      <pubDate>Mon, 08 Jun 2026 15:37:39 +0000</pubDate>
+      <description>Ed Zitron's Where's Your Ed At</description>
+    </item>
+    <item>
+      <title>Planescape: Torment, Part 2: …to the Desktop</title>
+      <link>https://www.filfre.net/2026/06/planescape-torment-part-2-to-the-desktop/</link>
+      <guid isPermaLink="true">https://www.filfre.net/2026/06/planescape-torment-part-2-to-the-desktop/</guid>
+      <pubDate>Mon, 08 Jun 2026 15:36:41 +0000</pubDate>
+      <description>The Digital Antiquarian</description>
+    </item>
+    <item>
+      <title>Hacking for Defense @ Stanford 2026 – Lessons Learned Presentations</title>
+      <link>https://steveblank.com/2026/06/08/g-for-defense-stanford-2026-lessons-learned-presentations/</link>
+      <guid isPermaLink="true">https://steveblank.com/2026/06/08/g-for-defense-stanford-2026-lessons-learned-presentations/</guid>
+      <pubDate>Mon, 08 Jun 2026 13:00:15 +0000</pubDate>
+      <description>Steve Blank</description>
+    </item>
+    <item>
+      <title>How many consecutive hyphens can you have in a domain name?</title>
+      <link>https://shkspr.mobi/blog/2026/06/how-many-consecutive-hyphens-can-you-have-in-a-domain-name/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/how-many-consecutive-hyphens-can-you-have-in-a-domain-name/</guid>
+      <pubDate>Mon, 08 Jun 2026 11:34:59 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>De gietijzeren pan en big tech</title>
+      <link>https://berthub.eu/articles/posts/de-gietijzeren-pan-en-big-tech/</link>
+      <guid isPermaLink="true">https://berthub.eu/articles/posts/de-gietijzeren-pan-en-big-tech/</guid>
+      <pubDate>Mon, 08 Jun 2026 11:00:00 +0000</pubDate>
+      <description>Bert Hubert's writings</description>
     </item>
     <item>
       <title>Package Manager Patents</title>
@@ -53,6 +88,20 @@
       <guid isPermaLink="true">https://seangoedecke.com/doing-nothing-at-work/</guid>
       <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Working with product managers</title>
+      <link>https://seangoedecke.com/working-with-product-managers/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/working-with-product-managers/</guid>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>xAI is looking more like a datacentre REIT than a frontier lab</title>
+      <link>https://martinalderson.com/posts/xais-new-rental-business/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
+      <guid isPermaLink="true">https://martinalderson.com/posts/xais-new-rental-business/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Martin Alderson</description>
     </item>
     <item>
       <title>datasette-agent-edit 0.1a0</title>
@@ -186,6 +235,13 @@
       <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-060626</guid>
       <pubDate>Sat, 06 Jun 2026 12:02:44 +0000</pubDate>
       <description>Construction Physics</description>
+    </item>
+    <item>
+      <title>There's still no point in gigabit broadband</title>
+      <link>https://shkspr.mobi/blog/2026/06/theres-still-no-point-in-gigabit-broadband/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/theres-still-no-point-in-gigabit-broadband/</guid>
+      <pubDate>Sat, 06 Jun 2026 11:34:57 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>This Week in Package Management: 6 June 2026</title>
@@ -475,6 +531,13 @@
       <description>Daring Fireball</description>
     </item>
     <item>
+      <title>Book Review: Accessible Communications by Lisa Riemers and Matisse Hamel-Nelis ★★★★★</title>
+      <link>https://shkspr.mobi/blog/2026/06/book-review-accessible-communications-by-lisa-riemers-and-matisse-hamel-nelis/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/book-review-accessible-communications-by-lisa-riemers-and-matisse-hamel-nelis/</guid>
+      <pubDate>Thu, 04 Jun 2026 11:34:53 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>gittuf - a signed log for git refs</title>
       <link>https://nesbitt.io/2026/06/04/gittuf-a-signed-log-for-git-refs.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/06/04/gittuf-a-signed-log-for-git-refs.html</guid>
@@ -592,6 +655,13 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Jun/3/uber-caps-usage/#atom-everything</guid>
       <pubDate>Wed, 03 Jun 2026 12:01:27 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>London Data Store Relaunch</title>
+      <link>https://shkspr.mobi/blog/2026/06/london-data-store-relaunch/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/london-data-store-relaunch/</guid>
+      <pubDate>Wed, 03 Jun 2026 11:34:49 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Welcoming the Philippine Government to Have I Been Pwned</title>
@@ -720,6 +790,13 @@
       <description>The Old New Thing</description>
     </item>
     <item>
+      <title>Using FourSquare's API to post location checkins to social media</title>
+      <link>https://shkspr.mobi/blog/2026/06/using-foursquares-api-to-post-location-checkins-to-social-media/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/using-foursquares-api-to-post-location-checkins-to-social-media/</guid>
+      <pubDate>Tue, 02 Jun 2026 11:34:51 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>Pluralistic: The tedious power of storytelling (02 Jun 2026) must-we-pretend</title>
       <link>https://pluralistic.net/2026/06/02/must-we-pretend/</link>
       <guid isPermaLink="true">https://pluralistic.net/2026/06/02/must-we-pretend/</guid>
@@ -767,83 +844,6 @@
       <guid isPermaLink="true">https://www.hamiltonnolan.com/p/if-you-take-the-weasel-job-then-you?r=qy6gq</guid>
       <pubDate>Mon, 01 Jun 2026 23:31:54 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Is the Monaco Grand Prix decided at qualifying?</title>
-      <link>https://entropicthoughts.com/is-monaco-decided-at-qualifying</link>
-      <guid isPermaLink="true">https://entropicthoughts.com/is-monaco-decided-at-qualifying</guid>
-      <pubDate>Mon, 01 Jun 2026 22:00:00 +0000</pubDate>
-      <description>Entropic Thoughts</description>
-    </item>
-    <item>
-      <title>Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked</title>
-      <link>https://simonwillison.net/2026/Jun/1/hackers-simply-asked-meta-ai/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/1/hackers-simply-asked-meta-ai/#atom-everything</guid>
-      <pubDate>Mon, 01 Jun 2026 21:14:47 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>‘We Are Living in Pinocchio’s World’</title>
-      <link>https://om.co/2026/05/25/we-are-living-in-pinocchios-world/</link>
-      <guid isPermaLink="true">https://om.co/2026/05/25/we-are-living-in-pinocchios-world/</guid>
-      <pubDate>Mon, 01 Jun 2026 20:05:17 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The web is changing, and we are not going back</title>
-      <link>https://idiallo.com/blog/web-is-changing-we-are-not-going-back</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/web-is-changing-we-are-not-going-back</guid>
-      <pubDate>Mon, 01 Jun 2026 19:34:37 +0000</pubDate>
-      <description>Software and Tech stories from an Insider - iDiallo.com</description>
-    </item>
-    <item>
-      <title>Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts</title>
-      <link>https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/</link>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/</guid>
-      <pubDate>Mon, 01 Jun 2026 17:32:50 +0000</pubDate>
-      <description>Krebs on Security</description>
-    </item>
-    <item>
-      <title>Amazon Made AI Podcasts for Products</title>
-      <link>https://www.businessinsider.com/amazon-ai-generated-podcasts-products-2026-4</link>
-      <guid isPermaLink="true">https://www.businessinsider.com/amazon-ai-generated-podcasts-products-2026-4</guid>
-      <pubDate>Mon, 01 Jun 2026 16:41:51 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The placeholder name for the Windows 8 experience was “modern”</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260601-00/?p=112373</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260601-00/?p=112373</guid>
-      <pubDate>Mon, 01 Jun 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>It’s not just Taylor series</title>
-      <link>https://www.johndcook.com/blog/2026/06/01/not-just-taylor-series/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/01/not-just-taylor-series/</guid>
-      <pubDate>Mon, 01 Jun 2026 12:42:12 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Subscribe by email</title>
-      <link>https://www.johndcook.com/blog/2026/06/01/subscribe-by-email/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/01/subscribe-by-email/</guid>
-      <pubDate>Mon, 01 Jun 2026 11:01:26 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>The Infosec Phrasebook</title>
-      <link>https://nesbitt.io/2026/06/01/the-infosec-phrasebook.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/06/01/the-infosec-phrasebook.html</guid>
-      <pubDate>Mon, 01 Jun 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Pluralistic: Molly Crabapple's 'Here Where We Live Is Our Country' (01 Jun 2026)</title>
-      <link>https://pluralistic.net/2026/06/01/doikayt/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/06/01/doikayt/</guid>
-      <pubDate>Mon, 01 Jun 2026 09:25:48 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
     </item>
   </channel>
 </rss>
