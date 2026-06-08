@@ -209,10 +209,10 @@ Last Updated: Tuesday, June 9th, 2026, 4:06:33 AM
 
 <!--BLOG_RADAR:start-->
 - [Giving your Go apps Tigris superpowers](https://www.tigrisdata.com/blog/storage-sdk-go/) — *Xe Iaso's blog* `06-09`
+- [ppclp.ai announces 100x Productivity Gains](https://idiallo.com/blog/100x-productivity-gain) — *Software and Tech stories from an Insider - iDiallo.com* `06-08`
+- [The sample efficiency black hole](https://www.dwarkesh.com/p/the-sample-efficiency-black-hole) — *Dwarkesh Podcast* `06-08`
 - [AI Is Slowing Down](https://www.wheresyoured.at/ai-is-slowing-down/) — *Ed Zitron's Where's Your Ed At* `06-08`
 - [Planescape: Torment, Part 2: …to the Desktop](https://www.filfre.net/2026/06/planescape-torment-part-2-to-the-desktop/) — *The Digital Antiquarian* `06-08`
-- [Hacking for Defense @ Stanford 2026 – Lessons Learned Presentations](https://steveblank.com/2026/06/08/g-for-defense-stanford-2026-lessons-learned-presentations/) — *Steve Blank* `06-08`
-- [How many consecutive hyphens can you have in a domain name?](https://shkspr.mobi/blog/2026/06/how-many-consecutive-hyphens-can-you-have-in-a-domain-name/) — *Terence Eden’s Blog* `06-08`
 <!--BLOG_RADAR:end-->
 
 ---

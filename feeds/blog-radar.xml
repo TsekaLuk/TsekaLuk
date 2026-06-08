@@ -4,13 +4,27 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 08 Jun 2026 16:08:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 20:26:53 +0000</lastBuildDate>
     <item>
       <title>Giving your Go apps Tigris superpowers</title>
       <link>https://www.tigrisdata.com/blog/storage-sdk-go/</link>
       <guid isPermaLink="true">https://www.tigrisdata.com/blog/storage-sdk-go/</guid>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>ppclp.ai announces 100x Productivity Gains</title>
+      <link>https://idiallo.com/blog/100x-productivity-gain</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/100x-productivity-gain</guid>
+      <pubDate>Mon, 08 Jun 2026 19:50:00 +0000</pubDate>
+      <description>Software and Tech stories from an Insider - iDiallo.com</description>
+    </item>
+    <item>
+      <title>The sample efficiency black hole</title>
+      <link>https://www.dwarkesh.com/p/the-sample-efficiency-black-hole</link>
+      <guid isPermaLink="true">https://www.dwarkesh.com/p/the-sample-efficiency-black-hole</guid>
+      <pubDate>Mon, 08 Jun 2026 18:09:37 +0000</pubDate>
+      <description>Dwarkesh Podcast</description>
     </item>
     <item>
       <title>AI Is Slowing Down</title>
@@ -829,20 +843,6 @@
       <link>https://pxlnv.com/blog/metaverse-fever-dream/</link>
       <guid isPermaLink="true">https://pxlnv.com/blog/metaverse-fever-dream/</guid>
       <pubDate>Tue, 02 Jun 2026 00:24:39 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>I went on the Built for Turbulence podcast</title>
-      <link>https://martinalderson.com/posts/built-for-turbulence-podcast/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
-      <guid isPermaLink="true">https://martinalderson.com/posts/built-for-turbulence-podcast/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
-      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Martin Alderson</description>
-    </item>
-    <item>
-      <title>‘If You Take the Weasel Job Then You Must Be the Weasel’</title>
-      <link>https://www.hamiltonnolan.com/p/if-you-take-the-weasel-job-then-you?r=qy6gq</link>
-      <guid isPermaLink="true">https://www.hamiltonnolan.com/p/if-you-take-the-weasel-job-then-you?r=qy6gq</guid>
-      <pubDate>Mon, 01 Jun 2026 23:31:54 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
   </channel>
