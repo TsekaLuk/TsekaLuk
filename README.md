@@ -208,11 +208,11 @@ Last Updated: Wednesday, June 10th, 2026, 4:01:12 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Active recall](https://herman.bearblog.dev/active-recall/) — *Herman's blog* `06-09`
-- [Pluralistic: Naomi Kritzer's "Obstetrix" (09 Jun 2026)](https://pluralistic.net/2026/06/09/deliver-us/) — *Pluralistic: Daily links from Cory Doctorow* `06-09`
-- [Incorruptible](https://steveblank.com/2026/06/09/incorruptible/) — *Steve Blank* `06-09`
-- [Forms of Open Source Government](https://nesbitt.io/2026/06/09/forms-of-open-source-government.html) — *Andrew Nesbitt* `06-09`
-- [[Sponsor] WorkOS Launches auth.md — an Open Protocol for Agent Registration](https://youtu.be/Dqp_b8GHLXU?t=1074) — *Daring Fireball* `06-09`
+- [Quoting Andrej Karpathy](https://simonwillison.net/2026/Jun/9/andrej-karpathy/#atom-everything) — *Simon Willison's Weblog* `06-09`
+- [The Talk Show Live From WWDC: Tonight, In-Person and Streaming](https://ti.to/daringfireball/the-talk-show-live-from-wwdc-2026) — *Daring Fireball* `06-09`
+- [Apple WWDC 2026 Keynote](https://www.youtube.com/watch?v=hF8swzNR1-o) — *Daring Fireball* `06-09`
+- [Apple’s WWDC AI Demos Were Real and in Real Time](https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/) — *Daring Fireball* `06-09`
+- [Apple Introduces Siri AI](https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/) — *Daring Fireball* `06-09`
 <!--BLOG_RADAR:end-->
 
 ---
