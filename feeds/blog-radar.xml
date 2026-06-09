@@ -4,13 +4,34 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 08 Jun 2026 20:26:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 04:09:56 +0000</lastBuildDate>
+    <item>
+      <title>Understanding Embark in GNU Emacs (a bit) and some 'stupid' Embark tricks</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsUnderstandingEmbark</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsUnderstandingEmbark</guid>
+      <pubDate>Tue, 09 Jun 2026 03:46:37 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>From the Annals of People Having Knowledge of the Matter, Siri AI Extensions Edition</title>
+      <link>https://www.bloomberg.com/news/articles/2026-03-26/apple-plans-to-open-up-siri-to-rival-ai-assistants-beyond-chatgpt-in-ios-27</link>
+      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-03-26/apple-plans-to-open-up-siri-to-rival-ai-assistants-beyond-chatgpt-in-ios-27</guid>
+      <pubDate>Tue, 09 Jun 2026 01:37:27 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Giving your Go apps Tigris superpowers</title>
       <link>https://www.tigrisdata.com/blog/storage-sdk-go/</link>
       <guid isPermaLink="true">https://www.tigrisdata.com/blog/storage-sdk-go/</guid>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>Siri AI at WWDC 2026</title>
+      <link>https://simonwillison.net/2026/Jun/8/wwdc/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/8/wwdc/#atom-everything</guid>
+      <pubDate>Mon, 08 Jun 2026 23:58:04 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
     <item>
       <title>ppclp.ai announces 100x Productivity Gains</title>
@@ -39,6 +60,13 @@
       <guid isPermaLink="true">https://www.filfre.net/2026/06/planescape-torment-part-2-to-the-desktop/</guid>
       <pubDate>Mon, 08 Jun 2026 15:36:41 +0000</pubDate>
       <description>The Digital Antiquarian</description>
+    </item>
+    <item>
+      <title>Rotation revisited: Shuffling more than three blocks, and other small notes</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260608-00/?p=112407</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260608-00/?p=112407</guid>
+      <pubDate>Mon, 08 Jun 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Hacking for Defense @ Stanford 2026 – Lessons Learned Presentations</title>
@@ -97,16 +125,16 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Doing nothing at work</title>
-      <link>https://seangoedecke.com/doing-nothing-at-work/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/doing-nothing-at-work/</guid>
+      <title>Working with product managers</title>
+      <link>https://seangoedecke.com/working-with-product-managers/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/working-with-product-managers/</guid>
       <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>Working with product managers</title>
-      <link>https://seangoedecke.com/working-with-product-managers/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/working-with-product-managers/</guid>
+      <title>Doing nothing at work</title>
+      <link>https://seangoedecke.com/doing-nothing-at-work/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/doing-nothing-at-work/</guid>
       <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
     </item>
@@ -179,13 +207,6 @@
       <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/06/07/stairway-to-heaven.html</guid>
       <pubDate>Sun, 07 Jun 2026 07:00:00 +0000</pubDate>
       <description>the singularity is nearer</description>
-    </item>
-    <item>
-      <title>Copping My Style</title>
-      <link>https://feed.tedium.co/link/15204/17355475/adobe-creator-act-style-protection-commentary</link>
-      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17355475/adobe-creator-act-style-protection-commentary</guid>
-      <pubDate>Sun, 07 Jun 2026 02:54:43 +0000</pubDate>
-      <description>Tedium: The Dull Side of the Internet.</description>
     </item>
     <item>
       <title>'Vim' has many faces</title>
@@ -335,13 +356,6 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>JAX backends and devices</title>
-      <link>https://www.gilesthomas.com/2026/06/jax-backends-and-devices</link>
-      <guid isPermaLink="true">https://www.gilesthomas.com/2026/06/jax-backends-and-devices</guid>
-      <pubDate>Fri, 05 Jun 2026 19:30:00 +0000</pubDate>
-      <description>Giles' blog</description>
-    </item>
-    <item>
       <title>Premium: The Hater's Guide To The AI Bubble 3.0</title>
       <link>https://www.wheresyoured.at/premium-the-haters-guide-to-the-ai-bubble-3-0/</link>
       <guid isPermaLink="true">https://www.wheresyoured.at/premium-the-haters-guide-to-the-ai-bubble-3-0/</guid>
@@ -431,13 +445,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Jun/4/ai-enthusiasts-ai-skeptics/#atom-everything</guid>
       <pubDate>Thu, 04 Jun 2026 23:55:27 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Using Safetensors with Flax</title>
-      <link>https://www.gilesthomas.com/2026/06/flax-and-safetensors</link>
-      <guid isPermaLink="true">https://www.gilesthomas.com/2026/06/flax-and-safetensors</guid>
-      <pubDate>Thu, 04 Jun 2026 23:30:00 +0000</pubDate>
-      <description>Giles' blog</description>
     </item>
     <item>
       <title>The Talk Show Live From WWDC 2026: Tuesday in San Jose</title>
@@ -587,18 +594,18 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>How To Read More</title>
-      <link>https://borretti.me/article/how-to-read-more</link>
-      <guid isPermaLink="true">https://borretti.me/article/how-to-read-more</guid>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Fernando Borretti</description>
-    </item>
-    <item>
       <title>Is datacentre sovereignty really that important?</title>
       <link>https://martinalderson.com/posts/is-datacentre-sovereignty-really-that-important/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
       <guid isPermaLink="true">https://martinalderson.com/posts/is-datacentre-sovereignty-really-that-important/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
       <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
       <description>Martin Alderson</description>
+    </item>
+    <item>
+      <title>How To Read More</title>
+      <link>https://borretti.me/article/how-to-read-more</link>
+      <guid isPermaLink="true">https://borretti.me/article/how-to-read-more</guid>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Fernando Borretti</description>
     </item>
     <item>
       <title>Scott Pelley on Leaving ‘60 Minutes’: ‘Incompetence and Unprofessionalism in the New Management Have Wreaked Havoc’</title>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/unix/SuAsLoginReplacement</guid>
       <pubDate>Tue, 02 Jun 2026 01:19:33 +0000</pubDate>
       <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>‘The Metaverse Fever Dream’</title>
-      <link>https://pxlnv.com/blog/metaverse-fever-dream/</link>
-      <guid isPermaLink="true">https://pxlnv.com/blog/metaverse-fever-dream/</guid>
-      <pubDate>Tue, 02 Jun 2026 00:24:39 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>

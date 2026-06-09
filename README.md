@@ -208,11 +208,11 @@ Last Updated: Tuesday, June 9th, 2026, 10:37:34 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Understanding Embark in GNU Emacs (a bit) and some 'stupid' Embark tricks](https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsUnderstandingEmbark) — *Chris's Wiki :: blog* `06-09`
+- [From the Annals of People Having Knowledge of the Matter, Siri AI Extensions Edition](https://www.bloomberg.com/news/articles/2026-03-26/apple-plans-to-open-up-siri-to-rival-ai-assistants-beyond-chatgpt-in-ios-27) — *Daring Fireball* `06-09`
 - [Giving your Go apps Tigris superpowers](https://www.tigrisdata.com/blog/storage-sdk-go/) — *Xe Iaso's blog* `06-09`
+- [Siri AI at WWDC 2026](https://simonwillison.net/2026/Jun/8/wwdc/#atom-everything) — *Simon Willison's Weblog* `06-08`
 - [ppclp.ai announces 100x Productivity Gains](https://idiallo.com/blog/100x-productivity-gain) — *Software and Tech stories from an Insider - iDiallo.com* `06-08`
-- [The sample efficiency black hole](https://www.dwarkesh.com/p/the-sample-efficiency-black-hole) — *Dwarkesh Podcast* `06-08`
-- [AI Is Slowing Down](https://www.wheresyoured.at/ai-is-slowing-down/) — *Ed Zitron's Where's Your Ed At* `06-08`
-- [Planescape: Torment, Part 2: …to the Desktop](https://www.filfre.net/2026/06/planescape-torment-part-2-to-the-desktop/) — *The Digital Antiquarian* `06-08`
 <!--BLOG_RADAR:end-->
 
 ---
