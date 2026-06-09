@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 09 Jun 2026 04:09:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 09:56:34 +0000</lastBuildDate>
+    <item>
+      <title>[Sponsor] WorkOS Launches auth.md — an Open Protocol for Agent Registration</title>
+      <link>https://youtu.be/Dqp_b8GHLXU?t=1074</link>
+      <guid isPermaLink="true">https://youtu.be/Dqp_b8GHLXU?t=1074</guid>
+      <pubDate>Tue, 09 Jun 2026 04:23:05 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Understanding Embark in GNU Emacs (a bit) and some 'stupid' Embark tricks</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsUnderstandingEmbark</link>
@@ -32,6 +39,13 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Jun/8/wwdc/#atom-everything</guid>
       <pubDate>Mon, 08 Jun 2026 23:58:04 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>LLMs and almost good code</title>
+      <link>https://entropicthoughts.com/llms-and-almost-good-code</link>
+      <guid isPermaLink="true">https://entropicthoughts.com/llms-and-almost-good-code</guid>
+      <pubDate>Mon, 08 Jun 2026 22:00:00 +0000</pubDate>
+      <description>Entropic Thoughts</description>
     </item>
     <item>
       <title>ppclp.ai announces 100x Productivity Gains</title>
@@ -209,6 +223,13 @@
       <description>the singularity is nearer</description>
     </item>
     <item>
+      <title>Copping My Style</title>
+      <link>https://feed.tedium.co/link/15204/17355475/adobe-creator-act-style-protection-commentary</link>
+      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17355475/adobe-creator-act-style-protection-commentary</guid>
+      <pubDate>Sun, 07 Jun 2026 02:54:43 +0000</pubDate>
+      <description>Tedium: The Dull Side of the Internet.</description>
+    </item>
+    <item>
       <title>'Vim' has many faces</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/unix/VimManyFaces</link>
       <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/unix/VimManyFaces</guid>
@@ -356,6 +377,13 @@
       <description>Daring Fireball</description>
     </item>
     <item>
+      <title>JAX backends and devices</title>
+      <link>https://www.gilesthomas.com/2026/06/jax-backends-and-devices</link>
+      <guid isPermaLink="true">https://www.gilesthomas.com/2026/06/jax-backends-and-devices</guid>
+      <pubDate>Fri, 05 Jun 2026 19:30:00 +0000</pubDate>
+      <description>Giles' blog</description>
+    </item>
+    <item>
       <title>Premium: The Hater's Guide To The AI Bubble 3.0</title>
       <link>https://www.wheresyoured.at/premium-the-haters-guide-to-the-ai-bubble-3-0/</link>
       <guid isPermaLink="true">https://www.wheresyoured.at/premium-the-haters-guide-to-the-ai-bubble-3-0/</guid>
@@ -445,6 +473,13 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Jun/4/ai-enthusiasts-ai-skeptics/#atom-everything</guid>
       <pubDate>Thu, 04 Jun 2026 23:55:27 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Using Safetensors with Flax</title>
+      <link>https://www.gilesthomas.com/2026/06/flax-and-safetensors</link>
+      <guid isPermaLink="true">https://www.gilesthomas.com/2026/06/flax-and-safetensors</guid>
+      <pubDate>Thu, 04 Jun 2026 23:30:00 +0000</pubDate>
+      <description>Giles' blog</description>
     </item>
     <item>
       <title>The Talk Show Live From WWDC 2026: Tuesday in San Jose</title>
@@ -594,18 +629,18 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>Is datacentre sovereignty really that important?</title>
-      <link>https://martinalderson.com/posts/is-datacentre-sovereignty-really-that-important/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
-      <guid isPermaLink="true">https://martinalderson.com/posts/is-datacentre-sovereignty-really-that-important/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Martin Alderson</description>
-    </item>
-    <item>
       <title>How To Read More</title>
       <link>https://borretti.me/article/how-to-read-more</link>
       <guid isPermaLink="true">https://borretti.me/article/how-to-read-more</guid>
       <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
       <description>Fernando Borretti</description>
+    </item>
+    <item>
+      <title>Is datacentre sovereignty really that important?</title>
+      <link>https://martinalderson.com/posts/is-datacentre-sovereignty-really-that-important/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
+      <guid isPermaLink="true">https://martinalderson.com/posts/is-datacentre-sovereignty-really-that-important/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Martin Alderson</description>
     </item>
     <item>
       <title>Scott Pelley on Leaving ‘60 Minutes’: ‘Incompetence and Unprofessionalism in the New Management Have Wreaked Havoc’</title>
@@ -809,41 +844,6 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260602-00/?p=112376</guid>
       <pubDate>Tue, 02 Jun 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Using FourSquare's API to post location checkins to social media</title>
-      <link>https://shkspr.mobi/blog/2026/06/using-foursquares-api-to-post-location-checkins-to-social-media/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/using-foursquares-api-to-post-location-checkins-to-social-media/</guid>
-      <pubDate>Tue, 02 Jun 2026 11:34:51 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Pluralistic: The tedious power of storytelling (02 Jun 2026) must-we-pretend</title>
-      <link>https://pluralistic.net/2026/06/02/must-we-pretend/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/06/02/must-we-pretend/</guid>
-      <pubDate>Tue, 02 Jun 2026 09:18:16 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Pasted File Editor</title>
-      <link>https://simonwillison.net/2026/Jun/2/pasted-file-editor/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/2/pasted-file-editor/#atom-everything</guid>
-      <pubDate>Tue, 02 Jun 2026 04:13:36 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>micropython-wasm 0.1a0</title>
-      <link>https://simonwillison.net/2026/Jun/2/micropython-wasm-2/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/2/micropython-wasm-2/#atom-everything</guid>
-      <pubDate>Tue, 02 Jun 2026 03:43:45 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>When &lt;code&gt;su&lt;/code&gt; replaced &lt;code&gt;login&lt;/code&gt; for becoming another Unix login</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/unix/SuAsLoginReplacement</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/unix/SuAsLoginReplacement</guid>
-      <pubDate>Tue, 02 Jun 2026 01:19:33 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
     </item>
   </channel>
 </rss>

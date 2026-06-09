@@ -208,11 +208,11 @@ Last Updated: Tuesday, June 9th, 2026, 5:31:43 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [[Sponsor] WorkOS Launches auth.md — an Open Protocol for Agent Registration](https://youtu.be/Dqp_b8GHLXU?t=1074) — *Daring Fireball* `06-09`
 - [Understanding Embark in GNU Emacs (a bit) and some 'stupid' Embark tricks](https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsUnderstandingEmbark) — *Chris's Wiki :: blog* `06-09`
 - [From the Annals of People Having Knowledge of the Matter, Siri AI Extensions Edition](https://www.bloomberg.com/news/articles/2026-03-26/apple-plans-to-open-up-siri-to-rival-ai-assistants-beyond-chatgpt-in-ios-27) — *Daring Fireball* `06-09`
 - [Giving your Go apps Tigris superpowers](https://www.tigrisdata.com/blog/storage-sdk-go/) — *Xe Iaso's blog* `06-09`
 - [Siri AI at WWDC 2026](https://simonwillison.net/2026/Jun/8/wwdc/#atom-everything) — *Simon Willison's Weblog* `06-08`
-- [ppclp.ai announces 100x Productivity Gains](https://idiallo.com/blog/100x-productivity-gain) — *Software and Tech stories from an Insider - iDiallo.com* `06-08`
 <!--BLOG_RADAR:end-->
 
 ---
