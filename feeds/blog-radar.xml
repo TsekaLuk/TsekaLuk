@@ -4,7 +4,49 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 10 Jun 2026 10:14:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 15:53:54 +0000</lastBuildDate>
+    <item>
+      <title>Being “Good” at Things</title>
+      <link>https://blog.jim-nielsen.com/2026/good-at-things/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/good-at-things/</guid>
+      <pubDate>Wed, 10 Jun 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
+    </item>
+    <item>
+      <title>Quoting Jeremy Howard</title>
+      <link>https://simonwillison.net/2026/Jun/10/jeremy-howard/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/10/jeremy-howard/#atom-everything</guid>
+      <pubDate>Wed, 10 Jun 2026 15:23:34 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Who Runs the Ransomware Group ‘The Gentlemen?’</title>
+      <link>https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/</link>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/</guid>
+      <pubDate>Wed, 10 Jun 2026 14:03:44 +0000</pubDate>
+      <description>Krebs on Security</description>
+    </item>
+    <item>
+      <title>Pulling on a thread</title>
+      <link>https://www.johndcook.com/blog/2026/06/10/pulling-on-a-thread/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/10/pulling-on-a-thread/</guid>
+      <pubDate>Wed, 10 Jun 2026 13:34:31 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Nontrailing separators do not spark joy</title>
+      <link>https://buttondown.com/hillelwayne/archive/nontrailing-separators-do-not-spark-joy/</link>
+      <guid isPermaLink="true">https://buttondown.com/hillelwayne/archive/nontrailing-separators-do-not-spark-joy/</guid>
+      <pubDate>Wed, 10 Jun 2026 12:22:04 +0000</pubDate>
+      <description>Computer Things</description>
+    </item>
+    <item>
+      <title>Book Review: The Husbands by Holly Gramazio ★★★★★</title>
+      <link>https://shkspr.mobi/blog/2026/06/book-review-the-husbands-by-holly-gramazio/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/book-review-the-husbands-by-holly-gramazio/</guid>
+      <pubDate>Wed, 10 Jun 2026 11:34:55 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
     <item>
       <title>Weekly Update 507</title>
       <link>https://www.troyhunt.com/weekly-update-507/</link>
@@ -25,6 +67,13 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/#atom-everything</guid>
       <pubDate>Wed, 10 Jun 2026 00:37:25 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Gaslighting Openness</title>
+      <link>https://lucumr.pocoo.org/2026/6/10/gaslighting/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/6/10/gaslighting/</guid>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
       <title>Initial impressions of Claude Fable 5</title>
@@ -552,18 +601,18 @@
       <description>The Old New Thing</description>
     </item>
     <item>
-      <title>I tested every IP KVM in my Homelab</title>
-      <link>https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/</guid>
-      <pubDate>Fri, 05 Jun 2026 14:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
       <title>Rotation revisited: Avoiding having to calculate the gcd when doing cycle decomposition</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260605-00/?p=112389</link>
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260605-00/?p=112389</guid>
       <pubDate>Fri, 05 Jun 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>I tested every IP KVM in my Homelab</title>
+      <link>https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/</guid>
+      <pubDate>Fri, 05 Jun 2026 14:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
     </item>
     <item>
       <title>Mr. Bessel’s eponymous functions</title>
@@ -795,55 +844,6 @@
       <guid isPermaLink="true">https://www.instagram.com/p/DZHlWAoG3_3/?img_index=1</guid>
       <pubDate>Wed, 03 Jun 2026 23:19:28 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The ‘60 Minutes’ Purge</title>
-      <link>https://www.paramountpressexpress.com/cbs-news-and-stations/shows/60-minutes/talent/</link>
-      <guid isPermaLink="true">https://www.paramountpressexpress.com/cbs-news-and-stations/shows/60-minutes/talent/</guid>
-      <pubDate>Wed, 03 Jun 2026 21:32:52 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Now that your newsletter is AI-generated, I've Unsubscribed</title>
-      <link>https://idiallo.com/blog/unsubscribed-from-ai-generated-newsletters</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/unsubscribed-from-ai-generated-newsletters</guid>
-      <pubDate>Wed, 03 Jun 2026 21:10:00 +0000</pubDate>
-      <description>Software and Tech stories from an Insider - iDiallo.com</description>
-    </item>
-    <item>
-      <title>My GNU Emacs completion setup (as of June 2026)</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsCompletion-2026-06</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsCompletion-2026-06</guid>
-      <pubDate>Wed, 03 Jun 2026 21:09:07 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>CBS News Fires Scott Pelley of ‘60 Minutes’</title>
-      <link>https://www.nytimes.com/2026/06/02/business/media/scott-pelley-cbs-bari-weiss.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/02/business/media/scott-pelley-cbs-bari-weiss.html</guid>
-      <pubDate>Wed, 03 Jun 2026 19:49:56 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The Underworld Market to Remove the Recording Indicator Light on Meta Glasses</title>
-      <link>https://www.youtube.com/watch?v=EaJSPeJmqis</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=EaJSPeJmqis</guid>
-      <pubDate>Wed, 03 Jun 2026 19:39:13 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Naively summing an alternating series</title>
-      <link>https://www.johndcook.com/blog/2026/06/03/naive-sum/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/03/naive-sum/</guid>
-      <pubDate>Wed, 03 Jun 2026 15:13:24 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Skills Registry Threat Models</title>
-      <link>https://nesbitt.io/2026/06/03/skills-registry-threat-models.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/06/03/skills-registry-threat-models.html</guid>
-      <pubDate>Wed, 03 Jun 2026 15:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
     </item>
   </channel>
 </rss>
