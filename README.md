@@ -208,11 +208,11 @@ Last Updated: Wednesday, June 10th, 2026, 10:51:35 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Quoting Andrej Karpathy](https://simonwillison.net/2026/Jun/9/andrej-karpathy/#atom-everything) — *Simon Willison's Weblog* `06-09`
-- [The Talk Show Live From WWDC: Tonight, In-Person and Streaming](https://ti.to/daringfireball/the-talk-show-live-from-wwdc-2026) — *Daring Fireball* `06-09`
-- [Apple WWDC 2026 Keynote](https://www.youtube.com/watch?v=hF8swzNR1-o) — *Daring Fireball* `06-09`
-- [Apple’s WWDC AI Demos Were Real and in Real Time](https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/) — *Daring Fireball* `06-09`
-- [Apple Introduces Siri AI](https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/) — *Daring Fireball* `06-09`
+- [Making extensions work on file: URLs in Firefox 153](https://utcc.utoronto.ca/~cks/space/blog/web/Firefox153AddonsOnFileUrls) — *Chris's Wiki :: blog* `06-10`
+- [If Claude Fable stops helping you, you'll never know](https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/#atom-everything) — *Simon Willison's Weblog* `06-10`
+- [Initial impressions of Claude Fable 5](https://simonwillison.net/2026/Jun/9/claude-fable-5/#atom-everything) — *Simon Willison's Weblog* `06-09`
+- [llm 0.32a3](https://simonwillison.net/2026/Jun/9/llm/#atom-everything) — *Simon Willison's Weblog* `06-09`
+- [A Record-Breaking Patch Tuesday for June 2026](https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/) — *Krebs on Security* `06-09`
 <!--BLOG_RADAR:end-->
 
 ---
