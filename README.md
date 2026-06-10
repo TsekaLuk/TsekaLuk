@@ -208,11 +208,11 @@ Last Updated: Thursday, June 11th, 2026, 4:21:49 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Please, use a link!](https://idiallo.com/blog/use-a-link-please) — *Software and Tech stories from an Insider - iDiallo.com* `06-10`
+- [DiffusionGemma](https://simonwillison.net/2026/Jun/10/diffusiongemma/#atom-everything) — *Simon Willison's Weblog* `06-10`
 - [Being “Good” at Things](https://blog.jim-nielsen.com/2026/good-at-things/) — *Jim Nielsen’s Blog* `06-10`
 - [Quoting Jeremy Howard](https://simonwillison.net/2026/Jun/10/jeremy-howard/#atom-everything) — *Simon Willison's Weblog* `06-10`
 - [Who Runs the Ransomware Group ‘The Gentlemen?’](https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/) — *Krebs on Security* `06-10`
-- [Pulling on a thread](https://www.johndcook.com/blog/2026/06/10/pulling-on-a-thread/) — *John D. Cook* `06-10`
-- [Nontrailing separators do not spark joy](https://buttondown.com/hillelwayne/archive/nontrailing-separators-do-not-spark-joy/) — *Computer Things* `06-10`
 <!--BLOG_RADAR:end-->
 
 ---

@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 10 Jun 2026 15:53:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 20:40:02 +0000</lastBuildDate>
+    <item>
+      <title>Please, use a link!</title>
+      <link>https://idiallo.com/blog/use-a-link-please</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/use-a-link-please</guid>
+      <pubDate>Wed, 10 Jun 2026 20:30:00 +0000</pubDate>
+      <description>Software and Tech stories from an Insider - iDiallo.com</description>
+    </item>
+    <item>
+      <title>DiffusionGemma</title>
+      <link>https://simonwillison.net/2026/Jun/10/diffusiongemma/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/10/diffusiongemma/#atom-everything</guid>
+      <pubDate>Wed, 10 Jun 2026 20:00:54 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Being “Good” at Things</title>
       <link>https://blog.jim-nielsen.com/2026/good-at-things/</link>
@@ -601,18 +615,18 @@
       <description>The Old New Thing</description>
     </item>
     <item>
-      <title>Rotation revisited: Avoiding having to calculate the gcd when doing cycle decomposition</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260605-00/?p=112389</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260605-00/?p=112389</guid>
-      <pubDate>Fri, 05 Jun 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
       <title>I tested every IP KVM in my Homelab</title>
       <link>https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/</link>
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/</guid>
       <pubDate>Fri, 05 Jun 2026 14:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>Rotation revisited: Avoiding having to calculate the gcd when doing cycle decomposition</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260605-00/?p=112389</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260605-00/?p=112389</guid>
+      <pubDate>Fri, 05 Jun 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Mr. Bessel’s eponymous functions</title>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://borretti.me/article/how-to-read-more</guid>
       <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
       <description>Fernando Borretti</description>
-    </item>
-    <item>
-      <title>Is datacentre sovereignty really that important?</title>
-      <link>https://martinalderson.com/posts/is-datacentre-sovereignty-really-that-important/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
-      <guid isPermaLink="true">https://martinalderson.com/posts/is-datacentre-sovereignty-really-that-important/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Martin Alderson</description>
-    </item>
-    <item>
-      <title>Scott Pelley on Leaving ‘60 Minutes’: ‘Incompetence and Unprofessionalism in the New Management Have Wreaked Havoc’</title>
-      <link>https://www.instagram.com/p/DZHlWAoG3_3/?img_index=1</link>
-      <guid isPermaLink="true">https://www.instagram.com/p/DZHlWAoG3_3/?img_index=1</guid>
-      <pubDate>Wed, 03 Jun 2026 23:19:28 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
