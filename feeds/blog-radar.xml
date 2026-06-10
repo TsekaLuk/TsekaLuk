@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 10 Jun 2026 04:21:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 10:14:28 +0000</lastBuildDate>
+    <item>
+      <title>Weekly Update 507</title>
+      <link>https://www.troyhunt.com/weekly-update-507/</link>
+      <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-507/</guid>
+      <pubDate>Wed, 10 Jun 2026 05:31:56 +0000</pubDate>
+      <description>Troy Hunt</description>
+    </item>
     <item>
       <title>Making extensions work on file: URLs in Firefox 153</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/web/Firefox153AddonsOnFileUrls</link>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/06/03/skills-registry-threat-models.html</guid>
       <pubDate>Wed, 03 Jun 2026 15:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Rotation revisited: A shocking discovery about gcc’s unidirectional rotation algorithm</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260603-00/?p=112378</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260603-00/?p=112378</guid>
-      <pubDate>Wed, 03 Jun 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
     </item>
   </channel>
 </rss>

@@ -208,11 +208,11 @@ Last Updated: Wednesday, June 10th, 2026, 5:47:24 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Weekly Update 507](https://www.troyhunt.com/weekly-update-507/) — *Troy Hunt* `06-10`
 - [Making extensions work on file: URLs in Firefox 153](https://utcc.utoronto.ca/~cks/space/blog/web/Firefox153AddonsOnFileUrls) — *Chris's Wiki :: blog* `06-10`
 - [If Claude Fable stops helping you, you'll never know](https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/#atom-everything) — *Simon Willison's Weblog* `06-10`
 - [Initial impressions of Claude Fable 5](https://simonwillison.net/2026/Jun/9/claude-fable-5/#atom-everything) — *Simon Willison's Weblog* `06-09`
 - [llm 0.32a3](https://simonwillison.net/2026/Jun/9/llm/#atom-everything) — *Simon Willison's Weblog* `06-09`
-- [A Record-Breaking Patch Tuesday for June 2026](https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/) — *Krebs on Security* `06-09`
 <!--BLOG_RADAR:end-->
 
 ---
