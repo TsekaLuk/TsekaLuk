@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 11 Jun 2026 16:14:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 20:29:13 +0000</lastBuildDate>
+    <item>
+      <title>datasette 1.0a33</title>
+      <link>https://simonwillison.net/2026/Jun/11/datasette/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/11/datasette/#atom-everything</guid>
+      <pubDate>Thu, 11 Jun 2026 15:26:49 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Pluralistic: The world has moved on (11 Jun 2026)</title>
       <link>https://pluralistic.net/2026/06/11/lapsarianism/</link>
@@ -32,6 +39,20 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/06/11/what-happened-to-tea.html</guid>
       <pubDate>Thu, 11 Jun 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>asyncinject 0.7</title>
+      <link>https://simonwillison.net/2026/Jun/11/asyncinject/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/11/asyncinject/#atom-everything</guid>
+      <pubDate>Thu, 11 Jun 2026 06:28:09 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>My Portable Heater</title>
+      <link>https://feed.tedium.co/link/15204/17359582/gigabyte-aorus-5060-ti-ai-box-egpu-review</link>
+      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17359582/gigabyte-aorus-5060-ti-ai-box-egpu-review</guid>
+      <pubDate>Thu, 11 Jun 2026 03:52:47 +0000</pubDate>
+      <description>Tedium: The Dull Side of the Internet.</description>
     </item>
     <item>
       <title>Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude</title>
@@ -130,13 +151,6 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/10/pulling-on-a-thread/</guid>
       <pubDate>Wed, 10 Jun 2026 13:34:31 +0000</pubDate>
       <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Nontrailing separators do not spark joy</title>
-      <link>https://buttondown.com/hillelwayne/archive/nontrailing-separators-do-not-spark-joy/</link>
-      <guid isPermaLink="true">https://buttondown.com/hillelwayne/archive/nontrailing-separators-do-not-spark-joy/</guid>
-      <pubDate>Wed, 10 Jun 2026 12:22:04 +0000</pubDate>
-      <description>Computer Things</description>
     </item>
     <item>
       <title>Book Review: The Husbands by Holly Gramazio ★★★★★</title>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/04/integrating-smooth-periodic-functions/</guid>
       <pubDate>Thu, 04 Jun 2026 17:18:40 +0000</pubDate>
       <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Quoting Emanuel Maiberg, 404 Media</title>
-      <link>https://simonwillison.net/2026/Jun/4/a-slightly-different-version/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/4/a-slightly-different-version/#atom-everything</guid>
-      <pubDate>Thu, 04 Jun 2026 16:38:29 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Alex Imas and Phil Trammell – What remains scarce after AGI?</title>
-      <link>https://www.dwarkesh.com/p/alex-imas-phil-trammell</link>
-      <guid isPermaLink="true">https://www.dwarkesh.com/p/alex-imas-phil-trammell</guid>
-      <pubDate>Thu, 04 Jun 2026 16:14:49 +0000</pubDate>
-      <description>Dwarkesh Podcast</description>
     </item>
   </channel>
 </rss>

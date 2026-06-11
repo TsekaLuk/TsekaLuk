@@ -208,11 +208,11 @@ Last Updated: Friday, June 12th, 2026, 4:13:15 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [datasette 1.0a33](https://simonwillison.net/2026/Jun/11/datasette/#atom-everything) — *Simon Willison's Weblog* `06-11`
 - [Pluralistic: The world has moved on (11 Jun 2026)](https://pluralistic.net/2026/06/11/lapsarianism/) — *Pluralistic: Daily links from Cory Doctorow* `06-11`
 - [Solving a chess puzzle with Claude and Prolog](https://www.johndcook.com/blog/2026/06/11/prolog-claude/) — *John D. Cook* `06-11`
 - [Biological Evolution and Information Acquisition](https://www.construction-physics.com/p/biological-evolution-and-information) — *Construction Physics* `06-11`
 - [What Happened to tea.xyz](https://nesbitt.io/2026/06/11/what-happened-to-tea.html) — *Andrew Nesbitt* `06-11`
-- [Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude](https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything) — *Simon Willison's Weblog* `06-11`
 <!--BLOG_RADAR:end-->
 
 ---
