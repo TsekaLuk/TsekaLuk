@@ -4,7 +4,49 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 10 Jun 2026 20:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 04:43:38 +0000</lastBuildDate>
+    <item>
+      <title>Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude</title>
+      <link>https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything</guid>
+      <pubDate>Thu, 11 Jun 2026 03:45:49 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Craig Federighi Details Apple’s Collaboration With Google for Siri AI — Live, on Stage</title>
+      <link>https://9to5mac.com/2026/06/08/craig-federighi-details-apples-collaboration-with-google-for-siri-ai-in-ios-27/</link>
+      <guid isPermaLink="true">https://9to5mac.com/2026/06/08/craig-federighi-details-apples-collaboration-with-google-for-siri-ai-in-ios-27/</guid>
+      <pubDate>Thu, 11 Jun 2026 00:48:52 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>★ Sweet Jeebus, MacOS 27 Golden Gate Removes the Dumb Icons From Menu Items</title>
+      <link>https://daringfireball.net/2026/06/macos_27_golden_gate_removes_the_dumb_icons_from_menu_items</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/06/macos_27_golden_gate_removes_the_dumb_icons_from_menu_items</guid>
+      <pubDate>Thu, 11 Jun 2026 00:09:01 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>datasette-agent 0.2a0</title>
+      <link>https://simonwillison.net/2026/Jun/10/datasette-agent/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/10/datasette-agent/#atom-everything</guid>
+      <pubDate>Wed, 10 Jun 2026 23:57:27 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Formally proving a calculation with Claude and Lean</title>
+      <link>https://www.johndcook.com/blog/2026/06/10/claude-and-lean/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/10/claude-and-lean/</guid>
+      <pubDate>Wed, 10 Jun 2026 23:11:01 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>My Firefox addons as of Firefox 151 (and the current development version)</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/web/Firefox151Addons</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/web/Firefox151Addons</guid>
+      <pubDate>Wed, 10 Jun 2026 22:04:25 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
     <item>
       <title>Please, use a link!</title>
       <link>https://idiallo.com/blog/use-a-link-please</link>
@@ -53,13 +95,6 @@
       <guid isPermaLink="true">https://buttondown.com/hillelwayne/archive/nontrailing-separators-do-not-spark-joy/</guid>
       <pubDate>Wed, 10 Jun 2026 12:22:04 +0000</pubDate>
       <description>Computer Things</description>
-    </item>
-    <item>
-      <title>Book Review: The Husbands by Holly Gramazio ★★★★★</title>
-      <link>https://shkspr.mobi/blog/2026/06/book-review-the-husbands-by-holly-gramazio/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/book-review-the-husbands-by-holly-gramazio/</guid>
-      <pubDate>Wed, 10 Jun 2026 11:34:55 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Weekly Update 507</title>
@@ -300,13 +335,6 @@
       <description>Steve Blank</description>
     </item>
     <item>
-      <title>How many consecutive hyphens can you have in a domain name?</title>
-      <link>https://shkspr.mobi/blog/2026/06/how-many-consecutive-hyphens-can-you-have-in-a-domain-name/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/how-many-consecutive-hyphens-can-you-have-in-a-domain-name/</guid>
-      <pubDate>Mon, 08 Jun 2026 11:34:59 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>De gietijzeren pan en big tech</title>
       <link>https://berthub.eu/articles/posts/de-gietijzeren-pan-en-big-tech/</link>
       <guid isPermaLink="true">https://berthub.eu/articles/posts/de-gietijzeren-pan-en-big-tech/</guid>
@@ -501,13 +529,6 @@
       <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-060626</guid>
       <pubDate>Sat, 06 Jun 2026 12:02:44 +0000</pubDate>
       <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>There's still no point in gigabit broadband</title>
-      <link>https://shkspr.mobi/blog/2026/06/theres-still-no-point-in-gigabit-broadband/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/theres-still-no-point-in-gigabit-broadband/</guid>
-      <pubDate>Sat, 06 Jun 2026 11:34:57 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>This Week in Package Management: 6 June 2026</title>
@@ -790,13 +811,6 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Book Review: Accessible Communications by Lisa Riemers and Matisse Hamel-Nelis ★★★★★</title>
-      <link>https://shkspr.mobi/blog/2026/06/book-review-accessible-communications-by-lisa-riemers-and-matisse-hamel-nelis/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/book-review-accessible-communications-by-lisa-riemers-and-matisse-hamel-nelis/</guid>
-      <pubDate>Thu, 04 Jun 2026 11:34:53 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>gittuf - a signed log for git refs</title>
       <link>https://nesbitt.io/2026/06/04/gittuf-a-signed-log-for-git-refs.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/06/04/gittuf-a-signed-log-for-git-refs.html</guid>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://seangoedecke.com/anti-ai-nostalgia/</guid>
       <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>CSS: Unavoidable Bad Parts</title>
-      <link>https://matklad.github.io/2026/06/04/css-unavoidable-bad-parts.html</link>
-      <guid isPermaLink="true">https://matklad.github.io/2026/06/04/css-unavoidable-bad-parts.html</guid>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <description>matklad</description>
-    </item>
-    <item>
-      <title>How To Read More</title>
-      <link>https://borretti.me/article/how-to-read-more</link>
-      <guid isPermaLink="true">https://borretti.me/article/how-to-read-more</guid>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Fernando Borretti</description>
     </item>
   </channel>
 </rss>

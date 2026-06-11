@@ -208,11 +208,11 @@ Last Updated: Thursday, June 11th, 2026, 11:24:12 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Please, use a link!](https://idiallo.com/blog/use-a-link-please) — *Software and Tech stories from an Insider - iDiallo.com* `06-10`
-- [DiffusionGemma](https://simonwillison.net/2026/Jun/10/diffusiongemma/#atom-everything) — *Simon Willison's Weblog* `06-10`
-- [Being “Good” at Things](https://blog.jim-nielsen.com/2026/good-at-things/) — *Jim Nielsen’s Blog* `06-10`
-- [Quoting Jeremy Howard](https://simonwillison.net/2026/Jun/10/jeremy-howard/#atom-everything) — *Simon Willison's Weblog* `06-10`
-- [Who Runs the Ransomware Group ‘The Gentlemen?’](https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/) — *Krebs on Security* `06-10`
+- [Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude](https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything) — *Simon Willison's Weblog* `06-11`
+- [Craig Federighi Details Apple’s Collaboration With Google for Siri AI — Live, on Stage](https://9to5mac.com/2026/06/08/craig-federighi-details-apples-collaboration-with-google-for-siri-ai-in-ios-27/) — *Daring Fireball* `06-11`
+- [★ Sweet Jeebus, MacOS 27 Golden Gate Removes the Dumb Icons From Menu Items](https://daringfireball.net/2026/06/macos_27_golden_gate_removes_the_dumb_icons_from_menu_items) — *Daring Fireball* `06-11`
+- [datasette-agent 0.2a0](https://simonwillison.net/2026/Jun/10/datasette-agent/#atom-everything) — *Simon Willison's Weblog* `06-10`
+- [Formally proving a calculation with Claude and Lean](https://www.johndcook.com/blog/2026/06/10/claude-and-lean/) — *John D. Cook* `06-10`
 <!--BLOG_RADAR:end-->
 
 ---
