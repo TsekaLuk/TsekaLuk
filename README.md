@@ -208,11 +208,11 @@ Last Updated: Thursday, June 11th, 2026, 6:14:01 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [What Happened to tea.xyz](https://nesbitt.io/2026/06/11/what-happened-to-tea.html) — *Andrew Nesbitt* `06-11`
 - [Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude](https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything) — *Simon Willison's Weblog* `06-11`
 - [Craig Federighi Details Apple’s Collaboration With Google for Siri AI — Live, on Stage](https://9to5mac.com/2026/06/08/craig-federighi-details-apples-collaboration-with-google-for-siri-ai-in-ios-27/) — *Daring Fireball* `06-11`
 - [★ Sweet Jeebus, MacOS 27 Golden Gate Removes the Dumb Icons From Menu Items](https://daringfireball.net/2026/06/macos_27_golden_gate_removes_the_dumb_icons_from_menu_items) — *Daring Fireball* `06-11`
-- [datasette-agent 0.2a0](https://simonwillison.net/2026/Jun/10/datasette-agent/#atom-everything) — *Simon Willison's Weblog* `06-10`
-- [Formally proving a calculation with Claude and Lean](https://www.johndcook.com/blog/2026/06/10/claude-and-lean/) — *John D. Cook* `06-10`
+- [Hacking Google with A.I. for $500,000](https://brutecat.com/articles/hacking-google-with-ai) — *Brutecat · Research* `06-11`
 <!--BLOG_RADAR:end-->
 
 ---

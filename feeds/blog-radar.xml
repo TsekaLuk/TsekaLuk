@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 11 Jun 2026 04:43:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 10:49:47 +0000</lastBuildDate>
+    <item>
+      <title>What Happened to tea.xyz</title>
+      <link>https://nesbitt.io/2026/06/11/what-happened-to-tea.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/06/11/what-happened-to-tea.html</guid>
+      <pubDate>Thu, 11 Jun 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
     <item>
       <title>Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude</title>
       <link>https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything</link>
@@ -25,6 +32,13 @@
       <guid isPermaLink="true">https://daringfireball.net/2026/06/macos_27_golden_gate_removes_the_dumb_icons_from_menu_items</guid>
       <pubDate>Thu, 11 Jun 2026 00:09:01 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Hacking Google with A.I. for $500,000</title>
+      <link>https://brutecat.com/articles/hacking-google-with-ai</link>
+      <guid isPermaLink="true">https://brutecat.com/articles/hacking-google-with-ai</guid>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Brutecat · Research</description>
     </item>
     <item>
       <title>datasette-agent 0.2a0</title>
@@ -83,6 +97,13 @@
       <description>Krebs on Security</description>
     </item>
     <item>
+      <title>What’s the opposite of Clip­Cursor that lets me exclude the cursor from a region?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260610-00/?p=112412</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260610-00/?p=112412</guid>
+      <pubDate>Wed, 10 Jun 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
+    <item>
       <title>Pulling on a thread</title>
       <link>https://www.johndcook.com/blog/2026/06/10/pulling-on-a-thread/</link>
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/10/pulling-on-a-thread/</guid>
@@ -95,6 +116,13 @@
       <guid isPermaLink="true">https://buttondown.com/hillelwayne/archive/nontrailing-separators-do-not-spark-joy/</guid>
       <pubDate>Wed, 10 Jun 2026 12:22:04 +0000</pubDate>
       <description>Computer Things</description>
+    </item>
+    <item>
+      <title>Book Review: The Husbands by Holly Gramazio ★★★★★</title>
+      <link>https://shkspr.mobi/blog/2026/06/book-review-the-husbands-by-holly-gramazio/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/book-review-the-husbands-by-holly-gramazio/</guid>
+      <pubDate>Wed, 10 Jun 2026 11:34:55 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Weekly Update 507</title>
@@ -335,6 +363,13 @@
       <description>Steve Blank</description>
     </item>
     <item>
+      <title>How many consecutive hyphens can you have in a domain name?</title>
+      <link>https://shkspr.mobi/blog/2026/06/how-many-consecutive-hyphens-can-you-have-in-a-domain-name/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/how-many-consecutive-hyphens-can-you-have-in-a-domain-name/</guid>
+      <pubDate>Mon, 08 Jun 2026 11:34:59 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>De gietijzeren pan en big tech</title>
       <link>https://berthub.eu/articles/posts/de-gietijzeren-pan-en-big-tech/</link>
       <guid isPermaLink="true">https://berthub.eu/articles/posts/de-gietijzeren-pan-en-big-tech/</guid>
@@ -531,6 +566,13 @@
       <description>Construction Physics</description>
     </item>
     <item>
+      <title>There's still no point in gigabit broadband</title>
+      <link>https://shkspr.mobi/blog/2026/06/theres-still-no-point-in-gigabit-broadband/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/theres-still-no-point-in-gigabit-broadband/</guid>
+      <pubDate>Sat, 06 Jun 2026 11:34:57 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>This Week in Package Management: 6 June 2026</title>
       <link>https://nesbitt.io/2026/06/06/this-week-in-package-management.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/06/06/this-week-in-package-management.html</guid>
@@ -636,18 +678,18 @@
       <description>The Old New Thing</description>
     </item>
     <item>
-      <title>I tested every IP KVM in my Homelab</title>
-      <link>https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/</guid>
-      <pubDate>Fri, 05 Jun 2026 14:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
       <title>Rotation revisited: Avoiding having to calculate the gcd when doing cycle decomposition</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260605-00/?p=112389</link>
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260605-00/?p=112389</guid>
       <pubDate>Fri, 05 Jun 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>I tested every IP KVM in my Homelab</title>
+      <link>https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/</guid>
+      <pubDate>Fri, 05 Jun 2026 14:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
     </item>
     <item>
       <title>Mr. Bessel’s eponymous functions</title>
@@ -802,48 +844,6 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/04/partitions-over-permutations/</guid>
       <pubDate>Thu, 04 Jun 2026 13:48:56 +0000</pubDate>
       <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>The AI-Driven Resurgence of Native Mac App Development</title>
-      <link>https://sixcolors.com/post/2026/06/road-to-wwdc-2026-whats-a-developer/</link>
-      <guid isPermaLink="true">https://sixcolors.com/post/2026/06/road-to-wwdc-2026-whats-a-developer/</guid>
-      <pubDate>Thu, 04 Jun 2026 13:43:26 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>gittuf - a signed log for git refs</title>
-      <link>https://nesbitt.io/2026/06/04/gittuf-a-signed-log-for-git-refs.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/06/04/gittuf-a-signed-log-for-git-refs.html</guid>
-      <pubDate>Thu, 04 Jun 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Pluralistic: Delusion as a service (04 Jun 2026)</title>
-      <link>https://pluralistic.net/2026/06/03/mission-space/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/06/03/mission-space/</guid>
-      <pubDate>Thu, 04 Jun 2026 06:42:39 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Another Gem From the Annals of Nick Bilton Jackassery</title>
-      <link>https://daringfireball.net/linked/2015/03/20/bilton-pseudoscience</link>
-      <guid isPermaLink="true">https://daringfireball.net/linked/2015/03/20/bilton-pseudoscience</guid>
-      <pubDate>Thu, 04 Jun 2026 02:26:50 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>If There’s One Thing Nick Bilton Knows, It’s Television</title>
-      <link>https://daringfireball.net/linked/2011/10/27/bilton-itv</link>
-      <guid isPermaLink="true">https://daringfireball.net/linked/2011/10/27/bilton-itv</guid>
-      <pubDate>Thu, 04 Jun 2026 02:23:25 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Anti-AI nostalgia and the cult of the past</title>
-      <link>https://seangoedecke.com/anti-ai-nostalgia/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/anti-ai-nostalgia/</guid>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
     </item>
   </channel>
 </rss>
