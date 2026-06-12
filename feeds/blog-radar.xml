@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 11 Jun 2026 20:29:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 04:46:11 +0000</lastBuildDate>
+    <item>
+      <title>Why disk warranties are useful at work but not for me at home</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/tech/DiskWarrantyHomeVsWork</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/tech/DiskWarrantyHomeVsWork</guid>
+      <pubDate>Fri, 12 Jun 2026 01:39:52 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>Claude Fable is relentlessly proactive</title>
+      <link>https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything</guid>
+      <pubDate>Thu, 11 Jun 2026 23:35:17 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Apple: ‘Due to DMA, Siri AI Delayed in EU for iOS 27 and iPadOS 27’</title>
+      <link>https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27/</link>
+      <guid isPermaLink="true">https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27/</guid>
+      <pubDate>Thu, 11 Jun 2026 21:58:49 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Spielberg on Being Repeatedly Turned Down to Direct a James Bond Film</title>
+      <link>https://www.youtube.com/watch?v=iEho3brGB64</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=iEho3brGB64</guid>
+      <pubDate>Thu, 11 Jun 2026 20:38:09 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>datasette 1.0a33</title>
       <link>https://simonwillison.net/2026/Jun/11/datasette/#atom-everything</link>
@@ -39,6 +67,13 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/06/11/what-happened-to-tea.html</guid>
       <pubDate>Thu, 11 Jun 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>AI will be massively deflationary</title>
+      <link>https://geohot.github.io//blog/jekyll/update/2026/06/11/ai-will-be-deflationary.html</link>
+      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/06/11/ai-will-be-deflationary.html</guid>
+      <pubDate>Thu, 11 Jun 2026 07:00:00 +0000</pubDate>
+      <description>the singularity is nearer</description>
     </item>
     <item>
       <title>asyncinject 0.7</title>
@@ -151,6 +186,13 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/10/pulling-on-a-thread/</guid>
       <pubDate>Wed, 10 Jun 2026 13:34:31 +0000</pubDate>
       <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Nontrailing separators do not spark joy</title>
+      <link>https://buttondown.com/hillelwayne/archive/nontrailing-separators-do-not-spark-joy/</link>
+      <guid isPermaLink="true">https://buttondown.com/hillelwayne/archive/nontrailing-separators-do-not-spark-joy/</guid>
+      <pubDate>Wed, 10 Jun 2026 12:22:04 +0000</pubDate>
+      <description>Computer Things</description>
     </item>
     <item>
       <title>Book Review: The Husbands by Holly Gramazio ★★★★★</title>
@@ -802,48 +844,6 @@
       <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjdiRHFjMlJadmgiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzk0MjI0Mi9taWNyb3NvZnQtYnVpbGQtYWktYWdlbnRzLW9wZW5haS1jb21wZXRpdGlvbiIsImV4cCI6MTc4MTAzNjQ2OSwiaWF0IjoxNzgwNjA0NDY5fQ.jP0KO9OVCO-fGkk1Utt0NIEn97JWaI8zs0zhjf2V2MQ</guid>
       <pubDate>Thu, 04 Jun 2026 20:25:27 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The Latin of Linux</title>
-      <link>https://www.johndcook.com/blog/2026/06/04/the-latin-of-linux/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/04/the-latin-of-linux/</guid>
-      <pubDate>Thu, 04 Jun 2026 20:12:11 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>The Emacs packages that I use (as of June 2026)</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsPackages-2026-06</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsPackages-2026-06</guid>
-      <pubDate>Thu, 04 Jun 2026 19:09:05 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>Lingon and Lingon Pro 10</title>
-      <link>https://www.peterborgapps.com/lingon/</link>
-      <guid isPermaLink="true">https://www.peterborgapps.com/lingon/</guid>
-      <pubDate>Thu, 04 Jun 2026 18:43:47 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Remember When Chrome Went Bad on MacOS?</title>
-      <link>https://chromeisbad.com/</link>
-      <guid isPermaLink="true">https://chromeisbad.com/</guid>
-      <pubDate>Thu, 04 Jun 2026 18:10:19 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Google’s Gemini Mac App Is Native, in a Distinctly Google Way, But Annoyingly Presumptuous</title>
-      <link>https://gemini.google/mac/</link>
-      <guid isPermaLink="true">https://gemini.google/mac/</guid>
-      <pubDate>Thu, 04 Jun 2026 17:29:26 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Integrating smooth periodic functions</title>
-      <link>https://www.johndcook.com/blog/2026/06/04/integrating-smooth-periodic-functions/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/04/integrating-smooth-periodic-functions/</guid>
-      <pubDate>Thu, 04 Jun 2026 17:18:40 +0000</pubDate>
-      <description>John D. Cook</description>
     </item>
   </channel>
 </rss>

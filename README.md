@@ -208,11 +208,11 @@ Last Updated: Friday, June 12th, 2026, 10:58:15 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Why disk warranties are useful at work but not for me at home](https://utcc.utoronto.ca/~cks/space/blog/tech/DiskWarrantyHomeVsWork) — *Chris's Wiki :: blog* `06-12`
+- [Claude Fable is relentlessly proactive](https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything) — *Simon Willison's Weblog* `06-11`
+- [Apple: ‘Due to DMA, Siri AI Delayed in EU for iOS 27 and iPadOS 27’](https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27/) — *Daring Fireball* `06-11`
+- [Spielberg on Being Repeatedly Turned Down to Direct a James Bond Film](https://www.youtube.com/watch?v=iEho3brGB64) — *Daring Fireball* `06-11`
 - [datasette 1.0a33](https://simonwillison.net/2026/Jun/11/datasette/#atom-everything) — *Simon Willison's Weblog* `06-11`
-- [Pluralistic: The world has moved on (11 Jun 2026)](https://pluralistic.net/2026/06/11/lapsarianism/) — *Pluralistic: Daily links from Cory Doctorow* `06-11`
-- [Solving a chess puzzle with Claude and Prolog](https://www.johndcook.com/blog/2026/06/11/prolog-claude/) — *John D. Cook* `06-11`
-- [Biological Evolution and Information Acquisition](https://www.construction-physics.com/p/biological-evolution-and-information) — *Construction Physics* `06-11`
-- [What Happened to tea.xyz](https://nesbitt.io/2026/06/11/what-happened-to-tea.html) — *Andrew Nesbitt* `06-11`
 <!--BLOG_RADAR:end-->
 
 ---
