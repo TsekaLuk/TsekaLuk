@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 12 Jun 2026 10:24:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 15:30:55 +0000</lastBuildDate>
+    <item>
+      <title>You can finally power on a Mac remotely</title>
+      <link>https://www.jeffgeerling.com/blog/2026/power-on-your-mac-remotely/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/power-on-your-mac-remotely/</guid>
+      <pubDate>Fri, 12 Jun 2026 14:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>I can never fully embrace LLMs for code</title>
+      <link>https://idiallo.com/blog/i-can-never-embrace-llms-to-write-code</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/i-can-never-embrace-llms-to-write-code</guid>
+      <pubDate>Fri, 12 Jun 2026 12:00:00 +0000</pubDate>
+      <description>Software and Tech stories from an Insider - iDiallo.com</description>
+    </item>
+    <item>
+      <title>Gadget Review: TP Link EH210 Ethernet Splitter (USB-C) ★★★★★</title>
+      <link>https://shkspr.mobi/blog/2026/06/gadget-review-tp-link-eh210-ethernet-splitter-usb-c/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/gadget-review-tp-link-eh210-ethernet-splitter-usb-c/</guid>
+      <pubDate>Fri, 12 Jun 2026 11:34:18 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Joint Guidance on Vulnerability Naming and Disclosure</title>
+      <link>https://nesbitt.io/2026/06/12/joint-guidance-on-vulnerability-naming-and-disclosure.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/06/12/joint-guidance-on-vulnerability-naming-and-disclosure.html</guid>
+      <pubDate>Fri, 12 Jun 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
     <item>
       <title>I Am Not a Reverse Centaur</title>
       <link>https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur</link>
@@ -200,13 +228,6 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/10/pulling-on-a-thread/</guid>
       <pubDate>Wed, 10 Jun 2026 13:34:31 +0000</pubDate>
       <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Nontrailing separators do not spark joy</title>
-      <link>https://buttondown.com/hillelwayne/archive/nontrailing-separators-do-not-spark-joy/</link>
-      <guid isPermaLink="true">https://buttondown.com/hillelwayne/archive/nontrailing-separators-do-not-spark-joy/</guid>
-      <pubDate>Wed, 10 Jun 2026 12:22:04 +0000</pubDate>
-      <description>Computer Things</description>
     </item>
     <item>
       <title>Book Review: The Husbands by Holly Gramazio ★★★★★</title>
@@ -769,18 +790,18 @@
       <description>The Old New Thing</description>
     </item>
     <item>
-      <title>I tested every IP KVM in my Homelab</title>
-      <link>https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/</guid>
-      <pubDate>Fri, 05 Jun 2026 14:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
       <title>Rotation revisited: Avoiding having to calculate the gcd when doing cycle decomposition</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260605-00/?p=112389</link>
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260605-00/?p=112389</guid>
       <pubDate>Fri, 05 Jun 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>I tested every IP KVM in my Homelab</title>
+      <link>https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/</guid>
+      <pubDate>Fri, 05 Jun 2026 14:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
     </item>
     <item>
       <title>Mr. Bessel’s eponymous functions</title>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://hotair.com/ed-morrissey/2026/06/03/cbs-fires-scott-pelley-after-trying-very-hard-to-get-fired-n3815553</guid>
       <pubDate>Fri, 05 Jun 2026 00:43:33 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>IPv6 zones in URLs are a mistake</title>
-      <link>https://xeiaso.net/notes/2026/ipv6-zones-go-url/</link>
-      <guid isPermaLink="true">https://xeiaso.net/notes/2026/ipv6-zones-go-url/</guid>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
-      <title>AI enthusiasts are in a race against time, AI skeptics are in a race against entropy</title>
-      <link>https://simonwillison.net/2026/Jun/4/ai-enthusiasts-ai-skeptics/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/4/ai-enthusiasts-ai-skeptics/#atom-everything</guid>
-      <pubDate>Thu, 04 Jun 2026 23:55:27 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Using Safetensors with Flax</title>
-      <link>https://www.gilesthomas.com/2026/06/flax-and-safetensors</link>
-      <guid isPermaLink="true">https://www.gilesthomas.com/2026/06/flax-and-safetensors</guid>
-      <pubDate>Thu, 04 Jun 2026 23:30:00 +0000</pubDate>
-      <description>Giles' blog</description>
     </item>
   </channel>
 </rss>

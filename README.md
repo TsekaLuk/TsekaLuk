@@ -208,11 +208,11 @@ Last Updated: Friday, June 12th, 2026, 10:45:58 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [You can finally power on a Mac remotely](https://www.jeffgeerling.com/blog/2026/power-on-your-mac-remotely/) — *Jeff Geerling* `06-12`
+- [I can never fully embrace LLMs for code](https://idiallo.com/blog/i-can-never-embrace-llms-to-write-code) — *Software and Tech stories from an Insider - iDiallo.com* `06-12`
+- [Gadget Review: TP Link EH210 Ethernet Splitter (USB-C) ★★★★★](https://shkspr.mobi/blog/2026/06/gadget-review-tp-link-eh210-ethernet-splitter-usb-c/) — *Terence Eden’s Blog* `06-12`
+- [Joint Guidance on Vulnerability Naming and Disclosure](https://nesbitt.io/2026/06/12/joint-guidance-on-vulnerability-naming-and-disclosure.html) — *Andrew Nesbitt* `06-12`
 - [I Am Not a Reverse Centaur](https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur) — *Miguel Grinberg's Blog* `06-12`
-- [Why disk warranties are useful at work but not for me at home](https://utcc.utoronto.ca/~cks/space/blog/tech/DiskWarrantyHomeVsWork) — *Chris's Wiki :: blog* `06-12`
-- [Claude Fable is relentlessly proactive](https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything) — *Simon Willison's Weblog* `06-11`
-- [Apple: ‘Due to DMA, Siri AI Delayed in EU for iOS 27 and iPadOS 27’](https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27/) — *Daring Fireball* `06-11`
-- [Spielberg on Being Repeatedly Turned Down to Direct a James Bond Film](https://www.youtube.com/watch?v=iEho3brGB64) — *Daring Fireball* `06-11`
 <!--BLOG_RADAR:end-->
 
 ---
