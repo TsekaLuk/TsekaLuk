@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 12 Jun 2026 04:46:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 10:24:33 +0000</lastBuildDate>
+    <item>
+      <title>I Am Not a Reverse Centaur</title>
+      <link>https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur</link>
+      <guid isPermaLink="true">https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur</guid>
+      <pubDate>Fri, 12 Jun 2026 09:20:39 +0000</pubDate>
+      <description>Miguel Grinberg's Blog</description>
+    </item>
     <item>
       <title>Why disk warranties are useful at work but not for me at home</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/tech/DiskWarrantyHomeVsWork</link>
@@ -46,6 +53,13 @@
       <guid isPermaLink="true">https://pluralistic.net/2026/06/11/lapsarianism/</guid>
       <pubDate>Thu, 11 Jun 2026 14:43:06 +0000</pubDate>
       <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Understanding the rationale behind a rule when trying to circumvent it</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260611-00/?p=112415</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260611-00/?p=112415</guid>
+      <pubDate>Thu, 11 Jun 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Solving a chess puzzle with Claude and Prolog</title>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://www.gilesthomas.com/2026/06/flax-and-safetensors</guid>
       <pubDate>Thu, 04 Jun 2026 23:30:00 +0000</pubDate>
       <description>Giles' blog</description>
-    </item>
-    <item>
-      <title>‘The Insider’</title>
-      <link>https://letterboxd.com/film/the-insider/</link>
-      <guid isPermaLink="true">https://letterboxd.com/film/the-insider/</guid>
-      <pubDate>Thu, 04 Jun 2026 20:42:35 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>‘Microsoft and OpenAI Broke Up — Now They’re Ready to Fight’</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjdiRHFjMlJadmgiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzk0MjI0Mi9taWNyb3NvZnQtYnVpbGQtYWktYWdlbnRzLW9wZW5haS1jb21wZXRpdGlvbiIsImV4cCI6MTc4MTAzNjQ2OSwiaWF0IjoxNzgwNjA0NDY5fQ.jP0KO9OVCO-fGkk1Utt0NIEn97JWaI8zs0zhjf2V2MQ</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjdiRHFjMlJadmgiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzk0MjI0Mi9taWNyb3NvZnQtYnVpbGQtYWktYWdlbnRzLW9wZW5haS1jb21wZXRpdGlvbiIsImV4cCI6MTc4MTAzNjQ2OSwiaWF0IjoxNzgwNjA0NDY5fQ.jP0KO9OVCO-fGkk1Utt0NIEn97JWaI8zs0zhjf2V2MQ</guid>
-      <pubDate>Thu, 04 Jun 2026 20:25:27 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>

@@ -208,11 +208,11 @@ Last Updated: Friday, June 12th, 2026, 6:01:30 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [I Am Not a Reverse Centaur](https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur) — *Miguel Grinberg's Blog* `06-12`
 - [Why disk warranties are useful at work but not for me at home](https://utcc.utoronto.ca/~cks/space/blog/tech/DiskWarrantyHomeVsWork) — *Chris's Wiki :: blog* `06-12`
 - [Claude Fable is relentlessly proactive](https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything) — *Simon Willison's Weblog* `06-11`
 - [Apple: ‘Due to DMA, Siri AI Delayed in EU for iOS 27 and iPadOS 27’](https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27/) — *Daring Fireball* `06-11`
 - [Spielberg on Being Repeatedly Turned Down to Direct a James Bond Film](https://www.youtube.com/watch?v=iEho3brGB64) — *Daring Fireball* `06-11`
-- [datasette 1.0a33](https://simonwillison.net/2026/Jun/11/datasette/#atom-everything) — *Simon Willison's Weblog* `06-11`
 <!--BLOG_RADAR:end-->
 
 ---
