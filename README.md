@@ -208,11 +208,11 @@ Last Updated: Saturday, June 13th, 2026, 4:02:16 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [You can finally power on a Mac remotely](https://www.jeffgeerling.com/blog/2026/power-on-your-mac-remotely/) — *Jeff Geerling* `06-12`
-- [I can never fully embrace LLMs for code](https://idiallo.com/blog/i-can-never-embrace-llms-to-write-code) — *Software and Tech stories from an Insider - iDiallo.com* `06-12`
-- [Gadget Review: TP Link EH210 Ethernet Splitter (USB-C) ★★★★★](https://shkspr.mobi/blog/2026/06/gadget-review-tp-link-eh210-ethernet-splitter-usb-c/) — *Terence Eden’s Blog* `06-12`
-- [Joint Guidance on Vulnerability Naming and Disclosure](https://nesbitt.io/2026/06/12/joint-guidance-on-vulnerability-naming-and-disclosure.html) — *Andrew Nesbitt* `06-12`
-- [I Am Not a Reverse Centaur](https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur) — *Miguel Grinberg's Blog* `06-12`
+- [Quoting Andrew Singleton](https://simonwillison.net/2026/Jun/12/andrew-singleton/#atom-everything) — *Simon Willison's Weblog* `06-12`
+- [The WWDC 2026 Keynote and State of the Union on YouTube](https://www.youtube.com/watch?v=hF8swzNR1-o) — *Daring Fireball* `06-12`
+- [Premium: The Silicon Valley Bubble (Part 1)](https://www.wheresyoured.at/premium-the-silicon-valley-bubble-part-1/) — *Ed Zitron's Where's Your Ed At* `06-12`
+- [The European Commission Response to Siri AI and the DMA](https://www.linkedin.com/posts/thomas-regnier-24a05810b_what-is-the-true-story-behind-apples-decision-activity-7470439874664280064-TuEt) — *Daring Fireball* `06-12`
+- [This Week on The Analog Antiquarian](https://www.filfre.net/2026/06/this-week-on-the-analog-antiquarian/) — *The Digital Antiquarian* `06-12`
 <!--BLOG_RADAR:end-->
 
 ---
