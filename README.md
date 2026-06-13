@@ -208,11 +208,11 @@ Last Updated: Saturday, June 13th, 2026, 10:50:59 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Quoting Andrew Singleton](https://simonwillison.net/2026/Jun/12/andrew-singleton/#atom-everything) — *Simon Willison's Weblog* `06-12`
-- [The WWDC 2026 Keynote and State of the Union on YouTube](https://www.youtube.com/watch?v=hF8swzNR1-o) — *Daring Fireball* `06-12`
-- [Premium: The Silicon Valley Bubble (Part 1)](https://www.wheresyoured.at/premium-the-silicon-valley-bubble-part-1/) — *Ed Zitron's Where's Your Ed At* `06-12`
-- [The European Commission Response to Siri AI and the DMA](https://www.linkedin.com/posts/thomas-regnier-24a05810b_what-is-the-true-story-behind-apples-decision-activity-7470439874664280064-TuEt) — *Daring Fireball* `06-12`
-- [This Week on The Analog Antiquarian](https://www.filfre.net/2026/06/this-week-on-the-analog-antiquarian/) — *The Digital Antiquarian* `06-12`
+- [Statement on the US government directive to suspend access to Fable 5 and Mythos 5](https://simonwillison.net/2026/Jun/13/us-government-directive-to-suspend-access/#atom-everything) — *Simon Willison's Weblog* `06-13`
+- [Running a modern email system requires non-trivial staff time](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MailSystemsPeopleCost) — *Chris's Wiki :: blog* `06-13`
+- [OpenAI WebRTC Audio Session, now with document context](https://simonwillison.net/2026/Jun/12/openai-webrtc/#atom-everything) — *Simon Willison's Weblog* `06-12`
+- [★ The Talk Show: Live From WWDC 2026](https://daringfireball.net/2026/06/the_talk_show_live_from_wwdc_2026) — *Daring Fireball* `06-12`
+- [Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026)](https://pluralistic.net/2026/06/12/compelled-speech/) — *Pluralistic: Daily links from Cory Doctorow* `06-12`
 <!--BLOG_RADAR:end-->
 
 ---
