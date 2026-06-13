@@ -208,11 +208,11 @@ Last Updated: Saturday, June 13th, 2026, 9:47:32 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Reading List 06/13/2026](https://www.construction-physics.com/p/reading-list-06132026) — *Construction Physics* `06-13`
+- [This Week in Package Management: 13 June 2026](https://nesbitt.io/2026/06/13/this-week-in-package-management.html) — *Andrew Nesbitt* `06-13`
 - [Statement on the US government directive to suspend access to Fable 5 and Mythos 5](https://simonwillison.net/2026/Jun/13/us-government-directive-to-suspend-access/#atom-everything) — *Simon Willison's Weblog* `06-13`
 - [Running a modern email system requires non-trivial staff time](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MailSystemsPeopleCost) — *Chris's Wiki :: blog* `06-13`
-- [OpenAI WebRTC Audio Session, now with document context](https://simonwillison.net/2026/Jun/12/openai-webrtc/#atom-everything) — *Simon Willison's Weblog* `06-12`
-- [★ The Talk Show: Live From WWDC 2026](https://daringfireball.net/2026/06/the_talk_show_live_from_wwdc_2026) — *Daring Fireball* `06-12`
-- [Pluralistic: Google's new remote attestation scheme is every bit as terrible as its old remote attestation scheme (12 Jun 2026)](https://pluralistic.net/2026/06/12/compelled-speech/) — *Pluralistic: Daily links from Cory Doctorow* `06-12`
+- [Dangerous Technology For Americans Only](https://lucumr.pocoo.org/2026/6/13/americans-only/) — *Armin Ronacher's Thoughts and Writings* `06-13`
 <!--BLOG_RADAR:end-->
 
 ---

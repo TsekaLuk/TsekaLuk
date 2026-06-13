@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 13 Jun 2026 09:26:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 14:15:21 +0000</lastBuildDate>
+    <item>
+      <title>Reading List 06/13/2026</title>
+      <link>https://www.construction-physics.com/p/reading-list-06132026</link>
+      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-06132026</guid>
+      <pubDate>Sat, 13 Jun 2026 12:01:19 +0000</pubDate>
+      <description>Construction Physics</description>
+    </item>
+    <item>
+      <title>This Week in Package Management: 13 June 2026</title>
+      <link>https://nesbitt.io/2026/06/13/this-week-in-package-management.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/06/13/this-week-in-package-management.html</guid>
+      <pubDate>Sat, 13 Jun 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
     <item>
       <title>Statement on the US government directive to suspend access to Fable 5 and Mythos 5</title>
       <link>https://simonwillison.net/2026/Jun/13/us-government-directive-to-suspend-access/#atom-everything</link>
@@ -18,6 +32,13 @@
       <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MailSystemsPeopleCost</guid>
       <pubDate>Sat, 13 Jun 2026 00:26:44 +0000</pubDate>
       <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>Dangerous Technology For Americans Only</title>
+      <link>https://lucumr.pocoo.org/2026/6/13/americans-only/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/6/13/americans-only/</guid>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
       <title>OpenAI WebRTC Audio Session, now with document context</title>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://pluralistic.net/2026/06/05/defining-humanity/</guid>
       <pubDate>Fri, 05 Jun 2026 20:49:39 +0000</pubDate>
       <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Nieman Journalism Lab: Twitter/X Punishes Accounts That Post Links</title>
-      <link>https://www.niemanlab.org/2026/04/do-links-hurt-news-publishers-on-twitter-our-analysis-suggests-yes/</link>
-      <guid isPermaLink="true">https://www.niemanlab.org/2026/04/do-links-hurt-news-publishers-on-twitter-our-analysis-suggests-yes/</guid>
-      <pubDate>Fri, 05 Jun 2026 20:46:56 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Elon Musk’s X Is a Freak Show</title>
-      <link>https://www.natesilver.net/p/social-media-has-become-a-freak-show</link>
-      <guid isPermaLink="true">https://www.natesilver.net/p/social-media-has-become-a-freak-show</guid>
-      <pubDate>Fri, 05 Jun 2026 20:24:58 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>JAX backends and devices</title>
-      <link>https://www.gilesthomas.com/2026/06/jax-backends-and-devices</link>
-      <guid isPermaLink="true">https://www.gilesthomas.com/2026/06/jax-backends-and-devices</guid>
-      <pubDate>Fri, 05 Jun 2026 19:30:00 +0000</pubDate>
-      <description>Giles' blog</description>
     </item>
   </channel>
 </rss>
