@@ -208,11 +208,11 @@ Last Updated: Sunday, June 14th, 2026, 3:16:43 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Reading List 06/13/2026](https://www.construction-physics.com/p/reading-list-06132026) — *Construction Physics* `06-13`
-- [This Week in Package Management: 13 June 2026](https://nesbitt.io/2026/06/13/this-week-in-package-management.html) — *Andrew Nesbitt* `06-13`
-- [Statement on the US government directive to suspend access to Fable 5 and Mythos 5](https://simonwillison.net/2026/Jun/13/us-government-directive-to-suspend-access/#atom-everything) — *Simon Willison's Weblog* `06-13`
-- [Running a modern email system requires non-trivial staff time](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MailSystemsPeopleCost) — *Chris's Wiki :: blog* `06-13`
-- [Dangerous Technology For Americans Only](https://lucumr.pocoo.org/2026/6/13/americans-only/) — *Armin Ronacher's Thoughts and Writings* `06-13`
+- [Pluralistic: Shareholder supremacy and the precog CEO (13 Jun 2026)](https://pluralistic.net/2026/06/13/minority-shareholder-report/) — *Pluralistic: Daily links from Cory Doctorow* `06-13`
+- [Trump’s Name (Set in the Wrong Font, of Course) Has Been Removed From the Kennedy Center](https://apple.news/ANLNtQOeuSkiJ35tzkYw9oA) — *Daring Fireball* `06-13`
+- [Apple’s Private Cloud Compute Is Severely Limited for Third-Party Developers](https://developer.apple.com/private-cloud-compute/) — *Daring Fireball* `06-13`
+- [U.S. Government Directs Anthropic to Shut Down Fable 5 and Mythos 5 Models on National Security Grounds](https://www.anthropic.com/news/fable-mythos-access) — *Daring Fireball* `06-13`
+- [The adder at the heart of Intel's 8087 floating-point chip](http://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html) — *Ken Shirriff's blog* `06-13`
 <!--BLOG_RADAR:end-->
 
 ---
