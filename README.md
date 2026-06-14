@@ -208,11 +208,11 @@ Last Updated: Sunday, June 14th, 2026, 9:50:02 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Did Frank Sinatra really think "Something" was a Lennon/McCartney song?](https://shkspr.mobi/blog/2026/06/did-frank-sinatra-really-think-something-was-a-lennon-mccartney-song/) — *Terence Eden’s Blog* `06-14`
 - [Plugins case study: Pluggy](https://eli.thegreenplace.net/2026/plugins-case-study-pluggy/) — *Eli Bendersky's website* `06-14`
 - [Linux distribution packaging and third party 'package' systems](https://utcc.utoronto.ca/~cks/space/blog/linux/DistrosAndOtherPackageManagers) — *Chris's Wiki :: blog* `06-14`
 - [Building a serial and VGA "everything console"](https://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html) — *Old Vintage Computing Research* `06-14`
 - [Publishing WASM wheels to PyPI for use with Pyodide](https://simonwillison.net/2026/Jun/13/publishing-wasm-wheels/#atom-everything) — *Simon Willison's Weblog* `06-13`
-- [luau-wasm 0.1a0](https://simonwillison.net/2026/Jun/13/luau-wasm/#atom-everything) — *Simon Willison's Weblog* `06-13`
 <!--BLOG_RADAR:end-->
 
 ---
