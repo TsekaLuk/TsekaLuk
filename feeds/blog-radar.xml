@@ -4,7 +4,56 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 13 Jun 2026 19:45:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 04:51:58 +0000</lastBuildDate>
+    <item>
+      <title>Plugins case study: Pluggy</title>
+      <link>https://eli.thegreenplace.net/2026/plugins-case-study-pluggy/</link>
+      <guid isPermaLink="true">https://eli.thegreenplace.net/2026/plugins-case-study-pluggy/</guid>
+      <pubDate>Sun, 14 Jun 2026 03:21:00 +0000</pubDate>
+      <description>Eli Bendersky's website</description>
+    </item>
+    <item>
+      <title>Linux distribution packaging and third party 'package' systems</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/DistrosAndOtherPackageManagers</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/DistrosAndOtherPackageManagers</guid>
+      <pubDate>Sun, 14 Jun 2026 03:20:52 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>Building a serial and VGA "everything console"</title>
+      <link>https://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html</link>
+      <guid isPermaLink="true">https://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html</guid>
+      <pubDate>Sun, 14 Jun 2026 01:26:37 +0000</pubDate>
+      <description>Old Vintage Computing Research</description>
+    </item>
+    <item>
+      <title>Publishing WASM wheels to PyPI for use with Pyodide</title>
+      <link>https://simonwillison.net/2026/Jun/13/publishing-wasm-wheels/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/13/publishing-wasm-wheels/#atom-everything</guid>
+      <pubDate>Sat, 13 Jun 2026 23:55:18 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>luau-wasm 0.1a0</title>
+      <link>https://simonwillison.net/2026/Jun/13/luau-wasm/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/13/luau-wasm/#atom-everything</guid>
+      <pubDate>Sat, 13 Jun 2026 23:14:30 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Mapping SQLite result columns back to their source `table.column`</title>
+      <link>https://simonwillison.net/2026/Jun/13/sqlite-column-provenance/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/13/sqlite-column-provenance/#atom-everything</guid>
+      <pubDate>Sat, 13 Jun 2026 23:05:00 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>RSA munitions T-shirt</title>
+      <link>https://www.johndcook.com/blog/2026/06/13/rsa-munitions-t-shirt/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/13/rsa-munitions-t-shirt/</guid>
+      <pubDate>Sat, 13 Jun 2026 20:10:20 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
     <item>
       <title>Pluralistic: Shareholder supremacy and the precog CEO (13 Jun 2026)</title>
       <link>https://pluralistic.net/2026/06/13/minority-shareholder-report/</link>
@@ -69,11 +118,25 @@
       <description>Chris's Wiki :: blog</description>
     </item>
     <item>
+      <title>Making glass-to-metal seals for home­made vacuum tubes.</title>
+      <link>https://maurycyz.com/projects/glass/1/</link>
+      <guid isPermaLink="true">https://maurycyz.com/projects/glass/1/</guid>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
+    </item>
+    <item>
       <title>Dangerous Technology For Americans Only</title>
       <link>https://lucumr.pocoo.org/2026/6/13/americans-only/</link>
       <guid isPermaLink="true">https://lucumr.pocoo.org/2026/6/13/americans-only/</guid>
       <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
       <description>Armin Ronacher's Thoughts and Writings</description>
+    </item>
+    <item>
+      <title>Human Routers of Machine Words</title>
+      <link>https://borretti.me/article/human-routers-of-machine-words</link>
+      <guid isPermaLink="true">https://borretti.me/article/human-routers-of-machine-words</guid>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Fernando Borretti</description>
     </item>
     <item>
       <title>OpenAI WebRTC Audio Session, now with document context</title>
@@ -781,69 +844,6 @@
       <guid isPermaLink="true">https://www.nytimes.com/2026/06/05/business/media/60-minutes-cbs-stahl-whitaker-wertheim.html?unlocked_article_code=1.oFA.xooG.Pz8cQv8odz7Z</guid>
       <pubDate>Sat, 06 Jun 2026 20:04:06 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Trump Lawyer Argues Trump Can Tear Down Statue of Liberty</title>
-      <link>https://talkingpointsmemo.com/edblog/trump-can-tear-down-statue-of-liberty-says-trump-lawyer</link>
-      <guid isPermaLink="true">https://talkingpointsmemo.com/edblog/trump-can-tear-down-statue-of-liberty-says-trump-lawyer</guid>
-      <pubDate>Sat, 06 Jun 2026 19:56:01 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>From Kepler to Bessel</title>
-      <link>https://www.johndcook.com/blog/2026/06/06/from-kepler-to-bessel/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/06/from-kepler-to-bessel/</guid>
-      <pubDate>Sat, 06 Jun 2026 18:46:02 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Pluralistic: Criticizing the everything machine (06 Jun 2026)</title>
-      <link>https://pluralistic.net/2026/06/06/applied-counterescatology/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/06/06/applied-counterescatology/</guid>
-      <pubDate>Sat, 06 Jun 2026 18:00:00 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Reading List 06/06/26</title>
-      <link>https://www.construction-physics.com/p/reading-list-060626</link>
-      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-060626</guid>
-      <pubDate>Sat, 06 Jun 2026 12:02:44 +0000</pubDate>
-      <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>There's still no point in gigabit broadband</title>
-      <link>https://shkspr.mobi/blog/2026/06/theres-still-no-point-in-gigabit-broadband/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/theres-still-no-point-in-gigabit-broadband/</guid>
-      <pubDate>Sat, 06 Jun 2026 11:34:57 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>This Week in Package Management: 6 June 2026</title>
-      <link>https://nesbitt.io/2026/06/06/this-week-in-package-management.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/06/06/this-week-in-package-management.html</guid>
-      <pubDate>Sat, 06 Jun 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Our Great War is a Spiritual War</title>
-      <link>https://geohot.github.io//blog/jekyll/update/2026/06/06/our-great-war.html</link>
-      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/06/06/our-great-war.html</guid>
-      <pubDate>Sat, 06 Jun 2026 07:00:00 +0000</pubDate>
-      <description>the singularity is nearer</description>
-    </item>
-    <item>
-      <title>micropython-wasm 0.1a2</title>
-      <link>https://simonwillison.net/2026/Jun/6/micropython-wasm/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/6/micropython-wasm/#atom-everything</guid>
-      <pubDate>Sat, 06 Jun 2026 04:26:06 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Running Python code in a sandbox with MicroPython and WASM</title>
-      <link>https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything</guid>
-      <pubDate>Sat, 06 Jun 2026 03:53:34 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>

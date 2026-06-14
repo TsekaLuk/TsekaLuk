@@ -208,11 +208,11 @@ Last Updated: Sunday, June 14th, 2026, 11:27:30 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Pluralistic: Shareholder supremacy and the precog CEO (13 Jun 2026)](https://pluralistic.net/2026/06/13/minority-shareholder-report/) — *Pluralistic: Daily links from Cory Doctorow* `06-13`
-- [Trump’s Name (Set in the Wrong Font, of Course) Has Been Removed From the Kennedy Center](https://apple.news/ANLNtQOeuSkiJ35tzkYw9oA) — *Daring Fireball* `06-13`
-- [Apple’s Private Cloud Compute Is Severely Limited for Third-Party Developers](https://developer.apple.com/private-cloud-compute/) — *Daring Fireball* `06-13`
-- [U.S. Government Directs Anthropic to Shut Down Fable 5 and Mythos 5 Models on National Security Grounds](https://www.anthropic.com/news/fable-mythos-access) — *Daring Fireball* `06-13`
-- [The adder at the heart of Intel's 8087 floating-point chip](http://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html) — *Ken Shirriff's blog* `06-13`
+- [Plugins case study: Pluggy](https://eli.thegreenplace.net/2026/plugins-case-study-pluggy/) — *Eli Bendersky's website* `06-14`
+- [Linux distribution packaging and third party 'package' systems](https://utcc.utoronto.ca/~cks/space/blog/linux/DistrosAndOtherPackageManagers) — *Chris's Wiki :: blog* `06-14`
+- [Building a serial and VGA "everything console"](https://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html) — *Old Vintage Computing Research* `06-14`
+- [Publishing WASM wheels to PyPI for use with Pyodide](https://simonwillison.net/2026/Jun/13/publishing-wasm-wheels/#atom-everything) — *Simon Willison's Weblog* `06-13`
+- [luau-wasm 0.1a0](https://simonwillison.net/2026/Jun/13/luau-wasm/#atom-everything) — *Simon Willison's Weblog* `06-13`
 <!--BLOG_RADAR:end-->
 
 ---
