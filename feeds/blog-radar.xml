@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 14 Jun 2026 04:51:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 09:48:07 +0000</lastBuildDate>
     <item>
       <title>Plugins case study: Pluggy</title>
       <link>https://eli.thegreenplace.net/2026/plugins-case-study-pluggy/</link>
@@ -200,6 +200,13 @@
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/power-on-your-mac-remotely/</guid>
       <pubDate>Fri, 12 Jun 2026 14:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>How can I schedule work on a thread pool with low latency?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260612-00/?p=112417</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260612-00/?p=112417</guid>
+      <pubDate>Fri, 12 Jun 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>I can never fully embrace LLMs for code</title>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://maurycyz.com/astro/arp297/</guid>
       <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
       <description>Maurycy's Blog</description>
-    </item>
-    <item>
-      <title>60 Minutes Correspondents Lesley Stahl, Bill Whitaker, and the Other Guy Will Stay at Show</title>
-      <link>https://www.nytimes.com/2026/06/05/business/media/60-minutes-cbs-stahl-whitaker-wertheim.html?unlocked_article_code=1.oFA.xooG.Pz8cQv8odz7Z</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/05/business/media/60-minutes-cbs-stahl-whitaker-wertheim.html?unlocked_article_code=1.oFA.xooG.Pz8cQv8odz7Z</guid>
-      <pubDate>Sat, 06 Jun 2026 20:04:06 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
