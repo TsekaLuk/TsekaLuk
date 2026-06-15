@@ -208,11 +208,11 @@ Last Updated: Tuesday, June 16th, 2026, 4:49:11 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [[RSS Club] What happens to old posts?](https://shkspr.mobi/blog/2026/06/rss-club-what-happens-to-old-posts/) — *Terence Eden’s Blog* `06-15`
-- [Weekly Update 508](https://www.troyhunt.com/weekly-update-508/) — *Troy Hunt* `06-15`
-- [Systemd-resolved and sticking (or not) to what distributions do](https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdResolvedOrNot) — *Chris's Wiki :: blog* `06-15`
-- [Quoting Julia Evans](https://simonwillison.net/2026/Jun/15/julia-evans/#atom-everything) — *Simon Willison's Weblog* `06-15`
-- [AI GPUs probably live longer than three years](https://seangoedecke.com/ai-gpus-live-longer-than-three-years/) — *seangoedecke.com RSS feed* `06-15`
+- [JAX: commitment issues](https://www.gilesthomas.com/2026/06/jax-commitment-issues) — *Giles' blog* `06-15`
+- [Quaternion Rotations, Claude, and Lean](https://www.johndcook.com/blog/2026/06/15/quaternions-claude-lean/) — *John D. Cook* `06-15`
+- [AI's Brokenomics](https://www.wheresyoured.at/brokenomics/) — *Ed Zitron's Where's Your Ed At* `06-15`
+- [The European Commission Ruled Months Ago That Google’s Integration of Gemini in Android Violates the DMA](https://arstechnica.com/ai/2026/04/europe-could-force-google-to-open-android-to-other-ai-assistants/) — *Daring Fireball* `06-15`
+- [WorkOS Launches Auth.md — an Open Protocol for Agent Registration](https://workos.com/auth-md?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q22026) — *Daring Fireball* `06-15`
 <!--BLOG_RADAR:end-->
 
 ---
