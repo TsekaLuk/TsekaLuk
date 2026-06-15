@@ -4,13 +4,27 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 15 Jun 2026 05:08:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 12:32:08 +0000</lastBuildDate>
+    <item>
+      <title>[RSS Club] What happens to old posts?</title>
+      <link>https://shkspr.mobi/blog/2026/06/rss-club-what-happens-to-old-posts/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/rss-club-what-happens-to-old-posts/</guid>
+      <pubDate>Mon, 15 Jun 2026 11:34:34 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
     <item>
       <title>Weekly Update 508</title>
       <link>https://www.troyhunt.com/weekly-update-508/</link>
       <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-508/</guid>
       <pubDate>Mon, 15 Jun 2026 04:55:47 +0000</pubDate>
       <description>Troy Hunt</description>
+    </item>
+    <item>
+      <title>Systemd-resolved and sticking (or not) to what distributions do</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdResolvedOrNot</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdResolvedOrNot</guid>
+      <pubDate>Mon, 15 Jun 2026 02:50:24 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>Quoting Julia Evans</title>
@@ -27,6 +41,13 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
+      <title>Things that made me think: Open Source trust relationships, knowledge without provenance, and theory building</title>
+      <link>https://tomrenner.com/posts/ttmmt-4/</link>
+      <guid isPermaLink="true">https://tomrenner.com/posts/ttmmt-4/</guid>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Tom Renner on My place to put things</description>
+    </item>
+    <item>
       <title>Why AI hasn’t replaced software engineers, and won’t</title>
       <link>https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/#atom-everything</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/#atom-everything</guid>
@@ -34,11 +55,25 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
+      <title>Did Frank Sinatra really think "Something" was a Lennon/McCartney song?</title>
+      <link>https://shkspr.mobi/blog/2026/06/did-frank-sinatra-really-think-something-was-a-lennon-mccartney-song/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/did-frank-sinatra-really-think-something-was-a-lennon-mccartney-song/</guid>
+      <pubDate>Sun, 14 Jun 2026 11:34:16 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>Plugins case study: Pluggy</title>
       <link>https://eli.thegreenplace.net/2026/plugins-case-study-pluggy/</link>
       <guid isPermaLink="true">https://eli.thegreenplace.net/2026/plugins-case-study-pluggy/</guid>
       <pubDate>Sun, 14 Jun 2026 03:21:00 +0000</pubDate>
       <description>Eli Bendersky's website</description>
+    </item>
+    <item>
+      <title>Linux distribution packaging and third party 'package' systems</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/DistrosAndOtherPackageManagers</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/DistrosAndOtherPackageManagers</guid>
+      <pubDate>Sun, 14 Jun 2026 03:20:52 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>Building a serial and VGA "everything console"</title>
@@ -139,11 +174,11 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>Dangerous Technology For Americans Only</title>
-      <link>https://lucumr.pocoo.org/2026/6/13/americans-only/</link>
-      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/6/13/americans-only/</guid>
-      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Armin Ronacher's Thoughts and Writings</description>
+      <title>Running a modern email system requires non-trivial staff time</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MailSystemsPeopleCost</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MailSystemsPeopleCost</guid>
+      <pubDate>Sat, 13 Jun 2026 00:26:44 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>Making glass-to-metal seals for homemade vacuum tubes.</title>
@@ -151,6 +186,13 @@
       <guid isPermaLink="true">https://maurycyz.com/projects/glass/1/</guid>
       <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
       <description>Maurycy's Blog</description>
+    </item>
+    <item>
+      <title>Dangerous Technology For Americans Only</title>
+      <link>https://lucumr.pocoo.org/2026/6/13/americans-only/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/6/13/americans-only/</guid>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
       <title>Human Routers of Machine Words</title>
@@ -237,6 +279,13 @@
       <description>Software and Tech stories from an Insider - iDiallo.com</description>
     </item>
     <item>
+      <title>Gadget Review: TP Link EH210 Ethernet Splitter (USB-C) ★★★★★</title>
+      <link>https://shkspr.mobi/blog/2026/06/gadget-review-tp-link-eh210-ethernet-splitter-usb-c/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/gadget-review-tp-link-eh210-ethernet-splitter-usb-c/</guid>
+      <pubDate>Fri, 12 Jun 2026 11:34:18 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>Joint Guidance on Vulnerability Naming and Disclosure</title>
       <link>https://nesbitt.io/2026/06/12/joint-guidance-on-vulnerability-naming-and-disclosure.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/06/12/joint-guidance-on-vulnerability-naming-and-disclosure.html</guid>
@@ -249,6 +298,13 @@
       <guid isPermaLink="true">https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur</guid>
       <pubDate>Fri, 12 Jun 2026 09:20:39 +0000</pubDate>
       <description>Miguel Grinberg's Blog</description>
+    </item>
+    <item>
+      <title>Why disk warranties are useful at work but not for me at home</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/tech/DiskWarrantyHomeVsWork</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/tech/DiskWarrantyHomeVsWork</guid>
+      <pubDate>Fri, 12 Jun 2026 01:39:52 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>Why are cached input tokens cheaper with AI services?</title>
@@ -384,6 +440,13 @@
       <description>John D. Cook</description>
     </item>
     <item>
+      <title>My Firefox addons as of Firefox 151 (and the current development version)</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/web/Firefox151Addons</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/web/Firefox151Addons</guid>
+      <pubDate>Wed, 10 Jun 2026 22:04:25 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
       <title>Please, use a link!</title>
       <link>https://idiallo.com/blog/use-a-link-please</link>
       <guid isPermaLink="true">https://idiallo.com/blog/use-a-link-please</guid>
@@ -440,11 +503,25 @@
       <description>Computer Things</description>
     </item>
     <item>
+      <title>Book Review: The Husbands by Holly Gramazio ★★★★★</title>
+      <link>https://shkspr.mobi/blog/2026/06/book-review-the-husbands-by-holly-gramazio/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/book-review-the-husbands-by-holly-gramazio/</guid>
+      <pubDate>Wed, 10 Jun 2026 11:34:55 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>Weekly Update 507</title>
       <link>https://www.troyhunt.com/weekly-update-507/</link>
       <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-507/</guid>
       <pubDate>Wed, 10 Jun 2026 05:31:56 +0000</pubDate>
       <description>Troy Hunt</description>
+    </item>
+    <item>
+      <title>Making extensions work on file: URLs in Firefox 153</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/web/Firefox153AddonsOnFileUrls</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/web/Firefox153AddonsOnFileUrls</guid>
+      <pubDate>Wed, 10 Jun 2026 02:37:48 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>If Claude Fable stops helping you, you'll never know</title>
@@ -580,6 +657,13 @@
       <description>Daring Fireball</description>
     </item>
     <item>
+      <title>Understanding Embark in GNU Emacs (a bit) and some 'stupid' Embark tricks</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsUnderstandingEmbark</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsUnderstandingEmbark</guid>
+      <pubDate>Tue, 09 Jun 2026 03:46:37 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
       <title>From the Annals of People Having Knowledge of the Matter, Siri AI Extensions Edition</title>
       <link>https://www.bloomberg.com/news/articles/2026-03-26/apple-plans-to-open-up-siri-to-rival-ai-assistants-beyond-chatgpt-in-ios-27</link>
       <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-03-26/apple-plans-to-open-up-siri-to-rival-ai-assistants-beyond-chatgpt-in-ios-27</guid>
@@ -657,6 +741,13 @@
       <description>Steve Blank</description>
     </item>
     <item>
+      <title>How many consecutive hyphens can you have in a domain name?</title>
+      <link>https://shkspr.mobi/blog/2026/06/how-many-consecutive-hyphens-can-you-have-in-a-domain-name/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/how-many-consecutive-hyphens-can-you-have-in-a-domain-name/</guid>
+      <pubDate>Mon, 08 Jun 2026 11:34:59 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>De gietijzeren pan en big tech</title>
       <link>https://berthub.eu/articles/posts/de-gietijzeren-pan-en-big-tech/</link>
       <guid isPermaLink="true">https://berthub.eu/articles/posts/de-gietijzeren-pan-en-big-tech/</guid>
@@ -669,6 +760,13 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/06/08/package-manager-patents.html</guid>
       <pubDate>Mon, 08 Jun 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>Should we care any more about Googlebot crawling our sites?</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/web/DoYouNeedGooglebotCrawling</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/web/DoYouNeedGooglebotCrawling</guid>
+      <pubDate>Mon, 08 Jun 2026 02:04:21 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>Mux — Video for Developers</title>
@@ -746,104 +844,6 @@
       <guid isPermaLink="true">http://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html</guid>
       <pubDate>Sun, 07 Jun 2026 16:57:09 +0000</pubDate>
       <description>Ken Shirriff's blog</description>
-    </item>
-    <item>
-      <title>A crank formula for π</title>
-      <link>https://www.johndcook.com/blog/2026/06/07/a-crank-formula-for-%cf%80/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/07/a-crank-formula-for-%cf%80/</guid>
-      <pubDate>Sun, 07 Jun 2026 16:34:26 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>KPN Interactieve TV zonder Experia Box</title>
-      <link>https://berthub.eu/articles/posts/kpn-interactieve-tv-zelf-doen/</link>
-      <guid isPermaLink="true">https://berthub.eu/articles/posts/kpn-interactieve-tv-zelf-doen/</guid>
-      <pubDate>Sun, 07 Jun 2026 10:36:42 +0000</pubDate>
-      <description>Bert Hubert's writings</description>
-    </item>
-    <item>
-      <title>A new era for software testing</title>
-      <link>http://antirez.com/news/168</link>
-      <guid isPermaLink="true">http://antirez.com/news/168</guid>
-      <pubDate>Sun, 07 Jun 2026 09:46:06 +0000</pubDate>
-      <description>&lt;antirez&gt;</description>
-    </item>
-    <item>
-      <title>Stairway to Heaven</title>
-      <link>https://geohot.github.io//blog/jekyll/update/2026/06/07/stairway-to-heaven.html</link>
-      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/06/07/stairway-to-heaven.html</guid>
-      <pubDate>Sun, 07 Jun 2026 07:00:00 +0000</pubDate>
-      <description>the singularity is nearer</description>
-    </item>
-    <item>
-      <title>Copping My Style</title>
-      <link>https://feed.tedium.co/link/15204/17355475/adobe-creator-act-style-protection-commentary</link>
-      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17355475/adobe-creator-act-style-protection-commentary</guid>
-      <pubDate>Sun, 07 Jun 2026 02:54:43 +0000</pubDate>
-      <description>Tedium: The Dull Side of the Internet.</description>
-    </item>
-    <item>
-      <title>Halide Mark III</title>
-      <link>https://www.lux.camera/halide-mark-iii/</link>
-      <guid isPermaLink="true">https://www.lux.camera/halide-mark-iii/</guid>
-      <pubDate>Sun, 07 Jun 2026 00:49:15 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Thoughts on starting new projects with LLM agents</title>
-      <link>https://eli.thegreenplace.net/2026/thoughts-on-starting-new-projects-with-llm-agents/</link>
-      <guid isPermaLink="true">https://eli.thegreenplace.net/2026/thoughts-on-starting-new-projects-with-llm-agents/</guid>
-      <pubDate>Sun, 07 Jun 2026 00:38:00 +0000</pubDate>
-      <description>Eli Bendersky's website</description>
-    </item>
-    <item>
-      <title>Arp 297:</title>
-      <link>https://maurycyz.com/astro/arp297/</link>
-      <guid isPermaLink="true">https://maurycyz.com/astro/arp297/</guid>
-      <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
-    </item>
-    <item>
-      <title>60 Minutes Correspondents Lesley Stahl, Bill Whitaker, and the Other Guy Will Stay at Show</title>
-      <link>https://www.nytimes.com/2026/06/05/business/media/60-minutes-cbs-stahl-whitaker-wertheim.html?unlocked_article_code=1.oFA.xooG.Pz8cQv8odz7Z</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/05/business/media/60-minutes-cbs-stahl-whitaker-wertheim.html?unlocked_article_code=1.oFA.xooG.Pz8cQv8odz7Z</guid>
-      <pubDate>Sat, 06 Jun 2026 20:04:06 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Trump Lawyer Argues Trump Can Tear Down Statue of Liberty</title>
-      <link>https://talkingpointsmemo.com/edblog/trump-can-tear-down-statue-of-liberty-says-trump-lawyer</link>
-      <guid isPermaLink="true">https://talkingpointsmemo.com/edblog/trump-can-tear-down-statue-of-liberty-says-trump-lawyer</guid>
-      <pubDate>Sat, 06 Jun 2026 19:56:01 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>From Kepler to Bessel</title>
-      <link>https://www.johndcook.com/blog/2026/06/06/from-kepler-to-bessel/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/06/from-kepler-to-bessel/</guid>
-      <pubDate>Sat, 06 Jun 2026 18:46:02 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Pluralistic: Criticizing the everything machine (06 Jun 2026)</title>
-      <link>https://pluralistic.net/2026/06/06/applied-counterescatology/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/06/06/applied-counterescatology/</guid>
-      <pubDate>Sat, 06 Jun 2026 18:00:00 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Reading List 06/06/26</title>
-      <link>https://www.construction-physics.com/p/reading-list-060626</link>
-      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-060626</guid>
-      <pubDate>Sat, 06 Jun 2026 12:02:44 +0000</pubDate>
-      <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>This Week in Package Management: 6 June 2026</title>
-      <link>https://nesbitt.io/2026/06/06/this-week-in-package-management.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/06/06/this-week-in-package-management.html</guid>
-      <pubDate>Sat, 06 Jun 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
     </item>
   </channel>
 </rss>

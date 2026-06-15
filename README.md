@@ -208,11 +208,11 @@ Last Updated: Monday, June 15th, 2026, 7:52:51 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [[RSS Club] What happens to old posts?](https://shkspr.mobi/blog/2026/06/rss-club-what-happens-to-old-posts/) — *Terence Eden’s Blog* `06-15`
 - [Weekly Update 508](https://www.troyhunt.com/weekly-update-508/) — *Troy Hunt* `06-15`
+- [Systemd-resolved and sticking (or not) to what distributions do](https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdResolvedOrNot) — *Chris's Wiki :: blog* `06-15`
 - [Quoting Julia Evans](https://simonwillison.net/2026/Jun/15/julia-evans/#atom-everything) — *Simon Willison's Weblog* `06-15`
 - [AI GPUs probably live longer than three years](https://seangoedecke.com/ai-gpus-live-longer-than-three-years/) — *seangoedecke.com RSS feed* `06-15`
-- [Why AI hasn’t replaced software engineers, and won’t](https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/#atom-everything) — *Simon Willison's Weblog* `06-14`
-- [Plugins case study: Pluggy](https://eli.thegreenplace.net/2026/plugins-case-study-pluggy/) — *Eli Bendersky's website* `06-14`
 <!--BLOG_RADAR:end-->
 
 ---
