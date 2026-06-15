@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 14 Jun 2026 19:46:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 05:08:49 +0000</lastBuildDate>
+    <item>
+      <title>Weekly Update 508</title>
+      <link>https://www.troyhunt.com/weekly-update-508/</link>
+      <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-508/</guid>
+      <pubDate>Mon, 15 Jun 2026 04:55:47 +0000</pubDate>
+      <description>Troy Hunt</description>
+    </item>
+    <item>
+      <title>Quoting Julia Evans</title>
+      <link>https://simonwillison.net/2026/Jun/15/julia-evans/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/15/julia-evans/#atom-everything</guid>
+      <pubDate>Mon, 15 Jun 2026 02:05:19 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>AI GPUs probably live longer than three years</title>
+      <link>https://seangoedecke.com/ai-gpus-live-longer-than-three-years/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/ai-gpus-live-longer-than-three-years/</guid>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Why AI hasn’t replaced software engineers, and won’t</title>
+      <link>https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/#atom-everything</guid>
+      <pubDate>Sun, 14 Jun 2026 23:54:11 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Plugins case study: Pluggy</title>
       <link>https://eli.thegreenplace.net/2026/plugins-case-study-pluggy/</link>
@@ -13,18 +41,18 @@
       <description>Eli Bendersky's website</description>
     </item>
     <item>
-      <title>Linux distribution packaging and third party 'package' systems</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/DistrosAndOtherPackageManagers</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/DistrosAndOtherPackageManagers</guid>
-      <pubDate>Sun, 14 Jun 2026 03:20:52 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
       <title>Building a serial and VGA "everything console"</title>
       <link>https://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html</link>
       <guid isPermaLink="true">https://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html</guid>
       <pubDate>Sun, 14 Jun 2026 01:26:37 +0000</pubDate>
       <description>Old Vintage Computing Research</description>
+    </item>
+    <item>
+      <title>from hookswitch to grave</title>
+      <link>https://computer.rip/2026-06-14-hookswitch-to-grave.html</link>
+      <guid isPermaLink="true">https://computer.rip/2026-06-14-hookswitch-to-grave.html</guid>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
+      <description>computers are bad</description>
     </item>
     <item>
       <title>Publishing WASM wheels to PyPI for use with Pyodide</title>
@@ -111,25 +139,18 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>Running a modern email system requires non-trivial staff time</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MailSystemsPeopleCost</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MailSystemsPeopleCost</guid>
-      <pubDate>Sat, 13 Jun 2026 00:26:44 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>Making glass-to-metal seals for home­made vacuum tubes.</title>
-      <link>https://maurycyz.com/projects/glass/1/</link>
-      <guid isPermaLink="true">https://maurycyz.com/projects/glass/1/</guid>
-      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
-    </item>
-    <item>
       <title>Dangerous Technology For Americans Only</title>
       <link>https://lucumr.pocoo.org/2026/6/13/americans-only/</link>
       <guid isPermaLink="true">https://lucumr.pocoo.org/2026/6/13/americans-only/</guid>
       <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
       <description>Armin Ronacher's Thoughts and Writings</description>
+    </item>
+    <item>
+      <title>Making glass-to-metal seals for homemade vacuum tubes.</title>
+      <link>https://maurycyz.com/projects/glass/1/</link>
+      <guid isPermaLink="true">https://maurycyz.com/projects/glass/1/</guid>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
     </item>
     <item>
       <title>Human Routers of Machine Words</title>
@@ -195,18 +216,18 @@
       <description>The Digital Antiquarian</description>
     </item>
     <item>
-      <title>How can I schedule work on a thread pool with low latency?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260612-00/?p=112417</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260612-00/?p=112417</guid>
-      <pubDate>Fri, 12 Jun 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
       <title>You can finally power on a Mac remotely</title>
       <link>https://www.jeffgeerling.com/blog/2026/power-on-your-mac-remotely/</link>
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/power-on-your-mac-remotely/</guid>
       <pubDate>Fri, 12 Jun 2026 14:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>How can I schedule work on a thread pool with low latency?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260612-00/?p=112417</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260612-00/?p=112417</guid>
+      <pubDate>Fri, 12 Jun 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>I can never fully embrace LLMs for code</title>
@@ -228,13 +249,6 @@
       <guid isPermaLink="true">https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur</guid>
       <pubDate>Fri, 12 Jun 2026 09:20:39 +0000</pubDate>
       <description>Miguel Grinberg's Blog</description>
-    </item>
-    <item>
-      <title>Why disk warranties are useful at work but not for me at home</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/tech/DiskWarrantyHomeVsWork</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/tech/DiskWarrantyHomeVsWork</guid>
-      <pubDate>Fri, 12 Jun 2026 01:39:52 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>Why are cached input tokens cheaper with AI services?</title>
@@ -370,13 +384,6 @@
       <description>John D. Cook</description>
     </item>
     <item>
-      <title>My Firefox addons as of Firefox 151 (and the current development version)</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/web/Firefox151Addons</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/web/Firefox151Addons</guid>
-      <pubDate>Wed, 10 Jun 2026 22:04:25 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
       <title>Please, use a link!</title>
       <link>https://idiallo.com/blog/use-a-link-please</link>
       <guid isPermaLink="true">https://idiallo.com/blog/use-a-link-please</guid>
@@ -438,13 +445,6 @@
       <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-507/</guid>
       <pubDate>Wed, 10 Jun 2026 05:31:56 +0000</pubDate>
       <description>Troy Hunt</description>
-    </item>
-    <item>
-      <title>Making extensions work on file: URLs in Firefox 153</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/web/Firefox153AddonsOnFileUrls</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/web/Firefox153AddonsOnFileUrls</guid>
-      <pubDate>Wed, 10 Jun 2026 02:37:48 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>If Claude Fable stops helping you, you'll never know</title>
@@ -580,13 +580,6 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Understanding Embark in GNU Emacs (a bit) and some 'stupid' Embark tricks</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsUnderstandingEmbark</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsUnderstandingEmbark</guid>
-      <pubDate>Tue, 09 Jun 2026 03:46:37 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
       <title>From the Annals of People Having Knowledge of the Matter, Siri AI Extensions Edition</title>
       <link>https://www.bloomberg.com/news/articles/2026-03-26/apple-plans-to-open-up-siri-to-rival-ai-assistants-beyond-chatgpt-in-ios-27</link>
       <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-03-26/apple-plans-to-open-up-siri-to-rival-ai-assistants-beyond-chatgpt-in-ios-27</guid>
@@ -676,13 +669,6 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/06/08/package-manager-patents.html</guid>
       <pubDate>Mon, 08 Jun 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Should we care any more about Googlebot crawling our sites?</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/web/DoYouNeedGooglebotCrawling</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/web/DoYouNeedGooglebotCrawling</guid>
-      <pubDate>Mon, 08 Jun 2026 02:04:21 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
     </item>
     <item>
       <title>Mux — Video for Developers</title>
@@ -797,13 +783,6 @@
       <description>Tedium: The Dull Side of the Internet.</description>
     </item>
     <item>
-      <title>'Vim' has many faces</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/unix/VimManyFaces</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/unix/VimManyFaces</guid>
-      <pubDate>Sun, 07 Jun 2026 02:32:10 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
       <title>Halide Mark III</title>
       <link>https://www.lux.camera/halide-mark-iii/</link>
       <guid isPermaLink="true">https://www.lux.camera/halide-mark-iii/</guid>
@@ -844,6 +823,27 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/06/from-kepler-to-bessel/</guid>
       <pubDate>Sat, 06 Jun 2026 18:46:02 +0000</pubDate>
       <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Pluralistic: Criticizing the everything machine (06 Jun 2026)</title>
+      <link>https://pluralistic.net/2026/06/06/applied-counterescatology/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/06/06/applied-counterescatology/</guid>
+      <pubDate>Sat, 06 Jun 2026 18:00:00 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Reading List 06/06/26</title>
+      <link>https://www.construction-physics.com/p/reading-list-060626</link>
+      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-060626</guid>
+      <pubDate>Sat, 06 Jun 2026 12:02:44 +0000</pubDate>
+      <description>Construction Physics</description>
+    </item>
+    <item>
+      <title>This Week in Package Management: 6 June 2026</title>
+      <link>https://nesbitt.io/2026/06/06/this-week-in-package-management.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/06/06/this-week-in-package-management.html</guid>
+      <pubDate>Sat, 06 Jun 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
     </item>
   </channel>
 </rss>
