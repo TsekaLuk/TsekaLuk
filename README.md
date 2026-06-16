@@ -208,11 +208,11 @@ Last Updated: Tuesday, June 16th, 2026, 7:00:49 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Three examples suffice](https://www.johndcook.com/blog/2026/06/16/three-examples-suffice/) — *John D. Cook* `06-16`
+- [The Fable 5 Export Controls Harm US Cyber Defense](https://simonwillison.net/2026/Jun/16/fable-5-export-controls/#atom-everything) — *Simon Willison's Weblog* `06-16`
 - [Exclusive: OpenAI Losses Increased Nearly 8X in 2025, With Spending Hitting $34 Billion](https://www.wheresyoured.at/exclusive-openai-financials/) — *Ed Zitron's Where's Your Ed At* `06-16`
 - [Quoting Matteo Wong, The Atlantic](https://simonwillison.net/2026/Jun/16/matteo-wong-the-atlantic/#atom-everything) — *Simon Willison's Weblog* `06-16`
 - [[Sponsor] Mux — Video for Developers](https://www.mux.com/?utm_campaign=fireball&utm_source=DF) — *Daring Fireball* `06-16`
-- [The Washington Post on the EU’s DMA Folly](https://www.washingtonpost.com/opinions/2026/06/14/apple-withholding-siri-ai-europe-is-another-dma-failure/) — *Daring Fireball* `06-16`
-- [What the new Linux NFS mount option 'fatal_neterrors' is](https://utcc.utoronto.ca/~cks/space/blog/linux/NFSMountOptionFatalNeterrors) — *Chris's Wiki :: blog* `06-16`
 <!--BLOG_RADAR:end-->
 
 ---

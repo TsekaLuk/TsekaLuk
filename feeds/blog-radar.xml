@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 16 Jun 2026 05:11:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 11:25:09 +0000</lastBuildDate>
+    <item>
+      <title>Three examples suffice</title>
+      <link>https://www.johndcook.com/blog/2026/06/16/three-examples-suffice/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/16/three-examples-suffice/</guid>
+      <pubDate>Tue, 16 Jun 2026 11:14:01 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>The Fable 5 Export Controls Harm US Cyber Defense</title>
+      <link>https://simonwillison.net/2026/Jun/16/fable-5-export-controls/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/16/fable-5-export-controls/#atom-everything</guid>
+      <pubDate>Tue, 16 Jun 2026 05:20:29 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Exclusive: OpenAI Losses Increased Nearly 8X in 2025, With Spending Hitting $34 Billion</title>
       <link>https://www.wheresyoured.at/exclusive-openai-financials/</link>
@@ -53,6 +67,13 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/15/testing-pentagonal-numbers/</guid>
       <pubDate>Mon, 15 Jun 2026 23:57:54 +0000</pubDate>
       <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Lean, not backpressure</title>
+      <link>https://entropicthoughts.com/lean-not-backpressure</link>
+      <guid isPermaLink="true">https://entropicthoughts.com/lean-not-backpressure</guid>
+      <pubDate>Mon, 15 Jun 2026 22:00:00 +0000</pubDate>
+      <description>Entropic Thoughts</description>
     </item>
     <item>
       <title>JAX: commitment issues</title>
@@ -139,6 +160,13 @@
       <description>Bert Hubert's writings</description>
     </item>
     <item>
+      <title>[RSS Club] What happens to old posts?</title>
+      <link>https://shkspr.mobi/blog/2026/06/rss-club-what-happens-to-old-posts/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/rss-club-what-happens-to-old-posts/</guid>
+      <pubDate>Mon, 15 Jun 2026 11:34:34 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>Weekly Update 508</title>
       <link>https://www.troyhunt.com/weekly-update-508/</link>
       <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-508/</guid>
@@ -200,6 +228,13 @@
       <guid isPermaLink="true">https://hugotunius.se/2026/06/15/the-sword-juggling-fallacy.html</guid>
       <pubDate>Sun, 14 Jun 2026 23:00:00 +0000</pubDate>
       <description>Hugo Tunius - Blog</description>
+    </item>
+    <item>
+      <title>Did Frank Sinatra really think "Something" was a Lennon/McCartney song?</title>
+      <link>https://shkspr.mobi/blog/2026/06/did-frank-sinatra-really-think-something-was-a-lennon-mccartney-song/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/did-frank-sinatra-really-think-something-was-a-lennon-mccartney-song/</guid>
+      <pubDate>Sun, 14 Jun 2026 11:34:16 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Plugins case study: Pluggy</title>
@@ -426,6 +461,13 @@
       <description>Software and Tech stories from an Insider - iDiallo.com</description>
     </item>
     <item>
+      <title>Gadget Review: TP Link EH210 Ethernet Splitter (USB-C) ★★★★★</title>
+      <link>https://shkspr.mobi/blog/2026/06/gadget-review-tp-link-eh210-ethernet-splitter-usb-c/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/gadget-review-tp-link-eh210-ethernet-splitter-usb-c/</guid>
+      <pubDate>Fri, 12 Jun 2026 11:34:18 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>Joint Guidance on Vulnerability Naming and Disclosure</title>
       <link>https://nesbitt.io/2026/06/12/joint-guidance-on-vulnerability-naming-and-disclosure.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/06/12/joint-guidance-on-vulnerability-naming-and-disclosure.html</guid>
@@ -643,6 +685,13 @@
       <description>Computer Things</description>
     </item>
     <item>
+      <title>Book Review: The Husbands by Holly Gramazio ★★★★★</title>
+      <link>https://shkspr.mobi/blog/2026/06/book-review-the-husbands-by-holly-gramazio/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/book-review-the-husbands-by-holly-gramazio/</guid>
+      <pubDate>Wed, 10 Jun 2026 11:34:55 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>Weekly Update 507</title>
       <link>https://www.troyhunt.com/weekly-update-507/</link>
       <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-507/</guid>
@@ -795,55 +844,6 @@
       <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsUnderstandingEmbark</guid>
       <pubDate>Tue, 09 Jun 2026 03:46:37 +0000</pubDate>
       <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>From the Annals of People Having Knowledge of the Matter, Siri AI Extensions Edition</title>
-      <link>https://www.bloomberg.com/news/articles/2026-03-26/apple-plans-to-open-up-siri-to-rival-ai-assistants-beyond-chatgpt-in-ios-27</link>
-      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-03-26/apple-plans-to-open-up-siri-to-rival-ai-assistants-beyond-chatgpt-in-ios-27</guid>
-      <pubDate>Tue, 09 Jun 2026 01:37:27 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Giving your Go apps Tigris superpowers</title>
-      <link>https://www.tigrisdata.com/blog/storage-sdk-go/</link>
-      <guid isPermaLink="true">https://www.tigrisdata.com/blog/storage-sdk-go/</guid>
-      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
-      <title>"No way to prevent this" say users of only language where this regularly happens</title>
-      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-45447/</link>
-      <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-45447/</guid>
-      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
-      <title>Siri AI at WWDC 2026</title>
-      <link>https://simonwillison.net/2026/Jun/8/wwdc/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/8/wwdc/#atom-everything</guid>
-      <pubDate>Mon, 08 Jun 2026 23:58:04 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>LLMs and almost good code</title>
-      <link>https://entropicthoughts.com/llms-and-almost-good-code</link>
-      <guid isPermaLink="true">https://entropicthoughts.com/llms-and-almost-good-code</guid>
-      <pubDate>Mon, 08 Jun 2026 22:00:00 +0000</pubDate>
-      <description>Entropic Thoughts</description>
-    </item>
-    <item>
-      <title>ppclp.ai announces 100x Productivity Gains</title>
-      <link>https://idiallo.com/blog/100x-productivity-gain</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/100x-productivity-gain</guid>
-      <pubDate>Mon, 08 Jun 2026 19:50:00 +0000</pubDate>
-      <description>Software and Tech stories from an Insider - iDiallo.com</description>
-    </item>
-    <item>
-      <title>The sample efficiency black hole</title>
-      <link>https://www.dwarkesh.com/p/the-sample-efficiency-black-hole</link>
-      <guid isPermaLink="true">https://www.dwarkesh.com/p/the-sample-efficiency-black-hole</guid>
-      <pubDate>Mon, 08 Jun 2026 18:09:37 +0000</pubDate>
-      <description>Dwarkesh Podcast</description>
     </item>
   </channel>
 </rss>
