@@ -208,11 +208,11 @@ Last Updated: Tuesday, June 16th, 2026, 11:33:02 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [JAX: commitment issues](https://www.gilesthomas.com/2026/06/jax-commitment-issues) — *Giles' blog* `06-15`
-- [Quaternion Rotations, Claude, and Lean](https://www.johndcook.com/blog/2026/06/15/quaternions-claude-lean/) — *John D. Cook* `06-15`
-- [AI's Brokenomics](https://www.wheresyoured.at/brokenomics/) — *Ed Zitron's Where's Your Ed At* `06-15`
-- [The European Commission Ruled Months Ago That Google’s Integration of Gemini in Android Violates the DMA](https://arstechnica.com/ai/2026/04/europe-could-force-google-to-open-android-to-other-ai-assistants/) — *Daring Fireball* `06-15`
-- [WorkOS Launches Auth.md — an Open Protocol for Agent Registration](https://workos.com/auth-md?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q22026) — *Daring Fireball* `06-15`
+- [Exclusive: OpenAI Losses Increased Nearly 8X in 2025, With Spending Hitting $34 Billion](https://www.wheresyoured.at/exclusive-openai-financials/) — *Ed Zitron's Where's Your Ed At* `06-16`
+- [Quoting Matteo Wong, The Atlantic](https://simonwillison.net/2026/Jun/16/matteo-wong-the-atlantic/#atom-everything) — *Simon Willison's Weblog* `06-16`
+- [[Sponsor] Mux — Video for Developers](https://www.mux.com/?utm_campaign=fireball&utm_source=DF) — *Daring Fireball* `06-16`
+- [The Washington Post on the EU’s DMA Folly](https://www.washingtonpost.com/opinions/2026/06/14/apple-withholding-siri-ai-europe-is-another-dma-failure/) — *Daring Fireball* `06-16`
+- [What the new Linux NFS mount option 'fatal_neterrors' is](https://utcc.utoronto.ca/~cks/space/blog/linux/NFSMountOptionFatalNeterrors) — *Chris's Wiki :: blog* `06-16`
 <!--BLOG_RADAR:end-->
 
 ---

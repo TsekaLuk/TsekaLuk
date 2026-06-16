@@ -4,7 +4,56 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 15 Jun 2026 21:12:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 05:11:25 +0000</lastBuildDate>
+    <item>
+      <title>Exclusive: OpenAI Losses Increased Nearly 8X in 2025, With Spending Hitting $34 Billion</title>
+      <link>https://www.wheresyoured.at/exclusive-openai-financials/</link>
+      <guid isPermaLink="true">https://www.wheresyoured.at/exclusive-openai-financials/</guid>
+      <pubDate>Tue, 16 Jun 2026 03:58:20 +0000</pubDate>
+      <description>Ed Zitron's Where's Your Ed At</description>
+    </item>
+    <item>
+      <title>Quoting Matteo Wong, The Atlantic</title>
+      <link>https://simonwillison.net/2026/Jun/16/matteo-wong-the-atlantic/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/16/matteo-wong-the-atlantic/#atom-everything</guid>
+      <pubDate>Tue, 16 Jun 2026 03:07:54 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>[Sponsor] Mux — Video for Developers</title>
+      <link>https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF</link>
+      <guid isPermaLink="true">https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF</guid>
+      <pubDate>Tue, 16 Jun 2026 02:33:37 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>The Washington Post on the EU’s DMA Folly</title>
+      <link>https://www.washingtonpost.com/opinions/2026/06/14/apple-withholding-siri-ai-europe-is-another-dma-failure/</link>
+      <guid isPermaLink="true">https://www.washingtonpost.com/opinions/2026/06/14/apple-withholding-siri-ai-europe-is-another-dma-failure/</guid>
+      <pubDate>Tue, 16 Jun 2026 02:20:30 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>What the new Linux NFS mount option 'fatal_neterrors' is</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/NFSMountOptionFatalNeterrors</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/NFSMountOptionFatalNeterrors</guid>
+      <pubDate>Tue, 16 Jun 2026 02:07:52 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>Cloudflare CAPTCHA on at least one ampersand</title>
+      <link>https://simonwillison.net/2026/Jun/16/captcha-on-at-least-one-ampersand/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/16/captcha-on-at-least-one-ampersand/#atom-everything</guid>
+      <pubDate>Tue, 16 Jun 2026 00:21:36 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Testing pentagonal numbers</title>
+      <link>https://www.johndcook.com/blog/2026/06/15/testing-pentagonal-numbers/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/15/testing-pentagonal-numbers/</guid>
+      <pubDate>Mon, 15 Jun 2026 23:57:54 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
     <item>
       <title>JAX: commitment issues</title>
       <link>https://www.gilesthomas.com/2026/06/jax-commitment-issues</link>
@@ -48,6 +97,13 @@
       <description>John D. Cook</description>
     </item>
     <item>
+      <title>datasette-agent 0.3a0</title>
+      <link>https://simonwillison.net/2026/Jun/15/datasette-agent/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/15/datasette-agent/#atom-everything</guid>
+      <pubDate>Mon, 15 Jun 2026 17:19:27 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
       <title>‘Anthropic’s Safety Superpower’</title>
       <link>https://stratechery.com/2026/anthropics-safety-superpower/</link>
       <guid isPermaLink="true">https://stratechery.com/2026/anthropics-safety-superpower/</guid>
@@ -69,18 +125,18 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
+      <title>The time the x86 emulator team found code so bad that they fixed it during emulation</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419</guid>
+      <pubDate>Mon, 15 Jun 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
+    <item>
       <title>EU &amp; Civil Society need to progress on Digital Autonomy</title>
       <link>https://berthub.eu/articles/posts/eu-civil-society-need-progress-digital-autonomy/</link>
       <guid isPermaLink="true">https://berthub.eu/articles/posts/eu-civil-society-need-progress-digital-autonomy/</guid>
       <pubDate>Mon, 15 Jun 2026 13:00:00 +0000</pubDate>
       <description>Bert Hubert's writings</description>
-    </item>
-    <item>
-      <title>[RSS Club] What happens to old posts?</title>
-      <link>https://shkspr.mobi/blog/2026/06/rss-club-what-happens-to-old-posts/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/rss-club-what-happens-to-old-posts/</guid>
-      <pubDate>Mon, 15 Jun 2026 11:34:34 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Weekly Update 508</title>
@@ -118,6 +174,13 @@
       <description>Tom Renner on My place to put things</description>
     </item>
     <item>
+      <title>Maybe it's time for lots of little indie AIs to take over</title>
+      <link>https://anildash.com/2026/06/15/indie-AI-takeover/</link>
+      <guid isPermaLink="true">https://anildash.com/2026/06/15/indie-AI-takeover/</guid>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Anil Dash</description>
+    </item>
+    <item>
       <title>A brief history of KV cache compression developments</title>
       <link>https://martinalderson.com/posts/a-brief-history-of-kv-cache-compression-developments/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
       <guid isPermaLink="true">https://martinalderson.com/posts/a-brief-history-of-kv-cache-compression-developments/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
@@ -132,11 +195,11 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>Did Frank Sinatra really think "Something" was a Lennon/McCartney song?</title>
-      <link>https://shkspr.mobi/blog/2026/06/did-frank-sinatra-really-think-something-was-a-lennon-mccartney-song/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/did-frank-sinatra-really-think-something-was-a-lennon-mccartney-song/</guid>
-      <pubDate>Sun, 14 Jun 2026 11:34:16 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
+      <title>The Sword Juggling Fallacy</title>
+      <link>https://hugotunius.se/2026/06/15/the-sword-juggling-fallacy.html</link>
+      <guid isPermaLink="true">https://hugotunius.se/2026/06/15/the-sword-juggling-fallacy.html</guid>
+      <pubDate>Sun, 14 Jun 2026 23:00:00 +0000</pubDate>
+      <description>Hugo Tunius - Blog</description>
     </item>
     <item>
       <title>Plugins case study: Pluggy</title>
@@ -363,13 +426,6 @@
       <description>Software and Tech stories from an Insider - iDiallo.com</description>
     </item>
     <item>
-      <title>Gadget Review: TP Link EH210 Ethernet Splitter (USB-C) ★★★★★</title>
-      <link>https://shkspr.mobi/blog/2026/06/gadget-review-tp-link-eh210-ethernet-splitter-usb-c/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/gadget-review-tp-link-eh210-ethernet-splitter-usb-c/</guid>
-      <pubDate>Fri, 12 Jun 2026 11:34:18 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>Joint Guidance on Vulnerability Naming and Disclosure</title>
       <link>https://nesbitt.io/2026/06/12/joint-guidance-on-vulnerability-naming-and-disclosure.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/06/12/joint-guidance-on-vulnerability-naming-and-disclosure.html</guid>
@@ -587,13 +643,6 @@
       <description>Computer Things</description>
     </item>
     <item>
-      <title>Book Review: The Husbands by Holly Gramazio ★★★★★</title>
-      <link>https://shkspr.mobi/blog/2026/06/book-review-the-husbands-by-holly-gramazio/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/book-review-the-husbands-by-holly-gramazio/</guid>
-      <pubDate>Wed, 10 Jun 2026 11:34:55 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>Weekly Update 507</title>
       <link>https://www.troyhunt.com/weekly-update-507/</link>
       <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-507/</guid>
@@ -795,55 +844,6 @@
       <guid isPermaLink="true">https://www.dwarkesh.com/p/the-sample-efficiency-black-hole</guid>
       <pubDate>Mon, 08 Jun 2026 18:09:37 +0000</pubDate>
       <description>Dwarkesh Podcast</description>
-    </item>
-    <item>
-      <title>AI Is Slowing Down</title>
-      <link>https://www.wheresyoured.at/ai-is-slowing-down/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/ai-is-slowing-down/</guid>
-      <pubDate>Mon, 08 Jun 2026 15:37:39 +0000</pubDate>
-      <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>Planescape: Torment, Part 2: …to the Desktop</title>
-      <link>https://www.filfre.net/2026/06/planescape-torment-part-2-to-the-desktop/</link>
-      <guid isPermaLink="true">https://www.filfre.net/2026/06/planescape-torment-part-2-to-the-desktop/</guid>
-      <pubDate>Mon, 08 Jun 2026 15:36:41 +0000</pubDate>
-      <description>The Digital Antiquarian</description>
-    </item>
-    <item>
-      <title>Rotation revisited: Shuffling more than three blocks, and other small notes</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260608-00/?p=112407</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260608-00/?p=112407</guid>
-      <pubDate>Mon, 08 Jun 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Hacking for Defense @ Stanford 2026 – Lessons Learned Presentations</title>
-      <link>https://steveblank.com/2026/06/08/g-for-defense-stanford-2026-lessons-learned-presentations/</link>
-      <guid isPermaLink="true">https://steveblank.com/2026/06/08/g-for-defense-stanford-2026-lessons-learned-presentations/</guid>
-      <pubDate>Mon, 08 Jun 2026 13:00:15 +0000</pubDate>
-      <description>Steve Blank</description>
-    </item>
-    <item>
-      <title>How many consecutive hyphens can you have in a domain name?</title>
-      <link>https://shkspr.mobi/blog/2026/06/how-many-consecutive-hyphens-can-you-have-in-a-domain-name/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/how-many-consecutive-hyphens-can-you-have-in-a-domain-name/</guid>
-      <pubDate>Mon, 08 Jun 2026 11:34:59 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>De gietijzeren pan en big tech</title>
-      <link>https://berthub.eu/articles/posts/de-gietijzeren-pan-en-big-tech/</link>
-      <guid isPermaLink="true">https://berthub.eu/articles/posts/de-gietijzeren-pan-en-big-tech/</guid>
-      <pubDate>Mon, 08 Jun 2026 11:00:00 +0000</pubDate>
-      <description>Bert Hubert's writings</description>
-    </item>
-    <item>
-      <title>Package Manager Patents</title>
-      <link>https://nesbitt.io/2026/06/08/package-manager-patents.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/06/08/package-manager-patents.html</guid>
-      <pubDate>Mon, 08 Jun 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
     </item>
   </channel>
 </rss>
