@@ -208,11 +208,11 @@ Last Updated: Wednesday, June 17th, 2026, 12:40:20 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Three examples suffice](https://www.johndcook.com/blog/2026/06/16/three-examples-suffice/) — *John D. Cook* `06-16`
-- [The Fable 5 Export Controls Harm US Cyber Defense](https://simonwillison.net/2026/Jun/16/fable-5-export-controls/#atom-everything) — *Simon Willison's Weblog* `06-16`
-- [Exclusive: OpenAI Losses Increased Nearly 8X in 2025, With Spending Hitting $34 Billion](https://www.wheresyoured.at/exclusive-openai-financials/) — *Ed Zitron's Where's Your Ed At* `06-16`
-- [Quoting Matteo Wong, The Atlantic](https://simonwillison.net/2026/Jun/16/matteo-wong-the-atlantic/#atom-everything) — *Simon Willison's Weblog* `06-16`
-- [[Sponsor] Mux — Video for Developers](https://www.mux.com/?utm_campaign=fireball&utm_source=DF) — *Daring Fireball* `06-16`
+- [New in the App Store: Personalized Recommendations](https://techcrunch.com/2026/06/09/apples-app-store-rolls-out-personalized-recommendations/) — *Daring Fireball* `06-16`
+- [Quoting Georgi Gerganov](https://simonwillison.net/2026/Jun/16/georgi-gerganov/#atom-everything) — *Simon Willison's Weblog* `06-16`
+- [Would you like a drainer served at the very top of DuckDuckGo?](https://timsh.org/drainer-at-the-top-of-duckduckgo/) — *tim.sh* `06-16`
+- [Lean Launch Pad 2026 @ Stanford – Lessons Learned Presentations](https://steveblank.com/2026/06/16/lean-launch-pad-2026-stanford-lessons-learned-presentations/) — *Steve Blank* `06-16`
+- [Two Way TV - product photos of 1997's hottest gadget](https://shkspr.mobi/blog/2026/06/two-way-tv-product-photos-of-1997s-hottest-gadget/) — *Terence Eden’s Blog* `06-16`
 <!--BLOG_RADAR:end-->
 
 ---

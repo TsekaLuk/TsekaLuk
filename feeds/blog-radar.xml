@@ -4,13 +4,55 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 16 Jun 2026 11:25:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 17:09:46 +0000</lastBuildDate>
+    <item>
+      <title>New in the App Store: Personalized Recommendations</title>
+      <link>https://techcrunch.com/2026/06/09/apples-app-store-rolls-out-personalized-recommendations/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/06/09/apples-app-store-rolls-out-personalized-recommendations/</guid>
+      <pubDate>Tue, 16 Jun 2026 16:12:31 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Quoting Georgi Gerganov</title>
+      <link>https://simonwillison.net/2026/Jun/16/georgi-gerganov/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/16/georgi-gerganov/#atom-everything</guid>
+      <pubDate>Tue, 16 Jun 2026 16:04:59 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Would you like a drainer served at the very top of DuckDuckGo?</title>
+      <link>https://timsh.org/drainer-at-the-top-of-duckduckgo/</link>
+      <guid isPermaLink="true">https://timsh.org/drainer-at-the-top-of-duckduckgo/</guid>
+      <pubDate>Tue, 16 Jun 2026 13:34:35 +0000</pubDate>
+      <description>tim.sh</description>
+    </item>
+    <item>
+      <title>Lean Launch Pad 2026 @ Stanford – Lessons Learned Presentations</title>
+      <link>https://steveblank.com/2026/06/16/lean-launch-pad-2026-stanford-lessons-learned-presentations/</link>
+      <guid isPermaLink="true">https://steveblank.com/2026/06/16/lean-launch-pad-2026-stanford-lessons-learned-presentations/</guid>
+      <pubDate>Tue, 16 Jun 2026 13:00:57 +0000</pubDate>
+      <description>Steve Blank</description>
+    </item>
+    <item>
+      <title>Two Way TV - product photos of 1997's hottest gadget</title>
+      <link>https://shkspr.mobi/blog/2026/06/two-way-tv-product-photos-of-1997s-hottest-gadget/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/two-way-tv-product-photos-of-1997s-hottest-gadget/</guid>
+      <pubDate>Tue, 16 Jun 2026 11:34:18 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
     <item>
       <title>Three examples suffice</title>
       <link>https://www.johndcook.com/blog/2026/06/16/three-examples-suffice/</link>
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/16/three-examples-suffice/</guid>
       <pubDate>Tue, 16 Jun 2026 11:14:01 +0000</pubDate>
       <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>How Open Source Projects Change Hands</title>
+      <link>https://nesbitt.io/2026/06/16/how-open-source-projects-change-hands.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/06/16/how-open-source-projects-change-hands.html</guid>
+      <pubDate>Tue, 16 Jun 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
     </item>
     <item>
       <title>The Fable 5 Export Controls Harm US Cyber Defense</title>
@@ -202,18 +244,18 @@
       <description>Tom Renner on My place to put things</description>
     </item>
     <item>
-      <title>Maybe it's time for lots of little indie AIs to take over</title>
-      <link>https://anildash.com/2026/06/15/indie-AI-takeover/</link>
-      <guid isPermaLink="true">https://anildash.com/2026/06/15/indie-AI-takeover/</guid>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Anil Dash</description>
-    </item>
-    <item>
       <title>A brief history of KV cache compression developments</title>
       <link>https://martinalderson.com/posts/a-brief-history-of-kv-cache-compression-developments/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
       <guid isPermaLink="true">https://martinalderson.com/posts/a-brief-history-of-kv-cache-compression-developments/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
       <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
       <description>Martin Alderson</description>
+    </item>
+    <item>
+      <title>Maybe it's time for lots of little indie AIs to take over</title>
+      <link>https://anildash.com/2026/06/15/indie-AI-takeover/</link>
+      <guid isPermaLink="true">https://anildash.com/2026/06/15/indie-AI-takeover/</guid>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Anil Dash</description>
     </item>
     <item>
       <title>Why AI hasn’t replaced software engineers, and won’t</title>
@@ -363,18 +405,18 @@
       <description>Chris's Wiki :: blog</description>
     </item>
     <item>
-      <title>Dangerous Technology For Americans Only</title>
-      <link>https://lucumr.pocoo.org/2026/6/13/americans-only/</link>
-      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/6/13/americans-only/</guid>
-      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Armin Ronacher's Thoughts and Writings</description>
-    </item>
-    <item>
       <title>Making glass-to-metal seals for homemade vacuum tubes.</title>
       <link>https://maurycyz.com/projects/glass/1/</link>
       <guid isPermaLink="true">https://maurycyz.com/projects/glass/1/</guid>
       <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
       <description>Maurycy's Blog</description>
+    </item>
+    <item>
+      <title>Dangerous Technology For Americans Only</title>
+      <link>https://lucumr.pocoo.org/2026/6/13/americans-only/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/6/13/americans-only/</guid>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
       <title>Human Routers of Machine Words</title>
@@ -802,48 +844,6 @@
       <guid isPermaLink="true">https://herman.bearblog.dev/active-recall/</guid>
       <pubDate>Tue, 09 Jun 2026 14:50:00 +0000</pubDate>
       <description>Herman's blog</description>
-    </item>
-    <item>
-      <title>The Microsoft Company Party where everybody played name tag swap</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260609-00/?p=112409</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260609-00/?p=112409</guid>
-      <pubDate>Tue, 09 Jun 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Pluralistic: Naomi Kritzer's "Obstetrix" (09 Jun 2026)</title>
-      <link>https://pluralistic.net/2026/06/09/deliver-us/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/06/09/deliver-us/</guid>
-      <pubDate>Tue, 09 Jun 2026 13:30:12 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Incorruptible</title>
-      <link>https://steveblank.com/2026/06/09/incorruptible/</link>
-      <guid isPermaLink="true">https://steveblank.com/2026/06/09/incorruptible/</guid>
-      <pubDate>Tue, 09 Jun 2026 13:00:23 +0000</pubDate>
-      <description>Steve Blank</description>
-    </item>
-    <item>
-      <title>Forms of Open Source Government</title>
-      <link>https://nesbitt.io/2026/06/09/forms-of-open-source-government.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/06/09/forms-of-open-source-government.html</guid>
-      <pubDate>Tue, 09 Jun 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>[Sponsor] WorkOS Launches auth.md — an Open Protocol for Agent Registration</title>
-      <link>https://youtu.be/Dqp_b8GHLXU?t=1074</link>
-      <guid isPermaLink="true">https://youtu.be/Dqp_b8GHLXU?t=1074</guid>
-      <pubDate>Tue, 09 Jun 2026 04:23:05 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Understanding Embark in GNU Emacs (a bit) and some 'stupid' Embark tricks</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsUnderstandingEmbark</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsUnderstandingEmbark</guid>
-      <pubDate>Tue, 09 Jun 2026 03:46:37 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
     </item>
   </channel>
 </rss>
