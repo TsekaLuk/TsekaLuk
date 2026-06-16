@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 16 Jun 2026 17:09:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 21:11:50 +0000</lastBuildDate>
+    <item>
+      <title>Debugging on Prod</title>
+      <link>https://idiallo.com/blog/debugging-on-prod</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/debugging-on-prod</guid>
+      <pubDate>Tue, 16 Jun 2026 20:18:00 +0000</pubDate>
+      <description>Software and Tech stories from an Insider - iDiallo.com</description>
+    </item>
+    <item>
+      <title>10Gb/s Ethernet: switching to a Broadcom SFP+ module</title>
+      <link>https://www.gilesthomas.com/2026/06/10g-ethernet-switching-to-broadcom-sfp-plus</link>
+      <guid isPermaLink="true">https://www.gilesthomas.com/2026/06/10g-ethernet-switching-to-broadcom-sfp-plus</guid>
+      <pubDate>Tue, 16 Jun 2026 18:45:00 +0000</pubDate>
+      <description>Giles' blog</description>
+    </item>
+    <item>
+      <title>Partial fraction decomposition</title>
+      <link>https://www.johndcook.com/blog/2026/06/16/partial-fraction-decomposition/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/16/partial-fraction-decomposition/</guid>
+      <pubDate>Tue, 16 Jun 2026 17:56:27 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Ada Palmer – Machiavelli is the most misunderstood thinker of all time</title>
+      <link>https://www.dwarkesh.com/p/ada-palmer-2</link>
+      <guid isPermaLink="true">https://www.dwarkesh.com/p/ada-palmer-2</guid>
+      <pubDate>Tue, 16 Jun 2026 17:27:51 +0000</pubDate>
+      <description>Dwarkesh Podcast</description>
+    </item>
     <item>
       <title>New in the App Store: Personalized Recommendations</title>
       <link>https://techcrunch.com/2026/06/09/apples-app-store-rolls-out-personalized-recommendations/</link>
@@ -20,6 +48,13 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
+      <title>Do not invite big-tech to join your digital autonomy discussion</title>
+      <link>https://berthub.eu/articles/posts/do-not-invite-big-tech-to-your-digital-autonomy-discussion/</link>
+      <guid isPermaLink="true">https://berthub.eu/articles/posts/do-not-invite-big-tech-to-your-digital-autonomy-discussion/</guid>
+      <pubDate>Tue, 16 Jun 2026 16:00:00 +0000</pubDate>
+      <description>Bert Hubert's writings</description>
+    </item>
+    <item>
       <title>Would you like a drainer served at the very top of DuckDuckGo?</title>
       <link>https://timsh.org/drainer-at-the-top-of-duckduckgo/</link>
       <guid isPermaLink="true">https://timsh.org/drainer-at-the-top-of-duckduckgo/</guid>
@@ -32,13 +67,6 @@
       <guid isPermaLink="true">https://steveblank.com/2026/06/16/lean-launch-pad-2026-stanford-lessons-learned-presentations/</guid>
       <pubDate>Tue, 16 Jun 2026 13:00:57 +0000</pubDate>
       <description>Steve Blank</description>
-    </item>
-    <item>
-      <title>Two Way TV - product photos of 1997's hottest gadget</title>
-      <link>https://shkspr.mobi/blog/2026/06/two-way-tv-product-photos-of-1997s-hottest-gadget/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/two-way-tv-product-photos-of-1997s-hottest-gadget/</guid>
-      <pubDate>Tue, 16 Jun 2026 11:34:18 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Three examples suffice</title>
@@ -202,13 +230,6 @@
       <description>Bert Hubert's writings</description>
     </item>
     <item>
-      <title>[RSS Club] What happens to old posts?</title>
-      <link>https://shkspr.mobi/blog/2026/06/rss-club-what-happens-to-old-posts/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/rss-club-what-happens-to-old-posts/</guid>
-      <pubDate>Mon, 15 Jun 2026 11:34:34 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>Weekly Update 508</title>
       <link>https://www.troyhunt.com/weekly-update-508/</link>
       <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-508/</guid>
@@ -244,18 +265,18 @@
       <description>Tom Renner on My place to put things</description>
     </item>
     <item>
-      <title>A brief history of KV cache compression developments</title>
-      <link>https://martinalderson.com/posts/a-brief-history-of-kv-cache-compression-developments/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
-      <guid isPermaLink="true">https://martinalderson.com/posts/a-brief-history-of-kv-cache-compression-developments/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Martin Alderson</description>
-    </item>
-    <item>
       <title>Maybe it's time for lots of little indie AIs to take over</title>
       <link>https://anildash.com/2026/06/15/indie-AI-takeover/</link>
       <guid isPermaLink="true">https://anildash.com/2026/06/15/indie-AI-takeover/</guid>
       <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
       <description>Anil Dash</description>
+    </item>
+    <item>
+      <title>A brief history of KV cache compression developments</title>
+      <link>https://martinalderson.com/posts/a-brief-history-of-kv-cache-compression-developments/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
+      <guid isPermaLink="true">https://martinalderson.com/posts/a-brief-history-of-kv-cache-compression-developments/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Martin Alderson</description>
     </item>
     <item>
       <title>Why AI hasn’t replaced software engineers, and won’t</title>
@@ -270,13 +291,6 @@
       <guid isPermaLink="true">https://hugotunius.se/2026/06/15/the-sword-juggling-fallacy.html</guid>
       <pubDate>Sun, 14 Jun 2026 23:00:00 +0000</pubDate>
       <description>Hugo Tunius - Blog</description>
-    </item>
-    <item>
-      <title>Did Frank Sinatra really think "Something" was a Lennon/McCartney song?</title>
-      <link>https://shkspr.mobi/blog/2026/06/did-frank-sinatra-really-think-something-was-a-lennon-mccartney-song/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/did-frank-sinatra-really-think-something-was-a-lennon-mccartney-song/</guid>
-      <pubDate>Sun, 14 Jun 2026 11:34:16 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Plugins case study: Pluggy</title>
@@ -482,13 +496,6 @@
       <description>The Digital Antiquarian</description>
     </item>
     <item>
-      <title>You can finally power on a Mac remotely</title>
-      <link>https://www.jeffgeerling.com/blog/2026/power-on-your-mac-remotely/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/power-on-your-mac-remotely/</guid>
-      <pubDate>Fri, 12 Jun 2026 14:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
       <title>How can I schedule work on a thread pool with low latency?</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260612-00/?p=112417</link>
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260612-00/?p=112417</guid>
@@ -496,18 +503,18 @@
       <description>The Old New Thing</description>
     </item>
     <item>
+      <title>You can finally power on a Mac remotely</title>
+      <link>https://www.jeffgeerling.com/blog/2026/power-on-your-mac-remotely/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/power-on-your-mac-remotely/</guid>
+      <pubDate>Fri, 12 Jun 2026 14:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
+    </item>
+    <item>
       <title>I can never fully embrace LLMs for code</title>
       <link>https://idiallo.com/blog/i-can-never-embrace-llms-to-write-code</link>
       <guid isPermaLink="true">https://idiallo.com/blog/i-can-never-embrace-llms-to-write-code</guid>
       <pubDate>Fri, 12 Jun 2026 12:00:00 +0000</pubDate>
       <description>Software and Tech stories from an Insider - iDiallo.com</description>
-    </item>
-    <item>
-      <title>Gadget Review: TP Link EH210 Ethernet Splitter (USB-C) ★★★★★</title>
-      <link>https://shkspr.mobi/blog/2026/06/gadget-review-tp-link-eh210-ethernet-splitter-usb-c/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/gadget-review-tp-link-eh210-ethernet-splitter-usb-c/</guid>
-      <pubDate>Fri, 12 Jun 2026 11:34:18 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Joint Guidance on Vulnerability Naming and Disclosure</title>
@@ -725,13 +732,6 @@
       <guid isPermaLink="true">https://buttondown.com/hillelwayne/archive/nontrailing-separators-do-not-spark-joy/</guid>
       <pubDate>Wed, 10 Jun 2026 12:22:04 +0000</pubDate>
       <description>Computer Things</description>
-    </item>
-    <item>
-      <title>Book Review: The Husbands by Holly Gramazio ★★★★★</title>
-      <link>https://shkspr.mobi/blog/2026/06/book-review-the-husbands-by-holly-gramazio/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/book-review-the-husbands-by-holly-gramazio/</guid>
-      <pubDate>Wed, 10 Jun 2026 11:34:55 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Weekly Update 507</title>

@@ -208,11 +208,11 @@ Last Updated: Wednesday, June 17th, 2026, 4:43:13 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Debugging on Prod](https://idiallo.com/blog/debugging-on-prod) — *Software and Tech stories from an Insider - iDiallo.com* `06-16`
+- [10Gb/s Ethernet: switching to a Broadcom SFP+ module](https://www.gilesthomas.com/2026/06/10g-ethernet-switching-to-broadcom-sfp-plus) — *Giles' blog* `06-16`
+- [Partial fraction decomposition](https://www.johndcook.com/blog/2026/06/16/partial-fraction-decomposition/) — *John D. Cook* `06-16`
+- [Ada Palmer – Machiavelli is the most misunderstood thinker of all time](https://www.dwarkesh.com/p/ada-palmer-2) — *Dwarkesh Podcast* `06-16`
 - [New in the App Store: Personalized Recommendations](https://techcrunch.com/2026/06/09/apples-app-store-rolls-out-personalized-recommendations/) — *Daring Fireball* `06-16`
-- [Quoting Georgi Gerganov](https://simonwillison.net/2026/Jun/16/georgi-gerganov/#atom-everything) — *Simon Willison's Weblog* `06-16`
-- [Would you like a drainer served at the very top of DuckDuckGo?](https://timsh.org/drainer-at-the-top-of-duckduckgo/) — *tim.sh* `06-16`
-- [Lean Launch Pad 2026 @ Stanford – Lessons Learned Presentations](https://steveblank.com/2026/06/16/lean-launch-pad-2026-stanford-lessons-learned-presentations/) — *Steve Blank* `06-16`
-- [Two Way TV - product photos of 1997's hottest gadget](https://shkspr.mobi/blog/2026/06/two-way-tv-product-photos-of-1997s-hottest-gadget/) — *Terence Eden’s Blog* `06-16`
 <!--BLOG_RADAR:end-->
 
 ---
