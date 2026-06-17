@@ -208,11 +208,11 @@ Last Updated: Wednesday, June 17th, 2026, 11:30:58 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [NetNewsWire Status](https://simonwillison.net/2026/Jun/17/netnewswire-status/#atom-everything) — *Simon Willison's Weblog* `06-17`
+- [Flax debugging: making a hash of things](https://www.gilesthomas.com/2026/06/hashing-jax-parameters) — *Giles' blog* `06-17`
+- [Why servers running Ubuntu can stall on boot for two minutes](https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuNetplanWaitForCarrier) — *Chris's Wiki :: blog* `06-17`
+- [Checking In on the iOS Continental Fun-Gap Drift](https://daringfireball.net/2024/09/ios_continental_drift_fun_gap) — *Daring Fireball* `06-17`
 - [Debugging on Prod](https://idiallo.com/blog/debugging-on-prod) — *Software and Tech stories from an Insider - iDiallo.com* `06-16`
-- [10Gb/s Ethernet: switching to a Broadcom SFP+ module](https://www.gilesthomas.com/2026/06/10g-ethernet-switching-to-broadcom-sfp-plus) — *Giles' blog* `06-16`
-- [Partial fraction decomposition](https://www.johndcook.com/blog/2026/06/16/partial-fraction-decomposition/) — *John D. Cook* `06-16`
-- [Ada Palmer – Machiavelli is the most misunderstood thinker of all time](https://www.dwarkesh.com/p/ada-palmer-2) — *Dwarkesh Podcast* `06-16`
-- [New in the App Store: Personalized Recommendations](https://techcrunch.com/2026/06/09/apples-app-store-rolls-out-personalized-recommendations/) — *Daring Fireball* `06-16`
 <!--BLOG_RADAR:end-->
 
 ---

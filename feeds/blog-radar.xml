@@ -4,13 +4,48 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 16 Jun 2026 21:11:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 04:53:46 +0000</lastBuildDate>
+    <item>
+      <title>NetNewsWire Status</title>
+      <link>https://simonwillison.net/2026/Jun/17/netnewswire-status/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/17/netnewswire-status/#atom-everything</guid>
+      <pubDate>Wed, 17 Jun 2026 03:36:09 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Flax debugging: making a hash of things</title>
+      <link>https://www.gilesthomas.com/2026/06/hashing-jax-parameters</link>
+      <guid isPermaLink="true">https://www.gilesthomas.com/2026/06/hashing-jax-parameters</guid>
+      <pubDate>Wed, 17 Jun 2026 02:40:00 +0000</pubDate>
+      <description>Giles' blog</description>
+    </item>
+    <item>
+      <title>Why servers running Ubuntu can stall on boot for two minutes</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuNetplanWaitForCarrier</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuNetplanWaitForCarrier</guid>
+      <pubDate>Wed, 17 Jun 2026 02:29:09 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>Checking In on the iOS Continental Fun-Gap Drift</title>
+      <link>https://daringfireball.net/2024/09/ios_continental_drift_fun_gap</link>
+      <guid isPermaLink="true">https://daringfireball.net/2024/09/ios_continental_drift_fun_gap</guid>
+      <pubDate>Wed, 17 Jun 2026 00:50:18 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Debugging on Prod</title>
       <link>https://idiallo.com/blog/debugging-on-prod</link>
       <guid isPermaLink="true">https://idiallo.com/blog/debugging-on-prod</guid>
       <pubDate>Tue, 16 Jun 2026 20:18:00 +0000</pubDate>
       <description>Software and Tech stories from an Insider - iDiallo.com</description>
+    </item>
+    <item>
+      <title>Key, in sight</title>
+      <link>https://aresluna.org/key-in-sight</link>
+      <guid isPermaLink="true">https://aresluna.org/key-in-sight</guid>
+      <pubDate>Tue, 16 Jun 2026 18:50:27 +0000</pubDate>
+      <description>Aresluna</description>
     </item>
     <item>
       <title>10Gb/s Ethernet: switching to a Broadcom SFP+ module</title>
@@ -34,6 +69,13 @@
       <description>Dwarkesh Podcast</description>
     </item>
     <item>
+      <title>datasette-tailscale 0.1a0</title>
+      <link>https://simonwillison.net/2026/Jun/16/datasette-tailscale/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/16/datasette-tailscale/#atom-everything</guid>
+      <pubDate>Tue, 16 Jun 2026 16:18:20 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
       <title>New in the App Store: Personalized Recommendations</title>
       <link>https://techcrunch.com/2026/06/09/apples-app-store-rolls-out-personalized-recommendations/</link>
       <guid isPermaLink="true">https://techcrunch.com/2026/06/09/apples-app-store-rolls-out-personalized-recommendations/</guid>
@@ -53,6 +95,13 @@
       <guid isPermaLink="true">https://berthub.eu/articles/posts/do-not-invite-big-tech-to-your-digital-autonomy-discussion/</guid>
       <pubDate>Tue, 16 Jun 2026 16:00:00 +0000</pubDate>
       <description>Bert Hubert's writings</description>
+    </item>
+    <item>
+      <title>Retrofitting the WM_COPY­DATA message onto Windows 3.1</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260616-00/?p=112430</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260616-00/?p=112430</guid>
+      <pubDate>Tue, 16 Jun 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Would you like a drainer served at the very top of DuckDuckGo?</title>
@@ -419,18 +468,18 @@
       <description>Chris's Wiki :: blog</description>
     </item>
     <item>
-      <title>Making glass-to-metal seals for homemade vacuum tubes.</title>
-      <link>https://maurycyz.com/projects/glass/1/</link>
-      <guid isPermaLink="true">https://maurycyz.com/projects/glass/1/</guid>
-      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
-    </item>
-    <item>
       <title>Dangerous Technology For Americans Only</title>
       <link>https://lucumr.pocoo.org/2026/6/13/americans-only/</link>
       <guid isPermaLink="true">https://lucumr.pocoo.org/2026/6/13/americans-only/</guid>
       <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
       <description>Armin Ronacher's Thoughts and Writings</description>
+    </item>
+    <item>
+      <title>Making glass-to-metal seals for homemade vacuum tubes.</title>
+      <link>https://maurycyz.com/projects/glass/1/</link>
+      <guid isPermaLink="true">https://maurycyz.com/projects/glass/1/</guid>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
     </item>
     <item>
       <title>Human Routers of Machine Words</title>
@@ -496,18 +545,18 @@
       <description>The Digital Antiquarian</description>
     </item>
     <item>
-      <title>How can I schedule work on a thread pool with low latency?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260612-00/?p=112417</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260612-00/?p=112417</guid>
-      <pubDate>Fri, 12 Jun 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
       <title>You can finally power on a Mac remotely</title>
       <link>https://www.jeffgeerling.com/blog/2026/power-on-your-mac-remotely/</link>
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/power-on-your-mac-remotely/</guid>
       <pubDate>Fri, 12 Jun 2026 14:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>How can I schedule work on a thread pool with low latency?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260612-00/?p=112417</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260612-00/?p=112417</guid>
+      <pubDate>Fri, 12 Jun 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>I can never fully embrace LLMs for code</title>
@@ -795,55 +844,6 @@
       <guid isPermaLink="true">https://blog.oneberri.com/posts/wwdc26-the-small-things</guid>
       <pubDate>Tue, 09 Jun 2026 21:29:57 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Quoting Andrej Karpathy</title>
-      <link>https://simonwillison.net/2026/Jun/9/andrej-karpathy/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/9/andrej-karpathy/#atom-everything</guid>
-      <pubDate>Tue, 09 Jun 2026 19:03:10 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>The Talk Show Live From WWDC: Tonight, In-Person and Streaming</title>
-      <link>https://ti.to/daringfireball/the-talk-show-live-from-wwdc-2026</link>
-      <guid isPermaLink="true">https://ti.to/daringfireball/the-talk-show-live-from-wwdc-2026</guid>
-      <pubDate>Tue, 09 Jun 2026 18:53:47 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Apple’s WWDC AI Demos Were Real and in Real Time</title>
-      <link>https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/</guid>
-      <pubDate>Tue, 09 Jun 2026 17:38:21 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Apple Introduces Siri AI</title>
-      <link>https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/</link>
-      <guid isPermaLink="true">https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/</guid>
-      <pubDate>Tue, 09 Jun 2026 17:23:29 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Stop eating Lady Gaga's Oreos</title>
-      <link>https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos</link>
-      <guid isPermaLink="true">https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos</guid>
-      <pubDate>Tue, 09 Jun 2026 16:58:56 +0000</pubDate>
-      <description>Experimental History</description>
-    </item>
-    <item>
-      <title>Apple’s WWDC Announcement of the New Apple Intelligence System</title>
-      <link>https://www.apple.com/newsroom/2026/06/apple-intelligence-brings-powerful-ai-capabilities-into-everyday-experiences/</link>
-      <guid isPermaLink="true">https://www.apple.com/newsroom/2026/06/apple-intelligence-brings-powerful-ai-capabilities-into-everyday-experiences/</guid>
-      <pubDate>Tue, 09 Jun 2026 16:50:33 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Active recall</title>
-      <link>https://herman.bearblog.dev/active-recall/</link>
-      <guid isPermaLink="true">https://herman.bearblog.dev/active-recall/</guid>
-      <pubDate>Tue, 09 Jun 2026 14:50:00 +0000</pubDate>
-      <description>Herman's blog</description>
     </item>
   </channel>
 </rss>
