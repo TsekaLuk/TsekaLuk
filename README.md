@@ -208,11 +208,11 @@ Last Updated: Thursday, June 18th, 2026, 4:05:36 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Pluralistic: The (real) dead economy theory (17 Jun 2026)](https://pluralistic.net/2026/06/17/its-the-stupid-economy-stupid/) — *Pluralistic: Daily links from Cory Doctorow* `06-17`
+- [You Got Faster. Your Company Didn’t.](https://terriblesoftware.org/2026/06/17/you-got-faster-your-company-didnt/) — *Terrible Software* `06-17`
+- [Quoting Charity Majors](https://simonwillison.net/2026/Jun/17/charity-majors/#atom-everything) — *Simon Willison's Weblog* `06-17`
+- [Logic for Programmers v0.15, Livecoding](https://buttondown.com/hillelwayne/archive/logic-for-programmers-v015-livecoding/) — *Computer Things* `06-17`
 - [Yours Truly on MacBreak Weekly: Is the New Siri AI Good?](https://twit.tv/shows/macbreak-weekly/episodes/1029?autostart=false) — *Daring Fireball* `06-17`
-- [Yours Truly on The Vergecast: ‘# the **Epic** Story of Markdown’](https://www.theverge.com/podcast/950082/markdown-history-gruber-vergecast) — *Daring Fireball* `06-17`
-- [Formalizing a ring theorem with Lean 4 and Claude](https://www.johndcook.com/blog/2026/06/17/rings-with-lean-claude/) — *John D. Cook* `06-17`
-- [<click-to-play> — a still that plays](https://simonwillison.net/2026/Jun/17/click-to-play-component/#atom-everything) — *Simon Willison's Weblog* `06-17`
-- [NetNewsWire Status](https://simonwillison.net/2026/Jun/17/netnewswire-status/#atom-everything) — *Simon Willison's Weblog* `06-17`
 <!--BLOG_RADAR:end-->
 
 ---
