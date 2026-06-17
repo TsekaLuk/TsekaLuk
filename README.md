@@ -208,11 +208,11 @@ Last Updated: Wednesday, June 17th, 2026, 11:13:10 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Yours Truly on MacBreak Weekly: Is the New Siri AI Good?](https://twit.tv/shows/macbreak-weekly/episodes/1029?autostart=false) — *Daring Fireball* `06-17`
+- [Yours Truly on The Vergecast: ‘# the **Epic** Story of Markdown’](https://www.theverge.com/podcast/950082/markdown-history-gruber-vergecast) — *Daring Fireball* `06-17`
+- [Formalizing a ring theorem with Lean 4 and Claude](https://www.johndcook.com/blog/2026/06/17/rings-with-lean-claude/) — *John D. Cook* `06-17`
 - [<click-to-play> — a still that plays](https://simonwillison.net/2026/Jun/17/click-to-play-component/#atom-everything) — *Simon Willison's Weblog* `06-17`
 - [NetNewsWire Status](https://simonwillison.net/2026/Jun/17/netnewswire-status/#atom-everything) — *Simon Willison's Weblog* `06-17`
-- [Flax debugging: making a hash of things](https://www.gilesthomas.com/2026/06/hashing-jax-parameters) — *Giles' blog* `06-17`
-- [Why servers running Ubuntu can stall on boot for two minutes](https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuNetplanWaitForCarrier) — *Chris's Wiki :: blog* `06-17`
-- [Checking In on the iOS Continental Fun-Gap Drift](https://daringfireball.net/2024/09/ios_continental_drift_fun_gap) — *Daring Fireball* `06-17`
 <!--BLOG_RADAR:end-->
 
 ---
