@@ -208,11 +208,11 @@ Last Updated: Wednesday, June 17th, 2026, 6:44:53 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [<click-to-play> — a still that plays](https://simonwillison.net/2026/Jun/17/click-to-play-component/#atom-everything) — *Simon Willison's Weblog* `06-17`
 - [NetNewsWire Status](https://simonwillison.net/2026/Jun/17/netnewswire-status/#atom-everything) — *Simon Willison's Weblog* `06-17`
 - [Flax debugging: making a hash of things](https://www.gilesthomas.com/2026/06/hashing-jax-parameters) — *Giles' blog* `06-17`
 - [Why servers running Ubuntu can stall on boot for two minutes](https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuNetplanWaitForCarrier) — *Chris's Wiki :: blog* `06-17`
 - [Checking In on the iOS Continental Fun-Gap Drift](https://daringfireball.net/2024/09/ios_continental_drift_fun_gap) — *Daring Fireball* `06-17`
-- [Debugging on Prod](https://idiallo.com/blog/debugging-on-prod) — *Software and Tech stories from an Insider - iDiallo.com* `06-16`
 <!--BLOG_RADAR:end-->
 
 ---

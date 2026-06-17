@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 17 Jun 2026 04:53:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 11:08:52 +0000</lastBuildDate>
+    <item>
+      <title>&lt;click-to-play&gt; — a still that plays</title>
+      <link>https://simonwillison.net/2026/Jun/17/click-to-play-component/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/17/click-to-play-component/#atom-everything</guid>
+      <pubDate>Wed, 17 Jun 2026 03:56:10 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>NetNewsWire Status</title>
       <link>https://simonwillison.net/2026/Jun/17/netnewswire-status/#atom-everything</link>
@@ -32,6 +39,13 @@
       <guid isPermaLink="true">https://daringfireball.net/2024/09/ios_continental_drift_fun_gap</guid>
       <pubDate>Wed, 17 Jun 2026 00:50:18 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>datasette 1.0a34</title>
+      <link>https://simonwillison.net/2026/Jun/16/datasette/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/16/datasette/#atom-everything</guid>
+      <pubDate>Tue, 16 Jun 2026 21:31:24 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
     <item>
       <title>Debugging on Prod</title>
@@ -116,6 +130,13 @@
       <guid isPermaLink="true">https://steveblank.com/2026/06/16/lean-launch-pad-2026-stanford-lessons-learned-presentations/</guid>
       <pubDate>Tue, 16 Jun 2026 13:00:57 +0000</pubDate>
       <description>Steve Blank</description>
+    </item>
+    <item>
+      <title>Two Way TV - product photos of 1997's hottest gadget</title>
+      <link>https://shkspr.mobi/blog/2026/06/two-way-tv-product-photos-of-1997s-hottest-gadget/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/two-way-tv-product-photos-of-1997s-hottest-gadget/</guid>
+      <pubDate>Tue, 16 Jun 2026 11:34:18 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Three examples suffice</title>
@@ -279,6 +300,13 @@
       <description>Bert Hubert's writings</description>
     </item>
     <item>
+      <title>[RSS Club] What happens to old posts?</title>
+      <link>https://shkspr.mobi/blog/2026/06/rss-club-what-happens-to-old-posts/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/rss-club-what-happens-to-old-posts/</guid>
+      <pubDate>Mon, 15 Jun 2026 11:34:34 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>Weekly Update 508</title>
       <link>https://www.troyhunt.com/weekly-update-508/</link>
       <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-508/</guid>
@@ -340,6 +368,13 @@
       <guid isPermaLink="true">https://hugotunius.se/2026/06/15/the-sword-juggling-fallacy.html</guid>
       <pubDate>Sun, 14 Jun 2026 23:00:00 +0000</pubDate>
       <description>Hugo Tunius - Blog</description>
+    </item>
+    <item>
+      <title>Did Frank Sinatra really think "Something" was a Lennon/McCartney song?</title>
+      <link>https://shkspr.mobi/blog/2026/06/did-frank-sinatra-really-think-something-was-a-lennon-mccartney-song/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/did-frank-sinatra-really-think-something-was-a-lennon-mccartney-song/</guid>
+      <pubDate>Sun, 14 Jun 2026 11:34:16 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Plugins case study: Pluggy</title>
@@ -468,18 +503,18 @@
       <description>Chris's Wiki :: blog</description>
     </item>
     <item>
-      <title>Dangerous Technology For Americans Only</title>
-      <link>https://lucumr.pocoo.org/2026/6/13/americans-only/</link>
-      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/6/13/americans-only/</guid>
-      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Armin Ronacher's Thoughts and Writings</description>
-    </item>
-    <item>
       <title>Making glass-to-metal seals for homemade vacuum tubes.</title>
       <link>https://maurycyz.com/projects/glass/1/</link>
       <guid isPermaLink="true">https://maurycyz.com/projects/glass/1/</guid>
       <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
       <description>Maurycy's Blog</description>
+    </item>
+    <item>
+      <title>Dangerous Technology For Americans Only</title>
+      <link>https://lucumr.pocoo.org/2026/6/13/americans-only/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/6/13/americans-only/</guid>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
       <title>Human Routers of Machine Words</title>
@@ -564,6 +599,13 @@
       <guid isPermaLink="true">https://idiallo.com/blog/i-can-never-embrace-llms-to-write-code</guid>
       <pubDate>Fri, 12 Jun 2026 12:00:00 +0000</pubDate>
       <description>Software and Tech stories from an Insider - iDiallo.com</description>
+    </item>
+    <item>
+      <title>Gadget Review: TP Link EH210 Ethernet Splitter (USB-C) ★★★★★</title>
+      <link>https://shkspr.mobi/blog/2026/06/gadget-review-tp-link-eh210-ethernet-splitter-usb-c/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/gadget-review-tp-link-eh210-ethernet-splitter-usb-c/</guid>
+      <pubDate>Fri, 12 Jun 2026 11:34:18 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Joint Guidance on Vulnerability Naming and Disclosure</title>
@@ -783,6 +825,13 @@
       <description>Computer Things</description>
     </item>
     <item>
+      <title>Book Review: The Husbands by Holly Gramazio ★★★★★</title>
+      <link>https://shkspr.mobi/blog/2026/06/book-review-the-husbands-by-holly-gramazio/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/book-review-the-husbands-by-holly-gramazio/</guid>
+      <pubDate>Wed, 10 Jun 2026 11:34:55 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>Weekly Update 507</title>
       <link>https://www.troyhunt.com/weekly-update-507/</link>
       <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-507/</guid>
@@ -795,55 +844,6 @@
       <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/web/Firefox153AddonsOnFileUrls</guid>
       <pubDate>Wed, 10 Jun 2026 02:37:48 +0000</pubDate>
       <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>If Claude Fable stops helping you, you'll never know</title>
-      <link>https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/#atom-everything</guid>
-      <pubDate>Wed, 10 Jun 2026 00:37:25 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Gaslighting Openness</title>
-      <link>https://lucumr.pocoo.org/2026/6/10/gaslighting/</link>
-      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/6/10/gaslighting/</guid>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Armin Ronacher's Thoughts and Writings</description>
-    </item>
-    <item>
-      <title>Initial impressions of Claude Fable 5</title>
-      <link>https://simonwillison.net/2026/Jun/9/claude-fable-5/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/9/claude-fable-5/#atom-everything</guid>
-      <pubDate>Tue, 09 Jun 2026 23:59:54 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>llm 0.32a3</title>
-      <link>https://simonwillison.net/2026/Jun/9/llm/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/9/llm/#atom-everything</guid>
-      <pubDate>Tue, 09 Jun 2026 22:27:03 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>A Record-Breaking Patch Tuesday for June 2026</title>
-      <link>https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/</link>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/</guid>
-      <pubDate>Tue, 09 Jun 2026 22:07:28 +0000</pubDate>
-      <description>Krebs on Security</description>
-    </item>
-    <item>
-      <title>Setting a custom price for a model in AgentsView</title>
-      <link>https://simonwillison.net/2026/Jun/9/agentsview-custom-model-price/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/9/agentsview-custom-model-price/#atom-everything</guid>
-      <pubDate>Tue, 09 Jun 2026 21:35:31 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Apple OS 27: The Small Things</title>
-      <link>https://blog.oneberri.com/posts/wwdc26-the-small-things</link>
-      <guid isPermaLink="true">https://blog.oneberri.com/posts/wwdc26-the-small-things</guid>
-      <pubDate>Tue, 09 Jun 2026 21:29:57 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
