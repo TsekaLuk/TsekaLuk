@@ -208,11 +208,11 @@ Last Updated: Thursday, June 18th, 2026, 10:58:37 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [How to correctly not wait for network carrier in Netplan](https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuNetplanWaitForCarrierII) — *Chris's Wiki :: blog* `06-18`
+- [Snap Unveils Specs, Its $2,200 AR Glasses, and They’re Fugly](https://www.theverge.com/tech/950492/snap-specs-ar-glasses-launch-date-preorder?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IlZTMmZYVXprcHciLCJwIjoiL3RlY2gvOTUwNDkyL3NuYXAtc3BlY3MtYXItZ2xhc3Nlcy1sYXVuY2gtZGF0ZS1wcmVvcmRlciIsImV4cCI6MTc4MjE3Nzc0OSwiaWF0IjoxNzgxNzQ1NzQ5fQ.Pdh1hCJafS7ca3UfJ7pPoS-wRpZQ6tEAr7HEVfTOAd8) — *Daring Fireball* `06-18`
+- [Vehicle Motion Cues — a.k.a. Apple’s Weird Anti-Nausea Dots](https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work) — *Daring Fireball* `06-18`
+- [GLM-5.2 is probably the most powerful text-only open weights LLM](https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything) — *Simon Willison's Weblog* `06-17`
 - [Pluralistic: The (real) dead economy theory (17 Jun 2026)](https://pluralistic.net/2026/06/17/its-the-stupid-economy-stupid/) — *Pluralistic: Daily links from Cory Doctorow* `06-17`
-- [You Got Faster. Your Company Didn’t.](https://terriblesoftware.org/2026/06/17/you-got-faster-your-company-didnt/) — *Terrible Software* `06-17`
-- [Quoting Charity Majors](https://simonwillison.net/2026/Jun/17/charity-majors/#atom-everything) — *Simon Willison's Weblog* `06-17`
-- [Logic for Programmers v0.15, Livecoding](https://buttondown.com/hillelwayne/archive/logic-for-programmers-v015-livecoding/) — *Computer Things* `06-17`
-- [Yours Truly on MacBreak Weekly: Is the New Siri AI Good?](https://twit.tv/shows/macbreak-weekly/episodes/1029?autostart=false) — *Daring Fireball* `06-17`
 <!--BLOG_RADAR:end-->
 
 ---
