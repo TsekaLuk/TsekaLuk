@@ -4,7 +4,49 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 18 Jun 2026 15:41:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 20:33:40 +0000</lastBuildDate>
+    <item>
+      <title>Cotypist – Smart Autocomplete Utility for Mac</title>
+      <link>https://cotypist.app/</link>
+      <guid isPermaLink="true">https://cotypist.app/</guid>
+      <pubDate>Thu, 18 Jun 2026 19:36:18 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm</title>
+      <link>https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/</link>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/</guid>
+      <pubDate>Thu, 18 Jun 2026 17:37:58 +0000</pubDate>
+      <description>Krebs on Security</description>
+    </item>
+    <item>
+      <title>New Domain for Sign In With Apple and iCloud+ Hide My Email</title>
+      <link>https://developer.apple.com/news/?id=sus6t6ab</link>
+      <guid isPermaLink="true">https://developer.apple.com/news/?id=sus6t6ab</guid>
+      <pubDate>Thu, 18 Jun 2026 17:13:48 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>NetNewsWire Status</title>
+      <link>https://inessential.com/2026/06/15/netnewswire-status.html</link>
+      <guid isPermaLink="true">https://inessential.com/2026/06/15/netnewswire-status.html</guid>
+      <pubDate>Thu, 18 Jun 2026 16:59:08 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>SpaceX, Newly Public, to Acquire Cursor for $60 Billion in SpaceX Funny-Money Stock</title>
+      <link>https://www.cnbc.com/2026/06/16/spacex-spcx-cursor-acquisition-ipo.html</link>
+      <guid isPermaLink="true">https://www.cnbc.com/2026/06/16/spacex-spcx-cursor-acquisition-ipo.html</guid>
+      <pubDate>Thu, 18 Jun 2026 16:49:00 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Tim Cook, in Interview With WSJ: ‘Unfortunately, Price Increases Are Unavoidable’</title>
+      <link>https://www.wsj.com/tech/apple-price-increases-memory-supply-199845b1?st=qWH3n1&amp;reflink=desktopwebshare_permalink</link>
+      <guid isPermaLink="true">https://www.wsj.com/tech/apple-price-increases-memory-supply-199845b1?st=qWH3n1&amp;reflink=desktopwebshare_permalink</guid>
+      <pubDate>Thu, 18 Jun 2026 15:49:47 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Pluralistic: AI digital sovereignty risk doesn't exist (18 Jun 2026)</title>
       <link>https://pluralistic.net/2026/06/18/their-trillions-our-billions/</link>
@@ -20,18 +62,18 @@
       <description>Aresluna</description>
     </item>
     <item>
-      <title>Book Review: The Great When by Alan Moore ★★★★☆</title>
-      <link>https://shkspr.mobi/blog/2026/06/book-review-the-great-when-by-alan-moore/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/book-review-the-great-when-by-alan-moore/</guid>
-      <pubDate>Thu, 18 Jun 2026 11:34:19 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>Open Source vs the Invisible Hand</title>
       <link>https://nesbitt.io/2026/06/18/open-source-vs-the-invisible-hand.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/06/18/open-source-vs-the-invisible-hand.html</guid>
       <pubDate>Thu, 18 Jun 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>You don’t understand, prices can’t go down</title>
+      <link>https://geohot.github.io//blog/jekyll/update/2026/06/18/prices-cant-go-down.html</link>
+      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/06/18/prices-cant-go-down.html</guid>
+      <pubDate>Thu, 18 Jun 2026 07:00:00 +0000</pubDate>
+      <description>the singularity is nearer</description>
     </item>
     <item>
       <title>How to correctly not wait for network carrier in Netplan</title>
@@ -265,13 +307,6 @@
       <description>Steve Blank</description>
     </item>
     <item>
-      <title>Two Way TV - product photos of 1997's hottest gadget</title>
-      <link>https://shkspr.mobi/blog/2026/06/two-way-tv-product-photos-of-1997s-hottest-gadget/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/two-way-tv-product-photos-of-1997s-hottest-gadget/</guid>
-      <pubDate>Tue, 16 Jun 2026 11:34:18 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>Three examples suffice</title>
       <link>https://www.johndcook.com/blog/2026/06/16/three-examples-suffice/</link>
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/16/three-examples-suffice/</guid>
@@ -433,13 +468,6 @@
       <description>Bert Hubert's writings</description>
     </item>
     <item>
-      <title>[RSS Club] What happens to old posts?</title>
-      <link>https://shkspr.mobi/blog/2026/06/rss-club-what-happens-to-old-posts/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/rss-club-what-happens-to-old-posts/</guid>
-      <pubDate>Mon, 15 Jun 2026 11:34:34 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>Weekly Update 508</title>
       <link>https://www.troyhunt.com/weekly-update-508/</link>
       <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-508/</guid>
@@ -501,13 +529,6 @@
       <guid isPermaLink="true">https://hugotunius.se/2026/06/15/the-sword-juggling-fallacy.html</guid>
       <pubDate>Sun, 14 Jun 2026 23:00:00 +0000</pubDate>
       <description>Hugo Tunius - Blog</description>
-    </item>
-    <item>
-      <title>Did Frank Sinatra really think "Something" was a Lennon/McCartney song?</title>
-      <link>https://shkspr.mobi/blog/2026/06/did-frank-sinatra-really-think-something-was-a-lennon-mccartney-song/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/did-frank-sinatra-really-think-something-was-a-lennon-mccartney-song/</guid>
-      <pubDate>Sun, 14 Jun 2026 11:34:16 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Plugins case study: Pluggy</title>
@@ -636,18 +657,18 @@
       <description>Chris's Wiki :: blog</description>
     </item>
     <item>
-      <title>Dangerous Technology For Americans Only</title>
-      <link>https://lucumr.pocoo.org/2026/6/13/americans-only/</link>
-      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/6/13/americans-only/</guid>
-      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Armin Ronacher's Thoughts and Writings</description>
-    </item>
-    <item>
       <title>Making glass-to-metal seals for homemade vacuum tubes.</title>
       <link>https://maurycyz.com/projects/glass/1/</link>
       <guid isPermaLink="true">https://maurycyz.com/projects/glass/1/</guid>
       <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
       <description>Maurycy's Blog</description>
+    </item>
+    <item>
+      <title>Dangerous Technology For Americans Only</title>
+      <link>https://lucumr.pocoo.org/2026/6/13/americans-only/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/6/13/americans-only/</guid>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
       <title>Human Routers of Machine Words</title>
@@ -732,13 +753,6 @@
       <guid isPermaLink="true">https://idiallo.com/blog/i-can-never-embrace-llms-to-write-code</guid>
       <pubDate>Fri, 12 Jun 2026 12:00:00 +0000</pubDate>
       <description>Software and Tech stories from an Insider - iDiallo.com</description>
-    </item>
-    <item>
-      <title>Gadget Review: TP Link EH210 Ethernet Splitter (USB-C) ★★★★★</title>
-      <link>https://shkspr.mobi/blog/2026/06/gadget-review-tp-link-eh210-ethernet-splitter-usb-c/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/gadget-review-tp-link-eh210-ethernet-splitter-usb-c/</guid>
-      <pubDate>Fri, 12 Jun 2026 11:34:18 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Joint Guidance on Vulnerability Naming and Disclosure</title>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/06/11/what-happened-to-tea.html</guid>
       <pubDate>Thu, 11 Jun 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>AI will be massively deflationary</title>
-      <link>https://geohot.github.io//blog/jekyll/update/2026/06/11/ai-will-be-deflationary.html</link>
-      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/06/11/ai-will-be-deflationary.html</guid>
-      <pubDate>Thu, 11 Jun 2026 07:00:00 +0000</pubDate>
-      <description>the singularity is nearer</description>
-    </item>
-    <item>
-      <title>asyncinject 0.7</title>
-      <link>https://simonwillison.net/2026/Jun/11/asyncinject/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/11/asyncinject/#atom-everything</guid>
-      <pubDate>Thu, 11 Jun 2026 06:28:09 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>

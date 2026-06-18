@@ -208,11 +208,11 @@ Last Updated: Friday, June 19th, 2026, 4:16:02 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Pluralistic: AI digital sovereignty risk doesn't exist (18 Jun 2026)](https://pluralistic.net/2026/06/18/their-trillions-our-billions/) — *Pluralistic: Daily links from Cory Doctorow* `06-18`
-- [Show your hands honor for the strange power they bring you](https://aresluna.org/show-your-hands-honor) — *Aresluna* `06-18`
-- [Book Review: The Great When by Alan Moore ★★★★☆](https://shkspr.mobi/blog/2026/06/book-review-the-great-when-by-alan-moore/) — *Terence Eden’s Blog* `06-18`
-- [Open Source vs the Invisible Hand](https://nesbitt.io/2026/06/18/open-source-vs-the-invisible-hand.html) — *Andrew Nesbitt* `06-18`
-- [How to correctly not wait for network carrier in Netplan](https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuNetplanWaitForCarrierII) — *Chris's Wiki :: blog* `06-18`
+- [Cotypist – Smart Autocomplete Utility for Mac](https://cotypist.app/) — *Daring Fireball* `06-18`
+- [‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm](https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/) — *Krebs on Security* `06-18`
+- [New Domain for Sign In With Apple and iCloud+ Hide My Email](https://developer.apple.com/news/?id=sus6t6ab) — *Daring Fireball* `06-18`
+- [NetNewsWire Status](https://inessential.com/2026/06/15/netnewswire-status.html) — *Daring Fireball* `06-18`
+- [SpaceX, Newly Public, to Acquire Cursor for $60 Billion in SpaceX Funny-Money Stock](https://www.cnbc.com/2026/06/16/spacex-spcx-cursor-acquisition-ipo.html) — *Daring Fireball* `06-18`
 <!--BLOG_RADAR:end-->
 
 ---
