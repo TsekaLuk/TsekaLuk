@@ -208,11 +208,11 @@ Last Updated: Thursday, June 18th, 2026, 10:55:31 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Pluralistic: AI digital sovereignty risk doesn't exist (18 Jun 2026)](https://pluralistic.net/2026/06/18/their-trillions-our-billions/) — *Pluralistic: Daily links from Cory Doctorow* `06-18`
+- [Show your hands honor for the strange power they bring you](https://aresluna.org/show-your-hands-honor) — *Aresluna* `06-18`
+- [Book Review: The Great When by Alan Moore ★★★★☆](https://shkspr.mobi/blog/2026/06/book-review-the-great-when-by-alan-moore/) — *Terence Eden’s Blog* `06-18`
+- [Open Source vs the Invisible Hand](https://nesbitt.io/2026/06/18/open-source-vs-the-invisible-hand.html) — *Andrew Nesbitt* `06-18`
 - [How to correctly not wait for network carrier in Netplan](https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuNetplanWaitForCarrierII) — *Chris's Wiki :: blog* `06-18`
-- [Snap Unveils Specs, Its $2,200 AR Glasses, and They’re Fugly](https://www.theverge.com/tech/950492/snap-specs-ar-glasses-launch-date-preorder?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IlZTMmZYVXprcHciLCJwIjoiL3RlY2gvOTUwNDkyL3NuYXAtc3BlY3MtYXItZ2xhc3Nlcy1sYXVuY2gtZGF0ZS1wcmVvcmRlciIsImV4cCI6MTc4MjE3Nzc0OSwiaWF0IjoxNzgxNzQ1NzQ5fQ.Pdh1hCJafS7ca3UfJ7pPoS-wRpZQ6tEAr7HEVfTOAd8) — *Daring Fireball* `06-18`
-- [Vehicle Motion Cues — a.k.a. Apple’s Weird Anti-Nausea Dots](https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work) — *Daring Fireball* `06-18`
-- [I hate compilers](https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/) — *Xe Iaso's blog* `06-18`
-- [Pluralistic: The (real) dead economy theory (17 Jun 2026)](https://pluralistic.net/2026/06/17/its-the-stupid-economy-stupid/) — *Pluralistic: Daily links from Cory Doctorow* `06-17`
 <!--BLOG_RADAR:end-->
 
 ---
