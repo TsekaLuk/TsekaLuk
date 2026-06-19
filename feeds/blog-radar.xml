@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 19 Jun 2026 05:05:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 10:49:08 +0000</lastBuildDate>
     <item>
       <title>Some reasons why your server may not be doing a UEFI network boot</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/WhyServerNotUEFINetworkBoot</link>
@@ -741,18 +741,18 @@
       <description>Chris's Wiki :: blog</description>
     </item>
     <item>
-      <title>Dangerous Technology For Americans Only</title>
-      <link>https://lucumr.pocoo.org/2026/6/13/americans-only/</link>
-      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/6/13/americans-only/</guid>
-      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Armin Ronacher's Thoughts and Writings</description>
-    </item>
-    <item>
       <title>Making glass-to-metal seals for homemade vacuum tubes.</title>
       <link>https://maurycyz.com/projects/glass/1/</link>
       <guid isPermaLink="true">https://maurycyz.com/projects/glass/1/</guid>
       <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
       <description>Maurycy's Blog</description>
+    </item>
+    <item>
+      <title>Dangerous Technology For Americans Only</title>
+      <link>https://lucumr.pocoo.org/2026/6/13/americans-only/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/6/13/americans-only/</guid>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
       <title>Human Routers of Machine Words</title>
