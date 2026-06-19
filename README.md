@@ -208,11 +208,11 @@ Last Updated: Friday, June 19th, 2026, 11:45:43 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Some reasons why your server may not be doing a UEFI network boot](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/WhyServerNotUEFINetworkBoot) — *Chris's Wiki :: blog* `06-19`
+- [Verizon, Formerly Menace Mobile](https://www.youtube.com/watch?v=lzmntndEXWo) — *Daring Fireball* `06-19`
+- [Datasette Apps: Host custom HTML applications inside Datasette](https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything) — *Simon Willison's Weblog* `06-18`
 - [Cotypist – Smart Autocomplete Utility for Mac](https://cotypist.app/) — *Daring Fireball* `06-18`
-- [‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm](https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/) — *Krebs on Security* `06-18`
-- [New Domain for Sign In With Apple and iCloud+ Hide My Email](https://developer.apple.com/news/?id=sus6t6ab) — *Daring Fireball* `06-18`
-- [NetNewsWire Status](https://inessential.com/2026/06/15/netnewswire-status.html) — *Daring Fireball* `06-18`
-- [SpaceX, Newly Public, to Acquire Cursor for $60 Billion in SpaceX Funny-Money Stock](https://www.cnbc.com/2026/06/16/spacex-spcx-cursor-acquisition-ipo.html) — *Daring Fireball* `06-18`
+- [datasette-acl 0.6a0](https://simonwillison.net/2026/Jun/18/datasette-acl/#atom-everything) — *Simon Willison's Weblog* `06-18`
 <!--BLOG_RADAR:end-->
 
 ---
