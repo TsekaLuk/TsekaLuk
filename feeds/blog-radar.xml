@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 19 Jun 2026 10:49:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 15:34:41 +0000</lastBuildDate>
+    <item>
+      <title>Full Page Paralysis</title>
+      <link>https://blog.jim-nielsen.com/2026/full-page-paralysis/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/full-page-paralysis/</guid>
+      <pubDate>Fri, 19 Jun 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
+    </item>
+    <item>
+      <title>Converting Coal Plants to Natural Gas</title>
+      <link>https://www.construction-physics.com/p/converting-coal-plants-to-natural</link>
+      <guid isPermaLink="true">https://www.construction-physics.com/p/converting-coal-plants-to-natural</guid>
+      <pubDate>Fri, 19 Jun 2026 12:03:02 +0000</pubDate>
+      <description>Construction Physics</description>
+    </item>
     <item>
       <title>Some reasons why your server may not be doing a UEFI network boot</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/WhyServerNotUEFINetworkBoot</link>
@@ -18,6 +32,13 @@
       <guid isPermaLink="true">https://www.youtube.com/watch?v=lzmntndEXWo</guid>
       <pubDate>Fri, 19 Jun 2026 00:58:25 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>There Are No Instances in atproto</title>
+      <link>https://overreacted.io/there-are-no-instances-in-atproto/</link>
+      <guid isPermaLink="true">https://overreacted.io/there-are-no-instances-in-atproto/</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
+      <description>overreacted — A blog by Dan Abramov</description>
     </item>
     <item>
       <title>Datasette Apps: Host custom HTML applications inside Datasette</title>
@@ -139,18 +160,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Glassblowing #2: Making a tungsten lamp and (bad) vacuum diode</title>
-      <link>https://maurycyz.com/projects/glass/2/</link>
-      <guid isPermaLink="true">https://maurycyz.com/projects/glass/2/</guid>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
-    </item>
-    <item>
       <title>I hate compilers</title>
       <link>https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/</link>
       <guid isPermaLink="true">https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/</guid>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>Glassblowing #2: Making a tungsten lamp and (bad) vacuum diode</title>
+      <link>https://maurycyz.com/projects/glass/2/</link>
+      <guid isPermaLink="true">https://maurycyz.com/projects/glass/2/</guid>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
     </item>
     <item>
       <title>GLM-5.2 is probably the most powerful text-only open weights LLM</title>
@@ -741,18 +762,18 @@
       <description>Chris's Wiki :: blog</description>
     </item>
     <item>
-      <title>Making glass-to-metal seals for homemade vacuum tubes.</title>
-      <link>https://maurycyz.com/projects/glass/1/</link>
-      <guid isPermaLink="true">https://maurycyz.com/projects/glass/1/</guid>
-      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
-    </item>
-    <item>
       <title>Dangerous Technology For Americans Only</title>
       <link>https://lucumr.pocoo.org/2026/6/13/americans-only/</link>
       <guid isPermaLink="true">https://lucumr.pocoo.org/2026/6/13/americans-only/</guid>
       <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
       <description>Armin Ronacher's Thoughts and Writings</description>
+    </item>
+    <item>
+      <title>Making glass-to-metal seals for homemade vacuum tubes.</title>
+      <link>https://maurycyz.com/projects/glass/1/</link>
+      <guid isPermaLink="true">https://maurycyz.com/projects/glass/1/</guid>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
     </item>
     <item>
       <title>Human Routers of Machine Words</title>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/power-on-your-mac-remotely/</guid>
       <pubDate>Fri, 12 Jun 2026 14:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
-    </item>
-    <item>
-      <title>How can I schedule work on a thread pool with low latency?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260612-00/?p=112417</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260612-00/?p=112417</guid>
-      <pubDate>Fri, 12 Jun 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>I can never fully embrace LLMs for code</title>
-      <link>https://idiallo.com/blog/i-can-never-embrace-llms-to-write-code</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/i-can-never-embrace-llms-to-write-code</guid>
-      <pubDate>Fri, 12 Jun 2026 12:00:00 +0000</pubDate>
-      <description>Software and Tech stories from an Insider - iDiallo.com</description>
-    </item>
-    <item>
-      <title>Gadget Review: TP Link EH210 Ethernet Splitter (USB-C) ★★★★★</title>
-      <link>https://shkspr.mobi/blog/2026/06/gadget-review-tp-link-eh210-ethernet-splitter-usb-c/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/gadget-review-tp-link-eh210-ethernet-splitter-usb-c/</guid>
-      <pubDate>Fri, 12 Jun 2026 11:34:18 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
   </channel>
 </rss>

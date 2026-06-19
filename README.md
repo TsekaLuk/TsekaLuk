@@ -208,11 +208,11 @@ Last Updated: Friday, June 19th, 2026, 10:51:57 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Full Page Paralysis](https://blog.jim-nielsen.com/2026/full-page-paralysis/) — *Jim Nielsen’s Blog* `06-19`
+- [Converting Coal Plants to Natural Gas](https://www.construction-physics.com/p/converting-coal-plants-to-natural) — *Construction Physics* `06-19`
 - [Some reasons why your server may not be doing a UEFI network boot](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/WhyServerNotUEFINetworkBoot) — *Chris's Wiki :: blog* `06-19`
 - [Verizon, Formerly Menace Mobile](https://www.youtube.com/watch?v=lzmntndEXWo) — *Daring Fireball* `06-19`
-- [Datasette Apps: Host custom HTML applications inside Datasette](https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything) — *Simon Willison's Weblog* `06-18`
-- [Cotypist – Smart Autocomplete Utility for Mac](https://cotypist.app/) — *Daring Fireball* `06-18`
-- [datasette-acl 0.6a0](https://simonwillison.net/2026/Jun/18/datasette-acl/#atom-everything) — *Simon Willison's Weblog* `06-18`
+- [There Are No Instances in atproto](https://overreacted.io/there-are-no-instances-in-atproto/) — *overreacted — A blog by Dan Abramov* `06-19`
 <!--BLOG_RADAR:end-->
 
 ---
