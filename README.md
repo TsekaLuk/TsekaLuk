@@ -209,10 +209,10 @@ Last Updated: Saturday, June 20th, 2026, 3:41:10 AM
 
 <!--BLOG_RADAR:start-->
 - [Full Page Paralysis](https://blog.jim-nielsen.com/2026/full-page-paralysis/) — *Jim Nielsen’s Blog* `06-19`
-- [Converting Coal Plants to Natural Gas](https://www.construction-physics.com/p/converting-coal-plants-to-natural) — *Construction Physics* `06-19`
-- [Some reasons why your server may not be doing a UEFI network boot](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/WhyServerNotUEFINetworkBoot) — *Chris's Wiki :: blog* `06-19`
-- [Verizon, Formerly Menace Mobile](https://www.youtube.com/watch?v=lzmntndEXWo) — *Daring Fireball* `06-19`
-- [There Are No Instances in atproto](https://overreacted.io/there-are-no-instances-in-atproto/) — *overreacted — A blog by Dan Abramov* `06-19`
+- [Trump Mobile T1 Phone Is a Gold-Painted Two-Year-Old HTC U24 Pro](https://www.nbcnews.com/tech/gadgets/trump-mobile-t1-phone-nearly-identical-htc-device-analysis-rcna349293) — *Daring Fireball* `06-19`
+- [Fox to Buy Roku Streaming Service in $25 Billion Deal](https://www.wsj.com/business/deals/fox-roku-deal-f6e564f9?st=mKdQwC&reflink=desktopwebshare_permalink) — *Daring Fireball* `06-19`
+- [Premium: The Silicon Valley Bubble (Part 2)](https://www.wheresyoured.at/premium-the-silicon-valley-bubble-part-2/) — *Ed Zitron's Where's Your Ed At* `06-19`
+- [The data black hole at the center of AI](https://www.dwarkesh.com/p/the-sample-efficiency-black-hole-2) — *Dwarkesh Podcast* `06-19`
 <!--BLOG_RADAR:end-->
 
 ---
