@@ -208,11 +208,11 @@ Last Updated: Saturday, June 20th, 2026, 10:49:26 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Full Page Paralysis](https://blog.jim-nielsen.com/2026/full-page-paralysis/) — *Jim Nielsen’s Blog* `06-19`
-- [Trump Mobile T1 Phone Is a Gold-Painted Two-Year-Old HTC U24 Pro](https://www.nbcnews.com/tech/gadgets/trump-mobile-t1-phone-nearly-identical-htc-device-analysis-rcna349293) — *Daring Fireball* `06-19`
-- [Fox to Buy Roku Streaming Service in $25 Billion Deal](https://www.wsj.com/business/deals/fox-roku-deal-f6e564f9?st=mKdQwC&reflink=desktopwebshare_permalink) — *Daring Fireball* `06-19`
-- [Premium: The Silicon Valley Bubble (Part 2)](https://www.wheresyoured.at/premium-the-silicon-valley-bubble-part-2/) — *Ed Zitron's Where's Your Ed At* `06-19`
-- [The data black hole at the center of AI](https://www.dwarkesh.com/p/the-sample-efficiency-black-hole-2) — *Dwarkesh Podcast* `06-19`
+- [I know Kung-fu](https://idiallo.com/blog/i-know-kung-fu) — *Software and Tech stories from an Insider - iDiallo.com* `06-20`
+- [Limiting web server bandwidth the brute force way](https://utcc.utoronto.ca/~cks/space/blog/web/ServerBruteForceBandwidthLimit) — *Chris's Wiki :: blog* `06-20`
+- [Bobby Prince has died](https://oldvcr.blogspot.com/2026/06/bobby-prince-has-died.html) — *Old Vintage Computing Research* `06-20`
+- [Another One for the ‘Sorry, We Used to Be Crap’ Truth-in-Advertising File: Carlsberg Beer](https://www.independent.co.uk/news/business/news/carlsberg-probably-not-best-beer-in-world-lager-brewer-a8874016.html) — *Daring Fireball* `06-20`
+- [‘What’s the Deal With Old Guys and Giant Glasses?’](https://www.youtube.com/watch?v=8DYGxn6Xvt0) — *Daring Fireball* `06-20`
 <!--BLOG_RADAR:end-->
 
 ---
