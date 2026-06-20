@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 20 Jun 2026 04:17:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 09:29:00 +0000</lastBuildDate>
     <item>
       <title>I know Kung-fu</title>
       <link>https://idiallo.com/blog/i-know-kung-fu</link>
@@ -118,6 +118,13 @@
       <description>Daring Fireball</description>
     </item>
     <item>
+      <title>What does it mean when the bottom bit of my HMODULE is set?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260619-00/?p=112447</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260619-00/?p=112447</guid>
+      <pubDate>Fri, 19 Jun 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
+    <item>
       <title>Converting Coal Plants to Natural Gas</title>
       <link>https://www.construction-physics.com/p/converting-coal-plants-to-natural</link>
       <guid isPermaLink="true">https://www.construction-physics.com/p/converting-coal-plants-to-natural</guid>
@@ -139,18 +146,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Arp 29: The fireworks galaxy</title>
-      <link>https://maurycyz.com/astro/arp29/</link>
-      <guid isPermaLink="true">https://maurycyz.com/astro/arp29/</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
-    </item>
-    <item>
       <title>There Are No Instances in atproto</title>
       <link>https://overreacted.io/there-are-no-instances-in-atproto/</link>
       <guid isPermaLink="true">https://overreacted.io/there-are-no-instances-in-atproto/</guid>
       <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
       <description>overreacted — A blog by Dan Abramov</description>
+    </item>
+    <item>
+      <title>Arp 29: The fireworks galaxy</title>
+      <link>https://maurycyz.com/astro/arp29/</link>
+      <guid isPermaLink="true">https://maurycyz.com/astro/arp29/</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
     </item>
     <item>
       <title>Datasette Apps: Host custom HTML applications inside Datasette</title>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://www.anthropic.com/news/fable-mythos-access</guid>
       <pubDate>Sat, 13 Jun 2026 17:02:29 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The adder at the heart of Intel's 8087 floating-point chip</title>
-      <link>http://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html</link>
-      <guid isPermaLink="true">http://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html</guid>
-      <pubDate>Sat, 13 Jun 2026 15:56:00 +0000</pubDate>
-      <description>Ken Shirriff's blog</description>
     </item>
   </channel>
 </rss>
