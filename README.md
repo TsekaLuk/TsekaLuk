@@ -208,11 +208,11 @@ Last Updated: Sunday, June 21st, 2026, 3:16:26 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Pluralistic: How the Epstein Class recruits (20 Jun 2026)](https://pluralistic.net/2026/06/20/any-club-that-would-have-me/) — *Pluralistic: Daily links from Cory Doctorow* `06-20`
 - [Reading List 06/20/26](https://www.construction-physics.com/p/reading-list-062026) — *Construction Physics* `06-20`
 - [Which Copyleft Licence is Suitable for an SVG?](https://shkspr.mobi/blog/2026/06/which-copyleft-licence-is-suitable-for-an-svg/) — *Terence Eden’s Blog* `06-20`
 - [This Week in Package Management: 20 June 2026](https://nesbitt.io/2026/06/20/this-week-in-package-management.html) — *Andrew Nesbitt* `06-20`
 - [I know Kung-fu](https://idiallo.com/blog/i-know-kung-fu) — *Software and Tech stories from an Insider - iDiallo.com* `06-20`
-- [Limiting web server bandwidth the brute force way](https://utcc.utoronto.ca/~cks/space/blog/web/ServerBruteForceBandwidthLimit) — *Chris's Wiki :: blog* `06-20`
 <!--BLOG_RADAR:end-->
 
 ---

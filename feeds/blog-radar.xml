@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 20 Jun 2026 14:19:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 19:47:13 +0000</lastBuildDate>
+    <item>
+      <title>Pluralistic: How the Epstein Class recruits (20 Jun 2026)</title>
+      <link>https://pluralistic.net/2026/06/20/any-club-that-would-have-me/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/06/20/any-club-that-would-have-me/</guid>
+      <pubDate>Sat, 20 Jun 2026 16:12:26 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
     <item>
       <title>Reading List 06/20/26</title>
       <link>https://www.construction-physics.com/p/reading-list-062026</link>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/13/rsa-munitions-t-shirt/</guid>
       <pubDate>Sat, 13 Jun 2026 20:10:20 +0000</pubDate>
       <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Pluralistic: Shareholder supremacy and the precog CEO (13 Jun 2026)</title>
-      <link>https://pluralistic.net/2026/06/13/minority-shareholder-report/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/06/13/minority-shareholder-report/</guid>
-      <pubDate>Sat, 13 Jun 2026 17:49:56 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
     </item>
   </channel>
 </rss>
