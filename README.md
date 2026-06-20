@@ -208,11 +208,11 @@ Last Updated: Saturday, June 20th, 2026, 9:49:20 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Reading List 06/20/26](https://www.construction-physics.com/p/reading-list-062026) — *Construction Physics* `06-20`
+- [Which Copyleft Licence is Suitable for an SVG?](https://shkspr.mobi/blog/2026/06/which-copyleft-licence-is-suitable-for-an-svg/) — *Terence Eden’s Blog* `06-20`
+- [This Week in Package Management: 20 June 2026](https://nesbitt.io/2026/06/20/this-week-in-package-management.html) — *Andrew Nesbitt* `06-20`
 - [I know Kung-fu](https://idiallo.com/blog/i-know-kung-fu) — *Software and Tech stories from an Insider - iDiallo.com* `06-20`
 - [Limiting web server bandwidth the brute force way](https://utcc.utoronto.ca/~cks/space/blog/web/ServerBruteForceBandwidthLimit) — *Chris's Wiki :: blog* `06-20`
-- [Bobby Prince has died](https://oldvcr.blogspot.com/2026/06/bobby-prince-has-died.html) — *Old Vintage Computing Research* `06-20`
-- [Another One for the ‘Sorry, We Used to Be Crap’ Truth-in-Advertising File: Carlsberg Beer](https://www.independent.co.uk/news/business/news/carlsberg-probably-not-best-beer-in-world-lager-brewer-a8874016.html) — *Daring Fireball* `06-20`
-- [‘What’s the Deal With Old Guys and Giant Glasses?’](https://www.youtube.com/watch?v=8DYGxn6Xvt0) — *Daring Fireball* `06-20`
 <!--BLOG_RADAR:end-->
 
 ---
