@@ -37,7 +37,7 @@ jobs:
                     --snippet-count 5
 
             - name: Commit merged feed and README
-              uses: stefanzweifel/git-auto-commit-action@v5
+              uses: stefanzweifel/git-auto-commit-action@v7
               with:
                   commit_message: "chore(rss): refresh merged feed"
                   file_pattern: "feeds/blog-radar.xml README.md"
