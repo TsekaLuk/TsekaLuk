@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 21 Jun 2026 14:25:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 19:53:33 +0000</lastBuildDate>
+    <item>
+      <title>The doom justifies the valuation</title>
+      <link>https://geohot.github.io//blog/jekyll/update/2026/06/21/the-doom-justifies-the-valuation.html</link>
+      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/06/21/the-doom-justifies-the-valuation.html</guid>
+      <pubDate>Sun, 21 Jun 2026 07:00:00 +0000</pubDate>
+      <description>the singularity is nearer</description>
+    </item>
     <item>
       <title>PyPy and Python 3 for us</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/python/PyPyAndPython3ForUs</link>
@@ -335,18 +342,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Glassblowing #2: Making a tungsten lamp and (bad) vacuum diode</title>
-      <link>https://maurycyz.com/projects/glass/2/</link>
-      <guid isPermaLink="true">https://maurycyz.com/projects/glass/2/</guid>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
-    </item>
-    <item>
       <title>I hate compilers</title>
       <link>https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/</link>
       <guid isPermaLink="true">https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/</guid>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>Glassblowing #2: Making a tungsten lamp and (bad) vacuum diode</title>
+      <link>https://maurycyz.com/projects/glass/2/</link>
+      <guid isPermaLink="true">https://maurycyz.com/projects/glass/2/</guid>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
     </item>
     <item>
       <title>GLM-5.2 is probably the most powerful text-only open weights LLM</title>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://maurycyz.com/astro/arp185/</guid>
       <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
       <description>Maurycy's Blog</description>
-    </item>
-    <item>
-      <title>from hookswitch to grave</title>
-      <link>https://computer.rip/2026-06-14-hookswitch-to-grave.html</link>
-      <guid isPermaLink="true">https://computer.rip/2026-06-14-hookswitch-to-grave.html</guid>
-      <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
-      <description>computers are bad</description>
     </item>
   </channel>
 </rss>
