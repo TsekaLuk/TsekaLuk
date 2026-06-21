@@ -4,13 +4,20 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 21 Jun 2026 09:59:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 14:25:31 +0000</lastBuildDate>
     <item>
       <title>PyPy and Python 3 for us</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/python/PyPyAndPython3ForUs</link>
       <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/python/PyPyAndPython3ForUs</guid>
       <pubDate>Sun, 21 Jun 2026 03:13:32 +0000</pubDate>
       <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>On Vulgar Materialism</title>
+      <link>https://borretti.me/article/on-vulgar-materialism</link>
+      <guid isPermaLink="true">https://borretti.me/article/on-vulgar-materialism</guid>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Fernando Borretti</description>
     </item>
     <item>
       <title>All pieces on a 6 by 5 board</title>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://computer.rip/2026-06-14-hookswitch-to-grave.html</guid>
       <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
       <description>computers are bad</description>
-    </item>
-    <item>
-      <title>Publishing WASM wheels to PyPI for use with Pyodide</title>
-      <link>https://simonwillison.net/2026/Jun/13/publishing-wasm-wheels/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/13/publishing-wasm-wheels/#atom-everything</guid>
-      <pubDate>Sat, 13 Jun 2026 23:55:18 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>

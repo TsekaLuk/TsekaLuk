@@ -209,10 +209,10 @@ Last Updated: Sunday, June 21st, 2026, 9:56:49 PM
 
 <!--BLOG_RADAR:start-->
 - [PyPy and Python 3 for us](https://utcc.utoronto.ca/~cks/space/blog/python/PyPyAndPython3ForUs) — *Chris's Wiki :: blog* `06-21`
+- [On Vulgar Materialism](https://borretti.me/article/on-vulgar-materialism) — *Fernando Borretti* `06-21`
 - [All pieces on a 6 by 5 board](https://www.johndcook.com/blog/2026/06/20/z3-python-claude/) — *John D. Cook* `06-20`
 - [Pluralistic: How the Epstein Class recruits (20 Jun 2026)](https://pluralistic.net/2026/06/20/any-club-that-would-have-me/) — *Pluralistic: Daily links from Cory Doctorow* `06-20`
 - [Reading List 06/20/26](https://www.construction-physics.com/p/reading-list-062026) — *Construction Physics* `06-20`
-- [Which Copyleft Licence is Suitable for an SVG?](https://shkspr.mobi/blog/2026/06/which-copyleft-licence-is-suitable-for-an-svg/) — *Terence Eden’s Blog* `06-20`
 <!--BLOG_RADAR:end-->
 
 ---
