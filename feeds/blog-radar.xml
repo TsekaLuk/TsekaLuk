@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 20 Jun 2026 19:47:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 05:01:30 +0000</lastBuildDate>
+    <item>
+      <title>PyPy and Python 3 for us</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/python/PyPyAndPython3ForUs</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/python/PyPyAndPython3ForUs</guid>
+      <pubDate>Sun, 21 Jun 2026 03:13:32 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>All pieces on a 6 by 5 board</title>
+      <link>https://www.johndcook.com/blog/2026/06/20/z3-python-claude/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/20/z3-python-claude/</guid>
+      <pubDate>Sat, 20 Jun 2026 21:41:16 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
     <item>
       <title>Pluralistic: How the Epstein Class recruits (20 Jun 2026)</title>
       <link>https://pluralistic.net/2026/06/20/any-club-that-would-have-me/</link>
@@ -67,6 +81,13 @@
       <guid isPermaLink="true">https://www.youtube.com/watch?v=8DYGxn6Xvt0</guid>
       <pubDate>Sat, 20 Jun 2026 01:21:19 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Glassblowing #3: A better thermionic diode</title>
+      <link>https://maurycyz.com/projects/glass/3/</link>
+      <guid isPermaLink="true">https://maurycyz.com/projects/glass/3/</guid>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
     </item>
     <item>
       <title>Quoting Sean Lynch</title>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Jun/13/publishing-wasm-wheels/#atom-everything</guid>
       <pubDate>Sat, 13 Jun 2026 23:55:18 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>luau-wasm 0.1a0</title>
-      <link>https://simonwillison.net/2026/Jun/13/luau-wasm/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/13/luau-wasm/#atom-everything</guid>
-      <pubDate>Sat, 13 Jun 2026 23:14:30 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Mapping SQLite result columns back to their source `table.column`</title>
-      <link>https://simonwillison.net/2026/Jun/13/sqlite-column-provenance/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/13/sqlite-column-provenance/#atom-everything</guid>
-      <pubDate>Sat, 13 Jun 2026 23:05:00 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>RSA munitions T-shirt</title>
-      <link>https://www.johndcook.com/blog/2026/06/13/rsa-munitions-t-shirt/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/13/rsa-munitions-t-shirt/</guid>
-      <pubDate>Sat, 13 Jun 2026 20:10:20 +0000</pubDate>
-      <description>John D. Cook</description>
     </item>
   </channel>
 </rss>
