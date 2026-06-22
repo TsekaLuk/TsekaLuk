@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 22 Jun 2026 05:09:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 12:17:49 +0000</lastBuildDate>
+    <item>
+      <title>Everything you say CAN and WILL be used against you</title>
+      <link>https://idiallo.com/blog/the-right-to-remain-silent</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/the-right-to-remain-silent</guid>
+      <pubDate>Mon, 22 Jun 2026 07:00:00 +0000</pubDate>
+      <description>Software and Tech stories from an Insider - iDiallo.com</description>
+    </item>
     <item>
       <title>Configuration is a liability, just like code</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ConfigurationIsALiability</link>
@@ -102,13 +109,6 @@
       <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-062026</guid>
       <pubDate>Sat, 20 Jun 2026 12:01:56 +0000</pubDate>
       <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>Which Copyleft Licence is Suitable for an SVG?</title>
-      <link>https://shkspr.mobi/blog/2026/06/which-copyleft-licence-is-suitable-for-an-svg/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/which-copyleft-licence-is-suitable-for-an-svg/</guid>
-      <pubDate>Sat, 20 Jun 2026 11:34:22 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>This Week in Package Management: 20 June 2026</title>
@@ -354,13 +354,6 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260618-00/?p=112444</guid>
       <pubDate>Thu, 18 Jun 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Book Review: The Great When by Alan Moore ★★★★☆</title>
-      <link>https://shkspr.mobi/blog/2026/06/book-review-the-great-when-by-alan-moore/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/book-review-the-great-when-by-alan-moore/</guid>
-      <pubDate>Thu, 18 Jun 2026 11:34:19 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Open Source vs the Invisible Hand</title>
@@ -615,13 +608,6 @@
       <description>Steve Blank</description>
     </item>
     <item>
-      <title>Two Way TV - product photos of 1997's hottest gadget</title>
-      <link>https://shkspr.mobi/blog/2026/06/two-way-tv-product-photos-of-1997s-hottest-gadget/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/two-way-tv-product-photos-of-1997s-hottest-gadget/</guid>
-      <pubDate>Tue, 16 Jun 2026 11:34:18 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>Three examples suffice</title>
       <link>https://www.johndcook.com/blog/2026/06/16/three-examples-suffice/</link>
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/16/three-examples-suffice/</guid>
@@ -790,13 +776,6 @@
       <description>Bert Hubert's writings</description>
     </item>
     <item>
-      <title>[RSS Club] What happens to old posts?</title>
-      <link>https://shkspr.mobi/blog/2026/06/rss-club-what-happens-to-old-posts/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/rss-club-what-happens-to-old-posts/</guid>
-      <pubDate>Mon, 15 Jun 2026 11:34:34 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>Weekly Update 508</title>
       <link>https://www.troyhunt.com/weekly-update-508/</link>
       <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-508/</guid>
@@ -832,6 +811,13 @@
       <description>Tom Renner on My place to put things</description>
     </item>
     <item>
+      <title>A brief history of KV cache compression developments</title>
+      <link>https://martinalderson.com/posts/a-brief-history-of-kv-cache-compression-developments/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
+      <guid isPermaLink="true">https://martinalderson.com/posts/a-brief-history-of-kv-cache-compression-developments/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Martin Alderson</description>
+    </item>
+    <item>
       <title>Maybe it's time for lots of little indie AIs to take over</title>
       <link>https://anildash.com/2026/06/15/indie-AI-takeover/</link>
       <guid isPermaLink="true">https://anildash.com/2026/06/15/indie-AI-takeover/</guid>
@@ -839,11 +825,25 @@
       <description>Anil Dash</description>
     </item>
     <item>
-      <title>A brief history of KV cache compression developments</title>
-      <link>https://martinalderson.com/posts/a-brief-history-of-kv-cache-compression-developments/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
-      <guid isPermaLink="true">https://martinalderson.com/posts/a-brief-history-of-kv-cache-compression-developments/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Martin Alderson</description>
+      <title>Why AI hasn’t replaced software engineers, and won’t</title>
+      <link>https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/#atom-everything</guid>
+      <pubDate>Sun, 14 Jun 2026 23:54:11 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>The Sword Juggling Fallacy</title>
+      <link>https://hugotunius.se/2026/06/15/the-sword-juggling-fallacy.html</link>
+      <guid isPermaLink="true">https://hugotunius.se/2026/06/15/the-sword-juggling-fallacy.html</guid>
+      <pubDate>Sun, 14 Jun 2026 23:00:00 +0000</pubDate>
+      <description>Hugo Tunius - Blog</description>
+    </item>
+    <item>
+      <title>Plugins case study: Pluggy</title>
+      <link>https://eli.thegreenplace.net/2026/plugins-case-study-pluggy/</link>
+      <guid isPermaLink="true">https://eli.thegreenplace.net/2026/plugins-case-study-pluggy/</guid>
+      <pubDate>Sun, 14 Jun 2026 03:21:00 +0000</pubDate>
+      <description>Eli Bendersky's website</description>
     </item>
   </channel>
 </rss>

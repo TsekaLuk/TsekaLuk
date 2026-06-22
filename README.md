@@ -208,11 +208,11 @@ Last Updated: Monday, June 22nd, 2026, 7:42:40 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Everything you say CAN and WILL be used against you](https://idiallo.com/blog/the-right-to-remain-silent) — *Software and Tech stories from an Insider - iDiallo.com* `06-22`
 - [Configuration is a liability, just like code](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ConfigurationIsALiability) — *Chris's Wiki :: blog* `06-22`
 - [Happy Father's Day.](https://idiallo.com/byte-size/happy-fathers-day-2026) — *Software and Tech stories from an Insider - iDiallo.com* `06-22`
 - [Queens on a prime order board](https://www.johndcook.com/blog/2026/06/21/queens-prime/) — *John D. Cook* `06-22`
 - [sqlite-utils 4.0rc1 adds migrations and nested transactions](https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything) — *Simon Willison's Weblog* `06-21`
-- [sqlite-utils 4.0rc1](https://simonwillison.net/2026/Jun/21/sqlite-utils/#atom-everything) — *Simon Willison's Weblog* `06-21`
 <!--BLOG_RADAR:end-->
 
 ---
