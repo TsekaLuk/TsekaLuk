@@ -208,11 +208,11 @@ Last Updated: Tuesday, June 23rd, 2026, 4:37:25 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Everything you say CAN and WILL be used against you](https://idiallo.com/blog/the-right-to-remain-silent) — *Software and Tech stories from an Insider - iDiallo.com* `06-22`
-- [Configuration is a liability, just like code](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ConfigurationIsALiability) — *Chris's Wiki :: blog* `06-22`
-- [Happy Father's Day.](https://idiallo.com/byte-size/happy-fathers-day-2026) — *Software and Tech stories from an Insider - iDiallo.com* `06-22`
-- [Queens on a prime order board](https://www.johndcook.com/blog/2026/06/21/queens-prime/) — *John D. Cook* `06-22`
-- [sqlite-utils 4.0rc1 adds migrations and nested transactions](https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything) — *Simon Willison's Weblog* `06-21`
+- [Apple Is Going to Raise Device Prices — but When?](https://x.com/markgurman/status/2067741507273289766) — *Daring Fireball* `06-22`
+- [Lobachevsky’s integral formula](https://www.johndcook.com/blog/2026/06/22/lobachevskys-integral-formula/) — *John D. Cook* `06-22`
+- [Gurman Says Second-Gen iPhone Air, Coming in Early 2027, Will Sport a 0.5× Ultra-Wide Second Camera](https://www.bloomberg.com/news/articles/2026-06-17/apple-prepares-second-generation-iphone-air-for-spring-2027?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MTcyNjU5MiwiZXhwIjoxNzgyMzMxMzkyLCJhcnRpY2xlSWQiOiJUR1BINkJLR0NURlEwMCIsImJjb25uZWN0SWQiOiJBMDdGRjZGMzlBOTY0NzREOTNBQkFGRjUyQjBBQTE2NiJ9.25UCFLJjGHnk7gaJKhfIP2uChXC-tJLjKfOyUeY4QqI&leadSource=uverify%20wall) — *Daring Fireball* `06-22`
+- [Criterion Collection: The Complete Kubrick](https://www.criterion.com/boxsets/9000-the-complete-kubrick) — *Daring Fireball* `06-22`
+- [Consistency, But in Excellence Not Appearance](https://blog.jim-nielsen.com/2026/a-consistency-of-excellence/) — *Jim Nielsen’s Blog* `06-22`
 <!--BLOG_RADAR:end-->
 
 ---
