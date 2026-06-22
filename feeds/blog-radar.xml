@@ -4,7 +4,63 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 21 Jun 2026 19:53:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 05:09:33 +0000</lastBuildDate>
+    <item>
+      <title>Configuration is a liability, just like code</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ConfigurationIsALiability</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ConfigurationIsALiability</guid>
+      <pubDate>Mon, 22 Jun 2026 03:08:03 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>Happy Father's Day.</title>
+      <link>https://idiallo.com/byte-size/happy-fathers-day-2026</link>
+      <guid isPermaLink="true">https://idiallo.com/byte-size/happy-fathers-day-2026</guid>
+      <pubDate>Mon, 22 Jun 2026 02:43:33 +0000</pubDate>
+      <description>Software and Tech stories from an Insider - iDiallo.com</description>
+    </item>
+    <item>
+      <title>Queens on a prime order board</title>
+      <link>https://www.johndcook.com/blog/2026/06/21/queens-prime/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/21/queens-prime/</guid>
+      <pubDate>Mon, 22 Jun 2026 00:21:44 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>sqlite-utils 4.0rc1 adds migrations and nested transactions</title>
+      <link>https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything</guid>
+      <pubDate>Sun, 21 Jun 2026 23:35:47 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>sqlite-utils 4.0rc1</title>
+      <link>https://simonwillison.net/2026/Jun/21/sqlite-utils/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/21/sqlite-utils/#atom-everything</guid>
+      <pubDate>Sun, 21 Jun 2026 23:30:04 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Before and After: MacOS 27 Golden Gate Beta 1’s App Icons</title>
+      <link>https://basicappleguy.com/basicappleblog/macos-golden-gate-icon-comparison</link>
+      <guid isPermaLink="true">https://basicappleguy.com/basicappleblog/macos-golden-gate-icon-comparison</guid>
+      <pubDate>Sun, 21 Jun 2026 22:39:19 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Temporary Cloudflare Accounts for AI agents</title>
+      <link>https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything</guid>
+      <pubDate>Sun, 21 Jun 2026 22:01:04 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Mux — Video for Developers</title>
+      <link>https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF</link>
+      <guid isPermaLink="true">https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF</guid>
+      <pubDate>Sun, 21 Jun 2026 21:35:48 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>The doom justifies the valuation</title>
       <link>https://geohot.github.io//blog/jekyll/update/2026/06/21/the-doom-justifies-the-valuation.html</link>
@@ -209,18 +265,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>There Are No Instances in atproto</title>
-      <link>https://overreacted.io/there-are-no-instances-in-atproto/</link>
-      <guid isPermaLink="true">https://overreacted.io/there-are-no-instances-in-atproto/</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
-      <description>overreacted — A blog by Dan Abramov</description>
-    </item>
-    <item>
       <title>Arp 29: The fireworks galaxy</title>
       <link>https://maurycyz.com/astro/arp29/</link>
       <guid isPermaLink="true">https://maurycyz.com/astro/arp29/</guid>
       <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
       <description>Maurycy's Blog</description>
+    </item>
+    <item>
+      <title>There Are No Instances in atproto</title>
+      <link>https://overreacted.io/there-are-no-instances-in-atproto/</link>
+      <guid isPermaLink="true">https://overreacted.io/there-are-no-instances-in-atproto/</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
+      <description>overreacted — A blog by Dan Abramov</description>
     </item>
     <item>
       <title>Datasette Apps: Host custom HTML applications inside Datasette</title>
@@ -342,18 +398,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>I hate compilers</title>
-      <link>https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/</link>
-      <guid isPermaLink="true">https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/</guid>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
       <title>Glassblowing #2: Making a tungsten lamp and (bad) vacuum diode</title>
       <link>https://maurycyz.com/projects/glass/2/</link>
       <guid isPermaLink="true">https://maurycyz.com/projects/glass/2/</guid>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
       <description>Maurycy's Blog</description>
+    </item>
+    <item>
+      <title>I hate compilers</title>
+      <link>https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/</link>
+      <guid isPermaLink="true">https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/</guid>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>GLM-5.2 is probably the most powerful text-only open weights LLM</title>
@@ -601,13 +657,6 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>[Sponsor] Mux — Video for Developers</title>
-      <link>https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF</link>
-      <guid isPermaLink="true">https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF</guid>
-      <pubDate>Tue, 16 Jun 2026 02:33:37 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
       <title>The Washington Post on the EU’s DMA Folly</title>
       <link>https://www.washingtonpost.com/opinions/2026/06/14/apple-withholding-siri-ai-europe-is-another-dma-failure/</link>
       <guid isPermaLink="true">https://www.washingtonpost.com/opinions/2026/06/14/apple-withholding-siri-ai-europe-is-another-dma-failure/</guid>
@@ -795,55 +844,6 @@
       <guid isPermaLink="true">https://martinalderson.com/posts/a-brief-history-of-kv-cache-compression-developments/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
       <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
       <description>Martin Alderson</description>
-    </item>
-    <item>
-      <title>Why AI hasn’t replaced software engineers, and won’t</title>
-      <link>https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/#atom-everything</guid>
-      <pubDate>Sun, 14 Jun 2026 23:54:11 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>The Sword Juggling Fallacy</title>
-      <link>https://hugotunius.se/2026/06/15/the-sword-juggling-fallacy.html</link>
-      <guid isPermaLink="true">https://hugotunius.se/2026/06/15/the-sword-juggling-fallacy.html</guid>
-      <pubDate>Sun, 14 Jun 2026 23:00:00 +0000</pubDate>
-      <description>Hugo Tunius - Blog</description>
-    </item>
-    <item>
-      <title>Did Frank Sinatra really think "Something" was a Lennon/McCartney song?</title>
-      <link>https://shkspr.mobi/blog/2026/06/did-frank-sinatra-really-think-something-was-a-lennon-mccartney-song/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/did-frank-sinatra-really-think-something-was-a-lennon-mccartney-song/</guid>
-      <pubDate>Sun, 14 Jun 2026 11:34:16 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Plugins case study: Pluggy</title>
-      <link>https://eli.thegreenplace.net/2026/plugins-case-study-pluggy/</link>
-      <guid isPermaLink="true">https://eli.thegreenplace.net/2026/plugins-case-study-pluggy/</guid>
-      <pubDate>Sun, 14 Jun 2026 03:21:00 +0000</pubDate>
-      <description>Eli Bendersky's website</description>
-    </item>
-    <item>
-      <title>Linux distribution packaging and third party 'package' systems</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/DistrosAndOtherPackageManagers</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/DistrosAndOtherPackageManagers</guid>
-      <pubDate>Sun, 14 Jun 2026 03:20:52 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>Building a serial and VGA "everything console"</title>
-      <link>https://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html</link>
-      <guid isPermaLink="true">https://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html</guid>
-      <pubDate>Sun, 14 Jun 2026 01:26:37 +0000</pubDate>
-      <description>Old Vintage Computing Research</description>
-    </item>
-    <item>
-      <title>Arp 185:</title>
-      <link>https://maurycyz.com/astro/arp185/</link>
-      <guid isPermaLink="true">https://maurycyz.com/astro/arp185/</guid>
-      <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
     </item>
   </channel>
 </rss>

@@ -208,11 +208,11 @@ Last Updated: Monday, June 22nd, 2026, 11:37:38 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [The doom justifies the valuation](https://geohot.github.io//blog/jekyll/update/2026/06/21/the-doom-justifies-the-valuation.html) — *the singularity is nearer* `06-21`
-- [PyPy and Python 3 for us](https://utcc.utoronto.ca/~cks/space/blog/python/PyPyAndPython3ForUs) — *Chris's Wiki :: blog* `06-21`
-- [On Vulgar Materialism](https://borretti.me/article/on-vulgar-materialism) — *Fernando Borretti* `06-21`
-- [All pieces on a 6 by 5 board](https://www.johndcook.com/blog/2026/06/20/z3-python-claude/) — *John D. Cook* `06-20`
-- [Pluralistic: How the Epstein Class recruits (20 Jun 2026)](https://pluralistic.net/2026/06/20/any-club-that-would-have-me/) — *Pluralistic: Daily links from Cory Doctorow* `06-20`
+- [Configuration is a liability, just like code](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ConfigurationIsALiability) — *Chris's Wiki :: blog* `06-22`
+- [Happy Father's Day.](https://idiallo.com/byte-size/happy-fathers-day-2026) — *Software and Tech stories from an Insider - iDiallo.com* `06-22`
+- [Queens on a prime order board](https://www.johndcook.com/blog/2026/06/21/queens-prime/) — *John D. Cook* `06-22`
+- [sqlite-utils 4.0rc1 adds migrations and nested transactions](https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything) — *Simon Willison's Weblog* `06-21`
+- [sqlite-utils 4.0rc1](https://simonwillison.net/2026/Jun/21/sqlite-utils/#atom-everything) — *Simon Willison's Weblog* `06-21`
 <!--BLOG_RADAR:end-->
 
 ---
