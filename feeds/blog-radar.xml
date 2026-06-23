@@ -4,7 +4,42 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 22 Jun 2026 20:56:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 04:07:14 +0000</lastBuildDate>
+    <item>
+      <title>The quiet issue of lurking settings (and how it bit me)</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LurkingSettings</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LurkingSettings</guid>
+      <pubDate>Tue, 23 Jun 2026 02:30:47 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>Ultra-Wide 0.5x Lenses Have Utility Beyond ‘Photography’</title>
+      <link>https://daringfireball.net/linked/2026/06/22/gurman-iphone-air-2</link>
+      <guid isPermaLink="true">https://daringfireball.net/linked/2026/06/22/gurman-iphone-air-2</guid>
+      <pubDate>Tue, 23 Jun 2026 01:21:38 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Our hydro deserves better than a chatbot</title>
+      <link>https://hey.paris/posts/ai-data-centres-tasmania/</link>
+      <guid isPermaLink="true">https://hey.paris/posts/ai-data-centres-tasmania/</guid>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Dr Paris Buttfield-Addison</description>
+    </item>
+    <item>
+      <title>Prompt Injection as Role Confusion</title>
+      <link>https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything</guid>
+      <pubDate>Mon, 22 Jun 2026 23:59:53 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code</title>
+      <link>https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything</guid>
+      <pubDate>Mon, 22 Jun 2026 23:43:51 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Apple Is Going to Raise Device Prices — but When?</title>
       <link>https://x.com/markgurman/status/2067741507273289766</link>
@@ -67,13 +102,6 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451</guid>
       <pubDate>Mon, 22 Jun 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Cybersecurity for the paranoid business traveller</title>
-      <link>https://shkspr.mobi/blog/2026/06/cybersecurity-for-the-paranoid-business-traveller/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/cybersecurity-for-the-paranoid-business-traveller/</guid>
-      <pubDate>Mon, 22 Jun 2026 11:34:18 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Everything you say CAN and WILL be used against you</title>
@@ -193,13 +221,6 @@
       <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-062026</guid>
       <pubDate>Sat, 20 Jun 2026 12:01:56 +0000</pubDate>
       <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>Which Copyleft Licence is Suitable for an SVG?</title>
-      <link>https://shkspr.mobi/blog/2026/06/which-copyleft-licence-is-suitable-for-an-svg/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/which-copyleft-licence-is-suitable-for-an-svg/</guid>
-      <pubDate>Sat, 20 Jun 2026 11:34:22 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>This Week in Package Management: 20 June 2026</title>
@@ -445,13 +466,6 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260618-00/?p=112444</guid>
       <pubDate>Thu, 18 Jun 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Book Review: The Great When by Alan Moore ★★★★☆</title>
-      <link>https://shkspr.mobi/blog/2026/06/book-review-the-great-when-by-alan-moore/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/book-review-the-great-when-by-alan-moore/</guid>
-      <pubDate>Thu, 18 Jun 2026 11:34:19 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Open Source vs the Invisible Hand</title>
@@ -706,13 +720,6 @@
       <description>Steve Blank</description>
     </item>
     <item>
-      <title>Two Way TV - product photos of 1997's hottest gadget</title>
-      <link>https://shkspr.mobi/blog/2026/06/two-way-tv-product-photos-of-1997s-hottest-gadget/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/two-way-tv-product-photos-of-1997s-hottest-gadget/</guid>
-      <pubDate>Tue, 16 Jun 2026 11:34:18 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>Three examples suffice</title>
       <link>https://www.johndcook.com/blog/2026/06/16/three-examples-suffice/</link>
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/16/three-examples-suffice/</guid>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/15/writing-prolog-with-chatgpt/</guid>
       <pubDate>Mon, 15 Jun 2026 17:22:43 +0000</pubDate>
       <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>datasette-agent 0.3a0</title>
-      <link>https://simonwillison.net/2026/Jun/15/datasette-agent/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/15/datasette-agent/#atom-everything</guid>
-      <pubDate>Mon, 15 Jun 2026 17:19:27 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>

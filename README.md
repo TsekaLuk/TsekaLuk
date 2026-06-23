@@ -208,11 +208,11 @@ Last Updated: Tuesday, June 23rd, 2026, 10:43:09 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Apple Is Going to Raise Device Prices — but When?](https://x.com/markgurman/status/2067741507273289766) — *Daring Fireball* `06-22`
-- [Lobachevsky’s integral formula](https://www.johndcook.com/blog/2026/06/22/lobachevskys-integral-formula/) — *John D. Cook* `06-22`
-- [Gurman Says Second-Gen iPhone Air, Coming in Early 2027, Will Sport a 0.5× Ultra-Wide Second Camera](https://www.bloomberg.com/news/articles/2026-06-17/apple-prepares-second-generation-iphone-air-for-spring-2027?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MTcyNjU5MiwiZXhwIjoxNzgyMzMxMzkyLCJhcnRpY2xlSWQiOiJUR1BINkJLR0NURlEwMCIsImJjb25uZWN0SWQiOiJBMDdGRjZGMzlBOTY0NzREOTNBQkFGRjUyQjBBQTE2NiJ9.25UCFLJjGHnk7gaJKhfIP2uChXC-tJLjKfOyUeY4QqI&leadSource=uverify%20wall) — *Daring Fireball* `06-22`
-- [Criterion Collection: The Complete Kubrick](https://www.criterion.com/boxsets/9000-the-complete-kubrick) — *Daring Fireball* `06-22`
-- [Consistency, But in Excellence Not Appearance](https://blog.jim-nielsen.com/2026/a-consistency-of-excellence/) — *Jim Nielsen’s Blog* `06-22`
+- [The quiet issue of lurking settings (and how it bit me)](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LurkingSettings) — *Chris's Wiki :: blog* `06-23`
+- [Ultra-Wide 0.5x Lenses Have Utility Beyond ‘Photography’](https://daringfireball.net/linked/2026/06/22/gurman-iphone-air-2) — *Daring Fireball* `06-23`
+- [Our hydro deserves better than a chatbot](https://hey.paris/posts/ai-data-centres-tasmania/) — *Dr Paris Buttfield-Addison* `06-23`
+- [Prompt Injection as Role Confusion](https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything) — *Simon Willison's Weblog* `06-22`
+- [Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code](https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything) — *Simon Willison's Weblog* `06-22`
 <!--BLOG_RADAR:end-->
 
 ---
