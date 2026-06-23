@@ -208,11 +208,11 @@ Last Updated: Tuesday, June 23rd, 2026, 10:36:23 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Pluralistic: Spying on kids to save kids from spying is very, very stupid (23 Jun 2026)](https://pluralistic.net/2026/06/23/destroy-the-village/) — *Pluralistic: Daily links from Cory Doctorow* `06-23`
+- [Sunsetting a Package Manager](https://nesbitt.io/2026/06/23/sunsetting-a-package-manager.html) — *Andrew Nesbitt* `06-23`
 - [The quiet issue of lurking settings (and how it bit me)](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LurkingSettings) — *Chris's Wiki :: blog* `06-23`
 - [Ultra-Wide 0.5x Lenses Have Utility Beyond ‘Photography’](https://daringfireball.net/linked/2026/06/22/gurman-iphone-air-2) — *Daring Fireball* `06-23`
-- [Our hydro deserves better than a chatbot](https://hey.paris/posts/ai-data-centres-tasmania/) — *Dr Paris Buttfield-Addison* `06-23`
-- [Prompt Injection as Role Confusion](https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything) — *Simon Willison's Weblog* `06-22`
-- [Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code](https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything) — *Simon Willison's Weblog* `06-22`
+- [The Coming Loop](https://lucumr.pocoo.org/2026/6/23/the-coming-loop/) — *Armin Ronacher's Thoughts and Writings* `06-23`
 <!--BLOG_RADAR:end-->
 
 ---
