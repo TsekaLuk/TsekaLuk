@@ -208,11 +208,11 @@ Last Updated: Wednesday, June 24th, 2026, 3:53:17 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Pluralistic: Spying on kids to save kids from spying is very, very stupid (23 Jun 2026)](https://pluralistic.net/2026/06/23/destroy-the-village/) — *Pluralistic: Daily links from Cory Doctorow* `06-23`
-- [Sunsetting a Package Manager](https://nesbitt.io/2026/06/23/sunsetting-a-package-manager.html) — *Andrew Nesbitt* `06-23`
-- [The quiet issue of lurking settings (and how it bit me)](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LurkingSettings) — *Chris's Wiki :: blog* `06-23`
-- [Ultra-Wide 0.5x Lenses Have Utility Beyond ‘Photography’](https://daringfireball.net/linked/2026/06/22/gurman-iphone-air-2) — *Daring Fireball* `06-23`
-- [The Coming Loop](https://lucumr.pocoo.org/2026/6/23/the-coming-loop/) — *Armin Ronacher's Thoughts and Writings* `06-23`
+- [OPFS + Pyodide test harness](https://simonwillison.net/2026/Jun/23/opfs-pyodide/#atom-everything) — *Simon Willison's Weblog* `06-23`
+- [The Talk Show: ‘Perp Walk for Selfies’](https://daringfireball.net/thetalkshow/2026/06/23/ep-450) — *Daring Fireball* `06-23`
+- [Scattered Spider Hackers Plead Guilty on Day 1 of Trial](https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/) — *Krebs on Security* `06-23`
+- [The most wonderful thing that happened to Tommy McHugh](https://www.experimental-history.com/p/the-most-wonderful-thing-that-happened) — *Experimental History* `06-23`
+- [Cargo Culture](https://www.wheresyoured.at/cargo-culture/) — *Ed Zitron's Where's Your Ed At* `06-23`
 <!--BLOG_RADAR:end-->
 
 ---

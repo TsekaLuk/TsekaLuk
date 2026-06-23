@@ -4,7 +4,42 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 23 Jun 2026 15:15:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 20:14:42 +0000</lastBuildDate>
+    <item>
+      <title>OPFS + Pyodide test harness</title>
+      <link>https://simonwillison.net/2026/Jun/23/opfs-pyodide/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/23/opfs-pyodide/#atom-everything</guid>
+      <pubDate>Tue, 23 Jun 2026 18:58:54 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>The Talk Show: ‘Perp Walk for Selfies’</title>
+      <link>https://daringfireball.net/thetalkshow/2026/06/23/ep-450</link>
+      <guid isPermaLink="true">https://daringfireball.net/thetalkshow/2026/06/23/ep-450</guid>
+      <pubDate>Tue, 23 Jun 2026 16:23:43 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Scattered Spider Hackers Plead Guilty on Day 1 of Trial</title>
+      <link>https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/</link>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/</guid>
+      <pubDate>Tue, 23 Jun 2026 16:12:49 +0000</pubDate>
+      <description>Krebs on Security</description>
+    </item>
+    <item>
+      <title>The most wonderful thing that happened to Tommy McHugh</title>
+      <link>https://www.experimental-history.com/p/the-most-wonderful-thing-that-happened</link>
+      <guid isPermaLink="true">https://www.experimental-history.com/p/the-most-wonderful-thing-that-happened</guid>
+      <pubDate>Tue, 23 Jun 2026 15:57:56 +0000</pubDate>
+      <description>Experimental History</description>
+    </item>
+    <item>
+      <title>Cargo Culture</title>
+      <link>https://www.wheresyoured.at/cargo-culture/</link>
+      <guid isPermaLink="true">https://www.wheresyoured.at/cargo-culture/</guid>
+      <pubDate>Tue, 23 Jun 2026 15:23:20 +0000</pubDate>
+      <description>Ed Zitron's Where's Your Ed At</description>
+    </item>
     <item>
       <title>Pluralistic: Spying on kids to save kids from spying is very, very stupid (23 Jun 2026)</title>
       <link>https://pluralistic.net/2026/06/23/destroy-the-village/</link>
@@ -20,6 +55,13 @@
       <description>Andrew Nesbitt</description>
     </item>
     <item>
+      <title>Liminality</title>
+      <link>https://geohot.github.io//blog/jekyll/update/2026/06/23/liminality.html</link>
+      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/06/23/liminality.html</guid>
+      <pubDate>Tue, 23 Jun 2026 07:00:00 +0000</pubDate>
+      <description>the singularity is nearer</description>
+    </item>
+    <item>
       <title>The quiet issue of lurking settings (and how it bit me)</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LurkingSettings</link>
       <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LurkingSettings</guid>
@@ -27,7 +69,7 @@
       <description>Chris's Wiki :: blog</description>
     </item>
     <item>
-      <title>Ultra-Wide 0.5x Lenses Have Utility Beyond ‘Photography’</title>
+      <title>Ultra-Wide 0.5× Lenses Have Utility Beyond ‘Photography’</title>
       <link>https://daringfireball.net/linked/2026/06/22/gurman-iphone-air-2</link>
       <guid isPermaLink="true">https://daringfireball.net/linked/2026/06/22/gurman-iphone-air-2</guid>
       <pubDate>Tue, 23 Jun 2026 01:21:38 +0000</pubDate>
@@ -39,6 +81,13 @@
       <guid isPermaLink="true">https://lucumr.pocoo.org/2026/6/23/the-coming-loop/</guid>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
       <description>Armin Ronacher's Thoughts and Writings</description>
+    </item>
+    <item>
+      <title>The worthlessness of vitamin D is mildly exaggerated</title>
+      <link>https://dynomight.net/vitamin-d/</link>
+      <guid isPermaLink="true">https://dynomight.net/vitamin-d/</guid>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>Our hydro deserves better than a chatbot</title>
@@ -60,6 +109,13 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything</guid>
       <pubDate>Mon, 22 Jun 2026 23:43:51 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Tagged data in Haskell (SICP 2.4.2)</title>
+      <link>https://entropicthoughts.com/sicp-2-4-tagged-data-in-haskell</link>
+      <guid isPermaLink="true">https://entropicthoughts.com/sicp-2-4-tagged-data-in-haskell</guid>
+      <pubDate>Mon, 22 Jun 2026 22:00:00 +0000</pubDate>
+      <description>Entropic Thoughts</description>
     </item>
     <item>
       <title>Apple Is Going to Raise Device Prices — but When?</title>
@@ -788,62 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Jun/16/fable-5-export-controls/#atom-everything</guid>
       <pubDate>Tue, 16 Jun 2026 05:20:29 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Exclusive: OpenAI Losses Increased Nearly 8X in 2025, With Spending Hitting $34 Billion</title>
-      <link>https://www.wheresyoured.at/exclusive-openai-financials/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/exclusive-openai-financials/</guid>
-      <pubDate>Tue, 16 Jun 2026 03:58:20 +0000</pubDate>
-      <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>Quoting Matteo Wong, The Atlantic</title>
-      <link>https://simonwillison.net/2026/Jun/16/matteo-wong-the-atlantic/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/16/matteo-wong-the-atlantic/#atom-everything</guid>
-      <pubDate>Tue, 16 Jun 2026 03:07:54 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>The Washington Post on the EU’s DMA Folly</title>
-      <link>https://www.washingtonpost.com/opinions/2026/06/14/apple-withholding-siri-ai-europe-is-another-dma-failure/</link>
-      <guid isPermaLink="true">https://www.washingtonpost.com/opinions/2026/06/14/apple-withholding-siri-ai-europe-is-another-dma-failure/</guid>
-      <pubDate>Tue, 16 Jun 2026 02:20:30 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>What the new Linux NFS mount option 'fatal_neterrors' is</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/NFSMountOptionFatalNeterrors</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/NFSMountOptionFatalNeterrors</guid>
-      <pubDate>Tue, 16 Jun 2026 02:07:52 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>Cloudflare CAPTCHA on at least one ampersand</title>
-      <link>https://simonwillison.net/2026/Jun/16/captcha-on-at-least-one-ampersand/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/16/captcha-on-at-least-one-ampersand/#atom-everything</guid>
-      <pubDate>Tue, 16 Jun 2026 00:21:36 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Testing pentagonal numbers</title>
-      <link>https://www.johndcook.com/blog/2026/06/15/testing-pentagonal-numbers/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/15/testing-pentagonal-numbers/</guid>
-      <pubDate>Mon, 15 Jun 2026 23:57:54 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Lean, not backpressure</title>
-      <link>https://entropicthoughts.com/lean-not-backpressure</link>
-      <guid isPermaLink="true">https://entropicthoughts.com/lean-not-backpressure</guid>
-      <pubDate>Mon, 15 Jun 2026 22:00:00 +0000</pubDate>
-      <description>Entropic Thoughts</description>
-    </item>
-    <item>
-      <title>JAX: commitment issues</title>
-      <link>https://www.gilesthomas.com/2026/06/jax-commitment-issues</link>
-      <guid isPermaLink="true">https://www.gilesthomas.com/2026/06/jax-commitment-issues</guid>
-      <pubDate>Mon, 15 Jun 2026 21:30:00 +0000</pubDate>
-      <description>Giles' blog</description>
     </item>
   </channel>
 </rss>
