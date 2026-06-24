@@ -4,13 +4,48 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 24 Jun 2026 14:46:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 19:55:50 +0000</lastBuildDate>
+    <item>
+      <title>Thoughts on Role Confusion</title>
+      <link>https://www.gilesthomas.com/2026/06/role-confusion</link>
+      <guid isPermaLink="true">https://www.gilesthomas.com/2026/06/role-confusion</guid>
+      <pubDate>Wed, 24 Jun 2026 20:15:00 +0000</pubDate>
+      <description>Giles' blog</description>
+    </item>
+    <item>
+      <title>WebKit in Safari 27 Beta</title>
+      <link>https://webkit.org/blog/17967/news-from-wwdc26-webkit-in-safari-27-beta/</link>
+      <guid isPermaLink="true">https://webkit.org/blog/17967/news-from-wwdc26-webkit-in-safari-27-beta/</guid>
+      <pubDate>Wed, 24 Jun 2026 19:10:27 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Blogging Can Just Be Stating The Obvious</title>
       <link>https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/</link>
       <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/</guid>
       <pubDate>Wed, 24 Jun 2026 19:00:00 +0000</pubDate>
       <description>Jim Nielsen’s Blog</description>
+    </item>
+    <item>
+      <title>[Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It.</title>
+      <link>http://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</link>
+      <guid isPermaLink="true">http://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</guid>
+      <pubDate>Wed, 24 Jun 2026 18:46:46 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Quoting Tom MacWright</title>
+      <link>https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything</guid>
+      <pubDate>Wed, 24 Jun 2026 18:13:51 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Designed in California: An Apple History Podcast</title>
+      <link>https://designed.fm/</link>
+      <guid isPermaLink="true">https://designed.fm/</guid>
+      <pubDate>Wed, 24 Jun 2026 15:17:18 +0000</pubDate>
+      <description>Daring Fireball</description>
     </item>
     <item>
       <title>Framework's 10G Ethernet module exposes USB-C's complexity</title>
@@ -46,6 +81,20 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/23/regex-everywhere/</guid>
       <pubDate>Wed, 24 Jun 2026 00:26:11 +0000</pubDate>
       <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>"No way to prevent this" say users of only language where this regularly happens</title>
+      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-55200/</link>
+      <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-55200/</guid>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>How to Write an Effective Software Design Document</title>
+      <link>https://refactoringenglish.com/excerpts/write-an-effective-design-doc/</link>
+      <guid isPermaLink="true">https://refactoringenglish.com/excerpts/write-an-effective-design-doc/</guid>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Refactoring English</description>
     </item>
     <item>
       <title>datasette 1.0a35</title>
@@ -88,6 +137,13 @@
       <guid isPermaLink="true">https://www.wheresyoured.at/cargo-culture/</guid>
       <pubDate>Tue, 23 Jun 2026 15:23:20 +0000</pubDate>
       <description>Ed Zitron's Where's Your Ed At</description>
+    </item>
+    <item>
+      <title>Microspeak elaborated: Isn’t escrow just a release candidate by another name?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260623-00/?p=112462</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260623-00/?p=112462</guid>
+      <pubDate>Tue, 23 Jun 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Pluralistic: Spying on kids to save kids from spying is very, very stupid (23 Jun 2026)</title>
@@ -144,6 +200,13 @@
       <guid isPermaLink="true">https://dynomight.net/vitamin-d/</guid>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
       <description>DYNOMIGHT</description>
+    </item>
+    <item>
+      <title>I taught a bucket to speak git</title>
+      <link>https://www.tigrisdata.com/blog/objgit/</link>
+      <guid isPermaLink="true">https://www.tigrisdata.com/blog/objgit/</guid>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>Our hydro deserves better than a chatbot</title>
@@ -531,18 +594,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>There Are No Instances in atproto</title>
-      <link>https://overreacted.io/there-are-no-instances-in-atproto/</link>
-      <guid isPermaLink="true">https://overreacted.io/there-are-no-instances-in-atproto/</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
-      <description>overreacted — A blog by Dan Abramov</description>
-    </item>
-    <item>
       <title>Arp 29: The fireworks galaxy</title>
       <link>https://maurycyz.com/astro/arp29/</link>
       <guid isPermaLink="true">https://maurycyz.com/astro/arp29/</guid>
       <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
       <description>Maurycy's Blog</description>
+    </item>
+    <item>
+      <title>There Are No Instances in atproto</title>
+      <link>https://overreacted.io/there-are-no-instances-in-atproto/</link>
+      <guid isPermaLink="true">https://overreacted.io/there-are-no-instances-in-atproto/</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
+      <description>overreacted — A blog by Dan Abramov</description>
     </item>
     <item>
       <title>Datasette Apps: Host custom HTML applications inside Datasette</title>
@@ -781,69 +844,6 @@
       <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuNetplanWaitForCarrier</guid>
       <pubDate>Wed, 17 Jun 2026 02:29:09 +0000</pubDate>
       <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>Checking In on the iOS Continental Fun-Gap Drift</title>
-      <link>https://daringfireball.net/2024/09/ios_continental_drift_fun_gap</link>
-      <guid isPermaLink="true">https://daringfireball.net/2024/09/ios_continental_drift_fun_gap</guid>
-      <pubDate>Wed, 17 Jun 2026 00:50:18 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>datasette 1.0a34</title>
-      <link>https://simonwillison.net/2026/Jun/16/datasette/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/16/datasette/#atom-everything</guid>
-      <pubDate>Tue, 16 Jun 2026 21:31:24 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Debugging on Prod</title>
-      <link>https://idiallo.com/blog/debugging-on-prod</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/debugging-on-prod</guid>
-      <pubDate>Tue, 16 Jun 2026 20:18:00 +0000</pubDate>
-      <description>Software and Tech stories from an Insider - iDiallo.com</description>
-    </item>
-    <item>
-      <title>Key, in sight</title>
-      <link>https://aresluna.org/key-in-sight</link>
-      <guid isPermaLink="true">https://aresluna.org/key-in-sight</guid>
-      <pubDate>Tue, 16 Jun 2026 18:50:27 +0000</pubDate>
-      <description>Aresluna</description>
-    </item>
-    <item>
-      <title>10Gb/s Ethernet: switching to a Broadcom SFP+ module</title>
-      <link>https://www.gilesthomas.com/2026/06/10g-ethernet-switching-to-broadcom-sfp-plus</link>
-      <guid isPermaLink="true">https://www.gilesthomas.com/2026/06/10g-ethernet-switching-to-broadcom-sfp-plus</guid>
-      <pubDate>Tue, 16 Jun 2026 18:45:00 +0000</pubDate>
-      <description>Giles' blog</description>
-    </item>
-    <item>
-      <title>Partial fraction decomposition</title>
-      <link>https://www.johndcook.com/blog/2026/06/16/partial-fraction-decomposition/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/16/partial-fraction-decomposition/</guid>
-      <pubDate>Tue, 16 Jun 2026 17:56:27 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Ada Palmer – Machiavelli is the most misunderstood thinker of all time</title>
-      <link>https://www.dwarkesh.com/p/ada-palmer-2</link>
-      <guid isPermaLink="true">https://www.dwarkesh.com/p/ada-palmer-2</guid>
-      <pubDate>Tue, 16 Jun 2026 17:27:51 +0000</pubDate>
-      <description>Dwarkesh Podcast</description>
-    </item>
-    <item>
-      <title>datasette-tailscale 0.1a0</title>
-      <link>https://simonwillison.net/2026/Jun/16/datasette-tailscale/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/16/datasette-tailscale/#atom-everything</guid>
-      <pubDate>Tue, 16 Jun 2026 16:18:20 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>New in the App Store: Personalized Recommendations</title>
-      <link>https://techcrunch.com/2026/06/09/apples-app-store-rolls-out-personalized-recommendations/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/06/09/apples-app-store-rolls-out-personalized-recommendations/</guid>
-      <pubDate>Tue, 16 Jun 2026 16:12:31 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>

@@ -208,11 +208,11 @@ Last Updated: Thursday, June 25th, 2026, 3:29:00 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Thoughts on Role Confusion](https://www.gilesthomas.com/2026/06/role-confusion) — *Giles' blog* `06-24`
+- [WebKit in Safari 27 Beta](https://webkit.org/blog/17967/news-from-wwdc26-webkit-in-safari-27-beta/) — *Daring Fireball* `06-24`
 - [Blogging Can Just Be Stating The Obvious](https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/) — *Jim Nielsen’s Blog* `06-24`
-- [Framework's 10G Ethernet module exposes USB-C's complexity](https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/) — *Jeff Geerling* `06-24`
-- [Auth0 PHP - manually authenticating JWT idTokens](https://shkspr.mobi/blog/2026/06/auth0-php-manually-authenticating-tokens/) — *Terence Eden’s Blog* `06-24`
-- [Weekly Update 509](https://www.troyhunt.com/weekly-update-509/) — *Troy Hunt* `06-24`
-- [Two versions of a 'is SSH up on a machine' check](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SshupTwoVersions) — *Chris's Wiki :: blog* `06-24`
+- [[Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It.](http://workos.com/auth-md?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026) — *Daring Fireball* `06-24`
+- [Quoting Tom MacWright](https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything) — *Simon Willison's Weblog* `06-24`
 <!--BLOG_RADAR:end-->
 
 ---
