@@ -208,11 +208,11 @@ Last Updated: Wednesday, June 24th, 2026, 10:14:53 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Blogging Can Just Be Stating The Obvious](https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/) — *Jim Nielsen’s Blog* `06-24`
+- [Framework's 10G Ethernet module exposes USB-C's complexity](https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/) — *Jeff Geerling* `06-24`
+- [Auth0 PHP - manually authenticating JWT idTokens](https://shkspr.mobi/blog/2026/06/auth0-php-manually-authenticating-tokens/) — *Terence Eden’s Blog* `06-24`
 - [Weekly Update 509](https://www.troyhunt.com/weekly-update-509/) — *Troy Hunt* `06-24`
 - [Two versions of a 'is SSH up on a machine' check](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SshupTwoVersions) — *Chris's Wiki :: blog* `06-24`
-- [Regular expressions that work “everywhere”](https://www.johndcook.com/blog/2026/06/23/regex-everywhere/) — *John D. Cook* `06-24`
-- [datasette 1.0a35](https://simonwillison.net/2026/Jun/23/datasette/#atom-everything) — *Simon Willison's Weblog* `06-23`
-- [OPFS + Pyodide test harness](https://simonwillison.net/2026/Jun/23/opfs-pyodide/#atom-everything) — *Simon Willison's Weblog* `06-23`
 <!--BLOG_RADAR:end-->
 
 ---
