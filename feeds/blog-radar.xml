@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 24 Jun 2026 04:10:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 09:42:51 +0000</lastBuildDate>
+    <item>
+      <title>Weekly Update 509</title>
+      <link>https://www.troyhunt.com/weekly-update-509/</link>
+      <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-509/</guid>
+      <pubDate>Wed, 24 Jun 2026 05:17:32 +0000</pubDate>
+      <description>Troy Hunt</description>
+    </item>
     <item>
       <title>Two versions of a 'is SSH up on a machine' check</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SshupTwoVersions</link>
@@ -104,18 +111,18 @@
       <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
-      <title>The worthlessness of vitamin D is mildly exaggerated</title>
-      <link>https://dynomight.net/vitamin-d/</link>
-      <guid isPermaLink="true">https://dynomight.net/vitamin-d/</guid>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
-    </item>
-    <item>
       <title>Arp 293: More interacting galaxies</title>
       <link>https://maurycyz.com/astro/arp293/</link>
       <guid isPermaLink="true">https://maurycyz.com/astro/arp293/</guid>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
       <description>Maurycy's Blog</description>
+    </item>
+    <item>
+      <title>The worthlessness of vitamin D is mildly exaggerated</title>
+      <link>https://dynomight.net/vitamin-d/</link>
+      <guid isPermaLink="true">https://dynomight.net/vitamin-d/</guid>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>Our hydro deserves better than a chatbot</title>
@@ -615,18 +622,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Glassblowing #2: Making a tungsten lamp and (bad) vacuum diode</title>
-      <link>https://maurycyz.com/projects/glass/2/</link>
-      <guid isPermaLink="true">https://maurycyz.com/projects/glass/2/</guid>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
-    </item>
-    <item>
       <title>I hate compilers</title>
       <link>https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/</link>
       <guid isPermaLink="true">https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/</guid>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>Glassblowing #2: Making a tungsten lamp and (bad) vacuum diode</title>
+      <link>https://maurycyz.com/projects/glass/2/</link>
+      <guid isPermaLink="true">https://maurycyz.com/projects/glass/2/</guid>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
     </item>
     <item>
       <title>GLM-5.2 is probably the most powerful text-only open weights LLM</title>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/16/three-examples-suffice/</guid>
       <pubDate>Tue, 16 Jun 2026 11:14:01 +0000</pubDate>
       <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>How Open Source Projects Change Hands</title>
-      <link>https://nesbitt.io/2026/06/16/how-open-source-projects-change-hands.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/06/16/how-open-source-projects-change-hands.html</guid>
-      <pubDate>Tue, 16 Jun 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
     </item>
   </channel>
 </rss>
