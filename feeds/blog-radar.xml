@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 23 Jun 2026 20:14:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 04:10:36 +0000</lastBuildDate>
+    <item>
+      <title>Two versions of a 'is SSH up on a machine' check</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SshupTwoVersions</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SshupTwoVersions</guid>
+      <pubDate>Wed, 24 Jun 2026 02:18:14 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>Regular expressions that work “everywhere”</title>
+      <link>https://www.johndcook.com/blog/2026/06/23/regex-everywhere/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/23/regex-everywhere/</guid>
+      <pubDate>Wed, 24 Jun 2026 00:26:11 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>datasette 1.0a35</title>
+      <link>https://simonwillison.net/2026/Jun/23/datasette/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/23/datasette/#atom-everything</guid>
+      <pubDate>Tue, 23 Jun 2026 21:34:37 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>OPFS + Pyodide test harness</title>
       <link>https://simonwillison.net/2026/Jun/23/opfs-pyodide/#atom-everything</link>
@@ -90,11 +111,25 @@
       <description>DYNOMIGHT</description>
     </item>
     <item>
+      <title>Arp 293: More interacting galaxies</title>
+      <link>https://maurycyz.com/astro/arp293/</link>
+      <guid isPermaLink="true">https://maurycyz.com/astro/arp293/</guid>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
+    </item>
+    <item>
       <title>Our hydro deserves better than a chatbot</title>
       <link>https://hey.paris/posts/ai-data-centres-tasmania/</link>
       <guid isPermaLink="true">https://hey.paris/posts/ai-data-centres-tasmania/</guid>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
       <description>Dr Paris Buttfield-Addison</description>
+    </item>
+    <item>
+      <title>How we’ll fight the platform war against Big AI</title>
+      <link>https://anildash.com/2026/06/23/fight-ai-platform-war/</link>
+      <guid isPermaLink="true">https://anildash.com/2026/06/23/fight-ai-platform-war/</guid>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Anil Dash</description>
     </item>
     <item>
       <title>Prompt Injection as Role Confusion</title>
@@ -179,13 +214,6 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451</guid>
       <pubDate>Mon, 22 Jun 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Cybersecurity for the paranoid business traveller</title>
-      <link>https://shkspr.mobi/blog/2026/06/cybersecurity-for-the-paranoid-business-traveller/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/cybersecurity-for-the-paranoid-business-traveller/</guid>
-      <pubDate>Mon, 22 Jun 2026 11:34:18 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Everything you say CAN and WILL be used against you</title>
@@ -305,13 +333,6 @@
       <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-062026</guid>
       <pubDate>Sat, 20 Jun 2026 12:01:56 +0000</pubDate>
       <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>Which Copyleft Licence is Suitable for an SVG?</title>
-      <link>https://shkspr.mobi/blog/2026/06/which-copyleft-licence-is-suitable-for-an-svg/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/which-copyleft-licence-is-suitable-for-an-svg/</guid>
-      <pubDate>Sat, 20 Jun 2026 11:34:22 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>This Week in Package Management: 20 June 2026</title>
@@ -557,13 +578,6 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260618-00/?p=112444</guid>
       <pubDate>Thu, 18 Jun 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Book Review: The Great When by Alan Moore ★★★★☆</title>
-      <link>https://shkspr.mobi/blog/2026/06/book-review-the-great-when-by-alan-moore/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/book-review-the-great-when-by-alan-moore/</guid>
-      <pubDate>Thu, 18 Jun 2026 11:34:19 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Open Source vs the Invisible Hand</title>
@@ -818,13 +832,6 @@
       <description>Steve Blank</description>
     </item>
     <item>
-      <title>Two Way TV - product photos of 1997's hottest gadget</title>
-      <link>https://shkspr.mobi/blog/2026/06/two-way-tv-product-photos-of-1997s-hottest-gadget/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/two-way-tv-product-photos-of-1997s-hottest-gadget/</guid>
-      <pubDate>Tue, 16 Jun 2026 11:34:18 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>Three examples suffice</title>
       <link>https://www.johndcook.com/blog/2026/06/16/three-examples-suffice/</link>
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/16/three-examples-suffice/</guid>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/06/16/how-open-source-projects-change-hands.html</guid>
       <pubDate>Tue, 16 Jun 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>The Fable 5 Export Controls Harm US Cyber Defense</title>
-      <link>https://simonwillison.net/2026/Jun/16/fable-5-export-controls/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/16/fable-5-export-controls/#atom-everything</guid>
-      <pubDate>Tue, 16 Jun 2026 05:20:29 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>

@@ -208,11 +208,11 @@ Last Updated: Wednesday, June 24th, 2026, 10:43:40 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Two versions of a 'is SSH up on a machine' check](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SshupTwoVersions) — *Chris's Wiki :: blog* `06-24`
+- [Regular expressions that work “everywhere”](https://www.johndcook.com/blog/2026/06/23/regex-everywhere/) — *John D. Cook* `06-24`
+- [datasette 1.0a35](https://simonwillison.net/2026/Jun/23/datasette/#atom-everything) — *Simon Willison's Weblog* `06-23`
 - [OPFS + Pyodide test harness](https://simonwillison.net/2026/Jun/23/opfs-pyodide/#atom-everything) — *Simon Willison's Weblog* `06-23`
 - [The Talk Show: ‘Perp Walk for Selfies’](https://daringfireball.net/thetalkshow/2026/06/23/ep-450) — *Daring Fireball* `06-23`
-- [Scattered Spider Hackers Plead Guilty on Day 1 of Trial](https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/) — *Krebs on Security* `06-23`
-- [The most wonderful thing that happened to Tommy McHugh](https://www.experimental-history.com/p/the-most-wonderful-thing-that-happened) — *Experimental History* `06-23`
-- [Cargo Culture](https://www.wheresyoured.at/cargo-culture/) — *Ed Zitron's Where's Your Ed At* `06-23`
 <!--BLOG_RADAR:end-->
 
 ---
