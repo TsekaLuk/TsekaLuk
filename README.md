@@ -208,11 +208,11 @@ Last Updated: Thursday, June 25th, 2026, 10:13:36 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Some things on '<code>systemctl kexec</code>' as compared to '<code>kexec -e</code>'](https://utcc.utoronto.ca/~cks/space/blog/linux/SystemctlKexecVsKexec) — *Chris's Wiki :: blog* `06-25`
-- [The Star Trek lemma](https://www.johndcook.com/blog/2026/06/24/star-trek-lemma/) — *John D. Cook* `06-25`
-- [simonw/browser-compat-db](https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything) — *Simon Willison's Weblog* `06-24`
-- [WebKit Always Enables the Copy Menu Item in Every App](https://lapcatsoftware.com/articles/2026/6/5.html) — *Daring Fireball* `06-24`
-- [Thoughts on Role Confusion](https://www.gilesthomas.com/2026/06/role-confusion) — *Giles' blog* `06-24`
+- [Incircles and Excircles of Pythagorean triangles](https://www.johndcook.com/blog/2026/06/25/incircle-excircle/) — *John D. Cook* `06-25`
+- [US Subways Build Too Many Cross Passages](https://www.construction-physics.com/p/us-subways-build-too-many-cross-passages) — *Construction Physics* `06-25`
+- [Consecutive Pythagorean triangle sides](https://www.johndcook.com/blog/2026/06/25/consecutive-pythagorean/) — *John D. Cook* `06-25`
+- [Scrutineer: scanning open source without flooding maintainers](https://nesbitt.io/2026/06/25/scrutineer.html) — *Andrew Nesbitt* `06-25`
+- [Pluralistic: Jailbreaking isn't theft (25 Jun 2026)](https://pluralistic.net/2026/06/25/thieve-different/) — *Pluralistic: Daily links from Cory Doctorow* `06-25`
 <!--BLOG_RADAR:end-->
 
 ---

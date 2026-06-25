@@ -4,7 +4,42 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 25 Jun 2026 09:34:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 14:45:44 +0000</lastBuildDate>
+    <item>
+      <title>Incircles and Excircles of Pythagorean triangles</title>
+      <link>https://www.johndcook.com/blog/2026/06/25/incircle-excircle/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/25/incircle-excircle/</guid>
+      <pubDate>Thu, 25 Jun 2026 14:35:52 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>US Subways Build Too Many Cross Passages</title>
+      <link>https://www.construction-physics.com/p/us-subways-build-too-many-cross-passages</link>
+      <guid isPermaLink="true">https://www.construction-physics.com/p/us-subways-build-too-many-cross-passages</guid>
+      <pubDate>Thu, 25 Jun 2026 13:55:49 +0000</pubDate>
+      <description>Construction Physics</description>
+    </item>
+    <item>
+      <title>Consecutive Pythagorean triangle sides</title>
+      <link>https://www.johndcook.com/blog/2026/06/25/consecutive-pythagorean/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/25/consecutive-pythagorean/</guid>
+      <pubDate>Thu, 25 Jun 2026 12:00:14 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Scrutineer: scanning open source without flooding maintainers</title>
+      <link>https://nesbitt.io/2026/06/25/scrutineer.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/06/25/scrutineer.html</guid>
+      <pubDate>Thu, 25 Jun 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>Pluralistic: Jailbreaking isn't theft (25 Jun 2026)</title>
+      <link>https://pluralistic.net/2026/06/25/thieve-different/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/06/25/thieve-different/</guid>
+      <pubDate>Thu, 25 Jun 2026 09:37:35 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
     <item>
       <title>Some things on '&lt;code&gt;systemctl kexec&lt;/code&gt;' as compared to '&lt;code&gt;kexec -e&lt;/code&gt;'</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/linux/SystemctlKexecVsKexec</link>
@@ -81,13 +116,6 @@
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/</guid>
       <pubDate>Wed, 24 Jun 2026 14:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
-    </item>
-    <item>
-      <title>Auth0 PHP - manually authenticating JWT idTokens</title>
-      <link>https://shkspr.mobi/blog/2026/06/auth0-php-manually-authenticating-tokens/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/auth0-php-manually-authenticating-tokens/</guid>
-      <pubDate>Wed, 24 Jun 2026 11:34:25 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Weekly Update 509</title>
@@ -335,13 +363,6 @@
       <description>The Old New Thing</description>
     </item>
     <item>
-      <title>Cybersecurity for the paranoid business traveller</title>
-      <link>https://shkspr.mobi/blog/2026/06/cybersecurity-for-the-paranoid-business-traveller/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/cybersecurity-for-the-paranoid-business-traveller/</guid>
-      <pubDate>Mon, 22 Jun 2026 11:34:18 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>Everything you say CAN and WILL be used against you</title>
       <link>https://idiallo.com/blog/the-right-to-remain-silent</link>
       <guid isPermaLink="true">https://idiallo.com/blog/the-right-to-remain-silent</guid>
@@ -459,13 +480,6 @@
       <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-062026</guid>
       <pubDate>Sat, 20 Jun 2026 12:01:56 +0000</pubDate>
       <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>Which Copyleft Licence is Suitable for an SVG?</title>
-      <link>https://shkspr.mobi/blog/2026/06/which-copyleft-licence-is-suitable-for-an-svg/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/which-copyleft-licence-is-suitable-for-an-svg/</guid>
-      <pubDate>Sat, 20 Jun 2026 11:34:22 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>This Week in Package Management: 20 June 2026</title>
@@ -622,18 +636,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>There Are No Instances in atproto</title>
-      <link>https://overreacted.io/there-are-no-instances-in-atproto/</link>
-      <guid isPermaLink="true">https://overreacted.io/there-are-no-instances-in-atproto/</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
-      <description>overreacted — A blog by Dan Abramov</description>
-    </item>
-    <item>
       <title>Arp 29: The fireworks galaxy</title>
       <link>https://maurycyz.com/astro/arp29/</link>
       <guid isPermaLink="true">https://maurycyz.com/astro/arp29/</guid>
       <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
       <description>Maurycy's Blog</description>
+    </item>
+    <item>
+      <title>There Are No Instances in atproto</title>
+      <link>https://overreacted.io/there-are-no-instances-in-atproto/</link>
+      <guid isPermaLink="true">https://overreacted.io/there-are-no-instances-in-atproto/</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
+      <description>overreacted — A blog by Dan Abramov</description>
     </item>
     <item>
       <title>Datasette Apps: Host custom HTML applications inside Datasette</title>
@@ -711,13 +725,6 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260618-00/?p=112444</guid>
       <pubDate>Thu, 18 Jun 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Book Review: The Great When by Alan Moore ★★★★☆</title>
-      <link>https://shkspr.mobi/blog/2026/06/book-review-the-great-when-by-alan-moore/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/book-review-the-great-when-by-alan-moore/</guid>
-      <pubDate>Thu, 18 Jun 2026 11:34:19 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Open Source vs the Invisible Hand</title>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260617-00/?p=112436</guid>
       <pubDate>Wed, 17 Jun 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Summoning the Demon</title>
-      <link>https://geohot.github.io//blog/jekyll/update/2026/06/17/summoning-the-demon.html</link>
-      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/06/17/summoning-the-demon.html</guid>
-      <pubDate>Wed, 17 Jun 2026 07:00:00 +0000</pubDate>
-      <description>the singularity is nearer</description>
     </item>
   </channel>
 </rss>
