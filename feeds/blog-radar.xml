@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 25 Jun 2026 04:10:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 09:34:55 +0000</lastBuildDate>
     <item>
       <title>Some things on '&lt;code&gt;systemctl kexec&lt;/code&gt;' as compared to '&lt;code&gt;kexec -e&lt;/code&gt;'</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/linux/SystemctlKexecVsKexec</link>
@@ -209,13 +209,6 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>The Coming Loop</title>
-      <link>https://lucumr.pocoo.org/2026/6/23/the-coming-loop/</link>
-      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/6/23/the-coming-loop/</guid>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Armin Ronacher's Thoughts and Writings</description>
-    </item>
-    <item>
       <title>Arp 293: More interacting galaxies</title>
       <link>https://maurycyz.com/astro/arp293/</link>
       <guid isPermaLink="true">https://maurycyz.com/astro/arp293/</guid>
@@ -223,11 +216,11 @@
       <description>Maurycy's Blog</description>
     </item>
     <item>
-      <title>I taught a bucket to speak git</title>
-      <link>https://www.tigrisdata.com/blog/objgit/</link>
-      <guid isPermaLink="true">https://www.tigrisdata.com/blog/objgit/</guid>
+      <title>The Coming Loop</title>
+      <link>https://lucumr.pocoo.org/2026/6/23/the-coming-loop/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/6/23/the-coming-loop/</guid>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
+      <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
       <title>The worthlessness of vitamin D is mildly exaggerated</title>
@@ -235,6 +228,13 @@
       <guid isPermaLink="true">https://dynomight.net/vitamin-d/</guid>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
       <description>DYNOMIGHT</description>
+    </item>
+    <item>
+      <title>I taught a bucket to speak git</title>
+      <link>https://www.tigrisdata.com/blog/objgit/</link>
+      <guid isPermaLink="true">https://www.tigrisdata.com/blog/objgit/</guid>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>Our hydro deserves better than a chatbot</title>
