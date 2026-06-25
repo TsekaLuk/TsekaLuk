@@ -208,11 +208,11 @@ Last Updated: Thursday, June 25th, 2026, 10:44:14 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Some things on '<code>systemctl kexec</code>' as compared to '<code>kexec -e</code>'](https://utcc.utoronto.ca/~cks/space/blog/linux/SystemctlKexecVsKexec) — *Chris's Wiki :: blog* `06-25`
+- [The Star Trek lemma](https://www.johndcook.com/blog/2026/06/24/star-trek-lemma/) — *John D. Cook* `06-25`
+- [simonw/browser-compat-db](https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything) — *Simon Willison's Weblog* `06-24`
+- [WebKit Always Enables the Copy Menu Item in Every App](https://lapcatsoftware.com/articles/2026/6/5.html) — *Daring Fireball* `06-24`
 - [Thoughts on Role Confusion](https://www.gilesthomas.com/2026/06/role-confusion) — *Giles' blog* `06-24`
-- [WebKit in Safari 27 Beta](https://webkit.org/blog/17967/news-from-wwdc26-webkit-in-safari-27-beta/) — *Daring Fireball* `06-24`
-- [Blogging Can Just Be Stating The Obvious](https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/) — *Jim Nielsen’s Blog* `06-24`
-- [[Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It.](http://workos.com/auth-md?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026) — *Daring Fireball* `06-24`
-- [Quoting Tom MacWright](https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything) — *Simon Willison's Weblog* `06-24`
 <!--BLOG_RADAR:end-->
 
 ---

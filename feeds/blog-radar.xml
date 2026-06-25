@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 24 Jun 2026 19:55:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 04:10:50 +0000</lastBuildDate>
+    <item>
+      <title>Some things on '&lt;code&gt;systemctl kexec&lt;/code&gt;' as compared to '&lt;code&gt;kexec -e&lt;/code&gt;'</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/SystemctlKexecVsKexec</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/SystemctlKexecVsKexec</guid>
+      <pubDate>Thu, 25 Jun 2026 02:42:00 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>The Star Trek lemma</title>
+      <link>https://www.johndcook.com/blog/2026/06/24/star-trek-lemma/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/24/star-trek-lemma/</guid>
+      <pubDate>Thu, 25 Jun 2026 02:38:42 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>simonw/browser-compat-db</title>
+      <link>https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything</guid>
+      <pubDate>Wed, 24 Jun 2026 23:59:03 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>WebKit Always Enables the Copy Menu Item in Every App</title>
+      <link>https://lapcatsoftware.com/articles/2026/6/5.html</link>
+      <guid isPermaLink="true">https://lapcatsoftware.com/articles/2026/6/5.html</guid>
+      <pubDate>Wed, 24 Jun 2026 21:52:43 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Thoughts on Role Confusion</title>
       <link>https://www.gilesthomas.com/2026/06/role-confusion</link>
@@ -195,18 +223,18 @@
       <description>Maurycy's Blog</description>
     </item>
     <item>
-      <title>The worthlessness of vitamin D is mildly exaggerated</title>
-      <link>https://dynomight.net/vitamin-d/</link>
-      <guid isPermaLink="true">https://dynomight.net/vitamin-d/</guid>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
-    </item>
-    <item>
       <title>I taught a bucket to speak git</title>
       <link>https://www.tigrisdata.com/blog/objgit/</link>
       <guid isPermaLink="true">https://www.tigrisdata.com/blog/objgit/</guid>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>The worthlessness of vitamin D is mildly exaggerated</title>
+      <link>https://dynomight.net/vitamin-d/</link>
+      <guid isPermaLink="true">https://dynomight.net/vitamin-d/</guid>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>Our hydro deserves better than a chatbot</title>
@@ -594,18 +622,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Arp 29: The fireworks galaxy</title>
-      <link>https://maurycyz.com/astro/arp29/</link>
-      <guid isPermaLink="true">https://maurycyz.com/astro/arp29/</guid>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
-    </item>
-    <item>
       <title>There Are No Instances in atproto</title>
       <link>https://overreacted.io/there-are-no-instances-in-atproto/</link>
       <guid isPermaLink="true">https://overreacted.io/there-are-no-instances-in-atproto/</guid>
       <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
       <description>overreacted — A blog by Dan Abramov</description>
+    </item>
+    <item>
+      <title>Arp 29: The fireworks galaxy</title>
+      <link>https://maurycyz.com/astro/arp29/</link>
+      <guid isPermaLink="true">https://maurycyz.com/astro/arp29/</guid>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
     </item>
     <item>
       <title>Datasette Apps: Host custom HTML applications inside Datasette</title>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/06/17/summoning-the-demon.html</guid>
       <pubDate>Wed, 17 Jun 2026 07:00:00 +0000</pubDate>
       <description>the singularity is nearer</description>
-    </item>
-    <item>
-      <title>&lt;click-to-play&gt; — a still that plays</title>
-      <link>https://simonwillison.net/2026/Jun/17/click-to-play-component/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/17/click-to-play-component/#atom-everything</guid>
-      <pubDate>Wed, 17 Jun 2026 03:56:10 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>NetNewsWire Status</title>
-      <link>https://simonwillison.net/2026/Jun/17/netnewswire-status/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/17/netnewswire-status/#atom-everything</guid>
-      <pubDate>Wed, 17 Jun 2026 03:36:09 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Flax debugging: making a hash of things</title>
-      <link>https://www.gilesthomas.com/2026/06/hashing-jax-parameters</link>
-      <guid isPermaLink="true">https://www.gilesthomas.com/2026/06/hashing-jax-parameters</guid>
-      <pubDate>Wed, 17 Jun 2026 02:40:00 +0000</pubDate>
-      <description>Giles' blog</description>
-    </item>
-    <item>
-      <title>Why servers running Ubuntu can stall on boot for two minutes</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuNetplanWaitForCarrier</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuNetplanWaitForCarrier</guid>
-      <pubDate>Wed, 17 Jun 2026 02:29:09 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
     </item>
   </channel>
 </rss>
