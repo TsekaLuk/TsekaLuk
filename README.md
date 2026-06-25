@@ -208,11 +208,11 @@ Last Updated: Friday, June 26th, 2026, 3:50:48 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Hart’s theorem](https://www.johndcook.com/blog/2026/06/25/harts-theorem/) — *John D. Cook* `06-25`
+- [Apple Raises Prices on Most Products by 15–25 Percent, but Not iPhones, Watches, or AirPods](https://www.wsj.com/tech/apple-raises-prices-on-macs-ipads-by-200-or-more-on-some-models-a7463f99?st=zse57R) — *Daring Fireball* `06-25`
 - [Incircles and Excircles of Pythagorean triangles](https://www.johndcook.com/blog/2026/06/25/incircle-excircle/) — *John D. Cook* `06-25`
-- [US Subways Build Too Many Cross Passages](https://www.construction-physics.com/p/us-subways-build-too-many-cross-passages) — *Construction Physics* `06-25`
-- [Consecutive Pythagorean triangle sides](https://www.johndcook.com/blog/2026/06/25/consecutive-pythagorean/) — *John D. Cook* `06-25`
-- [Scrutineer: scanning open source without flooding maintainers](https://nesbitt.io/2026/06/25/scrutineer.html) — *Andrew Nesbitt* `06-25`
-- [Pluralistic: Jailbreaking isn't theft (25 Jun 2026)](https://pluralistic.net/2026/06/25/thieve-different/) — *Pluralistic: Daily links from Cory Doctorow* `06-25`
+- [Raymond’s hot take on Hainanese chicken](https://devblogs.microsoft.com/oldnewthing/20260625-01/?p=112469) — *The Old New Thing* `06-25`
+- [The case of the DLL that was not present in memory despite not being formally unloaded, part 1](https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467) — *The Old New Thing* `06-25`
 <!--BLOG_RADAR:end-->
 
 ---
