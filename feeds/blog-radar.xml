@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 26 Jun 2026 09:40:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 14:38:15 +0000</lastBuildDate>
+    <item>
+      <title>Review: Gamrombo PS5 controller - including Linux set up ★★★★☆</title>
+      <link>https://shkspr.mobi/blog/2026/06/review-gamrombo-ps5-controller-including-linux-set-up/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/review-gamrombo-ps5-controller-including-linux-set-up/</guid>
+      <pubDate>Fri, 26 Jun 2026 11:34:42 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
     <item>
       <title>Incident Report: CVE-2026-LGTM</title>
       <link>https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html</link>
@@ -25,6 +32,13 @@
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/apply-lut-color-grade-with-ffmpeg/</guid>
       <pubDate>Fri, 26 Jun 2026 02:23:00 +0000</pubDate>
       <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>AI inference is obviously profitable</title>
+      <link>https://seangoedecke.com/ai-inference-is-obviously-profitable/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/ai-inference-is-obviously-profitable/</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>Apple Journal’s Atrocious Undo Bug Has Been Fixed (and SwiftUI, Per Se, Is Not to Blame)</title>
@@ -370,18 +384,18 @@
       <description>Maurycy's Blog</description>
     </item>
     <item>
-      <title>I taught a bucket to speak git</title>
-      <link>https://www.tigrisdata.com/blog/objgit/</link>
-      <guid isPermaLink="true">https://www.tigrisdata.com/blog/objgit/</guid>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
       <title>The worthlessness of vitamin D is mildly exaggerated</title>
       <link>https://dynomight.net/vitamin-d/</link>
       <guid isPermaLink="true">https://dynomight.net/vitamin-d/</guid>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
       <description>DYNOMIGHT</description>
+    </item>
+    <item>
+      <title>I taught a bucket to speak git</title>
+      <link>https://www.tigrisdata.com/blog/objgit/</link>
+      <guid isPermaLink="true">https://www.tigrisdata.com/blog/objgit/</guid>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>Our hydro deserves better than a chatbot</title>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://www.cnbc.com/2026/06/16/spacex-spcx-cursor-acquisition-ipo.html</guid>
       <pubDate>Thu, 18 Jun 2026 16:49:00 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Tim Cook, in Interview With WSJ: ‘Unfortunately, Price Increases Are Unavoidable’</title>
-      <link>https://www.wsj.com/tech/apple-price-increases-memory-supply-199845b1?st=qWH3n1&amp;reflink=desktopwebshare_permalink</link>
-      <guid isPermaLink="true">https://www.wsj.com/tech/apple-price-increases-memory-supply-199845b1?st=qWH3n1&amp;reflink=desktopwebshare_permalink</guid>
-      <pubDate>Thu, 18 Jun 2026 15:49:47 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Pluralistic: AI digital sovereignty risk doesn't exist (18 Jun 2026)</title>
-      <link>https://pluralistic.net/2026/06/18/their-trillions-our-billions/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/06/18/their-trillions-our-billions/</guid>
-      <pubDate>Thu, 18 Jun 2026 15:22:16 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
     </item>
   </channel>
 </rss>
