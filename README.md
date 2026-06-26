@@ -208,11 +208,11 @@ Last Updated: Friday, June 26th, 2026, 4:55:13 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Incident Report: CVE-2026-LGTM](https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html) — *Andrew Nesbitt* `06-26`
 - [You can't always trust a BMC's inventory of the server's hardware](https://utcc.utoronto.ca/~cks/space/blog/tech/BMCDontTrustHardwareInventory) — *Chris's Wiki :: blog* `06-26`
 - [Quickly apply LUTs (color grading) with ffmpeg](https://www.jeffgeerling.com/blog/2026/apply-lut-color-grade-with-ffmpeg/) — *Jeff Geerling* `06-26`
 - [Apple Journal’s Atrocious Undo Bug Has Been Fixed (and SwiftUI, Per Se, Is Not to Blame)](https://daringfireball.net/2026/06/swiftui_only_makes_it_easy_to_develop_bad_apps) — *Daring Fireball* `06-25`
 - [★ Spensive Thoughts](https://daringfireball.net/2026/06/spensive_thoughts) — *Daring Fireball* `06-25`
-- [AI and Liability](https://simonwillison.net/2026/Jun/25/ai-and-liability/#atom-everything) — *Simon Willison's Weblog* `06-25`
 <!--BLOG_RADAR:end-->
 
 ---

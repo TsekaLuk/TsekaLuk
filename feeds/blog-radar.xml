@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 26 Jun 2026 04:17:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 09:40:18 +0000</lastBuildDate>
+    <item>
+      <title>Incident Report: CVE-2026-LGTM</title>
+      <link>https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html</guid>
+      <pubDate>Fri, 26 Jun 2026 04:13:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
     <item>
       <title>You can't always trust a BMC's inventory of the server's hardware</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/tech/BMCDontTrustHardwareInventory</link>
@@ -363,18 +370,18 @@
       <description>Maurycy's Blog</description>
     </item>
     <item>
-      <title>The worthlessness of vitamin D is mildly exaggerated</title>
-      <link>https://dynomight.net/vitamin-d/</link>
-      <guid isPermaLink="true">https://dynomight.net/vitamin-d/</guid>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
-    </item>
-    <item>
       <title>I taught a bucket to speak git</title>
       <link>https://www.tigrisdata.com/blog/objgit/</link>
       <guid isPermaLink="true">https://www.tigrisdata.com/blog/objgit/</guid>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>The worthlessness of vitamin D is mildly exaggerated</title>
+      <link>https://dynomight.net/vitamin-d/</link>
+      <guid isPermaLink="true">https://dynomight.net/vitamin-d/</guid>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>Our hydro deserves better than a chatbot</title>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://pluralistic.net/2026/06/18/their-trillions-our-billions/</guid>
       <pubDate>Thu, 18 Jun 2026 15:22:16 +0000</pubDate>
       <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Show your hands honor for the strange power they bring you</title>
-      <link>https://aresluna.org/show-your-hands-honor</link>
-      <guid isPermaLink="true">https://aresluna.org/show-your-hands-honor</guid>
-      <pubDate>Thu, 18 Jun 2026 14:43:48 +0000</pubDate>
-      <description>Aresluna</description>
     </item>
   </channel>
 </rss>
