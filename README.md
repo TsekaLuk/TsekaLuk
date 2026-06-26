@@ -208,11 +208,11 @@ Last Updated: Saturday, June 27th, 2026, 3:40:26 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Review: Gamrombo PS5 controller - including Linux set up ★★★★☆](https://shkspr.mobi/blog/2026/06/review-gamrombo-ps5-controller-including-linux-set-up/) — *Terence Eden’s Blog* `06-26`
-- [Incident Report: CVE-2026-LGTM](https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html) — *Andrew Nesbitt* `06-26`
-- [You can't always trust a BMC's inventory of the server's hardware](https://utcc.utoronto.ca/~cks/space/blog/tech/BMCDontTrustHardwareInventory) — *Chris's Wiki :: blog* `06-26`
-- [Quickly apply LUTs (color grading) with ffmpeg](https://www.jeffgeerling.com/blog/2026/apply-lut-color-grade-with-ffmpeg/) — *Jeff Geerling* `06-26`
-- [AI inference is obviously profitable](https://seangoedecke.com/ai-inference-is-obviously-profitable/) — *seangoedecke.com RSS feed* `06-26`
+- [What happened after 2,000 people tried to hack my AI assistant](https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything) — *Simon Willison's Weblog* `06-26`
+- [Premium: Notes From The Bubble, Volume 1](https://www.wheresyoured.at/premium-notes-from-the-bubble-volume-1/) — *Ed Zitron's Where's Your Ed At* `06-26`
+- [Incident Report: CVE-2026-LGTM](https://simonwillison.net/2026/Jun/26/incident-report/#atom-everything) — *Simon Willison's Weblog* `06-26`
+- [Quoting OpenAI](https://simonwillison.net/2026/Jun/26/openai/#atom-everything) — *Simon Willison's Weblog* `06-26`
+- [Apple’s Full Statement on Yesterday’s Price Increases](https://www.macrumors.com/2026/06/25/apple-explains-why-it-raised-prices/) — *Daring Fireball* `06-26`
 <!--BLOG_RADAR:end-->
 
 ---
