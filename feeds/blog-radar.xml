@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 27 Jun 2026 04:03:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 08:45:14 +0000</lastBuildDate>
     <item>
       <title>All Chinese Models Will Be Illegal in 3... 2... 1...</title>
       <link>https://idiallo.com/blog/all-chinese-models-will-be-illegal</link>
@@ -109,13 +109,6 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260626-00/?p=112472</guid>
       <pubDate>Fri, 26 Jun 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Review: Gamrombo PS5 controller - including Linux set up ★★★★☆</title>
-      <link>https://shkspr.mobi/blog/2026/06/review-gamrombo-ps5-controller-including-linux-set-up/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/review-gamrombo-ps5-controller-including-linux-set-up/</guid>
-      <pubDate>Fri, 26 Jun 2026 11:34:42 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Incident Report: CVE-2026-LGTM</title>
@@ -342,13 +335,6 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Cancellation of Windows Runtime activities is asynchronous</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260624-00/?p=112465</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260624-00/?p=112465</guid>
-      <pubDate>Wed, 24 Jun 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
       <title>Framework's 10G Ethernet module exposes USB-C's complexity</title>
       <link>https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/</link>
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/</guid>
@@ -356,11 +342,11 @@
       <description>Jeff Geerling</description>
     </item>
     <item>
-      <title>Auth0 PHP - manually authenticating JWT idTokens</title>
-      <link>https://shkspr.mobi/blog/2026/06/auth0-php-manually-authenticating-tokens/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/auth0-php-manually-authenticating-tokens/</guid>
-      <pubDate>Wed, 24 Jun 2026 11:34:25 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
+      <title>Cancellation of Windows Runtime activities is asynchronous</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260624-00/?p=112465</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260624-00/?p=112465</guid>
+      <pubDate>Wed, 24 Jun 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Weekly Update 509</title>
@@ -482,13 +468,6 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>The Coming Loop</title>
-      <link>https://lucumr.pocoo.org/2026/6/23/the-coming-loop/</link>
-      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/6/23/the-coming-loop/</guid>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Armin Ronacher's Thoughts and Writings</description>
-    </item>
-    <item>
       <title>Arp 293: More interacting galaxies</title>
       <link>https://maurycyz.com/astro/arp293/</link>
       <guid isPermaLink="true">https://maurycyz.com/astro/arp293/</guid>
@@ -508,6 +487,13 @@
       <guid isPermaLink="true">https://dynomight.net/vitamin-d/</guid>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
       <description>DYNOMIGHT</description>
+    </item>
+    <item>
+      <title>The Coming Loop</title>
+      <link>https://lucumr.pocoo.org/2026/6/23/the-coming-loop/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/6/23/the-coming-loop/</guid>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
       <title>Our hydro deserves better than a chatbot</title>
@@ -606,13 +592,6 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451</guid>
       <pubDate>Mon, 22 Jun 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Cybersecurity for the paranoid business traveller</title>
-      <link>https://shkspr.mobi/blog/2026/06/cybersecurity-for-the-paranoid-business-traveller/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/cybersecurity-for-the-paranoid-business-traveller/</guid>
-      <pubDate>Mon, 22 Jun 2026 11:34:18 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Everything you say CAN and WILL be used against you</title>
@@ -734,13 +713,6 @@
       <description>Construction Physics</description>
     </item>
     <item>
-      <title>Which Copyleft Licence is Suitable for an SVG?</title>
-      <link>https://shkspr.mobi/blog/2026/06/which-copyleft-licence-is-suitable-for-an-svg/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/which-copyleft-licence-is-suitable-for-an-svg/</guid>
-      <pubDate>Sat, 20 Jun 2026 11:34:22 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>This Week in Package Management: 20 June 2026</title>
       <link>https://nesbitt.io/2026/06/20/this-week-in-package-management.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/06/20/this-week-in-package-management.html</guid>
@@ -844,6 +816,34 @@
       <guid isPermaLink="true">https://www.reddit.com/r/funny/comments/1jk6onr/bloody_large_glasses_by_michael_caine/</guid>
       <pubDate>Fri, 19 Jun 2026 16:32:14 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Jerry Seinfeld Tries Out Snap’s Specs</title>
+      <link>https://youtu.be/siM8NW24QPs?t=217</link>
+      <guid isPermaLink="true">https://youtu.be/siM8NW24QPs?t=217</guid>
+      <pubDate>Fri, 19 Jun 2026 16:19:58 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>The Goldilocks Principle in Fantasy Strategy</title>
+      <link>https://www.filfre.net/2026/06/the-goldilocks-principle-in-fantasy-strategy/</link>
+      <guid isPermaLink="true">https://www.filfre.net/2026/06/the-goldilocks-principle-in-fantasy-strategy/</guid>
+      <pubDate>Fri, 19 Jun 2026 16:00:22 +0000</pubDate>
+      <description>The Digital Antiquarian</description>
+    </item>
+    <item>
+      <title>Domino’s Admitted Their Pizza Tasted Like Cardboard</title>
+      <link>https://www.inc.com/jeff-haden/10-years-ago-cardboard-pizza-almost-killed-dominos-then-dominos-did-something-brilliant.html</link>
+      <guid isPermaLink="true">https://www.inc.com/jeff-haden/10-years-ago-cardboard-pizza-almost-killed-dominos-then-dominos-did-something-brilliant.html</guid>
+      <pubDate>Fri, 19 Jun 2026 15:59:10 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>What does it mean when the bottom bit of my HMODULE is set?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260619-00/?p=112447</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260619-00/?p=112447</guid>
+      <pubDate>Fri, 19 Jun 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
   </channel>
 </rss>
