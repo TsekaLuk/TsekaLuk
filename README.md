@@ -208,11 +208,11 @@ Last Updated: Saturday, June 27th, 2026, 10:39:31 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [What happened after 2,000 people tried to hack my AI assistant](https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything) — *Simon Willison's Weblog* `06-26`
-- [Premium: Notes From The Bubble, Volume 1](https://www.wheresyoured.at/premium-notes-from-the-bubble-volume-1/) — *Ed Zitron's Where's Your Ed At* `06-26`
-- [Incident Report: CVE-2026-LGTM](https://simonwillison.net/2026/Jun/26/incident-report/#atom-everything) — *Simon Willison's Weblog* `06-26`
-- [Quoting OpenAI](https://simonwillison.net/2026/Jun/26/openai/#atom-everything) — *Simon Willison's Weblog* `06-26`
-- [Apple’s Full Statement on Yesterday’s Price Increases](https://www.macrumors.com/2026/06/25/apple-explains-why-it-raised-prices/) — *Daring Fireball* `06-26`
+- [All Chinese Models Will Be Illegal in 3... 2... 1...](https://idiallo.com/blog/all-chinese-models-will-be-illegal) — *Software and Tech stories from an Insider - iDiallo.com* `06-27`
+- [How your Ubuntu 26.04 server boots with a software RAID array root filesystem](https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604ServerSoftwareRaidBoot) — *Chris's Wiki :: blog* `06-27`
+- [Writing down harmonic numbers](https://www.johndcook.com/blog/2026/06/26/writing-down-harmonic-numbers/) — *John D. Cook* `06-27`
+- [★ Om](https://daringfireball.net/2026/06/om) — *Daring Fireball* `06-26`
+- [Quoting Dean W. Ball](https://simonwillison.net/2026/Jun/26/dean-w-ball/#atom-everything) — *Simon Willison's Weblog* `06-26`
 <!--BLOG_RADAR:end-->
 
 ---

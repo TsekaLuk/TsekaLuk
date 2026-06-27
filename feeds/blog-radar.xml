@@ -4,7 +4,49 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 26 Jun 2026 19:59:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 04:03:57 +0000</lastBuildDate>
+    <item>
+      <title>All Chinese Models Will Be Illegal in 3... 2... 1...</title>
+      <link>https://idiallo.com/blog/all-chinese-models-will-be-illegal</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/all-chinese-models-will-be-illegal</guid>
+      <pubDate>Sat, 27 Jun 2026 03:32:38 +0000</pubDate>
+      <description>Software and Tech stories from an Insider - iDiallo.com</description>
+    </item>
+    <item>
+      <title>How your Ubuntu 26.04 server boots with a software RAID array root filesystem</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604ServerSoftwareRaidBoot</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604ServerSoftwareRaidBoot</guid>
+      <pubDate>Sat, 27 Jun 2026 03:28:54 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>Writing down harmonic numbers</title>
+      <link>https://www.johndcook.com/blog/2026/06/26/writing-down-harmonic-numbers/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/26/writing-down-harmonic-numbers/</guid>
+      <pubDate>Sat, 27 Jun 2026 01:51:03 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>★ Om</title>
+      <link>https://daringfireball.net/2026/06/om</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/06/om</guid>
+      <pubDate>Fri, 26 Jun 2026 23:22:50 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Quoting Dean W. Ball</title>
+      <link>https://simonwillison.net/2026/Jun/26/dean-w-ball/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/26/dean-w-ball/#atom-everything</guid>
+      <pubDate>Fri, 26 Jun 2026 22:25:46 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Quoting Timothy B. Lee</title>
+      <link>https://simonwillison.net/2026/Jun/26/timothy-b-lee/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/26/timothy-b-lee/#atom-everything</guid>
+      <pubDate>Fri, 26 Jun 2026 21:15:09 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>What happened after 2,000 people tried to hack my AI assistant</title>
       <link>https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything</link>
@@ -60,6 +102,13 @@
       <guid isPermaLink="true">https://buyersguide.macrumors.com/#Apple_TV</guid>
       <pubDate>Fri, 26 Jun 2026 15:39:38 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>The case of the DLL that was not present in memory despite not being formally unloaded, part 2</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260626-00/?p=112472</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260626-00/?p=112472</guid>
+      <pubDate>Fri, 26 Jun 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Review: Gamrombo PS5 controller - including Linux set up ★★★★☆</title>
@@ -293,18 +342,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Framework's 10G Ethernet module exposes USB-C's complexity</title>
-      <link>https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/</guid>
-      <pubDate>Wed, 24 Jun 2026 14:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
       <title>Cancellation of Windows Runtime activities is asynchronous</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260624-00/?p=112465</link>
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260624-00/?p=112465</guid>
       <pubDate>Wed, 24 Jun 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>Framework's 10G Ethernet module exposes USB-C's complexity</title>
+      <link>https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/</guid>
+      <pubDate>Wed, 24 Jun 2026 14:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
     </item>
     <item>
       <title>Auth0 PHP - manually authenticating JWT idTokens</title>
@@ -794,55 +843,6 @@
       <link>https://www.reddit.com/r/funny/comments/1jk6onr/bloody_large_glasses_by_michael_caine/</link>
       <guid isPermaLink="true">https://www.reddit.com/r/funny/comments/1jk6onr/bloody_large_glasses_by_michael_caine/</guid>
       <pubDate>Fri, 19 Jun 2026 16:32:14 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Jerry Seinfeld Tries Out Snap’s Specs</title>
-      <link>https://youtu.be/siM8NW24QPs?t=217</link>
-      <guid isPermaLink="true">https://youtu.be/siM8NW24QPs?t=217</guid>
-      <pubDate>Fri, 19 Jun 2026 16:19:58 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The Goldilocks Principle in Fantasy Strategy</title>
-      <link>https://www.filfre.net/2026/06/the-goldilocks-principle-in-fantasy-strategy/</link>
-      <guid isPermaLink="true">https://www.filfre.net/2026/06/the-goldilocks-principle-in-fantasy-strategy/</guid>
-      <pubDate>Fri, 19 Jun 2026 16:00:22 +0000</pubDate>
-      <description>The Digital Antiquarian</description>
-    </item>
-    <item>
-      <title>Domino’s Admitted Their Pizza Tasted Like Cardboard</title>
-      <link>https://www.inc.com/jeff-haden/10-years-ago-cardboard-pizza-almost-killed-dominos-then-dominos-did-something-brilliant.html</link>
-      <guid isPermaLink="true">https://www.inc.com/jeff-haden/10-years-ago-cardboard-pizza-almost-killed-dominos-then-dominos-did-something-brilliant.html</guid>
-      <pubDate>Fri, 19 Jun 2026 15:59:10 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>What does it mean when the bottom bit of my HMODULE is set?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260619-00/?p=112447</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260619-00/?p=112447</guid>
-      <pubDate>Fri, 19 Jun 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Converting Coal Plants to Natural Gas</title>
-      <link>https://www.construction-physics.com/p/converting-coal-plants-to-natural</link>
-      <guid isPermaLink="true">https://www.construction-physics.com/p/converting-coal-plants-to-natural</guid>
-      <pubDate>Fri, 19 Jun 2026 12:03:02 +0000</pubDate>
-      <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>Some reasons why your server may not be doing a UEFI network boot</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/WhyServerNotUEFINetworkBoot</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/WhyServerNotUEFINetworkBoot</guid>
-      <pubDate>Fri, 19 Jun 2026 03:30:09 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>Verizon, Formerly Menace Mobile</title>
-      <link>https://www.youtube.com/watch?v=lzmntndEXWo</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=lzmntndEXWo</guid>
-      <pubDate>Fri, 19 Jun 2026 00:58:25 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
   </channel>
