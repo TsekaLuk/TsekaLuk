@@ -208,11 +208,11 @@ Last Updated: Sunday, June 28th, 2026, 3:11:47 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [The Steam Machine](https://www.theverge.com/games/952765/steam-machine-review?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6Illsb3pPdVlCSmQiLCJwIjoiL2dhbWVzLzk1Mjc2NS9zdGVhbS1tYWNoaW5lLXJldmlldyIsImV4cCI6MTc4MzAxOTM4OCwiaWF0IjoxNzgyNTg3Mzg4fQ.ksUd5qynurLxKTvjnCTD3mj4xzH9gdFgqAzFJ577ZcE&utm_medium=gift-link) — *Daring Fireball* `06-27`
+- [When will the decimals in a/b repeat?](https://www.johndcook.com/blog/2026/06/27/decimal-period/) — *John D. Cook* `06-27`
+- [Hazy Memory](https://feed.tedium.co/link/15204/17369108/apple-micron-ram-shortage-vertical-integration) — *Tedium: The Dull Side of the Internet.* `06-27`
 - [Height of harmonic numbers](https://www.johndcook.com/blog/2026/06/27/height-of-harmonic-numbers/) — *John D. Cook* `06-27`
 - [Reading List 06/27/26](https://www.construction-physics.com/p/reading-list-062726) — *Construction Physics* `06-27`
-- [Pluralistic: Zuckerberg's increasingly bizarre war on whistleblowers (27 Jun 2026)](https://pluralistic.net/2026/06/27/zuckerstreisand-2/) — *Pluralistic: Daily links from Cory Doctorow* `06-27`
-- [This Week in Package Management: 27 June 2026](https://nesbitt.io/2026/06/27/this-week-in-package-management.html) — *Andrew Nesbitt* `06-27`
-- [All Chinese Models Will Be Illegal in 3... 2... 1...](https://idiallo.com/blog/all-chinese-models-will-be-illegal) — *Software and Tech stories from an Insider - iDiallo.com* `06-27`
 <!--BLOG_RADAR:end-->
 
 ---

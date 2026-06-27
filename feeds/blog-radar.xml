@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 27 Jun 2026 13:57:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 19:38:05 +0000</lastBuildDate>
+    <item>
+      <title>The Steam Machine</title>
+      <link>https://www.theverge.com/games/952765/steam-machine-review?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6Illsb3pPdVlCSmQiLCJwIjoiL2dhbWVzLzk1Mjc2NS9zdGVhbS1tYWNoaW5lLXJldmlldyIsImV4cCI6MTc4MzAxOTM4OCwiaWF0IjoxNzgyNTg3Mzg4fQ.ksUd5qynurLxKTvjnCTD3mj4xzH9gdFgqAzFJ577ZcE&amp;utm_medium=gift-link</link>
+      <guid isPermaLink="true">https://www.theverge.com/games/952765/steam-machine-review?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6Illsb3pPdVlCSmQiLCJwIjoiL2dhbWVzLzk1Mjc2NS9zdGVhbS1tYWNoaW5lLXJldmlldyIsImV4cCI6MTc4MzAxOTM4OCwiaWF0IjoxNzgyNTg3Mzg4fQ.ksUd5qynurLxKTvjnCTD3mj4xzH9gdFgqAzFJ577ZcE&amp;utm_medium=gift-link</guid>
+      <pubDate>Sat, 27 Jun 2026 19:14:16 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>When will the decimals in a/b repeat?</title>
+      <link>https://www.johndcook.com/blog/2026/06/27/decimal-period/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/27/decimal-period/</guid>
+      <pubDate>Sat, 27 Jun 2026 18:12:03 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Hazy Memory</title>
+      <link>https://feed.tedium.co/link/15204/17369108/apple-micron-ram-shortage-vertical-integration</link>
+      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17369108/apple-micron-ram-shortage-vertical-integration</guid>
+      <pubDate>Sat, 27 Jun 2026 14:09:29 +0000</pubDate>
+      <description>Tedium: The Dull Side of the Internet.</description>
+    </item>
     <item>
       <title>Height of harmonic numbers</title>
       <link>https://www.johndcook.com/blog/2026/06/27/height-of-harmonic-numbers/</link>
@@ -32,13 +53,6 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/06/27/this-week-in-package-management.html</guid>
       <pubDate>Sat, 27 Jun 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>All Chinese Models Will Be Illegal in 3... 2... 1...</title>
-      <link>https://idiallo.com/blog/all-chinese-models-will-be-illegal</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/all-chinese-models-will-be-illegal</guid>
-      <pubDate>Sat, 27 Jun 2026 03:32:38 +0000</pubDate>
-      <description>Software and Tech stories from an Insider - iDiallo.com</description>
     </item>
     <item>
       <title>How your Ubuntu 26.04 server boots with a software RAID array root filesystem</title>
@@ -517,13 +531,6 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>The Coming Loop</title>
-      <link>https://lucumr.pocoo.org/2026/6/23/the-coming-loop/</link>
-      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/6/23/the-coming-loop/</guid>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Armin Ronacher's Thoughts and Writings</description>
-    </item>
-    <item>
       <title>Arp 293: More interacting galaxies</title>
       <link>https://maurycyz.com/astro/arp293/</link>
       <guid isPermaLink="true">https://maurycyz.com/astro/arp293/</guid>
@@ -536,6 +543,13 @@
       <guid isPermaLink="true">https://dynomight.net/vitamin-d/</guid>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
       <description>DYNOMIGHT</description>
+    </item>
+    <item>
+      <title>The Coming Loop</title>
+      <link>https://lucumr.pocoo.org/2026/6/23/the-coming-loop/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/6/23/the-coming-loop/</guid>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
       <title>I taught a bucket to speak git</title>
@@ -650,25 +664,11 @@
       <description>Terence Eden’s Blog</description>
     </item>
     <item>
-      <title>Everything you say CAN and WILL be used against you</title>
-      <link>https://idiallo.com/blog/the-right-to-remain-silent</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/the-right-to-remain-silent</guid>
-      <pubDate>Mon, 22 Jun 2026 07:00:00 +0000</pubDate>
-      <description>Software and Tech stories from an Insider - iDiallo.com</description>
-    </item>
-    <item>
       <title>Configuration is a liability, just like code</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ConfigurationIsALiability</link>
       <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ConfigurationIsALiability</guid>
       <pubDate>Mon, 22 Jun 2026 03:08:03 +0000</pubDate>
       <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>Happy Father's Day.</title>
-      <link>https://idiallo.com/byte-size/happy-fathers-day-2026</link>
-      <guid isPermaLink="true">https://idiallo.com/byte-size/happy-fathers-day-2026</guid>
-      <pubDate>Mon, 22 Jun 2026 02:43:33 +0000</pubDate>
-      <description>Software and Tech stories from an Insider - iDiallo.com</description>
     </item>
     <item>
       <title>Queens on a prime order board</title>
@@ -783,13 +783,6 @@
       <description>Andrew Nesbitt</description>
     </item>
     <item>
-      <title>I know Kung-fu</title>
-      <link>https://idiallo.com/blog/i-know-kung-fu</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/i-know-kung-fu</guid>
-      <pubDate>Sat, 20 Jun 2026 03:17:05 +0000</pubDate>
-      <description>Software and Tech stories from an Insider - iDiallo.com</description>
-    </item>
-    <item>
       <title>Limiting web server bandwidth the brute force way</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/web/ServerBruteForceBandwidthLimit</link>
       <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/web/ServerBruteForceBandwidthLimit</guid>
@@ -844,6 +837,13 @@
       <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/full-page-paralysis/</guid>
       <pubDate>Fri, 19 Jun 2026 19:00:00 +0000</pubDate>
       <description>Jim Nielsen’s Blog</description>
+    </item>
+    <item>
+      <title>Trump Mobile T1 Phone Is a Gold-Painted Two-Year-Old HTC U24 Pro</title>
+      <link>https://www.nbcnews.com/tech/gadgets/trump-mobile-t1-phone-nearly-identical-htc-device-analysis-rcna349293</link>
+      <guid isPermaLink="true">https://www.nbcnews.com/tech/gadgets/trump-mobile-t1-phone-nearly-identical-htc-device-analysis-rcna349293</guid>
+      <pubDate>Fri, 19 Jun 2026 18:47:02 +0000</pubDate>
+      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
