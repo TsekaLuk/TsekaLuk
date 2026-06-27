@@ -208,11 +208,11 @@ Last Updated: Saturday, June 27th, 2026, 9:20:59 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Height of harmonic numbers](https://www.johndcook.com/blog/2026/06/27/height-of-harmonic-numbers/) — *John D. Cook* `06-27`
+- [Reading List 06/27/26](https://www.construction-physics.com/p/reading-list-062726) — *Construction Physics* `06-27`
+- [Pluralistic: Zuckerberg's increasingly bizarre war on whistleblowers (27 Jun 2026)](https://pluralistic.net/2026/06/27/zuckerstreisand-2/) — *Pluralistic: Daily links from Cory Doctorow* `06-27`
+- [This Week in Package Management: 27 June 2026](https://nesbitt.io/2026/06/27/this-week-in-package-management.html) — *Andrew Nesbitt* `06-27`
 - [All Chinese Models Will Be Illegal in 3... 2... 1...](https://idiallo.com/blog/all-chinese-models-will-be-illegal) — *Software and Tech stories from an Insider - iDiallo.com* `06-27`
-- [How your Ubuntu 26.04 server boots with a software RAID array root filesystem](https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604ServerSoftwareRaidBoot) — *Chris's Wiki :: blog* `06-27`
-- [Writing down harmonic numbers](https://www.johndcook.com/blog/2026/06/26/writing-down-harmonic-numbers/) — *John D. Cook* `06-27`
-- [★ Om](https://daringfireball.net/2026/06/om) — *Daring Fireball* `06-26`
-- [Quoting Dean W. Ball](https://simonwillison.net/2026/Jun/26/dean-w-ball/#atom-everything) — *Simon Willison's Weblog* `06-26`
 <!--BLOG_RADAR:end-->
 
 ---
