@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 28 Jun 2026 09:21:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 14:03:41 +0000</lastBuildDate>
+    <item>
+      <title>Book Review: The Hotel Avocado by Bob Mortimer ★★☆☆☆</title>
+      <link>https://shkspr.mobi/blog/2026/06/book-review-the-hotel-avocado-by-bob-mortimer/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/book-review-the-hotel-avocado-by-bob-mortimer/</guid>
+      <pubDate>Sun, 28 Jun 2026 11:34:45 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
     <item>
       <title>The Laziest Generation</title>
       <link>https://idiallo.com/blog/the-laziest-generation</link>
@@ -496,18 +503,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Framework's 10G Ethernet module exposes USB-C's complexity</title>
-      <link>https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/</guid>
-      <pubDate>Wed, 24 Jun 2026 14:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
       <title>Cancellation of Windows Runtime activities is asynchronous</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260624-00/?p=112465</link>
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260624-00/?p=112465</guid>
       <pubDate>Wed, 24 Jun 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>Framework's 10G Ethernet module exposes USB-C's complexity</title>
+      <link>https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/</guid>
+      <pubDate>Wed, 24 Jun 2026 14:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
     </item>
     <item>
       <title>Auth0 PHP - manually authenticating JWT idTokens</title>
@@ -629,13 +636,6 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>The Coming Loop</title>
-      <link>https://lucumr.pocoo.org/2026/6/23/the-coming-loop/</link>
-      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/6/23/the-coming-loop/</guid>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Armin Ronacher's Thoughts and Writings</description>
-    </item>
-    <item>
       <title>Arp 293: More interacting galaxies</title>
       <link>https://maurycyz.com/astro/arp293/</link>
       <guid isPermaLink="true">https://maurycyz.com/astro/arp293/</guid>
@@ -648,6 +648,13 @@
       <guid isPermaLink="true">https://dynomight.net/vitamin-d/</guid>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
       <description>DYNOMIGHT</description>
+    </item>
+    <item>
+      <title>The Coming Loop</title>
+      <link>https://lucumr.pocoo.org/2026/6/23/the-coming-loop/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/6/23/the-coming-loop/</guid>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
       <title>I taught a bucket to speak git</title>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/06/21/the-doom-justifies-the-valuation.html</guid>
       <pubDate>Sun, 21 Jun 2026 07:00:00 +0000</pubDate>
       <description>the singularity is nearer</description>
-    </item>
-    <item>
-      <title>PyPy and Python 3 for us</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/python/PyPyAndPython3ForUs</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/python/PyPyAndPython3ForUs</guid>
-      <pubDate>Sun, 21 Jun 2026 03:13:32 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
     </item>
   </channel>
 </rss>

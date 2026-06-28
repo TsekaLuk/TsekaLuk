@@ -208,11 +208,11 @@ Last Updated: Sunday, June 28th, 2026, 9:24:59 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Book Review: The Hotel Avocado by Bob Mortimer ★★☆☆☆](https://shkspr.mobi/blog/2026/06/book-review-the-hotel-avocado-by-bob-mortimer/) — *Terence Eden’s Blog* `06-28`
 - [The Laziest Generation](https://idiallo.com/blog/the-laziest-generation) — *Software and Tech stories from an Insider - iDiallo.com* `06-28`
 - [Working around dragons with the Lemote Yeeloong laptop and OpenBSD](https://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html) — *Old Vintage Computing Research* `06-28`
 - [Go interfaces, reflection, and binary size](https://utcc.utoronto.ca/~cks/space/blog/programming/GoInterfacesReflectAndBinarySize) — *Chris's Wiki :: blog* `06-28`
 - [Brace expansion tree](https://www.johndcook.com/blog/2026/06/27/brace-expansion-tree/) — *John D. Cook* `06-28`
-- [★ Bernie Sanders: Ideologue and Economic Ignoramus](https://daringfireball.net/2026/06/bernie_sanders_ideologue) — *Daring Fireball* `06-27`
 <!--BLOG_RADAR:end-->
 
 ---
