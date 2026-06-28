@@ -208,11 +208,11 @@ Last Updated: Sunday, June 28th, 2026, 10:53:58 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [The Steam Machine](https://www.theverge.com/games/952765/steam-machine-review?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6Illsb3pPdVlCSmQiLCJwIjoiL2dhbWVzLzk1Mjc2NS9zdGVhbS1tYWNoaW5lLXJldmlldyIsImV4cCI6MTc4MzAxOTM4OCwiaWF0IjoxNzgyNTg3Mzg4fQ.ksUd5qynurLxKTvjnCTD3mj4xzH9gdFgqAzFJ577ZcE&utm_medium=gift-link) — *Daring Fireball* `06-27`
-- [When will the decimals in a/b repeat?](https://www.johndcook.com/blog/2026/06/27/decimal-period/) — *John D. Cook* `06-27`
-- [Hazy Memory](https://feed.tedium.co/link/15204/17369108/apple-micron-ram-shortage-vertical-integration) — *Tedium: The Dull Side of the Internet.* `06-27`
-- [Height of harmonic numbers](https://www.johndcook.com/blog/2026/06/27/height-of-harmonic-numbers/) — *John D. Cook* `06-27`
-- [Reading List 06/27/26](https://www.construction-physics.com/p/reading-list-062726) — *Construction Physics* `06-27`
+- [Working around dragons with the Lemote Yeeloong laptop and OpenBSD](https://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html) — *Old Vintage Computing Research* `06-28`
+- [Go interfaces, reflection, and binary size](https://utcc.utoronto.ca/~cks/space/blog/programming/GoInterfacesReflectAndBinarySize) — *Chris's Wiki :: blog* `06-28`
+- [Brace expansion tree](https://www.johndcook.com/blog/2026/06/27/brace-expansion-tree/) — *John D. Cook* `06-28`
+- [★ Bernie Sanders: Ideologue and Economic Ignoramus](https://daringfireball.net/2026/06/bernie_sanders_ideologue) — *Daring Fireball* `06-27`
+- [Micron Executive Sumit Sadana Tells Tim Cook to Stop Hitting Himself](https://www.wsj.com/tech/apple-raises-prices-on-macs-ipads-by-200-or-more-on-some-models-a7463f99?st=B1aQCP&reflink=desktopwebshare_permalink) — *Daring Fireball* `06-27`
 <!--BLOG_RADAR:end-->
 
 ---
