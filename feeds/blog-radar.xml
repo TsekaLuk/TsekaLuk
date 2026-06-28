@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 28 Jun 2026 04:25:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 09:21:57 +0000</lastBuildDate>
+    <item>
+      <title>The Laziest Generation</title>
+      <link>https://idiallo.com/blog/the-laziest-generation</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/the-laziest-generation</guid>
+      <pubDate>Sun, 28 Jun 2026 07:00:00 +0000</pubDate>
+      <description>Software and Tech stories from an Insider - iDiallo.com</description>
+    </item>
     <item>
       <title>Working around dragons with the Lemote Yeeloong laptop and OpenBSD</title>
       <link>https://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html</link>
@@ -629,18 +636,18 @@
       <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
-      <title>The worthlessness of vitamin D is mildly exaggerated</title>
-      <link>https://dynomight.net/vitamin-d/</link>
-      <guid isPermaLink="true">https://dynomight.net/vitamin-d/</guid>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
-    </item>
-    <item>
       <title>Arp 293: More interacting galaxies</title>
       <link>https://maurycyz.com/astro/arp293/</link>
       <guid isPermaLink="true">https://maurycyz.com/astro/arp293/</guid>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
       <description>Maurycy's Blog</description>
+    </item>
+    <item>
+      <title>The worthlessness of vitamin D is mildly exaggerated</title>
+      <link>https://dynomight.net/vitamin-d/</link>
+      <guid isPermaLink="true">https://dynomight.net/vitamin-d/</guid>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>I taught a bucket to speak git</title>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/python/PyPyAndPython3ForUs</guid>
       <pubDate>Sun, 21 Jun 2026 03:13:32 +0000</pubDate>
       <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>Pledging Another $400,000 to the Zig Software Foundation</title>
-      <link>https://mitchellh.com/writing/zig-donation-2026</link>
-      <guid isPermaLink="true">https://mitchellh.com/writing/zig-donation-2026</guid>
-      <pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Mitchell Hashimoto</description>
     </item>
   </channel>
 </rss>
