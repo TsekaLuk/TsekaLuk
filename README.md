@@ -208,11 +208,11 @@ Last Updated: Monday, June 29th, 2026, 6:45:47 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Unbundling the standard library](https://nesbitt.io/2026/06/29/unbundling-the-standard-library.html) — *Andrew Nesbitt* `06-29`
 - [There's a plague of Googlebot impersonation going on (in June 2026)](https://utcc.utoronto.ca/~cks/space/blog/web/GooglebotImpersonatorPlague) — *Chris's Wiki :: blog* `06-29`
 - [I turned my prologue into a short video](https://idiallo.com/byte-size/my-prologue-to-short-video) — *Software and Tech stories from an Insider - iDiallo.com* `06-29`
 - [Auth.md — an Open Protocol for Agent Registration From WorkOS](https://workos.com/auth-md?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q22026) — *Daring Fireball* `06-29`
 - [Daniel Agee: ‘Remembering Om’](https://glass.photo/highlights/remembering-om) — *Daring Fireball* `06-29`
-- [Matt Mullenweg: ‘All Roads Lead to Om’](https://ma.tt/2026/06/om-forever/) — *Daring Fireball* `06-29`
 <!--BLOG_RADAR:end-->
 
 ---
