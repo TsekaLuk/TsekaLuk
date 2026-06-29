@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 29 Jun 2026 15:59:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 20:07:44 +0000</lastBuildDate>
+    <item>
+      <title>Count the number of Safari tabs</title>
+      <link>https://simonwillison.net/2026/Jun/29/safari-tab-count/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/29/safari-tab-count/#atom-everything</guid>
+      <pubDate>Mon, 29 Jun 2026 18:36:18 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Pluralistic: Gemini is better than search because Google enshittified search (29 Jun 2026)</title>
+      <link>https://pluralistic.net/2026/06/29/arsonist-firefighters/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/06/29/arsonist-firefighters/</guid>
+      <pubDate>Mon, 29 Jun 2026 16:34:57 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding</title>
+      <link>https://simonwillison.net/2026/Jun/29/ornith/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/29/ornith/#atom-everything</guid>
+      <pubDate>Mon, 29 Jun 2026 16:17:59 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Who you gonna believe: Grok or the docs?</title>
       <link>https://www.johndcook.com/blog/2026/06/29/who-you-gonna-believe/</link>
@@ -272,18 +293,18 @@
       <description>John D. Cook</description>
     </item>
     <item>
-      <title>Arp 38: not that peculiar</title>
-      <link>https://maurycyz.com/astro/arp38/</link>
-      <guid isPermaLink="true">https://maurycyz.com/astro/arp38/</guid>
-      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
-    </item>
-    <item>
       <title>Saying the obvious thing</title>
       <link>https://seangoedecke.com/saying-the-obvious-thing/</link>
       <guid isPermaLink="true">https://seangoedecke.com/saying-the-obvious-thing/</guid>
       <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Arp 38: not that peculiar</title>
+      <link>https://maurycyz.com/astro/arp38/</link>
+      <guid isPermaLink="true">https://maurycyz.com/astro/arp38/</guid>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
     </item>
     <item>
       <title>★ Om</title>
@@ -755,18 +776,18 @@
       <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
-      <title>The worthlessness of vitamin D is mildly exaggerated</title>
-      <link>https://dynomight.net/vitamin-d/</link>
-      <guid isPermaLink="true">https://dynomight.net/vitamin-d/</guid>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
-    </item>
-    <item>
       <title>I taught a bucket to speak git</title>
       <link>https://www.tigrisdata.com/blog/objgit/</link>
       <guid isPermaLink="true">https://www.tigrisdata.com/blog/objgit/</guid>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>The worthlessness of vitamin D is mildly exaggerated</title>
+      <link>https://dynomight.net/vitamin-d/</link>
+      <guid isPermaLink="true">https://dynomight.net/vitamin-d/</guid>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>Our hydro deserves better than a chatbot</title>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-06-17/apple-prepares-second-generation-iphone-air-for-spring-2027?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MTcyNjU5MiwiZXhwIjoxNzgyMzMxMzkyLCJhcnRpY2xlSWQiOiJUR1BINkJLR0NURlEwMCIsImJjb25uZWN0SWQiOiJBMDdGRjZGMzlBOTY0NzREOTNBQkFGRjUyQjBBQTE2NiJ9.25UCFLJjGHnk7gaJKhfIP2uChXC-tJLjKfOyUeY4QqI&amp;leadSource=uverify%20wall</guid>
       <pubDate>Mon, 22 Jun 2026 19:36:46 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Criterion Collection: The Complete Kubrick</title>
-      <link>https://www.criterion.com/boxsets/9000-the-complete-kubrick</link>
-      <guid isPermaLink="true">https://www.criterion.com/boxsets/9000-the-complete-kubrick</guid>
-      <pubDate>Mon, 22 Jun 2026 19:18:07 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Consistency, But in Excellence Not Appearance</title>
-      <link>https://blog.jim-nielsen.com/2026/a-consistency-of-excellence/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/a-consistency-of-excellence/</guid>
-      <pubDate>Mon, 22 Jun 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
-      <title>What Was Matt Thinking?</title>
-      <link>https://feed.tedium.co/link/15204/17365463/matts-script-archive-retrospective</link>
-      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17365463/matts-script-archive-retrospective</guid>
-      <pubDate>Mon, 22 Jun 2026 18:41:28 +0000</pubDate>
-      <description>Tedium: The Dull Side of the Internet.</description>
     </item>
   </channel>
 </rss>

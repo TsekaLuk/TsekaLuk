@@ -208,11 +208,11 @@ Last Updated: Tuesday, June 30th, 2026, 3:49:11 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Count the number of Safari tabs](https://simonwillison.net/2026/Jun/29/safari-tab-count/#atom-everything) — *Simon Willison's Weblog* `06-29`
+- [Pluralistic: Gemini is better than search because Google enshittified search (29 Jun 2026)](https://pluralistic.net/2026/06/29/arsonist-firefighters/) — *Pluralistic: Daily links from Cory Doctorow* `06-29`
+- [Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding](https://simonwillison.net/2026/Jun/29/ornith/#atom-everything) — *Simon Willison's Weblog* `06-29`
 - [Who you gonna believe: Grok or the docs?](https://www.johndcook.com/blog/2026/06/29/who-you-gonna-believe/) — *John D. Cook* `06-29`
 - [Unbundling the standard library](https://nesbitt.io/2026/06/29/unbundling-the-standard-library.html) — *Andrew Nesbitt* `06-29`
-- [There's a plague of Googlebot impersonation going on (in June 2026)](https://utcc.utoronto.ca/~cks/space/blog/web/GooglebotImpersonatorPlague) — *Chris's Wiki :: blog* `06-29`
-- [I turned my prologue into a short video](https://idiallo.com/byte-size/my-prologue-to-short-video) — *Software and Tech stories from an Insider - iDiallo.com* `06-29`
-- [Auth.md — an Open Protocol for Agent Registration From WorkOS](https://workos.com/auth-md?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q22026) — *Daring Fireball* `06-29`
 <!--BLOG_RADAR:end-->
 
 ---
