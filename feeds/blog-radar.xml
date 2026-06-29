@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 29 Jun 2026 11:13:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 15:59:32 +0000</lastBuildDate>
+    <item>
+      <title>Who you gonna believe: Grok or the docs?</title>
+      <link>https://www.johndcook.com/blog/2026/06/29/who-you-gonna-believe/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/29/who-you-gonna-believe/</guid>
+      <pubDate>Mon, 29 Jun 2026 12:12:05 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
     <item>
       <title>Unbundling the standard library</title>
       <link>https://nesbitt.io/2026/06/29/unbundling-the-standard-library.html</link>
@@ -265,18 +272,18 @@
       <description>John D. Cook</description>
     </item>
     <item>
-      <title>Saying the obvious thing</title>
-      <link>https://seangoedecke.com/saying-the-obvious-thing/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/saying-the-obvious-thing/</guid>
-      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
       <title>Arp 38: not that peculiar</title>
       <link>https://maurycyz.com/astro/arp38/</link>
       <guid isPermaLink="true">https://maurycyz.com/astro/arp38/</guid>
       <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
       <description>Maurycy's Blog</description>
+    </item>
+    <item>
+      <title>Saying the obvious thing</title>
+      <link>https://seangoedecke.com/saying-the-obvious-thing/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/saying-the-obvious-thing/</guid>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>★ Om</title>
@@ -594,18 +601,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Cancellation of Windows Runtime activities is asynchronous</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260624-00/?p=112465</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260624-00/?p=112465</guid>
-      <pubDate>Wed, 24 Jun 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
       <title>Framework's 10G Ethernet module exposes USB-C's complexity</title>
       <link>https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/</link>
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/</guid>
       <pubDate>Wed, 24 Jun 2026 14:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>Cancellation of Windows Runtime activities is asynchronous</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260624-00/?p=112465</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260624-00/?p=112465</guid>
+      <pubDate>Wed, 24 Jun 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Auth0 PHP - manually authenticating JWT idTokens</title>
@@ -741,18 +748,18 @@
       <description>Maurycy's Blog</description>
     </item>
     <item>
-      <title>The worthlessness of vitamin D is mildly exaggerated</title>
-      <link>https://dynomight.net/vitamin-d/</link>
-      <guid isPermaLink="true">https://dynomight.net/vitamin-d/</guid>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
-    </item>
-    <item>
       <title>The Coming Loop</title>
       <link>https://lucumr.pocoo.org/2026/6/23/the-coming-loop/</link>
       <guid isPermaLink="true">https://lucumr.pocoo.org/2026/6/23/the-coming-loop/</guid>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
       <description>Armin Ronacher's Thoughts and Writings</description>
+    </item>
+    <item>
+      <title>The worthlessness of vitamin D is mildly exaggerated</title>
+      <link>https://dynomight.net/vitamin-d/</link>
+      <guid isPermaLink="true">https://dynomight.net/vitamin-d/</guid>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>I taught a bucket to speak git</title>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://feed.tedium.co/link/15204/17365463/matts-script-archive-retrospective</guid>
       <pubDate>Mon, 22 Jun 2026 18:41:28 +0000</pubDate>
       <description>Tedium: The Dull Side of the Internet.</description>
-    </item>
-    <item>
-      <title>Pluralistic: Good politics (22 Jun 2026)</title>
-      <link>https://pluralistic.net/2026/06/22/8-for-what-we-will/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/06/22/8-for-what-we-will/</guid>
-      <pubDate>Mon, 22 Jun 2026 17:16:08 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
     </item>
   </channel>
 </rss>
