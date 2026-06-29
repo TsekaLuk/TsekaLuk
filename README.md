@@ -208,11 +208,11 @@ Last Updated: Monday, June 29th, 2026, 10:54:20 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [PuffPal, an App for Accessing Cannabis Clubs, Leaked 1 Million Users’ Passports](https://www.theverge.com/tech/947157/passports-data-breach-cannabis-club-systems-nefos-puffpal?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjdjV0Y5TTBuM0ciLCJwIjoiL3RlY2gvOTQ3MTU3L3Bhc3Nwb3J0cy1kYXRhLWJyZWFjaC1jYW5uYWJpcy1jbHViLXN5c3RlbXMtbmVmb3MtcHVmZnBhbCIsImV4cCI6MTc4MzA5NDY0NiwiaWF0IjoxNzgyNjYyNjQ2fQ.7SjX6B8AAGhzsdrtD5asJWBwzQvTDUD31hWte7K1oec) — *Daring Fireball* `06-28`
-- [Examining circuit boards from the Space Shuttle's I/O Processor](http://www.righto.com/2026/06/space-shuttle-io-processor-boards.html) — *Ken Shirriff's blog* `06-28`
-- [Book Review: The Hotel Avocado by Bob Mortimer ★★☆☆☆](https://shkspr.mobi/blog/2026/06/book-review-the-hotel-avocado-by-bob-mortimer/) — *Terence Eden’s Blog* `06-28`
-- [The Laziest Generation](https://idiallo.com/blog/the-laziest-generation) — *Software and Tech stories from an Insider - iDiallo.com* `06-28`
-- [Working around dragons with the Lemote Yeeloong laptop and OpenBSD](https://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html) — *Old Vintage Computing Research* `06-28`
+- [There's a plague of Googlebot impersonation going on (in June 2026)](https://utcc.utoronto.ca/~cks/space/blog/web/GooglebotImpersonatorPlague) — *Chris's Wiki :: blog* `06-29`
+- [I turned my prologue into a short video](https://idiallo.com/byte-size/my-prologue-to-short-video) — *Software and Tech stories from an Insider - iDiallo.com* `06-29`
+- [Auth.md — an Open Protocol for Agent Registration From WorkOS](https://workos.com/auth-md?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q22026) — *Daring Fireball* `06-29`
+- [Daniel Agee: ‘Remembering Om’](https://glass.photo/highlights/remembering-om) — *Daring Fireball* `06-29`
+- [Matt Mullenweg: ‘All Roads Lead to Om’](https://ma.tt/2026/06/om-forever/) — *Daring Fireball* `06-29`
 <!--BLOG_RADAR:end-->
 
 ---

@@ -4,7 +4,70 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 28 Jun 2026 19:39:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 04:45:19 +0000</lastBuildDate>
+    <item>
+      <title>There's a plague of Googlebot impersonation going on (in June 2026)</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/web/GooglebotImpersonatorPlague</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/web/GooglebotImpersonatorPlague</guid>
+      <pubDate>Mon, 29 Jun 2026 03:18:27 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>I turned my prologue into a short video</title>
+      <link>https://idiallo.com/byte-size/my-prologue-to-short-video</link>
+      <guid isPermaLink="true">https://idiallo.com/byte-size/my-prologue-to-short-video</guid>
+      <pubDate>Mon, 29 Jun 2026 02:12:56 +0000</pubDate>
+      <description>Software and Tech stories from an Insider - iDiallo.com</description>
+    </item>
+    <item>
+      <title>Auth.md — an Open Protocol for Agent Registration From WorkOS</title>
+      <link>https://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026</link>
+      <guid isPermaLink="true">https://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026</guid>
+      <pubDate>Mon, 29 Jun 2026 01:32:24 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Daniel Agee: ‘Remembering Om’</title>
+      <link>https://glass.photo/highlights/remembering-om</link>
+      <guid isPermaLink="true">https://glass.photo/highlights/remembering-om</guid>
+      <pubDate>Mon, 29 Jun 2026 01:21:49 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Matt Mullenweg: ‘All Roads Lead to Om’</title>
+      <link>https://ma.tt/2026/06/om-forever/</link>
+      <guid isPermaLink="true">https://ma.tt/2026/06/om-forever/</guid>
+      <pubDate>Mon, 29 Jun 2026 01:08:13 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>The New York Times: ‘Om Malik, Whose Blog Shaped How Silicon Valley Saw Itself, Dies at 59’</title>
+      <link>https://www.nytimes.com/2026/06/26/technology/om-malik-dead.html?unlocked_article_code=1.t1A.AyPT.p7GhDrDcJSfa</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/26/technology/om-malik-dead.html?unlocked_article_code=1.t1A.AyPT.p7GhDrDcJSfa</guid>
+      <pubDate>Mon, 29 Jun 2026 00:25:37 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Quoting Jon Udell</title>
+      <link>https://simonwillison.net/2026/Jun/28/jon-udell/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/28/jon-udell/#atom-everything</guid>
+      <pubDate>Sun, 28 Jun 2026 21:57:41 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Hack Your Summer</title>
+      <link>https://simonwillison.net/2026/Jun/28/hack-your-summer/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/28/hack-your-summer/#atom-everything</guid>
+      <pubDate>Sun, 28 Jun 2026 19:26:11 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Notes from Bryan Cantrill’s “Intelligence is not Enough”</title>
+      <link>https://blog.jim-nielsen.com/2026/intelligence-isnt-enough/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/intelligence-isnt-enough/</guid>
+      <pubDate>Sun, 28 Jun 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
+    </item>
     <item>
       <title>PuffPal, an App for Accessing Cannabis Clubs, Leaked 1 Million Users’ Passports</title>
       <link>https://www.theverge.com/tech/947157/passports-data-breach-cannabis-club-systems-nefos-puffpal?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjdjV0Y5TTBuM0ciLCJwIjoiL3RlY2gvOTQ3MTU3L3Bhc3Nwb3J0cy1kYXRhLWJyZWFjaC1jYW5uYWJpcy1jbHViLXN5c3RlbXMtbmVmb3MtcHVmZnBhbCIsImV4cCI6MTc4MzA5NDY0NiwiaWF0IjoxNzgyNjYyNjQ2fQ.7SjX6B8AAGhzsdrtD5asJWBwzQvTDUD31hWte7K1oec</link>
@@ -53,6 +116,13 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/27/brace-expansion-tree/</guid>
       <pubDate>Sun, 28 Jun 2026 00:33:33 +0000</pubDate>
       <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>My favorite keyboards</title>
+      <link>https://fabiensanglard.net/keyboards/index.html</link>
+      <guid isPermaLink="true">https://fabiensanglard.net/keyboards/index.html</guid>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Fabien Sanglard</description>
     </item>
     <item>
       <title>★ Bernie Sanders: Ideologue and Economic Ignoramus</title>
@@ -657,13 +727,6 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>The worthlessness of vitamin D is mildly exaggerated</title>
-      <link>https://dynomight.net/vitamin-d/</link>
-      <guid isPermaLink="true">https://dynomight.net/vitamin-d/</guid>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
-    </item>
-    <item>
       <title>The Coming Loop</title>
       <link>https://lucumr.pocoo.org/2026/6/23/the-coming-loop/</link>
       <guid isPermaLink="true">https://lucumr.pocoo.org/2026/6/23/the-coming-loop/</guid>
@@ -683,6 +746,13 @@
       <guid isPermaLink="true">https://www.tigrisdata.com/blog/objgit/</guid>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>The worthlessness of vitamin D is mildly exaggerated</title>
+      <link>https://dynomight.net/vitamin-d/</link>
+      <guid isPermaLink="true">https://dynomight.net/vitamin-d/</guid>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>Our hydro deserves better than a chatbot</title>
@@ -773,76 +843,6 @@
       <link>https://bvsveera.net/observer-dickover/</link>
       <guid isPermaLink="true">https://bvsveera.net/observer-dickover/</guid>
       <pubDate>Mon, 22 Jun 2026 17:12:42 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>In memory of the man who put red and green squiggles under words</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451</guid>
-      <pubDate>Mon, 22 Jun 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Cybersecurity for the paranoid business traveller</title>
-      <link>https://shkspr.mobi/blog/2026/06/cybersecurity-for-the-paranoid-business-traveller/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/cybersecurity-for-the-paranoid-business-traveller/</guid>
-      <pubDate>Mon, 22 Jun 2026 11:34:18 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Everything you say CAN and WILL be used against you</title>
-      <link>https://idiallo.com/blog/the-right-to-remain-silent</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/the-right-to-remain-silent</guid>
-      <pubDate>Mon, 22 Jun 2026 07:00:00 +0000</pubDate>
-      <description>Software and Tech stories from an Insider - iDiallo.com</description>
-    </item>
-    <item>
-      <title>Configuration is a liability, just like code</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ConfigurationIsALiability</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ConfigurationIsALiability</guid>
-      <pubDate>Mon, 22 Jun 2026 03:08:03 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>Happy Father's Day.</title>
-      <link>https://idiallo.com/byte-size/happy-fathers-day-2026</link>
-      <guid isPermaLink="true">https://idiallo.com/byte-size/happy-fathers-day-2026</guid>
-      <pubDate>Mon, 22 Jun 2026 02:43:33 +0000</pubDate>
-      <description>Software and Tech stories from an Insider - iDiallo.com</description>
-    </item>
-    <item>
-      <title>Queens on a prime order board</title>
-      <link>https://www.johndcook.com/blog/2026/06/21/queens-prime/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/21/queens-prime/</guid>
-      <pubDate>Mon, 22 Jun 2026 00:21:44 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Expert-aware quantisation: near-Q4 quality at near-Q2 size?</title>
-      <link>https://martinalderson.com/posts/expert-aware-quantisation/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
-      <guid isPermaLink="true">https://martinalderson.com/posts/expert-aware-quantisation/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Martin Alderson</description>
-    </item>
-    <item>
-      <title>sqlite-utils 4.0rc1 adds migrations and nested transactions</title>
-      <link>https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything</guid>
-      <pubDate>Sun, 21 Jun 2026 23:35:47 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>sqlite-utils 4.0rc1</title>
-      <link>https://simonwillison.net/2026/Jun/21/sqlite-utils/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/21/sqlite-utils/#atom-everything</guid>
-      <pubDate>Sun, 21 Jun 2026 23:30:04 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Before and After: MacOS 27 Golden Gate Beta 1’s App Icons</title>
-      <link>https://basicappleguy.com/basicappleblog/macos-golden-gate-icon-comparison</link>
-      <guid isPermaLink="true">https://basicappleguy.com/basicappleblog/macos-golden-gate-icon-comparison</guid>
-      <pubDate>Sun, 21 Jun 2026 22:39:19 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
   </channel>
