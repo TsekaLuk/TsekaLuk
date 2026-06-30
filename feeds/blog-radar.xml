@@ -4,7 +4,42 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 29 Jun 2026 20:07:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 04:12:08 +0000</lastBuildDate>
+    <item>
+      <title>As expected, using kexec to switch to a new Ubuntu kernel works</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuKexecRestartWorks</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuKexecRestartWorks</guid>
+      <pubDate>Tue, 30 Jun 2026 03:10:12 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>Derivative equals inverse</title>
+      <link>https://www.johndcook.com/blog/2026/06/29/derivative-equals-inverse/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/29/derivative-equals-inverse/</guid>
+      <pubDate>Tue, 30 Jun 2026 01:06:12 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Data Breach at Indian Supplier Tata Electronics Exposes iPhone 18 Pro Details and Photos</title>
+      <link>https://www.reuters.com/business/media-telecom/apple-iphone-18-pro-supplier-list-parts-photos-exposed-tata-data-leak-2026-06-29/</link>
+      <guid isPermaLink="true">https://www.reuters.com/business/media-telecom/apple-iphone-18-pro-supplier-list-parts-photos-exposed-tata-data-leak-2026-06-29/</guid>
+      <pubDate>Tue, 30 Jun 2026 00:59:08 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>HTML table extractor</title>
+      <link>https://simonwillison.net/2026/Jun/29/html-table-extractor/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/29/html-table-extractor/#atom-everything</guid>
+      <pubDate>Mon, 29 Jun 2026 23:38:21 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>[Sponsor] Day One Journal</title>
+      <link>https://dayoneapp.com/blog/introducing-daily-chat/</link>
+      <guid isPermaLink="true">https://dayoneapp.com/blog/introducing-daily-chat/</guid>
+      <pubDate>Mon, 29 Jun 2026 23:17:38 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Count the number of Safari tabs</title>
       <link>https://simonwillison.net/2026/Jun/29/safari-tab-count/#atom-everything</link>
@@ -25,6 +60,13 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Jun/29/ornith/#atom-everything</guid>
       <pubDate>Mon, 29 Jun 2026 16:17:59 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>The evolution of window and class extra bytes in Windows</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260629-00/?p=112484</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260629-00/?p=112484</guid>
+      <pubDate>Mon, 29 Jun 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Who you gonna believe: Grok or the docs?</title>
@@ -769,6 +811,13 @@
       <description>Maurycy's Blog</description>
     </item>
     <item>
+      <title>The worthlessness of vitamin D is mildly exaggerated</title>
+      <link>https://dynomight.net/vitamin-d/</link>
+      <guid isPermaLink="true">https://dynomight.net/vitamin-d/</guid>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
+    </item>
+    <item>
       <title>The Coming Loop</title>
       <link>https://lucumr.pocoo.org/2026/6/23/the-coming-loop/</link>
       <guid isPermaLink="true">https://lucumr.pocoo.org/2026/6/23/the-coming-loop/</guid>
@@ -783,13 +832,6 @@
       <description>Xe Iaso's blog</description>
     </item>
     <item>
-      <title>The worthlessness of vitamin D is mildly exaggerated</title>
-      <link>https://dynomight.net/vitamin-d/</link>
-      <guid isPermaLink="true">https://dynomight.net/vitamin-d/</guid>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
-    </item>
-    <item>
       <title>Our hydro deserves better than a chatbot</title>
       <link>https://hey.paris/posts/ai-data-centres-tasmania/</link>
       <guid isPermaLink="true">https://hey.paris/posts/ai-data-centres-tasmania/</guid>
@@ -802,48 +844,6 @@
       <guid isPermaLink="true">https://anildash.com/2026/06/23/fight-ai-platform-war/</guid>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
       <description>Anil Dash</description>
-    </item>
-    <item>
-      <title>Prompt Injection as Role Confusion</title>
-      <link>https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything</guid>
-      <pubDate>Mon, 22 Jun 2026 23:59:53 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code</title>
-      <link>https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything</guid>
-      <pubDate>Mon, 22 Jun 2026 23:43:51 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Tagged data in Haskell (SICP 2.4.2)</title>
-      <link>https://entropicthoughts.com/sicp-2-4-tagged-data-in-haskell</link>
-      <guid isPermaLink="true">https://entropicthoughts.com/sicp-2-4-tagged-data-in-haskell</guid>
-      <pubDate>Mon, 22 Jun 2026 22:00:00 +0000</pubDate>
-      <description>Entropic Thoughts</description>
-    </item>
-    <item>
-      <title>Apple Is Going to Raise Device Prices — but When?</title>
-      <link>https://x.com/markgurman/status/2067741507273289766</link>
-      <guid isPermaLink="true">https://x.com/markgurman/status/2067741507273289766</guid>
-      <pubDate>Mon, 22 Jun 2026 20:06:37 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Lobachevsky’s integral formula</title>
-      <link>https://www.johndcook.com/blog/2026/06/22/lobachevskys-integral-formula/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/22/lobachevskys-integral-formula/</guid>
-      <pubDate>Mon, 22 Jun 2026 20:02:47 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Gurman Says Second-Gen iPhone Air, Coming in Early 2027, Will Sport a 0.5× Ultra-Wide Second Camera</title>
-      <link>https://www.bloomberg.com/news/articles/2026-06-17/apple-prepares-second-generation-iphone-air-for-spring-2027?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MTcyNjU5MiwiZXhwIjoxNzgyMzMxMzkyLCJhcnRpY2xlSWQiOiJUR1BINkJLR0NURlEwMCIsImJjb25uZWN0SWQiOiJBMDdGRjZGMzlBOTY0NzREOTNBQkFGRjUyQjBBQTE2NiJ9.25UCFLJjGHnk7gaJKhfIP2uChXC-tJLjKfOyUeY4QqI&amp;leadSource=uverify%20wall</link>
-      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-06-17/apple-prepares-second-generation-iphone-air-for-spring-2027?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4MTcyNjU5MiwiZXhwIjoxNzgyMzMxMzkyLCJhcnRpY2xlSWQiOiJUR1BINkJLR0NURlEwMCIsImJjb25uZWN0SWQiOiJBMDdGRjZGMzlBOTY0NzREOTNBQkFGRjUyQjBBQTE2NiJ9.25UCFLJjGHnk7gaJKhfIP2uChXC-tJLjKfOyUeY4QqI&amp;leadSource=uverify%20wall</guid>
-      <pubDate>Mon, 22 Jun 2026 19:36:46 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>

@@ -208,11 +208,11 @@ Last Updated: Tuesday, June 30th, 2026, 10:48:24 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Count the number of Safari tabs](https://simonwillison.net/2026/Jun/29/safari-tab-count/#atom-everything) — *Simon Willison's Weblog* `06-29`
-- [Pluralistic: Gemini is better than search because Google enshittified search (29 Jun 2026)](https://pluralistic.net/2026/06/29/arsonist-firefighters/) — *Pluralistic: Daily links from Cory Doctorow* `06-29`
-- [Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding](https://simonwillison.net/2026/Jun/29/ornith/#atom-everything) — *Simon Willison's Weblog* `06-29`
-- [Who you gonna believe: Grok or the docs?](https://www.johndcook.com/blog/2026/06/29/who-you-gonna-believe/) — *John D. Cook* `06-29`
-- [Unbundling the standard library](https://nesbitt.io/2026/06/29/unbundling-the-standard-library.html) — *Andrew Nesbitt* `06-29`
+- [As expected, using kexec to switch to a new Ubuntu kernel works](https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuKexecRestartWorks) — *Chris's Wiki :: blog* `06-30`
+- [Derivative equals inverse](https://www.johndcook.com/blog/2026/06/29/derivative-equals-inverse/) — *John D. Cook* `06-30`
+- [Data Breach at Indian Supplier Tata Electronics Exposes iPhone 18 Pro Details and Photos](https://www.reuters.com/business/media-telecom/apple-iphone-18-pro-supplier-list-parts-photos-exposed-tata-data-leak-2026-06-29/) — *Daring Fireball* `06-30`
+- [HTML table extractor](https://simonwillison.net/2026/Jun/29/html-table-extractor/#atom-everything) — *Simon Willison's Weblog* `06-29`
+- [[Sponsor] Day One Journal](https://dayoneapp.com/blog/introducing-daily-chat/) — *Daring Fireball* `06-29`
 <!--BLOG_RADAR:end-->
 
 ---
