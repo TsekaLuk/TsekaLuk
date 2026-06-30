@@ -208,11 +208,11 @@ Last Updated: Wednesday, July 1st, 2026, 3:46:36 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [A compatibility note on the abuse of Windows window class extra bytes](https://devblogs.microsoft.com/oldnewthing/20260630-00/?p=112488) — *The Old New Thing* `06-30`
-- [Book Review: Fake Creativity by Blake Loch ★★★☆☆](https://shkspr.mobi/blog/2026/06/book-review-fake-creativity-by-blake-loch/) — *Terence Eden’s Blog* `06-30`
-- [Pluralistic: Jo Walton's "Everybody's Perfect" (30 Jun 2026)](https://pluralistic.net/2026/06/30/serenissima/) — *Pluralistic: Daily links from Cory Doctorow* `06-30`
-- [Taking Roads and Bridges literally](https://nesbitt.io/2026/06/30/taking-roads-and-bridges-literally.html) — *Andrew Nesbitt* `06-30`
-- [The Dating App Plot Device](https://idiallo.com/blog/dating-plot-device) — *Software and Tech stories from an Insider - iDiallo.com* `06-30`
+- [Supreme Court Upholds Birthright Citizenship in 6-3 Decision](https://talkingpointsmemo.com/edblog/the-birthright-citizenship-decision-is-more-evidence-for-court-reform/sharetoken/e2bf9547-fa9b-468c-8af3-aa09e72ca698) — *Daring Fireball* `06-30`
+- [Writing an LLM from scratch, part 34a -- building a JAX training loop for an LLM training run](https://www.gilesthomas.com/2026/06/llm-from-scratch-34a-building-a-jax-training-loop-for-an-llm-training-run) — *Giles' blog* `06-30`
+- [★ The Supreme Court Rules That Law Enforcement’s Use of ‘Geofence Warrant’ Was a ‘Search’ (But May Be Moot, Technically, Since 2024)](https://daringfireball.net/2026/06/scotus_geofence_warrant_search) — *Daring Fireball* `06-30`
+- [Distinguishing variables from parameters](https://www.johndcook.com/blog/2026/06/30/variables-and-parameters/) — *John D. Cook* `06-30`
+- [Three Players From the Japanese Men’s National Team vs. 100 School Children](https://x.com/BallStreet/status/950382135969566720) — *Daring Fireball* `06-30`
 <!--BLOG_RADAR:end-->
 
 ---
