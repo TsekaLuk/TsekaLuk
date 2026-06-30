@@ -208,11 +208,11 @@ Last Updated: Tuesday, June 30th, 2026, 5:23:45 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [The Dating App Plot Device](https://idiallo.com/blog/dating-plot-device) — *Software and Tech stories from an Insider - iDiallo.com* `06-30`
 - [As expected, using kexec to switch to a new Ubuntu kernel works](https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuKexecRestartWorks) — *Chris's Wiki :: blog* `06-30`
 - [Derivative equals inverse](https://www.johndcook.com/blog/2026/06/29/derivative-equals-inverse/) — *John D. Cook* `06-30`
 - [Data Breach at Indian Supplier Tata Electronics Exposes iPhone 18 Pro Details and Photos](https://www.reuters.com/business/media-telecom/apple-iphone-18-pro-supplier-list-parts-photos-exposed-tata-data-leak-2026-06-29/) — *Daring Fireball* `06-30`
 - [HTML table extractor](https://simonwillison.net/2026/Jun/29/html-table-extractor/#atom-everything) — *Simon Willison's Weblog* `06-29`
-- [[Sponsor] Day One Journal](https://dayoneapp.com/blog/introducing-daily-chat/) — *Daring Fireball* `06-29`
 <!--BLOG_RADAR:end-->
 
 ---

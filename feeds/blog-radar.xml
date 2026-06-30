@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 30 Jun 2026 04:12:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 09:53:18 +0000</lastBuildDate>
+    <item>
+      <title>The Dating App Plot Device</title>
+      <link>https://idiallo.com/blog/dating-plot-device</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/dating-plot-device</guid>
+      <pubDate>Tue, 30 Jun 2026 07:00:00 +0000</pubDate>
+      <description>Software and Tech stories from an Insider - iDiallo.com</description>
+    </item>
     <item>
       <title>As expected, using kexec to switch to a new Ubuntu kernel works</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuKexecRestartWorks</link>
@@ -39,6 +46,13 @@
       <guid isPermaLink="true">https://dayoneapp.com/blog/introducing-daily-chat/</guid>
       <pubDate>Mon, 29 Jun 2026 23:17:38 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Data-directed programming in Haskell (SICP 2.4.3)</title>
+      <link>https://entropicthoughts.com/sicp-2-4-data-directed-programming-in-haskell</link>
+      <guid isPermaLink="true">https://entropicthoughts.com/sicp-2-4-data-directed-programming-in-haskell</guid>
+      <pubDate>Mon, 29 Jun 2026 22:00:00 +0000</pubDate>
+      <description>Entropic Thoughts</description>
     </item>
     <item>
       <title>Count the number of Safari tabs</title>
@@ -158,13 +172,6 @@
       <guid isPermaLink="true">http://www.righto.com/2026/06/space-shuttle-io-processor-boards.html</guid>
       <pubDate>Sun, 28 Jun 2026 16:11:20 +0000</pubDate>
       <description>Ken Shirriff's blog</description>
-    </item>
-    <item>
-      <title>Book Review: The Hotel Avocado by Bob Mortimer ★★☆☆☆</title>
-      <link>https://shkspr.mobi/blog/2026/06/book-review-the-hotel-avocado-by-bob-mortimer/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/book-review-the-hotel-avocado-by-bob-mortimer/</guid>
-      <pubDate>Sun, 28 Jun 2026 11:34:45 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>The Laziest Generation</title>
@@ -433,13 +440,6 @@
       <description>The Old New Thing</description>
     </item>
     <item>
-      <title>Review: Gamrombo PS5 controller - including Linux set up ★★★★☆</title>
-      <link>https://shkspr.mobi/blog/2026/06/review-gamrombo-ps5-controller-including-linux-set-up/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/review-gamrombo-ps5-controller-including-linux-set-up/</guid>
-      <pubDate>Fri, 26 Jun 2026 11:34:42 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>Incident Report: CVE-2026-LGTM</title>
       <link>https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html</guid>
@@ -678,13 +678,6 @@
       <description>The Old New Thing</description>
     </item>
     <item>
-      <title>Auth0 PHP - manually authenticating JWT idTokens</title>
-      <link>https://shkspr.mobi/blog/2026/06/auth0-php-manually-authenticating-tokens/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/auth0-php-manually-authenticating-tokens/</guid>
-      <pubDate>Wed, 24 Jun 2026 11:34:25 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>Weekly Update 509</title>
       <link>https://www.troyhunt.com/weekly-update-509/</link>
       <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-509/</guid>
@@ -804,20 +797,6 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Arp 293: More interacting galaxies</title>
-      <link>https://maurycyz.com/astro/arp293/</link>
-      <guid isPermaLink="true">https://maurycyz.com/astro/arp293/</guid>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
-    </item>
-    <item>
-      <title>The worthlessness of vitamin D is mildly exaggerated</title>
-      <link>https://dynomight.net/vitamin-d/</link>
-      <guid isPermaLink="true">https://dynomight.net/vitamin-d/</guid>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
-    </item>
-    <item>
       <title>The Coming Loop</title>
       <link>https://lucumr.pocoo.org/2026/6/23/the-coming-loop/</link>
       <guid isPermaLink="true">https://lucumr.pocoo.org/2026/6/23/the-coming-loop/</guid>
@@ -825,11 +804,25 @@
       <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
+      <title>Arp 293: More interacting galaxies</title>
+      <link>https://maurycyz.com/astro/arp293/</link>
+      <guid isPermaLink="true">https://maurycyz.com/astro/arp293/</guid>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
+    </item>
+    <item>
       <title>I taught a bucket to speak git</title>
       <link>https://www.tigrisdata.com/blog/objgit/</link>
       <guid isPermaLink="true">https://www.tigrisdata.com/blog/objgit/</guid>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>The worthlessness of vitamin D is mildly exaggerated</title>
+      <link>https://dynomight.net/vitamin-d/</link>
+      <guid isPermaLink="true">https://dynomight.net/vitamin-d/</guid>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>Our hydro deserves better than a chatbot</title>
@@ -844,6 +837,13 @@
       <guid isPermaLink="true">https://anildash.com/2026/06/23/fight-ai-platform-war/</guid>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
       <description>Anil Dash</description>
+    </item>
+    <item>
+      <title>Prompt Injection as Role Confusion</title>
+      <link>https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything</guid>
+      <pubDate>Mon, 22 Jun 2026 23:59:53 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
