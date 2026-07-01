@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 01 Jul 2026 10:02:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 14:50:12 +0000</lastBuildDate>
+    <item>
+      <title>404 Media: Vulnerability in iCloud’s ‘Hide My Email’ Reveals Peoples’ Real Email Addresses</title>
+      <link>https://www.404media.co/apple-hide-my-email-vulnerability-reveals-peoples-real-email-addresses/</link>
+      <guid isPermaLink="true">https://www.404media.co/apple-hide-my-email-vulnerability-reveals-peoples-real-email-addresses/</guid>
+      <pubDate>Wed, 01 Jul 2026 14:42:02 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Clickhouse is winning the Observability Wars</title>
+      <link>https://matduggan.com/clickhouse-is-winning-the-observability-wars/</link>
+      <guid isPermaLink="true">https://matduggan.com/clickhouse-is-winning-the-observability-wars/</guid>
+      <pubDate>Wed, 01 Jul 2026 13:14:03 +0000</pubDate>
+      <description>matduggan.com</description>
+    </item>
+    <item>
+      <title>The CRA is not about open source</title>
+      <link>https://nesbitt.io/2026/07/01/the-cra-is-not-about-open-source.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/07/01/the-cra-is-not-about-open-source.html</guid>
+      <pubDate>Wed, 01 Jul 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
     <item>
       <title>Bulkdatasets AIVD en MIVD: de schaduw geheime dienst</title>
       <link>https://berthub.eu/articles/posts/de-schaduwgeheimedienst/</link>
@@ -32,6 +53,13 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/30/dna-sequence-alignment-and-kings/</guid>
       <pubDate>Wed, 01 Jul 2026 00:21:21 +0000</pubDate>
       <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>explaining myself through stories</title>
+      <link>https://jyn.dev/explaining-myself-through-stories/</link>
+      <guid isPermaLink="true">https://jyn.dev/explaining-myself-through-stories/</guid>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <description>the website of jyn</description>
     </item>
     <item>
       <title>Quoting Anthropic</title>
@@ -172,6 +200,13 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260630-00/?p=112488</guid>
       <pubDate>Tue, 30 Jun 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>Book Review: Fake Creativity by Blake Loch ★★★☆☆</title>
+      <link>https://shkspr.mobi/blog/2026/06/book-review-fake-creativity-by-blake-loch/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/book-review-fake-creativity-by-blake-loch/</guid>
+      <pubDate>Tue, 30 Jun 2026 11:34:20 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Pluralistic: Jo Walton's "Everybody's Perfect" (30 Jun 2026)</title>
@@ -361,6 +396,13 @@
       <guid isPermaLink="true">http://www.righto.com/2026/06/space-shuttle-io-processor-boards.html</guid>
       <pubDate>Sun, 28 Jun 2026 16:11:20 +0000</pubDate>
       <description>Ken Shirriff's blog</description>
+    </item>
+    <item>
+      <title>Book Review: The Hotel Avocado by Bob Mortimer ★★☆☆☆</title>
+      <link>https://shkspr.mobi/blog/2026/06/book-review-the-hotel-avocado-by-bob-mortimer/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/book-review-the-hotel-avocado-by-bob-mortimer/</guid>
+      <pubDate>Sun, 28 Jun 2026 11:34:45 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>The Laziest Generation</title>
@@ -629,6 +671,13 @@
       <description>The Old New Thing</description>
     </item>
     <item>
+      <title>Review: Gamrombo PS5 controller - including Linux set up ★★★★☆</title>
+      <link>https://shkspr.mobi/blog/2026/06/review-gamrombo-ps5-controller-including-linux-set-up/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/review-gamrombo-ps5-controller-including-linux-set-up/</guid>
+      <pubDate>Fri, 26 Jun 2026 11:34:42 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>Incident Report: CVE-2026-LGTM</title>
       <link>https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html</guid>
@@ -795,55 +844,6 @@
       <guid isPermaLink="true">https://borretti.me/article/no-one-escapes-the-permanent-underclass</guid>
       <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
       <description>Fernando Borretti</description>
-    </item>
-    <item>
-      <title>simonw/browser-compat-db</title>
-      <link>https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything</guid>
-      <pubDate>Wed, 24 Jun 2026 23:59:03 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>WebKit Always Enables the Copy Menu Item in Every App</title>
-      <link>https://lapcatsoftware.com/articles/2026/6/5.html</link>
-      <guid isPermaLink="true">https://lapcatsoftware.com/articles/2026/6/5.html</guid>
-      <pubDate>Wed, 24 Jun 2026 21:52:43 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Thoughts on Role Confusion</title>
-      <link>https://www.gilesthomas.com/2026/06/role-confusion</link>
-      <guid isPermaLink="true">https://www.gilesthomas.com/2026/06/role-confusion</guid>
-      <pubDate>Wed, 24 Jun 2026 20:15:00 +0000</pubDate>
-      <description>Giles' blog</description>
-    </item>
-    <item>
-      <title>WebKit in Safari 27 Beta</title>
-      <link>https://webkit.org/blog/17967/news-from-wwdc26-webkit-in-safari-27-beta/</link>
-      <guid isPermaLink="true">https://webkit.org/blog/17967/news-from-wwdc26-webkit-in-safari-27-beta/</guid>
-      <pubDate>Wed, 24 Jun 2026 19:10:27 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Blogging Can Just Be Stating The Obvious</title>
-      <link>https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/</guid>
-      <pubDate>Wed, 24 Jun 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
-      <title>[Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It.</title>
-      <link>http://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</link>
-      <guid isPermaLink="true">http://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</guid>
-      <pubDate>Wed, 24 Jun 2026 18:46:46 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Quoting Tom MacWright</title>
-      <link>https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything</guid>
-      <pubDate>Wed, 24 Jun 2026 18:13:51 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
