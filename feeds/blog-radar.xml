@@ -4,13 +4,48 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 01 Jul 2026 14:50:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 20:04:00 +0000</lastBuildDate>
+    <item>
+      <title>PlayStation Plus and Xbox Game Pass Subscriptions</title>
+      <link>https://daringfireball.net/linked/2026/07/01/valve-on-subsidizing-hardware</link>
+      <guid isPermaLink="true">https://daringfireball.net/linked/2026/07/01/valve-on-subsidizing-hardware</guid>
+      <pubDate>Wed, 01 Jul 2026 19:55:26 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Valve Explains Why It Doesn’t Subsidize Its Hardware Platforms</title>
+      <link>https://www.theverge.com/games/952004/valve-steam-machine-price-not-subsidizing</link>
+      <guid isPermaLink="true">https://www.theverge.com/games/952004/valve-steam-machine-price-not-subsidizing</guid>
+      <pubDate>Wed, 01 Jul 2026 18:04:29 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>The Talk Show: ‘Taking Drugs to Get Fat’</title>
+      <link>https://daringfireball.net/thetalkshow/2026/06/30/ep-451</link>
+      <guid isPermaLink="true">https://daringfireball.net/thetalkshow/2026/06/30/ep-451</guid>
+      <pubDate>Wed, 01 Jul 2026 15:48:09 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Pluralistic: Technocarcinization (01 Jul 2026)</title>
+      <link>https://pluralistic.net/2026/07/01/ontogeny/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/07/01/ontogeny/</guid>
+      <pubDate>Wed, 01 Jul 2026 15:14:12 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
     <item>
       <title>404 Media: Vulnerability in iCloud’s ‘Hide My Email’ Reveals Peoples’ Real Email Addresses</title>
       <link>https://www.404media.co/apple-hide-my-email-vulnerability-reveals-peoples-real-email-addresses/</link>
       <guid isPermaLink="true">https://www.404media.co/apple-hide-my-email-vulnerability-reveals-peoples-real-email-addresses/</guid>
       <pubDate>Wed, 01 Jul 2026 14:42:02 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>It rather involved being on the other side of this airtight hatchway: Changing administrative settings</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260701-00/?p=112498</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260701-00/?p=112498</guid>
+      <pubDate>Wed, 01 Jul 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Clickhouse is winning the Observability Wars</title>
@@ -193,6 +228,13 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/30/silver-kings/</guid>
       <pubDate>Tue, 30 Jun 2026 14:36:14 +0000</pubDate>
       <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>2026 mid-year link clearance</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260630-01/?p=112494</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260630-01/?p=112494</guid>
+      <pubDate>Tue, 30 Jun 2026 14:00:01 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>A compatibility note on the abuse of Windows window class extra bytes</title>
@@ -699,18 +741,18 @@
       <description>Jeff Geerling</description>
     </item>
     <item>
-      <title>AI inference is obviously profitable</title>
-      <link>https://seangoedecke.com/ai-inference-is-obviously-profitable/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/ai-inference-is-obviously-profitable/</guid>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
       <title>Blink if you’re human</title>
       <link>https://dynomight.net/blink/</link>
       <guid isPermaLink="true">https://dynomight.net/blink/</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
       <description>DYNOMIGHT</description>
+    </item>
+    <item>
+      <title>AI inference is obviously profitable</title>
+      <link>https://seangoedecke.com/ai-inference-is-obviously-profitable/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/ai-inference-is-obviously-profitable/</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>Apple Journal’s Atrocious Undo Bug Has Been Fixed (and SwiftUI, Per Se, Is Not to Blame)</title>
@@ -802,48 +844,6 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/25/consecutive-pythagorean/</guid>
       <pubDate>Thu, 25 Jun 2026 12:00:14 +0000</pubDate>
       <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Scrutineer: scanning open source without flooding maintainers</title>
-      <link>https://nesbitt.io/2026/06/25/scrutineer.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/06/25/scrutineer.html</guid>
-      <pubDate>Thu, 25 Jun 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Pluralistic: Jailbreaking isn't theft (25 Jun 2026)</title>
-      <link>https://pluralistic.net/2026/06/25/thieve-different/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/06/25/thieve-different/</guid>
-      <pubDate>Thu, 25 Jun 2026 09:37:35 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Some things on '&lt;code&gt;systemctl kexec&lt;/code&gt;' as compared to '&lt;code&gt;kexec -e&lt;/code&gt;'</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/SystemctlKexecVsKexec</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/SystemctlKexecVsKexec</guid>
-      <pubDate>Thu, 25 Jun 2026 02:42:00 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>The Star Trek lemma</title>
-      <link>https://www.johndcook.com/blog/2026/06/24/star-trek-lemma/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/24/star-trek-lemma/</guid>
-      <pubDate>Thu, 25 Jun 2026 02:38:42 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>"No way to prevent this" say users of only language where this regularly happens</title>
-      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-8461/</link>
-      <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-8461/</guid>
-      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
-      <title>No-One Escapes the Permanent Underclass</title>
-      <link>https://borretti.me/article/no-one-escapes-the-permanent-underclass</link>
-      <guid isPermaLink="true">https://borretti.me/article/no-one-escapes-the-permanent-underclass</guid>
-      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Fernando Borretti</description>
     </item>
   </channel>
 </rss>

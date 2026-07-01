@@ -208,11 +208,11 @@ Last Updated: Thursday, July 2nd, 2026, 3:45:09 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [PlayStation Plus and Xbox Game Pass Subscriptions](https://daringfireball.net/linked/2026/07/01/valve-on-subsidizing-hardware) — *Daring Fireball* `07-01`
+- [Valve Explains Why It Doesn’t Subsidize Its Hardware Platforms](https://www.theverge.com/games/952004/valve-steam-machine-price-not-subsidizing) — *Daring Fireball* `07-01`
+- [The Talk Show: ‘Taking Drugs to Get Fat’](https://daringfireball.net/thetalkshow/2026/06/30/ep-451) — *Daring Fireball* `07-01`
+- [Pluralistic: Technocarcinization (01 Jul 2026)](https://pluralistic.net/2026/07/01/ontogeny/) — *Pluralistic: Daily links from Cory Doctorow* `07-01`
 - [404 Media: Vulnerability in iCloud’s ‘Hide My Email’ Reveals Peoples’ Real Email Addresses](https://www.404media.co/apple-hide-my-email-vulnerability-reveals-peoples-real-email-addresses/) — *Daring Fireball* `07-01`
-- [Clickhouse is winning the Observability Wars](https://matduggan.com/clickhouse-is-winning-the-observability-wars/) — *matduggan.com* `07-01`
-- [The CRA is not about open source](https://nesbitt.io/2026/07/01/the-cra-is-not-about-open-source.html) — *Andrew Nesbitt* `07-01`
-- [Bulkdatasets AIVD en MIVD: de schaduw geheime dienst](https://berthub.eu/articles/posts/de-schaduwgeheimedienst/) — *Bert Hubert's writings* `07-01`
-- [Our long path from IPMI remote installs to network installs](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/IPMIToNetworkInstalls) — *Chris's Wiki :: blog* `07-01`
 <!--BLOG_RADAR:end-->
 
 ---
