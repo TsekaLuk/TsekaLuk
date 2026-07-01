@@ -208,11 +208,11 @@ Last Updated: Wednesday, July 1st, 2026, 10:54:07 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Supreme Court Upholds Birthright Citizenship in 6-3 Decision](https://talkingpointsmemo.com/edblog/the-birthright-citizenship-decision-is-more-evidence-for-court-reform/sharetoken/e2bf9547-fa9b-468c-8af3-aa09e72ca698) — *Daring Fireball* `06-30`
-- [Writing an LLM from scratch, part 34a -- building a JAX training loop for an LLM training run](https://www.gilesthomas.com/2026/06/llm-from-scratch-34a-building-a-jax-training-loop-for-an-llm-training-run) — *Giles' blog* `06-30`
-- [★ The Supreme Court Rules That Law Enforcement’s Use of ‘Geofence Warrant’ Was a ‘Search’ (But May Be Moot, Technically, Since 2024)](https://daringfireball.net/2026/06/scotus_geofence_warrant_search) — *Daring Fireball* `06-30`
-- [Distinguishing variables from parameters](https://www.johndcook.com/blog/2026/06/30/variables-and-parameters/) — *John D. Cook* `06-30`
-- [Three Players From the Japanese Men’s National Team vs. 100 School Children](https://x.com/BallStreet/status/950382135969566720) — *Daring Fireball* `06-30`
+- [Our long path from IPMI remote installs to network installs](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/IPMIToNetworkInstalls) — *Chris's Wiki :: blog* `07-01`
+- [Summary of reading: April - June 2026](https://eli.thegreenplace.net/2026/summary-of-reading-april-june-2026/) — *Eli Bendersky's website* `07-01`
+- [DNA Sequence Alignment and Kings](https://www.johndcook.com/blog/2026/06/30/dna-sequence-alignment-and-kings/) — *John D. Cook* `07-01`
+- [Quoting Anthropic](https://simonwillison.net/2026/Jun/30/anthropic/#atom-everything) — *Simon Willison's Weblog* `06-30`
+- [Nano Banana 2 Lite](https://simonwillison.net/2026/Jun/30/nano-banana-2-lite/#atom-everything) — *Simon Willison's Weblog* `06-30`
 <!--BLOG_RADAR:end-->
 
 ---

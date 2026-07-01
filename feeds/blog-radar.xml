@@ -4,7 +4,63 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 30 Jun 2026 20:06:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 04:40:25 +0000</lastBuildDate>
+    <item>
+      <title>Our long path from IPMI remote installs to network installs</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/IPMIToNetworkInstalls</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/IPMIToNetworkInstalls</guid>
+      <pubDate>Wed, 01 Jul 2026 02:52:24 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>Summary of reading: April - June 2026</title>
+      <link>https://eli.thegreenplace.net/2026/summary-of-reading-april-june-2026/</link>
+      <guid isPermaLink="true">https://eli.thegreenplace.net/2026/summary-of-reading-april-june-2026/</guid>
+      <pubDate>Wed, 01 Jul 2026 01:52:00 +0000</pubDate>
+      <description>Eli Bendersky's website</description>
+    </item>
+    <item>
+      <title>DNA Sequence Alignment and Kings</title>
+      <link>https://www.johndcook.com/blog/2026/06/30/dna-sequence-alignment-and-kings/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/30/dna-sequence-alignment-and-kings/</guid>
+      <pubDate>Wed, 01 Jul 2026 00:21:21 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Quoting Anthropic</title>
+      <link>https://simonwillison.net/2026/Jun/30/anthropic/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/30/anthropic/#atom-everything</guid>
+      <pubDate>Tue, 30 Jun 2026 23:58:15 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Nano Banana 2 Lite</title>
+      <link>https://simonwillison.net/2026/Jun/30/nano-banana-2-lite/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/30/nano-banana-2-lite/#atom-everything</guid>
+      <pubDate>Tue, 30 Jun 2026 22:15:35 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>What's new in Claude Sonnet 5</title>
+      <link>https://simonwillison.net/2026/Jun/30/claude-sonnet-5/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/30/claude-sonnet-5/#atom-everything</guid>
+      <pubDate>Tue, 30 Jun 2026 21:23:02 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Gnome</title>
+      <link>https://lexfriedman.com/gnome/</link>
+      <guid isPermaLink="true">https://lexfriedman.com/gnome/</guid>
+      <pubDate>Tue, 30 Jun 2026 20:54:32 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Supreme Court Agrees to Review Apple’s Petition Regarding Civil Contempt Finding in ‘Apple v. Epic Games’</title>
+      <link>https://www.supremecourt.gov/orders/courtorders/063026zor_3f14.pdf</link>
+      <guid isPermaLink="true">https://www.supremecourt.gov/orders/courtorders/063026zor_3f14.pdf</guid>
+      <pubDate>Tue, 30 Jun 2026 20:12:08 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Supreme Court Upholds Birthright Citizenship in 6-3 Decision</title>
       <link>https://talkingpointsmemo.com/edblog/the-birthright-citizenship-decision-is-more-evidence-for-court-reform/sharetoken/e2bf9547-fa9b-468c-8af3-aa09e72ca698</link>
@@ -788,62 +844,6 @@
       <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/</guid>
       <pubDate>Wed, 24 Jun 2026 19:00:00 +0000</pubDate>
       <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
-      <title>[Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It.</title>
-      <link>http://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</link>
-      <guid isPermaLink="true">http://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</guid>
-      <pubDate>Wed, 24 Jun 2026 18:46:46 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Quoting Tom MacWright</title>
-      <link>https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything</guid>
-      <pubDate>Wed, 24 Jun 2026 18:13:51 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Designed in California: An Apple History Podcast</title>
-      <link>https://designed.fm/</link>
-      <guid isPermaLink="true">https://designed.fm/</guid>
-      <pubDate>Wed, 24 Jun 2026 15:17:18 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Framework's 10G Ethernet module exposes USB-C's complexity</title>
-      <link>https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/</guid>
-      <pubDate>Wed, 24 Jun 2026 14:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
-      <title>Cancellation of Windows Runtime activities is asynchronous</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260624-00/?p=112465</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260624-00/?p=112465</guid>
-      <pubDate>Wed, 24 Jun 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Auth0 PHP - manually authenticating JWT idTokens</title>
-      <link>https://shkspr.mobi/blog/2026/06/auth0-php-manually-authenticating-tokens/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/auth0-php-manually-authenticating-tokens/</guid>
-      <pubDate>Wed, 24 Jun 2026 11:34:25 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Weekly Update 509</title>
-      <link>https://www.troyhunt.com/weekly-update-509/</link>
-      <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-509/</guid>
-      <pubDate>Wed, 24 Jun 2026 05:17:32 +0000</pubDate>
-      <description>Troy Hunt</description>
-    </item>
-    <item>
-      <title>Two versions of a 'is SSH up on a machine' check</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SshupTwoVersions</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SshupTwoVersions</guid>
-      <pubDate>Wed, 24 Jun 2026 02:18:14 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
     </item>
   </channel>
 </rss>
