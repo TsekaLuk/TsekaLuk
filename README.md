@@ -208,11 +208,11 @@ Last Updated: Wednesday, July 1st, 2026, 5:36:12 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Bulkdatasets AIVD en MIVD: de schaduw geheime dienst](https://berthub.eu/articles/posts/de-schaduwgeheimedienst/) — *Bert Hubert's writings* `07-01`
 - [Our long path from IPMI remote installs to network installs](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/IPMIToNetworkInstalls) — *Chris's Wiki :: blog* `07-01`
 - [Summary of reading: April - June 2026](https://eli.thegreenplace.net/2026/summary-of-reading-april-june-2026/) — *Eli Bendersky's website* `07-01`
 - [DNA Sequence Alignment and Kings](https://www.johndcook.com/blog/2026/06/30/dna-sequence-alignment-and-kings/) — *John D. Cook* `07-01`
 - [Quoting Anthropic](https://simonwillison.net/2026/Jun/30/anthropic/#atom-everything) — *Simon Willison's Weblog* `06-30`
-- [Nano Banana 2 Lite](https://simonwillison.net/2026/Jun/30/nano-banana-2-lite/#atom-everything) — *Simon Willison's Weblog* `06-30`
 <!--BLOG_RADAR:end-->
 
 ---

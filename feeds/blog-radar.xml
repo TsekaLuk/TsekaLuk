@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 01 Jul 2026 04:40:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 10:02:08 +0000</lastBuildDate>
+    <item>
+      <title>Bulkdatasets AIVD en MIVD: de schaduw geheime dienst</title>
+      <link>https://berthub.eu/articles/posts/de-schaduwgeheimedienst/</link>
+      <guid isPermaLink="true">https://berthub.eu/articles/posts/de-schaduwgeheimedienst/</guid>
+      <pubDate>Wed, 01 Jul 2026 08:40:00 +0000</pubDate>
+      <description>Bert Hubert's writings</description>
+    </item>
     <item>
       <title>Our long path from IPMI remote installs to network installs</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/IPMIToNetworkInstalls</link>
@@ -165,13 +172,6 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260630-00/?p=112488</guid>
       <pubDate>Tue, 30 Jun 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Book Review: Fake Creativity by Blake Loch ★★★☆☆</title>
-      <link>https://shkspr.mobi/blog/2026/06/book-review-fake-creativity-by-blake-loch/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/book-review-fake-creativity-by-blake-loch/</guid>
-      <pubDate>Tue, 30 Jun 2026 11:34:20 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Pluralistic: Jo Walton's "Everybody's Perfect" (30 Jun 2026)</title>
@@ -361,13 +361,6 @@
       <guid isPermaLink="true">http://www.righto.com/2026/06/space-shuttle-io-processor-boards.html</guid>
       <pubDate>Sun, 28 Jun 2026 16:11:20 +0000</pubDate>
       <description>Ken Shirriff's blog</description>
-    </item>
-    <item>
-      <title>Book Review: The Hotel Avocado by Bob Mortimer ★★☆☆☆</title>
-      <link>https://shkspr.mobi/blog/2026/06/book-review-the-hotel-avocado-by-bob-mortimer/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/book-review-the-hotel-avocado-by-bob-mortimer/</guid>
-      <pubDate>Sun, 28 Jun 2026 11:34:45 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>The Laziest Generation</title>
@@ -636,13 +629,6 @@
       <description>The Old New Thing</description>
     </item>
     <item>
-      <title>Review: Gamrombo PS5 controller - including Linux set up ★★★★☆</title>
-      <link>https://shkspr.mobi/blog/2026/06/review-gamrombo-ps5-controller-including-linux-set-up/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/review-gamrombo-ps5-controller-including-linux-set-up/</guid>
-      <pubDate>Fri, 26 Jun 2026 11:34:42 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>Incident Report: CVE-2026-LGTM</title>
       <link>https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html</guid>
@@ -844,6 +830,20 @@
       <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/</guid>
       <pubDate>Wed, 24 Jun 2026 19:00:00 +0000</pubDate>
       <description>Jim Nielsen’s Blog</description>
+    </item>
+    <item>
+      <title>[Sponsor] WorkOS: Agents Need Auth. There’s Now a Spec for It.</title>
+      <link>http://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</link>
+      <guid isPermaLink="true">http://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</guid>
+      <pubDate>Wed, 24 Jun 2026 18:46:46 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Quoting Tom MacWright</title>
+      <link>https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything</guid>
+      <pubDate>Wed, 24 Jun 2026 18:13:51 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
