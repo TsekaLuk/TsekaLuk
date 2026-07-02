@@ -4,7 +4,84 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 02 Jul 2026 14:19:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 19:42:01 +0000</lastBuildDate>
+    <item>
+      <title>Truth Social Is Still Just Trump’s Blog</title>
+      <link>https://daringfireball.net/2025/06/truth_social_is_just_trumps_blog</link>
+      <guid isPermaLink="true">https://daringfireball.net/2025/06/truth_social_is_just_trumps_blog</guid>
+      <pubDate>Thu, 02 Jul 2026 19:38:45 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>FBI Seizes NetNut Proxy Platform, Popa Botnet</title>
+      <link>https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/</link>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/</guid>
+      <pubDate>Thu, 02 Jul 2026 19:27:33 +0000</pubDate>
+      <description>Krebs on Security</description>
+    </item>
+    <item>
+      <title>‘A Perfect Reflection of Trump’s Washington’</title>
+      <link>https://politicalwire.com/2026/06/19/a-perfect-reflection-of-trumps-washington/</link>
+      <guid isPermaLink="true">https://politicalwire.com/2026/06/19/a-perfect-reflection-of-trumps-washington/</guid>
+      <pubDate>Thu, 02 Jul 2026 19:14:31 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>This Page Left Intentionally Blank</title>
+      <link>https://blog.jim-nielsen.com/2026/intentionally-blank/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/intentionally-blank/</guid>
+      <pubDate>Thu, 02 Jul 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
+    </item>
+    <item>
+      <title>Claude Fable and Kayfabe</title>
+      <link>https://www.anthropic.com/news/redeploying-fable-5</link>
+      <guid isPermaLink="true">https://www.anthropic.com/news/redeploying-fable-5</guid>
+      <pubDate>Thu, 02 Jul 2026 18:29:01 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Using DSPy to evaluate and improve Datasette Agent's SQL system prompts</title>
+      <link>https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts/#atom-everything</guid>
+      <pubDate>Thu, 02 Jul 2026 18:25:00 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>‘Why Is Meta Destroying Its Engineering Organization?’</title>
+      <link>https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering</link>
+      <guid isPermaLink="true">https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering</guid>
+      <pubDate>Thu, 02 Jul 2026 17:09:42 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Understand to participate</title>
+      <link>https://simonwillison.net/2026/Jul/2/understand-to-participate/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/2/understand-to-participate/#atom-everything</guid>
+      <pubDate>Thu, 02 Jul 2026 17:07:14 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>MG Siegler Got Banned From WhatsApp for No Reason</title>
+      <link>https://spyglass.org/whatsapp-ban/</link>
+      <guid isPermaLink="true">https://spyglass.org/whatsapp-ban/</guid>
+      <pubDate>Thu, 02 Jul 2026 16:13:13 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Hackers Stole Instagram Accounts Simply by Asking Meta AI to Give Them Access</title>
+      <link>https://www.404media.co/hackers-simply-asked-meta-ai-to-give-them-access-to-high-profile-instagram-accounts-it-worked/</link>
+      <guid isPermaLink="true">https://www.404media.co/hackers-simply-asked-meta-ai-to-give-them-access-to-high-profile-instagram-accounts-it-worked/</guid>
+      <pubDate>Thu, 02 Jul 2026 15:55:57 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>The case of the thread executing from an unloaded third-party DLL</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260702-00/?p=112500</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260702-00/?p=112500</guid>
+      <pubDate>Thu, 02 Jul 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
     <item>
       <title>Digitale Autonomie 2.0: en nu echt</title>
       <link>https://berthub.eu/articles/posts/digitale-autonomie-2-0-surf-privacy-security/</link>
@@ -18,6 +95,13 @@
       <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/</guid>
       <pubDate>Thu, 02 Jul 2026 11:34:59 +0000</pubDate>
       <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Understanding is the new bottleneck</title>
+      <link>https://geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck.html</link>
+      <guid isPermaLink="true">https://geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck.html</guid>
+      <pubDate>Thu, 02 Jul 2026 10:00:00 +0000</pubDate>
+      <description>Geoffrey Litt</description>
     </item>
     <item>
       <title>Pluralistic: The difference between "today's task" and "accretive work" (02 Jul 2026)</title>
@@ -671,18 +755,18 @@
       <description>John D. Cook</description>
     </item>
     <item>
-      <title>Saying the obvious thing</title>
-      <link>https://seangoedecke.com/saying-the-obvious-thing/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/saying-the-obvious-thing/</guid>
-      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
       <title>Arp 38: not that peculiar</title>
       <link>https://maurycyz.com/astro/arp38/</link>
       <guid isPermaLink="true">https://maurycyz.com/astro/arp38/</guid>
       <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
       <description>Maurycy's Blog</description>
+    </item>
+    <item>
+      <title>Saying the obvious thing</title>
+      <link>https://seangoedecke.com/saying-the-obvious-thing/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/saying-the-obvious-thing/</guid>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>★ Om</title>
@@ -760,90 +844,6 @@
       <guid isPermaLink="true">https://buyersguide.macrumors.com/#Apple_TV</guid>
       <pubDate>Fri, 26 Jun 2026 15:39:38 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The case of the DLL that was not present in memory despite not being formally unloaded, part 2</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260626-00/?p=112472</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260626-00/?p=112472</guid>
-      <pubDate>Fri, 26 Jun 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Review: Gamrombo PS5 controller - including Linux set up ★★★★☆</title>
-      <link>https://shkspr.mobi/blog/2026/06/review-gamrombo-ps5-controller-including-linux-set-up/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/review-gamrombo-ps5-controller-including-linux-set-up/</guid>
-      <pubDate>Fri, 26 Jun 2026 11:34:42 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Incident Report: CVE-2026-LGTM</title>
-      <link>https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html</guid>
-      <pubDate>Fri, 26 Jun 2026 04:13:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>You can't always trust a BMC's inventory of the server's hardware</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/tech/BMCDontTrustHardwareInventory</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/tech/BMCDontTrustHardwareInventory</guid>
-      <pubDate>Fri, 26 Jun 2026 03:25:57 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>Quickly apply LUTs (color grading) with ffmpeg</title>
-      <link>https://www.jeffgeerling.com/blog/2026/apply-lut-color-grade-with-ffmpeg/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/apply-lut-color-grade-with-ffmpeg/</guid>
-      <pubDate>Fri, 26 Jun 2026 02:23:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
-      <title>AI inference is obviously profitable</title>
-      <link>https://seangoedecke.com/ai-inference-is-obviously-profitable/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/ai-inference-is-obviously-profitable/</guid>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>Blink if you’re human</title>
-      <link>https://dynomight.net/blink/</link>
-      <guid isPermaLink="true">https://dynomight.net/blink/</guid>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
-    </item>
-    <item>
-      <title>Apple Journal’s Atrocious Undo Bug Has Been Fixed (and SwiftUI, Per Se, Is Not to Blame)</title>
-      <link>https://daringfireball.net/2026/06/swiftui_only_makes_it_easy_to_develop_bad_apps</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/06/swiftui_only_makes_it_easy_to_develop_bad_apps</guid>
-      <pubDate>Thu, 25 Jun 2026 22:49:32 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>★ Spensive Thoughts</title>
-      <link>https://daringfireball.net/2026/06/spensive_thoughts</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/06/spensive_thoughts</guid>
-      <pubDate>Thu, 25 Jun 2026 22:36:09 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>AI and Liability</title>
-      <link>https://simonwillison.net/2026/Jun/25/ai-and-liability/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/25/ai-and-liability/#atom-everything</guid>
-      <pubDate>Thu, 25 Jun 2026 22:28:46 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Om Malik, 1966-2026</title>
-      <link>https://om.co/2026/06/24/1966-2026/</link>
-      <guid isPermaLink="true">https://om.co/2026/06/24/1966-2026/</guid>
-      <pubDate>Thu, 25 Jun 2026 20:31:37 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Hart’s theorem</title>
-      <link>https://www.johndcook.com/blog/2026/06/25/harts-theorem/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/25/harts-theorem/</guid>
-      <pubDate>Thu, 25 Jun 2026 19:20:09 +0000</pubDate>
-      <description>John D. Cook</description>
     </item>
   </channel>
 </rss>

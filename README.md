@@ -208,11 +208,11 @@ Last Updated: Friday, July 3rd, 2026, 3:15:58 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Digitale Autonomie 2.0: en nu echt](https://berthub.eu/articles/posts/digitale-autonomie-2-0-surf-privacy-security/) — *Bert Hubert's writings* `07-02`
-- [This blog is written in en-GB](https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/) — *Terence Eden’s Blog* `07-02`
-- [Pluralistic: The difference between "today's task" and "accretive work" (02 Jul 2026)](https://pluralistic.net/2026/07/02/canonization/) — *Pluralistic: Daily links from Cory Doctorow* `07-02`
-- [I'm only interested in "native" installation systems](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/NativeInstallersOnly) — *Chris's Wiki :: blog* `07-02`
-- [Text AI watermarks will always be trivial to remove](https://seangoedecke.com/text-ai-watermarks/) — *seangoedecke.com RSS feed* `07-02`
+- [Truth Social Is Still Just Trump’s Blog](https://daringfireball.net/2025/06/truth_social_is_just_trumps_blog) — *Daring Fireball* `07-02`
+- [FBI Seizes NetNut Proxy Platform, Popa Botnet](https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/) — *Krebs on Security* `07-02`
+- [‘A Perfect Reflection of Trump’s Washington’](https://politicalwire.com/2026/06/19/a-perfect-reflection-of-trumps-washington/) — *Daring Fireball* `07-02`
+- [This Page Left Intentionally Blank](https://blog.jim-nielsen.com/2026/intentionally-blank/) — *Jim Nielsen’s Blog* `07-02`
+- [Claude Fable and Kayfabe](https://www.anthropic.com/news/redeploying-fable-5) — *Daring Fireball* `07-02`
 <!--BLOG_RADAR:end-->
 
 ---
