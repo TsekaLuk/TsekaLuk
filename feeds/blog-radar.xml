@@ -4,7 +4,42 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 01 Jul 2026 20:04:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 04:07:37 +0000</lastBuildDate>
+    <item>
+      <title>I'm only interested in "native" installation systems</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/NativeInstallersOnly</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/NativeInstallersOnly</guid>
+      <pubDate>Thu, 02 Jul 2026 01:33:46 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>Text AI watermarks will always be trivial to remove</title>
+      <link>https://seangoedecke.com/text-ai-watermarks/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/text-ai-watermarks/</guid>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>★ A Tale of Two Modems</title>
+      <link>https://daringfireball.net/2026/07/a_tale_of_two_modems</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/07/a_tale_of_two_modems</guid>
+      <pubDate>Wed, 01 Jul 2026 23:26:45 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Bring Back Crappy Forums</title>
+      <link>https://feed.tedium.co/link/15204/17371410/online-web-forums-retrospective</link>
+      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17371410/online-web-forums-retrospective</guid>
+      <pubDate>Wed, 01 Jul 2026 22:26:07 +0000</pubDate>
+      <description>Tedium: The Dull Side of the Internet.</description>
+    </item>
+    <item>
+      <title>The Winning Essays for the Big Questions About AI</title>
+      <link>https://www.dwarkesh.com/p/blog-prize-winners</link>
+      <guid isPermaLink="true">https://www.dwarkesh.com/p/blog-prize-winners</guid>
+      <pubDate>Wed, 01 Jul 2026 22:13:17 +0000</pubDate>
+      <description>Dwarkesh Podcast</description>
+    </item>
     <item>
       <title>PlayStation Plus and Xbox Game Pass Subscriptions</title>
       <link>https://daringfireball.net/linked/2026/07/01/valve-on-subsidizing-hardware</link>
@@ -741,18 +776,18 @@
       <description>Jeff Geerling</description>
     </item>
     <item>
-      <title>Blink if you’re human</title>
-      <link>https://dynomight.net/blink/</link>
-      <guid isPermaLink="true">https://dynomight.net/blink/</guid>
-      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
-    </item>
-    <item>
       <title>AI inference is obviously profitable</title>
       <link>https://seangoedecke.com/ai-inference-is-obviously-profitable/</link>
       <guid isPermaLink="true">https://seangoedecke.com/ai-inference-is-obviously-profitable/</guid>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Blink if you’re human</title>
+      <link>https://dynomight.net/blink/</link>
+      <guid isPermaLink="true">https://dynomight.net/blink/</guid>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>Apple Journal’s Atrocious Undo Bug Has Been Fixed (and SwiftUI, Per Se, Is Not to Blame)</title>
@@ -809,41 +844,6 @@
       <guid isPermaLink="true">https://www.wsj.com/tech/apple-raises-prices-on-macs-ipads-by-200-or-more-on-some-models-a7463f99?st=zse57R</guid>
       <pubDate>Thu, 25 Jun 2026 16:58:16 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Incircles and Excircles of Pythagorean triangles</title>
-      <link>https://www.johndcook.com/blog/2026/06/25/incircle-excircle/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/25/incircle-excircle/</guid>
-      <pubDate>Thu, 25 Jun 2026 14:35:52 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Raymond’s hot take on Hainanese chicken</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260625-01/?p=112469</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260625-01/?p=112469</guid>
-      <pubDate>Thu, 25 Jun 2026 14:00:01 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>The case of the DLL that was not present in memory despite not being formally unloaded, part 1</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467</guid>
-      <pubDate>Thu, 25 Jun 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>US Subways Build Too Many Cross Passages</title>
-      <link>https://www.construction-physics.com/p/us-subways-build-too-many-cross-passages</link>
-      <guid isPermaLink="true">https://www.construction-physics.com/p/us-subways-build-too-many-cross-passages</guid>
-      <pubDate>Thu, 25 Jun 2026 13:55:49 +0000</pubDate>
-      <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>Consecutive Pythagorean triangle sides</title>
-      <link>https://www.johndcook.com/blog/2026/06/25/consecutive-pythagorean/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/25/consecutive-pythagorean/</guid>
-      <pubDate>Thu, 25 Jun 2026 12:00:14 +0000</pubDate>
-      <description>John D. Cook</description>
     </item>
   </channel>
 </rss>

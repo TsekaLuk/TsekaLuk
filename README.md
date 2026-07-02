@@ -208,11 +208,11 @@ Last Updated: Thursday, July 2nd, 2026, 10:44:12 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [PlayStation Plus and Xbox Game Pass Subscriptions](https://daringfireball.net/linked/2026/07/01/valve-on-subsidizing-hardware) — *Daring Fireball* `07-01`
-- [Valve Explains Why It Doesn’t Subsidize Its Hardware Platforms](https://www.theverge.com/games/952004/valve-steam-machine-price-not-subsidizing) — *Daring Fireball* `07-01`
-- [The Talk Show: ‘Taking Drugs to Get Fat’](https://daringfireball.net/thetalkshow/2026/06/30/ep-451) — *Daring Fireball* `07-01`
-- [Pluralistic: Technocarcinization (01 Jul 2026)](https://pluralistic.net/2026/07/01/ontogeny/) — *Pluralistic: Daily links from Cory Doctorow* `07-01`
-- [404 Media: Vulnerability in iCloud’s ‘Hide My Email’ Reveals Peoples’ Real Email Addresses](https://www.404media.co/apple-hide-my-email-vulnerability-reveals-peoples-real-email-addresses/) — *Daring Fireball* `07-01`
+- [I'm only interested in "native" installation systems](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/NativeInstallersOnly) — *Chris's Wiki :: blog* `07-02`
+- [Text AI watermarks will always be trivial to remove](https://seangoedecke.com/text-ai-watermarks/) — *seangoedecke.com RSS feed* `07-02`
+- [★ A Tale of Two Modems](https://daringfireball.net/2026/07/a_tale_of_two_modems) — *Daring Fireball* `07-01`
+- [Bring Back Crappy Forums](https://feed.tedium.co/link/15204/17371410/online-web-forums-retrospective) — *Tedium: The Dull Side of the Internet.* `07-01`
+- [The Winning Essays for the Big Questions About AI](https://www.dwarkesh.com/p/blog-prize-winners) — *Dwarkesh Podcast* `07-01`
 <!--BLOG_RADAR:end-->
 
 ---
