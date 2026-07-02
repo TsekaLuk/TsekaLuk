@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 02 Jul 2026 09:25:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 14:19:16 +0000</lastBuildDate>
+    <item>
+      <title>Digitale Autonomie 2.0: en nu echt</title>
+      <link>https://berthub.eu/articles/posts/digitale-autonomie-2-0-surf-privacy-security/</link>
+      <guid isPermaLink="true">https://berthub.eu/articles/posts/digitale-autonomie-2-0-surf-privacy-security/</guid>
+      <pubDate>Thu, 02 Jul 2026 11:37:00 +0000</pubDate>
+      <description>Bert Hubert's writings</description>
+    </item>
+    <item>
+      <title>This blog is written in en-GB</title>
+      <link>https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/</guid>
+      <pubDate>Thu, 02 Jul 2026 11:34:59 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
     <item>
       <title>Pluralistic: The difference between "today's task" and "accretive work" (02 Jul 2026)</title>
       <link>https://pluralistic.net/2026/07/02/canonization/</link>
@@ -286,6 +300,13 @@
       <description>The Old New Thing</description>
     </item>
     <item>
+      <title>Book Review: Fake Creativity by Blake Loch ★★★☆☆</title>
+      <link>https://shkspr.mobi/blog/2026/06/book-review-fake-creativity-by-blake-loch/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/book-review-fake-creativity-by-blake-loch/</guid>
+      <pubDate>Tue, 30 Jun 2026 11:34:20 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>Pluralistic: Jo Walton's "Everybody's Perfect" (30 Jun 2026)</title>
       <link>https://pluralistic.net/2026/06/30/serenissima/</link>
       <guid isPermaLink="true">https://pluralistic.net/2026/06/30/serenissima/</guid>
@@ -475,6 +496,13 @@
       <description>Ken Shirriff's blog</description>
     </item>
     <item>
+      <title>Book Review: The Hotel Avocado by Bob Mortimer ★★☆☆☆</title>
+      <link>https://shkspr.mobi/blog/2026/06/book-review-the-hotel-avocado-by-bob-mortimer/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/book-review-the-hotel-avocado-by-bob-mortimer/</guid>
+      <pubDate>Sun, 28 Jun 2026 11:34:45 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>The Laziest Generation</title>
       <link>https://idiallo.com/blog/the-laziest-generation</link>
       <guid isPermaLink="true">https://idiallo.com/blog/the-laziest-generation</guid>
@@ -643,18 +671,18 @@
       <description>John D. Cook</description>
     </item>
     <item>
-      <title>Arp 38: not that peculiar</title>
-      <link>https://maurycyz.com/astro/arp38/</link>
-      <guid isPermaLink="true">https://maurycyz.com/astro/arp38/</guid>
-      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
-    </item>
-    <item>
       <title>Saying the obvious thing</title>
       <link>https://seangoedecke.com/saying-the-obvious-thing/</link>
       <guid isPermaLink="true">https://seangoedecke.com/saying-the-obvious-thing/</guid>
       <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Arp 38: not that peculiar</title>
+      <link>https://maurycyz.com/astro/arp38/</link>
+      <guid isPermaLink="true">https://maurycyz.com/astro/arp38/</guid>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
     </item>
     <item>
       <title>★ Om</title>
@@ -741,6 +769,13 @@
       <description>The Old New Thing</description>
     </item>
     <item>
+      <title>Review: Gamrombo PS5 controller - including Linux set up ★★★★☆</title>
+      <link>https://shkspr.mobi/blog/2026/06/review-gamrombo-ps5-controller-including-linux-set-up/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/review-gamrombo-ps5-controller-including-linux-set-up/</guid>
+      <pubDate>Fri, 26 Jun 2026 11:34:42 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>Incident Report: CVE-2026-LGTM</title>
       <link>https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html</guid>
@@ -809,41 +844,6 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/25/harts-theorem/</guid>
       <pubDate>Thu, 25 Jun 2026 19:20:09 +0000</pubDate>
       <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>My Om Malik Story</title>
-      <link>https://blog.jim-nielsen.com/2026/tribute-to-om/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/tribute-to-om/</guid>
-      <pubDate>Thu, 25 Jun 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
-      <title>datasette-export-database 0.3a2</title>
-      <link>https://simonwillison.net/2026/Jun/25/datasette-export-database/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/25/datasette-export-database/#atom-everything</guid>
-      <pubDate>Thu, 25 Jun 2026 17:21:09 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Apple Raises Prices on Most Products by 15–25 Percent, but Not iPhones, Watches, or AirPods</title>
-      <link>https://www.wsj.com/tech/apple-raises-prices-on-macs-ipads-by-200-or-more-on-some-models-a7463f99?st=zse57R</link>
-      <guid isPermaLink="true">https://www.wsj.com/tech/apple-raises-prices-on-macs-ipads-by-200-or-more-on-some-models-a7463f99?st=zse57R</guid>
-      <pubDate>Thu, 25 Jun 2026 16:58:16 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Incircles and Excircles of Pythagorean triangles</title>
-      <link>https://www.johndcook.com/blog/2026/06/25/incircle-excircle/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/25/incircle-excircle/</guid>
-      <pubDate>Thu, 25 Jun 2026 14:35:52 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Raymond’s hot take on Hainanese chicken</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260625-01/?p=112469</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260625-01/?p=112469</guid>
-      <pubDate>Thu, 25 Jun 2026 14:00:01 +0000</pubDate>
-      <description>The Old New Thing</description>
     </item>
   </channel>
 </rss>

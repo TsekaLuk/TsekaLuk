@@ -208,11 +208,11 @@ Last Updated: Thursday, July 2nd, 2026, 9:46:29 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Digitale Autonomie 2.0: en nu echt](https://berthub.eu/articles/posts/digitale-autonomie-2-0-surf-privacy-security/) — *Bert Hubert's writings* `07-02`
+- [This blog is written in en-GB](https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/) — *Terence Eden’s Blog* `07-02`
 - [Pluralistic: The difference between "today's task" and "accretive work" (02 Jul 2026)](https://pluralistic.net/2026/07/02/canonization/) — *Pluralistic: Daily links from Cory Doctorow* `07-02`
 - [I'm only interested in "native" installation systems](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/NativeInstallersOnly) — *Chris's Wiki :: blog* `07-02`
 - [Text AI watermarks will always be trivial to remove](https://seangoedecke.com/text-ai-watermarks/) — *seangoedecke.com RSS feed* `07-02`
-- [★ A Tale of Two Modems](https://daringfireball.net/2026/07/a_tale_of_two_modems) — *Daring Fireball* `07-01`
-- [Bring Back Crappy Forums](https://feed.tedium.co/link/15204/17371410/online-web-forums-retrospective) — *Tedium: The Dull Side of the Internet.* `07-01`
 <!--BLOG_RADAR:end-->
 
 ---
