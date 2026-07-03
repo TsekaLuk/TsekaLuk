@@ -208,11 +208,11 @@ Last Updated: Friday, July 3rd, 2026, 10:26:12 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Truth Social Is Still Just Trump’s Blog](https://daringfireball.net/2025/06/truth_social_is_just_trumps_blog) — *Daring Fireball* `07-02`
-- [FBI Seizes NetNut Proxy Platform, Popa Botnet](https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/) — *Krebs on Security* `07-02`
-- [‘A Perfect Reflection of Trump’s Washington’](https://politicalwire.com/2026/06/19/a-perfect-reflection-of-trumps-washington/) — *Daring Fireball* `07-02`
-- [This Page Left Intentionally Blank](https://blog.jim-nielsen.com/2026/intentionally-blank/) — *Jim Nielsen’s Blog* `07-02`
-- [Claude Fable and Kayfabe](https://www.anthropic.com/news/redeploying-fable-5) — *Daring Fireball* `07-02`
+- [Discovering rsync's -W option and our use for it](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/RsyncWOptionUse) — *Chris's Wiki :: blog* `07-03`
+- [April Report From Ookla: ‘A Return to mmWave 5G’](https://www.ookla.com/articles/a-return-to-mmwave-5g) — *Daring Fireball* `07-02`
+- [Introducing the Safari MCP Server for Web Developers](https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/) — *Daring Fireball* `07-02`
+- [EveryMac Turns 30](https://everymac.com/whatsnew/) — *Daring Fireball* `07-02`
+- [I Repeat Myself (5G vs. LTE Edition)](https://daringfireball.net/linked/2022/03/23/5g-battery-life) — *Daring Fireball* `07-02`
 <!--BLOG_RADAR:end-->
 
 ---
