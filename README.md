@@ -208,11 +208,11 @@ Last Updated: Friday, July 3rd, 2026, 9:50:36 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Midnight Train to Stockholm](https://matduggan.com/midnight-train-to-stockholm/) — *matduggan.com* `07-03`
+- [The Fall and Rise of Screwworm](https://www.construction-physics.com/p/the-fall-and-rise-of-screwworm) — *Construction Physics* `07-03`
 - [Pluralistic: CARDiac, syntax coloring, view source and vibe code (03 Jul 2026)](https://pluralistic.net/2026/07/03/rod-logic/) — *Pluralistic: Daily links from Cory Doctorow* `07-03`
 - [Swimming Pools, Pee, and Trying to Delete Your Data From the Internet](https://www.troyhunt.com/swimming-pools-pee-and-trying-to-delete-your-data-from-the-internet/) — *Troy Hunt* `07-03`
 - [Discovering rsync's -W option and our use for it](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/RsyncWOptionUse) — *Chris's Wiki :: blog* `07-03`
-- [April Report From Ookla: ‘A Return to mmWave 5G’](https://www.ookla.com/articles/a-return-to-mmwave-5g) — *Daring Fireball* `07-02`
-- [Introducing the Safari MCP Server for Web Developers](https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/) — *Daring Fireball* `07-02`
 <!--BLOG_RADAR:end-->
 
 ---
