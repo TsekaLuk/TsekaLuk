@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 03 Jul 2026 03:53:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 09:29:16 +0000</lastBuildDate>
+    <item>
+      <title>Pluralistic: CARDiac, syntax coloring, view source and vibe code (03 Jul 2026)</title>
+      <link>https://pluralistic.net/2026/07/03/rod-logic/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/07/03/rod-logic/</guid>
+      <pubDate>Fri, 03 Jul 2026 09:00:15 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Swimming Pools, Pee, and Trying to Delete Your Data From the Internet</title>
+      <link>https://www.troyhunt.com/swimming-pools-pee-and-trying-to-delete-your-data-from-the-internet/</link>
+      <guid isPermaLink="true">https://www.troyhunt.com/swimming-pools-pee-and-trying-to-delete-your-data-from-the-internet/</guid>
+      <pubDate>Fri, 03 Jul 2026 06:52:41 +0000</pubDate>
+      <description>Troy Hunt</description>
+    </item>
     <item>
       <title>Discovering rsync's -W option and our use for it</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/RsyncWOptionUse</link>
@@ -130,13 +144,6 @@
       <guid isPermaLink="true">https://berthub.eu/articles/posts/digitale-autonomie-2-0-surf-privacy-security/</guid>
       <pubDate>Thu, 02 Jul 2026 11:37:00 +0000</pubDate>
       <description>Bert Hubert's writings</description>
-    </item>
-    <item>
-      <title>This blog is written in en-GB</title>
-      <link>https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/</guid>
-      <pubDate>Thu, 02 Jul 2026 11:34:59 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Understanding is the new bottleneck</title>
@@ -426,13 +433,6 @@
       <description>The Old New Thing</description>
     </item>
     <item>
-      <title>Book Review: Fake Creativity by Blake Loch ★★★☆☆</title>
-      <link>https://shkspr.mobi/blog/2026/06/book-review-fake-creativity-by-blake-loch/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/book-review-fake-creativity-by-blake-loch/</guid>
-      <pubDate>Tue, 30 Jun 2026 11:34:20 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>Pluralistic: Jo Walton's "Everybody's Perfect" (30 Jun 2026)</title>
       <link>https://pluralistic.net/2026/06/30/serenissima/</link>
       <guid isPermaLink="true">https://pluralistic.net/2026/06/30/serenissima/</guid>
@@ -620,13 +620,6 @@
       <guid isPermaLink="true">http://www.righto.com/2026/06/space-shuttle-io-processor-boards.html</guid>
       <pubDate>Sun, 28 Jun 2026 16:11:20 +0000</pubDate>
       <description>Ken Shirriff's blog</description>
-    </item>
-    <item>
-      <title>Book Review: The Hotel Avocado by Bob Mortimer ★★☆☆☆</title>
-      <link>https://shkspr.mobi/blog/2026/06/book-review-the-hotel-avocado-by-bob-mortimer/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/book-review-the-hotel-avocado-by-bob-mortimer/</guid>
-      <pubDate>Sun, 28 Jun 2026 11:34:45 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>The Laziest Generation</title>
@@ -844,6 +837,13 @@
       <guid isPermaLink="true">https://www.wheresyoured.at/premium-notes-from-the-bubble-volume-1/</guid>
       <pubDate>Fri, 26 Jun 2026 18:32:41 +0000</pubDate>
       <description>Ed Zitron's Where's Your Ed At</description>
+    </item>
+    <item>
+      <title>Incident Report: CVE-2026-LGTM</title>
+      <link>https://simonwillison.net/2026/Jun/26/incident-report/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/26/incident-report/#atom-everything</guid>
+      <pubDate>Fri, 26 Jun 2026 17:58:54 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
