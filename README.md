@@ -208,11 +208,11 @@ Last Updated: Saturday, July 4th, 2026, 3:10:28 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Fable's judgement](https://simonwillison.net/2026/Jul/3/judgement/#atom-everything) — *Simon Willison's Weblog* `07-03`
+- [The Life and Times of Maxis, Part 1: SimEverything](https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-1-simeverything/) — *The Digital Antiquarian* `07-03`
+- [June 2026 newsletter](https://simonwillison.net/2026/Jul/3/june-newsletter/#atom-everything) — *Simon Willison's Weblog* `07-03`
+- [How did we conclude that CcNamespace.dll was the ringleader of a group of DLLs that unloaded prematurely?](https://devblogs.microsoft.com/oldnewthing/20260703-00/?p=112504) — *The Old New Thing* `07-03`
 - [Midnight Train to Stockholm](https://matduggan.com/midnight-train-to-stockholm/) — *matduggan.com* `07-03`
-- [The Fall and Rise of Screwworm](https://www.construction-physics.com/p/the-fall-and-rise-of-screwworm) — *Construction Physics* `07-03`
-- [Pluralistic: CARDiac, syntax coloring, view source and vibe code (03 Jul 2026)](https://pluralistic.net/2026/07/03/rod-logic/) — *Pluralistic: Daily links from Cory Doctorow* `07-03`
-- [Swimming Pools, Pee, and Trying to Delete Your Data From the Internet](https://www.troyhunt.com/swimming-pools-pee-and-trying-to-delete-your-data-from-the-internet/) — *Troy Hunt* `07-03`
-- [Discovering rsync's -W option and our use for it](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/RsyncWOptionUse) — *Chris's Wiki :: blog* `07-03`
 <!--BLOG_RADAR:end-->
 
 ---

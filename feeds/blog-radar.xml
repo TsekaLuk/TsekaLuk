@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 03 Jul 2026 14:23:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 19:39:09 +0000</lastBuildDate>
+    <item>
+      <title>Fable's judgement</title>
+      <link>https://simonwillison.net/2026/Jul/3/judgement/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/3/judgement/#atom-everything</guid>
+      <pubDate>Fri, 03 Jul 2026 18:51:06 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>The Life and Times of Maxis, Part 1: SimEverything</title>
+      <link>https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-1-simeverything/</link>
+      <guid isPermaLink="true">https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-1-simeverything/</guid>
+      <pubDate>Fri, 03 Jul 2026 15:46:04 +0000</pubDate>
+      <description>The Digital Antiquarian</description>
+    </item>
+    <item>
+      <title>June 2026 newsletter</title>
+      <link>https://simonwillison.net/2026/Jul/3/june-newsletter/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/3/june-newsletter/#atom-everything</guid>
+      <pubDate>Fri, 03 Jul 2026 14:50:50 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>How did we conclude that CcNamespace.dll was the ringleader of a group of DLLs that unloaded prematurely?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260703-00/?p=112504</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260703-00/?p=112504</guid>
+      <pubDate>Fri, 03 Jul 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
     <item>
       <title>Midnight Train to Stockholm</title>
       <link>https://matduggan.com/midnight-train-to-stockholm/</link>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604ServerSoftwareRaidBoot</guid>
       <pubDate>Sat, 27 Jun 2026 03:28:54 +0000</pubDate>
       <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>Writing down harmonic numbers</title>
-      <link>https://www.johndcook.com/blog/2026/06/26/writing-down-harmonic-numbers/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/26/writing-down-harmonic-numbers/</guid>
-      <pubDate>Sat, 27 Jun 2026 01:51:03 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Saying the obvious thing</title>
-      <link>https://seangoedecke.com/saying-the-obvious-thing/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/saying-the-obvious-thing/</guid>
-      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>Arp 38: not that peculiar</title>
-      <link>https://maurycyz.com/astro/arp38/</link>
-      <guid isPermaLink="true">https://maurycyz.com/astro/arp38/</guid>
-      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
-    </item>
-    <item>
-      <title>★ Om</title>
-      <link>https://daringfireball.net/2026/06/om</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/06/om</guid>
-      <pubDate>Fri, 26 Jun 2026 23:22:50 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
