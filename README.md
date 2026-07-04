@@ -208,11 +208,11 @@ Last Updated: Saturday, July 4th, 2026, 10:24:46 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Fable's judgement](https://simonwillison.net/2026/Jul/3/judgement/#atom-everything) — *Simon Willison's Weblog* `07-03`
-- [The Life and Times of Maxis, Part 1: SimEverything](https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-1-simeverything/) — *The Digital Antiquarian* `07-03`
-- [June 2026 newsletter](https://simonwillison.net/2026/Jul/3/june-newsletter/#atom-everything) — *Simon Willison's Weblog* `07-03`
-- [How did we conclude that CcNamespace.dll was the ringleader of a group of DLLs that unloaded prematurely?](https://devblogs.microsoft.com/oldnewthing/20260703-00/?p=112504) — *The Old New Thing* `07-03`
-- [Midnight Train to Stockholm](https://matduggan.com/midnight-train-to-stockholm/) — *matduggan.com* `07-03`
+- [Does additional data always reduce posterior variance?](https://www.johndcook.com/blog/2026/07/03/does-additional-data-always-reduce-posterior-variance/) — *John D. Cook* `07-04`
+- [Go maps, hashes of map keys, and pointers: a little surprise](https://utcc.utoronto.ca/~cks/space/blog/programming/GoMapsHashesAndPointers) — *Chris's Wiki :: blog* `07-04`
+- [Open Source AI Gap Map](https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything) — *Simon Willison's Weblog* `07-03`
+- [Quoting Josh W. Comeau](https://simonwillison.net/2026/Jul/3/josh-w-comeau/#atom-everything) — *Simon Willison's Weblog* `07-03`
+- [★ Claude’s Criminally Bad Electron Mac App Is an Inside Job](https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job) — *Daring Fireball* `07-03`
 <!--BLOG_RADAR:end-->
 
 ---
