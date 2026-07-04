@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 04 Jul 2026 08:46:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 13:48:50 +0000</lastBuildDate>
+    <item>
+      <title>Reading List 07/04/26</title>
+      <link>https://www.construction-physics.com/p/reading-list-070426</link>
+      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-070426</guid>
+      <pubDate>Sat, 04 Jul 2026 12:03:22 +0000</pubDate>
+      <description>Construction Physics</description>
+    </item>
+    <item>
+      <title>Combined 1D and 2D Barcodes</title>
+      <link>https://shkspr.mobi/blog/2026/07/combined-1d-and-2d-barcodes/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/combined-1d-and-2d-barcodes/</guid>
+      <pubDate>Sat, 04 Jul 2026 11:34:57 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>This Week in Package Management: 4 July 2026</title>
+      <link>https://nesbitt.io/2026/07/04/this-week-in-package-management.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/07/04/this-week-in-package-management.html</guid>
+      <pubDate>Sat, 04 Jul 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
     <item>
       <title>Does additional data always reduce posterior variance?</title>
       <link>https://www.johndcook.com/blog/2026/07/03/does-additional-data-always-reduce-posterior-variance/</link>
@@ -566,13 +587,6 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Notes from June 2026</title>
-      <link>https://evanhahn.com/notes-from-june-2026/</link>
-      <guid isPermaLink="true">https://evanhahn.com/notes-from-june-2026/</guid>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Evan Hahn (dot com)</description>
-    </item>
-    <item>
       <title>HTML table extractor</title>
       <link>https://simonwillison.net/2026/Jun/29/html-table-extractor/#atom-everything</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Jun/29/html-table-extractor/#atom-everything</guid>
@@ -783,13 +797,6 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>The curious case of the disappearing Polish S</title>
-      <link>https://aresluna.org/the-curious-case-of-the-disappearing-polish-s</link>
-      <guid isPermaLink="true">https://aresluna.org/the-curious-case-of-the-disappearing-polish-s</guid>
-      <pubDate>Sat, 27 Jun 2026 21:20:04 +0000</pubDate>
-      <description>Aresluna</description>
-    </item>
-    <item>
       <title>FT Reports That Apple Is Lobbying to Buy Memory Chips From Blacklisted Chinese Company CXMT</title>
       <link>https://www.ft.com/content/d72a25e2-7bde-4aa9-bd8d-0c4f3d6cb2cb</link>
       <guid isPermaLink="true">https://www.ft.com/content/d72a25e2-7bde-4aa9-bd8d-0c4f3d6cb2cb</guid>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://feed.tedium.co/link/15204/17369108/apple-micron-ram-shortage-vertical-integration</guid>
       <pubDate>Sat, 27 Jun 2026 14:09:29 +0000</pubDate>
       <description>Tedium: The Dull Side of the Internet.</description>
-    </item>
-    <item>
-      <title>Height of harmonic numbers</title>
-      <link>https://www.johndcook.com/blog/2026/06/27/height-of-harmonic-numbers/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/27/height-of-harmonic-numbers/</guid>
-      <pubDate>Sat, 27 Jun 2026 12:51:42 +0000</pubDate>
-      <description>John D. Cook</description>
     </item>
   </channel>
 </rss>

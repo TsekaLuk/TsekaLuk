@@ -208,11 +208,11 @@ Last Updated: Saturday, July 4th, 2026, 9:11:05 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Reading List 07/04/26](https://www.construction-physics.com/p/reading-list-070426) — *Construction Physics* `07-04`
+- [Combined 1D and 2D Barcodes](https://shkspr.mobi/blog/2026/07/combined-1d-and-2d-barcodes/) — *Terence Eden’s Blog* `07-04`
+- [This Week in Package Management: 4 July 2026](https://nesbitt.io/2026/07/04/this-week-in-package-management.html) — *Andrew Nesbitt* `07-04`
 - [Does additional data always reduce posterior variance?](https://www.johndcook.com/blog/2026/07/03/does-additional-data-always-reduce-posterior-variance/) — *John D. Cook* `07-04`
 - [Go maps, hashes of map keys, and pointers: a little surprise](https://utcc.utoronto.ca/~cks/space/blog/programming/GoMapsHashesAndPointers) — *Chris's Wiki :: blog* `07-04`
-- [Open Source AI Gap Map](https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything) — *Simon Willison's Weblog* `07-03`
-- [Quoting Josh W. Comeau](https://simonwillison.net/2026/Jul/3/josh-w-comeau/#atom-everything) — *Simon Willison's Weblog* `07-03`
-- [★ Claude’s Criminally Bad Electron Mac App Is an Inside Job](https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job) — *Daring Fireball* `07-03`
 <!--BLOG_RADAR:end-->
 
 ---
