@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 04 Jul 2026 03:47:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 08:46:11 +0000</lastBuildDate>
     <item>
       <title>Does additional data always reduce posterior variance?</title>
       <link>https://www.johndcook.com/blog/2026/07/03/does-additional-data-always-reduce-posterior-variance/</link>
@@ -46,6 +46,13 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Jul/3/judgement/#atom-everything</guid>
       <pubDate>Fri, 03 Jul 2026 18:51:06 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>The Life and Times of Maxis, Part 1: SimEverything</title>
+      <link>https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-1-simeverything/</link>
+      <guid isPermaLink="true">https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-1-simeverything/</guid>
+      <pubDate>Fri, 03 Jul 2026 15:46:04 +0000</pubDate>
+      <description>The Digital Antiquarian</description>
     </item>
     <item>
       <title>June 2026 newsletter</title>
@@ -214,6 +221,13 @@
       <guid isPermaLink="true">https://berthub.eu/articles/posts/digitale-autonomie-2-0-surf-privacy-security/</guid>
       <pubDate>Thu, 02 Jul 2026 11:37:00 +0000</pubDate>
       <description>Bert Hubert's writings</description>
+    </item>
+    <item>
+      <title>This blog is written in en-GB</title>
+      <link>https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/</guid>
+      <pubDate>Thu, 02 Jul 2026 11:34:59 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Understanding is the new bottleneck</title>
@@ -503,6 +517,13 @@
       <description>The Old New Thing</description>
     </item>
     <item>
+      <title>Book Review: Fake Creativity by Blake Loch ★★★☆☆</title>
+      <link>https://shkspr.mobi/blog/2026/06/book-review-fake-creativity-by-blake-loch/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/book-review-fake-creativity-by-blake-loch/</guid>
+      <pubDate>Tue, 30 Jun 2026 11:34:20 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>Pluralistic: Jo Walton's "Everybody's Perfect" (30 Jun 2026)</title>
       <link>https://pluralistic.net/2026/06/30/serenissima/</link>
       <guid isPermaLink="true">https://pluralistic.net/2026/06/30/serenissima/</guid>
@@ -543,6 +564,13 @@
       <guid isPermaLink="true">https://www.reuters.com/business/media-telecom/apple-iphone-18-pro-supplier-list-parts-photos-exposed-tata-data-leak-2026-06-29/</guid>
       <pubDate>Tue, 30 Jun 2026 00:59:08 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Notes from June 2026</title>
+      <link>https://evanhahn.com/notes-from-june-2026/</link>
+      <guid isPermaLink="true">https://evanhahn.com/notes-from-june-2026/</guid>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Evan Hahn (dot com)</description>
     </item>
     <item>
       <title>HTML table extractor</title>
@@ -685,6 +713,13 @@
       <description>Ken Shirriff's blog</description>
     </item>
     <item>
+      <title>Book Review: The Hotel Avocado by Bob Mortimer ★★☆☆☆</title>
+      <link>https://shkspr.mobi/blog/2026/06/book-review-the-hotel-avocado-by-bob-mortimer/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/book-review-the-hotel-avocado-by-bob-mortimer/</guid>
+      <pubDate>Sun, 28 Jun 2026 11:34:45 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>The Laziest Generation</title>
       <link>https://idiallo.com/blog/the-laziest-generation</link>
       <guid isPermaLink="true">https://idiallo.com/blog/the-laziest-generation</guid>
@@ -748,6 +783,13 @@
       <description>Daring Fireball</description>
     </item>
     <item>
+      <title>The curious case of the disappearing Polish S</title>
+      <link>https://aresluna.org/the-curious-case-of-the-disappearing-polish-s</link>
+      <guid isPermaLink="true">https://aresluna.org/the-curious-case-of-the-disappearing-polish-s</guid>
+      <pubDate>Sat, 27 Jun 2026 21:20:04 +0000</pubDate>
+      <description>Aresluna</description>
+    </item>
+    <item>
       <title>FT Reports That Apple Is Lobbying to Buy Memory Chips From Blacklisted Chinese Company CXMT</title>
       <link>https://www.ft.com/content/d72a25e2-7bde-4aa9-bd8d-0c4f3d6cb2cb</link>
       <guid isPermaLink="true">https://www.ft.com/content/d72a25e2-7bde-4aa9-bd8d-0c4f3d6cb2cb</guid>
@@ -801,48 +843,6 @@
       <link>https://www.johndcook.com/blog/2026/06/27/height-of-harmonic-numbers/</link>
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/27/height-of-harmonic-numbers/</guid>
       <pubDate>Sat, 27 Jun 2026 12:51:42 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Reading List 06/27/26</title>
-      <link>https://www.construction-physics.com/p/reading-list-062726</link>
-      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-062726</guid>
-      <pubDate>Sat, 27 Jun 2026 12:02:02 +0000</pubDate>
-      <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>Pluralistic: Zuckerberg's increasingly bizarre war on whistleblowers (27 Jun 2026)</title>
-      <link>https://pluralistic.net/2026/06/27/zuckerstreisand-2/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/06/27/zuckerstreisand-2/</guid>
-      <pubDate>Sat, 27 Jun 2026 11:14:05 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>This Week in Package Management: 27 June 2026</title>
-      <link>https://nesbitt.io/2026/06/27/this-week-in-package-management.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/06/27/this-week-in-package-management.html</guid>
-      <pubDate>Sat, 27 Jun 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>All Chinese Models Will Be Illegal in 3... 2... 1...</title>
-      <link>https://idiallo.com/blog/all-chinese-models-will-be-illegal</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/all-chinese-models-will-be-illegal</guid>
-      <pubDate>Sat, 27 Jun 2026 03:32:38 +0000</pubDate>
-      <description>Software and Tech stories from an Insider - iDiallo.com</description>
-    </item>
-    <item>
-      <title>How your Ubuntu 26.04 server boots with a software RAID array root filesystem</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604ServerSoftwareRaidBoot</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604ServerSoftwareRaidBoot</guid>
-      <pubDate>Sat, 27 Jun 2026 03:28:54 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>Writing down harmonic numbers</title>
-      <link>https://www.johndcook.com/blog/2026/06/26/writing-down-harmonic-numbers/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/26/writing-down-harmonic-numbers/</guid>
-      <pubDate>Sat, 27 Jun 2026 01:51:03 +0000</pubDate>
       <description>John D. Cook</description>
     </item>
   </channel>
