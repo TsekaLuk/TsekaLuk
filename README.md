@@ -208,11 +208,11 @@ Last Updated: Sunday, July 5th, 2026, 3:01:30 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Fantastical 4.1.15 Adds Calendar Mirroring](https://flexibits.com/blog/2026/06/double-booked-never-heard-of-it-meet-calendar-mirroring-in-fantastical/) — *Daring Fireball* `07-04`
 - [Reading List 07/04/26](https://www.construction-physics.com/p/reading-list-070426) — *Construction Physics* `07-04`
 - [Combined 1D and 2D Barcodes](https://shkspr.mobi/blog/2026/07/combined-1d-and-2d-barcodes/) — *Terence Eden’s Blog* `07-04`
 - [This Week in Package Management: 4 July 2026](https://nesbitt.io/2026/07/04/this-week-in-package-management.html) — *Andrew Nesbitt* `07-04`
 - [Does additional data always reduce posterior variance?](https://www.johndcook.com/blog/2026/07/03/does-additional-data-always-reduce-posterior-variance/) — *John D. Cook* `07-04`
-- [Go maps, hashes of map keys, and pointers: a little surprise](https://utcc.utoronto.ca/~cks/space/blog/programming/GoMapsHashesAndPointers) — *Chris's Wiki :: blog* `07-04`
 <!--BLOG_RADAR:end-->
 
 ---

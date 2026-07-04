@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 04 Jul 2026 13:48:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 19:23:51 +0000</lastBuildDate>
+    <item>
+      <title>Fantastical 4.1.15 Adds Calendar Mirroring</title>
+      <link>https://flexibits.com/blog/2026/06/double-booked-never-heard-of-it-meet-calendar-mirroring-in-fantastical/</link>
+      <guid isPermaLink="true">https://flexibits.com/blog/2026/06/double-booked-never-heard-of-it-meet-calendar-mirroring-in-fantastical/</guid>
+      <pubDate>Sat, 04 Jul 2026 16:57:22 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Reading List 07/04/26</title>
       <link>https://www.construction-physics.com/p/reading-list-070426</link>
@@ -587,6 +594,13 @@
       <description>Daring Fireball</description>
     </item>
     <item>
+      <title>Notes from June 2026</title>
+      <link>https://evanhahn.com/notes-from-june-2026/</link>
+      <guid isPermaLink="true">https://evanhahn.com/notes-from-june-2026/</guid>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
+      <description>Evan Hahn (dot com)</description>
+    </item>
+    <item>
       <title>HTML table extractor</title>
       <link>https://simonwillison.net/2026/Jun/29/html-table-extractor/#atom-everything</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Jun/29/html-table-extractor/#atom-everything</guid>
@@ -797,6 +811,13 @@
       <description>Daring Fireball</description>
     </item>
     <item>
+      <title>The curious case of the disappearing Polish S</title>
+      <link>https://aresluna.org/the-curious-case-of-the-disappearing-polish-s</link>
+      <guid isPermaLink="true">https://aresluna.org/the-curious-case-of-the-disappearing-polish-s</guid>
+      <pubDate>Sat, 27 Jun 2026 21:20:04 +0000</pubDate>
+      <description>Aresluna</description>
+    </item>
+    <item>
       <title>FT Reports That Apple Is Lobbying to Buy Memory Chips From Blacklisted Chinese Company CXMT</title>
       <link>https://www.ft.com/content/d72a25e2-7bde-4aa9-bd8d-0c4f3d6cb2cb</link>
       <guid isPermaLink="true">https://www.ft.com/content/d72a25e2-7bde-4aa9-bd8d-0c4f3d6cb2cb</guid>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies</guid>
       <pubDate>Sat, 27 Jun 2026 19:37:58 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The Steam Machine</title>
-      <link>https://www.theverge.com/games/952765/steam-machine-review?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6Illsb3pPdVlCSmQiLCJwIjoiL2dhbWVzLzk1Mjc2NS9zdGVhbS1tYWNoaW5lLXJldmlldyIsImV4cCI6MTc4MzAxOTM4OCwiaWF0IjoxNzgyNTg3Mzg4fQ.ksUd5qynurLxKTvjnCTD3mj4xzH9gdFgqAzFJ577ZcE&amp;utm_medium=gift-link</link>
-      <guid isPermaLink="true">https://www.theverge.com/games/952765/steam-machine-review?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6Illsb3pPdVlCSmQiLCJwIjoiL2dhbWVzLzk1Mjc2NS9zdGVhbS1tYWNoaW5lLXJldmlldyIsImV4cCI6MTc4MzAxOTM4OCwiaWF0IjoxNzgyNTg3Mzg4fQ.ksUd5qynurLxKTvjnCTD3mj4xzH9gdFgqAzFJ577ZcE&amp;utm_medium=gift-link</guid>
-      <pubDate>Sat, 27 Jun 2026 19:14:16 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>When will the decimals in a/b repeat?</title>
-      <link>https://www.johndcook.com/blog/2026/06/27/decimal-period/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/27/decimal-period/</guid>
-      <pubDate>Sat, 27 Jun 2026 18:12:03 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Hazy Memory</title>
-      <link>https://feed.tedium.co/link/15204/17369108/apple-micron-ram-shortage-vertical-integration</link>
-      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17369108/apple-micron-ram-shortage-vertical-integration</guid>
-      <pubDate>Sat, 27 Jun 2026 14:09:29 +0000</pubDate>
-      <description>Tedium: The Dull Side of the Internet.</description>
     </item>
   </channel>
 </rss>
