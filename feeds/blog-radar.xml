@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 05 Jul 2026 13:55:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 19:34:13 +0000</lastBuildDate>
     <item>
       <title>sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)</title>
       <link>https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything</link>
@@ -18,6 +18,13 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Jul/5/sqlite-utils/#atom-everything</guid>
       <pubDate>Sun, 05 Jul 2026 00:47:38 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Travel notes: PLDI Boulder</title>
+      <link>https://bernsteinbear.com/blog/travel-notes-pldi-boulder/?utm_source=rss</link>
+      <guid isPermaLink="true">https://bernsteinbear.com/blog/travel-notes-pldi-boulder/?utm_source=rss</guid>
+      <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Max Bernstein's Blog</description>
     </item>
     <item>
       <title>What buffer size (OpenSSH) &lt;code&gt;ssh&lt;/code&gt; seems to use for streaming output</title>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://fabiensanglard.net/keyboards/index.html</guid>
       <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
       <description>Fabien Sanglard</description>
-    </item>
-    <item>
-      <title>★ Bernie Sanders: Ideologue and Economic Ignoramus</title>
-      <link>https://daringfireball.net/2026/06/bernie_sanders_ideologue</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/06/bernie_sanders_ideologue</guid>
-      <pubDate>Sat, 27 Jun 2026 23:35:00 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>

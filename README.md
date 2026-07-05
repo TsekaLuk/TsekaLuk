@@ -210,9 +210,9 @@ Last Updated: Monday, July 6th, 2026, 3:08:05 AM
 <!--BLOG_RADAR:start-->
 - [sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)](https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything) — *Simon Willison's Weblog* `07-05`
 - [sqlite-utils 4.0rc2](https://simonwillison.net/2026/Jul/5/sqlite-utils/#atom-everything) — *Simon Willison's Weblog* `07-05`
+- [Travel notes: PLDI Boulder](https://bernsteinbear.com/blog/travel-notes-pldi-boulder/?utm_source=rss) — *Max Bernstein's Blog* `07-05`
 - [What buffer size (OpenSSH) <code>ssh</code> seems to use for streaming output](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenSSHStdoutIOSize) — *Chris's Wiki :: blog* `07-04`
 - [Building a World Map with only 500 bytes](https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes/#atom-everything) — *Simon Willison's Weblog* `07-04`
-- [Better Models: Worse Tools](https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything) — *Simon Willison's Weblog* `07-04`
 <!--BLOG_RADAR:end-->
 
 ---
