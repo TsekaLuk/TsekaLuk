@@ -4,7 +4,56 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 04 Jul 2026 19:23:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 04:05:37 +0000</lastBuildDate>
+    <item>
+      <title>sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)</title>
+      <link>https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything</guid>
+      <pubDate>Sun, 05 Jul 2026 01:00:48 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>sqlite-utils 4.0rc2</title>
+      <link>https://simonwillison.net/2026/Jul/5/sqlite-utils/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/5/sqlite-utils/#atom-everything</guid>
+      <pubDate>Sun, 05 Jul 2026 00:47:38 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>What buffer size (OpenSSH) &lt;code&gt;ssh&lt;/code&gt; seems to use for streaming output</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenSSHStdoutIOSize</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenSSHStdoutIOSize</guid>
+      <pubDate>Sat, 04 Jul 2026 23:27:08 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>Building a World Map with only 500 bytes</title>
+      <link>https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes/#atom-everything</guid>
+      <pubDate>Sat, 04 Jul 2026 23:09:02 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Better Models: Worse Tools</title>
+      <link>https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything</guid>
+      <pubDate>Sat, 04 Jul 2026 22:53:52 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Day One Journal</title>
+      <link>https://dayoneapp.com/blog/introducing-daily-chat/</link>
+      <guid isPermaLink="true">https://dayoneapp.com/blog/introducing-daily-chat/</guid>
+      <pubDate>Sat, 04 Jul 2026 21:02:43 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>From the DF Archive: ‘Electron and the Decline of Native Apps’</title>
+      <link>https://daringfireball.net/2018/12/electron_and_the_decline_of_native_apps</link>
+      <guid isPermaLink="true">https://daringfireball.net/2018/12/electron_and_the_decline_of_native_apps</guid>
+      <pubDate>Sat, 04 Jul 2026 19:28:45 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Fantastical 4.1.15 Adds Calendar Mirroring</title>
       <link>https://flexibits.com/blog/2026/06/double-booked-never-heard-of-it-meet-calendar-mirroring-in-fantastical/</link>
@@ -46,6 +95,20 @@
       <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/programming/GoMapsHashesAndPointers</guid>
       <pubDate>Sat, 04 Jul 2026 02:01:44 +0000</pubDate>
       <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>Better Models: Worse Tools</title>
+      <link>https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/</guid>
+      <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Armin Ronacher's Thoughts and Writings</description>
+    </item>
+    <item>
+      <title>megawatts by microwave</title>
+      <link>https://computer.rip/2026-07-04-microwave-and-power.html</link>
+      <guid isPermaLink="true">https://computer.rip/2026-07-04-microwave-and-power.html</guid>
+      <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
+      <description>computers are bad</description>
     </item>
     <item>
       <title>Open Source AI Gap Map</title>
@@ -608,13 +671,6 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>[Sponsor] Day One Journal</title>
-      <link>https://dayoneapp.com/blog/introducing-daily-chat/</link>
-      <guid isPermaLink="true">https://dayoneapp.com/blog/introducing-daily-chat/</guid>
-      <pubDate>Mon, 29 Jun 2026 23:17:38 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
       <title>Data-directed programming in Haskell (SICP 2.4.3)</title>
       <link>https://entropicthoughts.com/sicp-2-4-data-directed-programming-in-haskell</link>
       <guid isPermaLink="true">https://entropicthoughts.com/sicp-2-4-data-directed-programming-in-haskell</guid>
@@ -787,62 +843,6 @@
       <link>https://daringfireball.net/2026/06/bernie_sanders_ideologue</link>
       <guid isPermaLink="true">https://daringfireball.net/2026/06/bernie_sanders_ideologue</guid>
       <pubDate>Sat, 27 Jun 2026 23:35:00 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Micron Executive Sumit Sadana Tells Tim Cook to Stop Hitting Himself</title>
-      <link>https://www.wsj.com/tech/apple-raises-prices-on-macs-ipads-by-200-or-more-on-some-models-a7463f99?st=B1aQCP&amp;reflink=desktopwebshare_permalink</link>
-      <guid isPermaLink="true">https://www.wsj.com/tech/apple-raises-prices-on-macs-ipads-by-200-or-more-on-some-models-a7463f99?st=B1aQCP&amp;reflink=desktopwebshare_permalink</guid>
-      <pubDate>Sat, 27 Jun 2026 23:30:00 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Apple Faced Bipartisan Opposition When It Last Lobbied to Buy Chinese RAM in 2022</title>
-      <link>https://www.warner.senate.gov/newsroom/press-releases/warner-rubio-urge-dni-to-review-risk-chinese-chipmaker-ymtc-presents-to-national-security/</link>
-      <guid isPermaLink="true">https://www.warner.senate.gov/newsroom/press-releases/warner-rubio-urge-dni-to-review-risk-chinese-chipmaker-ymtc-presents-to-national-security/</guid>
-      <pubDate>Sat, 27 Jun 2026 22:39:51 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Microsoft Raises Xbox Prices, Drops High-End Storage Model From Lineup</title>
-      <link>https://news.xbox.com/en-us/2026/06/25/xbox-console-price-update/</link>
-      <guid isPermaLink="true">https://news.xbox.com/en-us/2026/06/25/xbox-console-price-update/</guid>
-      <pubDate>Sat, 27 Jun 2026 22:15:28 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The curious case of the disappearing Polish S</title>
-      <link>https://aresluna.org/the-curious-case-of-the-disappearing-polish-s</link>
-      <guid isPermaLink="true">https://aresluna.org/the-curious-case-of-the-disappearing-polish-s</guid>
-      <pubDate>Sat, 27 Jun 2026 21:20:04 +0000</pubDate>
-      <description>Aresluna</description>
-    </item>
-    <item>
-      <title>FT Reports That Apple Is Lobbying to Buy Memory Chips From Blacklisted Chinese Company CXMT</title>
-      <link>https://www.ft.com/content/d72a25e2-7bde-4aa9-bd8d-0c4f3d6cb2cb</link>
-      <guid isPermaLink="true">https://www.ft.com/content/d72a25e2-7bde-4aa9-bd8d-0c4f3d6cb2cb</guid>
-      <pubDate>Sat, 27 Jun 2026 20:24:18 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Grok Is a Generative Porno App</title>
-      <link>https://www.theinformation.com/articles/xai-bets-groks-racy-side?rc=jfy0lk</link>
-      <guid isPermaLink="true">https://www.theinformation.com/articles/xai-bets-groks-racy-side?rc=jfy0lk</guid>
-      <pubDate>Sat, 27 Jun 2026 19:57:52 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>OpenAI Announces, But Is Blocked From Releasing, New GPT-5.6 Models</title>
-      <link>https://openai.com/index/previewing-gpt-5-6-sol/</link>
-      <guid isPermaLink="true">https://openai.com/index/previewing-gpt-5-6-sol/</guid>
-      <pubDate>Sat, 27 Jun 2026 19:49:41 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>White House Grants Access to Anthropic’s Mythos Model to 100+ U.S. Institutions; Fable Still Shut Down</title>
-      <link>https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies</link>
-      <guid isPermaLink="true">https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies</guid>
-      <pubDate>Sat, 27 Jun 2026 19:37:58 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
   </channel>
