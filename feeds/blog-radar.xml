@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 05 Jul 2026 09:15:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 13:55:08 +0000</lastBuildDate>
     <item>
       <title>sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)</title>
       <link>https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything</link>
@@ -67,6 +67,13 @@
       <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-070426</guid>
       <pubDate>Sat, 04 Jul 2026 12:03:22 +0000</pubDate>
       <description>Construction Physics</description>
+    </item>
+    <item>
+      <title>Combined 1D and 2D Barcodes</title>
+      <link>https://shkspr.mobi/blog/2026/07/combined-1d-and-2d-barcodes/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/combined-1d-and-2d-barcodes/</guid>
+      <pubDate>Sat, 04 Jul 2026 11:34:57 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>This Week in Package Management: 4 July 2026</title>
@@ -305,6 +312,13 @@
       <guid isPermaLink="true">https://berthub.eu/articles/posts/digitale-autonomie-2-0-surf-privacy-security/</guid>
       <pubDate>Thu, 02 Jul 2026 11:37:00 +0000</pubDate>
       <description>Bert Hubert's writings</description>
+    </item>
+    <item>
+      <title>This blog is written in en-GB</title>
+      <link>https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/</guid>
+      <pubDate>Thu, 02 Jul 2026 11:34:59 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Understanding is the new bottleneck</title>
@@ -594,6 +608,13 @@
       <description>The Old New Thing</description>
     </item>
     <item>
+      <title>Book Review: Fake Creativity by Blake Loch ★★★☆☆</title>
+      <link>https://shkspr.mobi/blog/2026/06/book-review-fake-creativity-by-blake-loch/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/book-review-fake-creativity-by-blake-loch/</guid>
+      <pubDate>Tue, 30 Jun 2026 11:34:20 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>Pluralistic: Jo Walton's "Everybody's Perfect" (30 Jun 2026)</title>
       <link>https://pluralistic.net/2026/06/30/serenissima/</link>
       <guid isPermaLink="true">https://pluralistic.net/2026/06/30/serenissima/</guid>
@@ -776,6 +797,13 @@
       <description>Ken Shirriff's blog</description>
     </item>
     <item>
+      <title>Book Review: The Hotel Avocado by Bob Mortimer ★★☆☆☆</title>
+      <link>https://shkspr.mobi/blog/2026/06/book-review-the-hotel-avocado-by-bob-mortimer/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/book-review-the-hotel-avocado-by-bob-mortimer/</guid>
+      <pubDate>Sun, 28 Jun 2026 11:34:45 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>The Laziest Generation</title>
       <link>https://idiallo.com/blog/the-laziest-generation</link>
       <guid isPermaLink="true">https://idiallo.com/blog/the-laziest-generation</guid>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://daringfireball.net/2026/06/bernie_sanders_ideologue</guid>
       <pubDate>Sat, 27 Jun 2026 23:35:00 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Micron Executive Sumit Sadana Tells Tim Cook to Stop Hitting Himself</title>
-      <link>https://www.wsj.com/tech/apple-raises-prices-on-macs-ipads-by-200-or-more-on-some-models-a7463f99?st=B1aQCP&amp;reflink=desktopwebshare_permalink</link>
-      <guid isPermaLink="true">https://www.wsj.com/tech/apple-raises-prices-on-macs-ipads-by-200-or-more-on-some-models-a7463f99?st=B1aQCP&amp;reflink=desktopwebshare_permalink</guid>
-      <pubDate>Sat, 27 Jun 2026 23:30:00 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Apple Faced Bipartisan Opposition When It Last Lobbied to Buy Chinese RAM in 2022</title>
-      <link>https://www.warner.senate.gov/newsroom/press-releases/warner-rubio-urge-dni-to-review-risk-chinese-chipmaker-ymtc-presents-to-national-security/</link>
-      <guid isPermaLink="true">https://www.warner.senate.gov/newsroom/press-releases/warner-rubio-urge-dni-to-review-risk-chinese-chipmaker-ymtc-presents-to-national-security/</guid>
-      <pubDate>Sat, 27 Jun 2026 22:39:51 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Microsoft Raises Xbox Prices, Drops High-End Storage Model From Lineup</title>
-      <link>https://news.xbox.com/en-us/2026/06/25/xbox-console-price-update/</link>
-      <guid isPermaLink="true">https://news.xbox.com/en-us/2026/06/25/xbox-console-price-update/</guid>
-      <pubDate>Sat, 27 Jun 2026 22:15:28 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The curious case of the disappearing Polish S</title>
-      <link>https://aresluna.org/the-curious-case-of-the-disappearing-polish-s</link>
-      <guid isPermaLink="true">https://aresluna.org/the-curious-case-of-the-disappearing-polish-s</guid>
-      <pubDate>Sat, 27 Jun 2026 21:20:04 +0000</pubDate>
-      <description>Aresluna</description>
     </item>
   </channel>
 </rss>
