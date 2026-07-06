@@ -208,11 +208,11 @@ Last Updated: Monday, July 6th, 2026, 6:05:43 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Amazon Basics, but for intellectual property.](https://idiallo.com/blog/amazon-basics-but-intellectual-property) — *Software and Tech stories from an Insider - iDiallo.com* `07-06`
+- [sqlite-utils 4.0rc3](https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything) — *Simon Willison's Weblog* `07-06`
 - [Sometimes it actually is the network: a war story](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SometimesItIsTheNetwork) — *Chris's Wiki :: blog* `07-06`
 - [C2PA only works if everything is signed](https://seangoedecke.com/c2pa-only-works-if-everything-is-signed/) — *seangoedecke.com RSS feed* `07-06`
-- [sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)](https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything) — *Simon Willison's Weblog* `07-05`
-- [sqlite-utils 4.0rc2](https://simonwillison.net/2026/Jul/5/sqlite-utils/#atom-everything) — *Simon Willison's Weblog* `07-05`
-- [Travel notes: PLDI Boulder](https://bernsteinbear.com/blog/travel-notes-pldi-boulder/?utm_source=rss) — *Max Bernstein's Blog* `07-05`
+- [Making a Shuffle Button](https://blog.jim-nielsen.com/2026/notes-shuffle/) — *Jim Nielsen’s Blog* `07-05`
 <!--BLOG_RADAR:end-->
 
 ---
