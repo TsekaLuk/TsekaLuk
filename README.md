@@ -208,11 +208,11 @@ Last Updated: Tuesday, July 7th, 2026, 3:47:50 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Backblaze Versus Dropbox](https://mjtsai.com/blog/2025/12/19/backblaze-no-longer-backs-up-dropbox/) — *Daring Fireball* `07-06`
+- [Allen Pike, Back in November: ‘Why Is ChatGPT for Mac So Good?’](https://allenpike.com/2025/why-is-chatgpt-so-good-claude/) — *Daring Fireball* `07-06`
+- [ATP Member Special: Mac-Assed Mac Apps](https://atp.fm/atp-dev-mac-assed-mac-apps) — *Daring Fireball* `07-06`
+- [Maestral, the Open Source Splendidly Simple Mac Dropbox Client, Has Been Retired](https://maestral.app/) — *Daring Fireball* `07-06`
 - [Jason Snell Ends His Column, and 28-Year Run, at Macworld](https://www.macworld.com/article/3175482) — *Daring Fireball* `07-06`
-- [Premium: The Hater's Guide To SoftBank](https://www.wheresyoured.at/premium-the-haters-guide-to-softbank/) — *Ed Zitron's Where's Your Ed At* `07-06`
-- [Reproducing a geometry theorem diagram](https://www.johndcook.com/blog/2026/07/06/arc-hypotenuse/) — *John D. Cook* `07-06`
-- [I opened a file with FILE_FLAG_DELETE_ON_CLOSE, but now I changed my mind](https://devblogs.microsoft.com/oldnewthing/20260706-00/?p=112506) — *The Old New Thing* `07-06`
-- [e approximation](https://www.johndcook.com/blog/2026/07/06/e-approximation/) — *John D. Cook* `07-06`
 <!--BLOG_RADAR:end-->
 
 ---

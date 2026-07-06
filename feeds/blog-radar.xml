@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 06 Jul 2026 15:48:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 20:06:56 +0000</lastBuildDate>
+    <item>
+      <title>Backblaze Versus Dropbox</title>
+      <link>https://mjtsai.com/blog/2025/12/19/backblaze-no-longer-backs-up-dropbox/</link>
+      <guid isPermaLink="true">https://mjtsai.com/blog/2025/12/19/backblaze-no-longer-backs-up-dropbox/</guid>
+      <pubDate>Mon, 06 Jul 2026 18:34:38 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Allen Pike, Back in November: ‘Why Is ChatGPT for Mac So Good?’</title>
+      <link>https://allenpike.com/2025/why-is-chatgpt-so-good-claude/</link>
+      <guid isPermaLink="true">https://allenpike.com/2025/why-is-chatgpt-so-good-claude/</guid>
+      <pubDate>Mon, 06 Jul 2026 17:37:05 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>ATP Member Special: Mac-Assed Mac Apps</title>
+      <link>https://atp.fm/atp-dev-mac-assed-mac-apps</link>
+      <guid isPermaLink="true">https://atp.fm/atp-dev-mac-assed-mac-apps</guid>
+      <pubDate>Mon, 06 Jul 2026 17:13:52 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Maestral, the Open Source Splendidly Simple Mac Dropbox Client, Has Been Retired</title>
+      <link>https://maestral.app/</link>
+      <guid isPermaLink="true">https://maestral.app/</guid>
+      <pubDate>Mon, 06 Jul 2026 17:04:44 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Jason Snell Ends His Column, and 28-Year Run, at Macworld</title>
       <link>https://www.macworld.com/article/3175482</link>
@@ -76,18 +104,18 @@
       <description>Chris's Wiki :: blog</description>
     </item>
     <item>
-      <title>Life with hazard ratios</title>
-      <link>https://dynomight.net/hazard-ratios/</link>
-      <guid isPermaLink="true">https://dynomight.net/hazard-ratios/</guid>
-      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
-    </item>
-    <item>
       <title>C2PA only works if everything is signed</title>
       <link>https://seangoedecke.com/c2pa-only-works-if-everything-is-signed/</link>
       <guid isPermaLink="true">https://seangoedecke.com/c2pa-only-works-if-everything-is-signed/</guid>
       <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Life with hazard ratios</title>
+      <link>https://dynomight.net/hazard-ratios/</link>
+      <guid isPermaLink="true">https://dynomight.net/hazard-ratios/</guid>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>Making a Shuffle Button</title>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/06/29/unbundling-the-standard-library.html</guid>
       <pubDate>Mon, 29 Jun 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>There's a plague of Googlebot impersonation going on (in June 2026)</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/web/GooglebotImpersonatorPlague</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/web/GooglebotImpersonatorPlague</guid>
-      <pubDate>Mon, 29 Jun 2026 03:18:27 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>I turned my prologue into a short video</title>
-      <link>https://idiallo.com/byte-size/my-prologue-to-short-video</link>
-      <guid isPermaLink="true">https://idiallo.com/byte-size/my-prologue-to-short-video</guid>
-      <pubDate>Mon, 29 Jun 2026 02:12:56 +0000</pubDate>
-      <description>Software and Tech stories from an Insider - iDiallo.com</description>
-    </item>
-    <item>
-      <title>Auth.md — an Open Protocol for Agent Registration From WorkOS</title>
-      <link>https://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026</link>
-      <guid isPermaLink="true">https://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q22026</guid>
-      <pubDate>Mon, 29 Jun 2026 01:32:24 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Daniel Agee: ‘Remembering Om’</title>
-      <link>https://glass.photo/highlights/remembering-om</link>
-      <guid isPermaLink="true">https://glass.photo/highlights/remembering-om</guid>
-      <pubDate>Mon, 29 Jun 2026 01:21:49 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
