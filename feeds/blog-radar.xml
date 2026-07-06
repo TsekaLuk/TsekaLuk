@@ -4,7 +4,56 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 06 Jul 2026 10:51:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 15:48:27 +0000</lastBuildDate>
+    <item>
+      <title>Jason Snell Ends His Column, and 28-Year Run, at Macworld</title>
+      <link>https://www.macworld.com/article/3175482</link>
+      <guid isPermaLink="true">https://www.macworld.com/article/3175482</guid>
+      <pubDate>Mon, 06 Jul 2026 14:35:02 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Premium: The Hater's Guide To SoftBank</title>
+      <link>https://www.wheresyoured.at/premium-the-haters-guide-to-softbank/</link>
+      <guid isPermaLink="true">https://www.wheresyoured.at/premium-the-haters-guide-to-softbank/</guid>
+      <pubDate>Mon, 06 Jul 2026 14:23:20 +0000</pubDate>
+      <description>Ed Zitron's Where's Your Ed At</description>
+    </item>
+    <item>
+      <title>Reproducing a geometry theorem diagram</title>
+      <link>https://www.johndcook.com/blog/2026/07/06/arc-hypotenuse/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/07/06/arc-hypotenuse/</guid>
+      <pubDate>Mon, 06 Jul 2026 14:22:35 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>I opened a file with FILE_FLAG_DELETE_ON_CLOSE, but now I changed my mind</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260706-00/?p=112506</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260706-00/?p=112506</guid>
+      <pubDate>Mon, 06 Jul 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>e approximation</title>
+      <link>https://www.johndcook.com/blog/2026/07/06/e-approximation/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/07/06/e-approximation/</guid>
+      <pubDate>Mon, 06 Jul 2026 12:22:29 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>I'm just so bored of AI</title>
+      <link>https://shkspr.mobi/blog/2026/07/im-just-so-bored-of-ai/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/im-just-so-bored-of-ai/</guid>
+      <pubDate>Mon, 06 Jul 2026 11:34:18 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>My blog has moved</title>
+      <link>https://mjg59.dreamwidth.org/74260.html</link>
+      <guid isPermaLink="true">https://mjg59.dreamwidth.org/74260.html</guid>
+      <pubDate>Mon, 06 Jul 2026 09:03:04 +0000</pubDate>
+      <description>Matthew Garrett</description>
+    </item>
     <item>
       <title>Amazon Basics, but for intellectual property.</title>
       <link>https://idiallo.com/blog/amazon-basics-but-intellectual-property</link>
@@ -25,6 +74,13 @@
       <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SometimesItIsTheNetwork</guid>
       <pubDate>Mon, 06 Jul 2026 02:13:18 +0000</pubDate>
       <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>Life with hazard ratios</title>
+      <link>https://dynomight.net/hazard-ratios/</link>
+      <guid isPermaLink="true">https://dynomight.net/hazard-ratios/</guid>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>C2PA only works if everything is signed</title>
@@ -788,62 +844,6 @@
       <guid isPermaLink="true">https://glass.photo/highlights/remembering-om</guid>
       <pubDate>Mon, 29 Jun 2026 01:21:49 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Matt Mullenweg: ‘All Roads Lead to Om’</title>
-      <link>https://ma.tt/2026/06/om-forever/</link>
-      <guid isPermaLink="true">https://ma.tt/2026/06/om-forever/</guid>
-      <pubDate>Mon, 29 Jun 2026 01:08:13 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The New York Times: ‘Om Malik, Whose Blog Shaped How Silicon Valley Saw Itself, Dies at 59’</title>
-      <link>https://www.nytimes.com/2026/06/26/technology/om-malik-dead.html?unlocked_article_code=1.t1A.AyPT.p7GhDrDcJSfa</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/26/technology/om-malik-dead.html?unlocked_article_code=1.t1A.AyPT.p7GhDrDcJSfa</guid>
-      <pubDate>Mon, 29 Jun 2026 00:25:37 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Quoting Jon Udell</title>
-      <link>https://simonwillison.net/2026/Jun/28/jon-udell/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/28/jon-udell/#atom-everything</guid>
-      <pubDate>Sun, 28 Jun 2026 21:57:41 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Hack Your Summer</title>
-      <link>https://simonwillison.net/2026/Jun/28/hack-your-summer/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/28/hack-your-summer/#atom-everything</guid>
-      <pubDate>Sun, 28 Jun 2026 19:26:11 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Notes from Bryan Cantrill’s “Intelligence is not Enough”</title>
-      <link>https://blog.jim-nielsen.com/2026/intelligence-isnt-enough/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/intelligence-isnt-enough/</guid>
-      <pubDate>Sun, 28 Jun 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
-      <title>PuffPal, an App for Accessing Cannabis Clubs, Leaked 1 Million Users’ Passports</title>
-      <link>https://www.theverge.com/tech/947157/passports-data-breach-cannabis-club-systems-nefos-puffpal?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjdjV0Y5TTBuM0ciLCJwIjoiL3RlY2gvOTQ3MTU3L3Bhc3Nwb3J0cy1kYXRhLWJyZWFjaC1jYW5uYWJpcy1jbHViLXN5c3RlbXMtbmVmb3MtcHVmZnBhbCIsImV4cCI6MTc4MzA5NDY0NiwiaWF0IjoxNzgyNjYyNjQ2fQ.7SjX6B8AAGhzsdrtD5asJWBwzQvTDUD31hWte7K1oec</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/947157/passports-data-breach-cannabis-club-systems-nefos-puffpal?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjdjV0Y5TTBuM0ciLCJwIjoiL3RlY2gvOTQ3MTU3L3Bhc3Nwb3J0cy1kYXRhLWJyZWFjaC1jYW5uYWJpcy1jbHViLXN5c3RlbXMtbmVmb3MtcHVmZnBhbCIsImV4cCI6MTc4MzA5NDY0NiwiaWF0IjoxNzgyNjYyNjQ2fQ.7SjX6B8AAGhzsdrtD5asJWBwzQvTDUD31hWte7K1oec</guid>
-      <pubDate>Sun, 28 Jun 2026 17:21:42 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Examining circuit boards from the Space Shuttle's I/O Processor</title>
-      <link>http://www.righto.com/2026/06/space-shuttle-io-processor-boards.html</link>
-      <guid isPermaLink="true">http://www.righto.com/2026/06/space-shuttle-io-processor-boards.html</guid>
-      <pubDate>Sun, 28 Jun 2026 16:11:20 +0000</pubDate>
-      <description>Ken Shirriff's blog</description>
-    </item>
-    <item>
-      <title>Book Review: The Hotel Avocado by Bob Mortimer ★★☆☆☆</title>
-      <link>https://shkspr.mobi/blog/2026/06/book-review-the-hotel-avocado-by-bob-mortimer/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/book-review-the-hotel-avocado-by-bob-mortimer/</guid>
-      <pubDate>Sun, 28 Jun 2026 11:34:45 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
   </channel>
 </rss>

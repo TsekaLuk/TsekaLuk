@@ -208,11 +208,11 @@ Last Updated: Monday, July 6th, 2026, 11:19:28 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Amazon Basics, but for intellectual property.](https://idiallo.com/blog/amazon-basics-but-intellectual-property) — *Software and Tech stories from an Insider - iDiallo.com* `07-06`
-- [sqlite-utils 4.0rc3](https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything) — *Simon Willison's Weblog* `07-06`
-- [Sometimes it actually is the network: a war story](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SometimesItIsTheNetwork) — *Chris's Wiki :: blog* `07-06`
-- [C2PA only works if everything is signed](https://seangoedecke.com/c2pa-only-works-if-everything-is-signed/) — *seangoedecke.com RSS feed* `07-06`
-- [Making a Shuffle Button](https://blog.jim-nielsen.com/2026/notes-shuffle/) — *Jim Nielsen’s Blog* `07-05`
+- [Jason Snell Ends His Column, and 28-Year Run, at Macworld](https://www.macworld.com/article/3175482) — *Daring Fireball* `07-06`
+- [Premium: The Hater's Guide To SoftBank](https://www.wheresyoured.at/premium-the-haters-guide-to-softbank/) — *Ed Zitron's Where's Your Ed At* `07-06`
+- [Reproducing a geometry theorem diagram](https://www.johndcook.com/blog/2026/07/06/arc-hypotenuse/) — *John D. Cook* `07-06`
+- [I opened a file with FILE_FLAG_DELETE_ON_CLOSE, but now I changed my mind](https://devblogs.microsoft.com/oldnewthing/20260706-00/?p=112506) — *The Old New Thing* `07-06`
+- [e approximation](https://www.johndcook.com/blog/2026/07/06/e-approximation/) — *John D. Cook* `07-06`
 <!--BLOG_RADAR:end-->
 
 ---
