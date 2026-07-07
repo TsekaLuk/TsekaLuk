@@ -208,11 +208,11 @@ Last Updated: Tuesday, July 7th, 2026, 10:34:17 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Using Linux <code>tc</code> to limit the outgoing bandwidth of a web server](https://utcc.utoronto.ca/~cks/space/blog/linux/TcLimitServiceBandwidth) — *Chris's Wiki :: blog* `07-07`
+- [tencent/Hy3](https://simonwillison.net/2026/Jul/6/hy3/#atom-everything) — *Simon Willison's Weblog* `07-06`
+- [★ Apple Should Eliminate the App Icon ‘Squircle Jail’](https://daringfireball.net/2026/07/eliminate_app_icon_squircle_jail) — *Daring Fireball* `07-06`
+- [Markdown Now Has a UTI in Apple’s Version 27 OSes](https://developer.apple.com/documentation/uniformtypeidentifiers/uttype-swift.struct/markdown) — *Daring Fireball* `07-06`
 - [Backblaze Versus Dropbox](https://mjtsai.com/blog/2025/12/19/backblaze-no-longer-backs-up-dropbox/) — *Daring Fireball* `07-06`
-- [Allen Pike, Back in November: ‘Why Is ChatGPT for Mac So Good?’](https://allenpike.com/2025/why-is-chatgpt-so-good-claude/) — *Daring Fireball* `07-06`
-- [ATP Member Special: Mac-Assed Mac Apps](https://atp.fm/atp-dev-mac-assed-mac-apps) — *Daring Fireball* `07-06`
-- [Maestral, the Open Source Splendidly Simple Mac Dropbox Client, Has Been Retired](https://maestral.app/) — *Daring Fireball* `07-06`
-- [Jason Snell Ends His Column, and 28-Year Run, at Macworld](https://www.macworld.com/article/3175482) — *Daring Fireball* `07-06`
 <!--BLOG_RADAR:end-->
 
 ---
