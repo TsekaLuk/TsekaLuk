@@ -208,11 +208,11 @@ Last Updated: Wednesday, July 8th, 2026, 3:46:40 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [sqlite-utils 4.0, now with database schema migrations](https://simonwillison.net/2026/Jul/7/sqlite-utils-4/#atom-everything) — *Simon Willison's Weblog* `07-07`
+- [Let AI Burn](https://www.wheresyoured.at/let-ai-burn/) — *Ed Zitron's Where's Your Ed At* `07-07`
+- [OS 27 Developer Beta 3 Enables New ‘Pace’ and ‘Expressivity’ Sliders for Siri’s New Voices](https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/) — *Daring Fireball* `07-07`
 - [How did Windows 95 decide that a setup program ran?](https://devblogs.microsoft.com/oldnewthing/20260707-00/?p=112508) — *The Old New Thing* `07-07`
 - [Pluralistic: How US states and international trustbusters can beat Big Tech (07 Jul 2026)](https://pluralistic.net/2026/07/07/going-global/) — *Pluralistic: Daily links from Cory Doctorow* `07-07`
-- [Content addressing in package managers](https://nesbitt.io/2026/07/07/content-addressing-in-package-managers.html) — *Andrew Nesbitt* `07-07`
-- [Kort geding aandeelhouders Solvinity](https://berthub.eu/articles/posts/kort-geding-aandeelhouder-solvinity/) — *Bert Hubert's writings* `07-07`
-- [Using Linux <code>tc</code> to limit the outgoing bandwidth of a web server](https://utcc.utoronto.ca/~cks/space/blog/linux/TcLimitServiceBandwidth) — *Chris's Wiki :: blog* `07-07`
 <!--BLOG_RADAR:end-->
 
 ---

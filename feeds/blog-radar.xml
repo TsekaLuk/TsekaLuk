@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 07 Jul 2026 14:52:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 20:05:57 +0000</lastBuildDate>
+    <item>
+      <title>sqlite-utils 4.0, now with database schema migrations</title>
+      <link>https://simonwillison.net/2026/Jul/7/sqlite-utils-4/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/7/sqlite-utils-4/#atom-everything</guid>
+      <pubDate>Tue, 07 Jul 2026 19:32:57 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Let AI Burn</title>
+      <link>https://www.wheresyoured.at/let-ai-burn/</link>
+      <guid isPermaLink="true">https://www.wheresyoured.at/let-ai-burn/</guid>
+      <pubDate>Tue, 07 Jul 2026 17:09:10 +0000</pubDate>
+      <description>Ed Zitron's Where's Your Ed At</description>
+    </item>
+    <item>
+      <title>OS 27 Developer Beta 3 Enables New ‘Pace’ and ‘Expressivity’ Sliders for Siri’s New Voices</title>
+      <link>https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/</guid>
+      <pubDate>Tue, 07 Jul 2026 15:22:26 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>How did Windows 95 decide that a setup program ran?</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260707-00/?p=112508</link>
@@ -69,7 +90,7 @@
       <description>Entropic Thoughts</description>
     </item>
     <item>
-      <title>Markdown Now Has a UTI in Apple’s Version 27 OSes</title>
+      <title>Markdown Now Has a Uniform Type Identifer (UTI) in Apple’s Version 27 OSes</title>
       <link>https://developer.apple.com/documentation/uniformtypeidentifiers/uttype-swift.struct/markdown</link>
       <guid isPermaLink="true">https://developer.apple.com/documentation/uniformtypeidentifiers/uttype-swift.struct/markdown</guid>
       <pubDate>Mon, 06 Jul 2026 20:38:43 +0000</pubDate>
@@ -174,18 +195,18 @@
       <description>Chris's Wiki :: blog</description>
     </item>
     <item>
-      <title>C2PA only works if everything is signed</title>
-      <link>https://seangoedecke.com/c2pa-only-works-if-everything-is-signed/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/c2pa-only-works-if-everything-is-signed/</guid>
-      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
       <title>Stephan's Quintet</title>
       <link>https://maurycyz.com/astro/h92/</link>
       <guid isPermaLink="true">https://maurycyz.com/astro/h92/</guid>
       <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
       <description>Maurycy's Blog</description>
+    </item>
+    <item>
+      <title>C2PA only works if everything is signed</title>
+      <link>https://seangoedecke.com/c2pa-only-works-if-everything-is-signed/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/c2pa-only-works-if-everything-is-signed/</guid>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>Life with hazard ratios</title>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/book-review-fake-creativity-by-blake-loch/</guid>
       <pubDate>Tue, 30 Jun 2026 11:34:20 +0000</pubDate>
       <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Pluralistic: Jo Walton's "Everybody's Perfect" (30 Jun 2026)</title>
-      <link>https://pluralistic.net/2026/06/30/serenissima/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/06/30/serenissima/</guid>
-      <pubDate>Tue, 30 Jun 2026 11:22:50 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Taking Roads and Bridges literally</title>
-      <link>https://nesbitt.io/2026/06/30/taking-roads-and-bridges-literally.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/06/30/taking-roads-and-bridges-literally.html</guid>
-      <pubDate>Tue, 30 Jun 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>The Dating App Plot Device</title>
-      <link>https://idiallo.com/blog/dating-plot-device</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/dating-plot-device</guid>
-      <pubDate>Tue, 30 Jun 2026 07:00:00 +0000</pubDate>
-      <description>Software and Tech stories from an Insider - iDiallo.com</description>
     </item>
   </channel>
 </rss>
