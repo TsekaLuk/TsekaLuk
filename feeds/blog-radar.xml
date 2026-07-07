@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 07 Jul 2026 09:53:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 14:52:28 +0000</lastBuildDate>
+    <item>
+      <title>How did Windows 95 decide that a setup program ran?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260707-00/?p=112508</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260707-00/?p=112508</guid>
+      <pubDate>Tue, 07 Jul 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>Pluralistic: How US states and international trustbusters can beat Big Tech (07 Jul 2026)</title>
+      <link>https://pluralistic.net/2026/07/07/going-global/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/07/07/going-global/</guid>
+      <pubDate>Tue, 07 Jul 2026 12:24:15 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Content addressing in package managers</title>
+      <link>https://nesbitt.io/2026/07/07/content-addressing-in-package-managers.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/07/07/content-addressing-in-package-managers.html</guid>
+      <pubDate>Tue, 07 Jul 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
     <item>
       <title>Kort geding aandeelhouders Solvinity</title>
       <link>https://berthub.eu/articles/posts/kort-geding-aandeelhouder-solvinity/</link>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://idiallo.com/blog/dating-plot-device</guid>
       <pubDate>Tue, 30 Jun 2026 07:00:00 +0000</pubDate>
       <description>Software and Tech stories from an Insider - iDiallo.com</description>
-    </item>
-    <item>
-      <title>As expected, using kexec to switch to a new Ubuntu kernel works</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuKexecRestartWorks</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuKexecRestartWorks</guid>
-      <pubDate>Tue, 30 Jun 2026 03:10:12 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>Derivative equals inverse</title>
-      <link>https://www.johndcook.com/blog/2026/06/29/derivative-equals-inverse/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/29/derivative-equals-inverse/</guid>
-      <pubDate>Tue, 30 Jun 2026 01:06:12 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Data Breach at Indian Supplier Tata Electronics Exposes iPhone 18 Pro Details and Photos</title>
-      <link>https://www.reuters.com/business/media-telecom/apple-iphone-18-pro-supplier-list-parts-photos-exposed-tata-data-leak-2026-06-29/</link>
-      <guid isPermaLink="true">https://www.reuters.com/business/media-telecom/apple-iphone-18-pro-supplier-list-parts-photos-exposed-tata-data-leak-2026-06-29/</guid>
-      <pubDate>Tue, 30 Jun 2026 00:59:08 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>

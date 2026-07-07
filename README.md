@@ -208,11 +208,11 @@ Last Updated: Tuesday, July 7th, 2026, 10:17:32 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [How did Windows 95 decide that a setup program ran?](https://devblogs.microsoft.com/oldnewthing/20260707-00/?p=112508) — *The Old New Thing* `07-07`
+- [Pluralistic: How US states and international trustbusters can beat Big Tech (07 Jul 2026)](https://pluralistic.net/2026/07/07/going-global/) — *Pluralistic: Daily links from Cory Doctorow* `07-07`
+- [Content addressing in package managers](https://nesbitt.io/2026/07/07/content-addressing-in-package-managers.html) — *Andrew Nesbitt* `07-07`
 - [Kort geding aandeelhouders Solvinity](https://berthub.eu/articles/posts/kort-geding-aandeelhouder-solvinity/) — *Bert Hubert's writings* `07-07`
 - [Using Linux <code>tc</code> to limit the outgoing bandwidth of a web server](https://utcc.utoronto.ca/~cks/space/blog/linux/TcLimitServiceBandwidth) — *Chris's Wiki :: blog* `07-07`
-- [Blog about things you don't understand yet](https://seangoedecke.com/blog-about-things-you-dont-understand-yet/) — *seangoedecke.com RSS feed* `07-07`
-- [tencent/Hy3](https://simonwillison.net/2026/Jul/6/hy3/#atom-everything) — *Simon Willison's Weblog* `07-06`
-- [★ Apple Should Eliminate the App Icon ‘Squircle Jail’](https://daringfireball.net/2026/07/eliminate_app_icon_squircle_jail) — *Daring Fireball* `07-06`
 <!--BLOG_RADAR:end-->
 
 ---
