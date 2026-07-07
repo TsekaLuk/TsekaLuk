@@ -4,13 +4,27 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 07 Jul 2026 04:02:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 09:53:49 +0000</lastBuildDate>
+    <item>
+      <title>Kort geding aandeelhouders Solvinity</title>
+      <link>https://berthub.eu/articles/posts/kort-geding-aandeelhouder-solvinity/</link>
+      <guid isPermaLink="true">https://berthub.eu/articles/posts/kort-geding-aandeelhouder-solvinity/</guid>
+      <pubDate>Tue, 07 Jul 2026 09:20:00 +0000</pubDate>
+      <description>Bert Hubert's writings</description>
+    </item>
     <item>
       <title>Using Linux &lt;code&gt;tc&lt;/code&gt; to limit the outgoing bandwidth of a web server</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/linux/TcLimitServiceBandwidth</link>
       <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/linux/TcLimitServiceBandwidth</guid>
       <pubDate>Tue, 07 Jul 2026 03:05:39 +0000</pubDate>
       <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>Blog about things you don't understand yet</title>
+      <link>https://seangoedecke.com/blog-about-things-you-dont-understand-yet/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/blog-about-things-you-dont-understand-yet/</guid>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>tencent/Hy3</title>
@@ -25,6 +39,13 @@
       <guid isPermaLink="true">https://daringfireball.net/2026/07/eliminate_app_icon_squircle_jail</guid>
       <pubDate>Mon, 06 Jul 2026 22:23:46 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>A full body MRI earns you a year of smoking</title>
+      <link>https://entropicthoughts.com/full-body-mri-earns-you-a-base-jump</link>
+      <guid isPermaLink="true">https://entropicthoughts.com/full-body-mri-earns-you-a-base-jump</guid>
+      <pubDate>Mon, 06 Jul 2026 22:00:00 +0000</pubDate>
+      <description>Entropic Thoughts</description>
     </item>
     <item>
       <title>Markdown Now Has a UTI in Apple’s Version 27 OSes</title>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://www.reuters.com/business/media-telecom/apple-iphone-18-pro-supplier-list-parts-photos-exposed-tata-data-leak-2026-06-29/</guid>
       <pubDate>Tue, 30 Jun 2026 00:59:08 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Notes from June 2026</title>
-      <link>https://evanhahn.com/notes-from-june-2026/</link>
-      <guid isPermaLink="true">https://evanhahn.com/notes-from-june-2026/</guid>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-      <description>Evan Hahn (dot com)</description>
-    </item>
-    <item>
-      <title>HTML table extractor</title>
-      <link>https://simonwillison.net/2026/Jun/29/html-table-extractor/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/29/html-table-extractor/#atom-everything</guid>
-      <pubDate>Mon, 29 Jun 2026 23:38:21 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Data-directed programming in Haskell (SICP 2.4.3)</title>
-      <link>https://entropicthoughts.com/sicp-2-4-data-directed-programming-in-haskell</link>
-      <guid isPermaLink="true">https://entropicthoughts.com/sicp-2-4-data-directed-programming-in-haskell</guid>
-      <pubDate>Mon, 29 Jun 2026 22:00:00 +0000</pubDate>
-      <description>Entropic Thoughts</description>
     </item>
   </channel>
 </rss>
