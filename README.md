@@ -208,11 +208,11 @@ Last Updated: Thursday, July 9th, 2026, 3:15:55 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [[Sponsor] WorkOS Pipes: More Context Makes for Smarter Products](https://workos.com/pipes?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026) — *Daring Fireball* `07-08`
-- [The Special Value Pi 4 was extremely short-lived](https://www.jeffgeerling.com/blog/2026/special-value-pi-4-extremely-short-lived/) — *Jeff Geerling* `07-08`
-- [The other kind of control flow guard check: The combined validate and call](https://devblogs.microsoft.com/oldnewthing/20260708-00/?p=112510) — *The Old New Thing* `07-08`
-- [Weekly Update 511: Live from my Riad in Marrakech](https://www.troyhunt.com/weekly-update-511/) — *Troy Hunt* `07-08`
-- [Felons, Fraudsters Flog Offensive Cybersecurity Startup](https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/) — *Krebs on Security* `07-08`
+- [Family Feud: Mac-assed Mac App Edition](https://blog.jim-nielsen.com/2026/mac-assed-family-feud/) — *Jim Nielsen’s Blog* `07-08`
+- [Writing an LLM from scratch, part 34b -- from bigrams to GPT-2, one component at a time (in JAX)](https://www.gilesthomas.com/2026/07/llm-from-scratch-34b-building-and-training-gpt-2-small-in-jax) — *Giles' blog* `07-08`
+- [My Conversation With ELIZA](https://sites.google.com/view/elizaarchaeology/try-eliza?authuser=0) — *Daring Fireball* `07-08`
+- [The ELIZA Archaeology Project](https://findingeliza.org/) — *Daring Fireball* `07-08`
+- [The Decline of Deviance 2](https://www.experimental-history.com/p/the-decline-of-deviance-2) — *Experimental History* `07-08`
 <!--BLOG_RADAR:end-->
 
 ---
