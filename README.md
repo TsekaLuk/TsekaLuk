@@ -208,11 +208,11 @@ Last Updated: Wednesday, July 8th, 2026, 9:49:25 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [And Then the Billionaire Paid Off $550 Million of Our Debts](https://idiallo.com/blog/billionaire-paid-off-550-million-dollars-of-our-debts) — *Software and Tech stories from an Insider - iDiallo.com* `07-08`
-- [Notes on pulling from multiple upstream Git mirrors](https://utcc.utoronto.ca/~cks/space/blog/programming/GitPullingFromMirrors) — *Chris's Wiki :: blog* `07-08`
-- [Our mixed building network wiring and its consequences](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OurMixedBuildingWiring) — *Chris's Wiki :: blog* `07-07`
-- [sqlite-utils 4.0, now with database schema migrations](https://simonwillison.net/2026/Jul/7/sqlite-utils-4/#atom-everything) — *Simon Willison's Weblog* `07-07`
-- [Let AI Burn](https://www.wheresyoured.at/let-ai-burn/) — *Ed Zitron's Where's Your Ed At* `07-07`
+- [[Sponsor] WorkOS Pipes: More Context Makes for Smarter Products](https://workos.com/pipes?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026) — *Daring Fireball* `07-08`
+- [The Special Value Pi 4 was extremely short-lived](https://www.jeffgeerling.com/blog/2026/special-value-pi-4-extremely-short-lived/) — *Jeff Geerling* `07-08`
+- [The other kind of control flow guard check: The combined validate and call](https://devblogs.microsoft.com/oldnewthing/20260708-00/?p=112510) — *The Old New Thing* `07-08`
+- [Weekly Update 511: Live from my Riad in Marrakech](https://www.troyhunt.com/weekly-update-511/) — *Troy Hunt* `07-08`
+- [Felons, Fraudsters Flog Offensive Cybersecurity Startup](https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/) — *Krebs on Security* `07-08`
 <!--BLOG_RADAR:end-->
 
 ---

@@ -4,7 +4,49 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 08 Jul 2026 08:38:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 14:30:08 +0000</lastBuildDate>
+    <item>
+      <title>[Sponsor] WorkOS Pipes: More Context Makes for Smarter Products</title>
+      <link>https://workos.com/pipes?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</link>
+      <guid isPermaLink="true">https://workos.com/pipes?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</guid>
+      <pubDate>Wed, 08 Jul 2026 14:15:28 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>The Special Value Pi 4 was extremely short-lived</title>
+      <link>https://www.jeffgeerling.com/blog/2026/special-value-pi-4-extremely-short-lived/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/special-value-pi-4-extremely-short-lived/</guid>
+      <pubDate>Wed, 08 Jul 2026 14:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>The other kind of control flow guard check: The combined validate and call</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260708-00/?p=112510</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260708-00/?p=112510</guid>
+      <pubDate>Wed, 08 Jul 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>Weekly Update 511: Live from my Riad in Marrakech</title>
+      <link>https://www.troyhunt.com/weekly-update-511/</link>
+      <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-511/</guid>
+      <pubDate>Wed, 08 Jul 2026 13:54:46 +0000</pubDate>
+      <description>Troy Hunt</description>
+    </item>
+    <item>
+      <title>Felons, Fraudsters Flog Offensive Cybersecurity Startup</title>
+      <link>https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/</link>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/</guid>
+      <pubDate>Wed, 08 Jul 2026 12:31:39 +0000</pubDate>
+      <description>Krebs on Security</description>
+    </item>
+    <item>
+      <title>A bug which only affected left-handed users</title>
+      <link>https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/</guid>
+      <pubDate>Wed, 08 Jul 2026 11:34:43 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
     <item>
       <title>And Then the Billionaire Paid Off $550 Million of Our Debts</title>
       <link>https://idiallo.com/blog/billionaire-paid-off-550-million-dollars-of-our-debts</link>
@@ -244,18 +286,18 @@
       <description>Chris's Wiki :: blog</description>
     </item>
     <item>
-      <title>C2PA only works if everything is signed</title>
-      <link>https://seangoedecke.com/c2pa-only-works-if-everything-is-signed/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/c2pa-only-works-if-everything-is-signed/</guid>
-      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
       <title>Stephan's Quintet</title>
       <link>https://maurycyz.com/astro/h92/</link>
       <guid isPermaLink="true">https://maurycyz.com/astro/h92/</guid>
       <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
       <description>Maurycy's Blog</description>
+    </item>
+    <item>
+      <title>C2PA only works if everything is signed</title>
+      <link>https://seangoedecke.com/c2pa-only-works-if-everything-is-signed/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/c2pa-only-works-if-everything-is-signed/</guid>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>Life with hazard ratios</title>
@@ -802,48 +844,6 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/30/variables-and-parameters/</guid>
       <pubDate>Tue, 30 Jun 2026 18:51:36 +0000</pubDate>
       <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Three Players From the Japanese Men’s National Team vs. 100 School Children</title>
-      <link>https://x.com/BallStreet/status/950382135969566720</link>
-      <guid isPermaLink="true">https://x.com/BallStreet/status/950382135969566720</guid>
-      <pubDate>Tue, 30 Jun 2026 18:50:54 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The AI Compass</title>
-      <link>https://simonwillison.net/2026/Jun/30/the-ai-compass/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/30/the-ai-compass/#atom-everything</guid>
-      <pubDate>Tue, 30 Jun 2026 17:39:23 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Have your agent record video demos of its work with shot-scraper video</title>
-      <link>https://simonwillison.net/2026/Jun/30/shot-scraper-video/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/30/shot-scraper-video/#atom-everything</guid>
-      <pubDate>Tue, 30 Jun 2026 16:54:26 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>CMA Consultation on Mobile App Steering and NFC Access</title>
-      <link>https://www.gov.uk/government/news/cma-consults-on-new-requirements-for-apple-and-googles-mobile-platforms</link>
-      <guid isPermaLink="true">https://www.gov.uk/government/news/cma-consults-on-new-requirements-for-apple-and-googles-mobile-platforms</guid>
-      <pubDate>Tue, 30 Jun 2026 16:33:55 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Grant Sanderson – AI and the future of math</title>
-      <link>https://www.dwarkesh.com/p/grant-sanderson-2</link>
-      <guid isPermaLink="true">https://www.dwarkesh.com/p/grant-sanderson-2</guid>
-      <pubDate>Tue, 30 Jun 2026 15:53:19 +0000</pubDate>
-      <description>Dwarkesh Podcast</description>
-    </item>
-    <item>
-      <title>U.K. Regulator Considers Requiring App Store to Allow Steering to the Web, and iOS NFC to Be Open</title>
-      <link>https://www.reuters.com/world/uk-regulator-proposes-easing-apple-google-app-store-payment-rules-2026-06-30/</link>
-      <guid isPermaLink="true">https://www.reuters.com/world/uk-regulator-proposes-easing-apple-google-app-store-payment-rules-2026-06-30/</guid>
-      <pubDate>Tue, 30 Jun 2026 15:44:49 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
