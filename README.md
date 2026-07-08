@@ -208,11 +208,11 @@ Last Updated: Wednesday, July 8th, 2026, 10:07:52 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Notes on pulling from multiple upstream Git mirrors](https://utcc.utoronto.ca/~cks/space/blog/programming/GitPullingFromMirrors) — *Chris's Wiki :: blog* `07-08`
+- [Our mixed building network wiring and its consequences](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OurMixedBuildingWiring) — *Chris's Wiki :: blog* `07-07`
 - [sqlite-utils 4.0, now with database schema migrations](https://simonwillison.net/2026/Jul/7/sqlite-utils-4/#atom-everything) — *Simon Willison's Weblog* `07-07`
 - [Let AI Burn](https://www.wheresyoured.at/let-ai-burn/) — *Ed Zitron's Where's Your Ed At* `07-07`
-- [OS 27 Developer Beta 3 Enables New ‘Pace’ and ‘Expressivity’ Sliders for Siri’s New Voices](https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/) — *Daring Fireball* `07-07`
-- [How did Windows 95 decide that a setup program ran?](https://devblogs.microsoft.com/oldnewthing/20260707-00/?p=112508) — *The Old New Thing* `07-07`
-- [Pluralistic: How US states and international trustbusters can beat Big Tech (07 Jul 2026)](https://pluralistic.net/2026/07/07/going-global/) — *Pluralistic: Daily links from Cory Doctorow* `07-07`
+- [sqlite-migrate 0.2](https://simonwillison.net/2026/Jul/7/sqlite-migrate/#atom-everything) — *Simon Willison's Weblog* `07-07`
 <!--BLOG_RADAR:end-->
 
 ---

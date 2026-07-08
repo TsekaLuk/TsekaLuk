@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 07 Jul 2026 20:05:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 03:28:37 +0000</lastBuildDate>
+    <item>
+      <title>Notes on pulling from multiple upstream Git mirrors</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/programming/GitPullingFromMirrors</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/programming/GitPullingFromMirrors</guid>
+      <pubDate>Wed, 08 Jul 2026 02:35:03 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>Our mixed building network wiring and its consequences</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OurMixedBuildingWiring</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OurMixedBuildingWiring</guid>
+      <pubDate>Tue, 07 Jul 2026 22:53:39 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
     <item>
       <title>sqlite-utils 4.0, now with database schema migrations</title>
       <link>https://simonwillison.net/2026/Jul/7/sqlite-utils-4/#atom-everything</link>
@@ -18,6 +32,27 @@
       <guid isPermaLink="true">https://www.wheresyoured.at/let-ai-burn/</guid>
       <pubDate>Tue, 07 Jul 2026 17:09:10 +0000</pubDate>
       <description>Ed Zitron's Where's Your Ed At</description>
+    </item>
+    <item>
+      <title>sqlite-migrate 0.2</title>
+      <link>https://simonwillison.net/2026/Jul/7/sqlite-migrate/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/7/sqlite-migrate/#atom-everything</guid>
+      <pubDate>Tue, 07 Jul 2026 16:33:55 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>github-code Web Component</title>
+      <link>https://simonwillison.net/2026/Jul/7/github-code-component/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/7/github-code-component/#atom-everything</guid>
+      <pubDate>Tue, 07 Jul 2026 16:18:16 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>sqlite-utils 4.0</title>
+      <link>https://simonwillison.net/2026/Jul/7/sqlite-utils/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/7/sqlite-utils/#atom-everything</guid>
+      <pubDate>Tue, 07 Jul 2026 15:42:43 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
     <item>
       <title>OS 27 Developer Beta 3 Enables New ‘Pace’ and ‘Expressivity’ Sliders for Siri’s New Voices</title>
@@ -53,6 +88,13 @@
       <guid isPermaLink="true">https://berthub.eu/articles/posts/kort-geding-aandeelhouder-solvinity/</guid>
       <pubDate>Tue, 07 Jul 2026 09:20:00 +0000</pubDate>
       <description>Bert Hubert's writings</description>
+    </item>
+    <item>
+      <title>sqlite-utils 4.0rc4</title>
+      <link>https://simonwillison.net/2026/Jul/7/sqlite-utils-2/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/7/sqlite-utils-2/#atom-everything</guid>
+      <pubDate>Tue, 07 Jul 2026 05:36:15 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
     <item>
       <title>Using Linux &lt;code&gt;tc&lt;/code&gt; to limit the outgoing bandwidth of a web server</title>
@@ -802,48 +844,6 @@
       <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-510/</guid>
       <pubDate>Tue, 30 Jun 2026 15:42:54 +0000</pubDate>
       <description>Troy Hunt</description>
-    </item>
-    <item>
-      <title>The AI Industry Is Losing</title>
-      <link>https://www.wheresyoured.at/the-ai-industry-is-losing/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/the-ai-industry-is-losing/</guid>
-      <pubDate>Tue, 30 Jun 2026 15:36:38 +0000</pubDate>
-      <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>shot-scraper 1.10</title>
-      <link>https://simonwillison.net/2026/Jun/30/shot-scraper/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/30/shot-scraper/#atom-everything</guid>
-      <pubDate>Tue, 30 Jun 2026 15:10:14 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Silver Rectangles and the Ways of Kings</title>
-      <link>https://www.johndcook.com/blog/2026/06/30/silver-kings/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/30/silver-kings/</guid>
-      <pubDate>Tue, 30 Jun 2026 14:36:14 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>2026 mid-year link clearance</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260630-01/?p=112494</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260630-01/?p=112494</guid>
-      <pubDate>Tue, 30 Jun 2026 14:00:01 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>A compatibility note on the abuse of Windows window class extra bytes</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260630-00/?p=112488</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260630-00/?p=112488</guid>
-      <pubDate>Tue, 30 Jun 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Book Review: Fake Creativity by Blake Loch ★★★☆☆</title>
-      <link>https://shkspr.mobi/blog/2026/06/book-review-fake-creativity-by-blake-loch/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/06/book-review-fake-creativity-by-blake-loch/</guid>
-      <pubDate>Tue, 30 Jun 2026 11:34:20 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
   </channel>
 </rss>
