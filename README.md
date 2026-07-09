@@ -208,11 +208,11 @@ Last Updated: Thursday, July 9th, 2026, 5:37:57 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Pluralistic: Post-political (09 Jul 2026)](https://pluralistic.net/2026/07/08/wilhoitian/) — *Pluralistic: Daily links from Cory Doctorow* `07-09`
 - [★ What’s Good for the iOS Goose Is Often Not Good for the MacOS Gander](https://daringfireball.net/2026/07/whats_good_for_the_ios_goose_is_often_not_good_for_the_macos_gander) — *Daring Fireball* `07-09`
 - [BMCs and a surprising USB network device on your server](https://utcc.utoronto.ca/~cks/space/blog/tech/BMCsAndUSBEthernetDevices) — *Chris's Wiki :: blog* `07-09`
 - [poppy the training box, part 1: the beginnings](https://www.gilesthomas.com/2026/07/poppy-the-training-box-1-the-beginnings) — *Giles' blog* `07-09`
 - [The console wars have been lost](https://xeiaso.net/notes/2026/console-wars-lost/) — *Xe Iaso's blog* `07-09`
-- [Rewriting Bun in Rust](https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything) — *Simon Willison's Weblog* `07-08`
 <!--BLOG_RADAR:end-->
 
 ---

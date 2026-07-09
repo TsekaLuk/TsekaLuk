@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 09 Jul 2026 03:56:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 09:56:20 +0000</lastBuildDate>
+    <item>
+      <title>Pluralistic: Post-political (09 Jul 2026)</title>
+      <link>https://pluralistic.net/2026/07/08/wilhoitian/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/07/08/wilhoitian/</guid>
+      <pubDate>Thu, 09 Jul 2026 06:37:55 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
     <item>
       <title>★ What’s Good for the iOS Goose Is Often Not Good for the MacOS Gander</title>
       <link>https://daringfireball.net/2026/07/whats_good_for_the_ios_goose_is_often_not_good_for_the_macos_gander</link>
@@ -125,18 +132,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>The other kind of control flow guard check: The combined validate and call</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260708-00/?p=112510</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260708-00/?p=112510</guid>
-      <pubDate>Wed, 08 Jul 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
       <title>The Special Value Pi 4 was extremely short-lived</title>
       <link>https://www.jeffgeerling.com/blog/2026/special-value-pi-4-extremely-short-lived/</link>
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/special-value-pi-4-extremely-short-lived/</guid>
       <pubDate>Wed, 08 Jul 2026 14:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>The other kind of control flow guard check: The combined validate and call</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260708-00/?p=112510</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260708-00/?p=112510</guid>
+      <pubDate>Wed, 08 Jul 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Weekly Update 511: Live from my Riad in Marrakech</title>
@@ -174,18 +181,18 @@
       <description>Chris's Wiki :: blog</description>
     </item>
     <item>
-      <title>Agents are monads (but not that kind)</title>
-      <link>https://xeiaso.net/blog/2026/hyle-pneuma/</link>
-      <guid isPermaLink="true">https://xeiaso.net/blog/2026/hyle-pneuma/</guid>
-      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
       <title>Arp 90</title>
       <link>https://maurycyz.com/astro/arp90/</link>
       <guid isPermaLink="true">https://maurycyz.com/astro/arp90/</guid>
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
       <description>Maurycy's Blog</description>
+    </item>
+    <item>
+      <title>Agents are monads (but not that kind)</title>
+      <link>https://xeiaso.net/blog/2026/hyle-pneuma/</link>
+      <guid isPermaLink="true">https://xeiaso.net/blog/2026/hyle-pneuma/</guid>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>Our mixed building network wiring and its consequences</title>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://daringfireball.net/thetalkshow/2026/06/30/ep-451</guid>
       <pubDate>Wed, 01 Jul 2026 15:48:09 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Pluralistic: Technocarcinization (01 Jul 2026)</title>
-      <link>https://pluralistic.net/2026/07/01/ontogeny/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/07/01/ontogeny/</guid>
-      <pubDate>Wed, 01 Jul 2026 15:14:12 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
     </item>
   </channel>
 </rss>
