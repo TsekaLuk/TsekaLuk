@@ -4,7 +4,77 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 08 Jul 2026 19:44:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 03:56:02 +0000</lastBuildDate>
+    <item>
+      <title>★ What’s Good for the iOS Goose Is Often Not Good for the MacOS Gander</title>
+      <link>https://daringfireball.net/2026/07/whats_good_for_the_ios_goose_is_often_not_good_for_the_macos_gander</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/07/whats_good_for_the_ios_goose_is_often_not_good_for_the_macos_gander</guid>
+      <pubDate>Thu, 09 Jul 2026 01:45:08 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>BMCs and a surprising USB network device on your server</title>
+      <link>https://utcc.utoronto.ca/~cks/space/blog/tech/BMCsAndUSBEthernetDevices</link>
+      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/tech/BMCsAndUSBEthernetDevices</guid>
+      <pubDate>Thu, 09 Jul 2026 01:41:15 +0000</pubDate>
+      <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>poppy the training box, part 1: the beginnings</title>
+      <link>https://www.gilesthomas.com/2026/07/poppy-the-training-box-1-the-beginnings</link>
+      <guid isPermaLink="true">https://www.gilesthomas.com/2026/07/poppy-the-training-box-1-the-beginnings</guid>
+      <pubDate>Thu, 09 Jul 2026 01:00:00 +0000</pubDate>
+      <description>Giles' blog</description>
+    </item>
+    <item>
+      <title>The console wars have been lost</title>
+      <link>https://xeiaso.net/notes/2026/console-wars-lost/</link>
+      <guid isPermaLink="true">https://xeiaso.net/notes/2026/console-wars-lost/</guid>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>Rewriting Bun in Rust</title>
+      <link>https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything</guid>
+      <pubDate>Wed, 08 Jul 2026 23:57:21 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Introducing GPT‑Live</title>
+      <link>https://simonwillison.net/2026/Jul/8/introducing-gptlive/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/8/introducing-gptlive/#atom-everything</guid>
+      <pubDate>Wed, 08 Jul 2026 23:20:48 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>‘PARRY Encounters the DOCTOR’ — Chatbot on Chatbot Action Circa 1973</title>
+      <link>https://www.rfc-editor.org/info/rfc439/</link>
+      <guid isPermaLink="true">https://www.rfc-editor.org/info/rfc439/</guid>
+      <pubDate>Wed, 08 Jul 2026 22:38:06 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Mac Apps Can Escape From Squircle Jail If They’re Not in the Mac App Store</title>
+      <link>https://tyler.io/2026/07/05/escape-from-squircle-jail/</link>
+      <guid isPermaLink="true">https://tyler.io/2026/07/05/escape-from-squircle-jail/</guid>
+      <pubDate>Wed, 08 Jul 2026 21:03:21 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Quoting Kenton Varda</title>
+      <link>https://simonwillison.net/2026/Jul/8/kenton-varda/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/8/kenton-varda/#atom-everything</guid>
+      <pubDate>Wed, 08 Jul 2026 20:03:34 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>‘Searching for SmarterChild’ Kickstarter</title>
+      <link>https://www.kickstarter.com/projects/smarterchild/searching-for-smarterchild-a-feature-documentary/creator</link>
+      <guid isPermaLink="true">https://www.kickstarter.com/projects/smarterchild/searching-for-smarterchild-a-feature-documentary/creator</guid>
+      <pubDate>Wed, 08 Jul 2026 20:02:10 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Family Feud: Mac-assed Mac App Edition</title>
       <link>https://blog.jim-nielsen.com/2026/mac-assed-family-feud/</link>
@@ -83,6 +153,13 @@
       <description>Krebs on Security</description>
     </item>
     <item>
+      <title>A bug which only affected left-handed users</title>
+      <link>https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/</guid>
+      <pubDate>Wed, 08 Jul 2026 11:34:43 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>And Then the Billionaire Paid Off $550 Million of Our Debts</title>
       <link>https://idiallo.com/blog/billionaire-paid-off-550-million-dollars-of-our-debts</link>
       <guid isPermaLink="true">https://idiallo.com/blog/billionaire-paid-off-550-million-dollars-of-our-debts</guid>
@@ -95,6 +172,20 @@
       <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/programming/GitPullingFromMirrors</guid>
       <pubDate>Wed, 08 Jul 2026 02:35:03 +0000</pubDate>
       <description>Chris's Wiki :: blog</description>
+    </item>
+    <item>
+      <title>Agents are monads (but not that kind)</title>
+      <link>https://xeiaso.net/blog/2026/hyle-pneuma/</link>
+      <guid isPermaLink="true">https://xeiaso.net/blog/2026/hyle-pneuma/</guid>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>Arp 90</title>
+      <link>https://maurycyz.com/astro/arp90/</link>
+      <guid isPermaLink="true">https://maurycyz.com/astro/arp90/</guid>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
     </item>
     <item>
       <title>Our mixed building network wiring and its consequences</title>
@@ -286,6 +377,13 @@
       <description>John D. Cook</description>
     </item>
     <item>
+      <title>I'm just so bored of AI</title>
+      <link>https://shkspr.mobi/blog/2026/07/im-just-so-bored-of-ai/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/im-just-so-bored-of-ai/</guid>
+      <pubDate>Mon, 06 Jul 2026 11:34:18 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>My blog has moved</title>
       <link>https://mjg59.dreamwidth.org/74260.html</link>
       <guid isPermaLink="true">https://mjg59.dreamwidth.org/74260.html</guid>
@@ -314,13 +412,6 @@
       <description>Chris's Wiki :: blog</description>
     </item>
     <item>
-      <title>Life with hazard ratios</title>
-      <link>https://dynomight.net/hazard-ratios/</link>
-      <guid isPermaLink="true">https://dynomight.net/hazard-ratios/</guid>
-      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
-    </item>
-    <item>
       <title>C2PA only works if everything is signed</title>
       <link>https://seangoedecke.com/c2pa-only-works-if-everything-is-signed/</link>
       <guid isPermaLink="true">https://seangoedecke.com/c2pa-only-works-if-everything-is-signed/</guid>
@@ -333,6 +424,13 @@
       <guid isPermaLink="true">https://maurycyz.com/astro/h92/</guid>
       <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
       <description>Maurycy's Blog</description>
+    </item>
+    <item>
+      <title>Life with hazard ratios</title>
+      <link>https://dynomight.net/hazard-ratios/</link>
+      <guid isPermaLink="true">https://dynomight.net/hazard-ratios/</guid>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>GLM 5.2 and the coming AI margin collapse (part 1)</title>
@@ -417,6 +515,13 @@
       <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-070426</guid>
       <pubDate>Sat, 04 Jul 2026 12:03:22 +0000</pubDate>
       <description>Construction Physics</description>
+    </item>
+    <item>
+      <title>Combined 1D and 2D Barcodes</title>
+      <link>https://shkspr.mobi/blog/2026/07/combined-1d-and-2d-barcodes/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/combined-1d-and-2d-barcodes/</guid>
+      <pubDate>Sat, 04 Jul 2026 11:34:57 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>This Week in Package Management: 4 July 2026</title>
@@ -657,6 +762,13 @@
       <description>Bert Hubert's writings</description>
     </item>
     <item>
+      <title>This blog is written in en-GB</title>
+      <link>https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/</guid>
+      <pubDate>Thu, 02 Jul 2026 11:34:59 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>Understanding is the new bottleneck</title>
       <link>https://geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck.html</link>
       <guid isPermaLink="true">https://geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck.html</guid>
@@ -732,118 +844,6 @@
       <guid isPermaLink="true">https://pluralistic.net/2026/07/01/ontogeny/</guid>
       <pubDate>Wed, 01 Jul 2026 15:14:12 +0000</pubDate>
       <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>404 Media: Vulnerability in iCloud’s ‘Hide My Email’ Reveals Peoples’ Real Email Addresses</title>
-      <link>https://www.404media.co/apple-hide-my-email-vulnerability-reveals-peoples-real-email-addresses/</link>
-      <guid isPermaLink="true">https://www.404media.co/apple-hide-my-email-vulnerability-reveals-peoples-real-email-addresses/</guid>
-      <pubDate>Wed, 01 Jul 2026 14:42:02 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>It rather involved being on the other side of this airtight hatchway: Changing administrative settings</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260701-00/?p=112498</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260701-00/?p=112498</guid>
-      <pubDate>Wed, 01 Jul 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Clickhouse is winning the Observability Wars</title>
-      <link>https://matduggan.com/clickhouse-is-winning-the-observability-wars/</link>
-      <guid isPermaLink="true">https://matduggan.com/clickhouse-is-winning-the-observability-wars/</guid>
-      <pubDate>Wed, 01 Jul 2026 13:14:03 +0000</pubDate>
-      <description>matduggan.com</description>
-    </item>
-    <item>
-      <title>The CRA is not about open source</title>
-      <link>https://nesbitt.io/2026/07/01/the-cra-is-not-about-open-source.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/07/01/the-cra-is-not-about-open-source.html</guid>
-      <pubDate>Wed, 01 Jul 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Bulkdatasets AIVD en MIVD: de schaduw geheime dienst</title>
-      <link>https://berthub.eu/articles/posts/de-schaduwgeheimedienst/</link>
-      <guid isPermaLink="true">https://berthub.eu/articles/posts/de-schaduwgeheimedienst/</guid>
-      <pubDate>Wed, 01 Jul 2026 08:40:00 +0000</pubDate>
-      <description>Bert Hubert's writings</description>
-    </item>
-    <item>
-      <title>Our long path from IPMI remote installs to network installs</title>
-      <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/IPMIToNetworkInstalls</link>
-      <guid isPermaLink="true">https://utcc.utoronto.ca/~cks/space/blog/sysadmin/IPMIToNetworkInstalls</guid>
-      <pubDate>Wed, 01 Jul 2026 02:52:24 +0000</pubDate>
-      <description>Chris's Wiki :: blog</description>
-    </item>
-    <item>
-      <title>Summary of reading: April - June 2026</title>
-      <link>https://eli.thegreenplace.net/2026/summary-of-reading-april-june-2026/</link>
-      <guid isPermaLink="true">https://eli.thegreenplace.net/2026/summary-of-reading-april-june-2026/</guid>
-      <pubDate>Wed, 01 Jul 2026 01:52:00 +0000</pubDate>
-      <description>Eli Bendersky's website</description>
-    </item>
-    <item>
-      <title>DNA Sequence Alignment and Kings</title>
-      <link>https://www.johndcook.com/blog/2026/06/30/dna-sequence-alignment-and-kings/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/06/30/dna-sequence-alignment-and-kings/</guid>
-      <pubDate>Wed, 01 Jul 2026 00:21:21 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>explaining myself through stories</title>
-      <link>https://jyn.dev/explaining-myself-through-stories/</link>
-      <guid isPermaLink="true">https://jyn.dev/explaining-myself-through-stories/</guid>
-      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-      <description>the website of jyn</description>
-    </item>
-    <item>
-      <title>Quoting Anthropic</title>
-      <link>https://simonwillison.net/2026/Jun/30/anthropic/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/30/anthropic/#atom-everything</guid>
-      <pubDate>Tue, 30 Jun 2026 23:58:15 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Nano Banana 2 Lite</title>
-      <link>https://simonwillison.net/2026/Jun/30/nano-banana-2-lite/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/30/nano-banana-2-lite/#atom-everything</guid>
-      <pubDate>Tue, 30 Jun 2026 22:15:35 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>What's new in Claude Sonnet 5</title>
-      <link>https://simonwillison.net/2026/Jun/30/claude-sonnet-5/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jun/30/claude-sonnet-5/#atom-everything</guid>
-      <pubDate>Tue, 30 Jun 2026 21:23:02 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Gnome</title>
-      <link>https://lexfriedman.com/gnome/</link>
-      <guid isPermaLink="true">https://lexfriedman.com/gnome/</guid>
-      <pubDate>Tue, 30 Jun 2026 20:54:32 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Supreme Court Agrees to Review Apple’s Petition Regarding Civil Contempt Finding in ‘Apple v. Epic Games’</title>
-      <link>https://www.supremecourt.gov/orders/courtorders/063026zor_3f14.pdf</link>
-      <guid isPermaLink="true">https://www.supremecourt.gov/orders/courtorders/063026zor_3f14.pdf</guid>
-      <pubDate>Tue, 30 Jun 2026 20:12:08 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Supreme Court Upholds Birthright Citizenship in 6-3 Decision</title>
-      <link>https://talkingpointsmemo.com/edblog/the-birthright-citizenship-decision-is-more-evidence-for-court-reform/sharetoken/e2bf9547-fa9b-468c-8af3-aa09e72ca698</link>
-      <guid isPermaLink="true">https://talkingpointsmemo.com/edblog/the-birthright-citizenship-decision-is-more-evidence-for-court-reform/sharetoken/e2bf9547-fa9b-468c-8af3-aa09e72ca698</guid>
-      <pubDate>Tue, 30 Jun 2026 19:40:38 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Writing an LLM from scratch, part 34a -- building a JAX training loop for an LLM training run</title>
-      <link>https://www.gilesthomas.com/2026/06/llm-from-scratch-34a-building-a-jax-training-loop-for-an-llm-training-run</link>
-      <guid isPermaLink="true">https://www.gilesthomas.com/2026/06/llm-from-scratch-34a-building-a-jax-training-loop-for-an-llm-training-run</guid>
-      <pubDate>Tue, 30 Jun 2026 19:00:00 +0000</pubDate>
-      <description>Giles' blog</description>
     </item>
   </channel>
 </rss>

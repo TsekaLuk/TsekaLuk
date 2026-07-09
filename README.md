@@ -208,11 +208,11 @@ Last Updated: Thursday, July 9th, 2026, 10:26:38 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Family Feud: Mac-assed Mac App Edition](https://blog.jim-nielsen.com/2026/mac-assed-family-feud/) — *Jim Nielsen’s Blog* `07-08`
-- [Writing an LLM from scratch, part 34b -- from bigrams to GPT-2, one component at a time (in JAX)](https://www.gilesthomas.com/2026/07/llm-from-scratch-34b-building-and-training-gpt-2-small-in-jax) — *Giles' blog* `07-08`
-- [My Conversation With ELIZA](https://sites.google.com/view/elizaarchaeology/try-eliza?authuser=0) — *Daring Fireball* `07-08`
-- [The ELIZA Archaeology Project](https://findingeliza.org/) — *Daring Fireball* `07-08`
-- [The Decline of Deviance 2](https://www.experimental-history.com/p/the-decline-of-deviance-2) — *Experimental History* `07-08`
+- [★ What’s Good for the iOS Goose Is Often Not Good for the MacOS Gander](https://daringfireball.net/2026/07/whats_good_for_the_ios_goose_is_often_not_good_for_the_macos_gander) — *Daring Fireball* `07-09`
+- [BMCs and a surprising USB network device on your server](https://utcc.utoronto.ca/~cks/space/blog/tech/BMCsAndUSBEthernetDevices) — *Chris's Wiki :: blog* `07-09`
+- [poppy the training box, part 1: the beginnings](https://www.gilesthomas.com/2026/07/poppy-the-training-box-1-the-beginnings) — *Giles' blog* `07-09`
+- [The console wars have been lost](https://xeiaso.net/notes/2026/console-wars-lost/) — *Xe Iaso's blog* `07-09`
+- [Rewriting Bun in Rust](https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything) — *Simon Willison's Weblog* `07-08`
 <!--BLOG_RADAR:end-->
 
 ---
