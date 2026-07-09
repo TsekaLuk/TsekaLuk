@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 09 Jul 2026 09:56:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 15:25:28 +0000</lastBuildDate>
+    <item>
+      <title>Meta Sets Default for Instagram Accounts to Permit Content Reuse by AI</title>
+      <link>https://www.nytimes.com/2026/07/08/technology/meta-instagram-ai.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/08/technology/meta-instagram-ai.html</guid>
+      <pubDate>Thu, 09 Jul 2026 14:10:59 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>I’ve decoded a #pragma detect_mismatch error and fixed the mismatch, but I still get the error</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260709-00/?p=112512</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260709-00/?p=112512</guid>
+      <pubDate>Thu, 09 Jul 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>Unboxed: Zig</title>
+      <link>https://nesbitt.io/2026/07/09/unboxed-zig.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/07/09/unboxed-zig.html</guid>
+      <pubDate>Thu, 09 Jul 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
     <item>
       <title>Pluralistic: Post-political (09 Jul 2026)</title>
       <link>https://pluralistic.net/2026/07/08/wilhoitian/</link>
@@ -426,18 +447,18 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>Stephan's Quintet</title>
-      <link>https://maurycyz.com/astro/h92/</link>
-      <guid isPermaLink="true">https://maurycyz.com/astro/h92/</guid>
-      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
-    </item>
-    <item>
       <title>Life with hazard ratios</title>
       <link>https://dynomight.net/hazard-ratios/</link>
       <guid isPermaLink="true">https://dynomight.net/hazard-ratios/</guid>
       <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
       <description>DYNOMIGHT</description>
+    </item>
+    <item>
+      <title>Stephan's Quintet</title>
+      <link>https://maurycyz.com/astro/h92/</link>
+      <guid isPermaLink="true">https://maurycyz.com/astro/h92/</guid>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
     </item>
     <item>
       <title>GLM 5.2 and the coming AI margin collapse (part 1)</title>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://www.dwarkesh.com/p/blog-prize-winners</guid>
       <pubDate>Wed, 01 Jul 2026 22:13:17 +0000</pubDate>
       <description>Dwarkesh Podcast</description>
-    </item>
-    <item>
-      <title>PlayStation Plus and Xbox Game Pass Subscriptions</title>
-      <link>https://daringfireball.net/linked/2026/07/01/valve-on-subsidizing-hardware</link>
-      <guid isPermaLink="true">https://daringfireball.net/linked/2026/07/01/valve-on-subsidizing-hardware</guid>
-      <pubDate>Wed, 01 Jul 2026 19:55:26 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Valve Explains Why It Doesn’t Subsidize Its Hardware Platforms</title>
-      <link>https://www.theverge.com/games/952004/valve-steam-machine-price-not-subsidizing</link>
-      <guid isPermaLink="true">https://www.theverge.com/games/952004/valve-steam-machine-price-not-subsidizing</guid>
-      <pubDate>Wed, 01 Jul 2026 18:04:29 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The Talk Show: ‘Taking Drugs to Get Fat’</title>
-      <link>https://daringfireball.net/thetalkshow/2026/06/30/ep-451</link>
-      <guid isPermaLink="true">https://daringfireball.net/thetalkshow/2026/06/30/ep-451</guid>
-      <pubDate>Wed, 01 Jul 2026 15:48:09 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>

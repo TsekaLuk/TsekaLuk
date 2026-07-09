@@ -208,11 +208,11 @@ Last Updated: Thursday, July 9th, 2026, 10:44:14 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Meta Sets Default for Instagram Accounts to Permit Content Reuse by AI](https://www.nytimes.com/2026/07/08/technology/meta-instagram-ai.html) — *Daring Fireball* `07-09`
+- [I’ve decoded a #pragma detect_mismatch error and fixed the mismatch, but I still get the error](https://devblogs.microsoft.com/oldnewthing/20260709-00/?p=112512) — *The Old New Thing* `07-09`
+- [Unboxed: Zig](https://nesbitt.io/2026/07/09/unboxed-zig.html) — *Andrew Nesbitt* `07-09`
 - [Pluralistic: Post-political (09 Jul 2026)](https://pluralistic.net/2026/07/08/wilhoitian/) — *Pluralistic: Daily links from Cory Doctorow* `07-09`
 - [★ What’s Good for the iOS Goose Is Often Not Good for the MacOS Gander](https://daringfireball.net/2026/07/whats_good_for_the_ios_goose_is_often_not_good_for_the_macos_gander) — *Daring Fireball* `07-09`
-- [BMCs and a surprising USB network device on your server](https://utcc.utoronto.ca/~cks/space/blog/tech/BMCsAndUSBEthernetDevices) — *Chris's Wiki :: blog* `07-09`
-- [poppy the training box, part 1: the beginnings](https://www.gilesthomas.com/2026/07/poppy-the-training-box-1-the-beginnings) — *Giles' blog* `07-09`
-- [The console wars have been lost](https://xeiaso.net/notes/2026/console-wars-lost/) — *Xe Iaso's blog* `07-09`
 <!--BLOG_RADAR:end-->
 
 ---
