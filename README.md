@@ -208,11 +208,11 @@ Last Updated: Friday, July 10th, 2026, 3:28:44 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Meta Sets Default for Instagram Accounts to Permit Content Reuse by AI](https://www.nytimes.com/2026/07/08/technology/meta-instagram-ai.html) — *Daring Fireball* `07-09`
-- [I’ve decoded a #pragma detect_mismatch error and fixed the mismatch, but I still get the error](https://devblogs.microsoft.com/oldnewthing/20260709-00/?p=112512) — *The Old New Thing* `07-09`
-- [Unboxed: Zig](https://nesbitt.io/2026/07/09/unboxed-zig.html) — *Andrew Nesbitt* `07-09`
-- [Pluralistic: Post-political (09 Jul 2026)](https://pluralistic.net/2026/07/08/wilhoitian/) — *Pluralistic: Daily links from Cory Doctorow* `07-09`
-- [★ What’s Good for the iOS Goose Is Often Not Good for the MacOS Gander](https://daringfireball.net/2026/07/whats_good_for_the_ios_goose_is_often_not_good_for_the_macos_gander) — *Daring Fireball* `07-09`
+- [Apple’s Classic Mac Era Forays Into ‘Apps as Tiled Buttons’ Simplified Computing: At Ease and Launcher](https://daringfireball.net/2026/07/whats_good_for_the_ios_goose_is_often_not_good_for_the_macos_gander) — *Daring Fireball* `07-09`
+- [The new GPT-5.6 family: Luna, Terra, Sol](https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything) — *Simon Willison's Weblog* `07-09`
+- [★ John Ternus Should Reverse Apple’s Slide Down the Advertising Slippery Slope](https://daringfireball.net/2026/07/ternus_apple_slippery_slope) — *Daring Fireball* `07-09`
+- [Boxed In](https://feed.tedium.co/link/15204/17375642/alf-paul-fusco-creativity-constraints) — *Tedium: The Dull Side of the Internet.* `07-09`
+- [Introducing Muse Spark 1.1](https://simonwillison.net/2026/Jul/9/muse-spark-1-1/#atom-everything) — *Simon Willison's Weblog* `07-09`
 <!--BLOG_RADAR:end-->
 
 ---

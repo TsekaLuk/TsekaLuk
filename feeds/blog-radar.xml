@@ -4,11 +4,60 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 09 Jul 2026 15:25:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 19:55:48 +0000</lastBuildDate>
+    <item>
+      <title>Apple’s Classic Mac Era Forays Into ‘Apps as Tiled Buttons’ Simplified Computing: At Ease and Launcher</title>
+      <link>https://daringfireball.net/2026/07/whats_good_for_the_ios_goose_is_often_not_good_for_the_macos_gander</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/07/whats_good_for_the_ios_goose_is_often_not_good_for_the_macos_gander</guid>
+      <pubDate>Thu, 09 Jul 2026 19:50:58 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>The new GPT-5.6 family: Luna, Terra, Sol</title>
+      <link>https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything</guid>
+      <pubDate>Thu, 09 Jul 2026 19:46:38 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>★ John Ternus Should Reverse Apple’s Slide Down the Advertising Slippery Slope</title>
+      <link>https://daringfireball.net/2026/07/ternus_apple_slippery_slope</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/07/ternus_apple_slippery_slope</guid>
+      <pubDate>Thu, 09 Jul 2026 19:17:37 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Boxed In</title>
+      <link>https://feed.tedium.co/link/15204/17375642/alf-paul-fusco-creativity-constraints</link>
+      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17375642/alf-paul-fusco-creativity-constraints</guid>
+      <pubDate>Thu, 09 Jul 2026 17:20:00 +0000</pubDate>
+      <description>Tedium: The Dull Side of the Internet.</description>
+    </item>
+    <item>
+      <title>Introducing Muse Spark 1.1</title>
+      <link>https://simonwillison.net/2026/Jul/9/muse-spark-1-1/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/9/muse-spark-1-1/#atom-everything</guid>
+      <pubDate>Thu, 09 Jul 2026 16:24:09 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>llm-meta-ai 0.1</title>
+      <link>https://simonwillison.net/2026/Jul/9/llm-meta-ai/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/9/llm-meta-ai/#atom-everything</guid>
+      <pubDate>Thu, 09 Jul 2026 16:12:20 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>llm 0.31.1</title>
+      <link>https://simonwillison.net/2026/Jul/9/llm/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/9/llm/#atom-everything</guid>
+      <pubDate>Thu, 09 Jul 2026 16:06:15 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Meta Sets Default for Instagram Accounts to Permit Content Reuse by AI</title>
-      <link>https://www.nytimes.com/2026/07/08/technology/meta-instagram-ai.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/08/technology/meta-instagram-ai.html</guid>
+      <link>https://www.nytimes.com/2026/07/08/technology/meta-instagram-ai.html?unlocked_article_code=1.wVA.Q5Do.Uvg5yPwCEB5H</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/08/technology/meta-instagram-ai.html?unlocked_article_code=1.wVA.Q5Do.Uvg5yPwCEB5H</guid>
       <pubDate>Thu, 09 Jul 2026 14:10:59 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
@@ -32,13 +81,6 @@
       <guid isPermaLink="true">https://pluralistic.net/2026/07/08/wilhoitian/</guid>
       <pubDate>Thu, 09 Jul 2026 06:37:55 +0000</pubDate>
       <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>★ What’s Good for the iOS Goose Is Often Not Good for the MacOS Gander</title>
-      <link>https://daringfireball.net/2026/07/whats_good_for_the_ios_goose_is_often_not_good_for_the_macos_gander</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/07/whats_good_for_the_ios_goose_is_often_not_good_for_the_macos_gander</guid>
-      <pubDate>Thu, 09 Jul 2026 01:45:08 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
     <item>
       <title>BMCs and a surprising USB network device on your server</title>
@@ -76,7 +118,7 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>‘PARRY Encounters the DOCTOR’ — Chatbot on Chatbot Action Circa 1973</title>
+      <title>‘Parry Encounters the Doctor’ — Chatbot on Chatbot Action Circa 1973</title>
       <link>https://www.rfc-editor.org/info/rfc439/</link>
       <guid isPermaLink="true">https://www.rfc-editor.org/info/rfc439/</guid>
       <pubDate>Wed, 08 Jul 2026 22:38:06 +0000</pubDate>
@@ -118,14 +160,14 @@
       <description>Giles' blog</description>
     </item>
     <item>
-      <title>My Conversation With ELIZA</title>
+      <title>My Conversation With Eilza</title>
       <link>https://sites.google.com/view/elizaarchaeology/try-eliza?authuser=0</link>
       <guid isPermaLink="true">https://sites.google.com/view/elizaarchaeology/try-eliza?authuser=0</guid>
       <pubDate>Wed, 08 Jul 2026 17:33:05 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>The ELIZA Archaeology Project</title>
+      <title>The Eliza Archaeology Project</title>
       <link>https://findingeliza.org/</link>
       <guid isPermaLink="true">https://findingeliza.org/</guid>
       <pubDate>Wed, 08 Jul 2026 17:20:44 +0000</pubDate>
@@ -181,13 +223,6 @@
       <description>Krebs on Security</description>
     </item>
     <item>
-      <title>A bug which only affected left-handed users</title>
-      <link>https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/</guid>
-      <pubDate>Wed, 08 Jul 2026 11:34:43 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>And Then the Billionaire Paid Off $550 Million of Our Debts</title>
       <link>https://idiallo.com/blog/billionaire-paid-off-550-million-dollars-of-our-debts</link>
       <guid isPermaLink="true">https://idiallo.com/blog/billionaire-paid-off-550-million-dollars-of-our-debts</guid>
@@ -202,18 +237,18 @@
       <description>Chris's Wiki :: blog</description>
     </item>
     <item>
-      <title>Arp 90</title>
-      <link>https://maurycyz.com/astro/arp90/</link>
-      <guid isPermaLink="true">https://maurycyz.com/astro/arp90/</guid>
-      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
-    </item>
-    <item>
       <title>Agents are monads (but not that kind)</title>
       <link>https://xeiaso.net/blog/2026/hyle-pneuma/</link>
       <guid isPermaLink="true">https://xeiaso.net/blog/2026/hyle-pneuma/</guid>
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>Arp 90</title>
+      <link>https://maurycyz.com/astro/arp90/</link>
+      <guid isPermaLink="true">https://maurycyz.com/astro/arp90/</guid>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
     </item>
     <item>
       <title>Our mixed building network wiring and its consequences</title>
@@ -405,13 +440,6 @@
       <description>John D. Cook</description>
     </item>
     <item>
-      <title>I'm just so bored of AI</title>
-      <link>https://shkspr.mobi/blog/2026/07/im-just-so-bored-of-ai/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/im-just-so-bored-of-ai/</guid>
-      <pubDate>Mon, 06 Jul 2026 11:34:18 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>My blog has moved</title>
       <link>https://mjg59.dreamwidth.org/74260.html</link>
       <guid isPermaLink="true">https://mjg59.dreamwidth.org/74260.html</guid>
@@ -440,13 +468,6 @@
       <description>Chris's Wiki :: blog</description>
     </item>
     <item>
-      <title>C2PA only works if everything is signed</title>
-      <link>https://seangoedecke.com/c2pa-only-works-if-everything-is-signed/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/c2pa-only-works-if-everything-is-signed/</guid>
-      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
       <title>Life with hazard ratios</title>
       <link>https://dynomight.net/hazard-ratios/</link>
       <guid isPermaLink="true">https://dynomight.net/hazard-ratios/</guid>
@@ -459,6 +480,13 @@
       <guid isPermaLink="true">https://maurycyz.com/astro/h92/</guid>
       <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
       <description>Maurycy's Blog</description>
+    </item>
+    <item>
+      <title>C2PA only works if everything is signed</title>
+      <link>https://seangoedecke.com/c2pa-only-works-if-everything-is-signed/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/c2pa-only-works-if-everything-is-signed/</guid>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>GLM 5.2 and the coming AI margin collapse (part 1)</title>
@@ -543,13 +571,6 @@
       <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-070426</guid>
       <pubDate>Sat, 04 Jul 2026 12:03:22 +0000</pubDate>
       <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>Combined 1D and 2D Barcodes</title>
-      <link>https://shkspr.mobi/blog/2026/07/combined-1d-and-2d-barcodes/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/combined-1d-and-2d-barcodes/</guid>
-      <pubDate>Sat, 04 Jul 2026 11:34:57 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>This Week in Package Management: 4 July 2026</title>
@@ -790,13 +811,6 @@
       <description>Bert Hubert's writings</description>
     </item>
     <item>
-      <title>This blog is written in en-GB</title>
-      <link>https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/</guid>
-      <pubDate>Thu, 02 Jul 2026 11:34:59 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>Understanding is the new bottleneck</title>
       <link>https://geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck.html</link>
       <guid isPermaLink="true">https://geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck.html</guid>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://daringfireball.net/2026/07/a_tale_of_two_modems</guid>
       <pubDate>Wed, 01 Jul 2026 23:26:45 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Bring Back Crappy Forums</title>
-      <link>https://feed.tedium.co/link/15204/17371410/online-web-forums-retrospective</link>
-      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17371410/online-web-forums-retrospective</guid>
-      <pubDate>Wed, 01 Jul 2026 22:26:07 +0000</pubDate>
-      <description>Tedium: The Dull Side of the Internet.</description>
-    </item>
-    <item>
-      <title>The Winning Essays for the Big Questions About AI</title>
-      <link>https://www.dwarkesh.com/p/blog-prize-winners</link>
-      <guid isPermaLink="true">https://www.dwarkesh.com/p/blog-prize-winners</guid>
-      <pubDate>Wed, 01 Jul 2026 22:13:17 +0000</pubDate>
-      <description>Dwarkesh Podcast</description>
     </item>
   </channel>
 </rss>
