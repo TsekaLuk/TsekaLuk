@@ -208,11 +208,11 @@ Last Updated: Friday, July 10th, 2026, 10:08:56 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [An unusual way for your DHCP server to run out of dynamic IPs](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/DHCPServerAndScreamingHost) — *Chris's Wiki :: blog* `07-10`
-- [Quoting OpenAI](https://simonwillison.net/2026/Jul/10/openai/#atom-everything) — *Simon Willison's Weblog* `07-10`
-- [Shocking No One, Fidji Simo, Would-Be Usurper, Is Out at OpenAI](https://www.wsj.com/tech/openai-top-executive-fidji-simo-to-step-down-c3daca47?st=NfBZTe) — *Daring Fireball* `07-10`
-- [Today’s the Day OpenAI Fucked Up the ChatGPT Mac App](https://9to5mac.com/2026/07/09/openai-announcing-the-next-chapter-for-chatgpt-today-watch-here/) — *Daring Fireball* `07-09`
-- [Apple’s Classic Mac Era Forays Into ‘Apps as Tiled Buttons’ Simplified Computing: At Ease and Launcher](https://daringfireball.net/2026/07/whats_good_for_the_ios_goose_is_often_not_good_for_the_macos_gander) — *Daring Fireball* `07-09`
+- [QuadRF can spot drones and see WiFi through my wall](https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/) — *Jeff Geerling* `07-10`
+- [The case of the mysterious changes to integers when there shouldn’t have been any code generation effect](https://devblogs.microsoft.com/oldnewthing/20260710-00/?p=112514) — *The Old New Thing* `07-10`
+- [Game Review: Lovers In A Dangerous Spacetime ★★★☆☆](https://shkspr.mobi/blog/2026/07/game-review-lovers-in-a-dangerous-spacetime/) — *Terence Eden’s Blog* `07-10`
+- [Package Management as Org Chart](https://nesbitt.io/2026/07/10/package-management-as-org-chart.html) — *Andrew Nesbitt* `07-10`
+- [Pluralistic: "Rights for robots" and the AI slavery fantasy (10 Jul 2026)](https://pluralistic.net/2026/07/10/posthuman-as-in-no-humans/) — *Pluralistic: Daily links from Cory Doctorow* `07-10`
 <!--BLOG_RADAR:end-->
 
 ---
