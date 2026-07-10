@@ -208,11 +208,11 @@ Last Updated: Friday, July 10th, 2026, 10:28:13 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [An unusual way for your DHCP server to run out of dynamic IPs](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/DHCPServerAndScreamingHost) — *Chris's Wiki :: blog* `07-10`
+- [Quoting OpenAI](https://simonwillison.net/2026/Jul/10/openai/#atom-everything) — *Simon Willison's Weblog* `07-10`
+- [Shocking No One, Fidji Simo, Would-Be Usurper, Is Out at OpenAI](https://www.wsj.com/tech/openai-top-executive-fidji-simo-to-step-down-c3daca47?st=NfBZTe) — *Daring Fireball* `07-10`
+- [Today’s the Day OpenAI Fucked Up the ChatGPT Mac App](https://9to5mac.com/2026/07/09/openai-announcing-the-next-chapter-for-chatgpt-today-watch-here/) — *Daring Fireball* `07-09`
 - [Apple’s Classic Mac Era Forays Into ‘Apps as Tiled Buttons’ Simplified Computing: At Ease and Launcher](https://daringfireball.net/2026/07/whats_good_for_the_ios_goose_is_often_not_good_for_the_macos_gander) — *Daring Fireball* `07-09`
-- [The new GPT-5.6 family: Luna, Terra, Sol](https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything) — *Simon Willison's Weblog* `07-09`
-- [★ John Ternus Should Reverse Apple’s Slide Down the Advertising Slippery Slope](https://daringfireball.net/2026/07/ternus_apple_slippery_slope) — *Daring Fireball* `07-09`
-- [Boxed In](https://feed.tedium.co/link/15204/17375642/alf-paul-fusco-creativity-constraints) — *Tedium: The Dull Side of the Internet.* `07-09`
-- [Introducing Muse Spark 1.1](https://simonwillison.net/2026/Jul/9/muse-spark-1-1/#atom-everything) — *Simon Willison's Weblog* `07-09`
 <!--BLOG_RADAR:end-->
 
 ---
