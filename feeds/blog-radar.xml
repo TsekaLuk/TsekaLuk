@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 10 Jul 2026 03:56:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 09:47:24 +0000</lastBuildDate>
     <item>
       <title>An unusual way for your DHCP server to run out of dynamic IPs</title>
       <link>https://utcc.utoronto.ca/~cks/space/blog/sysadmin/DHCPServerAndScreamingHost</link>
@@ -258,13 +258,6 @@
       <description>Krebs on Security</description>
     </item>
     <item>
-      <title>A bug which only affected left-handed users</title>
-      <link>https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/</guid>
-      <pubDate>Wed, 08 Jul 2026 11:34:43 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>And Then the Billionaire Paid Off $550 Million of Our Debts</title>
       <link>https://idiallo.com/blog/billionaire-paid-off-550-million-dollars-of-our-debts</link>
       <guid isPermaLink="true">https://idiallo.com/blog/billionaire-paid-off-550-million-dollars-of-our-debts</guid>
@@ -482,13 +475,6 @@
       <description>John D. Cook</description>
     </item>
     <item>
-      <title>I'm just so bored of AI</title>
-      <link>https://shkspr.mobi/blog/2026/07/im-just-so-bored-of-ai/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/im-just-so-bored-of-ai/</guid>
-      <pubDate>Mon, 06 Jul 2026 11:34:18 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>My blog has moved</title>
       <link>https://mjg59.dreamwidth.org/74260.html</link>
       <guid isPermaLink="true">https://mjg59.dreamwidth.org/74260.html</guid>
@@ -620,13 +606,6 @@
       <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-070426</guid>
       <pubDate>Sat, 04 Jul 2026 12:03:22 +0000</pubDate>
       <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>Combined 1D and 2D Barcodes</title>
-      <link>https://shkspr.mobi/blog/2026/07/combined-1d-and-2d-barcodes/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/combined-1d-and-2d-barcodes/</guid>
-      <pubDate>Sat, 04 Jul 2026 11:34:57 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>This Week in Package Management: 4 July 2026</title>
@@ -844,6 +823,27 @@
       <guid isPermaLink="true">https://spyglass.org/whatsapp-ban/</guid>
       <pubDate>Thu, 02 Jul 2026 16:13:13 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Hackers Stole Instagram Accounts Simply by Asking Meta AI to Give Them Access</title>
+      <link>https://www.404media.co/hackers-simply-asked-meta-ai-to-give-them-access-to-high-profile-instagram-accounts-it-worked/</link>
+      <guid isPermaLink="true">https://www.404media.co/hackers-simply-asked-meta-ai-to-give-them-access-to-high-profile-instagram-accounts-it-worked/</guid>
+      <pubDate>Thu, 02 Jul 2026 15:55:57 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>The case of the thread executing from an unloaded third-party DLL</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260702-00/?p=112500</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260702-00/?p=112500</guid>
+      <pubDate>Thu, 02 Jul 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>Digitale Autonomie 2.0: en nu echt</title>
+      <link>https://berthub.eu/articles/posts/digitale-autonomie-2-0-surf-privacy-security/</link>
+      <guid isPermaLink="true">https://berthub.eu/articles/posts/digitale-autonomie-2-0-surf-privacy-security/</guid>
+      <pubDate>Thu, 02 Jul 2026 11:37:00 +0000</pubDate>
+      <description>Bert Hubert's writings</description>
     </item>
   </channel>
 </rss>
