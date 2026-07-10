@@ -208,11 +208,11 @@ Last Updated: Saturday, July 11th, 2026, 3:19:39 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Premium: The Hater's Guide To The Memory Crisis](https://www.wheresyoured.at/premium-the-haters-guide-to-the-memory-crisis/) — *Ed Zitron's Where's Your Ed At* `07-10`
+- [Quoting Nilay Patel](https://simonwillison.net/2026/Jul/10/nilay-patel/#atom-everything) — *Simon Willison's Weblog* `07-10`
+- [Adam Brown – A deep but accessible introduction to general relativity](https://www.dwarkesh.com/p/adam-brown-gr) — *Dwarkesh Podcast* `07-10`
+- [This Week on The Analog Antiquarian](https://www.filfre.net/2026/07/this-week-on-the-analog-antiquarian/) — *The Digital Antiquarian* `07-10`
 - [QuadRF can spot drones and see WiFi through my wall](https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/) — *Jeff Geerling* `07-10`
-- [The case of the mysterious changes to integers when there shouldn’t have been any code generation effect](https://devblogs.microsoft.com/oldnewthing/20260710-00/?p=112514) — *The Old New Thing* `07-10`
-- [Game Review: Lovers In A Dangerous Spacetime ★★★☆☆](https://shkspr.mobi/blog/2026/07/game-review-lovers-in-a-dangerous-spacetime/) — *Terence Eden’s Blog* `07-10`
-- [Package Management as Org Chart](https://nesbitt.io/2026/07/10/package-management-as-org-chart.html) — *Andrew Nesbitt* `07-10`
-- [Pluralistic: "Rights for robots" and the AI slavery fantasy (10 Jul 2026)](https://pluralistic.net/2026/07/10/posthuman-as-in-no-humans/) — *Pluralistic: Daily links from Cory Doctorow* `07-10`
 <!--BLOG_RADAR:end-->
 
 ---

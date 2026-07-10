@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 10 Jul 2026 14:42:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 19:42:05 +0000</lastBuildDate>
+    <item>
+      <title>Premium: The Hater's Guide To The Memory Crisis</title>
+      <link>https://www.wheresyoured.at/premium-the-haters-guide-to-the-memory-crisis/</link>
+      <guid isPermaLink="true">https://www.wheresyoured.at/premium-the-haters-guide-to-the-memory-crisis/</guid>
+      <pubDate>Fri, 10 Jul 2026 17:51:30 +0000</pubDate>
+      <description>Ed Zitron's Where's Your Ed At</description>
+    </item>
+    <item>
+      <title>Quoting Nilay Patel</title>
+      <link>https://simonwillison.net/2026/Jul/10/nilay-patel/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/10/nilay-patel/#atom-everything</guid>
+      <pubDate>Fri, 10 Jul 2026 17:05:26 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Adam Brown – A deep but accessible introduction to general relativity</title>
+      <link>https://www.dwarkesh.com/p/adam-brown-gr</link>
+      <guid isPermaLink="true">https://www.dwarkesh.com/p/adam-brown-gr</guid>
+      <pubDate>Fri, 10 Jul 2026 16:23:56 +0000</pubDate>
+      <description>Dwarkesh Podcast</description>
+    </item>
+    <item>
+      <title>This Week on The Analog Antiquarian</title>
+      <link>https://www.filfre.net/2026/07/this-week-on-the-analog-antiquarian/</link>
+      <guid isPermaLink="true">https://www.filfre.net/2026/07/this-week-on-the-analog-antiquarian/</guid>
+      <pubDate>Fri, 10 Jul 2026 16:20:37 +0000</pubDate>
+      <description>The Digital Antiquarian</description>
+    </item>
     <item>
       <title>QuadRF can spot drones and see WiFi through my wall</title>
       <link>https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/</link>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://daringfireball.net/2025/06/truth_social_is_just_trumps_blog</guid>
       <pubDate>Thu, 02 Jul 2026 19:38:45 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>llm-coding-agent 0.1a0</title>
-      <link>https://simonwillison.net/2026/Jul/2/llm-coding-agent/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/2/llm-coding-agent/#atom-everything</guid>
-      <pubDate>Thu, 02 Jul 2026 19:33:12 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>FBI Seizes NetNut Proxy Platform, Popa Botnet</title>
-      <link>https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/</link>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/</guid>
-      <pubDate>Thu, 02 Jul 2026 19:27:33 +0000</pubDate>
-      <description>Krebs on Security</description>
-    </item>
-    <item>
-      <title>‘A Perfect Reflection of Trump’s Washington’</title>
-      <link>https://politicalwire.com/2026/06/19/a-perfect-reflection-of-trumps-washington/</link>
-      <guid isPermaLink="true">https://politicalwire.com/2026/06/19/a-perfect-reflection-of-trumps-washington/</guid>
-      <pubDate>Thu, 02 Jul 2026 19:14:31 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>This Page Left Intentionally Blank</title>
-      <link>https://blog.jim-nielsen.com/2026/intentionally-blank/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/intentionally-blank/</guid>
-      <pubDate>Thu, 02 Jul 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
     </item>
   </channel>
 </rss>
