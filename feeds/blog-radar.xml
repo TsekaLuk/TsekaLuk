@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 11 Jul 2026 03:23:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 08:05:24 +0000</lastBuildDate>
+    <item>
+      <title>John Ternus Calls Sam Altman</title>
+      <link>https://www.youtube.com/watch?v=ClASuxd8jQY</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=ClASuxd8jQY</guid>
+      <pubDate>Sat, 11 Jul 2026 03:45:00 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>‘No Interest’</title>
+      <link>https://x.com/drewpusateri/status/2075708238650089981</link>
+      <guid isPermaLink="true">https://x.com/drewpusateri/status/2075708238650089981</guid>
+      <pubDate>Sat, 11 Jul 2026 03:41:00 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Ice Cold</title>
       <link>https://www.threads.com/@alexheath/post/DaoI2jaEioX</link>
@@ -48,11 +62,11 @@
       <description>Eli Bendersky's website</description>
     </item>
     <item>
-      <title>John Ternus Calls Sam Altman</title>
-      <link>https://www.youtube.com/watch?v=ClASuxd8jQY</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=ClASuxd8jQY</guid>
-      <pubDate>Sat, 11 Jul 2026 00:19:59 +0000</pubDate>
-      <description>Daring Fireball</description>
+      <title>In defense of not understanding your codebase</title>
+      <link>https://seangoedecke.com/in-defense-of-not-understanding-your-codebase/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/in-defense-of-not-understanding-your-codebase/</guid>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>Building intuition about LLM parameter counts</title>
@@ -354,13 +368,6 @@
       <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-511/</guid>
       <pubDate>Wed, 08 Jul 2026 13:54:46 +0000</pubDate>
       <description>Troy Hunt</description>
-    </item>
-    <item>
-      <title>Felons, Fraudsters Flog Offensive Cybersecurity Startup</title>
-      <link>https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/</link>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/</guid>
-      <pubDate>Wed, 08 Jul 2026 12:31:39 +0000</pubDate>
-      <description>Krebs on Security</description>
     </item>
     <item>
       <title>A bug which only affected left-handed users</title>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://daringfireball.net/2025/06/truth_social_is_just_trumps_blog</guid>
       <pubDate>Thu, 02 Jul 2026 19:38:45 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>llm-coding-agent 0.1a0</title>
-      <link>https://simonwillison.net/2026/Jul/2/llm-coding-agent/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/2/llm-coding-agent/#atom-everything</guid>
-      <pubDate>Thu, 02 Jul 2026 19:33:12 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>

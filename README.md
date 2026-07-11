@@ -208,11 +208,11 @@ Last Updated: Saturday, July 11th, 2026, 3:45:44 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [John Ternus Calls Sam Altman](https://www.youtube.com/watch?v=ClASuxd8jQY) — *Daring Fireball* `07-11`
+- [‘No Interest’](https://x.com/drewpusateri/status/2075708238650089981) — *Daring Fireball* `07-11`
 - [Ice Cold](https://www.threads.com/@alexheath/post/DaoI2jaEioX) — *Daring Fireball* `07-11`
 - [Ryanair Literally Sucks](https://apnews.com/article/greece-germany-ryanair-passenger-457c424f541152af1becdb387c90cfdd) — *Daring Fireball* `07-11`
 - [Newly Renamed Trump Airport in Palm Beach Has an AI Slop Logo](https://futurism.com/artificial-intelligence/trump-airport-logo-ai) — *Daring Fireball* `07-11`
-- [Mac OS 9’s Finder Had a ‘View as Buttons’ Mode](https://www.cryan.com/blog/20240502.jsp) — *Daring Fireball* `07-11`
-- [Squircle Jail Isn’t (Or at Least Shouldn’t Be) About Upcoming Touchscreen Macs](https://daringfireball.net/2026/07/whats_good_for_the_ios_goose_is_often_not_good_for_the_macos_gander) — *Daring Fireball* `07-11`
 <!--BLOG_RADAR:end-->
 
 ---
