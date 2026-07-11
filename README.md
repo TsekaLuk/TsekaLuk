@@ -208,11 +208,11 @@ Last Updated: Saturday, July 11th, 2026, 9:05:24 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Reading List 07/11/26](https://www.construction-physics.com/p/reading-list-071126) — *Construction Physics* `07-11`
+- [Goede geluiden over digitale autonomie](https://berthub.eu/articles/posts/goede-geluiden-over-digitale-autonomie/) — *Bert Hubert's writings* `07-11`
+- [This Week in Package Management: 11 July 2026](https://nesbitt.io/2026/07/11/this-week-in-package-management.html) — *Andrew Nesbitt* `07-11`
+- [Pluralistic: Workplace "flexibility" isn't (11 Jul 2026)](https://pluralistic.net/2026/07/11/your-risk/) — *Pluralistic: Daily links from Cory Doctorow* `07-11`
 - [John Ternus Calls Sam Altman](https://www.youtube.com/watch?v=ClASuxd8jQY) — *Daring Fireball* `07-11`
-- [‘No Interest’](https://x.com/drewpusateri/status/2075708238650089981) — *Daring Fireball* `07-11`
-- [Ice Cold](https://www.threads.com/@alexheath/post/DaoI2jaEioX) — *Daring Fireball* `07-11`
-- [Ryanair Literally Sucks](https://apnews.com/article/greece-germany-ryanair-passenger-457c424f541152af1becdb387c90cfdd) — *Daring Fireball* `07-11`
-- [Newly Renamed Trump Airport in Palm Beach Has an AI Slop Logo](https://futurism.com/artificial-intelligence/trump-airport-logo-ai) — *Daring Fireball* `07-11`
 <!--BLOG_RADAR:end-->
 
 ---

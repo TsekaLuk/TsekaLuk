@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 11 Jul 2026 08:05:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 13:41:22 +0000</lastBuildDate>
+    <item>
+      <title>Reading List 07/11/26</title>
+      <link>https://www.construction-physics.com/p/reading-list-071126</link>
+      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-071126</guid>
+      <pubDate>Sat, 11 Jul 2026 12:01:33 +0000</pubDate>
+      <description>Construction Physics</description>
+    </item>
+    <item>
+      <title>Goede geluiden over digitale autonomie</title>
+      <link>https://berthub.eu/articles/posts/goede-geluiden-over-digitale-autonomie/</link>
+      <guid isPermaLink="true">https://berthub.eu/articles/posts/goede-geluiden-over-digitale-autonomie/</guid>
+      <pubDate>Sat, 11 Jul 2026 10:00:13 +0000</pubDate>
+      <description>Bert Hubert's writings</description>
+    </item>
+    <item>
+      <title>This Week in Package Management: 11 July 2026</title>
+      <link>https://nesbitt.io/2026/07/11/this-week-in-package-management.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/07/11/this-week-in-package-management.html</guid>
+      <pubDate>Sat, 11 Jul 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>Pluralistic: Workplace "flexibility" isn't (11 Jul 2026)</title>
+      <link>https://pluralistic.net/2026/07/11/your-risk/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/07/11/your-risk/</guid>
+      <pubDate>Sat, 11 Jul 2026 08:54:28 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
     <item>
       <title>John Ternus Calls Sam Altman</title>
       <link>https://www.youtube.com/watch?v=ClASuxd8jQY</link>
@@ -370,6 +398,13 @@
       <description>Troy Hunt</description>
     </item>
     <item>
+      <title>Felons, Fraudsters Flog Offensive Cybersecurity Startup</title>
+      <link>https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/</link>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/</guid>
+      <pubDate>Wed, 08 Jul 2026 12:31:39 +0000</pubDate>
+      <description>Krebs on Security</description>
+    </item>
+    <item>
       <title>A bug which only affected left-handed users</title>
       <link>https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/</link>
       <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/</guid>
@@ -580,13 +615,6 @@
       <description>Terence Eden’s Blog</description>
     </item>
     <item>
-      <title>My blog has moved</title>
-      <link>https://mjg59.dreamwidth.org/74260.html</link>
-      <guid isPermaLink="true">https://mjg59.dreamwidth.org/74260.html</guid>
-      <pubDate>Mon, 06 Jul 2026 09:03:04 +0000</pubDate>
-      <description>Matthew Garrett</description>
-    </item>
-    <item>
       <title>Amazon Basics, but for intellectual property.</title>
       <link>https://idiallo.com/blog/amazon-basics-but-intellectual-property</link>
       <guid isPermaLink="true">https://idiallo.com/blog/amazon-basics-but-intellectual-property</guid>
@@ -601,18 +629,18 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>C2PA only works if everything is signed</title>
-      <link>https://seangoedecke.com/c2pa-only-works-if-everything-is-signed/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/c2pa-only-works-if-everything-is-signed/</guid>
-      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
       <title>Stephan's Quintet</title>
       <link>https://maurycyz.com/astro/h92/</link>
       <guid isPermaLink="true">https://maurycyz.com/astro/h92/</guid>
       <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
       <description>Maurycy's Blog</description>
+    </item>
+    <item>
+      <title>C2PA only works if everything is signed</title>
+      <link>https://seangoedecke.com/c2pa-only-works-if-everything-is-signed/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/c2pa-only-works-if-everything-is-signed/</guid>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>Life with hazard ratios</title>
@@ -815,34 +843,6 @@
       <link>https://www.ookla.com/articles/a-return-to-mmwave-5g</link>
       <guid isPermaLink="true">https://www.ookla.com/articles/a-return-to-mmwave-5g</guid>
       <pubDate>Thu, 02 Jul 2026 22:30:40 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Introducing the Safari MCP Server for Web Developers</title>
-      <link>https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/</link>
-      <guid isPermaLink="true">https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/</guid>
-      <pubDate>Thu, 02 Jul 2026 21:55:31 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>EveryMac Turns 30</title>
-      <link>https://everymac.com/whatsnew/</link>
-      <guid isPermaLink="true">https://everymac.com/whatsnew/</guid>
-      <pubDate>Thu, 02 Jul 2026 21:31:04 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>I Repeat Myself (5G vs. LTE Edition)</title>
-      <link>https://daringfireball.net/linked/2022/03/23/5g-battery-life</link>
-      <guid isPermaLink="true">https://daringfireball.net/linked/2022/03/23/5g-battery-life</guid>
-      <pubDate>Thu, 02 Jul 2026 20:32:31 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Truth Social Is Still Just Trump’s Blog</title>
-      <link>https://daringfireball.net/2025/06/truth_social_is_just_trumps_blog</link>
-      <guid isPermaLink="true">https://daringfireball.net/2025/06/truth_social_is_just_trumps_blog</guid>
-      <pubDate>Thu, 02 Jul 2026 19:38:45 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
   </channel>
