@@ -208,11 +208,11 @@ Last Updated: Saturday, July 11th, 2026, 10:05:32 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Premium: The Hater's Guide To The Memory Crisis](https://www.wheresyoured.at/premium-the-haters-guide-to-the-memory-crisis/) — *Ed Zitron's Where's Your Ed At* `07-10`
-- [Quoting Nilay Patel](https://simonwillison.net/2026/Jul/10/nilay-patel/#atom-everything) — *Simon Willison's Weblog* `07-10`
-- [Adam Brown – A deep but accessible introduction to general relativity](https://www.dwarkesh.com/p/adam-brown-gr) — *Dwarkesh Podcast* `07-10`
-- [This Week on The Analog Antiquarian](https://www.filfre.net/2026/07/this-week-on-the-analog-antiquarian/) — *The Digital Antiquarian* `07-10`
-- [QuadRF can spot drones and see WiFi through my wall](https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/) — *Jeff Geerling* `07-10`
+- [Ice Cold](https://www.threads.com/@alexheath/post/DaoI2jaEioX) — *Daring Fireball* `07-11`
+- [Ryanair Literally Sucks](https://apnews.com/article/greece-germany-ryanair-passenger-457c424f541152af1becdb387c90cfdd) — *Daring Fireball* `07-11`
+- [Newly Renamed Trump Airport in Palm Beach Has an AI Slop Logo](https://futurism.com/artificial-intelligence/trump-airport-logo-ai) — *Daring Fireball* `07-11`
+- [Mac OS 9’s Finder Had a ‘View as Buttons’ Mode](https://www.cryan.com/blog/20240502.jsp) — *Daring Fireball* `07-11`
+- [Squircle Jail Isn’t (Or at Least Shouldn’t Be) About Upcoming Touchscreen Macs](https://daringfireball.net/2026/07/whats_good_for_the_ios_goose_is_often_not_good_for_the_macos_gander) — *Daring Fireball* `07-11`
 <!--BLOG_RADAR:end-->
 
 ---
