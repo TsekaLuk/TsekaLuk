@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 12 Jul 2026 03:35:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 08:26:41 +0000</lastBuildDate>
     <item>
       <title>sqlite-utils 4.1</title>
       <link>https://simonwillison.net/2026/Jul/11/sqlite-utils/#atom-everything</link>
@@ -221,13 +221,6 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260710-00/?p=112514</guid>
       <pubDate>Fri, 10 Jul 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Game Review: Lovers In A Dangerous Spacetime ★★★☆☆</title>
-      <link>https://shkspr.mobi/blog/2026/07/game-review-lovers-in-a-dangerous-spacetime/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/game-review-lovers-in-a-dangerous-spacetime/</guid>
-      <pubDate>Fri, 10 Jul 2026 11:34:18 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Package Management as Org Chart</title>
@@ -482,13 +475,6 @@
       <description>Krebs on Security</description>
     </item>
     <item>
-      <title>A bug which only affected left-handed users</title>
-      <link>https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/</guid>
-      <pubDate>Wed, 08 Jul 2026 11:34:43 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>And Then the Billionaire Paid Off $550 Million of Our Debts</title>
       <link>https://idiallo.com/blog/billionaire-paid-off-550-million-dollars-of-our-debts</link>
       <guid isPermaLink="true">https://idiallo.com/blog/billionaire-paid-off-550-million-dollars-of-our-debts</guid>
@@ -685,13 +671,6 @@
       <description>John D. Cook</description>
     </item>
     <item>
-      <title>I'm just so bored of AI</title>
-      <link>https://shkspr.mobi/blog/2026/07/im-just-so-bored-of-ai/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/im-just-so-bored-of-ai/</guid>
-      <pubDate>Mon, 06 Jul 2026 11:34:18 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>My blog has moved</title>
       <link>https://mjg59.dreamwidth.org/74260.html</link>
       <guid isPermaLink="true">https://mjg59.dreamwidth.org/74260.html</guid>
@@ -811,13 +790,6 @@
       <description>Construction Physics</description>
     </item>
     <item>
-      <title>Combined 1D and 2D Barcodes</title>
-      <link>https://shkspr.mobi/blog/2026/07/combined-1d-and-2d-barcodes/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/combined-1d-and-2d-barcodes/</guid>
-      <pubDate>Sat, 04 Jul 2026 11:34:57 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>This Week in Package Management: 4 July 2026</title>
       <link>https://nesbitt.io/2026/07/04/this-week-in-package-management.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/07/04/this-week-in-package-management.html</guid>
@@ -844,6 +816,34 @@
       <guid isPermaLink="true">https://computer.rip/2026-07-04-microwave-and-power.html</guid>
       <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
       <description>computers are bad</description>
+    </item>
+    <item>
+      <title>Open Source AI Gap Map</title>
+      <link>https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything</guid>
+      <pubDate>Fri, 03 Jul 2026 22:04:31 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Quoting Josh W. Comeau</title>
+      <link>https://simonwillison.net/2026/Jul/3/josh-w-comeau/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/3/josh-w-comeau/#atom-everything</guid>
+      <pubDate>Fri, 03 Jul 2026 21:25:52 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>★ Claude’s Criminally Bad Electron Mac App Is an Inside Job</title>
+      <link>https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job</guid>
+      <pubDate>Fri, 03 Jul 2026 21:24:05 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Fable's judgement</title>
+      <link>https://simonwillison.net/2026/Jul/3/judgement/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/3/judgement/#atom-everything</guid>
+      <pubDate>Fri, 03 Jul 2026 18:51:06 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
