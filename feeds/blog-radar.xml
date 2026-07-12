@@ -4,7 +4,49 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 11 Jul 2026 19:13:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 03:35:17 +0000</lastBuildDate>
+    <item>
+      <title>sqlite-utils 4.1</title>
+      <link>https://simonwillison.net/2026/Jul/11/sqlite-utils/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/11/sqlite-utils/#atom-everything</guid>
+      <pubDate>Sat, 11 Jul 2026 23:50:20 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Can Someone Explain to Me How to Get ‘ChatGPT Classic’?</title>
+      <link>https://help.openai.com/en/articles/20001276-moving-to-the-new-chatgpt-desktop-app</link>
+      <guid isPermaLink="true">https://help.openai.com/en/articles/20001276-moving-to-the-new-chatgpt-desktop-app</guid>
+      <pubDate>Sat, 11 Jul 2026 22:38:39 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>OpenAI Help Center Describes What Is Wrong With the New ChatGPT</title>
+      <link>https://help.openai.com/en/articles/20001275-chatgpt-work-and-codex</link>
+      <guid isPermaLink="true">https://help.openai.com/en/articles/20001275-chatgpt-work-and-codex</guid>
+      <pubDate>Sat, 11 Jul 2026 22:24:20 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Benedict Evans on the New ‘Super App’ ChatGPT</title>
+      <link>https://www.threads.com/@benedictevans/post/Dano_uvDr8F</link>
+      <guid isPermaLink="true">https://www.threads.com/@benedictevans/post/Dano_uvDr8F</guid>
+      <pubDate>Sat, 11 Jul 2026 22:16:21 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Progress on Gilbreath’s conjecture</title>
+      <link>https://www.johndcook.com/blog/2026/07/11/progress-on-gilbreaths-conjecture/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/07/11/progress-on-gilbreaths-conjecture/</guid>
+      <pubDate>Sat, 11 Jul 2026 21:30:11 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>★ Exactly Like Om Malik</title>
+      <link>https://daringfireball.net/2026/07/exactly_like_om_malik</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/07/exactly_like_om_malik</guid>
+      <pubDate>Sat, 11 Jul 2026 19:43:35 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Gurman on Tang Tan and Paul Meade</title>
       <link>https://www.bloomberg.com/news/articles/2026-07-11/openai-engineer-s-lol-moment-set-stage-for-legal-fight-with-apple</link>
@@ -118,6 +160,13 @@
       <description>Evan Hahn (dot com)</description>
     </item>
     <item>
+      <title>A dock that finally wakes up reliably</title>
+      <link>https://fabiensanglard.net/tb4/index.html</link>
+      <guid isPermaLink="true">https://fabiensanglard.net/tb4/index.html</guid>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Fabien Sanglard</description>
+    </item>
+    <item>
       <title>Building intuition about LLM parameter counts</title>
       <link>https://www.gilesthomas.com/2026/07/llm-parameter-counts</link>
       <guid isPermaLink="true">https://www.gilesthomas.com/2026/07/llm-parameter-counts</guid>
@@ -207,6 +256,13 @@
       <guid isPermaLink="true">https://www.wsj.com/tech/openai-top-executive-fidji-simo-to-step-down-c3daca47?st=NfBZTe</guid>
       <pubDate>Fri, 10 Jul 2026 00:35:59 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Don't you mean extinct?</title>
+      <link>https://fabiensanglard.net/extinct/index.html</link>
+      <guid isPermaLink="true">https://fabiensanglard.net/extinct/index.html</guid>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Fabien Sanglard</description>
     </item>
     <item>
       <title>Today’s the Day OpenAI Fucked Up the ChatGPT Mac App</title>
@@ -664,18 +720,18 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>Life with hazard ratios</title>
-      <link>https://dynomight.net/hazard-ratios/</link>
-      <guid isPermaLink="true">https://dynomight.net/hazard-ratios/</guid>
-      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
-    </item>
-    <item>
       <title>Stephan's Quintet</title>
       <link>https://maurycyz.com/astro/h92/</link>
       <guid isPermaLink="true">https://maurycyz.com/astro/h92/</guid>
       <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
       <description>Maurycy's Blog</description>
+    </item>
+    <item>
+      <title>Life with hazard ratios</title>
+      <link>https://dynomight.net/hazard-ratios/</link>
+      <guid isPermaLink="true">https://dynomight.net/hazard-ratios/</guid>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>GLM 5.2 and the coming AI margin collapse (part 1)</title>
@@ -788,62 +844,6 @@
       <guid isPermaLink="true">https://computer.rip/2026-07-04-microwave-and-power.html</guid>
       <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
       <description>computers are bad</description>
-    </item>
-    <item>
-      <title>Open Source AI Gap Map</title>
-      <link>https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything</guid>
-      <pubDate>Fri, 03 Jul 2026 22:04:31 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Quoting Josh W. Comeau</title>
-      <link>https://simonwillison.net/2026/Jul/3/josh-w-comeau/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/3/josh-w-comeau/#atom-everything</guid>
-      <pubDate>Fri, 03 Jul 2026 21:25:52 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>★ Claude’s Criminally Bad Electron Mac App Is an Inside Job</title>
-      <link>https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job</guid>
-      <pubDate>Fri, 03 Jul 2026 21:24:05 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Fable's judgement</title>
-      <link>https://simonwillison.net/2026/Jul/3/judgement/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/3/judgement/#atom-everything</guid>
-      <pubDate>Fri, 03 Jul 2026 18:51:06 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>The Life and Times of Maxis, Part 1: SimEverything</title>
-      <link>https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-1-simeverything/</link>
-      <guid isPermaLink="true">https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-1-simeverything/</guid>
-      <pubDate>Fri, 03 Jul 2026 15:46:04 +0000</pubDate>
-      <description>The Digital Antiquarian</description>
-    </item>
-    <item>
-      <title>June 2026 newsletter</title>
-      <link>https://simonwillison.net/2026/Jul/3/june-newsletter/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/3/june-newsletter/#atom-everything</guid>
-      <pubDate>Fri, 03 Jul 2026 14:50:50 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>How did we conclude that CcNamespace.dll was the ringleader of a group of DLLs that unloaded prematurely?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260703-00/?p=112504</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260703-00/?p=112504</guid>
-      <pubDate>Fri, 03 Jul 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Midnight Train to Stockholm</title>
-      <link>https://matduggan.com/midnight-train-to-stockholm/</link>
-      <guid isPermaLink="true">https://matduggan.com/midnight-train-to-stockholm/</guid>
-      <pubDate>Fri, 03 Jul 2026 13:03:28 +0000</pubDate>
-      <description>matduggan.com</description>
     </item>
   </channel>
 </rss>

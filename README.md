@@ -208,11 +208,11 @@ Last Updated: Sunday, July 12th, 2026, 10:09:17 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Gurman on Tang Tan and Paul Meade](https://www.bloomberg.com/news/articles/2026-07-11/openai-engineer-s-lol-moment-set-stage-for-legal-fight-with-apple) — *Daring Fireball* `07-11`
-- [Reading List 07/11/26](https://www.construction-physics.com/p/reading-list-071126) — *Construction Physics* `07-11`
-- [Goede geluiden over digitale autonomie](https://berthub.eu/articles/posts/goede-geluiden-over-digitale-autonomie/) — *Bert Hubert's writings* `07-11`
-- [This Week in Package Management: 11 July 2026](https://nesbitt.io/2026/07/11/this-week-in-package-management.html) — *Andrew Nesbitt* `07-11`
-- [Pluralistic: Workplace "flexibility" isn't (11 Jul 2026)](https://pluralistic.net/2026/07/11/your-risk/) — *Pluralistic: Daily links from Cory Doctorow* `07-11`
+- [sqlite-utils 4.1](https://simonwillison.net/2026/Jul/11/sqlite-utils/#atom-everything) — *Simon Willison's Weblog* `07-11`
+- [Can Someone Explain to Me How to Get ‘ChatGPT Classic’?](https://help.openai.com/en/articles/20001276-moving-to-the-new-chatgpt-desktop-app) — *Daring Fireball* `07-11`
+- [OpenAI Help Center Describes What Is Wrong With the New ChatGPT](https://help.openai.com/en/articles/20001275-chatgpt-work-and-codex) — *Daring Fireball* `07-11`
+- [Benedict Evans on the New ‘Super App’ ChatGPT](https://www.threads.com/@benedictevans/post/Dano_uvDr8F) — *Daring Fireball* `07-11`
+- [Progress on Gilbreath’s conjecture](https://www.johndcook.com/blog/2026/07/11/progress-on-gilbreaths-conjecture/) — *John D. Cook* `07-11`
 <!--BLOG_RADAR:end-->
 
 ---
