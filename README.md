@@ -208,11 +208,11 @@ Last Updated: Monday, July 13th, 2026, 2:57:26 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [sqlite-utils 4.1](https://simonwillison.net/2026/Jul/11/sqlite-utils/#atom-everything) — *Simon Willison's Weblog* `07-11`
-- [Can Someone Explain to Me How to Get ‘ChatGPT Classic’?](https://help.openai.com/en/articles/20001276-moving-to-the-new-chatgpt-desktop-app) — *Daring Fireball* `07-11`
-- [OpenAI Help Center Describes What Is Wrong With the New ChatGPT](https://help.openai.com/en/articles/20001275-chatgpt-work-and-codex) — *Daring Fireball* `07-11`
-- [Benedict Evans on the New ‘Super App’ ChatGPT](https://www.threads.com/@benedictevans/post/Dano_uvDr8F) — *Daring Fireball* `07-11`
-- [Progress on Gilbreath’s conjecture](https://www.johndcook.com/blog/2026/07/11/progress-on-gilbreaths-conjecture/) — *John D. Cook* `07-11`
+- [TwoMillionKit: Use Private Cloud Compute in MacOS 27 Foundation Models Without an Entitlement](https://github.com/insidegui/TwoMillionKit) — *Daring Fireball* `07-12`
+- [Posterior mean](https://www.johndcook.com/blog/2026/07/12/posterior-mean/) — *John D. Cook* `07-12`
+- [Sam Altman and Elon Musk Argue Over Who’s Running the Bigger Scam](https://x.com/sama/status/2075982617976230043) — *Daring Fireball* `07-12`
+- [Lunacy — Jeff Halter’s Lunatic Fringe Player](https://morphing.cloud/lunacy/) — *Daring Fireball* `07-12`
+- [Stacks — HyperCard Player for Modern MacOS](https://morphing.cloud/hypercard/) — *Daring Fireball* `07-12`
 <!--BLOG_RADAR:end-->
 
 ---

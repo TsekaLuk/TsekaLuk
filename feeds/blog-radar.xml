@@ -4,7 +4,56 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 12 Jul 2026 13:41:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 19:14:34 +0000</lastBuildDate>
+    <item>
+      <title>TwoMillionKit: Use Private Cloud Compute in MacOS 27 Foundation Models Without an Entitlement</title>
+      <link>https://github.com/insidegui/TwoMillionKit</link>
+      <guid isPermaLink="true">https://github.com/insidegui/TwoMillionKit</guid>
+      <pubDate>Sun, 12 Jul 2026 18:04:05 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Posterior mean</title>
+      <link>https://www.johndcook.com/blog/2026/07/12/posterior-mean/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/07/12/posterior-mean/</guid>
+      <pubDate>Sun, 12 Jul 2026 17:48:14 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Sam Altman and Elon Musk Argue Over Who’s Running the Bigger Scam</title>
+      <link>https://x.com/sama/status/2075982617976230043</link>
+      <guid isPermaLink="true">https://x.com/sama/status/2075982617976230043</guid>
+      <pubDate>Sun, 12 Jul 2026 17:45:57 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Lunacy — Jeff Halter’s Lunatic Fringe Player</title>
+      <link>https://morphing.cloud/lunacy/</link>
+      <guid isPermaLink="true">https://morphing.cloud/lunacy/</guid>
+      <pubDate>Sun, 12 Jul 2026 17:19:36 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Stacks — HyperCard Player for Modern MacOS</title>
+      <link>https://morphing.cloud/hypercard/</link>
+      <guid isPermaLink="true">https://morphing.cloud/hypercard/</guid>
+      <pubDate>Sun, 12 Jul 2026 15:42:21 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Another Ridiculous Interrail Holiday - 6,379Km and 13 Countries over 7 weeks</title>
+      <link>https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/</guid>
+      <pubDate>Sun, 12 Jul 2026 11:34:43 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>I love LLMs, I hate hype</title>
+      <link>https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html</link>
+      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html</guid>
+      <pubDate>Sun, 12 Jul 2026 07:00:00 +0000</pubDate>
+      <description>the singularity is nearer</description>
+    </item>
     <item>
       <title>sqlite-utils 4.1</title>
       <link>https://simonwillison.net/2026/Jul/11/sqlite-utils/#atom-everything</link>
@@ -49,8 +98,8 @@
     </item>
     <item>
       <title>Gurman on Tang Tan and Paul Meade</title>
-      <link>https://www.bloomberg.com/news/articles/2026-07-11/openai-engineer-s-lol-moment-set-stage-for-legal-fight-with-apple</link>
-      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-07-11/openai-engineer-s-lol-moment-set-stage-for-legal-fight-with-apple</guid>
+      <link>https://www.bloomberg.com/news/articles/2026-07-11/openai-engineer-s-lol-moment-set-stage-for-legal-fight-with-apple?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4Mzc3OTcwMCwiZXhwIjoxNzg0Mzg0NTAwLCJhcnRpY2xlSWQiOiJUSFpEVUhLR0lGUEMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.lF9LVTMyaJOToYhpwph5JjsSJEjdBGXLbenBKQdpHhc&amp;leadSource=uverify%20wall</link>
+      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-07-11/openai-engineer-s-lol-moment-set-stage-for-legal-fight-with-apple?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4Mzc3OTcwMCwiZXhwIjoxNzg0Mzg0NTAwLCJhcnRpY2xlSWQiOiJUSFpEVUhLR0lGUEMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.lF9LVTMyaJOToYhpwph5JjsSJEjdBGXLbenBKQdpHhc&amp;leadSource=uverify%20wall</guid>
       <pubDate>Sat, 11 Jul 2026 18:02:17 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
@@ -221,6 +270,13 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260710-00/?p=112514</guid>
       <pubDate>Fri, 10 Jul 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>Game Review: Lovers In A Dangerous Spacetime ★★★☆☆</title>
+      <link>https://shkspr.mobi/blog/2026/07/game-review-lovers-in-a-dangerous-spacetime/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/game-review-lovers-in-a-dangerous-spacetime/</guid>
+      <pubDate>Fri, 10 Jul 2026 11:34:18 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Package Management as Org Chart</title>
@@ -475,6 +531,13 @@
       <description>Krebs on Security</description>
     </item>
     <item>
+      <title>A bug which only affected left-handed users</title>
+      <link>https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/</guid>
+      <pubDate>Wed, 08 Jul 2026 11:34:43 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>And Then the Billionaire Paid Off $550 Million of Our Debts</title>
       <link>https://idiallo.com/blog/billionaire-paid-off-550-million-dollars-of-our-debts</link>
       <guid isPermaLink="true">https://idiallo.com/blog/billionaire-paid-off-550-million-dollars-of-our-debts</guid>
@@ -671,11 +734,11 @@
       <description>John D. Cook</description>
     </item>
     <item>
-      <title>My blog has moved</title>
-      <link>https://mjg59.dreamwidth.org/74260.html</link>
-      <guid isPermaLink="true">https://mjg59.dreamwidth.org/74260.html</guid>
-      <pubDate>Mon, 06 Jul 2026 09:03:04 +0000</pubDate>
-      <description>Matthew Garrett</description>
+      <title>I'm just so bored of AI</title>
+      <link>https://shkspr.mobi/blog/2026/07/im-just-so-bored-of-ai/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/im-just-so-bored-of-ai/</guid>
+      <pubDate>Mon, 06 Jul 2026 11:34:18 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Amazon Basics, but for intellectual property.</title>
@@ -781,69 +844,6 @@
       <guid isPermaLink="true">https://flexibits.com/blog/2026/06/double-booked-never-heard-of-it-meet-calendar-mirroring-in-fantastical/</guid>
       <pubDate>Sat, 04 Jul 2026 16:57:22 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Reading List 07/04/26</title>
-      <link>https://www.construction-physics.com/p/reading-list-070426</link>
-      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-070426</guid>
-      <pubDate>Sat, 04 Jul 2026 12:03:22 +0000</pubDate>
-      <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>This Week in Package Management: 4 July 2026</title>
-      <link>https://nesbitt.io/2026/07/04/this-week-in-package-management.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/07/04/this-week-in-package-management.html</guid>
-      <pubDate>Sat, 04 Jul 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Does additional data always reduce posterior variance?</title>
-      <link>https://www.johndcook.com/blog/2026/07/03/does-additional-data-always-reduce-posterior-variance/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/07/03/does-additional-data-always-reduce-posterior-variance/</guid>
-      <pubDate>Sat, 04 Jul 2026 02:50:36 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Better Models: Worse Tools</title>
-      <link>https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/</link>
-      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/</guid>
-      <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Armin Ronacher's Thoughts and Writings</description>
-    </item>
-    <item>
-      <title>megawatts by microwave</title>
-      <link>https://computer.rip/2026-07-04-microwave-and-power.html</link>
-      <guid isPermaLink="true">https://computer.rip/2026-07-04-microwave-and-power.html</guid>
-      <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
-      <description>computers are bad</description>
-    </item>
-    <item>
-      <title>Open Source AI Gap Map</title>
-      <link>https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything</guid>
-      <pubDate>Fri, 03 Jul 2026 22:04:31 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Quoting Josh W. Comeau</title>
-      <link>https://simonwillison.net/2026/Jul/3/josh-w-comeau/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/3/josh-w-comeau/#atom-everything</guid>
-      <pubDate>Fri, 03 Jul 2026 21:25:52 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>★ Claude’s Criminally Bad Electron Mac App Is an Inside Job</title>
-      <link>https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job</guid>
-      <pubDate>Fri, 03 Jul 2026 21:24:05 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Fable's judgement</title>
-      <link>https://simonwillison.net/2026/Jul/3/judgement/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/3/judgement/#atom-everything</guid>
-      <pubDate>Fri, 03 Jul 2026 18:51:06 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
