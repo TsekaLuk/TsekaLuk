@@ -208,11 +208,11 @@ Last Updated: Monday, July 13th, 2026, 4:57:09 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Pluralistic: Why aren't AI companies competing directly with their customers? (13 Jul 2026)](https://pluralistic.net/2026/07/13/go-meta-meta/) — *Pluralistic: Daily links from Cory Doctorow* `07-13`
 - [Directly Responsible Individuals (DRI)](https://simonwillison.net/2026/Jul/12/directly-responsible-individuals/#atom-everything) — *Simon Willison's Weblog* `07-12`
 - [shot-scraper 1.11](https://simonwillison.net/2026/Jul/12/shot-scraper/#atom-everything) — *Simon Willison's Weblog* `07-12`
 - [WorkOS Pipes](https://workos.com/pipes?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026) — *Daring Fireball* `07-12`
 - [Fable gets another bump](https://simonwillison.net/2026/Jul/12/bump/#atom-everything) — *Simon Willison's Weblog* `07-12`
-- [Paulo Andrade: ‘A WWDC 27 Update on Building a Mac-Assed App With SwiftUI’](https://pfandrade.me/blog/swiftui-mac-assed-wwdc27-update/) — *Daring Fireball* `07-12`
 <!--BLOG_RADAR:end-->
 
 ---

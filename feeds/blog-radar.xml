@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 13 Jul 2026 03:37:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 09:39:28 +0000</lastBuildDate>
+    <item>
+      <title>Pluralistic: Why aren't AI companies competing directly with their customers? (13 Jul 2026)</title>
+      <link>https://pluralistic.net/2026/07/13/go-meta-meta/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/07/13/go-meta-meta/</guid>
+      <pubDate>Mon, 13 Jul 2026 08:15:24 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
     <item>
       <title>Directly Responsible Individuals (DRI)</title>
       <link>https://simonwillison.net/2026/Jul/12/directly-responsible-individuals/#atom-everything</link>
@@ -67,6 +74,13 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/07/12/posterior-variance/</guid>
       <pubDate>Sun, 12 Jul 2026 19:26:29 +0000</pubDate>
       <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>What’s an Icon in 2026?</title>
+      <link>https://blog.jim-nielsen.com/2026/icons-as-software/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/icons-as-software/</guid>
+      <pubDate>Sun, 12 Jul 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
     </item>
     <item>
       <title>TwoMillionKit: Use Private Cloud Compute in MacOS 27 Foundation Models Without an Entitlement</title>
@@ -328,18 +342,18 @@
       <description>The Digital Antiquarian</description>
     </item>
     <item>
-      <title>QuadRF can spot drones and see WiFi through my wall</title>
-      <link>https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/</guid>
-      <pubDate>Fri, 10 Jul 2026 14:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
       <title>The case of the mysterious changes to integers when there shouldn’t have been any code generation effect</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260710-00/?p=112514</link>
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260710-00/?p=112514</guid>
       <pubDate>Fri, 10 Jul 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>QuadRF can spot drones and see WiFi through my wall</title>
+      <link>https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/</guid>
+      <pubDate>Fri, 10 Jul 2026 14:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
     </item>
     <item>
       <title>Game Review: Lovers In A Dangerous Spacetime ★★★☆☆</title>
@@ -566,18 +580,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>The Special Value Pi 4 was extremely short-lived</title>
-      <link>https://www.jeffgeerling.com/blog/2026/special-value-pi-4-extremely-short-lived/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/special-value-pi-4-extremely-short-lived/</guid>
-      <pubDate>Wed, 08 Jul 2026 14:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
       <title>The other kind of control flow guard check: The combined validate and call</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260708-00/?p=112510</link>
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260708-00/?p=112510</guid>
       <pubDate>Wed, 08 Jul 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>The Special Value Pi 4 was extremely short-lived</title>
+      <link>https://www.jeffgeerling.com/blog/2026/special-value-pi-4-extremely-short-lived/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/special-value-pi-4-extremely-short-lived/</guid>
+      <pubDate>Wed, 08 Jul 2026 14:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
     </item>
     <item>
       <title>Weekly Update 511: Live from my Riad in Marrakech</title>
@@ -825,25 +839,11 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>C2PA only works if everything is signed</title>
-      <link>https://seangoedecke.com/c2pa-only-works-if-everything-is-signed/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/c2pa-only-works-if-everything-is-signed/</guid>
-      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
       <title>Stephan's Quintet</title>
       <link>https://maurycyz.com/astro/h92/</link>
       <guid isPermaLink="true">https://maurycyz.com/astro/h92/</guid>
       <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
       <description>Maurycy's Blog</description>
-    </item>
-    <item>
-      <title>Life with hazard ratios</title>
-      <link>https://dynomight.net/hazard-ratios/</link>
-      <guid isPermaLink="true">https://dynomight.net/hazard-ratios/</guid>
-      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
     </item>
   </channel>
 </rss>
