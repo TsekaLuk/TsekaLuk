@@ -208,11 +208,11 @@ Last Updated: Monday, July 13th, 2026, 10:12:14 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [TwoMillionKit: Use Private Cloud Compute in MacOS 27 Foundation Models Without an Entitlement](https://github.com/insidegui/TwoMillionKit) — *Daring Fireball* `07-12`
-- [Posterior mean](https://www.johndcook.com/blog/2026/07/12/posterior-mean/) — *John D. Cook* `07-12`
-- [Sam Altman and Elon Musk Argue Over Who’s Running the Bigger Scam](https://x.com/sama/status/2075982617976230043) — *Daring Fireball* `07-12`
-- [Lunacy — Jeff Halter’s Lunatic Fringe Player](https://morphing.cloud/lunacy/) — *Daring Fireball* `07-12`
-- [Stacks — HyperCard Player for Modern MacOS](https://morphing.cloud/hypercard/) — *Daring Fireball* `07-12`
+- [Directly Responsible Individuals (DRI)](https://simonwillison.net/2026/Jul/12/directly-responsible-individuals/#atom-everything) — *Simon Willison's Weblog* `07-12`
+- [shot-scraper 1.11](https://simonwillison.net/2026/Jul/12/shot-scraper/#atom-everything) — *Simon Willison's Weblog* `07-12`
+- [WorkOS Pipes](https://workos.com/pipes?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026) — *Daring Fireball* `07-12`
+- [Fable gets another bump](https://simonwillison.net/2026/Jul/12/bump/#atom-everything) — *Simon Willison's Weblog* `07-12`
+- [Paulo Andrade: ‘A WWDC 27 Update on Building a Mac-Assed App With SwiftUI’](https://pfandrade.me/blog/swiftui-mac-assed-wwdc27-update/) — *Daring Fireball* `07-12`
 <!--BLOG_RADAR:end-->
 
 ---
