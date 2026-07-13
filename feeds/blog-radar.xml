@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 13 Jul 2026 09:39:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 14:49:53 +0000</lastBuildDate>
+    <item>
+      <title>Why don’t we just make the entire stack out of guard pages?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260713-00/?p=112528</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260713-00/?p=112528</guid>
+      <pubDate>Mon, 13 Jul 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>Control the ideas, not the code</title>
+      <link>http://antirez.com/news/169</link>
+      <guid isPermaLink="true">http://antirez.com/news/169</guid>
+      <pubDate>Mon, 13 Jul 2026 11:39:52 +0000</pubDate>
+      <description>&lt;antirez&gt;</description>
+    </item>
+    <item>
+      <title>[RSS Club] Half a million steps is about 10 marathons</title>
+      <link>https://shkspr.mobi/blog/2026/07/rss-club-half-a-million-steps-is-about-10-marathons/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/rss-club-half-a-million-steps-is-about-10-marathons/</guid>
+      <pubDate>Mon, 13 Jul 2026 11:34:09 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
     <item>
       <title>Pluralistic: Why aren't AI companies competing directly with their customers? (13 Jul 2026)</title>
       <link>https://pluralistic.net/2026/07/13/go-meta-meta/</link>
@@ -342,18 +363,18 @@
       <description>The Digital Antiquarian</description>
     </item>
     <item>
-      <title>The case of the mysterious changes to integers when there shouldn’t have been any code generation effect</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260710-00/?p=112514</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260710-00/?p=112514</guid>
-      <pubDate>Fri, 10 Jul 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
       <title>QuadRF can spot drones and see WiFi through my wall</title>
       <link>https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/</link>
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/</guid>
       <pubDate>Fri, 10 Jul 2026 14:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>The case of the mysterious changes to integers when there shouldn’t have been any code generation effect</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260710-00/?p=112514</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260710-00/?p=112514</guid>
+      <pubDate>Fri, 10 Jul 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Game Review: Lovers In A Dangerous Spacetime ★★★☆☆</title>
@@ -580,18 +601,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>The other kind of control flow guard check: The combined validate and call</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260708-00/?p=112510</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260708-00/?p=112510</guid>
-      <pubDate>Wed, 08 Jul 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
       <title>The Special Value Pi 4 was extremely short-lived</title>
       <link>https://www.jeffgeerling.com/blog/2026/special-value-pi-4-extremely-short-lived/</link>
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/special-value-pi-4-extremely-short-lived/</guid>
       <pubDate>Wed, 08 Jul 2026 14:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>The other kind of control flow guard check: The combined validate and call</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260708-00/?p=112510</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260708-00/?p=112510</guid>
+      <pubDate>Wed, 08 Jul 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Weekly Update 511: Live from my Riad in Marrakech</title>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://mjg59.dreamwidth.org/74260.html</guid>
       <pubDate>Mon, 06 Jul 2026 09:03:04 +0000</pubDate>
       <description>Matthew Garrett</description>
-    </item>
-    <item>
-      <title>Amazon Basics, but for intellectual property.</title>
-      <link>https://idiallo.com/blog/amazon-basics-but-intellectual-property</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/amazon-basics-but-intellectual-property</guid>
-      <pubDate>Mon, 06 Jul 2026 07:00:00 +0000</pubDate>
-      <description>Software and Tech stories from an Insider - iDiallo.com</description>
-    </item>
-    <item>
-      <title>sqlite-utils 4.0rc3</title>
-      <link>https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything</guid>
-      <pubDate>Mon, 06 Jul 2026 05:40:08 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Stephan's Quintet</title>
-      <link>https://maurycyz.com/astro/h92/</link>
-      <guid isPermaLink="true">https://maurycyz.com/astro/h92/</guid>
-      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
     </item>
   </channel>
 </rss>

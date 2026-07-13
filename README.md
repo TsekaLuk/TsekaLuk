@@ -208,11 +208,11 @@ Last Updated: Monday, July 13th, 2026, 10:19:56 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Why don’t we just make the entire stack out of guard pages?](https://devblogs.microsoft.com/oldnewthing/20260713-00/?p=112528) — *The Old New Thing* `07-13`
+- [Control the ideas, not the code](http://antirez.com/news/169) — *<antirez>* `07-13`
+- [[RSS Club] Half a million steps is about 10 marathons](https://shkspr.mobi/blog/2026/07/rss-club-half-a-million-steps-is-about-10-marathons/) — *Terence Eden’s Blog* `07-13`
 - [Pluralistic: Why aren't AI companies competing directly with their customers? (13 Jul 2026)](https://pluralistic.net/2026/07/13/go-meta-meta/) — *Pluralistic: Daily links from Cory Doctorow* `07-13`
 - [Directly Responsible Individuals (DRI)](https://simonwillison.net/2026/Jul/12/directly-responsible-individuals/#atom-everything) — *Simon Willison's Weblog* `07-12`
-- [shot-scraper 1.11](https://simonwillison.net/2026/Jul/12/shot-scraper/#atom-everything) — *Simon Willison's Weblog* `07-12`
-- [WorkOS Pipes](https://workos.com/pipes?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026) — *Daring Fireball* `07-12`
-- [Fable gets another bump](https://simonwillison.net/2026/Jul/12/bump/#atom-everything) — *Simon Willison's Weblog* `07-12`
 <!--BLOG_RADAR:end-->
 
 ---
