@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 13 Jul 2026 19:38:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 03:12:46 +0000</lastBuildDate>
+    <item>
+      <title>Using uvx in GitHub Actions in a cache-friendly way</title>
+      <link>https://simonwillison.net/2026/Jul/14/uvx-github-actions-cache/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/14/uvx-github-actions-cache/#atom-everything</guid>
+      <pubDate>Tue, 14 Jul 2026 00:56:20 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>DOOMQL</title>
+      <link>https://simonwillison.net/2026/Jul/13/doomql/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/13/doomql/#atom-everything</guid>
+      <pubDate>Mon, 13 Jul 2026 22:34:41 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>datasette code-frequency chart on GitHub</title>
+      <link>https://simonwillison.net/2026/Jul/13/datasette-code-frequency/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/13/datasette-code-frequency/#atom-everything</guid>
+      <pubDate>Mon, 13 Jul 2026 21:45:27 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Mandatory Update: A Short Story</title>
       <link>https://micahflee.com/mandatory-update-a-short-story/</link>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://maestral.app/</guid>
       <pubDate>Mon, 06 Jul 2026 17:04:44 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Jason Snell Ends His Column, and 28-Year Run, at Macworld</title>
-      <link>https://www.macworld.com/article/3175482</link>
-      <guid isPermaLink="true">https://www.macworld.com/article/3175482</guid>
-      <pubDate>Mon, 06 Jul 2026 14:35:02 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Premium: The Hater's Guide To SoftBank</title>
-      <link>https://www.wheresyoured.at/premium-the-haters-guide-to-softbank/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/premium-the-haters-guide-to-softbank/</guid>
-      <pubDate>Mon, 06 Jul 2026 14:23:20 +0000</pubDate>
-      <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>Reproducing a geometry theorem diagram</title>
-      <link>https://www.johndcook.com/blog/2026/07/06/arc-hypotenuse/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/07/06/arc-hypotenuse/</guid>
-      <pubDate>Mon, 06 Jul 2026 14:22:35 +0000</pubDate>
-      <description>John D. Cook</description>
     </item>
   </channel>
 </rss>

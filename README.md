@@ -208,11 +208,11 @@ Last Updated: Tuesday, July 14th, 2026, 9:56:45 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Using uvx in GitHub Actions in a cache-friendly way](https://simonwillison.net/2026/Jul/14/uvx-github-actions-cache/#atom-everything) — *Simon Willison's Weblog* `07-14`
+- [DOOMQL](https://simonwillison.net/2026/Jul/13/doomql/#atom-everything) — *Simon Willison's Weblog* `07-13`
+- [datasette code-frequency chart on GitHub](https://simonwillison.net/2026/Jul/13/datasette-code-frequency/#atom-everything) — *Simon Willison's Weblog* `07-13`
 - [Mandatory Update: A Short Story](https://micahflee.com/mandatory-update-a-short-story/) — *micahflee* `07-13`
 - [Remember Musk’s Suit Alleging a Conspiracy Between Apple and OpenAI?](https://arstechnica.com/tech-policy/2025/08/elon-musk-sues-apple-openai-to-block-exclusive-iphone-chatgpt-integration/) — *Daring Fireball* `07-13`
-- [Lessons Learned from CISA’s Recent GitHub Leak](https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/) — *Krebs on Security* `07-13`
-- [Why don’t we just make the entire stack out of guard pages?](https://devblogs.microsoft.com/oldnewthing/20260713-00/?p=112528) — *The Old New Thing* `07-13`
-- [Control the ideas, not the code](http://antirez.com/news/169) — *<antirez>* `07-13`
 <!--BLOG_RADAR:end-->
 
 ---
