@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 14 Jul 2026 08:19:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 14:00:00 +0000</lastBuildDate>
+    <item>
+      <title>I'm a USB-C Maximalist</title>
+      <link>https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/</guid>
+      <pubDate>Tue, 14 Jul 2026 11:34:26 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Pluralistic: Gerontocracy's failure mode (14 Jul 2026)</title>
+      <link>https://pluralistic.net/2026/07/14/designated-survivor/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/07/14/designated-survivor/</guid>
+      <pubDate>Tue, 14 Jul 2026 11:10:45 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
     <item>
       <title>[Sponsor] Paper</title>
       <link>https://paper.design/?utm_source=df</link>
@@ -18,6 +32,13 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Jul/14/uvx-github-actions-cache/#atom-everything</guid>
       <pubDate>Tue, 14 Jul 2026 00:56:20 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>What does "playing politics" mean for software engineers?</title>
+      <link>https://seangoedecke.com/playing-politics/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/playing-politics/</guid>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>DOOMQL</title>
@@ -74,6 +95,13 @@
       <guid isPermaLink="true">http://antirez.com/news/169</guid>
       <pubDate>Mon, 13 Jul 2026 11:39:52 +0000</pubDate>
       <description>&lt;antirez&gt;</description>
+    </item>
+    <item>
+      <title>[RSS Club] Half a million steps is about 10 marathons</title>
+      <link>https://shkspr.mobi/blog/2026/07/rss-club-half-a-million-steps-is-about-10-marathons/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/rss-club-half-a-million-steps-is-about-10-marathons/</guid>
+      <pubDate>Mon, 13 Jul 2026 11:34:09 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Pluralistic: Why aren't AI companies competing directly with their customers? (13 Jul 2026)</title>
@@ -193,6 +221,13 @@
       <guid isPermaLink="true">https://morphing.cloud/hypercard/</guid>
       <pubDate>Sun, 12 Jul 2026 15:42:21 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Another Ridiculous Interrail Holiday - 6,379Km and 13 Countries over 7 weeks</title>
+      <link>https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/</guid>
+      <pubDate>Sun, 12 Jul 2026 11:34:43 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>I love LLMs, I hate hype</title>
@@ -433,6 +468,13 @@
       <description>The Old New Thing</description>
     </item>
     <item>
+      <title>Game Review: Lovers In A Dangerous Spacetime ★★★☆☆</title>
+      <link>https://shkspr.mobi/blog/2026/07/game-review-lovers-in-a-dangerous-spacetime/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/game-review-lovers-in-a-dangerous-spacetime/</guid>
+      <pubDate>Fri, 10 Jul 2026 11:34:18 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>Package Management as Org Chart</title>
       <link>https://nesbitt.io/2026/07/10/package-management-as-org-chart.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/07/10/package-management-as-org-chart.html</guid>
@@ -552,18 +594,18 @@
       <description>Giles' blog</description>
     </item>
     <item>
-      <title>The console wars have been lost</title>
-      <link>https://xeiaso.net/notes/2026/console-wars-lost/</link>
-      <guid isPermaLink="true">https://xeiaso.net/notes/2026/console-wars-lost/</guid>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
       <title>The Tadpole galaxy:</title>
       <link>https://maurycyz.com/astro/arp188/</link>
       <guid isPermaLink="true">https://maurycyz.com/astro/arp188/</guid>
       <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
       <description>Maurycy's Blog</description>
+    </item>
+    <item>
+      <title>The console wars have been lost</title>
+      <link>https://xeiaso.net/notes/2026/console-wars-lost/</link>
+      <guid isPermaLink="true">https://xeiaso.net/notes/2026/console-wars-lost/</guid>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>Rewriting Bun in Rust</title>
@@ -678,6 +720,13 @@
       <description>Krebs on Security</description>
     </item>
     <item>
+      <title>A bug which only affected left-handed users</title>
+      <link>https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/</guid>
+      <pubDate>Wed, 08 Jul 2026 11:34:43 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>And Then the Billionaire Paid Off $550 Million of Our Debts</title>
       <link>https://idiallo.com/blog/billionaire-paid-off-550-million-dollars-of-our-debts</link>
       <guid isPermaLink="true">https://idiallo.com/blog/billionaire-paid-off-550-million-dollars-of-our-debts</guid>
@@ -685,18 +734,18 @@
       <description>Software and Tech stories from an Insider - iDiallo.com</description>
     </item>
     <item>
-      <title>Agents are monads (but not that kind)</title>
-      <link>https://xeiaso.net/blog/2026/hyle-pneuma/</link>
-      <guid isPermaLink="true">https://xeiaso.net/blog/2026/hyle-pneuma/</guid>
-      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
       <title>Arp 90</title>
       <link>https://maurycyz.com/astro/arp90/</link>
       <guid isPermaLink="true">https://maurycyz.com/astro/arp90/</guid>
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
       <description>Maurycy's Blog</description>
+    </item>
+    <item>
+      <title>Agents are monads (but not that kind)</title>
+      <link>https://xeiaso.net/blog/2026/hyle-pneuma/</link>
+      <guid isPermaLink="true">https://xeiaso.net/blog/2026/hyle-pneuma/</guid>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>sqlite-utils 4.0, now with database schema migrations</title>
@@ -794,55 +843,6 @@
       <link>https://daringfireball.net/2026/07/eliminate_app_icon_squircle_jail</link>
       <guid isPermaLink="true">https://daringfireball.net/2026/07/eliminate_app_icon_squircle_jail</guid>
       <pubDate>Mon, 06 Jul 2026 22:23:46 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>A full body MRI earns you a year of smoking</title>
-      <link>https://entropicthoughts.com/full-body-mri-earns-you-a-base-jump</link>
-      <guid isPermaLink="true">https://entropicthoughts.com/full-body-mri-earns-you-a-base-jump</guid>
-      <pubDate>Mon, 06 Jul 2026 22:00:00 +0000</pubDate>
-      <description>Entropic Thoughts</description>
-    </item>
-    <item>
-      <title>Markdown Now Has a Uniform Type Identifer (UTI) in Apple’s Version 27 OSes</title>
-      <link>https://developer.apple.com/documentation/uniformtypeidentifiers/uttype-swift.struct/markdown</link>
-      <guid isPermaLink="true">https://developer.apple.com/documentation/uniformtypeidentifiers/uttype-swift.struct/markdown</guid>
-      <pubDate>Mon, 06 Jul 2026 20:38:43 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Backblaze Versus Dropbox</title>
-      <link>https://mjtsai.com/blog/2025/12/19/backblaze-no-longer-backs-up-dropbox/</link>
-      <guid isPermaLink="true">https://mjtsai.com/blog/2025/12/19/backblaze-no-longer-backs-up-dropbox/</guid>
-      <pubDate>Mon, 06 Jul 2026 18:34:38 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Allen Pike, Back in November: ‘Why Is ChatGPT for Mac So Good?’</title>
-      <link>https://allenpike.com/2025/why-is-chatgpt-so-good-claude/</link>
-      <guid isPermaLink="true">https://allenpike.com/2025/why-is-chatgpt-so-good-claude/</guid>
-      <pubDate>Mon, 06 Jul 2026 17:37:05 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>ATP Member Special: Mac-Assed Mac Apps</title>
-      <link>https://atp.fm/atp-dev-mac-assed-mac-apps</link>
-      <guid isPermaLink="true">https://atp.fm/atp-dev-mac-assed-mac-apps</guid>
-      <pubDate>Mon, 06 Jul 2026 17:13:52 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Maestral, the Open Source Splendidly Simple Mac Dropbox Client, Has Been Retired</title>
-      <link>https://maestral.app/</link>
-      <guid isPermaLink="true">https://maestral.app/</guid>
-      <pubDate>Mon, 06 Jul 2026 17:04:44 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Jason Snell Ends His Column, and 28-Year Run, at Macworld</title>
-      <link>https://www.macworld.com/article/3175482</link>
-      <guid isPermaLink="true">https://www.macworld.com/article/3175482</guid>
-      <pubDate>Mon, 06 Jul 2026 14:35:02 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
   </channel>

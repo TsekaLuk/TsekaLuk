@@ -208,11 +208,11 @@ Last Updated: Tuesday, July 14th, 2026, 9:20:13 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [I'm a USB-C Maximalist](https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/) — *Terence Eden’s Blog* `07-14`
+- [Pluralistic: Gerontocracy's failure mode (14 Jul 2026)](https://pluralistic.net/2026/07/14/designated-survivor/) — *Pluralistic: Daily links from Cory Doctorow* `07-14`
 - [[Sponsor] Paper](https://paper.design/?utm_source=df) — *Daring Fireball* `07-14`
 - [Using uvx in GitHub Actions in a cache-friendly way](https://simonwillison.net/2026/Jul/14/uvx-github-actions-cache/#atom-everything) — *Simon Willison's Weblog* `07-14`
-- [DOOMQL](https://simonwillison.net/2026/Jul/13/doomql/#atom-everything) — *Simon Willison's Weblog* `07-13`
-- [Intuition for distribution differences](https://entropicthoughts.com/distribution-differences) — *Entropic Thoughts* `07-13`
-- [datasette code-frequency chart on GitHub](https://simonwillison.net/2026/Jul/13/datasette-code-frequency/#atom-everything) — *Simon Willison's Weblog* `07-13`
+- [What does "playing politics" mean for software engineers?](https://seangoedecke.com/playing-politics/) — *seangoedecke.com RSS feed* `07-14`
 <!--BLOG_RADAR:end-->
 
 ---
