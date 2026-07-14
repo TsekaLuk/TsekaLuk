@@ -208,11 +208,11 @@ Last Updated: Tuesday, July 14th, 2026, 3:52:23 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [[Sponsor] Paper](https://paper.design/?utm_source=df) — *Daring Fireball* `07-14`
 - [Using uvx in GitHub Actions in a cache-friendly way](https://simonwillison.net/2026/Jul/14/uvx-github-actions-cache/#atom-everything) — *Simon Willison's Weblog* `07-14`
 - [DOOMQL](https://simonwillison.net/2026/Jul/13/doomql/#atom-everything) — *Simon Willison's Weblog* `07-13`
+- [Intuition for distribution differences](https://entropicthoughts.com/distribution-differences) — *Entropic Thoughts* `07-13`
 - [datasette code-frequency chart on GitHub](https://simonwillison.net/2026/Jul/13/datasette-code-frequency/#atom-everything) — *Simon Willison's Weblog* `07-13`
-- [Mandatory Update: A Short Story](https://micahflee.com/mandatory-update-a-short-story/) — *micahflee* `07-13`
-- [Remember Musk’s Suit Alleging a Conspiracy Between Apple and OpenAI?](https://arstechnica.com/tech-policy/2025/08/elon-musk-sues-apple-openai-to-block-exclusive-iphone-chatgpt-integration/) — *Daring Fireball* `07-13`
 <!--BLOG_RADAR:end-->
 
 ---
