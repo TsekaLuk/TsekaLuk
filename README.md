@@ -208,11 +208,11 @@ Last Updated: Wednesday, July 15th, 2026, 3:09:49 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [I'm a USB-C Maximalist](https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/) — *Terence Eden’s Blog* `07-14`
-- [Pluralistic: Gerontocracy's failure mode (14 Jul 2026)](https://pluralistic.net/2026/07/14/designated-survivor/) — *Pluralistic: Daily links from Cory Doctorow* `07-14`
-- [[Sponsor] Paper](https://paper.design/?utm_source=df) — *Daring Fireball* `07-14`
-- [Using uvx in GitHub Actions in a cache-friendly way](https://simonwillison.net/2026/Jul/14/uvx-github-actions-cache/#atom-everything) — *Simon Willison's Weblog* `07-14`
-- [What does "playing politics" mean for software engineers?](https://seangoedecke.com/playing-politics/) — *seangoedecke.com RSS feed* `07-14`
+- [Microsoft Patches a Record 570 Security Flaws](https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/) — *Krebs on Security* `07-14`
+- [Quoting Armin Ronacher](https://simonwillison.net/2026/Jul/14/armin-ronacher/#atom-everything) — *Simon Willison's Weblog* `07-14`
+- [I'm still alive](https://buttondown.com/hillelwayne/archive/im-still-alive/) — *Computer Things* `07-14`
+- [ICD-10 chapters and code letters](https://www.johndcook.com/blog/2026/07/14/icd-10-chapters-letters/) — *John D. Cook* `07-14`
+- [Microspeak: Double-click and drill down](https://devblogs.microsoft.com/oldnewthing/20260714-00/?p=112532) — *The Old New Thing* `07-14`
 <!--BLOG_RADAR:end-->
 
 ---
