@@ -208,11 +208,11 @@ Last Updated: Wednesday, July 15th, 2026, 9:23:42 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Ben je van de IT of niet?](https://berthub.eu/articles/posts/ben-je-van-de-it-of-niet/) — *Bert Hubert's writings* `07-15`
 - [Notes on the Fourier Transform](https://eli.thegreenplace.net/2026/notes-on-the-fourier-transform/) — *Eli Bendersky's website* `07-15`
 - [Weekly Update 512: IoT Lockout Fail](https://www.troyhunt.com/weekly-update-512/) — *Troy Hunt* `07-15`
 - [Quoting GitHub Changelog](https://simonwillison.net/2026/Jul/14/github-changeling/#atom-everything) — *Simon Willison's Weblog* `07-14`
 - [They Prefer the App](https://idiallo.com/blog/they-prefer-the-app) — *Software and Tech stories from an Insider - iDiallo.com* `07-14`
-- [simonw/pedalican](https://simonwillison.net/2026/Jul/14/pedalican/#atom-everything) — *Simon Willison's Weblog* `07-14`
 <!--BLOG_RADAR:end-->
 
 ---
