@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 15 Jul 2026 02:57:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 08:25:26 +0000</lastBuildDate>
+    <item>
+      <title>Notes on the Fourier Transform</title>
+      <link>https://eli.thegreenplace.net/2026/notes-on-the-fourier-transform/</link>
+      <guid isPermaLink="true">https://eli.thegreenplace.net/2026/notes-on-the-fourier-transform/</guid>
+      <pubDate>Wed, 15 Jul 2026 03:04:00 +0000</pubDate>
+      <description>Eli Bendersky's website</description>
+    </item>
     <item>
       <title>Weekly Update 512: IoT Lockout Fail</title>
       <link>https://www.troyhunt.com/weekly-update-512/</link>
@@ -118,6 +125,13 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
+      <title>Pseudpocalypse</title>
+      <link>https://dynomight.net/pseudpocalypse/</link>
+      <guid isPermaLink="true">https://dynomight.net/pseudpocalypse/</guid>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
+    </item>
+    <item>
       <title>Presigned URLs are technically a security vuln</title>
       <link>https://www.tigrisdata.com/blog/presigned-urls-security-vuln/</link>
       <guid isPermaLink="true">https://www.tigrisdata.com/blog/presigned-urls-security-vuln/</guid>
@@ -130,13 +144,6 @@
       <guid isPermaLink="true">https://xeiaso.net/notes/2026/check-your-smart-tv/</guid>
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
-    </item>
-    <item>
-      <title>Pseudpocalypse</title>
-      <link>https://dynomight.net/pseudpocalypse/</link>
-      <guid isPermaLink="true">https://dynomight.net/pseudpocalypse/</guid>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>DOOMQL</title>
@@ -559,18 +566,18 @@
       <description>The Digital Antiquarian</description>
     </item>
     <item>
-      <title>QuadRF can spot drones and see WiFi through my wall</title>
-      <link>https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/</guid>
-      <pubDate>Fri, 10 Jul 2026 14:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
       <title>The case of the mysterious changes to integers when there shouldn’t have been any code generation effect</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260710-00/?p=112514</link>
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260710-00/?p=112514</guid>
       <pubDate>Fri, 10 Jul 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>QuadRF can spot drones and see WiFi through my wall</title>
+      <link>https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/</guid>
+      <pubDate>Fri, 10 Jul 2026 14:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
     </item>
     <item>
       <title>Game Review: Lovers In A Dangerous Spacetime ★★★☆☆</title>
@@ -699,18 +706,18 @@
       <description>Giles' blog</description>
     </item>
     <item>
-      <title>The console wars have been lost</title>
-      <link>https://xeiaso.net/notes/2026/console-wars-lost/</link>
-      <guid isPermaLink="true">https://xeiaso.net/notes/2026/console-wars-lost/</guid>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
       <title>The Tadpole galaxy:</title>
       <link>https://maurycyz.com/astro/arp188/</link>
       <guid isPermaLink="true">https://maurycyz.com/astro/arp188/</guid>
       <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
       <description>Maurycy's Blog</description>
+    </item>
+    <item>
+      <title>The console wars have been lost</title>
+      <link>https://xeiaso.net/notes/2026/console-wars-lost/</link>
+      <guid isPermaLink="true">https://xeiaso.net/notes/2026/console-wars-lost/</guid>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>Rewriting Bun in Rust</title>
@@ -797,18 +804,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>The Special Value Pi 4 was extremely short-lived</title>
-      <link>https://www.jeffgeerling.com/blog/2026/special-value-pi-4-extremely-short-lived/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/special-value-pi-4-extremely-short-lived/</guid>
-      <pubDate>Wed, 08 Jul 2026 14:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
       <title>The other kind of control flow guard check: The combined validate and call</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260708-00/?p=112510</link>
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260708-00/?p=112510</guid>
       <pubDate>Wed, 08 Jul 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>The Special Value Pi 4 was extremely short-lived</title>
+      <link>https://www.jeffgeerling.com/blog/2026/special-value-pi-4-extremely-short-lived/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/special-value-pi-4-extremely-short-lived/</guid>
+      <pubDate>Wed, 08 Jul 2026 14:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
     </item>
     <item>
       <title>Weekly Update 511: Live from my Riad in Marrakech</title>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://idiallo.com/blog/billionaire-paid-off-550-million-dollars-of-our-debts</guid>
       <pubDate>Wed, 08 Jul 2026 08:00:00 +0000</pubDate>
       <description>Software and Tech stories from an Insider - iDiallo.com</description>
-    </item>
-    <item>
-      <title>Agents are monads (but not that kind)</title>
-      <link>https://xeiaso.net/blog/2026/hyle-pneuma/</link>
-      <guid isPermaLink="true">https://xeiaso.net/blog/2026/hyle-pneuma/</guid>
-      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
     </item>
   </channel>
 </rss>

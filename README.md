@@ -208,11 +208,11 @@ Last Updated: Wednesday, July 15th, 2026, 3:56:54 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Notes on the Fourier Transform](https://eli.thegreenplace.net/2026/notes-on-the-fourier-transform/) — *Eli Bendersky's website* `07-15`
 - [Weekly Update 512: IoT Lockout Fail](https://www.troyhunt.com/weekly-update-512/) — *Troy Hunt* `07-15`
 - [Quoting GitHub Changelog](https://simonwillison.net/2026/Jul/14/github-changeling/#atom-everything) — *Simon Willison's Weblog* `07-14`
 - [They Prefer the App](https://idiallo.com/blog/they-prefer-the-app) — *Software and Tech stories from an Insider - iDiallo.com* `07-14`
 - [simonw/pedalican](https://simonwillison.net/2026/Jul/14/pedalican/#atom-everything) — *Simon Willison's Weblog* `07-14`
-- [lobste.rs is now running on SQLite](https://simonwillison.net/2026/Jul/14/lobsters-sqlite/#atom-everything) — *Simon Willison's Weblog* `07-14`
 <!--BLOG_RADAR:end-->
 
 ---
