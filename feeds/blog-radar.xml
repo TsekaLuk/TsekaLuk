@@ -4,7 +4,42 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 14 Jul 2026 19:35:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 02:57:09 +0000</lastBuildDate>
+    <item>
+      <title>Weekly Update 512: IoT Lockout Fail</title>
+      <link>https://www.troyhunt.com/weekly-update-512/</link>
+      <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-512/</guid>
+      <pubDate>Wed, 15 Jul 2026 00:35:38 +0000</pubDate>
+      <description>Troy Hunt</description>
+    </item>
+    <item>
+      <title>Quoting GitHub Changelog</title>
+      <link>https://simonwillison.net/2026/Jul/14/github-changeling/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/14/github-changeling/#atom-everything</guid>
+      <pubDate>Tue, 14 Jul 2026 22:43:35 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>They Prefer the App</title>
+      <link>https://idiallo.com/blog/they-prefer-the-app</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/they-prefer-the-app</guid>
+      <pubDate>Tue, 14 Jul 2026 22:35:36 +0000</pubDate>
+      <description>Software and Tech stories from an Insider - iDiallo.com</description>
+    </item>
+    <item>
+      <title>simonw/pedalican</title>
+      <link>https://simonwillison.net/2026/Jul/14/pedalican/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/14/pedalican/#atom-everything</guid>
+      <pubDate>Tue, 14 Jul 2026 22:29:45 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>lobste.rs is now running on SQLite</title>
+      <link>https://simonwillison.net/2026/Jul/14/lobsters-sqlite/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/14/lobsters-sqlite/#atom-everything</guid>
+      <pubDate>Tue, 14 Jul 2026 19:44:11 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Microsoft Patches a Record 570 Security Flaws</title>
       <link>https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/</link>
@@ -17,6 +52,13 @@
       <link>https://simonwillison.net/2026/Jul/14/armin-ronacher/#atom-everything</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Jul/14/armin-ronacher/#atom-everything</guid>
       <pubDate>Tue, 14 Jul 2026 18:04:23 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>datasette 1.0a37</title>
+      <link>https://simonwillison.net/2026/Jul/14/datasette/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/14/datasette/#atom-everything</guid>
+      <pubDate>Tue, 14 Jul 2026 16:31:41 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
@@ -79,6 +121,13 @@
       <title>Presigned URLs are technically a security vuln</title>
       <link>https://www.tigrisdata.com/blog/presigned-urls-security-vuln/</link>
       <guid isPermaLink="true">https://www.tigrisdata.com/blog/presigned-urls-security-vuln/</guid>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>You should probably check on your smart appliances</title>
+      <link>https://xeiaso.net/notes/2026/check-your-smart-tv/</link>
+      <guid isPermaLink="true">https://xeiaso.net/notes/2026/check-your-smart-tv/</guid>
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
     </item>
@@ -650,18 +699,18 @@
       <description>Giles' blog</description>
     </item>
     <item>
-      <title>The Tadpole galaxy:</title>
-      <link>https://maurycyz.com/astro/arp188/</link>
-      <guid isPermaLink="true">https://maurycyz.com/astro/arp188/</guid>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
-    </item>
-    <item>
       <title>The console wars have been lost</title>
       <link>https://xeiaso.net/notes/2026/console-wars-lost/</link>
       <guid isPermaLink="true">https://xeiaso.net/notes/2026/console-wars-lost/</guid>
       <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>The Tadpole galaxy:</title>
+      <link>https://maurycyz.com/astro/arp188/</link>
+      <guid isPermaLink="true">https://maurycyz.com/astro/arp188/</guid>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
     </item>
     <item>
       <title>Rewriting Bun in Rust</title>
@@ -790,60 +839,11 @@
       <description>Software and Tech stories from an Insider - iDiallo.com</description>
     </item>
     <item>
-      <title>Arp 90</title>
-      <link>https://maurycyz.com/astro/arp90/</link>
-      <guid isPermaLink="true">https://maurycyz.com/astro/arp90/</guid>
-      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
-    </item>
-    <item>
       <title>Agents are monads (but not that kind)</title>
       <link>https://xeiaso.net/blog/2026/hyle-pneuma/</link>
       <guid isPermaLink="true">https://xeiaso.net/blog/2026/hyle-pneuma/</guid>
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
-    </item>
-    <item>
-      <title>sqlite-utils 4.0, now with database schema migrations</title>
-      <link>https://simonwillison.net/2026/Jul/7/sqlite-utils-4/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/7/sqlite-utils-4/#atom-everything</guid>
-      <pubDate>Tue, 07 Jul 2026 19:32:57 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Let AI Burn</title>
-      <link>https://www.wheresyoured.at/let-ai-burn/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/let-ai-burn/</guid>
-      <pubDate>Tue, 07 Jul 2026 17:09:10 +0000</pubDate>
-      <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>sqlite-migrate 0.2</title>
-      <link>https://simonwillison.net/2026/Jul/7/sqlite-migrate/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/7/sqlite-migrate/#atom-everything</guid>
-      <pubDate>Tue, 07 Jul 2026 16:33:55 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>github-code Web Component</title>
-      <link>https://simonwillison.net/2026/Jul/7/github-code-component/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/7/github-code-component/#atom-everything</guid>
-      <pubDate>Tue, 07 Jul 2026 16:18:16 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>sqlite-utils 4.0</title>
-      <link>https://simonwillison.net/2026/Jul/7/sqlite-utils/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/7/sqlite-utils/#atom-everything</guid>
-      <pubDate>Tue, 07 Jul 2026 15:42:43 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>OS 27 Developer Beta 3 Enables New ‘Pace’ and ‘Expressivity’ Sliders for Siri’s New Voices</title>
-      <link>https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/</guid>
-      <pubDate>Tue, 07 Jul 2026 15:22:26 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>

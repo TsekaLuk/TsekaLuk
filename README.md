@@ -208,11 +208,11 @@ Last Updated: Wednesday, July 15th, 2026, 9:53:15 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Microsoft Patches a Record 570 Security Flaws](https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/) — *Krebs on Security* `07-14`
-- [Quoting Armin Ronacher](https://simonwillison.net/2026/Jul/14/armin-ronacher/#atom-everything) — *Simon Willison's Weblog* `07-14`
-- [I'm still alive](https://buttondown.com/hillelwayne/archive/im-still-alive/) — *Computer Things* `07-14`
-- [ICD-10 chapters and code letters](https://www.johndcook.com/blog/2026/07/14/icd-10-chapters-letters/) — *John D. Cook* `07-14`
-- [Microspeak: Double-click and drill down](https://devblogs.microsoft.com/oldnewthing/20260714-00/?p=112532) — *The Old New Thing* `07-14`
+- [Weekly Update 512: IoT Lockout Fail](https://www.troyhunt.com/weekly-update-512/) — *Troy Hunt* `07-15`
+- [Quoting GitHub Changelog](https://simonwillison.net/2026/Jul/14/github-changeling/#atom-everything) — *Simon Willison's Weblog* `07-14`
+- [They Prefer the App](https://idiallo.com/blog/they-prefer-the-app) — *Software and Tech stories from an Insider - iDiallo.com* `07-14`
+- [simonw/pedalican](https://simonwillison.net/2026/Jul/14/pedalican/#atom-everything) — *Simon Willison's Weblog* `07-14`
+- [lobste.rs is now running on SQLite](https://simonwillison.net/2026/Jul/14/lobsters-sqlite/#atom-everything) — *Simon Willison's Weblog* `07-14`
 <!--BLOG_RADAR:end-->
 
 ---
