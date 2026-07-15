@@ -208,11 +208,11 @@ Last Updated: Thursday, July 16th, 2026, 3:02:00 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [The OpenAI Bubble](https://www.wheresyoured.at/the-openai-bubble/) — *Ed Zitron's Where's Your Ed At* `07-15`
+- [How I tricked Claude into leaking your deepest, darkest secrets](https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything) — *Simon Willison's Weblog* `07-15`
+- [The case of the invalid function pointer when shutting down the display control panel](https://devblogs.microsoft.com/oldnewthing/20260715-00/?p=112535) — *The Old New Thing* `07-15`
 - [Ben je van de IT of niet?](https://berthub.eu/articles/posts/ben-je-van-de-it-of-niet/) — *Bert Hubert's writings* `07-15`
 - [Notes on the Fourier Transform](https://eli.thegreenplace.net/2026/notes-on-the-fourier-transform/) — *Eli Bendersky's website* `07-15`
-- [Weekly Update 512: IoT Lockout Fail](https://www.troyhunt.com/weekly-update-512/) — *Troy Hunt* `07-15`
-- [Quoting GitHub Changelog](https://simonwillison.net/2026/Jul/14/github-changeling/#atom-everything) — *Simon Willison's Weblog* `07-14`
-- [They Prefer the App](https://idiallo.com/blog/they-prefer-the-app) — *Software and Tech stories from an Insider - iDiallo.com* `07-14`
 <!--BLOG_RADAR:end-->
 
 ---
