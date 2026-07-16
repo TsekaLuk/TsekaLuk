@@ -208,11 +208,11 @@ Last Updated: Friday, July 17th, 2026, 3:01:00 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Quoting Linus Torvalds](https://simonwillison.net/2026/Jul/16/linus-torvalds/#atom-everything) — *Simon Willison's Weblog* `07-16`
-- [How Predictable Are Laws?](https://www.construction-physics.com/p/how-predictable-are-laws) — *Construction Physics* `07-16`
-- [Gadget Review: Thermal Master DV2 - Infrared Birdwatching Scope ★★★★⯪](https://shkspr.mobi/blog/2026/07/gadget-review-thermal-master-dv2-infrared-birdwatching-scope/) — *Terence Eden’s Blog* `07-16`
-- [Deleting Systems You Don't Understand](https://idiallo.com/blog/deleting-systems-you-dont-understand) — *Software and Tech stories from an Insider - iDiallo.com* `07-16`
-- [Mermaid to Unicode box art (grok-mermaid)](https://simonwillison.net/2026/Jul/16/grok-mermaid/#atom-everything) — *Simon Willison's Weblog* `07-16`
+- [Pluralistic: Deranged billionaires and their syndromes (16 Jul 2026)](https://pluralistic.net/2026/07/16/lucky-orifices/) — *Pluralistic: Daily links from Cory Doctorow* `07-16`
+- [Louie Mantia: ‘The Shape of Apps’](https://parakeet.co/blog/the-shape-of-apps/) — *Daring Fireball* `07-16`
+- [Quoting Thibault Sottiaux](https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything) — *Simon Willison's Weblog* `07-16`
+- [OpenAI Releases Codex Micro, a Stupid $230 Hardware Keypad](https://openai.com/supply/co-lab/work-louder/) — *Daring Fireball* `07-16`
+- [Inkling: Our open-weights model](https://simonwillison.net/2026/Jul/16/inkling/#atom-everything) — *Simon Willison's Weblog* `07-16`
 <!--BLOG_RADAR:end-->
 
 ---

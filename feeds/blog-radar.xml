@@ -4,7 +4,49 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 16 Jul 2026 14:08:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 19:22:05 +0000</lastBuildDate>
+    <item>
+      <title>Pluralistic: Deranged billionaires and their syndromes (16 Jul 2026)</title>
+      <link>https://pluralistic.net/2026/07/16/lucky-orifices/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/07/16/lucky-orifices/</guid>
+      <pubDate>Thu, 16 Jul 2026 18:13:07 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Louie Mantia: ‘The Shape of Apps’</title>
+      <link>https://parakeet.co/blog/the-shape-of-apps/</link>
+      <guid isPermaLink="true">https://parakeet.co/blog/the-shape-of-apps/</guid>
+      <pubDate>Thu, 16 Jul 2026 18:07:28 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Quoting Thibault Sottiaux</title>
+      <link>https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything</guid>
+      <pubDate>Thu, 16 Jul 2026 17:45:59 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>OpenAI Releases Codex Micro, a Stupid $230 Hardware Keypad</title>
+      <link>https://openai.com/supply/co-lab/work-louder/</link>
+      <guid isPermaLink="true">https://openai.com/supply/co-lab/work-louder/</guid>
+      <pubDate>Thu, 16 Jul 2026 17:45:59 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Inkling: Our open-weights model</title>
+      <link>https://simonwillison.net/2026/Jul/16/inkling/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/16/inkling/#atom-everything</guid>
+      <pubDate>Thu, 16 Jul 2026 15:35:25 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Speculating on how the buggy control panel extension truncated a value that it had right in front of it</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260716-00/?p=112539</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260716-00/?p=112539</guid>
+      <pubDate>Thu, 16 Jul 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
     <item>
       <title>Quoting Linus Torvalds</title>
       <link>https://simonwillison.net/2026/Jul/16/linus-torvalds/#atom-everything</link>
@@ -802,48 +844,6 @@
       <guid isPermaLink="true">https://pluralistic.net/2026/07/08/wilhoitian/</guid>
       <pubDate>Thu, 09 Jul 2026 06:37:55 +0000</pubDate>
       <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>poppy the training box, part 1: the beginnings</title>
-      <link>https://www.gilesthomas.com/2026/07/poppy-the-training-box-1-the-beginnings</link>
-      <guid isPermaLink="true">https://www.gilesthomas.com/2026/07/poppy-the-training-box-1-the-beginnings</guid>
-      <pubDate>Thu, 09 Jul 2026 01:00:00 +0000</pubDate>
-      <description>Giles' blog</description>
-    </item>
-    <item>
-      <title>The console wars have been lost</title>
-      <link>https://xeiaso.net/notes/2026/console-wars-lost/</link>
-      <guid isPermaLink="true">https://xeiaso.net/notes/2026/console-wars-lost/</guid>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
-      <title>The Tadpole galaxy:</title>
-      <link>https://maurycyz.com/astro/arp188/</link>
-      <guid isPermaLink="true">https://maurycyz.com/astro/arp188/</guid>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
-    </item>
-    <item>
-      <title>Rewriting Bun in Rust</title>
-      <link>https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything</guid>
-      <pubDate>Wed, 08 Jul 2026 23:57:21 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Introducing GPT‑Live</title>
-      <link>https://simonwillison.net/2026/Jul/8/introducing-gptlive/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/8/introducing-gptlive/#atom-everything</guid>
-      <pubDate>Wed, 08 Jul 2026 23:20:48 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>‘Parry Encounters the Doctor’ — Chatbot on Chatbot Action Circa 1973</title>
-      <link>https://www.rfc-editor.org/info/rfc439/</link>
-      <guid isPermaLink="true">https://www.rfc-editor.org/info/rfc439/</guid>
-      <pubDate>Wed, 08 Jul 2026 22:38:06 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
