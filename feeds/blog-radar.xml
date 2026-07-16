@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 16 Jul 2026 03:18:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 08:24:14 +0000</lastBuildDate>
+    <item>
+      <title>Deleting Systems You Don't Understand</title>
+      <link>https://idiallo.com/blog/deleting-systems-you-dont-understand</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/deleting-systems-you-dont-understand</guid>
+      <pubDate>Thu, 16 Jul 2026 07:00:00 +0000</pubDate>
+      <description>Software and Tech stories from an Insider - iDiallo.com</description>
+    </item>
     <item>
       <title>Mermaid to Unicode box art (grok-mermaid)</title>
       <link>https://simonwillison.net/2026/Jul/16/grok-mermaid/#atom-everything</link>
@@ -643,18 +650,18 @@
       <description>The Digital Antiquarian</description>
     </item>
     <item>
-      <title>QuadRF can spot drones and see WiFi through my wall</title>
-      <link>https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/</guid>
-      <pubDate>Fri, 10 Jul 2026 14:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
       <title>The case of the mysterious changes to integers when there shouldn’t have been any code generation effect</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260710-00/?p=112514</link>
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260710-00/?p=112514</guid>
       <pubDate>Fri, 10 Jul 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>QuadRF can spot drones and see WiFi through my wall</title>
+      <link>https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/</guid>
+      <pubDate>Fri, 10 Jul 2026 14:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
     </item>
     <item>
       <title>Game Review: Lovers In A Dangerous Spacetime ★★★☆☆</title>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://www.kickstarter.com/projects/smarterchild/searching-for-smarterchild-a-feature-documentary/creator</guid>
       <pubDate>Wed, 08 Jul 2026 20:02:10 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Family Feud: Mac-assed Mac App Edition</title>
-      <link>https://blog.jim-nielsen.com/2026/mac-assed-family-feud/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/mac-assed-family-feud/</guid>
-      <pubDate>Wed, 08 Jul 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
     </item>
   </channel>
 </rss>
