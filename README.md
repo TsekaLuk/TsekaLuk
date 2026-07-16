@@ -208,11 +208,11 @@ Last Updated: Thursday, July 16th, 2026, 9:38:00 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Quoting Linus Torvalds](https://simonwillison.net/2026/Jul/16/linus-torvalds/#atom-everything) — *Simon Willison's Weblog* `07-16`
+- [How Predictable Are Laws?](https://www.construction-physics.com/p/how-predictable-are-laws) — *Construction Physics* `07-16`
+- [Gadget Review: Thermal Master DV2 - Infrared Birdwatching Scope ★★★★⯪](https://shkspr.mobi/blog/2026/07/gadget-review-thermal-master-dv2-infrared-birdwatching-scope/) — *Terence Eden’s Blog* `07-16`
 - [Deleting Systems You Don't Understand](https://idiallo.com/blog/deleting-systems-you-dont-understand) — *Software and Tech stories from an Insider - iDiallo.com* `07-16`
 - [Mermaid to Unicode box art (grok-mermaid)](https://simonwillison.net/2026/Jul/16/grok-mermaid/#atom-everything) — *Simon Willison's Weblog* `07-16`
-- [xai-org/grok-build, now open source](https://simonwillison.net/2026/Jul/15/grok-build/#atom-everything) — *Simon Willison's Weblog* `07-15`
-- [Gurman on OpenAI’s Upcoming Hardware Product: ‘Movable, Screenless Speaker Built as AI Companion’](https://www.bloomberg.com/news/articles/2026-07-14/openai-s-first-device-will-be-moveable-screenless-speaker-built-as-ai-companion?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NDA2MjAxMywiZXhwIjoxNzg0NjY2ODEzLCJhcnRpY2xlSWQiOiJUSTYwSllUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.DfRN0afk0TFIaHFw9zEKYjehnfMsZfKC7gPoVos8WPI&leadSource=article-gifting) — *Daring Fireball* `07-15`
-- [Eric Seufert: ‘Did Apple Just Signal a Third-Party Expansion of Apple Ads?’](https://mobiledevmemo.com/did-apple-just-signal-a-third-party-expansion-of-apple-ads/) — *Daring Fireball* `07-15`
 <!--BLOG_RADAR:end-->
 
 ---
