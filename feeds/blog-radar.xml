@@ -4,7 +4,49 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 15 Jul 2026 19:21:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 03:18:49 +0000</lastBuildDate>
+    <item>
+      <title>Mermaid to Unicode box art (grok-mermaid)</title>
+      <link>https://simonwillison.net/2026/Jul/16/grok-mermaid/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/16/grok-mermaid/#atom-everything</guid>
+      <pubDate>Thu, 16 Jul 2026 00:33:18 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>xai-org/grok-build, now open source</title>
+      <link>https://simonwillison.net/2026/Jul/15/grok-build/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/15/grok-build/#atom-everything</guid>
+      <pubDate>Wed, 15 Jul 2026 23:59:30 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Gurman on OpenAI’s Upcoming Hardware Product: ‘Movable, Screenless Speaker Built as AI Companion’</title>
+      <link>https://www.bloomberg.com/news/articles/2026-07-14/openai-s-first-device-will-be-moveable-screenless-speaker-built-as-ai-companion?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NDA2MjAxMywiZXhwIjoxNzg0NjY2ODEzLCJhcnRpY2xlSWQiOiJUSTYwSllUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.DfRN0afk0TFIaHFw9zEKYjehnfMsZfKC7gPoVos8WPI&amp;leadSource=article-gifting</link>
+      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-07-14/openai-s-first-device-will-be-moveable-screenless-speaker-built-as-ai-companion?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NDA2MjAxMywiZXhwIjoxNzg0NjY2ODEzLCJhcnRpY2xlSWQiOiJUSTYwSllUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.DfRN0afk0TFIaHFw9zEKYjehnfMsZfKC7gPoVos8WPI&amp;leadSource=article-gifting</guid>
+      <pubDate>Wed, 15 Jul 2026 23:02:54 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Eric Seufert: ‘Did Apple Just Signal a Third-Party Expansion of Apple Ads?’</title>
+      <link>https://mobiledevmemo.com/did-apple-just-signal-a-third-party-expansion-of-apple-ads/</link>
+      <guid isPermaLink="true">https://mobiledevmemo.com/did-apple-just-signal-a-third-party-expansion-of-apple-ads/</guid>
+      <pubDate>Wed, 15 Jul 2026 22:52:22 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Apple Updates Advertising Services Policy With New Rules for Ads in Maps</title>
+      <link>https://techcrunch.com/2026/07/15/apple-quietly-reveals-how-its-maps-ads-will-differ-from-googles/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/07/15/apple-quietly-reveals-how-its-maps-ads-will-differ-from-googles/</guid>
+      <pubDate>Wed, 15 Jul 2026 22:48:20 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Apple Intelligence OK’d to Launch in China, Using AI Models from Baidu and Alibaba</title>
+      <link>https://www.scmp.com/tech/policy/article/3360685/china-approves-apple-intelligence-phones-alibaba-baidu-emerging-partners</link>
+      <guid isPermaLink="true">https://www.scmp.com/tech/policy/article/3360685/china-approves-apple-intelligence-phones-alibaba-baidu-emerging-partners</guid>
+      <pubDate>Wed, 15 Jul 2026 22:35:18 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>The OpenAI Bubble</title>
       <link>https://www.wheresyoured.at/the-openai-bubble/</link>
@@ -25,6 +67,13 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260715-00/?p=112535</guid>
       <pubDate>Wed, 15 Jul 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>Bring Back The Kiosk</title>
+      <link>https://feed.tedium.co/link/15204/17381035/edos-disk-copying-system-history</link>
+      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17381035/edos-disk-copying-system-history</guid>
+      <pubDate>Wed, 15 Jul 2026 12:24:29 +0000</pubDate>
+      <description>Tedium: The Dull Side of the Internet.</description>
     </item>
     <item>
       <title>Ben je van de IT of niet?</title>
@@ -118,6 +167,13 @@
       <description>The Old New Thing</description>
     </item>
     <item>
+      <title>I'm a USB-C Maximalist</title>
+      <link>https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/</guid>
+      <pubDate>Tue, 14 Jul 2026 11:34:26 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>Pluralistic: Gerontocracy's failure mode (14 Jul 2026)</title>
       <link>https://pluralistic.net/2026/07/14/designated-survivor/</link>
       <guid isPermaLink="true">https://pluralistic.net/2026/07/14/designated-survivor/</guid>
@@ -146,13 +202,6 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>Pseudpocalypse</title>
-      <link>https://dynomight.net/pseudpocalypse/</link>
-      <guid isPermaLink="true">https://dynomight.net/pseudpocalypse/</guid>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
-    </item>
-    <item>
       <title>Presigned URLs are technically a security vuln</title>
       <link>https://www.tigrisdata.com/blog/presigned-urls-security-vuln/</link>
       <guid isPermaLink="true">https://www.tigrisdata.com/blog/presigned-urls-security-vuln/</guid>
@@ -165,6 +214,13 @@
       <guid isPermaLink="true">https://xeiaso.net/notes/2026/check-your-smart-tv/</guid>
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>Pseudpocalypse</title>
+      <link>https://dynomight.net/pseudpocalypse/</link>
+      <guid isPermaLink="true">https://dynomight.net/pseudpocalypse/</guid>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>DOOMQL</title>
@@ -221,6 +277,13 @@
       <guid isPermaLink="true">http://antirez.com/news/169</guid>
       <pubDate>Mon, 13 Jul 2026 11:39:52 +0000</pubDate>
       <description>&lt;antirez&gt;</description>
+    </item>
+    <item>
+      <title>[RSS Club] Half a million steps is about 10 marathons</title>
+      <link>https://shkspr.mobi/blog/2026/07/rss-club-half-a-million-steps-is-about-10-marathons/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/rss-club-half-a-million-steps-is-about-10-marathons/</guid>
+      <pubDate>Mon, 13 Jul 2026 11:34:09 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Pluralistic: Why aren't AI companies competing directly with their customers? (13 Jul 2026)</title>
@@ -347,6 +410,13 @@
       <guid isPermaLink="true">https://morphing.cloud/hypercard/</guid>
       <pubDate>Sun, 12 Jul 2026 15:42:21 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Another Ridiculous Interrail Holiday - 6,379Km and 13 Countries over 7 weeks</title>
+      <link>https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/</guid>
+      <pubDate>Sun, 12 Jul 2026 11:34:43 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>I love LLMs, I hate hype</title>
@@ -587,6 +657,13 @@
       <description>The Old New Thing</description>
     </item>
     <item>
+      <title>Game Review: Lovers In A Dangerous Spacetime ★★★☆☆</title>
+      <link>https://shkspr.mobi/blog/2026/07/game-review-lovers-in-a-dangerous-spacetime/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/game-review-lovers-in-a-dangerous-spacetime/</guid>
+      <pubDate>Fri, 10 Jul 2026 11:34:18 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>Package Management as Org Chart</title>
       <link>https://nesbitt.io/2026/07/10/package-management-as-org-chart.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/07/10/package-management-as-org-chart.html</guid>
@@ -767,83 +844,6 @@
       <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/mac-assed-family-feud/</guid>
       <pubDate>Wed, 08 Jul 2026 19:00:00 +0000</pubDate>
       <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
-      <title>Writing an LLM from scratch, part 34b -- from bigrams to GPT-2, one component at a time (in JAX)</title>
-      <link>https://www.gilesthomas.com/2026/07/llm-from-scratch-34b-building-and-training-gpt-2-small-in-jax</link>
-      <guid isPermaLink="true">https://www.gilesthomas.com/2026/07/llm-from-scratch-34b-building-and-training-gpt-2-small-in-jax</guid>
-      <pubDate>Wed, 08 Jul 2026 18:45:00 +0000</pubDate>
-      <description>Giles' blog</description>
-    </item>
-    <item>
-      <title>My Conversation With Eliza</title>
-      <link>https://sites.google.com/view/elizaarchaeology/try-eliza?authuser=0</link>
-      <guid isPermaLink="true">https://sites.google.com/view/elizaarchaeology/try-eliza?authuser=0</guid>
-      <pubDate>Wed, 08 Jul 2026 17:33:05 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The Eliza Archaeology Project</title>
-      <link>https://findingeliza.org/</link>
-      <guid isPermaLink="true">https://findingeliza.org/</guid>
-      <pubDate>Wed, 08 Jul 2026 17:20:44 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The Decline of Deviance 2</title>
-      <link>https://www.experimental-history.com/p/the-decline-of-deviance-2</link>
-      <guid isPermaLink="true">https://www.experimental-history.com/p/the-decline-of-deviance-2</guid>
-      <pubDate>Wed, 08 Jul 2026 16:10:54 +0000</pubDate>
-      <description>Experimental History</description>
-    </item>
-    <item>
-      <title>App Icon Conventions From the Original Macintosh</title>
-      <link>https://leancrew.com/all-this/2026/07/old-icons/</link>
-      <guid isPermaLink="true">https://leancrew.com/all-this/2026/07/old-icons/</guid>
-      <pubDate>Wed, 08 Jul 2026 14:36:57 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The Special Value Pi 4 was extremely short-lived</title>
-      <link>https://www.jeffgeerling.com/blog/2026/special-value-pi-4-extremely-short-lived/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/special-value-pi-4-extremely-short-lived/</guid>
-      <pubDate>Wed, 08 Jul 2026 14:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
-      <title>The other kind of control flow guard check: The combined validate and call</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260708-00/?p=112510</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260708-00/?p=112510</guid>
-      <pubDate>Wed, 08 Jul 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Weekly Update 511: Live from my Riad in Marrakech</title>
-      <link>https://www.troyhunt.com/weekly-update-511/</link>
-      <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-511/</guid>
-      <pubDate>Wed, 08 Jul 2026 13:54:46 +0000</pubDate>
-      <description>Troy Hunt</description>
-    </item>
-    <item>
-      <title>Felons, Fraudsters Flog Offensive Cybersecurity Startup</title>
-      <link>https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/</link>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/</guid>
-      <pubDate>Wed, 08 Jul 2026 12:31:39 +0000</pubDate>
-      <description>Krebs on Security</description>
-    </item>
-    <item>
-      <title>And Then the Billionaire Paid Off $550 Million of Our Debts</title>
-      <link>https://idiallo.com/blog/billionaire-paid-off-550-million-dollars-of-our-debts</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/billionaire-paid-off-550-million-dollars-of-our-debts</guid>
-      <pubDate>Wed, 08 Jul 2026 08:00:00 +0000</pubDate>
-      <description>Software and Tech stories from an Insider - iDiallo.com</description>
-    </item>
-    <item>
-      <title>Arp 90</title>
-      <link>https://maurycyz.com/astro/arp90/</link>
-      <guid isPermaLink="true">https://maurycyz.com/astro/arp90/</guid>
-      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
     </item>
   </channel>
 </rss>

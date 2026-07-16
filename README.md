@@ -208,11 +208,11 @@ Last Updated: Thursday, July 16th, 2026, 10:03:41 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [The OpenAI Bubble](https://www.wheresyoured.at/the-openai-bubble/) — *Ed Zitron's Where's Your Ed At* `07-15`
-- [How I tricked Claude into leaking your deepest, darkest secrets](https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything) — *Simon Willison's Weblog* `07-15`
-- [The case of the invalid function pointer when shutting down the display control panel](https://devblogs.microsoft.com/oldnewthing/20260715-00/?p=112535) — *The Old New Thing* `07-15`
-- [Ben je van de IT of niet?](https://berthub.eu/articles/posts/ben-je-van-de-it-of-niet/) — *Bert Hubert's writings* `07-15`
-- [Notes on the Fourier Transform](https://eli.thegreenplace.net/2026/notes-on-the-fourier-transform/) — *Eli Bendersky's website* `07-15`
+- [Mermaid to Unicode box art (grok-mermaid)](https://simonwillison.net/2026/Jul/16/grok-mermaid/#atom-everything) — *Simon Willison's Weblog* `07-16`
+- [xai-org/grok-build, now open source](https://simonwillison.net/2026/Jul/15/grok-build/#atom-everything) — *Simon Willison's Weblog* `07-15`
+- [Gurman on OpenAI’s Upcoming Hardware Product: ‘Movable, Screenless Speaker Built as AI Companion’](https://www.bloomberg.com/news/articles/2026-07-14/openai-s-first-device-will-be-moveable-screenless-speaker-built-as-ai-companion?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NDA2MjAxMywiZXhwIjoxNzg0NjY2ODEzLCJhcnRpY2xlSWQiOiJUSTYwSllUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.DfRN0afk0TFIaHFw9zEKYjehnfMsZfKC7gPoVos8WPI&leadSource=article-gifting) — *Daring Fireball* `07-15`
+- [Eric Seufert: ‘Did Apple Just Signal a Third-Party Expansion of Apple Ads?’](https://mobiledevmemo.com/did-apple-just-signal-a-third-party-expansion-of-apple-ads/) — *Daring Fireball* `07-15`
+- [Apple Updates Advertising Services Policy With New Rules for Ads in Maps](https://techcrunch.com/2026/07/15/apple-quietly-reveals-how-its-maps-ads-will-differ-from-googles/) — *Daring Fireball* `07-15`
 <!--BLOG_RADAR:end-->
 
 ---
