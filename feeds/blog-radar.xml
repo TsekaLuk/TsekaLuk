@@ -4,7 +4,63 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 16 Jul 2026 19:22:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 03:22:04 +0000</lastBuildDate>
+    <item>
+      <title>Spot birds not golf</title>
+      <link>https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/#atom-everything</guid>
+      <pubDate>Fri, 17 Jul 2026 02:58:07 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>European Commission Adds Exemptions for Watches and Earbuds to Portable Battery Removal Rules</title>
+      <link>https://environment.ec.europa.eu/news/commission-adds-exemptions-portable-battery-removal-rules-2026-07-14_en</link>
+      <guid isPermaLink="true">https://environment.ec.europa.eu/news/commission-adds-exemptions-portable-battery-removal-rules-2026-07-14_en</guid>
+      <pubDate>Fri, 17 Jul 2026 02:01:37 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Quiche Browser Now Defaults to No-AI Web Search Results</title>
+      <link>https://mastodon.social/@quicheindustries/116918456229212087</link>
+      <guid isPermaLink="true">https://mastodon.social/@quicheindustries/116918456229212087</guid>
+      <pubDate>Fri, 17 Jul 2026 00:17:35 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Firefox in WebAssembly</title>
+      <link>https://simonwillison.net/2026/Jul/16/firefox-in-webassembly/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/16/firefox-in-webassembly/#atom-everything</guid>
+      <pubDate>Thu, 16 Jul 2026 23:34:16 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Dithering: ‘Apple Sues OpenAI’</title>
+      <link>https://dithering.passport.online/member/episode/apple-sues-open-ai</link>
+      <guid isPermaLink="true">https://dithering.passport.online/member/episode/apple-sues-open-ai</guid>
+      <pubDate>Thu, 16 Jul 2026 23:28:09 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Kimi K3, and what we can still learn from the pelican benchmark</title>
+      <link>https://simonwillison.net/2026/Jul/16/kimi-k3/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/16/kimi-k3/#atom-everything</guid>
+      <pubDate>Thu, 16 Jul 2026 20:19:30 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>OpenAI Takes a Second Crack at a Response to Apple’s Trade Secret Theft Lawsuit</title>
+      <link>https://www.bloomberg.com/news/articles/2026-07-14/openai-says-it-s-not-aware-of-any-evidence-that-apple-lawsuit-has-merit</link>
+      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-07-14/openai-says-it-s-not-aware-of-any-evidence-that-apple-lawsuit-has-merit</guid>
+      <pubDate>Thu, 16 Jul 2026 19:44:47 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Lawyer for Apple Mixed Up Two OpenAI Employees’ Names, Sent One Email to the Wrong Guy, Back in February</title>
+      <link>https://www.nbcnews.com/tech/apple/apple-openai-lawsuit-suit-trade-product-hardware-email-sam-altman-rcna587376</link>
+      <guid isPermaLink="true">https://www.nbcnews.com/tech/apple/apple-openai-lawsuit-suit-trade-product-hardware-email-sam-altman-rcna587376</guid>
+      <pubDate>Thu, 16 Jul 2026 19:34:13 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Pluralistic: Deranged billionaires and their syndromes (16 Jul 2026)</title>
       <link>https://pluralistic.net/2026/07/16/lucky-orifices/</link>
@@ -38,6 +94,13 @@
       <link>https://simonwillison.net/2026/Jul/16/inkling/#atom-everything</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Jul/16/inkling/#atom-everything</guid>
       <pubDate>Thu, 16 Jul 2026 15:35:25 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Mermaid to ASCII art (mermaid-ascii)</title>
+      <link>https://simonwillison.net/2026/Jul/16/mermaid-ascii/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/16/mermaid-ascii/#atom-everything</guid>
+      <pubDate>Thu, 16 Jul 2026 14:57:39 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
@@ -81,6 +144,20 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Jul/16/grok-mermaid/#atom-everything</guid>
       <pubDate>Thu, 16 Jul 2026 00:33:18 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>NGC 7497, etc.</title>
+      <link>https://maurycyz.com/astro/ngc7497/</link>
+      <guid isPermaLink="true">https://maurycyz.com/astro/ngc7497/</guid>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
+    </item>
+    <item>
+      <title>i've started drawing again</title>
+      <link>https://jyn.dev/i-ve-started-drawing-again/</link>
+      <guid isPermaLink="true">https://jyn.dev/i-ve-started-drawing-again/</guid>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <description>the website of jyn</description>
     </item>
     <item>
       <title>xai-org/grok-build, now open source</title>
@@ -767,83 +844,6 @@
       <guid isPermaLink="true">https://fabiensanglard.net/extinct/index.html</guid>
       <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
       <description>Fabien Sanglard</description>
-    </item>
-    <item>
-      <title>Today’s the Day OpenAI Fucked Up the ChatGPT Mac App</title>
-      <link>https://9to5mac.com/2026/07/09/openai-announcing-the-next-chapter-for-chatgpt-today-watch-here/</link>
-      <guid isPermaLink="true">https://9to5mac.com/2026/07/09/openai-announcing-the-next-chapter-for-chatgpt-today-watch-here/</guid>
-      <pubDate>Thu, 09 Jul 2026 20:13:57 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The new GPT-5.6 family: Luna, Terra, Sol</title>
-      <link>https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything</guid>
-      <pubDate>Thu, 09 Jul 2026 19:46:38 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>★ John Ternus Should Reverse Apple’s Slide Down the Advertising Slippery Slope</title>
-      <link>https://daringfireball.net/2026/07/ternus_apple_slippery_slope</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/07/ternus_apple_slippery_slope</guid>
-      <pubDate>Thu, 09 Jul 2026 19:17:37 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Boxed In</title>
-      <link>https://feed.tedium.co/link/15204/17375642/alf-paul-fusco-creativity-constraints</link>
-      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17375642/alf-paul-fusco-creativity-constraints</guid>
-      <pubDate>Thu, 09 Jul 2026 17:20:00 +0000</pubDate>
-      <description>Tedium: The Dull Side of the Internet.</description>
-    </item>
-    <item>
-      <title>Introducing Muse Spark 1.1</title>
-      <link>https://simonwillison.net/2026/Jul/9/muse-spark-1-1/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/9/muse-spark-1-1/#atom-everything</guid>
-      <pubDate>Thu, 09 Jul 2026 16:24:09 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>llm-meta-ai 0.1</title>
-      <link>https://simonwillison.net/2026/Jul/9/llm-meta-ai/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/9/llm-meta-ai/#atom-everything</guid>
-      <pubDate>Thu, 09 Jul 2026 16:12:20 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>llm 0.31.1</title>
-      <link>https://simonwillison.net/2026/Jul/9/llm/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/9/llm/#atom-everything</guid>
-      <pubDate>Thu, 09 Jul 2026 16:06:15 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Meta Sets Default for Instagram Accounts to Permit Content Reuse by AI</title>
-      <link>https://www.nytimes.com/2026/07/08/technology/meta-instagram-ai.html?unlocked_article_code=1.wVA.Q5Do.Uvg5yPwCEB5H</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/08/technology/meta-instagram-ai.html?unlocked_article_code=1.wVA.Q5Do.Uvg5yPwCEB5H</guid>
-      <pubDate>Thu, 09 Jul 2026 14:10:59 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>I’ve decoded a #pragma detect_mismatch error and fixed the mismatch, but I still get the error</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260709-00/?p=112512</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260709-00/?p=112512</guid>
-      <pubDate>Thu, 09 Jul 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Unboxed: Zig</title>
-      <link>https://nesbitt.io/2026/07/09/unboxed-zig.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/07/09/unboxed-zig.html</guid>
-      <pubDate>Thu, 09 Jul 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Pluralistic: Post-political (09 Jul 2026)</title>
-      <link>https://pluralistic.net/2026/07/08/wilhoitian/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/07/08/wilhoitian/</guid>
-      <pubDate>Thu, 09 Jul 2026 06:37:55 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
     </item>
   </channel>
 </rss>
