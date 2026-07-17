@@ -208,11 +208,11 @@ Last Updated: Saturday, July 18th, 2026, 2:58:59 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Quoting Kimi K3](https://simonwillison.net/2026/Jul/17/kimi-k3/#atom-everything) — *Simon Willison's Weblog* `07-17`
-- [Regular expression speed and error rates](https://www.johndcook.com/blog/2026/07/17/regex-speed-error/) — *John D. Cook* `07-17`
-- [Art Doesn't Scale](https://matduggan.com/art-doesnt-scale/) — *matduggan.com* `07-17`
-- [Spot birds not golf](https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/#atom-everything) — *Simon Willison's Weblog* `07-17`
-- [European Commission Adds Exemptions for Watches and Earbuds to Portable Battery Removal Rules](https://environment.ec.europa.eu/news/commission-adds-exemptions-portable-battery-removal-rules-2026-07-14_en) — *Daring Fireball* `07-17`
+- [OpenAI Starts Cleaning Up the Utter Mess It Made of ChatGPT](https://x.com/thsottiaux/status/2077928427936710901) — *Daring Fireball* `07-17`
+- [Linus Torvalds: ‘AI Is a Tool, Just Like Other Tools We Use. And It’s Clearly a Useful One.’](https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/) — *Daring Fireball* `07-17`
+- [BBEdit 16](https://www.barebones.com/products/bbedit/bbedit16.html) — *Daring Fireball* `07-17`
+- [ArtfulType: Markdown Writing App for the 68K Macintosh](https://github.com/ActionRetro/ArtfulType) — *Daring Fireball* `07-17`
+- [Happy iCal Day](https://www.threads.com/@joannastern/post/Da5rgIvjrLM) — *Daring Fireball* `07-17`
 <!--BLOG_RADAR:end-->
 
 ---
