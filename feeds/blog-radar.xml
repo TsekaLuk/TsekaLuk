@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 17 Jul 2026 08:20:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 13:52:59 +0000</lastBuildDate>
+    <item>
+      <title>Quoting Kimi K3</title>
+      <link>https://simonwillison.net/2026/Jul/17/kimi-k3/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/17/kimi-k3/#atom-everything</guid>
+      <pubDate>Fri, 17 Jul 2026 13:43:53 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Regular expression speed and error rates</title>
+      <link>https://www.johndcook.com/blog/2026/07/17/regex-speed-error/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/07/17/regex-speed-error/</guid>
+      <pubDate>Fri, 17 Jul 2026 11:26:19 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Art Doesn't Scale</title>
+      <link>https://matduggan.com/art-doesnt-scale/</link>
+      <guid isPermaLink="true">https://matduggan.com/art-doesnt-scale/</guid>
+      <pubDate>Fri, 17 Jul 2026 10:34:04 +0000</pubDate>
+      <description>matduggan.com</description>
+    </item>
     <item>
       <title>Spot birds not golf</title>
       <link>https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/#atom-everything</link>
@@ -83,18 +104,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>OpenAI Releases Codex Micro, a Stupid $230 Hardware Keypad</title>
-      <link>https://openai.com/supply/co-lab/work-louder/</link>
-      <guid isPermaLink="true">https://openai.com/supply/co-lab/work-louder/</guid>
-      <pubDate>Thu, 16 Jul 2026 17:45:59 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
       <title>Quoting Thibault Sottiaux</title>
       <link>https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything</guid>
       <pubDate>Thu, 16 Jul 2026 17:45:59 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>OpenAI Releases Codex Micro, a Stupid $230 Hardware Keypad</title>
+      <link>https://openai.com/supply/co-lab/work-louder/</link>
+      <guid isPermaLink="true">https://openai.com/supply/co-lab/work-louder/</guid>
+      <pubDate>Thu, 16 Jul 2026 17:45:59 +0000</pubDate>
+      <description>Daring Fireball</description>
     </item>
     <item>
       <title>Inkling: Our open-weights model</title>
@@ -755,13 +776,6 @@
       <description>Fabien Sanglard</description>
     </item>
     <item>
-      <title>Building intuition about LLM parameter counts</title>
-      <link>https://www.gilesthomas.com/2026/07/llm-parameter-counts</link>
-      <guid isPermaLink="true">https://www.gilesthomas.com/2026/07/llm-parameter-counts</guid>
-      <pubDate>Fri, 10 Jul 2026 21:30:00 +0000</pubDate>
-      <description>Giles' blog</description>
-    </item>
-    <item>
       <title>Apple Sues OpenAI, io, and Former Employees, Alleging Theft of Trade Secrets</title>
       <link>https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/</link>
       <guid isPermaLink="true">https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/</guid>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://pluralistic.net/2026/07/10/posthuman-as-in-no-humans/</guid>
       <pubDate>Fri, 10 Jul 2026 09:52:06 +0000</pubDate>
       <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Quoting OpenAI</title>
-      <link>https://simonwillison.net/2026/Jul/10/openai/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/10/openai/#atom-everything</guid>
-      <pubDate>Fri, 10 Jul 2026 01:05:57 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Shocking No One, Fidji Simo, Would-Be Usurper, Is Out at OpenAI</title>
-      <link>https://www.wsj.com/tech/openai-top-executive-fidji-simo-to-step-down-c3daca47?st=NfBZTe</link>
-      <guid isPermaLink="true">https://www.wsj.com/tech/openai-top-executive-fidji-simo-to-step-down-c3daca47?st=NfBZTe</guid>
-      <pubDate>Fri, 10 Jul 2026 00:35:59 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>

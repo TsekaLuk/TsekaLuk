@@ -208,11 +208,11 @@ Last Updated: Friday, July 17th, 2026, 9:15:18 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Quoting Kimi K3](https://simonwillison.net/2026/Jul/17/kimi-k3/#atom-everything) — *Simon Willison's Weblog* `07-17`
+- [Regular expression speed and error rates](https://www.johndcook.com/blog/2026/07/17/regex-speed-error/) — *John D. Cook* `07-17`
+- [Art Doesn't Scale](https://matduggan.com/art-doesnt-scale/) — *matduggan.com* `07-17`
 - [Spot birds not golf](https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/#atom-everything) — *Simon Willison's Weblog* `07-17`
 - [European Commission Adds Exemptions for Watches and Earbuds to Portable Battery Removal Rules](https://environment.ec.europa.eu/news/commission-adds-exemptions-portable-battery-removal-rules-2026-07-14_en) — *Daring Fireball* `07-17`
-- [Quiche Browser Now Defaults to No-AI Web Search Results](https://mastodon.social/@quicheindustries/116918456229212087) — *Daring Fireball* `07-17`
-- [Firefox in WebAssembly](https://simonwillison.net/2026/Jul/16/firefox-in-webassembly/#atom-everything) — *Simon Willison's Weblog* `07-16`
-- [Dithering: ‘Apple Sues OpenAI’](https://dithering.passport.online/member/episode/apple-sues-open-ai) — *Daring Fireball* `07-16`
 <!--BLOG_RADAR:end-->
 
 ---
