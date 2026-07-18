@@ -208,11 +208,11 @@ Last Updated: Sunday, July 19th, 2026, 2:54:24 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [What's the deal with all the random weekly quota resets for agents lately?](https://minimaxir.com/2026/07/agent-quota-reset/) — *Max Woolf's Blog* `07-18`
 - [Reading List 07/18/26](https://www.construction-physics.com/p/reading-list-071826) — *Construction Physics* `07-18`
+- [Book Review: A City on Mars - by Dr. Kelly Weinersmith and Zach Weinersmith ★★★★⯪](https://shkspr.mobi/blog/2026/07/book-review-a-city-on-mars-by-dr-kelly-weinersmith-and-zach-weinersmith/) — *Terence Eden’s Blog* `07-18`
 - [This Week in Package Management: 18 July 2026](https://nesbitt.io/2026/07/18/this-week-in-package-management.html) — *Andrew Nesbitt* `07-18`
 - [Claude make Fable 5 permanent](https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything) — *Simon Willison's Weblog* `07-18`
-- [nascheme/quixote](https://simonwillison.net/2026/Jul/18/quixote/#atom-everything) — *Simon Willison's Weblog* `07-18`
-- [Apple Books and Amazon Are Lousy With AI-Generated Books Ripping Off Legitimate Authors](https://thenewthings.com/p/apple-big-ai-book-slop-problem) — *Daring Fireball* `07-18`
 <!--BLOG_RADAR:end-->
 
 ---
