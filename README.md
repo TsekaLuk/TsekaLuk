@@ -208,11 +208,11 @@ Last Updated: Saturday, July 18th, 2026, 9:01:16 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Reading List 07/18/26](https://www.construction-physics.com/p/reading-list-071826) — *Construction Physics* `07-18`
+- [This Week in Package Management: 18 July 2026](https://nesbitt.io/2026/07/18/this-week-in-package-management.html) — *Andrew Nesbitt* `07-18`
 - [Claude make Fable 5 permanent](https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything) — *Simon Willison's Weblog* `07-18`
 - [nascheme/quixote](https://simonwillison.net/2026/Jul/18/quixote/#atom-everything) — *Simon Willison's Weblog* `07-18`
 - [Apple Books and Amazon Are Lousy With AI-Generated Books Ripping Off Legitimate Authors](https://thenewthings.com/p/apple-big-ai-book-slop-problem) — *Daring Fireball* `07-18`
-- [Overtraining as the path to human-like AI](https://seangoedecke.com/overtraining-as-the-path-to-human-like-ai/) — *seangoedecke.com RSS feed* `07-18`
-- [Google Runs Out of Appeals, Must Pay Record $4.7 Billion EU Antitrust Fine](https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html) — *Daring Fireball* `07-17`
 <!--BLOG_RADAR:end-->
 
 ---

@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 18 Jul 2026 08:02:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 13:36:13 +0000</lastBuildDate>
+    <item>
+      <title>Reading List 07/18/26</title>
+      <link>https://www.construction-physics.com/p/reading-list-071826</link>
+      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-071826</guid>
+      <pubDate>Sat, 18 Jul 2026 12:01:57 +0000</pubDate>
+      <description>Construction Physics</description>
+    </item>
+    <item>
+      <title>This Week in Package Management: 18 July 2026</title>
+      <link>https://nesbitt.io/2026/07/18/this-week-in-package-management.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/07/18/this-week-in-package-management.html</guid>
+      <pubDate>Sat, 18 Jul 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
     <item>
       <title>Claude make Fable 5 permanent</title>
       <link>https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything</link>
@@ -314,13 +328,6 @@
       <description>Construction Physics</description>
     </item>
     <item>
-      <title>Gadget Review: Thermal Master DV2 - Infrared Birdwatching Scope ★★★★⯪</title>
-      <link>https://shkspr.mobi/blog/2026/07/gadget-review-thermal-master-dv2-infrared-birdwatching-scope/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/gadget-review-thermal-master-dv2-infrared-birdwatching-scope/</guid>
-      <pubDate>Thu, 16 Jul 2026 11:34:50 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>Deleting Systems You Don't Understand</title>
       <link>https://idiallo.com/blog/deleting-systems-you-dont-understand</link>
       <guid isPermaLink="true">https://idiallo.com/blog/deleting-systems-you-dont-understand</guid>
@@ -503,13 +510,6 @@
       <description>The Old New Thing</description>
     </item>
     <item>
-      <title>I'm a USB-C Maximalist</title>
-      <link>https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/im-a-usb-c-maximalist/</guid>
-      <pubDate>Tue, 14 Jul 2026 11:34:26 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>Pluralistic: Gerontocracy's failure mode (14 Jul 2026)</title>
       <link>https://pluralistic.net/2026/07/14/designated-survivor/</link>
       <guid isPermaLink="true">https://pluralistic.net/2026/07/14/designated-survivor/</guid>
@@ -531,13 +531,6 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>What does "playing politics" mean for software engineers?</title>
-      <link>https://seangoedecke.com/playing-politics/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/playing-politics/</guid>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
       <title>Presigned URLs are technically a security vuln</title>
       <link>https://www.tigrisdata.com/blog/presigned-urls-security-vuln/</link>
       <guid isPermaLink="true">https://www.tigrisdata.com/blog/presigned-urls-security-vuln/</guid>
@@ -550,6 +543,13 @@
       <guid isPermaLink="true">https://xeiaso.net/notes/2026/check-your-smart-tv/</guid>
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>What does "playing politics" mean for software engineers?</title>
+      <link>https://seangoedecke.com/playing-politics/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/playing-politics/</guid>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>Pseudpocalypse</title>
@@ -613,13 +613,6 @@
       <guid isPermaLink="true">http://antirez.com/news/169</guid>
       <pubDate>Mon, 13 Jul 2026 11:39:52 +0000</pubDate>
       <description>&lt;antirez&gt;</description>
-    </item>
-    <item>
-      <title>[RSS Club] Half a million steps is about 10 marathons</title>
-      <link>https://shkspr.mobi/blog/2026/07/rss-club-half-a-million-steps-is-about-10-marathons/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/rss-club-half-a-million-steps-is-about-10-marathons/</guid>
-      <pubDate>Mon, 13 Jul 2026 11:34:09 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Pluralistic: Why aren't AI companies competing directly with their customers? (13 Jul 2026)</title>
@@ -748,13 +741,6 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Another Ridiculous Interrail Holiday - 6,379Km and 13 Countries over 7 weeks</title>
-      <link>https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/</guid>
-      <pubDate>Sun, 12 Jul 2026 11:34:43 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>I love LLMs, I hate hype</title>
       <link>https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html</link>
       <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html</guid>
@@ -844,6 +830,20 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/07/11/this-week-in-package-management.html</guid>
       <pubDate>Sat, 11 Jul 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>Pluralistic: Workplace "flexibility" isn't (11 Jul 2026)</title>
+      <link>https://pluralistic.net/2026/07/11/your-risk/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/07/11/your-risk/</guid>
+      <pubDate>Sat, 11 Jul 2026 08:54:28 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>AI 2040 and the Cult of Intelligence</title>
+      <link>https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html</link>
+      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html</guid>
+      <pubDate>Sat, 11 Jul 2026 07:00:00 +0000</pubDate>
+      <description>the singularity is nearer</description>
     </item>
   </channel>
 </rss>
