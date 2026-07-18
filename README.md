@@ -208,11 +208,11 @@ Last Updated: Saturday, July 18th, 2026, 9:56:11 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [OpenAI Starts Cleaning Up the Utter Mess It Made of ChatGPT](https://x.com/thsottiaux/status/2077928427936710901) — *Daring Fireball* `07-17`
-- [Linus Torvalds: ‘AI Is a Tool, Just Like Other Tools We Use. And It’s Clearly a Useful One.’](https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/) — *Daring Fireball* `07-17`
-- [BBEdit 16](https://www.barebones.com/products/bbedit/bbedit16.html) — *Daring Fireball* `07-17`
-- [ArtfulType: Markdown Writing App for the 68K Macintosh](https://github.com/ActionRetro/ArtfulType) — *Daring Fireball* `07-17`
-- [Happy iCal Day](https://www.threads.com/@joannastern/post/Da5rgIvjrLM) — *Daring Fireball* `07-17`
+- [Apple Books and Amazon Are Lousy With AI-Generated Books Ripping Off Legitimate Authors](https://thenewthings.com/p/apple-big-ai-book-slop-problem) — *Daring Fireball* `07-18`
+- [Overtraining as the path to human-like AI](https://seangoedecke.com/overtraining-as-the-path-to-human-like-ai/) — *seangoedecke.com RSS feed* `07-18`
+- [Google Runs Out of Appeals, Must Pay Record $4.7 Billion EU Antitrust Fine](https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html) — *Daring Fireball* `07-17`
+- [Roblox Set to Introduce AI Game-Building Feature, Including on iOS](https://about.roblox.com/newsroom/2026/07/build-without-limits-on-roblox) — *Daring Fireball* `07-17`
+- [Apple Raises Prices for Apple Music and Apple One Subscriptions](https://9to5mac.com/2026/07/17/apple-raises-prices-for-apple-music-and-apple-one-subscriptions/) — *Daring Fireball* `07-17`
 <!--BLOG_RADAR:end-->
 
 ---
