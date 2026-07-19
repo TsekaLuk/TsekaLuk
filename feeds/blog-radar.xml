@@ -4,13 +4,41 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 18 Jul 2026 19:13:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 03:31:31 +0000</lastBuildDate>
+    <item>
+      <title>★ Mornings in Cupertino Have the Aroma of Napalm Once Again</title>
+      <link>https://daringfireball.net/2026/07/mornings_in_cupertino_have_the_aroma_of_napalm_once_again</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/07/mornings_in_cupertino_have_the_aroma_of_napalm_once_again</guid>
+      <pubDate>Sun, 19 Jul 2026 00:38:17 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Apple Sends Letters to Dozens of Former Employees Now at OpenAI</title>
+      <link>https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166?syn-25a6b1a6=1</link>
+      <guid isPermaLink="true">https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166?syn-25a6b1a6=1</guid>
+      <pubDate>Sat, 18 Jul 2026 22:47:59 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Make It Work vs. Make It Good</title>
+      <link>https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/</guid>
+      <pubDate>Sat, 18 Jul 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
+    </item>
     <item>
       <title>What's the deal with all the random weekly quota resets for agents lately?</title>
       <link>https://minimaxir.com/2026/07/agent-quota-reset/</link>
       <guid isPermaLink="true">https://minimaxir.com/2026/07/agent-quota-reset/</guid>
       <pubDate>Sat, 18 Jul 2026 19:00:00 +0000</pubDate>
       <description>Max Woolf's Blog</description>
+    </item>
+    <item>
+      <title>SQLite Query Explainer</title>
+      <link>https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything</guid>
+      <pubDate>Sat, 18 Jul 2026 17:19:10 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
     <item>
       <title>Reading List 07/18/26</title>
@@ -566,6 +594,13 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
+      <title>Pseudpocalypse</title>
+      <link>https://dynomight.net/pseudpocalypse/</link>
+      <guid isPermaLink="true">https://dynomight.net/pseudpocalypse/</guid>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
+    </item>
+    <item>
       <title>Presigned URLs are technically a security vuln</title>
       <link>https://www.tigrisdata.com/blog/presigned-urls-security-vuln/</link>
       <guid isPermaLink="true">https://www.tigrisdata.com/blog/presigned-urls-security-vuln/</guid>
@@ -578,13 +613,6 @@
       <guid isPermaLink="true">https://xeiaso.net/notes/2026/check-your-smart-tv/</guid>
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
-    </item>
-    <item>
-      <title>Pseudpocalypse</title>
-      <link>https://dynomight.net/pseudpocalypse/</link>
-      <guid isPermaLink="true">https://dynomight.net/pseudpocalypse/</guid>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>DOOMQL</title>
@@ -783,6 +811,13 @@
       <description>Terence Eden’s Blog</description>
     </item>
     <item>
+      <title>I love LLMs, I hate hype</title>
+      <link>https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html</link>
+      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html</guid>
+      <pubDate>Sun, 12 Jul 2026 07:00:00 +0000</pubDate>
+      <description>the singularity is nearer</description>
+    </item>
+    <item>
       <title>Making cooled clothing:</title>
       <link>https://maurycyz.com/projects/cooled/</link>
       <guid isPermaLink="true">https://maurycyz.com/projects/cooled/</guid>
@@ -808,41 +843,6 @@
       <link>https://help.openai.com/en/articles/20001276-moving-to-the-new-chatgpt-desktop-app</link>
       <guid isPermaLink="true">https://help.openai.com/en/articles/20001276-moving-to-the-new-chatgpt-desktop-app</guid>
       <pubDate>Sat, 11 Jul 2026 22:38:39 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>OpenAI Help Center Describes What Is Wrong With the New ChatGPT</title>
-      <link>https://help.openai.com/en/articles/20001275-chatgpt-work-and-codex</link>
-      <guid isPermaLink="true">https://help.openai.com/en/articles/20001275-chatgpt-work-and-codex</guid>
-      <pubDate>Sat, 11 Jul 2026 22:24:20 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Benedict Evans on the New ‘Super App’ ChatGPT</title>
-      <link>https://www.threads.com/@benedictevans/post/Dano_uvDr8F</link>
-      <guid isPermaLink="true">https://www.threads.com/@benedictevans/post/Dano_uvDr8F</guid>
-      <pubDate>Sat, 11 Jul 2026 22:16:21 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Progress on Gilbreath’s conjecture</title>
-      <link>https://www.johndcook.com/blog/2026/07/11/progress-on-gilbreaths-conjecture/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/07/11/progress-on-gilbreaths-conjecture/</guid>
-      <pubDate>Sat, 11 Jul 2026 21:30:11 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>★ Exactly Like Om Malik</title>
-      <link>https://daringfireball.net/2026/07/exactly_like_om_malik</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/07/exactly_like_om_malik</guid>
-      <pubDate>Sat, 11 Jul 2026 19:43:35 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Gurman on Tang Tan and Paul Meade</title>
-      <link>https://www.bloomberg.com/news/articles/2026-07-11/openai-engineer-s-lol-moment-set-stage-for-legal-fight-with-apple?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4Mzc3OTcwMCwiZXhwIjoxNzg0Mzg0NTAwLCJhcnRpY2xlSWQiOiJUSFpEVUhLR0lGUEMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.lF9LVTMyaJOToYhpwph5JjsSJEjdBGXLbenBKQdpHhc&amp;leadSource=uverify%20wall</link>
-      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-07-11/openai-engineer-s-lol-moment-set-stage-for-legal-fight-with-apple?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4Mzc3OTcwMCwiZXhwIjoxNzg0Mzg0NTAwLCJhcnRpY2xlSWQiOiJUSFpEVUhLR0lGUEMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.lF9LVTMyaJOToYhpwph5JjsSJEjdBGXLbenBKQdpHhc&amp;leadSource=uverify%20wall</guid>
-      <pubDate>Sat, 11 Jul 2026 18:02:17 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
   </channel>

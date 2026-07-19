@@ -208,11 +208,11 @@ Last Updated: Sunday, July 19th, 2026, 10:07:26 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [★ Mornings in Cupertino Have the Aroma of Napalm Once Again](https://daringfireball.net/2026/07/mornings_in_cupertino_have_the_aroma_of_napalm_once_again) — *Daring Fireball* `07-19`
+- [Apple Sends Letters to Dozens of Former Employees Now at OpenAI](https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166?syn-25a6b1a6=1) — *Daring Fireball* `07-18`
+- [Make It Work vs. Make It Good](https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/) — *Jim Nielsen’s Blog* `07-18`
 - [What's the deal with all the random weekly quota resets for agents lately?](https://minimaxir.com/2026/07/agent-quota-reset/) — *Max Woolf's Blog* `07-18`
-- [Reading List 07/18/26](https://www.construction-physics.com/p/reading-list-071826) — *Construction Physics* `07-18`
-- [Book Review: A City on Mars - by Dr. Kelly Weinersmith and Zach Weinersmith ★★★★⯪](https://shkspr.mobi/blog/2026/07/book-review-a-city-on-mars-by-dr-kelly-weinersmith-and-zach-weinersmith/) — *Terence Eden’s Blog* `07-18`
-- [This Week in Package Management: 18 July 2026](https://nesbitt.io/2026/07/18/this-week-in-package-management.html) — *Andrew Nesbitt* `07-18`
-- [Claude make Fable 5 permanent](https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything) — *Simon Willison's Weblog* `07-18`
+- [SQLite Query Explainer](https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything) — *Simon Willison's Weblog* `07-18`
 <!--BLOG_RADAR:end-->
 
 ---
