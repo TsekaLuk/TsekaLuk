@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 19 Jul 2026 08:27:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 13:38:36 +0000</lastBuildDate>
     <item>
       <title>AI Mania Is Eviscerating Global Decision-Making</title>
       <link>https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything</link>
@@ -342,18 +342,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>OpenAI Releases Codex Micro, a Stupid $230 Hardware Keypad</title>
-      <link>https://openai.com/supply/co-lab/work-louder/</link>
-      <guid isPermaLink="true">https://openai.com/supply/co-lab/work-louder/</guid>
-      <pubDate>Thu, 16 Jul 2026 17:45:59 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
       <title>Quoting Thibault Sottiaux</title>
       <link>https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything</guid>
       <pubDate>Thu, 16 Jul 2026 17:45:59 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>OpenAI Releases Codex Micro, a Stupid $230 Hardware Keypad</title>
+      <link>https://openai.com/supply/co-lab/work-louder/</link>
+      <guid isPermaLink="true">https://openai.com/supply/co-lab/work-louder/</guid>
+      <pubDate>Thu, 16 Jul 2026 17:45:59 +0000</pubDate>
+      <description>Daring Fireball</description>
     </item>
     <item>
       <title>Inkling: Our open-weights model</title>
