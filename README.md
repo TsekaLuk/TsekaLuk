@@ -208,11 +208,11 @@ Last Updated: Monday, July 20th, 2026, 2:57:20 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [9to5Mac Uncovers Dozens of Disguised Gambling Apps on the App Store in Brazil](https://9to5mac.com/2026/07/17/investigation-reveals-dozens-of-disguised-gambling-apps-on-the-app-store-in-brazil/) — *Daring Fireball* `07-19`
+- [Sum of low squares](https://www.johndcook.com/blog/2026/07/19/sum-of-low-squares/) — *John D. Cook* `07-19`
 - [AI Mania Is Eviscerating Global Decision-Making](https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything) — *Simon Willison's Weblog* `07-19`
 - [Claude Code uses Bun written in Rust now](https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/#atom-everything) — *Simon Willison's Weblog* `07-19`
 - [★ Mornings in Cupertino Have the Aroma of Napalm Once Again](https://daringfireball.net/2026/07/mornings_in_cupertino_have_the_aroma_of_napalm_once_again) — *Daring Fireball* `07-19`
-- [Impro is a handbook for running a cult](https://seangoedecke.com/impro/) — *seangoedecke.com RSS feed* `07-19`
-- [Apple Sends Letters to Dozens of Former Employees Now at OpenAI](https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166?syn-25a6b1a6=1) — *Daring Fireball* `07-18`
 <!--BLOG_RADAR:end-->
 
 ---
