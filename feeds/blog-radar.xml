@@ -4,13 +4,34 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 19 Jul 2026 03:31:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 08:27:57 +0000</lastBuildDate>
+    <item>
+      <title>AI Mania Is Eviscerating Global Decision-Making</title>
+      <link>https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything</guid>
+      <pubDate>Sun, 19 Jul 2026 05:06:21 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Claude Code uses Bun written in Rust now</title>
+      <link>https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/#atom-everything</guid>
+      <pubDate>Sun, 19 Jul 2026 03:54:09 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>★ Mornings in Cupertino Have the Aroma of Napalm Once Again</title>
       <link>https://daringfireball.net/2026/07/mornings_in_cupertino_have_the_aroma_of_napalm_once_again</link>
       <guid isPermaLink="true">https://daringfireball.net/2026/07/mornings_in_cupertino_have_the_aroma_of_napalm_once_again</guid>
       <pubDate>Sun, 19 Jul 2026 00:38:17 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Impro is a handbook for running a cult</title>
+      <link>https://seangoedecke.com/impro/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/impro/</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>Apple Sends Letters to Dozens of Former Employees Now at OpenAI</title>
@@ -321,18 +342,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Quoting Thibault Sottiaux</title>
-      <link>https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything</guid>
-      <pubDate>Thu, 16 Jul 2026 17:45:59 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
       <title>OpenAI Releases Codex Micro, a Stupid $230 Hardware Keypad</title>
       <link>https://openai.com/supply/co-lab/work-louder/</link>
       <guid isPermaLink="true">https://openai.com/supply/co-lab/work-louder/</guid>
       <pubDate>Thu, 16 Jul 2026 17:45:59 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Quoting Thibault Sottiaux</title>
+      <link>https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything</guid>
+      <pubDate>Thu, 16 Jul 2026 17:45:59 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
     <item>
       <title>Inkling: Our open-weights model</title>
@@ -594,13 +615,6 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>Pseudpocalypse</title>
-      <link>https://dynomight.net/pseudpocalypse/</link>
-      <guid isPermaLink="true">https://dynomight.net/pseudpocalypse/</guid>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
-    </item>
-    <item>
       <title>Presigned URLs are technically a security vuln</title>
       <link>https://www.tigrisdata.com/blog/presigned-urls-security-vuln/</link>
       <guid isPermaLink="true">https://www.tigrisdata.com/blog/presigned-urls-security-vuln/</guid>
@@ -613,6 +627,13 @@
       <guid isPermaLink="true">https://xeiaso.net/notes/2026/check-your-smart-tv/</guid>
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>Pseudpocalypse</title>
+      <link>https://dynomight.net/pseudpocalypse/</link>
+      <guid isPermaLink="true">https://dynomight.net/pseudpocalypse/</guid>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>DOOMQL</title>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://maurycyz.com/projects/cooled/</guid>
       <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
       <description>Maurycy's Blog</description>
-    </item>
-    <item>
-      <title>Winners and losers in the coming AI margin collapse (part 2)</title>
-      <link>https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-2-winners-and-losers/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
-      <guid isPermaLink="true">https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-2-winners-and-losers/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
-      <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Martin Alderson</description>
-    </item>
-    <item>
-      <title>sqlite-utils 4.1</title>
-      <link>https://simonwillison.net/2026/Jul/11/sqlite-utils/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/11/sqlite-utils/#atom-everything</guid>
-      <pubDate>Sat, 11 Jul 2026 23:50:20 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Can Someone Explain to Me How to Get ‘ChatGPT Classic’?</title>
-      <link>https://help.openai.com/en/articles/20001276-moving-to-the-new-chatgpt-desktop-app</link>
-      <guid isPermaLink="true">https://help.openai.com/en/articles/20001276-moving-to-the-new-chatgpt-desktop-app</guid>
-      <pubDate>Sat, 11 Jul 2026 22:38:39 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
