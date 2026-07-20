@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 20 Jul 2026 03:45:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 09:27:22 +0000</lastBuildDate>
+    <item>
+      <title>Quoting Sam Altman</title>
+      <link>https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything</guid>
+      <pubDate>Mon, 20 Jul 2026 03:47:59 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Paper</title>
       <link>https://paper.design/?utm_source=df</link>
@@ -836,13 +843,6 @@
       <link>https://x.com/sama/status/2075982617976230043</link>
       <guid isPermaLink="true">https://x.com/sama/status/2075982617976230043</guid>
       <pubDate>Sun, 12 Jul 2026 17:45:57 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Lunacy — Jeff Halter’s Lunatic Fringe Player</title>
-      <link>https://morphing.cloud/lunacy/</link>
-      <guid isPermaLink="true">https://morphing.cloud/lunacy/</guid>
-      <pubDate>Sun, 12 Jul 2026 17:19:36 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
   </channel>
