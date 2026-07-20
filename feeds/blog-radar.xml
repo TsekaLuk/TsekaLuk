@@ -4,13 +4,41 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 20 Jul 2026 09:27:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 14:22:21 +0000</lastBuildDate>
+    <item>
+      <title>OpenTK: nu ook met Internetconsultaties &amp; notificaties</title>
+      <link>https://berthub.eu/articles/posts/opentk-internetconsultaties/</link>
+      <guid isPermaLink="true">https://berthub.eu/articles/posts/opentk-internetconsultaties/</guid>
+      <pubDate>Mon, 20 Jul 2026 11:37:00 +0000</pubDate>
+      <description>Bert Hubert's writings</description>
+    </item>
+    <item>
+      <title>Public Transport - Don't Make Me Think!</title>
+      <link>https://shkspr.mobi/blog/2026/07/public-transport-dont-make-me-think/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/public-transport-dont-make-me-think/</guid>
+      <pubDate>Mon, 20 Jul 2026 11:34:23 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>I added a blogroll</title>
+      <link>https://matduggan.com/i-added-a-blogroll/</link>
+      <guid isPermaLink="true">https://matduggan.com/i-added-a-blogroll/</guid>
+      <pubDate>Mon, 20 Jul 2026 11:29:27 +0000</pubDate>
+      <description>matduggan.com</description>
+    </item>
     <item>
       <title>Quoting Sam Altman</title>
       <link>https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything</guid>
       <pubDate>Mon, 20 Jul 2026 03:47:59 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Memory Safety's Hardest Problem</title>
+      <link>https://matklad.github.io/2026/07/20/memory-safety-hardest-problem.html</link>
+      <guid isPermaLink="true">https://matklad.github.io/2026/07/20/memory-safety-hardest-problem.html</guid>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <description>matklad</description>
     </item>
     <item>
       <title>Paper</title>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/07/12/posterior-variance/</guid>
       <pubDate>Sun, 12 Jul 2026 19:26:29 +0000</pubDate>
       <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>What’s an Icon in 2026?</title>
-      <link>https://blog.jim-nielsen.com/2026/icons-as-software/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/icons-as-software/</guid>
-      <pubDate>Sun, 12 Jul 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
-      <title>TwoMillionKit: Use Private Cloud Compute in MacOS 27 Foundation Models Without an Entitlement</title>
-      <link>https://github.com/insidegui/TwoMillionKit</link>
-      <guid isPermaLink="true">https://github.com/insidegui/TwoMillionKit</guid>
-      <pubDate>Sun, 12 Jul 2026 18:04:05 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Posterior mean</title>
-      <link>https://www.johndcook.com/blog/2026/07/12/posterior-mean/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/07/12/posterior-mean/</guid>
-      <pubDate>Sun, 12 Jul 2026 17:48:14 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Sam Altman and Elon Musk Argue Over Who’s Running the Bigger Scam</title>
-      <link>https://x.com/sama/status/2075982617976230043</link>
-      <guid isPermaLink="true">https://x.com/sama/status/2075982617976230043</guid>
-      <pubDate>Sun, 12 Jul 2026 17:45:57 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>

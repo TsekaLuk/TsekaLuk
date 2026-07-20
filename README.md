@@ -208,11 +208,11 @@ Last Updated: Monday, July 20th, 2026, 9:54:02 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [OpenTK: nu ook met Internetconsultaties & notificaties](https://berthub.eu/articles/posts/opentk-internetconsultaties/) — *Bert Hubert's writings* `07-20`
+- [Public Transport - Don't Make Me Think!](https://shkspr.mobi/blog/2026/07/public-transport-dont-make-me-think/) — *Terence Eden’s Blog* `07-20`
+- [I added a blogroll](https://matduggan.com/i-added-a-blogroll/) — *matduggan.com* `07-20`
 - [Quoting Sam Altman](https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything) — *Simon Willison's Weblog* `07-20`
-- [Paper](https://paper.design/?utm_source=df) — *Daring Fireball* `07-19`
-- [Fitting a regular expression to a list of words](https://www.johndcook.com/blog/2026/07/19/fitting-a-regex/) — *John D. Cook* `07-19`
-- [9to5Mac Uncovers Dozens of Disguised Gambling Apps on the App Store in Brazil](https://9to5mac.com/2026/07/17/investigation-reveals-dozens-of-disguised-gambling-apps-on-the-app-store-in-brazil/) — *Daring Fireball* `07-19`
-- [Sum of low squares](https://www.johndcook.com/blog/2026/07/19/sum-of-low-squares/) — *John D. Cook* `07-19`
+- [Memory Safety's Hardest Problem](https://matklad.github.io/2026/07/20/memory-safety-hardest-problem.html) — *matklad* `07-20`
 <!--BLOG_RADAR:end-->
 
 ---
