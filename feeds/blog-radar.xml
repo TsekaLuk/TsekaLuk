@@ -4,7 +4,49 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 20 Jul 2026 14:22:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 19:50:09 +0000</lastBuildDate>
+    <item>
+      <title>Reverse-engineering is cheap now</title>
+      <link>https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything</guid>
+      <pubDate>Mon, 20 Jul 2026 19:24:05 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Who’s Afraid of Chinese Models?</title>
+      <link>https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything</guid>
+      <pubDate>Mon, 20 Jul 2026 17:09:19 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>‘Who’s Afraid of Chinese Models?’</title>
+      <link>https://stratechery.com/2026/whos-afraid-of-chinese-models/</link>
+      <guid isPermaLink="true">https://stratechery.com/2026/whos-afraid-of-chinese-models/</guid>
+      <pubDate>Mon, 20 Jul 2026 16:27:36 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Volume to Area ratio for Regular Solids</title>
+      <link>https://www.johndcook.com/blog/2026/07/20/volume-area-regular-solids/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/07/20/volume-area-regular-solids/</guid>
+      <pubDate>Mon, 20 Jul 2026 14:35:21 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Solving a chess puzzle with Grok 4.5</title>
+      <link>https://www.johndcook.com/blog/2026/07/20/grok-chess/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/07/20/grok-chess/</guid>
+      <pubDate>Mon, 20 Jul 2026 14:33:31 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Making an agile version of a Windows Runtime delegate in C++/WinRT, part 1</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260720-00/?p=112545</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260720-00/?p=112545</guid>
+      <pubDate>Mon, 20 Jul 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
     <item>
       <title>OpenTK: nu ook met Internetconsultaties &amp; notificaties</title>
       <link>https://berthub.eu/articles/posts/opentk-internetconsultaties/</link>
@@ -39,6 +81,13 @@
       <guid isPermaLink="true">https://matklad.github.io/2026/07/20/memory-safety-hardest-problem.html</guid>
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
       <description>matklad</description>
+    </item>
+    <item>
+      <title>Why I Stopped "Creating Content"</title>
+      <link>https://refactoringenglish.com/blog/why-i-stopped-creating-content/</link>
+      <guid isPermaLink="true">https://refactoringenglish.com/blog/why-i-stopped-creating-content/</guid>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Refactoring English</description>
     </item>
     <item>
       <title>Paper</title>
@@ -671,6 +720,13 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
+      <title>Pseudpocalypse</title>
+      <link>https://dynomight.net/pseudpocalypse/</link>
+      <guid isPermaLink="true">https://dynomight.net/pseudpocalypse/</guid>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
+    </item>
+    <item>
       <title>What does "playing politics" mean for software engineers?</title>
       <link>https://seangoedecke.com/playing-politics/</link>
       <guid isPermaLink="true">https://seangoedecke.com/playing-politics/</guid>
@@ -690,13 +746,6 @@
       <guid isPermaLink="true">https://xeiaso.net/notes/2026/check-your-smart-tv/</guid>
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
-    </item>
-    <item>
-      <title>Pseudpocalypse</title>
-      <link>https://dynomight.net/pseudpocalypse/</link>
-      <guid isPermaLink="true">https://dynomight.net/pseudpocalypse/</guid>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>DOOMQL</title>
@@ -795,55 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Jul/12/shot-scraper/#atom-everything</guid>
       <pubDate>Sun, 12 Jul 2026 23:46:52 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>WorkOS Pipes</title>
-      <link>https://workos.com/pipes?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</link>
-      <guid isPermaLink="true">https://workos.com/pipes?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</guid>
-      <pubDate>Sun, 12 Jul 2026 22:17:54 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Fable gets another bump</title>
-      <link>https://simonwillison.net/2026/Jul/12/bump/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/12/bump/#atom-everything</guid>
-      <pubDate>Sun, 12 Jul 2026 21:20:07 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Paulo Andrade: ‘A WWDC 26 Update on Building a Mac-Assed App With SwiftUI’</title>
-      <link>https://pfandrade.me/blog/swiftui-mac-assed-wwdc27-update/</link>
-      <guid isPermaLink="true">https://pfandrade.me/blog/swiftui-mac-assed-wwdc27-update/</guid>
-      <pubDate>Sun, 12 Jul 2026 21:18:24 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>sqlite-utils 4.1.1</title>
-      <link>https://simonwillison.net/2026/Jul/12/sqlite-utils/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/12/sqlite-utils/#atom-everything</guid>
-      <pubDate>Sun, 12 Jul 2026 20:55:30 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>How UIs Degrade Over Time</title>
-      <link>https://grumpy.website/1723</link>
-      <guid isPermaLink="true">https://grumpy.website/1723</guid>
-      <pubDate>Sun, 12 Jul 2026 19:51:16 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>‘Every Frame Perfect’</title>
-      <link>https://tonsky.me/blog/every-frame-perfect/</link>
-      <guid isPermaLink="true">https://tonsky.me/blog/every-frame-perfect/</guid>
-      <pubDate>Sun, 12 Jul 2026 19:48:09 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Posterior variance</title>
-      <link>https://www.johndcook.com/blog/2026/07/12/posterior-variance/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/07/12/posterior-variance/</guid>
-      <pubDate>Sun, 12 Jul 2026 19:26:29 +0000</pubDate>
-      <description>John D. Cook</description>
     </item>
   </channel>
 </rss>

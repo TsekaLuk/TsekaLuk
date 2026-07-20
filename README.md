@@ -208,11 +208,11 @@ Last Updated: Tuesday, July 21st, 2026, 3:36:53 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [OpenTK: nu ook met Internetconsultaties & notificaties](https://berthub.eu/articles/posts/opentk-internetconsultaties/) — *Bert Hubert's writings* `07-20`
-- [Public Transport - Don't Make Me Think!](https://shkspr.mobi/blog/2026/07/public-transport-dont-make-me-think/) — *Terence Eden’s Blog* `07-20`
-- [I added a blogroll](https://matduggan.com/i-added-a-blogroll/) — *matduggan.com* `07-20`
-- [Quoting Sam Altman](https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything) — *Simon Willison's Weblog* `07-20`
-- [Memory Safety's Hardest Problem](https://matklad.github.io/2026/07/20/memory-safety-hardest-problem.html) — *matklad* `07-20`
+- [Reverse-engineering is cheap now](https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything) — *Simon Willison's Weblog* `07-20`
+- [Who’s Afraid of Chinese Models?](https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything) — *Simon Willison's Weblog* `07-20`
+- [‘Who’s Afraid of Chinese Models?’](https://stratechery.com/2026/whos-afraid-of-chinese-models/) — *Daring Fireball* `07-20`
+- [Volume to Area ratio for Regular Solids](https://www.johndcook.com/blog/2026/07/20/volume-area-regular-solids/) — *John D. Cook* `07-20`
+- [Solving a chess puzzle with Grok 4.5](https://www.johndcook.com/blog/2026/07/20/grok-chess/) — *John D. Cook* `07-20`
 <!--BLOG_RADAR:end-->
 
 ---
