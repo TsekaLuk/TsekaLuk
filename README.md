@@ -208,11 +208,11 @@ Last Updated: Wednesday, July 22nd, 2026, 3:10:36 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Forensic accounting in Python](https://www.johndcook.com/blog/2026/07/21/forensic-accounting-in-python/) — *John D. Cook* `07-21`
+- [Blog Jamboree 2026: The Winners](https://www.experimental-history.com/p/blog-jamboree-2026-the-winners) — *Experimental History* `07-21`
+- [Nativ: Run AI models locally on your Mac](https://simonwillison.net/2026/Jul/21/nativ/#atom-everything) — *Simon Willison's Weblog* `07-21`
+- [Making an agile version of a Windows Runtime delegate in C++/WinRT, part 2](https://devblogs.microsoft.com/oldnewthing/20260721-00/?p=112550) — *The Old New Thing* `07-21`
 - [Kan een Amerikaans bedrijf met encryptie de Amerikaanse overheid buiten de deur houden?](https://berthub.eu/articles/posts/kan-een-amerikaans-bedrijf-zo-versleutelen-dat-amerikanen-er-niet-bijkunnen/) — *Bert Hubert's writings* `07-21`
-- [For a Business, Should Making (Extra) Money Be Incidental?](https://simone.org/business-money-incidental/) — *Simone Salis* `07-21`
-- [A Fireside Chat with Cat and Thariq from the Claude Code team](https://simonwillison.net/2026/Jul/21/cat-and-thariq/#atom-everything) — *Simon Willison's Weblog* `07-21`
-- [Locally everywhere does not imply everywhere](https://www.johndcook.com/blog/2026/07/21/jacobian-conjecture/) — *John D. Cook* `07-21`
-- [–end-of-options](https://nesbitt.io/2026/07/21/end-of-options.html) — *Andrew Nesbitt* `07-21`
 <!--BLOG_RADAR:end-->
 
 ---
