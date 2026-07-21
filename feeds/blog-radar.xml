@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 20 Jul 2026 19:50:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 03:25:09 +0000</lastBuildDate>
+    <item>
+      <title>[Sponsor] WorkOS MCP: Manage Your Auth Platform From Any AI Agent</title>
+      <link>https://workos.com/blog/management-mcp-server?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</link>
+      <guid isPermaLink="true">https://workos.com/blog/management-mcp-server?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</guid>
+      <pubDate>Mon, 20 Jul 2026 23:13:48 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Expensive Is Just a Brand Now</title>
+      <link>https://idiallo.com/blog/expensive-is-just-branding</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/expensive-is-just-branding</guid>
+      <pubDate>Mon, 20 Jul 2026 23:00:00 +0000</pubDate>
+      <description>Software and Tech stories from an Insider - iDiallo.com</description>
+    </item>
     <item>
       <title>Reverse-engineering is cheap now</title>
       <link>https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything</link>
@@ -720,13 +734,6 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>Pseudpocalypse</title>
-      <link>https://dynomight.net/pseudpocalypse/</link>
-      <guid isPermaLink="true">https://dynomight.net/pseudpocalypse/</guid>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
-    </item>
-    <item>
       <title>What does "playing politics" mean for software engineers?</title>
       <link>https://seangoedecke.com/playing-politics/</link>
       <guid isPermaLink="true">https://seangoedecke.com/playing-politics/</guid>
@@ -746,6 +753,13 @@
       <guid isPermaLink="true">https://xeiaso.net/notes/2026/check-your-smart-tv/</guid>
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>Pseudpocalypse</title>
+      <link>https://dynomight.net/pseudpocalypse/</link>
+      <guid isPermaLink="true">https://dynomight.net/pseudpocalypse/</guid>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>DOOMQL</title>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://fabiensanglard.net/jurrasic_park_computers/index.html</guid>
       <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
       <description>Fabien Sanglard</description>
-    </item>
-    <item>
-      <title>Directly Responsible Individuals (DRI)</title>
-      <link>https://simonwillison.net/2026/Jul/12/directly-responsible-individuals/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/12/directly-responsible-individuals/#atom-everything</guid>
-      <pubDate>Sun, 12 Jul 2026 23:57:14 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>shot-scraper 1.11</title>
-      <link>https://simonwillison.net/2026/Jul/12/shot-scraper/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/12/shot-scraper/#atom-everything</guid>
-      <pubDate>Sun, 12 Jul 2026 23:46:52 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
