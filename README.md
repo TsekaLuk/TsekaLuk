@@ -208,11 +208,11 @@ Last Updated: Tuesday, July 21st, 2026, 4:15:35 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Weekly Update 513: Clauding The Home Network](https://www.troyhunt.com/weekly-update-513/) — *Troy Hunt* `07-21`
 - [[Sponsor] WorkOS MCP: Manage Your Auth Platform From Any AI Agent](https://workos.com/blog/management-mcp-server?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026) — *Daring Fireball* `07-20`
 - [Expensive Is Just a Brand Now](https://idiallo.com/blog/expensive-is-just-branding) — *Software and Tech stories from an Insider - iDiallo.com* `07-20`
+- [Kuiper Q-Q plot: are these the same?](https://entropicthoughts.com/kuiper-q-q-plot) — *Entropic Thoughts* `07-20`
 - [Reverse-engineering is cheap now](https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything) — *Simon Willison's Weblog* `07-20`
-- [Who’s Afraid of Chinese Models?](https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything) — *Simon Willison's Weblog* `07-20`
-- [‘Who’s Afraid of Chinese Models?’](https://stratechery.com/2026/whos-afraid-of-chinese-models/) — *Daring Fireball* `07-20`
 <!--BLOG_RADAR:end-->
 
 ---

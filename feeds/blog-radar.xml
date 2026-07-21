@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 21 Jul 2026 03:25:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 08:38:32 +0000</lastBuildDate>
+    <item>
+      <title>Weekly Update 513: Clauding The Home Network</title>
+      <link>https://www.troyhunt.com/weekly-update-513/</link>
+      <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-513/</guid>
+      <pubDate>Tue, 21 Jul 2026 07:30:24 +0000</pubDate>
+      <description>Troy Hunt</description>
+    </item>
     <item>
       <title>[Sponsor] WorkOS MCP: Manage Your Auth Platform From Any AI Agent</title>
       <link>https://workos.com/blog/management-mcp-server?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</link>
@@ -18,6 +25,13 @@
       <guid isPermaLink="true">https://idiallo.com/blog/expensive-is-just-branding</guid>
       <pubDate>Mon, 20 Jul 2026 23:00:00 +0000</pubDate>
       <description>Software and Tech stories from an Insider - iDiallo.com</description>
+    </item>
+    <item>
+      <title>Kuiper Q-Q plot: are these the same?</title>
+      <link>https://entropicthoughts.com/kuiper-q-q-plot</link>
+      <guid isPermaLink="true">https://entropicthoughts.com/kuiper-q-q-plot</guid>
+      <pubDate>Mon, 20 Jul 2026 22:00:00 +0000</pubDate>
+      <description>Entropic Thoughts</description>
     </item>
     <item>
       <title>Reverse-engineering is cheap now</title>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://pluralistic.net/2026/07/13/go-meta-meta/</guid>
       <pubDate>Mon, 13 Jul 2026 08:15:24 +0000</pubDate>
       <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>The Tower Keeps Rising</title>
-      <link>https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/</link>
-      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/</guid>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Armin Ronacher's Thoughts and Writings</description>
-    </item>
-    <item>
-      <title>Jurassic Park computers in excruciating detail</title>
-      <link>https://fabiensanglard.net/jurrasic_park_computers/index.html</link>
-      <guid isPermaLink="true">https://fabiensanglard.net/jurrasic_park_computers/index.html</guid>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Fabien Sanglard</description>
     </item>
   </channel>
 </rss>
