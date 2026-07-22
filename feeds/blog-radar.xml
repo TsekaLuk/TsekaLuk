@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 21 Jul 2026 19:40:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 03:23:32 +0000</lastBuildDate>
+    <item>
+      <title>LG to Ban Residential Proxies from Smart TV Apps</title>
+      <link>https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/</link>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/</guid>
+      <pubDate>Wed, 22 Jul 2026 01:10:38 +0000</pubDate>
+      <description>Krebs on Security</description>
+    </item>
+    <item>
+      <title>★ European Commission: ‘Guidance to Google for AI Interoperability on Android &amp; Sharing of Google Search’</title>
+      <link>https://daringfireball.net/2026/07/ec_google_guidance_android_ai_and_search_sharing</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/07/ec_google_guidance_android_ai_and_search_sharing</guid>
+      <pubDate>Tue, 21 Jul 2026 22:49:03 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Forensic accounting in Python</title>
       <link>https://www.johndcook.com/blog/2026/07/21/forensic-accounting-in-python/</link>
@@ -81,6 +95,13 @@
       <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-513/</guid>
       <pubDate>Tue, 21 Jul 2026 07:30:24 +0000</pubDate>
       <description>Troy Hunt</description>
+    </item>
+    <item>
+      <title>10 REM"_(C2SLFF4</title>
+      <link>http://beej.us/blog/data/mystery-comment/</link>
+      <guid isPermaLink="true">http://beej.us/blog/data/mystery-comment/</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Beej's Bit Bucket</description>
     </item>
     <item>
       <title>[Sponsor] WorkOS MCP: Manage Your Auth Platform From Any AI Agent</title>
@@ -559,18 +580,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>OpenAI Releases Codex Micro, a Stupid $230 Hardware Keypad</title>
-      <link>https://openai.com/supply/co-lab/work-louder/</link>
-      <guid isPermaLink="true">https://openai.com/supply/co-lab/work-louder/</guid>
-      <pubDate>Thu, 16 Jul 2026 17:45:59 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
       <title>Quoting Thibault Sottiaux</title>
       <link>https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything</guid>
       <pubDate>Thu, 16 Jul 2026 17:45:59 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>OpenAI Releases Codex Micro, a Stupid $230 Hardware Keypad</title>
+      <link>https://openai.com/supply/co-lab/work-louder/</link>
+      <guid isPermaLink="true">https://openai.com/supply/co-lab/work-louder/</guid>
+      <pubDate>Thu, 16 Jul 2026 17:45:59 +0000</pubDate>
+      <description>Daring Fireball</description>
     </item>
     <item>
       <title>Inkling: Our open-weights model</title>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://seangoedecke.com/playing-politics/</guid>
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>Presigned URLs are technically a security vuln</title>
-      <link>https://www.tigrisdata.com/blog/presigned-urls-security-vuln/</link>
-      <guid isPermaLink="true">https://www.tigrisdata.com/blog/presigned-urls-security-vuln/</guid>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
-      <title>You should probably check on your smart appliances</title>
-      <link>https://xeiaso.net/notes/2026/check-your-smart-tv/</link>
-      <guid isPermaLink="true">https://xeiaso.net/notes/2026/check-your-smart-tv/</guid>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
-      <title>Pseudpocalypse</title>
-      <link>https://dynomight.net/pseudpocalypse/</link>
-      <guid isPermaLink="true">https://dynomight.net/pseudpocalypse/</guid>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
     </item>
   </channel>
 </rss>

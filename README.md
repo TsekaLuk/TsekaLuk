@@ -208,11 +208,11 @@ Last Updated: Wednesday, July 22nd, 2026, 10:04:34 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [LG to Ban Residential Proxies from Smart TV Apps](https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/) — *Krebs on Security* `07-22`
+- [★ European Commission: ‘Guidance to Google for AI Interoperability on Android & Sharing of Google Search’](https://daringfireball.net/2026/07/ec_google_guidance_android_ai_and_search_sharing) — *Daring Fireball* `07-21`
 - [Forensic accounting in Python](https://www.johndcook.com/blog/2026/07/21/forensic-accounting-in-python/) — *John D. Cook* `07-21`
 - [Blog Jamboree 2026: The Winners](https://www.experimental-history.com/p/blog-jamboree-2026-the-winners) — *Experimental History* `07-21`
 - [Nativ: Run AI models locally on your Mac](https://simonwillison.net/2026/Jul/21/nativ/#atom-everything) — *Simon Willison's Weblog* `07-21`
-- [Making an agile version of a Windows Runtime delegate in C++/WinRT, part 2](https://devblogs.microsoft.com/oldnewthing/20260721-00/?p=112550) — *The Old New Thing* `07-21`
-- [Kan een Amerikaans bedrijf met encryptie de Amerikaanse overheid buiten de deur houden?](https://berthub.eu/articles/posts/kan-een-amerikaans-bedrijf-zo-versleutelen-dat-amerikanen-er-niet-bijkunnen/) — *Bert Hubert's writings* `07-21`
 <!--BLOG_RADAR:end-->
 
 ---
