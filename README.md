@@ -208,11 +208,11 @@ Last Updated: Thursday, July 23rd, 2026, 3:04:26 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [The Subprime Data Center Crisis](https://www.wheresyoured.at/the-subprime-data-center-crisis/) — *Ed Zitron's Where's Your Ed At* `07-22`
+- [Not just development, distribution of software may change as well](http://antirez.com/news/170) — *<antirez>* `07-22`
+- [Open Sauce and GPS time were my summer AI Antiseptics](https://www.jeffgeerling.com/blog/2026/open-sauce-gps-time-badge/) — *Jeff Geerling* `07-22`
 - [When sine of x degrees equals sine of x radians](https://www.johndcook.com/blog/2026/07/22/degrees-radians/) — *John D. Cook* `07-22`
-- [Scattered thoughts on social geolocation](https://shkspr.mobi/blog/2026/07/scattered-thoughts-on-social-geolocation/) — *Terence Eden’s Blog* `07-22`
 - [Pluralistic: Trump's America can't even win a rigged game (22 Jul 2026)](https://pluralistic.net/2026/07/22/table-flipper/) — *Pluralistic: Daily links from Cory Doctorow* `07-22`
-- [LG to Ban Residential Proxies from Smart TV Apps](https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/) — *Krebs on Security* `07-22`
-- [★ European Commission: ‘Guidance to Google for AI Interoperability on Android & Sharing of Google Search’](https://daringfireball.net/2026/07/ec_google_guidance_android_ai_and_search_sharing) — *Daring Fireball* `07-21`
 <!--BLOG_RADAR:end-->
 
 ---
