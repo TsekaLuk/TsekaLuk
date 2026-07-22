@@ -208,11 +208,11 @@ Last Updated: Wednesday, July 22nd, 2026, 9:37:27 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [When sine of x degrees equals sine of x radians](https://www.johndcook.com/blog/2026/07/22/degrees-radians/) — *John D. Cook* `07-22`
+- [Scattered thoughts on social geolocation](https://shkspr.mobi/blog/2026/07/scattered-thoughts-on-social-geolocation/) — *Terence Eden’s Blog* `07-22`
+- [Pluralistic: Trump's America can't even win a rigged game (22 Jul 2026)](https://pluralistic.net/2026/07/22/table-flipper/) — *Pluralistic: Daily links from Cory Doctorow* `07-22`
 - [LG to Ban Residential Proxies from Smart TV Apps](https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/) — *Krebs on Security* `07-22`
 - [★ European Commission: ‘Guidance to Google for AI Interoperability on Android & Sharing of Google Search’](https://daringfireball.net/2026/07/ec_google_guidance_android_ai_and_search_sharing) — *Daring Fireball* `07-21`
-- [Forensic accounting in Python](https://www.johndcook.com/blog/2026/07/21/forensic-accounting-in-python/) — *John D. Cook* `07-21`
-- [Blog Jamboree 2026: The Winners](https://www.experimental-history.com/p/blog-jamboree-2026-the-winners) — *Experimental History* `07-21`
-- [Nativ: Run AI models locally on your Mac](https://simonwillison.net/2026/Jul/21/nativ/#atom-everything) — *Simon Willison's Weblog* `07-21`
 <!--BLOG_RADAR:end-->
 
 ---
