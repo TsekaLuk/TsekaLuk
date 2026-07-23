@@ -208,11 +208,11 @@ Last Updated: Thursday, July 23rd, 2026, 9:42:52 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [An almost periodic function](https://www.johndcook.com/blog/2026/07/23/an-almost-periodic-function/) — *John D. Cook* `07-23`
+- [Can We Lower Construction Costs with Cheaper Labor or Materials?](https://www.construction-physics.com/p/can-we-lower-construction-costs-with) — *Construction Physics* `07-23`
+- [Pluralistic: California's privacy obstacle course (23 Jul 2026)](https://pluralistic.net/2026/07/23/drop-a-dime/) — *Pluralistic: Daily links from Cory Doctorow* `07-23`
+- [Met het Oog op Morgen: Uitgebroken AI?](https://berthub.eu/articles/posts/ai-met-het-oog-op-morgen/) — *Bert Hubert's writings* `07-23`
 - [Quoting Seth Larson](https://simonwillison.net/2026/Jul/23/seth-larson/#atom-everything) — *Simon Willison's Weblog* `07-23`
-- [John C. Dvorak has died](https://oldvcr.blogspot.com/2026/07/john-c-dvorak-has-died.html) — *Old Vintage Computing Research* `07-23`
-- [Package Name Prefixes](https://nesbitt.io/2026/07/23/package-name-prefixes.html) — *Andrew Nesbitt* `07-23`
-- [Quoting Thomas Ptacek](https://simonwillison.net/2026/Jul/22/thomas-ptacek/#atom-everything) — *Simon Willison's Weblog* `07-22`
-- [OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened](https://simonwillison.net/2026/Jul/22/openai-cyberattack/#atom-everything) — *Simon Willison's Weblog* `07-22`
 <!--BLOG_RADAR:end-->
 
 ---

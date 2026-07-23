@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 23 Jul 2026 08:39:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 14:21:08 +0000</lastBuildDate>
+    <item>
+      <title>An almost periodic function</title>
+      <link>https://www.johndcook.com/blog/2026/07/23/an-almost-periodic-function/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/07/23/an-almost-periodic-function/</guid>
+      <pubDate>Thu, 23 Jul 2026 14:04:34 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Can We Lower Construction Costs with Cheaper Labor or Materials?</title>
+      <link>https://www.construction-physics.com/p/can-we-lower-construction-costs-with</link>
+      <guid isPermaLink="true">https://www.construction-physics.com/p/can-we-lower-construction-costs-with</guid>
+      <pubDate>Thu, 23 Jul 2026 13:05:38 +0000</pubDate>
+      <description>Construction Physics</description>
+    </item>
+    <item>
+      <title>Pluralistic: California's privacy obstacle course (23 Jul 2026)</title>
+      <link>https://pluralistic.net/2026/07/23/drop-a-dime/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/07/23/drop-a-dime/</guid>
+      <pubDate>Thu, 23 Jul 2026 10:27:55 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Met het Oog op Morgen: Uitgebroken AI?</title>
+      <link>https://berthub.eu/articles/posts/ai-met-het-oog-op-morgen/</link>
+      <guid isPermaLink="true">https://berthub.eu/articles/posts/ai-met-het-oog-op-morgen/</guid>
+      <pubDate>Thu, 23 Jul 2026 09:00:00 +0000</pubDate>
+      <description>Bert Hubert's writings</description>
+    </item>
     <item>
       <title>Quoting Seth Larson</title>
       <link>https://simonwillison.net/2026/Jul/23/seth-larson/#atom-everything</link>
@@ -18,6 +46,13 @@
       <guid isPermaLink="true">https://oldvcr.blogspot.com/2026/07/john-c-dvorak-has-died.html</guid>
       <pubDate>Thu, 23 Jul 2026 01:02:38 +0000</pubDate>
       <description>Old Vintage Computing Research</description>
+    </item>
+    <item>
+      <title>Powerful AIs might escape containment by releasing themselves as open-weight models</title>
+      <link>https://seangoedecke.com/powerful-ais-might-escape-by-releasing-open-weight-models/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/powerful-ais-might-escape-by-releasing-open-weight-models/</guid>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>Package Name Prefixes</title>
@@ -809,41 +844,6 @@
       <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-07-14/openai-s-first-device-will-be-moveable-screenless-speaker-built-as-ai-companion?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NDA2MjAxMywiZXhwIjoxNzg0NjY2ODEzLCJhcnRpY2xlSWQiOiJUSTYwSllUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.DfRN0afk0TFIaHFw9zEKYjehnfMsZfKC7gPoVos8WPI&amp;leadSource=article-gifting</guid>
       <pubDate>Wed, 15 Jul 2026 23:02:54 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Eric Seufert: ‘Did Apple Just Signal a Third-Party Expansion of Apple Ads?’</title>
-      <link>https://mobiledevmemo.com/did-apple-just-signal-a-third-party-expansion-of-apple-ads/</link>
-      <guid isPermaLink="true">https://mobiledevmemo.com/did-apple-just-signal-a-third-party-expansion-of-apple-ads/</guid>
-      <pubDate>Wed, 15 Jul 2026 22:52:22 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Apple Updates Advertising Services Policy With New Rules for Ads in Maps</title>
-      <link>https://techcrunch.com/2026/07/15/apple-quietly-reveals-how-its-maps-ads-will-differ-from-googles/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/15/apple-quietly-reveals-how-its-maps-ads-will-differ-from-googles/</guid>
-      <pubDate>Wed, 15 Jul 2026 22:48:20 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Apple Intelligence OK’d to Launch in China, Using AI Models from Baidu and Alibaba</title>
-      <link>https://www.scmp.com/tech/policy/article/3360685/china-approves-apple-intelligence-phones-alibaba-baidu-emerging-partners</link>
-      <guid isPermaLink="true">https://www.scmp.com/tech/policy/article/3360685/china-approves-apple-intelligence-phones-alibaba-baidu-emerging-partners</guid>
-      <pubDate>Wed, 15 Jul 2026 22:35:18 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The OpenAI Bubble</title>
-      <link>https://www.wheresyoured.at/the-openai-bubble/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/the-openai-bubble/</guid>
-      <pubDate>Wed, 15 Jul 2026 16:55:56 +0000</pubDate>
-      <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>How I tricked Claude into leaking your deepest, darkest secrets</title>
-      <link>https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything</guid>
-      <pubDate>Wed, 15 Jul 2026 14:21:54 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
