@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 23 Jul 2026 03:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 08:39:39 +0000</lastBuildDate>
+    <item>
+      <title>Quoting Seth Larson</title>
+      <link>https://simonwillison.net/2026/Jul/23/seth-larson/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/23/seth-larson/#atom-everything</guid>
+      <pubDate>Thu, 23 Jul 2026 04:50:36 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>John C. Dvorak has died</title>
       <link>https://oldvcr.blogspot.com/2026/07/john-c-dvorak-has-died.html</link>
@@ -706,18 +713,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>OpenAI Releases Codex Micro, a Stupid $230 Hardware Keypad</title>
-      <link>https://openai.com/supply/co-lab/work-louder/</link>
-      <guid isPermaLink="true">https://openai.com/supply/co-lab/work-louder/</guid>
-      <pubDate>Thu, 16 Jul 2026 17:45:59 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
       <title>Quoting Thibault Sottiaux</title>
       <link>https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything</guid>
       <pubDate>Thu, 16 Jul 2026 17:45:59 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>OpenAI Releases Codex Micro, a Stupid $230 Hardware Keypad</title>
+      <link>https://openai.com/supply/co-lab/work-louder/</link>
+      <guid isPermaLink="true">https://openai.com/supply/co-lab/work-louder/</guid>
+      <pubDate>Thu, 16 Jul 2026 17:45:59 +0000</pubDate>
+      <description>Daring Fireball</description>
     </item>
     <item>
       <title>Inkling: Our open-weights model</title>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything</guid>
       <pubDate>Wed, 15 Jul 2026 14:21:54 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>The case of the invalid function pointer when shutting down the display control panel</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260715-00/?p=112535</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260715-00/?p=112535</guid>
-      <pubDate>Wed, 15 Jul 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
     </item>
   </channel>
 </rss>

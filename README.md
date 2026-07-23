@@ -208,11 +208,11 @@ Last Updated: Thursday, July 23rd, 2026, 4:20:39 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Quoting Seth Larson](https://simonwillison.net/2026/Jul/23/seth-larson/#atom-everything) — *Simon Willison's Weblog* `07-23`
 - [John C. Dvorak has died](https://oldvcr.blogspot.com/2026/07/john-c-dvorak-has-died.html) — *Old Vintage Computing Research* `07-23`
 - [Package Name Prefixes](https://nesbitt.io/2026/07/23/package-name-prefixes.html) — *Andrew Nesbitt* `07-23`
 - [Quoting Thomas Ptacek](https://simonwillison.net/2026/Jul/22/thomas-ptacek/#atom-everything) — *Simon Willison's Weblog* `07-22`
 - [OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened](https://simonwillison.net/2026/Jul/22/openai-cyberattack/#atom-everything) — *Simon Willison's Weblog* `07-22`
-- [Are AI labs pelicanmaxxing?](https://simonwillison.net/2026/Jul/22/are-ai-labs-pelicanmaxxing/#atom-everything) — *Simon Willison's Weblog* `07-22`
 <!--BLOG_RADAR:end-->
 
 ---
