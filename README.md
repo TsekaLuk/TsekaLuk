@@ -208,11 +208,11 @@ Last Updated: Friday, July 24th, 2026, 3:05:13 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [An almost periodic function](https://www.johndcook.com/blog/2026/07/23/an-almost-periodic-function/) — *John D. Cook* `07-23`
-- [Can We Lower Construction Costs with Cheaper Labor or Materials?](https://www.construction-physics.com/p/can-we-lower-construction-costs-with) — *Construction Physics* `07-23`
-- [Pluralistic: California's privacy obstacle course (23 Jul 2026)](https://pluralistic.net/2026/07/23/drop-a-dime/) — *Pluralistic: Daily links from Cory Doctorow* `07-23`
-- [Met het Oog op Morgen: Uitgebroken AI?](https://berthub.eu/articles/posts/ai-met-het-oog-op-morgen/) — *Bert Hubert's writings* `07-23`
-- [Quoting Seth Larson](https://simonwillison.net/2026/Jul/23/seth-larson/#atom-everything) — *Simon Willison's Weblog* `07-23`
+- [★ The Ads on Apple News Continue to Suck, but at Least There Are a Lot of Them](https://daringfireball.net/2026/07/ads_on_apple_news_suck) — *Daring Fireball* `07-23`
+- [John Dvorak on Computer Chronicles in 1987 to Discuss the Then-New IBM PS/2](https://www.youtube.com/watch?v=uY2WF_sPecI) — *Daring Fireball* `07-23`
+- [John Dvorak Drops Dead at 80](https://appleinsider.com/articles/26/07/23/famed-technology-journalist-john-c-dvorak-dies-aged-80) — *Daring Fireball* `07-23`
+- [LLMs break down in funny ways when told the Jacobian Conjecture counterargument](https://minimaxir.com/2026/07/jacobian-conjecture/) — *Max Woolf's Blog* `07-23`
+- [Flighty New Connection Assistant Feature](https://9to5mac.com/2026/07/07/flighty-update-adds-powerful-new-connection-assistant-feature/) — *Daring Fireball* `07-23`
 <!--BLOG_RADAR:end-->
 
 ---
