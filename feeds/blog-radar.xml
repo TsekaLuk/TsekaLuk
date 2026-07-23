@@ -4,7 +4,42 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 22 Jul 2026 19:36:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 03:30:04 +0000</lastBuildDate>
+    <item>
+      <title>John C. Dvorak has died</title>
+      <link>https://oldvcr.blogspot.com/2026/07/john-c-dvorak-has-died.html</link>
+      <guid isPermaLink="true">https://oldvcr.blogspot.com/2026/07/john-c-dvorak-has-died.html</guid>
+      <pubDate>Thu, 23 Jul 2026 01:02:38 +0000</pubDate>
+      <description>Old Vintage Computing Research</description>
+    </item>
+    <item>
+      <title>Package Name Prefixes</title>
+      <link>https://nesbitt.io/2026/07/23/package-name-prefixes.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/07/23/package-name-prefixes.html</guid>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>Quoting Thomas Ptacek</title>
+      <link>https://simonwillison.net/2026/Jul/22/thomas-ptacek/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/22/thomas-ptacek/#atom-everything</guid>
+      <pubDate>Wed, 22 Jul 2026 23:59:01 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened</title>
+      <link>https://simonwillison.net/2026/Jul/22/openai-cyberattack/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/22/openai-cyberattack/#atom-everything</guid>
+      <pubDate>Wed, 22 Jul 2026 23:51:33 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Are AI labs pelicanmaxxing?</title>
+      <link>https://simonwillison.net/2026/Jul/22/are-ai-labs-pelicanmaxxing/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/22/are-ai-labs-pelicanmaxxing/#atom-everything</guid>
+      <pubDate>Wed, 22 Jul 2026 23:01:00 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>The Subprime Data Center Crisis</title>
       <link>https://www.wheresyoured.at/the-subprime-data-center-crisis/</link>
@@ -20,6 +55,13 @@
       <description>&lt;antirez&gt;</description>
     </item>
     <item>
+      <title>Orchestrions</title>
+      <link>https://simonwillison.net/2026/Jul/22/all-the-orchestrions/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/22/all-the-orchestrions/#atom-everything</guid>
+      <pubDate>Wed, 22 Jul 2026 14:48:52 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
       <title>Open Sauce and GPS time were my summer AI Antiseptics</title>
       <link>https://www.jeffgeerling.com/blog/2026/open-sauce-gps-time-badge/</link>
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/open-sauce-gps-time-badge/</guid>
@@ -27,11 +69,25 @@
       <description>Jeff Geerling</description>
     </item>
     <item>
+      <title>Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260722-00/?p=112552</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260722-00/?p=112552</guid>
+      <pubDate>Wed, 22 Jul 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
+    <item>
       <title>When sine of x degrees equals sine of x radians</title>
       <link>https://www.johndcook.com/blog/2026/07/22/degrees-radians/</link>
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/07/22/degrees-radians/</guid>
       <pubDate>Wed, 22 Jul 2026 12:17:11 +0000</pubDate>
       <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Scattered thoughts on social geolocation</title>
+      <link>https://shkspr.mobi/blog/2026/07/scattered-thoughts-on-social-geolocation/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/scattered-thoughts-on-social-geolocation/</guid>
+      <pubDate>Wed, 22 Jul 2026 11:34:12 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Pluralistic: Trump's America can't even win a rigged game (22 Jul 2026)</title>
@@ -69,11 +125,25 @@
       <description>DYNOMIGHT</description>
     </item>
     <item>
+      <title>The first known runaway AI agent - or a very bad marketing stunt?</title>
+      <link>https://martinalderson.com/posts/huggingface-openai-exploit/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
+      <guid isPermaLink="true">https://martinalderson.com/posts/huggingface-openai-exploit/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Martin Alderson</description>
+    </item>
+    <item>
       <title>★ European Commission: ‘Guidance to Google for AI Interoperability on Android &amp; Sharing of Google Search’</title>
       <link>https://daringfireball.net/2026/07/ec_google_guidance_android_ai_and_search_sharing</link>
       <guid isPermaLink="true">https://daringfireball.net/2026/07/ec_google_guidance_android_ai_and_search_sharing</guid>
       <pubDate>Tue, 21 Jul 2026 22:49:03 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>California Sea Lion</title>
+      <link>https://simonwillison.net/2026/Jul/21/sighting-383713864/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/21/sighting-383713864/#atom-everything</guid>
+      <pubDate>Tue, 21 Jul 2026 19:51:03 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
     <item>
       <title>Forensic accounting in Python</title>
@@ -230,6 +300,13 @@
       <description>Bert Hubert's writings</description>
     </item>
     <item>
+      <title>Public Transport - Don't Make Me Think!</title>
+      <link>https://shkspr.mobi/blog/2026/07/public-transport-dont-make-me-think/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/public-transport-dont-make-me-think/</guid>
+      <pubDate>Mon, 20 Jul 2026 11:34:23 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>I added a blogroll</title>
       <link>https://matduggan.com/i-added-a-blogroll/</link>
       <guid isPermaLink="true">https://matduggan.com/i-added-a-blogroll/</guid>
@@ -354,6 +431,13 @@
       <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-071826</guid>
       <pubDate>Sat, 18 Jul 2026 12:01:57 +0000</pubDate>
       <description>Construction Physics</description>
+    </item>
+    <item>
+      <title>Book Review: A City on Mars - by Dr. Kelly Weinersmith and Zach Weinersmith ★★★★⯪</title>
+      <link>https://shkspr.mobi/blog/2026/07/book-review-a-city-on-mars-by-dr-kelly-weinersmith-and-zach-weinersmith/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/book-review-a-city-on-mars-by-dr-kelly-weinersmith-and-zach-weinersmith/</guid>
+      <pubDate>Sat, 18 Jul 2026 11:34:18 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>This Week in Package Management: 18 July 2026</title>
@@ -622,18 +706,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Quoting Thibault Sottiaux</title>
-      <link>https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything</guid>
-      <pubDate>Thu, 16 Jul 2026 17:45:59 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
       <title>OpenAI Releases Codex Micro, a Stupid $230 Hardware Keypad</title>
       <link>https://openai.com/supply/co-lab/work-louder/</link>
       <guid isPermaLink="true">https://openai.com/supply/co-lab/work-louder/</guid>
       <pubDate>Thu, 16 Jul 2026 17:45:59 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Quoting Thibault Sottiaux</title>
+      <link>https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything</guid>
+      <pubDate>Thu, 16 Jul 2026 17:45:59 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
     <item>
       <title>Inkling: Our open-weights model</title>
@@ -669,6 +753,13 @@
       <guid isPermaLink="true">https://www.construction-physics.com/p/how-predictable-are-laws</guid>
       <pubDate>Thu, 16 Jul 2026 12:03:18 +0000</pubDate>
       <description>Construction Physics</description>
+    </item>
+    <item>
+      <title>Gadget Review: Thermal Master DV2 - Infrared Birdwatching Scope ★★★★⯪</title>
+      <link>https://shkspr.mobi/blog/2026/07/gadget-review-thermal-master-dv2-infrared-birdwatching-scope/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/gadget-review-thermal-master-dv2-infrared-birdwatching-scope/</guid>
+      <pubDate>Thu, 16 Jul 2026 11:34:50 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Deleting Systems You Don't Understand</title>
@@ -753,97 +844,6 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260715-00/?p=112535</guid>
       <pubDate>Wed, 15 Jul 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Bring Back The Kiosk</title>
-      <link>https://feed.tedium.co/link/15204/17381035/edos-disk-copying-system-history</link>
-      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17381035/edos-disk-copying-system-history</guid>
-      <pubDate>Wed, 15 Jul 2026 12:24:29 +0000</pubDate>
-      <description>Tedium: The Dull Side of the Internet.</description>
-    </item>
-    <item>
-      <title>Ben je van de IT of niet?</title>
-      <link>https://berthub.eu/articles/posts/ben-je-van-de-it-of-niet/</link>
-      <guid isPermaLink="true">https://berthub.eu/articles/posts/ben-je-van-de-it-of-niet/</guid>
-      <pubDate>Wed, 15 Jul 2026 10:15:00 +0000</pubDate>
-      <description>Bert Hubert's writings</description>
-    </item>
-    <item>
-      <title>Notes on the Fourier Transform</title>
-      <link>https://eli.thegreenplace.net/2026/notes-on-the-fourier-transform/</link>
-      <guid isPermaLink="true">https://eli.thegreenplace.net/2026/notes-on-the-fourier-transform/</guid>
-      <pubDate>Wed, 15 Jul 2026 03:04:00 +0000</pubDate>
-      <description>Eli Bendersky's website</description>
-    </item>
-    <item>
-      <title>Weekly Update 512: IoT Lockout Fail</title>
-      <link>https://www.troyhunt.com/weekly-update-512/</link>
-      <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-512/</guid>
-      <pubDate>Wed, 15 Jul 2026 00:35:38 +0000</pubDate>
-      <description>Troy Hunt</description>
-    </item>
-    <item>
-      <title>Quoting GitHub Changelog</title>
-      <link>https://simonwillison.net/2026/Jul/14/github-changeling/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/14/github-changeling/#atom-everything</guid>
-      <pubDate>Tue, 14 Jul 2026 22:43:35 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>They Prefer the App</title>
-      <link>https://idiallo.com/blog/they-prefer-the-app</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/they-prefer-the-app</guid>
-      <pubDate>Tue, 14 Jul 2026 22:35:36 +0000</pubDate>
-      <description>Software and Tech stories from an Insider - iDiallo.com</description>
-    </item>
-    <item>
-      <title>simonw/pedalican</title>
-      <link>https://simonwillison.net/2026/Jul/14/pedalican/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/14/pedalican/#atom-everything</guid>
-      <pubDate>Tue, 14 Jul 2026 22:29:45 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>lobste.rs is now running on SQLite</title>
-      <link>https://simonwillison.net/2026/Jul/14/lobsters-sqlite/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/14/lobsters-sqlite/#atom-everything</guid>
-      <pubDate>Tue, 14 Jul 2026 19:44:11 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Microsoft Patches a Record 570 Security Flaws</title>
-      <link>https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/</link>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/</guid>
-      <pubDate>Tue, 14 Jul 2026 19:22:42 +0000</pubDate>
-      <description>Krebs on Security</description>
-    </item>
-    <item>
-      <title>Quoting Armin Ronacher</title>
-      <link>https://simonwillison.net/2026/Jul/14/armin-ronacher/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/14/armin-ronacher/#atom-everything</guid>
-      <pubDate>Tue, 14 Jul 2026 18:04:23 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>datasette 1.0a37</title>
-      <link>https://simonwillison.net/2026/Jul/14/datasette/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/14/datasette/#atom-everything</guid>
-      <pubDate>Tue, 14 Jul 2026 16:31:41 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>I'm still alive</title>
-      <link>https://buttondown.com/hillelwayne/archive/im-still-alive/</link>
-      <guid isPermaLink="true">https://buttondown.com/hillelwayne/archive/im-still-alive/</guid>
-      <pubDate>Tue, 14 Jul 2026 16:15:07 +0000</pubDate>
-      <description>Computer Things</description>
-    </item>
-    <item>
-      <title>ICD-10 chapters and code letters</title>
-      <link>https://www.johndcook.com/blog/2026/07/14/icd-10-chapters-letters/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/07/14/icd-10-chapters-letters/</guid>
-      <pubDate>Tue, 14 Jul 2026 14:24:12 +0000</pubDate>
-      <description>John D. Cook</description>
     </item>
   </channel>
 </rss>

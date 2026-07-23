@@ -208,11 +208,11 @@ Last Updated: Thursday, July 23rd, 2026, 10:11:19 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [The Subprime Data Center Crisis](https://www.wheresyoured.at/the-subprime-data-center-crisis/) — *Ed Zitron's Where's Your Ed At* `07-22`
-- [Not just development, distribution of software may change as well](http://antirez.com/news/170) — *<antirez>* `07-22`
-- [Open Sauce and GPS time were my summer AI Antiseptics](https://www.jeffgeerling.com/blog/2026/open-sauce-gps-time-badge/) — *Jeff Geerling* `07-22`
-- [When sine of x degrees equals sine of x radians](https://www.johndcook.com/blog/2026/07/22/degrees-radians/) — *John D. Cook* `07-22`
-- [Pluralistic: Trump's America can't even win a rigged game (22 Jul 2026)](https://pluralistic.net/2026/07/22/table-flipper/) — *Pluralistic: Daily links from Cory Doctorow* `07-22`
+- [John C. Dvorak has died](https://oldvcr.blogspot.com/2026/07/john-c-dvorak-has-died.html) — *Old Vintage Computing Research* `07-23`
+- [Package Name Prefixes](https://nesbitt.io/2026/07/23/package-name-prefixes.html) — *Andrew Nesbitt* `07-23`
+- [Quoting Thomas Ptacek](https://simonwillison.net/2026/Jul/22/thomas-ptacek/#atom-everything) — *Simon Willison's Weblog* `07-22`
+- [OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened](https://simonwillison.net/2026/Jul/22/openai-cyberattack/#atom-everything) — *Simon Willison's Weblog* `07-22`
+- [Are AI labs pelicanmaxxing?](https://simonwillison.net/2026/Jul/22/are-ai-labs-pelicanmaxxing/#atom-everything) — *Simon Willison's Weblog* `07-22`
 <!--BLOG_RADAR:end-->
 
 ---
