@@ -208,11 +208,11 @@ Last Updated: Friday, July 24th, 2026, 10:07:44 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [The first known runaway AI agent - or a very bad marketing stunt?](https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything) — *Simon Willison's Weblog* `07-23`
+- [Bond Movie Filming Locations Map](https://department-m.agency/) — *Daring Fireball* `07-23`
 - [★ The Ads on Apple News Continue to Suck, but at Least There Are a Lot of Them](https://daringfireball.net/2026/07/ads_on_apple_news_suck) — *Daring Fireball* `07-23`
 - [John Dvorak on Computer Chronicles in 1987 to Discuss the Then-New IBM PS/2](https://www.youtube.com/watch?v=uY2WF_sPecI) — *Daring Fireball* `07-23`
 - [John Dvorak Drops Dead at 80](https://appleinsider.com/articles/26/07/23/famed-technology-journalist-john-c-dvorak-dies-aged-80) — *Daring Fireball* `07-23`
-- [LLMs break down in funny ways when told the Jacobian Conjecture counterargument](https://minimaxir.com/2026/07/jacobian-conjecture/) — *Max Woolf's Blog* `07-23`
-- [Flighty New Connection Assistant Feature](https://9to5mac.com/2026/07/07/flighty-update-adds-powerful-new-connection-assistant-feature/) — *Daring Fireball* `07-23`
 <!--BLOG_RADAR:end-->
 
 ---
