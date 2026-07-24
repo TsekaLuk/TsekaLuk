@@ -208,11 +208,11 @@ Last Updated: Friday, July 24th, 2026, 9:24:30 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Book Review: Foreign Fruit - A Personal History of the Orange by Katie Goh ★⯪☆☆☆](https://shkspr.mobi/blog/2026/07/book-review-foreign-fruit-a-personal-history-of-the-orange-by-katie-goh/) — *Terence Eden’s Blog* `07-24`
+- [Pluralistic: AI solipsists and AI cynics (24 Jul 2026)](https://pluralistic.net/2026/07/24/supplemental-income/) — *Pluralistic: Daily links from Cory Doctorow* `07-24`
+- [Interview with a Maintainer](https://nesbitt.io/2026/07/24/interview-with-a-maintainer.html) — *Andrew Nesbitt* `07-24`
 - [Have you read it?](https://idiallo.com/byte-size/have-you-read-your-own-article) — *Software and Tech stories from an Insider - iDiallo.com* `07-24`
-- [The first known runaway AI agent - or a very bad marketing stunt?](https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything) — *Simon Willison's Weblog* `07-23`
-- [Bond Movie Filming Locations Map](https://department-m.agency/) — *Daring Fireball* `07-23`
-- [★ The Ads on Apple News Continue to Suck, but at Least There Are a Lot of Them](https://daringfireball.net/2026/07/ads_on_apple_news_suck) — *Daring Fireball* `07-23`
-- [John Dvorak on Computer Chronicles in 1987 to Discuss the Then-New IBM PS/2](https://www.youtube.com/watch?v=uY2WF_sPecI) — *Daring Fireball* `07-23`
+- [LLMs reward expertise](https://seangoedecke.com/llms-reward-expertise/) — *seangoedecke.com RSS feed* `07-24`
 <!--BLOG_RADAR:end-->
 
 ---
