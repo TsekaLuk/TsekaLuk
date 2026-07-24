@@ -4,7 +4,70 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 24 Jul 2026 13:58:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 19:38:58 +0000</lastBuildDate>
+    <item>
+      <title>Podcast Notes: Ed Catmull on David Senra</title>
+      <link>https://blog.jim-nielsen.com/2026/podcast-notes-ed-catmull/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/podcast-notes-ed-catmull/</guid>
+      <pubDate>Fri, 24 Jul 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
+    </item>
+    <item>
+      <title>Coiner of ‘Enshittification’ Endorses ‘Dickover’</title>
+      <link>https://pluralistic.net/2026/07/21/dickovers/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/07/21/dickovers/</guid>
+      <pubDate>Fri, 24 Jul 2026 18:51:29 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>This Week on The Analog Antiquarian</title>
+      <link>https://www.filfre.net/2026/07/this-week-on-the-analog-antiquarian/</link>
+      <guid isPermaLink="true">https://www.filfre.net/2026/07/this-week-on-the-analog-antiquarian/</guid>
+      <pubDate>Fri, 24 Jul 2026 17:00:04 +0000</pubDate>
+      <description>The Digital Antiquarian</description>
+    </item>
+    <item>
+      <title>Premium: The Hater’s Guide To Oracle (Part 2)</title>
+      <link>https://www.wheresyoured.at/premium-the-haters-guide-to-oracle-part-2/</link>
+      <guid isPermaLink="true">https://www.wheresyoured.at/premium-the-haters-guide-to-oracle-part-2/</guid>
+      <pubDate>Fri, 24 Jul 2026 16:56:52 +0000</pubDate>
+      <description>Ed Zitron's Where's Your Ed At</description>
+    </item>
+    <item>
+      <title>Dickover of the Week: Tomtoc</title>
+      <link>https://daringfireball.net/2026/05/what_is_a_dickover</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/05/what_is_a_dickover</guid>
+      <pubDate>Fri, 24 Jul 2026 16:43:43 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Sixers Sign LeBron James</title>
+      <link>https://www.inquirer.com/sixers/live/lebron-james-signs-philadelphia-76ers-contract-salary-roster-updates-reaction-20260724.html</link>
+      <guid isPermaLink="true">https://www.inquirer.com/sixers/live/lebron-james-signs-philadelphia-76ers-contract-salary-roster-updates-reaction-20260724.html</guid>
+      <pubDate>Fri, 24 Jul 2026 16:40:00 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>The Talk Show: ‘A Scam Held Together With Patriotism and Golden Paint’</title>
+      <link>https://daringfireball.net/thetalkshow/2026/07/23/ep-452</link>
+      <guid isPermaLink="true">https://daringfireball.net/thetalkshow/2026/07/23/ep-452</guid>
+      <pubDate>Fri, 24 Jul 2026 15:44:11 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Matrox</title>
+      <link>https://www.abortretry.fail/p/matrox</link>
+      <guid isPermaLink="true">https://www.abortretry.fail/p/matrox</guid>
+      <pubDate>Fri, 24 Jul 2026 14:37:24 +0000</pubDate>
+      <description>Abort Retry Fail</description>
+    </item>
+    <item>
+      <title>Making an agile version of a Windows Runtime delegate in C++/WinRT, part 5</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260724-00/?p=112562</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260724-00/?p=112562</guid>
+      <pubDate>Fri, 24 Jul 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
     <item>
       <title>Book Review: Foreign Fruit - A Personal History of the Orange by Katie Goh ★⯪☆☆☆</title>
       <link>https://shkspr.mobi/blog/2026/07/book-review-foreign-fruit-a-personal-history-of-the-orange-by-katie-goh/</link>
@@ -34,6 +97,20 @@
       <description>Software and Tech stories from an Insider - iDiallo.com</description>
     </item>
     <item>
+      <title>Index 01 Is In Mass Production!</title>
+      <link>https://repebble.com/blog/index-01-is-in-mass-production</link>
+      <guid isPermaLink="true">https://repebble.com/blog/index-01-is-in-mass-production</guid>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Eric Migicovsky's Blog RSS Feed</description>
+    </item>
+    <item>
+      <title>Codeberg Divides</title>
+      <link>https://lucumr.pocoo.org/2026/7/24/codeberg-divides/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/7/24/codeberg-divides/</guid>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Armin Ronacher's Thoughts and Writings</description>
+    </item>
+    <item>
       <title>LLMs reward expertise</title>
       <link>https://seangoedecke.com/llms-reward-expertise/</link>
       <guid isPermaLink="true">https://seangoedecke.com/llms-reward-expertise/</guid>
@@ -41,11 +118,25 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
+      <title>Becoming Skilled at Making Documents</title>
+      <link>https://anildash.com/2026/07/24/make-better-documents-skill/</link>
+      <guid isPermaLink="true">https://anildash.com/2026/07/24/make-better-documents-skill/</guid>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Anil Dash</description>
+    </item>
+    <item>
       <title>The first known runaway AI agent - or a very bad marketing stunt?</title>
       <link>https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything</guid>
       <pubDate>Thu, 23 Jul 2026 22:53:08 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Adding a backup Internet WAN on my OPNsense Router</title>
+      <link>https://www.jeffgeerling.com/blog/2026/opnsense-backup-internet-gateway/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/opnsense-backup-internet-gateway/</guid>
+      <pubDate>Thu, 23 Jul 2026 21:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
     </item>
     <item>
       <title>Bond Movie Filming Locations Map</title>
@@ -340,13 +431,6 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/07/21/end-of-options.html</guid>
       <pubDate>Tue, 21 Jul 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Pluralistic: Dealing with dickovers (21 Jul 2026) dickovers</title>
-      <link>https://pluralistic.net/2026/07/21/dickovers/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/07/21/dickovers/</guid>
-      <pubDate>Tue, 21 Jul 2026 08:49:18 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
     </item>
     <item>
       <title>Weekly Update 513: Clauding The Home Network</title>
@@ -759,90 +843,6 @@
       <link>https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/#atom-everything</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/#atom-everything</guid>
       <pubDate>Fri, 17 Jul 2026 02:58:07 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>European Commission Adds Exemptions for Watches and Earbuds to Portable Battery Removal Rules</title>
-      <link>https://environment.ec.europa.eu/news/commission-adds-exemptions-portable-battery-removal-rules-2026-07-14_en</link>
-      <guid isPermaLink="true">https://environment.ec.europa.eu/news/commission-adds-exemptions-portable-battery-removal-rules-2026-07-14_en</guid>
-      <pubDate>Fri, 17 Jul 2026 02:01:37 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Quiche Browser Now Defaults to No-AI Web Search Results</title>
-      <link>https://mastodon.social/@quicheindustries/116918456229212087</link>
-      <guid isPermaLink="true">https://mastodon.social/@quicheindustries/116918456229212087</guid>
-      <pubDate>Fri, 17 Jul 2026 00:17:35 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Regressive JPEGs:</title>
-      <link>https://maurycyz.com/projects/bad_jpeg/</link>
-      <guid isPermaLink="true">https://maurycyz.com/projects/bad_jpeg/</guid>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
-    </item>
-    <item>
-      <title>Firefox in WebAssembly</title>
-      <link>https://simonwillison.net/2026/Jul/16/firefox-in-webassembly/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/16/firefox-in-webassembly/#atom-everything</guid>
-      <pubDate>Thu, 16 Jul 2026 23:34:16 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Dithering: ‘Apple Sues OpenAI’</title>
-      <link>https://dithering.passport.online/member/episode/apple-sues-open-ai</link>
-      <guid isPermaLink="true">https://dithering.passport.online/member/episode/apple-sues-open-ai</guid>
-      <pubDate>Thu, 16 Jul 2026 23:28:09 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Kimi K3, and what we can still learn from the pelican benchmark</title>
-      <link>https://simonwillison.net/2026/Jul/16/kimi-k3/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/16/kimi-k3/#atom-everything</guid>
-      <pubDate>Thu, 16 Jul 2026 20:19:30 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>OpenAI Takes a Second Crack at a Response to Apple’s Trade Secret Theft Lawsuit</title>
-      <link>https://www.bloomberg.com/news/articles/2026-07-14/openai-says-it-s-not-aware-of-any-evidence-that-apple-lawsuit-has-merit</link>
-      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-07-14/openai-says-it-s-not-aware-of-any-evidence-that-apple-lawsuit-has-merit</guid>
-      <pubDate>Thu, 16 Jul 2026 19:44:47 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Lawyer for Apple Mixed Up Two OpenAI Employees’ Names, Sent One Email to the Wrong Guy, Back in February</title>
-      <link>https://www.nbcnews.com/tech/apple/apple-openai-lawsuit-suit-trade-product-hardware-email-sam-altman-rcna587376</link>
-      <guid isPermaLink="true">https://www.nbcnews.com/tech/apple/apple-openai-lawsuit-suit-trade-product-hardware-email-sam-altman-rcna587376</guid>
-      <pubDate>Thu, 16 Jul 2026 19:34:13 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Podcast Notes: Iain McGilchrist on “The Great Simplification”</title>
-      <link>https://blog.jim-nielsen.com/2026/podcast-notes-iain-mcgilchrist/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/podcast-notes-iain-mcgilchrist/</guid>
-      <pubDate>Thu, 16 Jul 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
-      <title>Pluralistic: Deranged billionaires and their syndromes (16 Jul 2026)</title>
-      <link>https://pluralistic.net/2026/07/16/lucky-orifices/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/07/16/lucky-orifices/</guid>
-      <pubDate>Thu, 16 Jul 2026 18:13:07 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Louie Mantia: ‘The Shape of Apps’</title>
-      <link>https://parakeet.co/blog/the-shape-of-apps/</link>
-      <guid isPermaLink="true">https://parakeet.co/blog/the-shape-of-apps/</guid>
-      <pubDate>Thu, 16 Jul 2026 18:07:28 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Quoting Thibault Sottiaux</title>
-      <link>https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything</guid>
-      <pubDate>Thu, 16 Jul 2026 17:45:59 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
     </item>
   </channel>

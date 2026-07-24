@@ -208,11 +208,11 @@ Last Updated: Saturday, July 25th, 2026, 3:16:32 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Book Review: Foreign Fruit - A Personal History of the Orange by Katie Goh ★⯪☆☆☆](https://shkspr.mobi/blog/2026/07/book-review-foreign-fruit-a-personal-history-of-the-orange-by-katie-goh/) — *Terence Eden’s Blog* `07-24`
-- [Pluralistic: AI solipsists and AI cynics (24 Jul 2026)](https://pluralistic.net/2026/07/24/supplemental-income/) — *Pluralistic: Daily links from Cory Doctorow* `07-24`
-- [Interview with a Maintainer](https://nesbitt.io/2026/07/24/interview-with-a-maintainer.html) — *Andrew Nesbitt* `07-24`
-- [Have you read it?](https://idiallo.com/byte-size/have-you-read-your-own-article) — *Software and Tech stories from an Insider - iDiallo.com* `07-24`
-- [LLMs reward expertise](https://seangoedecke.com/llms-reward-expertise/) — *seangoedecke.com RSS feed* `07-24`
+- [Podcast Notes: Ed Catmull on David Senra](https://blog.jim-nielsen.com/2026/podcast-notes-ed-catmull/) — *Jim Nielsen’s Blog* `07-24`
+- [Coiner of ‘Enshittification’ Endorses ‘Dickover’](https://pluralistic.net/2026/07/21/dickovers/) — *Daring Fireball* `07-24`
+- [This Week on The Analog Antiquarian](https://www.filfre.net/2026/07/this-week-on-the-analog-antiquarian/) — *The Digital Antiquarian* `07-24`
+- [Premium: The Hater’s Guide To Oracle (Part 2)](https://www.wheresyoured.at/premium-the-haters-guide-to-oracle-part-2/) — *Ed Zitron's Where's Your Ed At* `07-24`
+- [Dickover of the Week: Tomtoc](https://daringfireball.net/2026/05/what_is_a_dickover) — *Daring Fireball* `07-24`
 <!--BLOG_RADAR:end-->
 
 ---
