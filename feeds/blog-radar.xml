@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 24 Jul 2026 19:38:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 03:22:53 +0000</lastBuildDate>
+    <item>
+      <title>Quoting Boris Cherny</title>
+      <link>https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything</guid>
+      <pubDate>Sat, 25 Jul 2026 00:42:59 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Introducing Claude Opus 5</title>
+      <link>https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything</guid>
+      <pubDate>Fri, 24 Jul 2026 23:48:50 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Benchmarking Qwen 3.6 35B MoE (3B active) on an RTX 3090</title>
+      <link>https://www.gilesthomas.com/2026/07/benchmarking-qwen-3-6-35b-moe-rtx-3090</link>
+      <guid isPermaLink="true">https://www.gilesthomas.com/2026/07/benchmarking-qwen-3-6-35b-moe-rtx-3090</guid>
+      <pubDate>Fri, 24 Jul 2026 23:30:00 +0000</pubDate>
+      <description>Giles' blog</description>
+    </item>
+    <item>
+      <title>★ Regarding Ad Blockers and Daring Fireball</title>
+      <link>https://daringfireball.net/2026/07/regarding_ad_blockers_and_daring_fireball</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/07/regarding_ad_blockers_and_daring_fireball</guid>
+      <pubDate>Fri, 24 Jul 2026 20:57:20 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Podcast Notes: Ed Catmull on David Senra</title>
       <link>https://blog.jim-nielsen.com/2026/podcast-notes-ed-catmull/</link>
@@ -104,18 +132,18 @@
       <description>Eric Migicovsky's Blog RSS Feed</description>
     </item>
     <item>
-      <title>Codeberg Divides</title>
-      <link>https://lucumr.pocoo.org/2026/7/24/codeberg-divides/</link>
-      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/7/24/codeberg-divides/</guid>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Armin Ronacher's Thoughts and Writings</description>
-    </item>
-    <item>
       <title>LLMs reward expertise</title>
       <link>https://seangoedecke.com/llms-reward-expertise/</link>
       <guid isPermaLink="true">https://seangoedecke.com/llms-reward-expertise/</guid>
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Codeberg Divides</title>
+      <link>https://lucumr.pocoo.org/2026/7/24/codeberg-divides/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/7/24/codeberg-divides/</guid>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
       <title>Becoming Skilled at Making Documents</title>
@@ -815,34 +843,6 @@
       <link>https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter/#atom-everything</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter/#atom-everything</guid>
       <pubDate>Fri, 17 Jul 2026 12:11:11 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Regular expression speed and error rates</title>
-      <link>https://www.johndcook.com/blog/2026/07/17/regex-speed-error/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/07/17/regex-speed-error/</guid>
-      <pubDate>Fri, 17 Jul 2026 11:26:19 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Art Doesn't Scale</title>
-      <link>https://matduggan.com/art-doesnt-scale/</link>
-      <guid isPermaLink="true">https://matduggan.com/art-doesnt-scale/</guid>
-      <pubDate>Fri, 17 Jul 2026 10:34:04 +0000</pubDate>
-      <description>matduggan.com</description>
-    </item>
-    <item>
-      <title>Plumbing Homebrew into the vulnerability ecosystem</title>
-      <link>https://nesbitt.io/2026/07/17/plumbing-homebrew-into-the-vulnerability-ecosystem.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/07/17/plumbing-homebrew-into-the-vulnerability-ecosystem.html</guid>
-      <pubDate>Fri, 17 Jul 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Spot birds not golf</title>
-      <link>https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/#atom-everything</guid>
-      <pubDate>Fri, 17 Jul 2026 02:58:07 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
     </item>
   </channel>

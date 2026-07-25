@@ -208,11 +208,11 @@ Last Updated: Saturday, July 25th, 2026, 10:07:07 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Quoting Boris Cherny](https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything) — *Simon Willison's Weblog* `07-25`
+- [Introducing Claude Opus 5](https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything) — *Simon Willison's Weblog* `07-24`
+- [Benchmarking Qwen 3.6 35B MoE (3B active) on an RTX 3090](https://www.gilesthomas.com/2026/07/benchmarking-qwen-3-6-35b-moe-rtx-3090) — *Giles' blog* `07-24`
+- [★ Regarding Ad Blockers and Daring Fireball](https://daringfireball.net/2026/07/regarding_ad_blockers_and_daring_fireball) — *Daring Fireball* `07-24`
 - [Podcast Notes: Ed Catmull on David Senra](https://blog.jim-nielsen.com/2026/podcast-notes-ed-catmull/) — *Jim Nielsen’s Blog* `07-24`
-- [Coiner of ‘Enshittification’ Endorses ‘Dickover’](https://pluralistic.net/2026/07/21/dickovers/) — *Daring Fireball* `07-24`
-- [This Week on The Analog Antiquarian](https://www.filfre.net/2026/07/this-week-on-the-analog-antiquarian/) — *The Digital Antiquarian* `07-24`
-- [Premium: The Hater’s Guide To Oracle (Part 2)](https://www.wheresyoured.at/premium-the-haters-guide-to-oracle-part-2/) — *Ed Zitron's Where's Your Ed At* `07-24`
-- [Dickover of the Week: Tomtoc](https://daringfireball.net/2026/05/what_is_a_dickover) — *Daring Fireball* `07-24`
 <!--BLOG_RADAR:end-->
 
 ---
