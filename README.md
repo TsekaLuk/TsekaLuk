@@ -208,11 +208,11 @@ Last Updated: Saturday, July 25th, 2026, 9:11:38 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Excel column numbering](https://www.johndcook.com/blog/2026/07/25/excel-column-numbering/) — *John D. Cook* `07-25`
+- [Being Linux Torvalds](http://antirez.com/news/171) — *<antirez>* `07-25`
+- [Pluralistic: Apple's robo-repo (25 Jul 2026)](https://pluralistic.net/2026/07/25/cruel-cruelty-oh-cruelty/) — *Pluralistic: Daily links from Cory Doctorow* `07-25`
+- [This Week in Package Management: 25 July 2026](https://nesbitt.io/2026/07/25/this-week-in-package-management.html) — *Andrew Nesbitt* `07-25`
 - [Quoting Boris Cherny](https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything) — *Simon Willison's Weblog* `07-25`
-- [Introducing Claude Opus 5](https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything) — *Simon Willison's Weblog* `07-24`
-- [Benchmarking Qwen 3.6 35B MoE (3B active) on an RTX 3090](https://www.gilesthomas.com/2026/07/benchmarking-qwen-3-6-35b-moe-rtx-3090) — *Giles' blog* `07-24`
-- [★ Regarding Ad Blockers and Daring Fireball](https://daringfireball.net/2026/07/regarding_ad_blockers_and_daring_fireball) — *Daring Fireball* `07-24`
-- [Podcast Notes: Ed Catmull on David Senra](https://blog.jim-nielsen.com/2026/podcast-notes-ed-catmull/) — *Jim Nielsen’s Blog* `07-24`
 <!--BLOG_RADAR:end-->
 
 ---

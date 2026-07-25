@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 25 Jul 2026 08:16:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 13:49:18 +0000</lastBuildDate>
+    <item>
+      <title>Excel column numbering</title>
+      <link>https://www.johndcook.com/blog/2026/07/25/excel-column-numbering/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/07/25/excel-column-numbering/</guid>
+      <pubDate>Sat, 25 Jul 2026 13:37:30 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Being Linux Torvalds</title>
+      <link>http://antirez.com/news/171</link>
+      <guid isPermaLink="true">http://antirez.com/news/171</guid>
+      <pubDate>Sat, 25 Jul 2026 11:20:55 +0000</pubDate>
+      <description>&lt;antirez&gt;</description>
+    </item>
+    <item>
+      <title>Pluralistic: Apple's robo-repo (25 Jul 2026)</title>
+      <link>https://pluralistic.net/2026/07/25/cruel-cruelty-oh-cruelty/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/07/25/cruel-cruelty-oh-cruelty/</guid>
+      <pubDate>Sat, 25 Jul 2026 10:41:10 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>This Week in Package Management: 25 July 2026</title>
+      <link>https://nesbitt.io/2026/07/25/this-week-in-package-management.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/07/25/this-week-in-package-management.html</guid>
+      <pubDate>Sat, 25 Jul 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
     <item>
       <title>Quoting Boris Cherny</title>
       <link>https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything</link>
@@ -815,34 +843,6 @@
       <link>https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter/#atom-everything</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter/#atom-everything</guid>
       <pubDate>Fri, 17 Jul 2026 12:11:11 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Regular expression speed and error rates</title>
-      <link>https://www.johndcook.com/blog/2026/07/17/regex-speed-error/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/07/17/regex-speed-error/</guid>
-      <pubDate>Fri, 17 Jul 2026 11:26:19 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Art Doesn't Scale</title>
-      <link>https://matduggan.com/art-doesnt-scale/</link>
-      <guid isPermaLink="true">https://matduggan.com/art-doesnt-scale/</guid>
-      <pubDate>Fri, 17 Jul 2026 10:34:04 +0000</pubDate>
-      <description>matduggan.com</description>
-    </item>
-    <item>
-      <title>Plumbing Homebrew into the vulnerability ecosystem</title>
-      <link>https://nesbitt.io/2026/07/17/plumbing-homebrew-into-the-vulnerability-ecosystem.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/07/17/plumbing-homebrew-into-the-vulnerability-ecosystem.html</guid>
-      <pubDate>Fri, 17 Jul 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Spot birds not golf</title>
-      <link>https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/#atom-everything</guid>
-      <pubDate>Fri, 17 Jul 2026 02:58:07 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
     </item>
   </channel>
