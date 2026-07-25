@@ -208,11 +208,11 @@ Last Updated: Sunday, July 26th, 2026, 2:58:28 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Excel column numbering](https://www.johndcook.com/blog/2026/07/25/excel-column-numbering/) — *John D. Cook* `07-25`
-- [Being Linux Torvalds](http://antirez.com/news/171) — *<antirez>* `07-25`
-- [Pluralistic: Apple's robo-repo (25 Jul 2026)](https://pluralistic.net/2026/07/25/cruel-cruelty-oh-cruelty/) — *Pluralistic: Daily links from Cory Doctorow* `07-25`
-- [This Week in Package Management: 25 July 2026](https://nesbitt.io/2026/07/25/this-week-in-package-management.html) — *Andrew Nesbitt* `07-25`
-- [Quoting Boris Cherny](https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything) — *Simon Willison's Weblog* `07-25`
+- [‘AI Mania Is Eviscerating Global Decision-Making’](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/) — *Daring Fireball* `07-25`
+- [EU Fines Google $1 Billion for DMA Competition Violations, Including Making Search Results More Useful](https://digital-markets-act.ec.europa.eu/commission-fines-google-eur890-million-breaches-digital-markets-act-2026-07-23_en) — *Daring Fireball* `07-25`
+- [Court Grants SerpApi’s Motion to Dismiss Google Lawsuit](https://serpapi.com/blog/google-v-serpapi-the-court-granted-our-motion-to-dismiss/) — *Daring Fireball* `07-25`
+- [Apple Maps to Power Navigation Experience for Ford’s New EVs](https://www.apple.com/newsroom/2026/07/apple-maps-to-power-navigation-experience-for-ford-uev-platform/) — *Daring Fireball* `07-25`
+- [Measles Cases Hit New Record in U.S., as Stupid-Americans Reject Vaccines](https://www.nytimes.com/2026/07/24/well/measles-record-united-states-numbers.html?unlocked_article_code=1.0VA.4jBf.vqAYN4Bwu807) — *Daring Fireball* `07-25`
 <!--BLOG_RADAR:end-->
 
 ---
