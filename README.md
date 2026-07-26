@@ -208,11 +208,11 @@ Last Updated: Monday, July 27th, 2026, 3:02:12 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Why $550 Million Medical Debt only Cost $5.5 Million](https://idiallo.com/byte-size/550-million-only-cost-5-million) — *Software and Tech stories from an Insider - iDiallo.com* `07-26`
+- [exp_q](https://www.johndcook.com/blog/2026/07/26/exp-q/) — *John D. Cook* `07-26`
 - [Book Review: Dungeon Crawler Carl by Matt Dinniman ★★⯪☆☆](https://shkspr.mobi/blog/2026/07/book-review-dungeon-crawler-carl-by-matt-dinniman/) — *Terence Eden’s Blog* `07-26`
 - [Weekly Update 514: This Week in Data Breaches](https://www.troyhunt.com/weekly-update-514/) — *Troy Hunt* `07-26`
 - [Ruff v0.16.0](https://simonwillison.net/2026/Jul/25/ruff/#atom-everything) — *Simon Willison's Weblog* `07-25`
-- [‘AI Mania Is Eviscerating Global Decision-Making’](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/) — *Daring Fireball* `07-25`
-- [EU Fines Google $1 Billion for DMA Competition Violations, Including Making Search Results More Useful](https://digital-markets-act.ec.europa.eu/commission-fines-google-eur890-million-breaches-digital-markets-act-2026-07-23_en) — *Daring Fireball* `07-25`
 <!--BLOG_RADAR:end-->
 
 ---
