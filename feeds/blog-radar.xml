@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 26 Jul 2026 08:34:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 13:42:42 +0000</lastBuildDate>
+    <item>
+      <title>Book Review: Dungeon Crawler Carl by Matt Dinniman ★★⯪☆☆</title>
+      <link>https://shkspr.mobi/blog/2026/07/book-review-dungeon-crawler-carl-by-matt-dinniman/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/book-review-dungeon-crawler-carl-by-matt-dinniman/</guid>
+      <pubDate>Sun, 26 Jul 2026 11:34:33 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Weekly Update 514: This Week in Data Breaches</title>
+      <link>https://www.troyhunt.com/weekly-update-514/</link>
+      <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-514/</guid>
+      <pubDate>Sun, 26 Jul 2026 09:14:51 +0000</pubDate>
+      <description>Troy Hunt</description>
+    </item>
     <item>
       <title>Ruff v0.16.0</title>
       <link>https://simonwillison.net/2026/Jul/25/ruff/#atom-everything</link>
@@ -829,20 +843,6 @@
       <link>https://9to5mac.com/2026/07/17/apple-raises-prices-for-apple-music-and-apple-one-subscriptions/</link>
       <guid isPermaLink="true">https://9to5mac.com/2026/07/17/apple-raises-prices-for-apple-music-and-apple-one-subscriptions/</guid>
       <pubDate>Fri, 17 Jul 2026 21:08:39 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The Terminus</title>
-      <link>https://feed.tedium.co/link/15204/17382177/terminus-road-ending-history</link>
-      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17382177/terminus-road-ending-history</guid>
-      <pubDate>Fri, 17 Jul 2026 20:41:40 +0000</pubDate>
-      <description>Tedium: The Dull Side of the Internet.</description>
-    </item>
-    <item>
-      <title>OpenAI’s Product Shake-Up Put the Complexifiers in Charge</title>
-      <link>https://www.wired.com/story/openai-reorg-greg-brockman-product/</link>
-      <guid isPermaLink="true">https://www.wired.com/story/openai-reorg-greg-brockman-product/</guid>
-      <pubDate>Fri, 17 Jul 2026 20:27:53 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
   </channel>

@@ -208,11 +208,11 @@ Last Updated: Sunday, July 26th, 2026, 9:06:51 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Book Review: Dungeon Crawler Carl by Matt Dinniman ★★⯪☆☆](https://shkspr.mobi/blog/2026/07/book-review-dungeon-crawler-carl-by-matt-dinniman/) — *Terence Eden’s Blog* `07-26`
+- [Weekly Update 514: This Week in Data Breaches](https://www.troyhunt.com/weekly-update-514/) — *Troy Hunt* `07-26`
 - [Ruff v0.16.0](https://simonwillison.net/2026/Jul/25/ruff/#atom-everything) — *Simon Willison's Weblog* `07-25`
 - [‘AI Mania Is Eviscerating Global Decision-Making’](https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/) — *Daring Fireball* `07-25`
 - [EU Fines Google $1 Billion for DMA Competition Violations, Including Making Search Results More Useful](https://digital-markets-act.ec.europa.eu/commission-fines-google-eur890-million-breaches-digital-markets-act-2026-07-23_en) — *Daring Fireball* `07-25`
-- [Court Grants SerpApi’s Motion to Dismiss Google Lawsuit](https://serpapi.com/blog/google-v-serpapi-the-court-granted-our-motion-to-dismiss/) — *Daring Fireball* `07-25`
-- [Apple Maps to Power Navigation Experience for Ford’s New EVs](https://www.apple.com/newsroom/2026/07/apple-maps-to-power-navigation-experience-for-ford-uev-platform/) — *Daring Fireball* `07-25`
 <!--BLOG_RADAR:end-->
 
 ---
