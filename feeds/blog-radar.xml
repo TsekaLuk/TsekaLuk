@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 25 Jul 2026 19:17:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 03:36:41 +0000</lastBuildDate>
+    <item>
+      <title>Ruff v0.16.0</title>
+      <link>https://simonwillison.net/2026/Jul/25/ruff/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/25/ruff/#atom-everything</guid>
+      <pubDate>Sat, 25 Jul 2026 22:44:05 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>‘AI Mania Is Eviscerating Global Decision-Making’</title>
       <link>https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/</link>
@@ -398,18 +405,18 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260722-00/?p=112552</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260722-00/?p=112552</guid>
-      <pubDate>Wed, 22 Jul 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
       <title>Open Sauce and GPS time were my summer AI Antiseptics</title>
       <link>https://www.jeffgeerling.com/blog/2026/open-sauce-gps-time-badge/</link>
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/open-sauce-gps-time-badge/</guid>
       <pubDate>Wed, 22 Jul 2026 14:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260722-00/?p=112552</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260722-00/?p=112552</guid>
+      <pubDate>Wed, 22 Jul 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>When sine of x degrees equals sine of x radians</title>
@@ -836,13 +843,6 @@
       <link>https://www.wired.com/story/openai-reorg-greg-brockman-product/</link>
       <guid isPermaLink="true">https://www.wired.com/story/openai-reorg-greg-brockman-product/</guid>
       <pubDate>Fri, 17 Jul 2026 20:27:53 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>MG Siegler: ‘OpenAI Makes ChatGPT ChatGPT Again’</title>
-      <link>https://spyglass.org/chatgpt-brings-back-chatgpt/</link>
-      <guid isPermaLink="true">https://spyglass.org/chatgpt-brings-back-chatgpt/</guid>
-      <pubDate>Fri, 17 Jul 2026 19:48:53 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
   </channel>
