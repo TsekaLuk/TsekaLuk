@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 27 Jul 2026 03:45:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 10:02:33 +0000</lastBuildDate>
+    <item>
+      <title>Digital circuit simulator in Haskell (SICP 3.3)</title>
+      <link>https://entropicthoughts.com/sicp-3-3-digital-circuit-simulator-in-haskell</link>
+      <guid isPermaLink="true">https://entropicthoughts.com/sicp-3-3-digital-circuit-simulator-in-haskell</guid>
+      <pubDate>Sun, 26 Jul 2026 22:00:00 +0000</pubDate>
+      <description>Entropic Thoughts</description>
+    </item>
     <item>
       <title>Permutation roots</title>
       <link>https://www.johndcook.com/blog/2026/07/26/permutation-roots/</link>
@@ -265,18 +272,18 @@
       <description>Eric Migicovsky's Blog RSS Feed</description>
     </item>
     <item>
-      <title>LLMs reward expertise</title>
-      <link>https://seangoedecke.com/llms-reward-expertise/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/llms-reward-expertise/</guid>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
       <title>Codeberg Divides</title>
       <link>https://lucumr.pocoo.org/2026/7/24/codeberg-divides/</link>
       <guid isPermaLink="true">https://lucumr.pocoo.org/2026/7/24/codeberg-divides/</guid>
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
       <description>Armin Ronacher's Thoughts and Writings</description>
+    </item>
+    <item>
+      <title>LLMs reward expertise</title>
+      <link>https://seangoedecke.com/llms-reward-expertise/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/llms-reward-expertise/</guid>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>Becoming Skilled at Making Documents</title>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Jul/18/quixote/#atom-everything</guid>
       <pubDate>Sat, 18 Jul 2026 05:27:49 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Apple Books and Amazon Are Lousy With AI-Generated Books Ripping Off Legitimate Authors</title>
-      <link>https://thenewthings.com/p/apple-big-ai-book-slop-problem</link>
-      <guid isPermaLink="true">https://thenewthings.com/p/apple-big-ai-book-slop-problem</guid>
-      <pubDate>Sat, 18 Jul 2026 00:33:15 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
