@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 26 Jul 2026 19:20:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 03:45:30 +0000</lastBuildDate>
+    <item>
+      <title>Permutation roots</title>
+      <link>https://www.johndcook.com/blog/2026/07/26/permutation-roots/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/07/26/permutation-roots/</guid>
+      <pubDate>Sun, 26 Jul 2026 20:32:02 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>An Inside Look at the Relay Market Powering Token Resellers and Fraud</title>
+      <link>https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything</guid>
+      <pubDate>Sun, 26 Jul 2026 19:30:54 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Why $550 Million Medical Debt only Cost $5.5 Million</title>
       <link>https://idiallo.com/byte-size/550-million-only-cost-5-million</link>
@@ -829,20 +843,6 @@
       <link>https://thenewthings.com/p/apple-big-ai-book-slop-problem</link>
       <guid isPermaLink="true">https://thenewthings.com/p/apple-big-ai-book-slop-problem</guid>
       <pubDate>Sat, 18 Jul 2026 00:33:15 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Overtraining as the path to human-like AI</title>
-      <link>https://seangoedecke.com/overtraining-as-the-path-to-human-like-ai/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/overtraining-as-the-path-to-human-like-ai/</guid>
-      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>Google Runs Out of Appeals, Must Pay Record $4.7 Billion EU Antitrust Fine</title>
-      <link>https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html</link>
-      <guid isPermaLink="true">https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html</guid>
-      <pubDate>Fri, 17 Jul 2026 23:47:16 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
   </channel>

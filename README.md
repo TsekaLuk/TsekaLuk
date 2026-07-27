@@ -208,11 +208,11 @@ Last Updated: Monday, July 27th, 2026, 10:25:10 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Permutation roots](https://www.johndcook.com/blog/2026/07/26/permutation-roots/) — *John D. Cook* `07-26`
+- [An Inside Look at the Relay Market Powering Token Resellers and Fraud](https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything) — *Simon Willison's Weblog* `07-26`
 - [Why $550 Million Medical Debt only Cost $5.5 Million](https://idiallo.com/byte-size/550-million-only-cost-5-million) — *Software and Tech stories from an Insider - iDiallo.com* `07-26`
 - [exp_q](https://www.johndcook.com/blog/2026/07/26/exp-q/) — *John D. Cook* `07-26`
 - [Book Review: Dungeon Crawler Carl by Matt Dinniman ★★⯪☆☆](https://shkspr.mobi/blog/2026/07/book-review-dungeon-crawler-carl-by-matt-dinniman/) — *Terence Eden’s Blog* `07-26`
-- [Weekly Update 514: This Week in Data Breaches](https://www.troyhunt.com/weekly-update-514/) — *Troy Hunt* `07-26`
-- [Ruff v0.16.0](https://simonwillison.net/2026/Jul/25/ruff/#atom-everything) — *Simon Willison's Weblog* `07-25`
 <!--BLOG_RADAR:end-->
 
 ---
