@@ -4,7 +4,56 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 27 Jul 2026 14:50:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 19:44:20 +0000</lastBuildDate>
+    <item>
+      <title>Can the Tide of AI Investment Life All Boats on the Web?</title>
+      <link>https://blog.jim-nielsen.com/2026/tide-lifts-all-boats/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/tide-lifts-all-boats/</guid>
+      <pubDate>Mon, 27 Jul 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
+    </item>
+    <item>
+      <title>Fa Fa</title>
+      <link>https://feed.tedium.co/link/15204/17388904/facebook-home-row-keyboard-trick</link>
+      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17388904/facebook-home-row-keyboard-trick</guid>
+      <pubDate>Mon, 27 Jul 2026 17:45:21 +0000</pubDate>
+      <description>Tedium: The Dull Side of the Internet.</description>
+    </item>
+    <item>
+      <title>★ Ads in Software Are Like Stickers on Laptops</title>
+      <link>https://daringfireball.net/2026/07/ads_in_software_are_like_stickers_on_laptops</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/07/ads_in_software_are_like_stickers_on_laptops</guid>
+      <pubDate>Mon, 27 Jul 2026 16:32:51 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>WorkOS MCP</title>
+      <link>https://workos.com/blog/management-mcp-server?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</link>
+      <guid isPermaLink="true">https://workos.com/blog/management-mcp-server?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</guid>
+      <pubDate>Mon, 27 Jul 2026 16:30:00 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Counting permutations with roots</title>
+      <link>https://www.johndcook.com/blog/2026/07/27/counting-permutations-with-roots/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/07/27/counting-permutations-with-roots/</guid>
+      <pubDate>Mon, 27 Jul 2026 16:03:44 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Printing floating point numbers in binary</title>
+      <link>https://www.johndcook.com/blog/2026/07/27/float-binary/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/07/27/float-binary/</guid>
+      <pubDate>Mon, 27 Jul 2026 15:34:05 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Making an agile version of a Windows Runtime delegate in C++/WinRT, part 6</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260727-00/?p=112566</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260727-00/?p=112566</guid>
+      <pubDate>Mon, 27 Jul 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
     <item>
       <title>Pluralistic: How the EU can punish Google (despite Trump) (27 Jul 2026)</title>
       <link>https://pluralistic.net/2026/07/27/eucd-6/</link>
@@ -279,18 +328,18 @@
       <description>Eric Migicovsky's Blog RSS Feed</description>
     </item>
     <item>
-      <title>Codeberg Divides</title>
-      <link>https://lucumr.pocoo.org/2026/7/24/codeberg-divides/</link>
-      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/7/24/codeberg-divides/</guid>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Armin Ronacher's Thoughts and Writings</description>
-    </item>
-    <item>
       <title>LLMs reward expertise</title>
       <link>https://seangoedecke.com/llms-reward-expertise/</link>
       <guid isPermaLink="true">https://seangoedecke.com/llms-reward-expertise/</guid>
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Codeberg Divides</title>
+      <link>https://lucumr.pocoo.org/2026/7/24/codeberg-divides/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/7/24/codeberg-divides/</guid>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
       <title>Becoming Skilled at Making Documents</title>
@@ -622,13 +671,6 @@
       <description>Beej's Bit Bucket</description>
     </item>
     <item>
-      <title>[Sponsor] WorkOS MCP: Manage Your Auth Platform From Any AI Agent</title>
-      <link>https://workos.com/blog/management-mcp-server?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</link>
-      <guid isPermaLink="true">https://workos.com/blog/management-mcp-server?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</guid>
-      <pubDate>Mon, 20 Jul 2026 23:13:48 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
       <title>Expensive Is Just a Brand Now</title>
       <link>https://idiallo.com/blog/expensive-is-just-branding</link>
       <guid isPermaLink="true">https://idiallo.com/blog/expensive-is-just-branding</guid>
@@ -802,48 +844,6 @@
       <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/</guid>
       <pubDate>Sat, 18 Jul 2026 19:00:00 +0000</pubDate>
       <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
-      <title>What's the deal with all the random weekly quota resets for agents lately?</title>
-      <link>https://minimaxir.com/2026/07/agent-quota-reset/</link>
-      <guid isPermaLink="true">https://minimaxir.com/2026/07/agent-quota-reset/</guid>
-      <pubDate>Sat, 18 Jul 2026 19:00:00 +0000</pubDate>
-      <description>Max Woolf's Blog</description>
-    </item>
-    <item>
-      <title>SQLite Query Explainer</title>
-      <link>https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything</guid>
-      <pubDate>Sat, 18 Jul 2026 17:19:10 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Reading List 07/18/26</title>
-      <link>https://www.construction-physics.com/p/reading-list-071826</link>
-      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-071826</guid>
-      <pubDate>Sat, 18 Jul 2026 12:01:57 +0000</pubDate>
-      <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>Book Review: A City on Mars - by Dr. Kelly Weinersmith and Zach Weinersmith ★★★★⯪</title>
-      <link>https://shkspr.mobi/blog/2026/07/book-review-a-city-on-mars-by-dr-kelly-weinersmith-and-zach-weinersmith/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/book-review-a-city-on-mars-by-dr-kelly-weinersmith-and-zach-weinersmith/</guid>
-      <pubDate>Sat, 18 Jul 2026 11:34:18 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>This Week in Package Management: 18 July 2026</title>
-      <link>https://nesbitt.io/2026/07/18/this-week-in-package-management.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/07/18/this-week-in-package-management.html</guid>
-      <pubDate>Sat, 18 Jul 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Claude make Fable 5 permanent</title>
-      <link>https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything</guid>
-      <pubDate>Sat, 18 Jul 2026 06:00:13 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>

@@ -198,11 +198,11 @@ Last Updated: Tuesday, July 28th, 2026, 3:18:07 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Pluralistic: How the EU can punish Google (despite Trump) (27 Jul 2026)](https://pluralistic.net/2026/07/27/eucd-6/) — *Pluralistic: Daily links from Cory Doctorow* `07-27`
-- [Digital circuit simulator in Haskell (SICP 3.3)](https://entropicthoughts.com/sicp-3-3-digital-circuit-simulator-in-haskell) — *Entropic Thoughts* `07-26`
-- [Permutation roots](https://www.johndcook.com/blog/2026/07/26/permutation-roots/) — *John D. Cook* `07-26`
-- [An Inside Look at the Relay Market Powering Token Resellers and Fraud](https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything) — *Simon Willison's Weblog* `07-26`
-- [Why $550 Million Medical Debt only Cost $5.5 Million](https://idiallo.com/byte-size/550-million-only-cost-5-million) — *Software and Tech stories from an Insider - iDiallo.com* `07-26`
+- [Can the Tide of AI Investment Life All Boats on the Web?](https://blog.jim-nielsen.com/2026/tide-lifts-all-boats/) — *Jim Nielsen’s Blog* `07-27`
+- [Fa Fa](https://feed.tedium.co/link/15204/17388904/facebook-home-row-keyboard-trick) — *Tedium: The Dull Side of the Internet.* `07-27`
+- [★ Ads in Software Are Like Stickers on Laptops](https://daringfireball.net/2026/07/ads_in_software_are_like_stickers_on_laptops) — *Daring Fireball* `07-27`
+- [WorkOS MCP](https://workos.com/blog/management-mcp-server?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026) — *Daring Fireball* `07-27`
+- [Counting permutations with roots](https://www.johndcook.com/blog/2026/07/27/counting-permutations-with-roots/) — *John D. Cook* `07-27`
 <!--BLOG_RADAR:end-->
 
 ---
