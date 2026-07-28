@@ -4,9 +4,44 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 27 Jul 2026 19:44:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 03:16:21 +0000</lastBuildDate>
     <item>
-      <title>Can the Tide of AI Investment Life All Boats on the Web?</title>
+      <title>[Sponsor] Introducing Agent Fone</title>
+      <link>https://fail.xyz/phone/</link>
+      <guid isPermaLink="true">https://fail.xyz/phone/</guid>
+      <pubDate>Tue, 28 Jul 2026 01:31:54 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>‘Always Choose the Good Soap’</title>
+      <link>https://sixcolors.com/post/2026/07/always-choose-the-good-soap/</link>
+      <guid isPermaLink="true">https://sixcolors.com/post/2026/07/always-choose-the-good-soap/</guid>
+      <pubDate>Tue, 28 Jul 2026 01:13:55 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>moonshotai/Kimi-K3</title>
+      <link>https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything</guid>
+      <pubDate>Mon, 27 Jul 2026 23:39:04 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Hiding data in permutations</title>
+      <link>https://www.johndcook.com/blog/2026/07/27/hiding-data-in-permutations/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/07/27/hiding-data-in-permutations/</guid>
+      <pubDate>Mon, 27 Jul 2026 23:08:59 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>An opinionated guide to which AI to use to do stuff</title>
+      <link>https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/#atom-everything</guid>
+      <pubDate>Mon, 27 Jul 2026 21:55:53 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Can the Tide of AI Investment Lift All Boats on the Web?</title>
       <link>https://blog.jim-nielsen.com/2026/tide-lifts-all-boats/</link>
       <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/tide-lifts-all-boats/</guid>
       <pubDate>Mon, 27 Jul 2026 19:00:00 +0000</pubDate>
@@ -809,41 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/#atom-everything</guid>
       <pubDate>Sun, 19 Jul 2026 03:54:09 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>★ Mornings in Cupertino Have the Aroma of Napalm Once Again</title>
-      <link>https://daringfireball.net/2026/07/mornings_in_cupertino_have_the_aroma_of_napalm_once_again</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/07/mornings_in_cupertino_have_the_aroma_of_napalm_once_again</guid>
-      <pubDate>Sun, 19 Jul 2026 00:38:17 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Impro is a handbook for running a cult</title>
-      <link>https://seangoedecke.com/impro/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/impro/</guid>
-      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>email encryption</title>
-      <link>https://computer.rip/2026-07-19-email-encryption.html</link>
-      <guid isPermaLink="true">https://computer.rip/2026-07-19-email-encryption.html</guid>
-      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
-      <description>computers are bad</description>
-    </item>
-    <item>
-      <title>Apple Sends Letters to Dozens of Former Employees Now at OpenAI</title>
-      <link>https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166?syn-25a6b1a6=1</link>
-      <guid isPermaLink="true">https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166?syn-25a6b1a6=1</guid>
-      <pubDate>Sat, 18 Jul 2026 22:47:59 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Make It Work vs. Make It Good</title>
-      <link>https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/</guid>
-      <pubDate>Sat, 18 Jul 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
     </item>
   </channel>
 </rss>

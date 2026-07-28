@@ -207,11 +207,11 @@ Last Updated: Tuesday, July 28th, 2026, 10:00:31 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Can the Tide of AI Investment Life All Boats on the Web?](https://blog.jim-nielsen.com/2026/tide-lifts-all-boats/) — *Jim Nielsen’s Blog* `07-27`
-- [Fa Fa](https://feed.tedium.co/link/15204/17388904/facebook-home-row-keyboard-trick) — *Tedium: The Dull Side of the Internet.* `07-27`
-- [★ Ads in Software Are Like Stickers on Laptops](https://daringfireball.net/2026/07/ads_in_software_are_like_stickers_on_laptops) — *Daring Fireball* `07-27`
-- [WorkOS MCP](https://workos.com/blog/management-mcp-server?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026) — *Daring Fireball* `07-27`
-- [Counting permutations with roots](https://www.johndcook.com/blog/2026/07/27/counting-permutations-with-roots/) — *John D. Cook* `07-27`
+- [[Sponsor] Introducing Agent Fone](https://fail.xyz/phone/) — *Daring Fireball* `07-28`
+- [‘Always Choose the Good Soap’](https://sixcolors.com/post/2026/07/always-choose-the-good-soap/) — *Daring Fireball* `07-28`
+- [moonshotai/Kimi-K3](https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything) — *Simon Willison's Weblog* `07-27`
+- [Hiding data in permutations](https://www.johndcook.com/blog/2026/07/27/hiding-data-in-permutations/) — *John D. Cook* `07-27`
+- [An opinionated guide to which AI to use to do stuff](https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/#atom-everything) — *Simon Willison's Weblog* `07-27`
 <!--BLOG_RADAR:end-->
 
 ---
