@@ -208,11 +208,11 @@ Last Updated: Wednesday, July 29th, 2026, 3:14:38 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [The More You Buy, The More You Lose](https://www.wheresyoured.at/the-more-you-buy-the-more-you-lose/) — *Ed Zitron's Where's Your Ed At* `07-28`
+- [Steve Jobs in 2011: ‘We Build Products That We Want for Ourselves, Too, and We Just Don’t Want Ads’](https://www.businessinsider.com/apple-snubs-the-iad-2011-6) — *Daring Fireball* `07-28`
 - [Inverse factorial improved](https://www.johndcook.com/blog/2026/07/28/inverse-factorial-improved/) — *John D. Cook* `07-28`
 - [The Photographer Who Takes No Pictures](https://simone.org/intent/) — *Simone Salis* `07-28`
 - [Cryptographic Keys and Decks of Cards](https://www.johndcook.com/blog/2026/07/28/keys-and-cards/) — *John D. Cook* `07-28`
-- [Google Calendar "Unable to launch event" - caused by missing DTSTAMP](https://shkspr.mobi/blog/2026/07/google-calendar-unable-to-launch-event-caused-by-missing-dtstamp/) — *Terence Eden’s Blog* `07-28`
-- [Pluralistic: Discernment (28 Jul 2026)](https://pluralistic.net/2026/07/28/hitl-ers/) — *Pluralistic: Daily links from Cory Doctorow* `07-28`
 <!--BLOG_RADAR:end-->
 
 ---
