@@ -208,11 +208,11 @@ Last Updated: Tuesday, July 28th, 2026, 9:50:48 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [[Sponsor] Introducing Agent Fone](https://fail.xyz/phone/) — *Daring Fireball* `07-28`
-- [‘Always Choose the Good Soap’](https://sixcolors.com/post/2026/07/always-choose-the-good-soap/) — *Daring Fireball* `07-28`
-- [moonshotai/Kimi-K3](https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything) — *Simon Willison's Weblog* `07-27`
-- [Hiding data in permutations](https://www.johndcook.com/blog/2026/07/27/hiding-data-in-permutations/) — *John D. Cook* `07-27`
-- [An opinionated guide to which AI to use to do stuff](https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/#atom-everything) — *Simon Willison's Weblog* `07-27`
+- [Inverse factorial improved](https://www.johndcook.com/blog/2026/07/28/inverse-factorial-improved/) — *John D. Cook* `07-28`
+- [The Photographer Who Takes No Pictures](https://simone.org/intent/) — *Simone Salis* `07-28`
+- [Cryptographic Keys and Decks of Cards](https://www.johndcook.com/blog/2026/07/28/keys-and-cards/) — *John D. Cook* `07-28`
+- [Google Calendar "Unable to launch event" - caused by missing DTSTAMP](https://shkspr.mobi/blog/2026/07/google-calendar-unable-to-launch-event-caused-by-missing-dtstamp/) — *Terence Eden’s Blog* `07-28`
+- [Pluralistic: Discernment (28 Jul 2026)](https://pluralistic.net/2026/07/28/hitl-ers/) — *Pluralistic: Daily links from Cory Doctorow* `07-28`
 <!--BLOG_RADAR:end-->
 
 ---

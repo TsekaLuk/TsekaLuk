@@ -4,7 +4,56 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 28 Jul 2026 08:45:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 14:25:00 +0000</lastBuildDate>
+    <item>
+      <title>Inverse factorial improved</title>
+      <link>https://www.johndcook.com/blog/2026/07/28/inverse-factorial-improved/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/07/28/inverse-factorial-improved/</guid>
+      <pubDate>Tue, 28 Jul 2026 14:11:30 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>The Photographer Who Takes No Pictures</title>
+      <link>https://simone.org/intent/</link>
+      <guid isPermaLink="true">https://simone.org/intent/</guid>
+      <pubDate>Tue, 28 Jul 2026 13:00:00 +0000</pubDate>
+      <description>Simone Salis</description>
+    </item>
+    <item>
+      <title>Cryptographic Keys and Decks of Cards</title>
+      <link>https://www.johndcook.com/blog/2026/07/28/keys-and-cards/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/07/28/keys-and-cards/</guid>
+      <pubDate>Tue, 28 Jul 2026 12:13:17 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Google Calendar "Unable to launch event" - caused by missing DTSTAMP</title>
+      <link>https://shkspr.mobi/blog/2026/07/google-calendar-unable-to-launch-event-caused-by-missing-dtstamp/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/google-calendar-unable-to-launch-event-caused-by-missing-dtstamp/</guid>
+      <pubDate>Tue, 28 Jul 2026 11:34:15 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Pluralistic: Discernment (28 Jul 2026)</title>
+      <link>https://pluralistic.net/2026/07/28/hitl-ers/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/07/28/hitl-ers/</guid>
+      <pubDate>Tue, 28 Jul 2026 10:44:03 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Why npm Dependency Trees Are So Big</title>
+      <link>https://nesbitt.io/2026/07/28/why-npm-dependency-trees-are-so-big.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/07/28/why-npm-dependency-trees-are-so-big.html</guid>
+      <pubDate>Tue, 28 Jul 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>The real AI risk is inside the labs</title>
+      <link>http://antirez.com/news/172</link>
+      <guid isPermaLink="true">http://antirez.com/news/172</guid>
+      <pubDate>Tue, 28 Jul 2026 09:00:11 +0000</pubDate>
+      <description>&lt;antirez&gt;</description>
+    </item>
     <item>
       <title>[Sponsor] Introducing Agent Fone</title>
       <link>https://fail.xyz/phone/</link>
@@ -249,13 +298,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything</guid>
       <pubDate>Fri, 24 Jul 2026 23:48:50 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Benchmarking Qwen 3.6 35B MoE (3B active) on an RTX 3090</title>
-      <link>https://www.gilesthomas.com/2026/07/benchmarking-qwen-3-6-35b-moe-rtx-3090</link>
-      <guid isPermaLink="true">https://www.gilesthomas.com/2026/07/benchmarking-qwen-3-6-35b-moe-rtx-3090</guid>
-      <pubDate>Fri, 24 Jul 2026 23:30:00 +0000</pubDate>
-      <description>Giles' blog</description>
     </item>
     <item>
       <title>★ Regarding Ad Blockers and Daring Fireball</title>
@@ -802,48 +844,6 @@
       <guid isPermaLink="true">https://refactoringenglish.com/blog/why-i-stopped-creating-content/</guid>
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
       <description>Refactoring English</description>
-    </item>
-    <item>
-      <title>Paper</title>
-      <link>https://paper.design/?utm_source=df</link>
-      <guid isPermaLink="true">https://paper.design/?utm_source=df</guid>
-      <pubDate>Sun, 19 Jul 2026 22:31:11 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Fitting a regular expression to a list of words</title>
-      <link>https://www.johndcook.com/blog/2026/07/19/fitting-a-regex/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/07/19/fitting-a-regex/</guid>
-      <pubDate>Sun, 19 Jul 2026 19:30:17 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>9to5Mac Uncovers Dozens of Disguised Gambling Apps on the App Store in Brazil</title>
-      <link>https://9to5mac.com/2026/07/17/investigation-reveals-dozens-of-disguised-gambling-apps-on-the-app-store-in-brazil/</link>
-      <guid isPermaLink="true">https://9to5mac.com/2026/07/17/investigation-reveals-dozens-of-disguised-gambling-apps-on-the-app-store-in-brazil/</guid>
-      <pubDate>Sun, 19 Jul 2026 17:18:57 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Sum of low squares</title>
-      <link>https://www.johndcook.com/blog/2026/07/19/sum-of-low-squares/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/07/19/sum-of-low-squares/</guid>
-      <pubDate>Sun, 19 Jul 2026 16:41:48 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>AI Mania Is Eviscerating Global Decision-Making</title>
-      <link>https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything</guid>
-      <pubDate>Sun, 19 Jul 2026 05:06:21 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Claude Code uses Bun written in Rust now</title>
-      <link>https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/#atom-everything</guid>
-      <pubDate>Sun, 19 Jul 2026 03:54:09 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
