@@ -208,11 +208,11 @@ Last Updated: Thursday, July 30th, 2026, 3:04:44 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [AI: Overwegingen voor wie erover gaat](https://berthub.eu/articles/posts/ai-voor-wie-erover-gaat/) — *Bert Hubert's writings* `07-29`
-- [Pluralistic: Enshittification and Reverse Centaurs go global (29 Jul 2026)](https://pluralistic.net/2026/07/29/la-la-la-la-la/) — *Pluralistic: Daily links from Cory Doctorow* `07-29`
-- [You don't have to be smart if you can think clearly](https://seangoedecke.com/you-dont-have-to-be-smart-if-you-think-clearly/) — *seangoedecke.com RSS feed* `07-29`
-- [Discovering cryptographic weaknesses with Claude](https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/#atom-everything) — *Simon Willison's Weblog* `07-28`
-- [Quoting Akshat Bubna](https://simonwillison.net/2026/Jul/28/akshat-bubna/#atom-everything) — *Simon Willison's Weblog* `07-28`
+- [AI Worming through Word](https://simonwillison.net/2026/Jul/29/ai-worming-through-word/#atom-everything) — *Simon Willison's Weblog* `07-29`
+- [Quoting Matthew Green](https://simonwillison.net/2026/Jul/29/matthew-green/#atom-everything) — *Simon Willison's Weblog* `07-29`
+- [Apple Upgrade — New Program With Klarna for Leasing iPhones, Macs, iPads, and More for Near-Zero Interest](https://www.apple.com/newsroom/2026/07/apple-upgrade-launches-in-the-united-states/) — *Daring Fireball* `07-29`
+- [Pastebot 3](https://tapbots.com/pastebot/) — *Daring Fireball* `07-29`
+- [Logic for Programmers is Done](https://buttondown.com/hillelwayne/archive/logic-for-programmers-is-done/) — *Computer Things* `07-29`
 <!--BLOG_RADAR:end-->
 
 ---
