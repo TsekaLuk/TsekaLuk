@@ -208,11 +208,11 @@ Last Updated: Wednesday, July 29th, 2026, 10:03:00 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [The More You Buy, The More You Lose](https://www.wheresyoured.at/the-more-you-buy-the-more-you-lose/) — *Ed Zitron's Where's Your Ed At* `07-28`
-- [Steve Jobs in 2011: ‘We Build Products That We Want for Ourselves, Too, and We Just Don’t Want Ads’](https://www.businessinsider.com/apple-snubs-the-iad-2011-6) — *Daring Fireball* `07-28`
-- [Inverse factorial improved](https://www.johndcook.com/blog/2026/07/28/inverse-factorial-improved/) — *John D. Cook* `07-28`
-- [The Photographer Who Takes No Pictures](https://simone.org/intent/) — *Simone Salis* `07-28`
-- [Cryptographic Keys and Decks of Cards](https://www.johndcook.com/blog/2026/07/28/keys-and-cards/) — *John D. Cook* `07-28`
+- [You don't have to be smart if you can think clearly](https://seangoedecke.com/you-dont-have-to-be-smart-if-you-think-clearly/) — *seangoedecke.com RSS feed* `07-29`
+- [Discovering cryptographic weaknesses with Claude](https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/#atom-everything) — *Simon Willison's Weblog* `07-28`
+- [Quoting Akshat Bubna](https://simonwillison.net/2026/Jul/28/akshat-bubna/#atom-everything) — *Simon Willison's Weblog* `07-28`
+- [uv 0.12.0](https://simonwillison.net/2026/Jul/28/uv/#atom-everything) — *Simon Willison's Weblog* `07-28`
+- [Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident](https://simonwillison.net/2026/Jul/28/anatomy-of-a-frontier-lab-agent-intrusion/#atom-everything) — *Simon Willison's Weblog* `07-28`
 <!--BLOG_RADAR:end-->
 
 ---

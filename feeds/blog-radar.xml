@@ -4,7 +4,42 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 28 Jul 2026 19:41:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 03:19:08 +0000</lastBuildDate>
+    <item>
+      <title>You don't have to be smart if you can think clearly</title>
+      <link>https://seangoedecke.com/you-dont-have-to-be-smart-if-you-think-clearly/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/you-dont-have-to-be-smart-if-you-think-clearly/</guid>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Discovering cryptographic weaknesses with Claude</title>
+      <link>https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/#atom-everything</guid>
+      <pubDate>Tue, 28 Jul 2026 22:45:37 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Quoting Akshat Bubna</title>
+      <link>https://simonwillison.net/2026/Jul/28/akshat-bubna/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/28/akshat-bubna/#atom-everything</guid>
+      <pubDate>Tue, 28 Jul 2026 22:05:55 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>uv 0.12.0</title>
+      <link>https://simonwillison.net/2026/Jul/28/uv/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/28/uv/#atom-everything</guid>
+      <pubDate>Tue, 28 Jul 2026 21:51:38 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident</title>
+      <link>https://simonwillison.net/2026/Jul/28/anatomy-of-a-frontier-lab-agent-intrusion/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/28/anatomy-of-a-frontier-lab-agent-intrusion/#atom-everything</guid>
+      <pubDate>Tue, 28 Jul 2026 21:28:54 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>The More You Buy, The More You Lose</title>
       <link>https://www.wheresyoured.at/the-more-you-buy-the-more-you-lose/</link>
@@ -228,6 +263,13 @@
       <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-514/</guid>
       <pubDate>Sun, 26 Jul 2026 09:14:51 +0000</pubDate>
       <description>Troy Hunt</description>
+    </item>
+    <item>
+      <title>sqlite-utils 3.39.1</title>
+      <link>https://simonwillison.net/2026/Jul/26/sqlite-utils/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/26/sqlite-utils/#atom-everything</guid>
+      <pubDate>Sun, 26 Jul 2026 04:38:46 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
     <item>
       <title>Ruff v0.16.0</title>
@@ -629,18 +671,18 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>Open Sauce and GPS time were my summer AI Antiseptics</title>
-      <link>https://www.jeffgeerling.com/blog/2026/open-sauce-gps-time-badge/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/open-sauce-gps-time-badge/</guid>
-      <pubDate>Wed, 22 Jul 2026 14:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
       <title>Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260722-00/?p=112552</link>
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260722-00/?p=112552</guid>
       <pubDate>Wed, 22 Jul 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>Open Sauce and GPS time were my summer AI Antiseptics</title>
+      <link>https://www.jeffgeerling.com/blog/2026/open-sauce-gps-time-badge/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/open-sauce-gps-time-badge/</guid>
+      <pubDate>Wed, 22 Jul 2026 14:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
     </item>
     <item>
       <title>When sine of x degrees equals sine of x radians</title>
@@ -802,48 +844,6 @@
       <guid isPermaLink="true">https://entropicthoughts.com/kuiper-q-q-plot</guid>
       <pubDate>Mon, 20 Jul 2026 22:00:00 +0000</pubDate>
       <description>Entropic Thoughts</description>
-    </item>
-    <item>
-      <title>Reverse-engineering is cheap now</title>
-      <link>https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything</guid>
-      <pubDate>Mon, 20 Jul 2026 19:24:05 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Who’s Afraid of Chinese Models?</title>
-      <link>https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything</guid>
-      <pubDate>Mon, 20 Jul 2026 17:09:19 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>‘Who’s Afraid of Chinese Models?’</title>
-      <link>https://stratechery.com/2026/whos-afraid-of-chinese-models/</link>
-      <guid isPermaLink="true">https://stratechery.com/2026/whos-afraid-of-chinese-models/</guid>
-      <pubDate>Mon, 20 Jul 2026 16:27:36 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Volume to Area ratio for Regular Solids</title>
-      <link>https://www.johndcook.com/blog/2026/07/20/volume-area-regular-solids/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/07/20/volume-area-regular-solids/</guid>
-      <pubDate>Mon, 20 Jul 2026 14:35:21 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Solving a chess puzzle with Grok 4.5</title>
-      <link>https://www.johndcook.com/blog/2026/07/20/grok-chess/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/07/20/grok-chess/</guid>
-      <pubDate>Mon, 20 Jul 2026 14:33:31 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Making an agile version of a Windows Runtime delegate in C++/WinRT, part 1</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260720-00/?p=112545</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260720-00/?p=112545</guid>
-      <pubDate>Mon, 20 Jul 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
     </item>
   </channel>
 </rss>
