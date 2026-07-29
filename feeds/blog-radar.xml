@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 29 Jul 2026 08:49:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 14:23:40 +0000</lastBuildDate>
+    <item>
+      <title>AI: Overwegingen voor wie erover gaat</title>
+      <link>https://berthub.eu/articles/posts/ai-voor-wie-erover-gaat/</link>
+      <guid isPermaLink="true">https://berthub.eu/articles/posts/ai-voor-wie-erover-gaat/</guid>
+      <pubDate>Wed, 29 Jul 2026 13:20:00 +0000</pubDate>
+      <description>Bert Hubert's writings</description>
+    </item>
     <item>
       <title>Pluralistic: Enshittification and Reverse Centaurs go global (29 Jul 2026)</title>
       <link>https://pluralistic.net/2026/07/29/la-la-la-la-la/</link>
@@ -335,13 +342,6 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Reading List 07/25/26</title>
-      <link>https://www.construction-physics.com/p/reading-list-072526</link>
-      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-072526</guid>
-      <pubDate>Sat, 25 Jul 2026 14:01:08 +0000</pubDate>
-      <description>Construction Physics</description>
-    </item>
-    <item>
       <title>Excel column numbering</title>
       <link>https://www.johndcook.com/blog/2026/07/25/excel-column-numbering/</link>
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/07/25/excel-column-numbering/</guid>
@@ -496,18 +496,18 @@
       <description>Software and Tech stories from an Insider - iDiallo.com</description>
     </item>
     <item>
-      <title>LLMs reward expertise</title>
-      <link>https://seangoedecke.com/llms-reward-expertise/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/llms-reward-expertise/</guid>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
       <title>Index 01 Is In Mass Production!</title>
       <link>https://repebble.com/blog/index-01-is-in-mass-production</link>
       <guid isPermaLink="true">https://repebble.com/blog/index-01-is-in-mass-production</guid>
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
       <description>Eric Migicovsky's Blog RSS Feed</description>
+    </item>
+    <item>
+      <title>LLMs reward expertise</title>
+      <link>https://seangoedecke.com/llms-reward-expertise/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/llms-reward-expertise/</guid>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>Codeberg Divides</title>
@@ -592,13 +592,6 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260723-00/?p=112560</guid>
       <pubDate>Thu, 23 Jul 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Can We Lower Construction Costs with Cheaper Labor or Materials?</title>
-      <link>https://www.construction-physics.com/p/can-we-lower-construction-costs-with</link>
-      <guid isPermaLink="true">https://www.construction-physics.com/p/can-we-lower-construction-costs-with</guid>
-      <pubDate>Thu, 23 Jul 2026 13:05:38 +0000</pubDate>
-      <description>Construction Physics</description>
     </item>
     <item>
       <title>Pluralistic: California's privacy obstacle course (23 Jul 2026)</title>
@@ -844,6 +837,13 @@
       <guid isPermaLink="true">http://beej.us/blog/data/mystery-comment/</guid>
       <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
       <description>Beej's Bit Bucket</description>
+    </item>
+    <item>
+      <title>Expensive Is Just a Brand Now</title>
+      <link>https://idiallo.com/blog/expensive-is-just-branding</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/expensive-is-just-branding</guid>
+      <pubDate>Mon, 20 Jul 2026 23:00:00 +0000</pubDate>
+      <description>Software and Tech stories from an Insider - iDiallo.com</description>
     </item>
   </channel>
 </rss>
