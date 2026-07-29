@@ -208,11 +208,11 @@ Last Updated: Wednesday, July 29th, 2026, 4:29:32 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Pluralistic: Enshittification and Reverse Centaurs go global (29 Jul 2026)](https://pluralistic.net/2026/07/29/la-la-la-la-la/) — *Pluralistic: Daily links from Cory Doctorow* `07-29`
 - [You don't have to be smart if you can think clearly](https://seangoedecke.com/you-dont-have-to-be-smart-if-you-think-clearly/) — *seangoedecke.com RSS feed* `07-29`
 - [Discovering cryptographic weaknesses with Claude](https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/#atom-everything) — *Simon Willison's Weblog* `07-28`
 - [Quoting Akshat Bubna](https://simonwillison.net/2026/Jul/28/akshat-bubna/#atom-everything) — *Simon Willison's Weblog* `07-28`
 - [uv 0.12.0](https://simonwillison.net/2026/Jul/28/uv/#atom-everything) — *Simon Willison's Weblog* `07-28`
-- [Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident](https://simonwillison.net/2026/Jul/28/anatomy-of-a-frontier-lab-agent-intrusion/#atom-everything) — *Simon Willison's Weblog* `07-28`
 <!--BLOG_RADAR:end-->
 
 ---
