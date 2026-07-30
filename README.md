@@ -208,11 +208,11 @@ Last Updated: Thursday, July 30th, 2026, 9:53:13 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Quoting D. Richard Hipp](https://simonwillison.net/2026/Jul/29/d-richard-hipp/#atom-everything) — *Simon Willison's Weblog* `07-29`
+- [Apple Says iOS 27 ‘Restricted Mode’ Isn’t for Users Who Miss Payments in New Apple Upgrade Program](https://9to5mac.com/2026/07/28/apple-says-ios-27-restricted-mode-isnt-for-new-upgrade-program-leases/) — *Daring Fireball* `07-29`
 - [AI Worming through Word](https://simonwillison.net/2026/Jul/29/ai-worming-through-word/#atom-everything) — *Simon Willison's Weblog* `07-29`
 - [Quoting Matthew Green](https://simonwillison.net/2026/Jul/29/matthew-green/#atom-everything) — *Simon Willison's Weblog* `07-29`
 - [Apple Upgrade — New Program With Klarna for Leasing iPhones, Macs, iPads, and More for Near-Zero Interest](https://www.apple.com/newsroom/2026/07/apple-upgrade-launches-in-the-united-states/) — *Daring Fireball* `07-29`
-- [Pastebot 3](https://tapbots.com/pastebot/) — *Daring Fireball* `07-29`
-- [Logic for Programmers is Done](https://buttondown.com/hillelwayne/archive/logic-for-programmers-is-done/) — *Computer Things* `07-29`
 <!--BLOG_RADAR:end-->
 
 ---

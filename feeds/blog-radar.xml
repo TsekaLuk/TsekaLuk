@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 29 Jul 2026 19:26:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 02:51:52 +0000</lastBuildDate>
+    <item>
+      <title>Quoting D. Richard Hipp</title>
+      <link>https://simonwillison.net/2026/Jul/29/d-richard-hipp/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/29/d-richard-hipp/#atom-everything</guid>
+      <pubDate>Wed, 29 Jul 2026 21:15:21 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Apple Says iOS 27 ‘Restricted Mode’ Isn’t for Users Who Miss Payments in New Apple Upgrade Program</title>
+      <link>https://9to5mac.com/2026/07/28/apple-says-ios-27-restricted-mode-isnt-for-new-upgrade-program-leases/</link>
+      <guid isPermaLink="true">https://9to5mac.com/2026/07/28/apple-says-ios-27-restricted-mode-isnt-for-new-upgrade-program-leases/</guid>
+      <pubDate>Wed, 29 Jul 2026 20:56:33 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>AI Worming through Word</title>
       <link>https://simonwillison.net/2026/Jul/29/ai-worming-through-word/#atom-everything</link>
@@ -181,6 +195,13 @@
       <description>John D. Cook</description>
     </item>
     <item>
+      <title>Google Calendar "Unable to launch event" - caused by missing DTSTAMP</title>
+      <link>https://shkspr.mobi/blog/2026/07/google-calendar-unable-to-launch-event-caused-by-missing-dtstamp/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/google-calendar-unable-to-launch-event-caused-by-missing-dtstamp/</guid>
+      <pubDate>Tue, 28 Jul 2026 11:34:15 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>Pluralistic: Discernment (28 Jul 2026)</title>
       <link>https://pluralistic.net/2026/07/28/hitl-ers/</link>
       <guid isPermaLink="true">https://pluralistic.net/2026/07/28/hitl-ers/</guid>
@@ -349,6 +370,13 @@
       <description>John D. Cook</description>
     </item>
     <item>
+      <title>Book Review: Dungeon Crawler Carl by Matt Dinniman ★★⯪☆☆</title>
+      <link>https://shkspr.mobi/blog/2026/07/book-review-dungeon-crawler-carl-by-matt-dinniman/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/book-review-dungeon-crawler-carl-by-matt-dinniman/</guid>
+      <pubDate>Sun, 26 Jul 2026 11:34:33 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>Weekly Update 514: This Week in Data Breaches</title>
       <link>https://www.troyhunt.com/weekly-update-514/</link>
       <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-514/</guid>
@@ -424,6 +452,13 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/07/25/excel-column-numbering/</guid>
       <pubDate>Sat, 25 Jul 2026 13:37:30 +0000</pubDate>
       <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Some Quick Thoughts on EMF Camp 2026</title>
+      <link>https://shkspr.mobi/blog/2026/07/some-quick-thoughts-on-emf-camp-2026/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/some-quick-thoughts-on-emf-camp-2026/</guid>
+      <pubDate>Sat, 25 Jul 2026 11:34:01 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Being Linux Torvalds</title>
@@ -538,6 +573,13 @@
       <description>The Old New Thing</description>
     </item>
     <item>
+      <title>Book Review: Foreign Fruit - A Personal History of the Orange by Katie Goh ★⯪☆☆☆</title>
+      <link>https://shkspr.mobi/blog/2026/07/book-review-foreign-fruit-a-personal-history-of-the-orange-by-katie-goh/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/book-review-foreign-fruit-a-personal-history-of-the-orange-by-katie-goh/</guid>
+      <pubDate>Fri, 24 Jul 2026 11:34:07 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>Pluralistic: AI solipsists and AI cynics (24 Jul 2026)</title>
       <link>https://pluralistic.net/2026/07/24/supplemental-income/</link>
       <guid isPermaLink="true">https://pluralistic.net/2026/07/24/supplemental-income/</guid>
@@ -559,11 +601,11 @@
       <description>Software and Tech stories from an Insider - iDiallo.com</description>
     </item>
     <item>
-      <title>Index 01 Is In Mass Production!</title>
-      <link>https://repebble.com/blog/index-01-is-in-mass-production</link>
-      <guid isPermaLink="true">https://repebble.com/blog/index-01-is-in-mass-production</guid>
+      <title>Codeberg Divides</title>
+      <link>https://lucumr.pocoo.org/2026/7/24/codeberg-divides/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/7/24/codeberg-divides/</guid>
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Eric Migicovsky's Blog RSS Feed</description>
+      <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
       <title>LLMs reward expertise</title>
@@ -573,11 +615,11 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>Codeberg Divides</title>
-      <link>https://lucumr.pocoo.org/2026/7/24/codeberg-divides/</link>
-      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/7/24/codeberg-divides/</guid>
+      <title>Index 01 Is In Mass Production!</title>
+      <link>https://repebble.com/blog/index-01-is-in-mass-production</link>
+      <guid isPermaLink="true">https://repebble.com/blog/index-01-is-in-mass-production</guid>
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Armin Ronacher's Thoughts and Writings</description>
+      <description>Eric Migicovsky's Blog RSS Feed</description>
     </item>
     <item>
       <title>Becoming Skilled at Making Documents</title>
@@ -748,13 +790,6 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>Open Sauce and GPS time were my summer AI Antiseptics</title>
-      <link>https://www.jeffgeerling.com/blog/2026/open-sauce-gps-time-badge/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/open-sauce-gps-time-badge/</guid>
-      <pubDate>Wed, 22 Jul 2026 14:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
       <title>Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260722-00/?p=112552</link>
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260722-00/?p=112552</guid>
@@ -762,11 +797,25 @@
       <description>The Old New Thing</description>
     </item>
     <item>
+      <title>Open Sauce and GPS time were my summer AI Antiseptics</title>
+      <link>https://www.jeffgeerling.com/blog/2026/open-sauce-gps-time-badge/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/open-sauce-gps-time-badge/</guid>
+      <pubDate>Wed, 22 Jul 2026 14:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
+    </item>
+    <item>
       <title>When sine of x degrees equals sine of x radians</title>
       <link>https://www.johndcook.com/blog/2026/07/22/degrees-radians/</link>
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/07/22/degrees-radians/</guid>
       <pubDate>Wed, 22 Jul 2026 12:17:11 +0000</pubDate>
       <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Scattered thoughts on social geolocation</title>
+      <link>https://shkspr.mobi/blog/2026/07/scattered-thoughts-on-social-geolocation/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/scattered-thoughts-on-social-geolocation/</guid>
+      <pubDate>Wed, 22 Jul 2026 11:34:12 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Pluralistic: Trump's America can't even win a rigged game (22 Jul 2026)</title>
@@ -795,55 +844,6 @@
       <guid isPermaLink="true">https://mitchellh.com/writing/everyone-should-know-simd</guid>
       <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
       <description>Mitchell Hashimoto</description>
-    </item>
-    <item>
-      <title>Does creatine make you smarter?</title>
-      <link>https://dynomight.net/creatine/</link>
-      <guid isPermaLink="true">https://dynomight.net/creatine/</guid>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
-    </item>
-    <item>
-      <title>The first known runaway AI agent - or a very bad marketing stunt?</title>
-      <link>https://martinalderson.com/posts/huggingface-openai-exploit/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
-      <guid isPermaLink="true">https://martinalderson.com/posts/huggingface-openai-exploit/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Martin Alderson</description>
-    </item>
-    <item>
-      <title>★ European Commission: ‘Guidance to Google for AI Interoperability on Android &amp; Sharing of Google Search’</title>
-      <link>https://daringfireball.net/2026/07/ec_google_guidance_android_ai_and_search_sharing</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/07/ec_google_guidance_android_ai_and_search_sharing</guid>
-      <pubDate>Tue, 21 Jul 2026 22:49:03 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>California Sea Lion</title>
-      <link>https://simonwillison.net/2026/Jul/21/sighting-383713864/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/21/sighting-383713864/#atom-everything</guid>
-      <pubDate>Tue, 21 Jul 2026 19:51:03 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Forensic accounting in Python</title>
-      <link>https://www.johndcook.com/blog/2026/07/21/forensic-accounting-in-python/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/07/21/forensic-accounting-in-python/</guid>
-      <pubDate>Tue, 21 Jul 2026 15:05:04 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Blog Jamboree 2026: The Winners</title>
-      <link>https://www.experimental-history.com/p/blog-jamboree-2026-the-winners</link>
-      <guid isPermaLink="true">https://www.experimental-history.com/p/blog-jamboree-2026-the-winners</guid>
-      <pubDate>Tue, 21 Jul 2026 14:38:24 +0000</pubDate>
-      <description>Experimental History</description>
-    </item>
-    <item>
-      <title>Nativ: Run AI models locally on your Mac</title>
-      <link>https://simonwillison.net/2026/Jul/21/nativ/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/21/nativ/#atom-everything</guid>
-      <pubDate>Tue, 21 Jul 2026 14:22:27 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
