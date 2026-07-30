@@ -208,11 +208,11 @@ Last Updated: Friday, July 31st, 2026, 3:16:02 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Pluralistic: The stupidest imaginable excuses for surveillance pricing (30 Jul 2026)](https://pluralistic.net/2026/07/30/pay-for-privacy/) — *Pluralistic: Daily links from Cory Doctorow* `07-30`
-- [Why Is Everyone Trying to Build a Solid-State Battery?](https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a) — *Construction Physics* `07-30`
-- [Are political journalists always wrong?](https://shkspr.mobi/blog/2026/07/are-political-journalists-always-wrong/) — *Terence Eden’s Blog* `07-30`
-- [Wheels, Bottles and Images](https://nesbitt.io/2026/07/30/wheels-bottles-images.html) — *Andrew Nesbitt* `07-30`
-- [Quoting D. Richard Hipp](https://simonwillison.net/2026/Jul/29/d-richard-hipp/#atom-everything) — *Simon Willison's Weblog* `07-29`
+- [Why do OpenAI's GPT-2 weights beat mine? Part two: the bugfix](https://www.gilesthomas.com/2026/07/why-do-openai-gpt2-weights-beat-mine-2-the-bugfix) — *Giles' blog* `07-30`
+- [Quoting Bruce Schneier](https://simonwillison.net/2026/Jul/30/bruce-schneier/#atom-everything) — *Simon Willison's Weblog* `07-30`
+- [Looking for the Catch in Apple Upgrade](https://www.theatlantic.com/technology/2026/07/apple-lease-upgrade-program/688106/) — *Daring Fireball* `07-30`
+- [Read This Before You Buy That TV Streaming Stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/) — *Krebs on Security* `07-30`
+- [The Differences Between the New ‘Apple Upgrade’ and the Old ‘iPhone Upgrade Program’](https://9to5mac.com/2026/07/30/apple-upgrade-vs-iphone-upgrade-program-here-are-the-key-differences/) — *Daring Fireball* `07-30`
 <!--BLOG_RADAR:end-->
 
 ---

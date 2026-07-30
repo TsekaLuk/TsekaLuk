@@ -4,7 +4,42 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 30 Jul 2026 14:20:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 19:42:20 +0000</lastBuildDate>
+    <item>
+      <title>Why do OpenAI's GPT-2 weights beat mine? Part two: the bugfix</title>
+      <link>https://www.gilesthomas.com/2026/07/why-do-openai-gpt2-weights-beat-mine-2-the-bugfix</link>
+      <guid isPermaLink="true">https://www.gilesthomas.com/2026/07/why-do-openai-gpt2-weights-beat-mine-2-the-bugfix</guid>
+      <pubDate>Thu, 30 Jul 2026 19:00:00 +0000</pubDate>
+      <description>Giles' blog</description>
+    </item>
+    <item>
+      <title>Quoting Bruce Schneier</title>
+      <link>https://simonwillison.net/2026/Jul/30/bruce-schneier/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/30/bruce-schneier/#atom-everything</guid>
+      <pubDate>Thu, 30 Jul 2026 18:25:26 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Looking for the Catch in Apple Upgrade</title>
+      <link>https://www.theatlantic.com/technology/2026/07/apple-lease-upgrade-program/688106/</link>
+      <guid isPermaLink="true">https://www.theatlantic.com/technology/2026/07/apple-lease-upgrade-program/688106/</guid>
+      <pubDate>Thu, 30 Jul 2026 16:59:39 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Read This Before You Buy That TV Streaming Stick</title>
+      <link>https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/</link>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/</guid>
+      <pubDate>Thu, 30 Jul 2026 16:49:00 +0000</pubDate>
+      <description>Krebs on Security</description>
+    </item>
+    <item>
+      <title>The Differences Between the New ‘Apple Upgrade’ and the Old ‘iPhone Upgrade Program’</title>
+      <link>https://9to5mac.com/2026/07/30/apple-upgrade-vs-iphone-upgrade-program-here-are-the-key-differences/</link>
+      <guid isPermaLink="true">https://9to5mac.com/2026/07/30/apple-upgrade-vs-iphone-upgrade-program-here-are-the-key-differences/</guid>
+      <pubDate>Thu, 30 Jul 2026 15:56:10 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Pluralistic: The stupidest imaginable excuses for surveillance pricing (30 Jul 2026)</title>
       <link>https://pluralistic.net/2026/07/30/pay-for-privacy/</link>
@@ -32,6 +67,13 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/07/30/wheels-bottles-images.html</guid>
       <pubDate>Thu, 30 Jul 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>So you want to use plants to reduce CO₂</title>
+      <link>https://dynomight.net/plants/</link>
+      <guid isPermaLink="true">https://dynomight.net/plants/</guid>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>Quoting D. Richard Hipp</title>
@@ -146,18 +188,18 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>You don't have to be smart if you can think clearly</title>
-      <link>https://seangoedecke.com/you-dont-have-to-be-smart-if-you-think-clearly/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/you-dont-have-to-be-smart-if-you-think-clearly/</guid>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
       <title>Superlogical</title>
       <link>https://mitchellh.com/writing/superlogical</link>
       <guid isPermaLink="true">https://mitchellh.com/writing/superlogical</guid>
       <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
       <description>Mitchell Hashimoto</description>
+    </item>
+    <item>
+      <title>You don't have to be smart if you can think clearly</title>
+      <link>https://seangoedecke.com/you-dont-have-to-be-smart-if-you-think-clearly/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/you-dont-have-to-be-smart-if-you-think-clearly/</guid>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>Discovering cryptographic weaknesses with Claude</title>
@@ -802,48 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Jul/22/are-ai-labs-pelicanmaxxing/#atom-everything</guid>
       <pubDate>Wed, 22 Jul 2026 23:01:00 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>The Subprime Data Center Crisis</title>
-      <link>https://www.wheresyoured.at/the-subprime-data-center-crisis/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/the-subprime-data-center-crisis/</guid>
-      <pubDate>Wed, 22 Jul 2026 16:08:51 +0000</pubDate>
-      <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>Not just development, distribution of software may change as well</title>
-      <link>http://antirez.com/news/170</link>
-      <guid isPermaLink="true">http://antirez.com/news/170</guid>
-      <pubDate>Wed, 22 Jul 2026 14:52:39 +0000</pubDate>
-      <description>&lt;antirez&gt;</description>
-    </item>
-    <item>
-      <title>Orchestrions</title>
-      <link>https://simonwillison.net/2026/Jul/22/all-the-orchestrions/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/22/all-the-orchestrions/#atom-everything</guid>
-      <pubDate>Wed, 22 Jul 2026 14:48:52 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260722-00/?p=112552</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260722-00/?p=112552</guid>
-      <pubDate>Wed, 22 Jul 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Open Sauce and GPS time were my summer AI Antiseptics</title>
-      <link>https://www.jeffgeerling.com/blog/2026/open-sauce-gps-time-badge/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/open-sauce-gps-time-badge/</guid>
-      <pubDate>Wed, 22 Jul 2026 14:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
-      <title>When sine of x degrees equals sine of x radians</title>
-      <link>https://www.johndcook.com/blog/2026/07/22/degrees-radians/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/07/22/degrees-radians/</guid>
-      <pubDate>Wed, 22 Jul 2026 12:17:11 +0000</pubDate>
-      <description>John D. Cook</description>
     </item>
   </channel>
 </rss>
