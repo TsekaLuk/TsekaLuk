@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 30 Jul 2026 02:51:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 08:38:45 +0000</lastBuildDate>
     <item>
       <title>Quoting D. Richard Hipp</title>
       <link>https://simonwillison.net/2026/Jul/29/d-richard-hipp/#atom-everything</link>
@@ -18,6 +18,13 @@
       <guid isPermaLink="true">https://9to5mac.com/2026/07/28/apple-says-ios-27-restricted-mode-isnt-for-new-upgrade-program-leases/</guid>
       <pubDate>Wed, 29 Jul 2026 20:56:33 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>The AI Aesthetic</title>
+      <link>https://blog.jim-nielsen.com/2026/ai-aesthetic/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/ai-aesthetic/</guid>
+      <pubDate>Wed, 29 Jul 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
     </item>
     <item>
       <title>AI Worming through Word</title>
@@ -601,11 +608,11 @@
       <description>Software and Tech stories from an Insider - iDiallo.com</description>
     </item>
     <item>
-      <title>Codeberg Divides</title>
-      <link>https://lucumr.pocoo.org/2026/7/24/codeberg-divides/</link>
-      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/7/24/codeberg-divides/</guid>
+      <title>Index 01 Is In Mass Production!</title>
+      <link>https://repebble.com/blog/index-01-is-in-mass-production</link>
+      <guid isPermaLink="true">https://repebble.com/blog/index-01-is-in-mass-production</guid>
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Armin Ronacher's Thoughts and Writings</description>
+      <description>Eric Migicovsky's Blog RSS Feed</description>
     </item>
     <item>
       <title>LLMs reward expertise</title>
@@ -615,11 +622,11 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>Index 01 Is In Mass Production!</title>
-      <link>https://repebble.com/blog/index-01-is-in-mass-production</link>
-      <guid isPermaLink="true">https://repebble.com/blog/index-01-is-in-mass-production</guid>
+      <title>Codeberg Divides</title>
+      <link>https://lucumr.pocoo.org/2026/7/24/codeberg-divides/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/7/24/codeberg-divides/</guid>
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Eric Migicovsky's Blog RSS Feed</description>
+      <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
       <title>Becoming Skilled at Making Documents</title>
@@ -790,18 +797,18 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260722-00/?p=112552</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260722-00/?p=112552</guid>
-      <pubDate>Wed, 22 Jul 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
       <title>Open Sauce and GPS time were my summer AI Antiseptics</title>
       <link>https://www.jeffgeerling.com/blog/2026/open-sauce-gps-time-badge/</link>
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/open-sauce-gps-time-badge/</guid>
       <pubDate>Wed, 22 Jul 2026 14:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>Making an agile version of a Windows Runtime delegate in C++/WinRT, part 3</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260722-00/?p=112552</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260722-00/?p=112552</guid>
+      <pubDate>Wed, 22 Jul 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>When sine of x degrees equals sine of x radians</title>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/</guid>
       <pubDate>Wed, 22 Jul 2026 01:10:38 +0000</pubDate>
       <description>Krebs on Security</description>
-    </item>
-    <item>
-      <title>Everyone Should Know SIMD</title>
-      <link>https://mitchellh.com/writing/everyone-should-know-simd</link>
-      <guid isPermaLink="true">https://mitchellh.com/writing/everyone-should-know-simd</guid>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Mitchell Hashimoto</description>
     </item>
   </channel>
 </rss>
