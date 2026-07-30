@@ -208,11 +208,11 @@ Last Updated: Thursday, July 30th, 2026, 9:45:21 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Pluralistic: The stupidest imaginable excuses for surveillance pricing (30 Jul 2026)](https://pluralistic.net/2026/07/30/pay-for-privacy/) — *Pluralistic: Daily links from Cory Doctorow* `07-30`
+- [Why Is Everyone Trying to Build a Solid-State Battery?](https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a) — *Construction Physics* `07-30`
+- [Are political journalists always wrong?](https://shkspr.mobi/blog/2026/07/are-political-journalists-always-wrong/) — *Terence Eden’s Blog* `07-30`
+- [Wheels, Bottles and Images](https://nesbitt.io/2026/07/30/wheels-bottles-images.html) — *Andrew Nesbitt* `07-30`
 - [Quoting D. Richard Hipp](https://simonwillison.net/2026/Jul/29/d-richard-hipp/#atom-everything) — *Simon Willison's Weblog* `07-29`
-- [Apple Says iOS 27 ‘Restricted Mode’ Isn’t for Users Who Miss Payments in New Apple Upgrade Program](https://9to5mac.com/2026/07/28/apple-says-ios-27-restricted-mode-isnt-for-new-upgrade-program-leases/) — *Daring Fireball* `07-29`
-- [The AI Aesthetic](https://blog.jim-nielsen.com/2026/ai-aesthetic/) — *Jim Nielsen’s Blog* `07-29`
-- [AI Worming through Word](https://simonwillison.net/2026/Jul/29/ai-worming-through-word/#atom-everything) — *Simon Willison's Weblog* `07-29`
-- [Quoting Matthew Green](https://simonwillison.net/2026/Jul/29/matthew-green/#atom-everything) — *Simon Willison's Weblog* `07-29`
 <!--BLOG_RADAR:end-->
 
 ---
