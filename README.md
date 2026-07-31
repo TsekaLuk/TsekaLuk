@@ -208,11 +208,11 @@ Last Updated: Friday, July 31st, 2026, 10:12:07 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Why do OpenAI's GPT-2 weights beat mine? Part two: the bugfix](https://www.gilesthomas.com/2026/07/why-do-openai-gpt2-weights-beat-mine-2-the-bugfix) — *Giles' blog* `07-30`
-- [Quoting Bruce Schneier](https://simonwillison.net/2026/Jul/30/bruce-schneier/#atom-everything) — *Simon Willison's Weblog* `07-30`
-- [Looking for the Catch in Apple Upgrade](https://www.theatlantic.com/technology/2026/07/apple-lease-upgrade-program/688106/) — *Daring Fireball* `07-30`
-- [Read This Before You Buy That TV Streaming Stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/) — *Krebs on Security* `07-30`
-- [The Differences Between the New ‘Apple Upgrade’ and the Old ‘iPhone Upgrade Program’](https://9to5mac.com/2026/07/30/apple-upgrade-vs-iphone-upgrade-program-here-are-the-key-differences/) — *Daring Fireball* `07-30`
+- [Why do OpenAI's GPT-2 weights beat mine? Part three: testing overtraining](https://www.gilesthomas.com/2026/07/why-do-openai-gpt2-weights-beat-mine-3-overtraining) — *Giles' blog* `07-31`
+- [Advancing the price-performance frontier with GPT‑5.6](https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything) — *Simon Willison's Weblog* `07-30`
+- [BI Slop](https://idiallo.com/blog/business-intelligence-slop) — *Software and Tech stories from an Insider - iDiallo.com* `07-30`
+- [Investigating three real-world incidents in our cybersecurity evaluations](https://simonwillison.net/2026/Jul/30/three-real-world-incidents/#atom-everything) — *Simon Willison's Weblog* `07-30`
+- [llm 0.32rc2](https://simonwillison.net/2026/Jul/30/llm-rc2/#atom-everything) — *Simon Willison's Weblog* `07-30`
 <!--BLOG_RADAR:end-->
 
 ---

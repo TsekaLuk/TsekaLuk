@@ -4,7 +4,63 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 30 Jul 2026 19:42:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 03:34:54 +0000</lastBuildDate>
+    <item>
+      <title>Why do OpenAI's GPT-2 weights beat mine? Part three: testing overtraining</title>
+      <link>https://www.gilesthomas.com/2026/07/why-do-openai-gpt2-weights-beat-mine-3-overtraining</link>
+      <guid isPermaLink="true">https://www.gilesthomas.com/2026/07/why-do-openai-gpt2-weights-beat-mine-3-overtraining</guid>
+      <pubDate>Fri, 31 Jul 2026 01:15:00 +0000</pubDate>
+      <description>Giles' blog</description>
+    </item>
+    <item>
+      <title>Advancing the price-performance frontier with GPT‑5.6</title>
+      <link>https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything</guid>
+      <pubDate>Thu, 30 Jul 2026 23:58:42 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>BI Slop</title>
+      <link>https://idiallo.com/blog/business-intelligence-slop</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/business-intelligence-slop</guid>
+      <pubDate>Thu, 30 Jul 2026 23:50:00 +0000</pubDate>
+      <description>Software and Tech stories from an Insider - iDiallo.com</description>
+    </item>
+    <item>
+      <title>Investigating three real-world incidents in our cybersecurity evaluations</title>
+      <link>https://simonwillison.net/2026/Jul/30/three-real-world-incidents/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/30/three-real-world-incidents/#atom-everything</guid>
+      <pubDate>Thu, 30 Jul 2026 23:41:29 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>llm 0.32rc2</title>
+      <link>https://simonwillison.net/2026/Jul/30/llm-rc2/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/30/llm-rc2/#atom-everything</guid>
+      <pubDate>Thu, 30 Jul 2026 22:52:06 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Mark Zuckerberg: ‘The AI Future Is for Everyone’</title>
+      <link>https://www.wsj.com/opinion/the-ai-future-is-for-everyone-a0c24e20?st=T6AAwM</link>
+      <guid isPermaLink="true">https://www.wsj.com/opinion/the-ai-future-is-for-everyone-a0c24e20?st=T6AAwM</guid>
+      <pubDate>Thu, 30 Jul 2026 21:09:51 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Apple Releases iOS and MacOS 26.6, MacOS 15.7.8, and More</title>
+      <link>https://arstechnica.com/gadgets/2026/07/ios-and-macos-26-6-arrive-today-paving-the-way-for-ios-and-macos-27/</link>
+      <guid isPermaLink="true">https://arstechnica.com/gadgets/2026/07/ios-and-macos-26-6-arrive-today-paving-the-way-for-ios-and-macos-27/</guid>
+      <pubDate>Thu, 30 Jul 2026 20:41:43 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Rogue Amoeba: Unobtrusive Update Notifications</title>
+      <link>https://weblog.rogueamoeba.com/2026/04/28/unobtrusive-update-notifications/</link>
+      <guid isPermaLink="true">https://weblog.rogueamoeba.com/2026/04/28/unobtrusive-update-notifications/</guid>
+      <pubDate>Thu, 30 Jul 2026 20:33:59 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Why do OpenAI's GPT-2 weights beat mine? Part two: the bugfix</title>
       <link>https://www.gilesthomas.com/2026/07/why-do-openai-gpt2-weights-beat-mine-2-the-bugfix</link>
@@ -41,6 +97,20 @@
       <description>Daring Fireball</description>
     </item>
     <item>
+      <title>llm-chat-completions-server 0.1a0</title>
+      <link>https://simonwillison.net/2026/Jul/30/llm-chat-completions-server/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/30/llm-chat-completions-server/#atom-everything</guid>
+      <pubDate>Thu, 30 Jul 2026 15:43:16 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>llm 0.32rc1</title>
+      <link>https://simonwillison.net/2026/Jul/30/llm-rc1/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/30/llm-rc1/#atom-everything</guid>
+      <pubDate>Thu, 30 Jul 2026 15:30:20 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
       <title>Pluralistic: The stupidest imaginable excuses for surveillance pricing (30 Jul 2026)</title>
       <link>https://pluralistic.net/2026/07/30/pay-for-privacy/</link>
       <guid isPermaLink="true">https://pluralistic.net/2026/07/30/pay-for-privacy/</guid>
@@ -69,7 +139,14 @@
       <description>Andrew Nesbitt</description>
     </item>
     <item>
-      <title>So you want to use plants to reduce CO₂</title>
+      <title>You have been mislead about lightbulbs</title>
+      <link>https://maurycyz.com/misc/tungsten/</link>
+      <guid isPermaLink="true">https://maurycyz.com/misc/tungsten/</guid>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
+    </item>
+    <item>
+      <title>So you want to use plants to reduce indoor CO₂</title>
       <link>https://dynomight.net/plants/</link>
       <guid isPermaLink="true">https://dynomight.net/plants/</guid>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
@@ -685,18 +762,18 @@
       <description>Eric Migicovsky's Blog RSS Feed</description>
     </item>
     <item>
-      <title>LLMs reward expertise</title>
-      <link>https://seangoedecke.com/llms-reward-expertise/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/llms-reward-expertise/</guid>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
       <title>Codeberg Divides</title>
       <link>https://lucumr.pocoo.org/2026/7/24/codeberg-divides/</link>
       <guid isPermaLink="true">https://lucumr.pocoo.org/2026/7/24/codeberg-divides/</guid>
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
       <description>Armin Ronacher's Thoughts and Writings</description>
+    </item>
+    <item>
+      <title>LLMs reward expertise</title>
+      <link>https://seangoedecke.com/llms-reward-expertise/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/llms-reward-expertise/</guid>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>Becoming Skilled at Making Documents</title>
@@ -767,83 +844,6 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/07/23/an-almost-periodic-function/</guid>
       <pubDate>Thu, 23 Jul 2026 14:04:34 +0000</pubDate>
       <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Making an agile version of a Windows Runtime delegate in C++/WinRT, part 4</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260723-00/?p=112560</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260723-00/?p=112560</guid>
-      <pubDate>Thu, 23 Jul 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Can We Lower Construction Costs with Cheaper Labor or Materials?</title>
-      <link>https://www.construction-physics.com/p/can-we-lower-construction-costs-with</link>
-      <guid isPermaLink="true">https://www.construction-physics.com/p/can-we-lower-construction-costs-with</guid>
-      <pubDate>Thu, 23 Jul 2026 13:05:38 +0000</pubDate>
-      <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>Pluralistic: California's privacy obstacle course (23 Jul 2026)</title>
-      <link>https://pluralistic.net/2026/07/23/drop-a-dime/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/07/23/drop-a-dime/</guid>
-      <pubDate>Thu, 23 Jul 2026 10:27:55 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Met het Oog op Morgen: Uitgebroken AI?</title>
-      <link>https://berthub.eu/articles/posts/ai-met-het-oog-op-morgen/</link>
-      <guid isPermaLink="true">https://berthub.eu/articles/posts/ai-met-het-oog-op-morgen/</guid>
-      <pubDate>Thu, 23 Jul 2026 09:00:00 +0000</pubDate>
-      <description>Bert Hubert's writings</description>
-    </item>
-    <item>
-      <title>Quoting Seth Larson</title>
-      <link>https://simonwillison.net/2026/Jul/23/seth-larson/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/23/seth-larson/#atom-everything</guid>
-      <pubDate>Thu, 23 Jul 2026 04:50:36 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>John C. Dvorak has died</title>
-      <link>https://oldvcr.blogspot.com/2026/07/john-c-dvorak-has-died.html</link>
-      <guid isPermaLink="true">https://oldvcr.blogspot.com/2026/07/john-c-dvorak-has-died.html</guid>
-      <pubDate>Thu, 23 Jul 2026 01:02:38 +0000</pubDate>
-      <description>Old Vintage Computing Research</description>
-    </item>
-    <item>
-      <title>Powerful AIs might escape containment by releasing themselves as open-weight models</title>
-      <link>https://seangoedecke.com/powerful-ais-might-escape-by-releasing-open-weight-models/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/powerful-ais-might-escape-by-releasing-open-weight-models/</guid>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>Package Name Prefixes</title>
-      <link>https://nesbitt.io/2026/07/23/package-name-prefixes.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/07/23/package-name-prefixes.html</guid>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Quoting Thomas Ptacek</title>
-      <link>https://simonwillison.net/2026/Jul/22/thomas-ptacek/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/22/thomas-ptacek/#atom-everything</guid>
-      <pubDate>Wed, 22 Jul 2026 23:59:01 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened</title>
-      <link>https://simonwillison.net/2026/Jul/22/openai-cyberattack/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/22/openai-cyberattack/#atom-everything</guid>
-      <pubDate>Wed, 22 Jul 2026 23:51:33 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Are AI labs pelicanmaxxing?</title>
-      <link>https://simonwillison.net/2026/Jul/22/are-ai-labs-pelicanmaxxing/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/22/are-ai-labs-pelicanmaxxing/#atom-everything</guid>
-      <pubDate>Wed, 22 Jul 2026 23:01:00 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
