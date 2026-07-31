@@ -208,11 +208,11 @@ Last Updated: Friday, July 31st, 2026, 9:49:55 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Getting 25 Gbps Thunderbolt Ethernet on my Mac Studio](https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/) — *Jeff Geerling* `07-31`
+- [Pluralistic: Better to beg forgiveness (31 Jul 2026)](https://pluralistic.net/2026/07/31/just-do-it/) — *Pluralistic: Daily links from Cory Doctorow* `07-31`
+- [The AI Phrasebook](https://nesbitt.io/2026/07/31/the-ai-phrasebook.html) — *Andrew Nesbitt* `07-31`
 - [AI: Considerations for people who make decisions](https://berthub.eu/articles/posts/ai-for-decision-makers/) — *Bert Hubert's writings* `07-31`
 - [Why do OpenAI's GPT-2 weights beat mine? Part three: testing overtraining](https://www.gilesthomas.com/2026/07/why-do-openai-gpt2-weights-beat-mine-3-overtraining) — *Giles' blog* `07-31`
-- [Advancing the price-performance frontier with GPT‑5.6](https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything) — *Simon Willison's Weblog* `07-30`
-- [BI Slop](https://idiallo.com/blog/business-intelligence-slop) — *Software and Tech stories from an Insider - iDiallo.com* `07-30`
-- [Investigating three real-world incidents in our cybersecurity evaluations](https://simonwillison.net/2026/Jul/30/three-real-world-incidents/#atom-everything) — *Simon Willison's Weblog* `07-30`
 <!--BLOG_RADAR:end-->
 
 ---
