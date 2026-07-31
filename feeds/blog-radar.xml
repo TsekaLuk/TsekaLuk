@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 31 Jul 2026 03:34:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 09:10:55 +0000</lastBuildDate>
+    <item>
+      <title>AI: Considerations for people who make decisions</title>
+      <link>https://berthub.eu/articles/posts/ai-for-decision-makers/</link>
+      <guid isPermaLink="true">https://berthub.eu/articles/posts/ai-for-decision-makers/</guid>
+      <pubDate>Fri, 31 Jul 2026 08:00:00 +0000</pubDate>
+      <description>Bert Hubert's writings</description>
+    </item>
     <item>
       <title>Why do OpenAI's GPT-2 weights beat mine? Part three: testing overtraining</title>
       <link>https://www.gilesthomas.com/2026/07/why-do-openai-gpt2-weights-beat-mine-3-overtraining</link>
@@ -109,6 +116,13 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Jul/30/llm-rc1/#atom-everything</guid>
       <pubDate>Thu, 30 Jul 2026 15:30:20 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Making an agile version of a Windows Runtime delegate in C++/WinRT, part 9</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260730-00/?p=112573</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260730-00/?p=112573</guid>
+      <pubDate>Thu, 30 Jul 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Pluralistic: The stupidest imaginable excuses for surveillance pricing (30 Jul 2026)</title>
@@ -265,18 +279,18 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>Superlogical</title>
-      <link>https://mitchellh.com/writing/superlogical</link>
-      <guid isPermaLink="true">https://mitchellh.com/writing/superlogical</guid>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Mitchell Hashimoto</description>
-    </item>
-    <item>
       <title>You don't have to be smart if you can think clearly</title>
       <link>https://seangoedecke.com/you-dont-have-to-be-smart-if-you-think-clearly/</link>
       <guid isPermaLink="true">https://seangoedecke.com/you-dont-have-to-be-smart-if-you-think-clearly/</guid>
       <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Superlogical</title>
+      <link>https://mitchellh.com/writing/superlogical</link>
+      <guid isPermaLink="true">https://mitchellh.com/writing/superlogical</guid>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Mitchell Hashimoto</description>
     </item>
     <item>
       <title>Discovering cryptographic weaknesses with Claude</title>
@@ -755,6 +769,13 @@
       <description>Software and Tech stories from an Insider - iDiallo.com</description>
     </item>
     <item>
+      <title>LLMs reward expertise</title>
+      <link>https://seangoedecke.com/llms-reward-expertise/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/llms-reward-expertise/</guid>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
       <title>Index 01 Is In Mass Production!</title>
       <link>https://repebble.com/blog/index-01-is-in-mass-production</link>
       <guid isPermaLink="true">https://repebble.com/blog/index-01-is-in-mass-production</guid>
@@ -767,13 +788,6 @@
       <guid isPermaLink="true">https://lucumr.pocoo.org/2026/7/24/codeberg-divides/</guid>
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
       <description>Armin Ronacher's Thoughts and Writings</description>
-    </item>
-    <item>
-      <title>LLMs reward expertise</title>
-      <link>https://seangoedecke.com/llms-reward-expertise/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/llms-reward-expertise/</guid>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>Becoming Skilled at Making Documents</title>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://minimaxir.com/2026/07/jacobian-conjecture/</guid>
       <pubDate>Thu, 23 Jul 2026 16:15:00 +0000</pubDate>
       <description>Max Woolf's Blog</description>
-    </item>
-    <item>
-      <title>Flighty New Connection Assistant Feature</title>
-      <link>https://9to5mac.com/2026/07/07/flighty-update-adds-powerful-new-connection-assistant-feature/</link>
-      <guid isPermaLink="true">https://9to5mac.com/2026/07/07/flighty-update-adds-powerful-new-connection-assistant-feature/</guid>
-      <pubDate>Thu, 23 Jul 2026 15:41:25 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>An almost periodic function</title>
-      <link>https://www.johndcook.com/blog/2026/07/23/an-almost-periodic-function/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/07/23/an-almost-periodic-function/</guid>
-      <pubDate>Thu, 23 Jul 2026 14:04:34 +0000</pubDate>
-      <description>John D. Cook</description>
     </item>
   </channel>
 </rss>

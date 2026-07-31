@@ -208,11 +208,11 @@ Last Updated: Friday, July 31st, 2026, 4:40:22 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [AI: Considerations for people who make decisions](https://berthub.eu/articles/posts/ai-for-decision-makers/) — *Bert Hubert's writings* `07-31`
 - [Why do OpenAI's GPT-2 weights beat mine? Part three: testing overtraining](https://www.gilesthomas.com/2026/07/why-do-openai-gpt2-weights-beat-mine-3-overtraining) — *Giles' blog* `07-31`
 - [Advancing the price-performance frontier with GPT‑5.6](https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything) — *Simon Willison's Weblog* `07-30`
 - [BI Slop](https://idiallo.com/blog/business-intelligence-slop) — *Software and Tech stories from an Insider - iDiallo.com* `07-30`
 - [Investigating three real-world incidents in our cybersecurity evaluations](https://simonwillison.net/2026/Jul/30/three-real-world-incidents/#atom-everything) — *Simon Willison's Weblog* `07-30`
-- [llm 0.32rc2](https://simonwillison.net/2026/Jul/30/llm-rc2/#atom-everything) — *Simon Willison's Weblog* `07-30`
 <!--BLOG_RADAR:end-->
 
 ---
