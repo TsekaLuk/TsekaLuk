@@ -208,11 +208,11 @@ Last Updated: Saturday, August 1st, 2026, 3:15:25 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Getting 25 Gbps Thunderbolt Ethernet on my Mac Studio](https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/) — *Jeff Geerling* `07-31`
-- [Pluralistic: Better to beg forgiveness (31 Jul 2026)](https://pluralistic.net/2026/07/31/just-do-it/) — *Pluralistic: Daily links from Cory Doctorow* `07-31`
-- [The AI Phrasebook](https://nesbitt.io/2026/07/31/the-ai-phrasebook.html) — *Andrew Nesbitt* `07-31`
-- [AI: Considerations for people who make decisions](https://berthub.eu/articles/posts/ai-for-decision-makers/) — *Bert Hubert's writings* `07-31`
-- [Why do OpenAI's GPT-2 weights beat mine? Part three: testing overtraining](https://www.gilesthomas.com/2026/07/why-do-openai-gpt2-weights-beat-mine-3-overtraining) — *Giles' blog* `07-31`
+- [How I use AI on this blog](https://www.gilesthomas.com/2026/07/ai-use) — *Giles' blog* `07-31`
+- [Solving the RK4 design equations](https://www.johndcook.com/blog/2026/07/31/runge-kutta-design/) — *John D. Cook* `07-31`
+- [★ Temu Is a Comically Bad App](https://daringfireball.net/2026/07/temu_is_a_comically_bad_app) — *Daring Fireball* `07-31`
+- [Y2K Will Be Quite Okay](https://www.filfre.net/2026/07/y2k-will-be-quite-okay/) — *The Digital Antiquarian* `07-31`
+- [Energizing a vacuum-tube flip-flop module from a 1948 IBM system](http://www.righto.com/2026/07/ibm-604-trigger-tube-module.html) — *Ken Shirriff's blog* `07-31`
 <!--BLOG_RADAR:end-->
 
 ---

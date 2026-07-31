@@ -4,7 +4,49 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 31 Jul 2026 14:23:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 19:43:54 +0000</lastBuildDate>
+    <item>
+      <title>How I use AI on this blog</title>
+      <link>https://www.gilesthomas.com/2026/07/ai-use</link>
+      <guid isPermaLink="true">https://www.gilesthomas.com/2026/07/ai-use</guid>
+      <pubDate>Fri, 31 Jul 2026 19:00:00 +0000</pubDate>
+      <description>Giles' blog</description>
+    </item>
+    <item>
+      <title>Solving the RK4 design equations</title>
+      <link>https://www.johndcook.com/blog/2026/07/31/runge-kutta-design/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/07/31/runge-kutta-design/</guid>
+      <pubDate>Fri, 31 Jul 2026 18:59:02 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>★ Temu Is a Comically Bad App</title>
+      <link>https://daringfireball.net/2026/07/temu_is_a_comically_bad_app</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/07/temu_is_a_comically_bad_app</guid>
+      <pubDate>Fri, 31 Jul 2026 18:27:50 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Y2K Will Be Quite Okay</title>
+      <link>https://www.filfre.net/2026/07/y2k-will-be-quite-okay/</link>
+      <guid isPermaLink="true">https://www.filfre.net/2026/07/y2k-will-be-quite-okay/</guid>
+      <pubDate>Fri, 31 Jul 2026 16:06:39 +0000</pubDate>
+      <description>The Digital Antiquarian</description>
+    </item>
+    <item>
+      <title>Energizing a vacuum-tube flip-flop module from a 1948 IBM system</title>
+      <link>http://www.righto.com/2026/07/ibm-604-trigger-tube-module.html</link>
+      <guid isPermaLink="true">http://www.righto.com/2026/07/ibm-604-trigger-tube-module.html</guid>
+      <pubDate>Fri, 31 Jul 2026 16:04:31 +0000</pubDate>
+      <description>Ken Shirriff's blog</description>
+    </item>
+    <item>
+      <title>Premium: AI Is Getting Way Too Expensive</title>
+      <link>https://www.wheresyoured.at/premium-ai-is-getting-way-too-expensive/</link>
+      <guid isPermaLink="true">https://www.wheresyoured.at/premium-ai-is-getting-way-too-expensive/</guid>
+      <pubDate>Fri, 31 Jul 2026 15:53:49 +0000</pubDate>
+      <description>Ed Zitron's Where's Your Ed At</description>
+    </item>
     <item>
       <title>Getting 25 Gbps Thunderbolt Ethernet on my Mac Studio</title>
       <link>https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/</link>
@@ -32,6 +74,13 @@
       <guid isPermaLink="true">https://berthub.eu/articles/posts/ai-for-decision-makers/</guid>
       <pubDate>Fri, 31 Jul 2026 08:00:00 +0000</pubDate>
       <description>Bert Hubert's writings</description>
+    </item>
+    <item>
+      <title>Notes from July 2026</title>
+      <link>https://evanhahn.com/notes-from-july-2026/</link>
+      <guid isPermaLink="true">https://evanhahn.com/notes-from-july-2026/</guid>
+      <pubDate>Fri, 31 Jul 2026 06:00:00 +0000</pubDate>
+      <description>Evan Hahn (dot com)</description>
     </item>
     <item>
       <title>Why do OpenAI's GPT-2 weights beat mine? Part three: testing overtraining</title>
@@ -795,55 +844,6 @@
       <guid isPermaLink="true">https://idiallo.com/byte-size/have-you-read-your-own-article</guid>
       <pubDate>Fri, 24 Jul 2026 08:06:22 +0000</pubDate>
       <description>Software and Tech stories from an Insider - iDiallo.com</description>
-    </item>
-    <item>
-      <title>Index 01 Is In Mass Production!</title>
-      <link>https://repebble.com/blog/index-01-is-in-mass-production</link>
-      <guid isPermaLink="true">https://repebble.com/blog/index-01-is-in-mass-production</guid>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Eric Migicovsky's Blog RSS Feed</description>
-    </item>
-    <item>
-      <title>LLMs reward expertise</title>
-      <link>https://seangoedecke.com/llms-reward-expertise/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/llms-reward-expertise/</guid>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>Codeberg Divides</title>
-      <link>https://lucumr.pocoo.org/2026/7/24/codeberg-divides/</link>
-      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/7/24/codeberg-divides/</guid>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Armin Ronacher's Thoughts and Writings</description>
-    </item>
-    <item>
-      <title>Becoming Skilled at Making Documents</title>
-      <link>https://anildash.com/2026/07/24/make-better-documents-skill/</link>
-      <guid isPermaLink="true">https://anildash.com/2026/07/24/make-better-documents-skill/</guid>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Anil Dash</description>
-    </item>
-    <item>
-      <title>The first known runaway AI agent - or a very bad marketing stunt?</title>
-      <link>https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything</guid>
-      <pubDate>Thu, 23 Jul 2026 22:53:08 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Adding a backup Internet WAN on my OPNsense Router</title>
-      <link>https://www.jeffgeerling.com/blog/2026/opnsense-backup-internet-gateway/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/opnsense-backup-internet-gateway/</guid>
-      <pubDate>Thu, 23 Jul 2026 21:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
-      <title>Bond Movie Filming Locations Map</title>
-      <link>https://department-m.agency/</link>
-      <guid isPermaLink="true">https://department-m.agency/</guid>
-      <pubDate>Thu, 23 Jul 2026 19:35:45 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
