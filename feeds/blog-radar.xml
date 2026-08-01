@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 01 Aug 2026 03:34:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 08:29:21 +0000</lastBuildDate>
     <item>
       <title>deepseek-ai/DeepSeek-V4-Flash-0731</title>
       <link>https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything</link>
@@ -102,6 +102,13 @@
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/</guid>
       <pubDate>Fri, 31 Jul 2026 14:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>Making an agile version of a Windows Runtime delegate in C++/WinRT, part 10</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260731-00/?p=112578</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260731-00/?p=112578</guid>
+      <pubDate>Fri, 31 Jul 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Pluralistic: Better to beg forgiveness (31 Jul 2026)</title>
@@ -265,13 +272,6 @@
       <description>Construction Physics</description>
     </item>
     <item>
-      <title>Are political journalists always wrong?</title>
-      <link>https://shkspr.mobi/blog/2026/07/are-political-journalists-always-wrong/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/are-political-journalists-always-wrong/</guid>
-      <pubDate>Thu, 30 Jul 2026 11:34:31 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>Wheels, Bottles and Images</title>
       <link>https://nesbitt.io/2026/07/30/wheels-bottles-images.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/07/30/wheels-bottles-images.html</guid>
@@ -279,18 +279,18 @@
       <description>Andrew Nesbitt</description>
     </item>
     <item>
-      <title>So you want to use plants to reduce indoor CO₂</title>
-      <link>https://dynomight.net/plants/</link>
-      <guid isPermaLink="true">https://dynomight.net/plants/</guid>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
-    </item>
-    <item>
       <title>You have been mislead about lightbulbs</title>
       <link>https://maurycyz.com/misc/tungsten/</link>
       <guid isPermaLink="true">https://maurycyz.com/misc/tungsten/</guid>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
       <description>Maurycy's Blog</description>
+    </item>
+    <item>
+      <title>So you want to use plants to reduce indoor CO₂</title>
+      <link>https://dynomight.net/plants/</link>
+      <guid isPermaLink="true">https://dynomight.net/plants/</guid>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>Quoting D. Richard Hipp</title>
@@ -489,13 +489,6 @@
       <description>John D. Cook</description>
     </item>
     <item>
-      <title>Google Calendar "Unable to launch event" - caused by missing DTSTAMP</title>
-      <link>https://shkspr.mobi/blog/2026/07/google-calendar-unable-to-launch-event-caused-by-missing-dtstamp/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/google-calendar-unable-to-launch-event-caused-by-missing-dtstamp/</guid>
-      <pubDate>Tue, 28 Jul 2026 11:34:15 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>Pluralistic: Discernment (28 Jul 2026)</title>
       <link>https://pluralistic.net/2026/07/28/hitl-ers/</link>
       <guid isPermaLink="true">https://pluralistic.net/2026/07/28/hitl-ers/</guid>
@@ -664,13 +657,6 @@
       <description>John D. Cook</description>
     </item>
     <item>
-      <title>Book Review: Dungeon Crawler Carl by Matt Dinniman ★★⯪☆☆</title>
-      <link>https://shkspr.mobi/blog/2026/07/book-review-dungeon-crawler-carl-by-matt-dinniman/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/book-review-dungeon-crawler-carl-by-matt-dinniman/</guid>
-      <pubDate>Sun, 26 Jul 2026 11:34:33 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>Weekly Update 514: This Week in Data Breaches</title>
       <link>https://www.troyhunt.com/weekly-update-514/</link>
       <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-514/</guid>
@@ -746,13 +732,6 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/07/25/excel-column-numbering/</guid>
       <pubDate>Sat, 25 Jul 2026 13:37:30 +0000</pubDate>
       <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Some Quick Thoughts on EMF Camp 2026</title>
-      <link>https://shkspr.mobi/blog/2026/07/some-quick-thoughts-on-emf-camp-2026/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/some-quick-thoughts-on-emf-camp-2026/</guid>
-      <pubDate>Sat, 25 Jul 2026 11:34:01 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Being Linux Torvalds</title>
@@ -844,6 +823,27 @@
       <guid isPermaLink="true">https://www.inquirer.com/sixers/live/lebron-james-signs-philadelphia-76ers-contract-salary-roster-updates-reaction-20260724.html</guid>
       <pubDate>Fri, 24 Jul 2026 16:40:00 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>The Talk Show: ‘A Scam Held Together With Patriotism and Golden Paint’</title>
+      <link>https://daringfireball.net/thetalkshow/2026/07/23/ep-452</link>
+      <guid isPermaLink="true">https://daringfireball.net/thetalkshow/2026/07/23/ep-452</guid>
+      <pubDate>Fri, 24 Jul 2026 15:44:11 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Matrox</title>
+      <link>https://www.abortretry.fail/p/matrox</link>
+      <guid isPermaLink="true">https://www.abortretry.fail/p/matrox</guid>
+      <pubDate>Fri, 24 Jul 2026 14:37:24 +0000</pubDate>
+      <description>Abort Retry Fail</description>
+    </item>
+    <item>
+      <title>Making an agile version of a Windows Runtime delegate in C++/WinRT, part 5</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260724-00/?p=112562</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260724-00/?p=112562</guid>
+      <pubDate>Fri, 24 Jul 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
   </channel>
 </rss>
