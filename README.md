@@ -208,11 +208,11 @@ Last Updated: Saturday, August 1st, 2026, 9:05:54 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Pluralistic: Why businesses lie about AI (01 Aug 2026)](https://pluralistic.net/2026/08/01/dare-snot/) — *Pluralistic: Daily links from Cory Doctorow* `08-01`
+- [Reading List 08/01/26](https://www.construction-physics.com/p/reading-list-080126) — *Construction Physics* `08-01`
+- [This Week in Package Management: 1 August 2026](https://nesbitt.io/2026/08/01/this-week-in-package-management.html) — *Andrew Nesbitt* `08-01`
 - [deepseek-ai/DeepSeek-V4-Flash-0731](https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything) — *Simon Willison's Weblog* `07-31`
 - [Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)](https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything) — *Simon Willison's Weblog* `07-31`
-- [llm-mcp-client 0.1a0](https://simonwillison.net/2026/Jul/31/llm-mcp-client/#atom-everything) — *Simon Willison's Weblog* `07-31`
-- [The Talk Show: ‘What’s in Louie’s Wallet’](https://daringfireball.net/thetalkshow/2026/07/31/ep-453) — *Daring Fireball* `07-31`
-- [Oxide and Friends: The Open Weight Revolution with Simon Willison](https://simonwillison.net/2026/Jul/31/oxide-and-friends/#atom-everything) — *Simon Willison's Weblog* `07-31`
 <!--BLOG_RADAR:end-->
 
 ---
