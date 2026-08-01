@@ -4,7 +4,49 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 31 Jul 2026 19:43:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 03:34:15 +0000</lastBuildDate>
+    <item>
+      <title>deepseek-ai/DeepSeek-V4-Flash-0731</title>
+      <link>https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything</guid>
+      <pubDate>Fri, 31 Jul 2026 23:59:44 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)</title>
+      <link>https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything</guid>
+      <pubDate>Fri, 31 Jul 2026 23:13:22 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>llm-mcp-client 0.1a0</title>
+      <link>https://simonwillison.net/2026/Jul/31/llm-mcp-client/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/31/llm-mcp-client/#atom-everything</guid>
+      <pubDate>Fri, 31 Jul 2026 23:03:47 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>The Talk Show: ‘What’s in Louie’s Wallet’</title>
+      <link>https://daringfireball.net/thetalkshow/2026/07/31/ep-453</link>
+      <guid isPermaLink="true">https://daringfireball.net/thetalkshow/2026/07/31/ep-453</guid>
+      <pubDate>Fri, 31 Jul 2026 22:50:04 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Oxide and Friends: The Open Weight Revolution with Simon Willison</title>
+      <link>https://simonwillison.net/2026/Jul/31/oxide-and-friends/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/31/oxide-and-friends/#atom-everything</guid>
+      <pubDate>Fri, 31 Jul 2026 21:33:13 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>smevals - a small eval suite for evaluating models, prompts, and harnesses</title>
+      <link>https://simonwillison.net/2026/Jul/31/smevals/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/31/smevals/#atom-everything</guid>
+      <pubDate>Fri, 31 Jul 2026 21:15:23 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>How I use AI on this blog</title>
       <link>https://www.gilesthomas.com/2026/07/ai-use</link>
@@ -46,6 +88,13 @@
       <guid isPermaLink="true">https://www.wheresyoured.at/premium-ai-is-getting-way-too-expensive/</guid>
       <pubDate>Fri, 31 Jul 2026 15:53:49 +0000</pubDate>
       <description>Ed Zitron's Where's Your Ed At</description>
+    </item>
+    <item>
+      <title>datasette-agent 0.4a0</title>
+      <link>https://simonwillison.net/2026/Jul/31/datasette-agent/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/31/datasette-agent/#atom-everything</guid>
+      <pubDate>Fri, 31 Jul 2026 14:14:23 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
     <item>
       <title>Getting 25 Gbps Thunderbolt Ethernet on my Mac Studio</title>
@@ -230,18 +279,18 @@
       <description>Andrew Nesbitt</description>
     </item>
     <item>
-      <title>You have been mislead about lightbulbs</title>
-      <link>https://maurycyz.com/misc/tungsten/</link>
-      <guid isPermaLink="true">https://maurycyz.com/misc/tungsten/</guid>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
-    </item>
-    <item>
       <title>So you want to use plants to reduce indoor CO₂</title>
       <link>https://dynomight.net/plants/</link>
       <guid isPermaLink="true">https://dynomight.net/plants/</guid>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
       <description>DYNOMIGHT</description>
+    </item>
+    <item>
+      <title>You have been mislead about lightbulbs</title>
+      <link>https://maurycyz.com/misc/tungsten/</link>
+      <guid isPermaLink="true">https://maurycyz.com/misc/tungsten/</guid>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
     </item>
     <item>
       <title>Quoting D. Richard Hipp</title>
@@ -795,55 +844,6 @@
       <guid isPermaLink="true">https://www.inquirer.com/sixers/live/lebron-james-signs-philadelphia-76ers-contract-salary-roster-updates-reaction-20260724.html</guid>
       <pubDate>Fri, 24 Jul 2026 16:40:00 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The Talk Show: ‘A Scam Held Together With Patriotism and Golden Paint’</title>
-      <link>https://daringfireball.net/thetalkshow/2026/07/23/ep-452</link>
-      <guid isPermaLink="true">https://daringfireball.net/thetalkshow/2026/07/23/ep-452</guid>
-      <pubDate>Fri, 24 Jul 2026 15:44:11 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Matrox</title>
-      <link>https://www.abortretry.fail/p/matrox</link>
-      <guid isPermaLink="true">https://www.abortretry.fail/p/matrox</guid>
-      <pubDate>Fri, 24 Jul 2026 14:37:24 +0000</pubDate>
-      <description>Abort Retry Fail</description>
-    </item>
-    <item>
-      <title>Making an agile version of a Windows Runtime delegate in C++/WinRT, part 5</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260724-00/?p=112562</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260724-00/?p=112562</guid>
-      <pubDate>Fri, 24 Jul 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Book Review: Foreign Fruit - A Personal History of the Orange by Katie Goh ★⯪☆☆☆</title>
-      <link>https://shkspr.mobi/blog/2026/07/book-review-foreign-fruit-a-personal-history-of-the-orange-by-katie-goh/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/book-review-foreign-fruit-a-personal-history-of-the-orange-by-katie-goh/</guid>
-      <pubDate>Fri, 24 Jul 2026 11:34:07 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Pluralistic: AI solipsists and AI cynics (24 Jul 2026)</title>
-      <link>https://pluralistic.net/2026/07/24/supplemental-income/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/07/24/supplemental-income/</guid>
-      <pubDate>Fri, 24 Jul 2026 10:21:03 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Interview with a Maintainer</title>
-      <link>https://nesbitt.io/2026/07/24/interview-with-a-maintainer.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/07/24/interview-with-a-maintainer.html</guid>
-      <pubDate>Fri, 24 Jul 2026 09:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Have you read it?</title>
-      <link>https://idiallo.com/byte-size/have-you-read-your-own-article</link>
-      <guid isPermaLink="true">https://idiallo.com/byte-size/have-you-read-your-own-article</guid>
-      <pubDate>Fri, 24 Jul 2026 08:06:22 +0000</pubDate>
-      <description>Software and Tech stories from an Insider - iDiallo.com</description>
     </item>
   </channel>
 </rss>

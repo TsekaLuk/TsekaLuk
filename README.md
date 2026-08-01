@@ -208,11 +208,11 @@ Last Updated: Saturday, August 1st, 2026, 10:13:26 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [How I use AI on this blog](https://www.gilesthomas.com/2026/07/ai-use) — *Giles' blog* `07-31`
-- [Solving the RK4 design equations](https://www.johndcook.com/blog/2026/07/31/runge-kutta-design/) — *John D. Cook* `07-31`
-- [★ Temu Is a Comically Bad App](https://daringfireball.net/2026/07/temu_is_a_comically_bad_app) — *Daring Fireball* `07-31`
-- [Y2K Will Be Quite Okay](https://www.filfre.net/2026/07/y2k-will-be-quite-okay/) — *The Digital Antiquarian* `07-31`
-- [Energizing a vacuum-tube flip-flop module from a 1948 IBM system](http://www.righto.com/2026/07/ibm-604-trigger-tube-module.html) — *Ken Shirriff's blog* `07-31`
+- [deepseek-ai/DeepSeek-V4-Flash-0731](https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything) — *Simon Willison's Weblog* `07-31`
+- [Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)](https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything) — *Simon Willison's Weblog* `07-31`
+- [llm-mcp-client 0.1a0](https://simonwillison.net/2026/Jul/31/llm-mcp-client/#atom-everything) — *Simon Willison's Weblog* `07-31`
+- [The Talk Show: ‘What’s in Louie’s Wallet’](https://daringfireball.net/thetalkshow/2026/07/31/ep-453) — *Daring Fireball* `07-31`
+- [Oxide and Friends: The Open Weight Revolution with Simon Willison](https://simonwillison.net/2026/Jul/31/oxide-and-friends/#atom-everything) — *Simon Willison's Weblog* `07-31`
 <!--BLOG_RADAR:end-->
 
 ---
