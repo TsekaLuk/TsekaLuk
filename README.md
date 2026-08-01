@@ -208,11 +208,11 @@ Last Updated: Sunday, August 2nd, 2026, 2:59:46 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [The Apple Upgrade Situation](https://randsinrepose.com/archives/the-apple-upgrade-situation/) — *Daring Fireball* `08-01`
+- [Counting rooted trees](https://www.johndcook.com/blog/2026/08/01/counting-rooted-trees/) — *John D. Cook* `08-01`
+- [Apple Q3 2026 Results](https://sixcolors.com/post/2026/07/apple-announces-record-q3-results/) — *Daring Fireball* `08-01`
+- [Runge-Kutta order versus stages](https://www.johndcook.com/blog/2026/08/01/butcher-barrier/) — *John D. Cook* `08-01`
 - [Pluralistic: Why businesses lie about AI (01 Aug 2026)](https://pluralistic.net/2026/08/01/dare-snot/) — *Pluralistic: Daily links from Cory Doctorow* `08-01`
-- [Reading List 08/01/26](https://www.construction-physics.com/p/reading-list-080126) — *Construction Physics* `08-01`
-- [This Week in Package Management: 1 August 2026](https://nesbitt.io/2026/08/01/this-week-in-package-management.html) — *Andrew Nesbitt* `08-01`
-- [deepseek-ai/DeepSeek-V4-Flash-0731](https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything) — *Simon Willison's Weblog* `07-31`
-- [Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)](https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything) — *Simon Willison's Weblog* `07-31`
 <!--BLOG_RADAR:end-->
 
 ---

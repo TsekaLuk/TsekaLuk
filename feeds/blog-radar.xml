@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 01 Aug 2026 13:42:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 19:18:46 +0000</lastBuildDate>
+    <item>
+      <title>The Apple Upgrade Situation</title>
+      <link>https://randsinrepose.com/archives/the-apple-upgrade-situation/</link>
+      <guid isPermaLink="true">https://randsinrepose.com/archives/the-apple-upgrade-situation/</guid>
+      <pubDate>Sat, 01 Aug 2026 16:30:40 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Counting rooted trees</title>
+      <link>https://www.johndcook.com/blog/2026/08/01/counting-rooted-trees/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/01/counting-rooted-trees/</guid>
+      <pubDate>Sat, 01 Aug 2026 16:15:53 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Apple Q3 2026 Results</title>
+      <link>https://sixcolors.com/post/2026/07/apple-announces-record-q3-results/</link>
+      <guid isPermaLink="true">https://sixcolors.com/post/2026/07/apple-announces-record-q3-results/</guid>
+      <pubDate>Sat, 01 Aug 2026 16:15:15 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Runge-Kutta order versus stages</title>
+      <link>https://www.johndcook.com/blog/2026/08/01/butcher-barrier/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/01/butcher-barrier/</guid>
+      <pubDate>Sat, 01 Aug 2026 15:58:15 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
     <item>
       <title>Pluralistic: Why businesses lie about AI (01 Aug 2026)</title>
       <link>https://pluralistic.net/2026/08/01/dare-snot/</link>
@@ -90,6 +118,13 @@
       <description>Daring Fireball</description>
     </item>
     <item>
+      <title>Y2K Will Be Quite Okay</title>
+      <link>https://www.filfre.net/2026/07/y2k-will-be-quite-okay/</link>
+      <guid isPermaLink="true">https://www.filfre.net/2026/07/y2k-will-be-quite-okay/</guid>
+      <pubDate>Fri, 31 Jul 2026 16:06:39 +0000</pubDate>
+      <description>The Digital Antiquarian</description>
+    </item>
+    <item>
       <title>Energizing a vacuum-tube flip-flop module from a 1948 IBM system</title>
       <link>http://www.righto.com/2026/07/ibm-604-trigger-tube-module.html</link>
       <guid isPermaLink="true">http://www.righto.com/2026/07/ibm-604-trigger-tube-module.html</guid>
@@ -111,18 +146,18 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>Getting 25 Gbps Thunderbolt Ethernet on my Mac Studio</title>
-      <link>https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/</guid>
-      <pubDate>Fri, 31 Jul 2026 14:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
       <title>Making an agile version of a Windows Runtime delegate in C++/WinRT, part 10</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260731-00/?p=112578</link>
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260731-00/?p=112578</guid>
       <pubDate>Fri, 31 Jul 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>Getting 25 Gbps Thunderbolt Ethernet on my Mac Studio</title>
+      <link>https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/</guid>
+      <pubDate>Fri, 31 Jul 2026 14:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
     </item>
     <item>
       <title>Pluralistic: Better to beg forgiveness (31 Jul 2026)</title>
@@ -144,6 +179,13 @@
       <guid isPermaLink="true">https://berthub.eu/articles/posts/ai-for-decision-makers/</guid>
       <pubDate>Fri, 31 Jul 2026 08:00:00 +0000</pubDate>
       <description>Bert Hubert's writings</description>
+    </item>
+    <item>
+      <title>Notes from July 2026</title>
+      <link>https://evanhahn.com/notes-from-july-2026/</link>
+      <guid isPermaLink="true">https://evanhahn.com/notes-from-july-2026/</guid>
+      <pubDate>Fri, 31 Jul 2026 06:00:00 +0000</pubDate>
+      <description>Evan Hahn (dot com)</description>
     </item>
     <item>
       <title>Why do OpenAI's GPT-2 weights beat mine? Part three: testing overtraining</title>
@@ -802,48 +844,6 @@
       <guid isPermaLink="true">https://pluralistic.net/2026/07/21/dickovers/</guid>
       <pubDate>Fri, 24 Jul 2026 18:51:29 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Premium: The Hater’s Guide To Oracle (Part 2)</title>
-      <link>https://www.wheresyoured.at/premium-the-haters-guide-to-oracle-part-2/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/premium-the-haters-guide-to-oracle-part-2/</guid>
-      <pubDate>Fri, 24 Jul 2026 16:56:52 +0000</pubDate>
-      <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>Dickover of the Week: Tomtoc</title>
-      <link>https://daringfireball.net/2026/05/what_is_a_dickover</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/05/what_is_a_dickover</guid>
-      <pubDate>Fri, 24 Jul 2026 16:43:43 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Sixers Sign LeBron James</title>
-      <link>https://www.inquirer.com/sixers/live/lebron-james-signs-philadelphia-76ers-contract-salary-roster-updates-reaction-20260724.html</link>
-      <guid isPermaLink="true">https://www.inquirer.com/sixers/live/lebron-james-signs-philadelphia-76ers-contract-salary-roster-updates-reaction-20260724.html</guid>
-      <pubDate>Fri, 24 Jul 2026 16:40:00 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The Talk Show: ‘A Scam Held Together With Patriotism and Golden Paint’</title>
-      <link>https://daringfireball.net/thetalkshow/2026/07/23/ep-452</link>
-      <guid isPermaLink="true">https://daringfireball.net/thetalkshow/2026/07/23/ep-452</guid>
-      <pubDate>Fri, 24 Jul 2026 15:44:11 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Matrox</title>
-      <link>https://www.abortretry.fail/p/matrox</link>
-      <guid isPermaLink="true">https://www.abortretry.fail/p/matrox</guid>
-      <pubDate>Fri, 24 Jul 2026 14:37:24 +0000</pubDate>
-      <description>Abort Retry Fail</description>
-    </item>
-    <item>
-      <title>Making an agile version of a Windows Runtime delegate in C++/WinRT, part 5</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260724-00/?p=112562</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260724-00/?p=112562</guid>
-      <pubDate>Fri, 24 Jul 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
     </item>
   </channel>
 </rss>
