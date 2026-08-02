@@ -208,11 +208,11 @@ Last Updated: Sunday, August 2nd, 2026, 10:10:28 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [The Apple Upgrade Situation](https://randsinrepose.com/archives/the-apple-upgrade-situation/) — *Daring Fireball* `08-01`
-- [Counting rooted trees](https://www.johndcook.com/blog/2026/08/01/counting-rooted-trees/) — *John D. Cook* `08-01`
-- [Apple Q3 2026 Results](https://sixcolors.com/post/2026/07/apple-announces-record-q3-results/) — *Daring Fireball* `08-01`
-- [Runge-Kutta order versus stages](https://www.johndcook.com/blog/2026/08/01/butcher-barrier/) — *John D. Cook* `08-01`
-- [Pluralistic: Why businesses lie about AI (01 Aug 2026)](https://pluralistic.net/2026/08/01/dare-snot/) — *Pluralistic: Daily links from Cory Doctorow* `08-01`
+- [MkLinux and the pimped-out Apple Workgroup Server 9150](https://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html) — *Old Vintage Computing Research* `08-02`
+- [I'm (mostly) picking models on speed now, not intelligence](https://martinalderson.com/posts/speed-vs-intelligence/?utm_source=rss&utm_medium=rss&utm_campaign=feed) — *Martin Alderson* `08-02`
+- [Quoting Greg Brockman](https://simonwillison.net/2026/Aug/1/greg-brockman/#atom-everything) — *Simon Willison's Weblog* `08-01`
+- [datasette-apps 0.2a0](https://simonwillison.net/2026/Aug/1/datasette-apps/#atom-everything) — *Simon Willison's Weblog* `08-01`
+- [Ten advances in mathematics and theoretical computer science](https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/#atom-everything) — *Simon Willison's Weblog* `08-01`
 <!--BLOG_RADAR:end-->
 
 ---
