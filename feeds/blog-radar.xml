@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 02 Aug 2026 13:42:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 19:19:27 +0000</lastBuildDate>
+    <item>
+      <title>Agent Fone</title>
+      <link>https://fail.xyz/phone/</link>
+      <guid isPermaLink="true">https://fail.xyz/phone/</guid>
+      <pubDate>Sun, 02 Aug 2026 18:43:11 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Estimating a cumulative sum</title>
+      <link>https://www.johndcook.com/blog/2026/08/02/estimating-a-cumulative-sum/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/02/estimating-a-cumulative-sum/</guid>
+      <pubDate>Sun, 02 Aug 2026 17:57:31 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
     <item>
       <title>Open letters about AI development</title>
       <link>https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything</link>
@@ -412,18 +426,18 @@
       <description>Andrew Nesbitt</description>
     </item>
     <item>
-      <title>So you want to use plants to reduce indoor CO₂</title>
-      <link>https://dynomight.net/plants/</link>
-      <guid isPermaLink="true">https://dynomight.net/plants/</guid>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
-    </item>
-    <item>
       <title>You have been mislead about lightbulbs</title>
       <link>https://maurycyz.com/misc/tungsten/</link>
       <guid isPermaLink="true">https://maurycyz.com/misc/tungsten/</guid>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
       <description>Maurycy's Blog</description>
+    </item>
+    <item>
+      <title>So you want to use plants to reduce indoor CO₂</title>
+      <link>https://dynomight.net/plants/</link>
+      <guid isPermaLink="true">https://dynomight.net/plants/</guid>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>Quoting D. Richard Hipp</title>
@@ -643,13 +657,6 @@
       <description>&lt;antirez&gt;</description>
     </item>
     <item>
-      <title>[Sponsor] Introducing Agent Fone</title>
-      <link>https://fail.xyz/phone/</link>
-      <guid isPermaLink="true">https://fail.xyz/phone/</guid>
-      <pubDate>Tue, 28 Jul 2026 01:31:54 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
       <title>‘Always Choose the Good Soap’</title>
       <link>https://sixcolors.com/post/2026/07/always-choose-the-good-soap/</link>
       <guid isPermaLink="true">https://sixcolors.com/post/2026/07/always-choose-the-good-soap/</guid>
@@ -836,13 +843,6 @@
       <link>https://www.nytimes.com/2026/07/24/well/measles-record-united-states-numbers.html?unlocked_article_code=1.0VA.4jBf.vqAYN4Bwu807</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/24/well/measles-record-united-states-numbers.html?unlocked_article_code=1.0VA.4jBf.vqAYN4Bwu807</guid>
       <pubDate>Sat, 25 Jul 2026 16:06:52 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>bIRC — A New Native IRC Client for Mac</title>
-      <link>https://birc.app/</link>
-      <guid isPermaLink="true">https://birc.app/</guid>
-      <pubDate>Sat, 25 Jul 2026 15:39:51 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
   </channel>
