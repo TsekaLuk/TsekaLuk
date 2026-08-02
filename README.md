@@ -211,8 +211,8 @@ Last Updated: Sunday, August 2nd, 2026, 9:07:13 PM
 - [Open letters about AI development](https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything) — *Simon Willison's Weblog* `08-02`
 - [July 2026 newsletter](https://simonwillison.net/2026/Aug/2/july-newsletter/#atom-everything) — *Simon Willison's Weblog* `08-02`
 - [MkLinux and the pimped-out Apple Workgroup Server 9150](https://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html) — *Old Vintage Computing Research* `08-02`
+- [Giving and taking credit in big tech companies](https://seangoedecke.com/giving-and-taking-credit/) — *seangoedecke.com RSS feed* `08-02`
 - [Mathematics Without Mathematicians](https://borretti.me/article/mathematics-without-mathematicians) — *Fernando Borretti* `08-02`
-- [I'm (mostly) picking models on speed now, not intelligence](https://martinalderson.com/posts/speed-vs-intelligence/?utm_source=rss&utm_medium=rss&utm_campaign=feed) — *Martin Alderson* `08-02`
 <!--BLOG_RADAR:end-->
 
 ---

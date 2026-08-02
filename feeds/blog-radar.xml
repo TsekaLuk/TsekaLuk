@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 02 Aug 2026 08:32:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 13:42:21 +0000</lastBuildDate>
     <item>
       <title>Open letters about AI development</title>
       <link>https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything</link>
@@ -25,6 +25,13 @@
       <guid isPermaLink="true">https://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html</guid>
       <pubDate>Sun, 02 Aug 2026 02:54:02 +0000</pubDate>
       <description>Old Vintage Computing Research</description>
+    </item>
+    <item>
+      <title>Giving and taking credit in big tech companies</title>
+      <link>https://seangoedecke.com/giving-and-taking-credit/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/giving-and-taking-credit/</guid>
+      <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>Mathematics Without Mathematicians</title>
@@ -116,13 +123,6 @@
       <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-080126</guid>
       <pubDate>Sat, 01 Aug 2026 12:04:01 +0000</pubDate>
       <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>Gadget Review: HIKMICRO D02 Thermal Camera ★★★★★</title>
-      <link>https://shkspr.mobi/blog/2026/08/gadget-review-hikmicro-d02-thermal-camera/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/gadget-review-hikmicro-d02-thermal-camera/</guid>
-      <pubDate>Sat, 01 Aug 2026 11:34:43 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>This Week in Package Management: 1 August 2026</title>
@@ -405,13 +405,6 @@
       <description>Construction Physics</description>
     </item>
     <item>
-      <title>Are political journalists always wrong?</title>
-      <link>https://shkspr.mobi/blog/2026/07/are-political-journalists-always-wrong/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/are-political-journalists-always-wrong/</guid>
-      <pubDate>Thu, 30 Jul 2026 11:34:31 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>Wheels, Bottles and Images</title>
       <link>https://nesbitt.io/2026/07/30/wheels-bottles-images.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/07/30/wheels-bottles-images.html</guid>
@@ -419,18 +412,18 @@
       <description>Andrew Nesbitt</description>
     </item>
     <item>
-      <title>You have been mislead about lightbulbs</title>
-      <link>https://maurycyz.com/misc/tungsten/</link>
-      <guid isPermaLink="true">https://maurycyz.com/misc/tungsten/</guid>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
-    </item>
-    <item>
       <title>So you want to use plants to reduce indoor CO₂</title>
       <link>https://dynomight.net/plants/</link>
       <guid isPermaLink="true">https://dynomight.net/plants/</guid>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
       <description>DYNOMIGHT</description>
+    </item>
+    <item>
+      <title>You have been mislead about lightbulbs</title>
+      <link>https://maurycyz.com/misc/tungsten/</link>
+      <guid isPermaLink="true">https://maurycyz.com/misc/tungsten/</guid>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
     </item>
     <item>
       <title>Quoting D. Richard Hipp</title>
@@ -629,13 +622,6 @@
       <description>John D. Cook</description>
     </item>
     <item>
-      <title>Google Calendar "Unable to launch event" - caused by missing DTSTAMP</title>
-      <link>https://shkspr.mobi/blog/2026/07/google-calendar-unable-to-launch-event-caused-by-missing-dtstamp/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/google-calendar-unable-to-launch-event-caused-by-missing-dtstamp/</guid>
-      <pubDate>Tue, 28 Jul 2026 11:34:15 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>Pluralistic: Discernment (28 Jul 2026)</title>
       <link>https://pluralistic.net/2026/07/28/hitl-ers/</link>
       <guid isPermaLink="true">https://pluralistic.net/2026/07/28/hitl-ers/</guid>
@@ -804,13 +790,6 @@
       <description>John D. Cook</description>
     </item>
     <item>
-      <title>Book Review: Dungeon Crawler Carl by Matt Dinniman ★★⯪☆☆</title>
-      <link>https://shkspr.mobi/blog/2026/07/book-review-dungeon-crawler-carl-by-matt-dinniman/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/book-review-dungeon-crawler-carl-by-matt-dinniman/</guid>
-      <pubDate>Sun, 26 Jul 2026 11:34:33 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>Weekly Update 514: This Week in Data Breaches</title>
       <link>https://www.troyhunt.com/weekly-update-514/</link>
       <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-514/</guid>
@@ -843,6 +822,27 @@
       <link>https://serpapi.com/blog/google-v-serpapi-the-court-granted-our-motion-to-dismiss/</link>
       <guid isPermaLink="true">https://serpapi.com/blog/google-v-serpapi-the-court-granted-our-motion-to-dismiss/</guid>
       <pubDate>Sat, 25 Jul 2026 17:27:19 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Apple Maps to Power Navigation Experience for Ford’s New EVs</title>
+      <link>https://www.apple.com/newsroom/2026/07/apple-maps-to-power-navigation-experience-for-ford-uev-platform/</link>
+      <guid isPermaLink="true">https://www.apple.com/newsroom/2026/07/apple-maps-to-power-navigation-experience-for-ford-uev-platform/</guid>
+      <pubDate>Sat, 25 Jul 2026 16:21:00 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Measles Cases Hit New Record in U.S., as Stupid-Americans Reject Vaccines</title>
+      <link>https://www.nytimes.com/2026/07/24/well/measles-record-united-states-numbers.html?unlocked_article_code=1.0VA.4jBf.vqAYN4Bwu807</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/24/well/measles-record-united-states-numbers.html?unlocked_article_code=1.0VA.4jBf.vqAYN4Bwu807</guid>
+      <pubDate>Sat, 25 Jul 2026 16:06:52 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>bIRC — A New Native IRC Client for Mac</title>
+      <link>https://birc.app/</link>
+      <guid isPermaLink="true">https://birc.app/</guid>
+      <pubDate>Sat, 25 Jul 2026 15:39:51 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
   </channel>
