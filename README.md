@@ -208,11 +208,11 @@ Last Updated: Monday, August 3rd, 2026, 10:12:33 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Weekly Update 515](https://www.troyhunt.com/weekly-update-515/) — *Troy Hunt* `08-03`
+- [condense-json 1.0](https://simonwillison.net/2026/Aug/2/condense-json/#atom-everything) — *Simon Willison's Weblog* `08-02`
 - [Agent Fone](https://fail.xyz/phone/) — *Daring Fireball* `08-02`
-- [Estimating a cumulative sum](https://www.johndcook.com/blog/2026/08/02/estimating-a-cumulative-sum/) — *John D. Cook* `08-02`
-- [Open letters about AI development](https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything) — *Simon Willison's Weblog* `08-02`
-- [July 2026 newsletter](https://simonwillison.net/2026/Aug/2/july-newsletter/#atom-everything) — *Simon Willison's Weblog* `08-02`
-- [MkLinux and the pimped-out Apple Workgroup Server 9150](https://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html) — *Old Vintage Computing Research* `08-02`
+- [Boris Cherny on Trying to Get Claude Code to Rewrite the Claude App](https://www.ycrootaccess.com/p/boris-cherny-building-claude-code) — *Daring Fireball* `08-02`
+- [Holonomic functions](https://www.johndcook.com/blog/2026/08/02/holonomic-functions/) — *John D. Cook* `08-02`
 <!--BLOG_RADAR:end-->
 
 ---

@@ -4,13 +4,41 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 02 Aug 2026 19:19:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 03:36:23 +0000</lastBuildDate>
+    <item>
+      <title>Weekly Update 515</title>
+      <link>https://www.troyhunt.com/weekly-update-515/</link>
+      <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-515/</guid>
+      <pubDate>Mon, 03 Aug 2026 00:07:14 +0000</pubDate>
+      <description>Troy Hunt</description>
+    </item>
+    <item>
+      <title>condense-json 1.0</title>
+      <link>https://simonwillison.net/2026/Aug/2/condense-json/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/2/condense-json/#atom-everything</guid>
+      <pubDate>Sun, 02 Aug 2026 22:19:59 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Agent Fone</title>
       <link>https://fail.xyz/phone/</link>
       <guid isPermaLink="true">https://fail.xyz/phone/</guid>
-      <pubDate>Sun, 02 Aug 2026 18:43:11 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 21:02:00 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Boris Cherny on Trying to Get Claude Code to Rewrite the Claude App</title>
+      <link>https://www.ycrootaccess.com/p/boris-cherny-building-claude-code</link>
+      <guid isPermaLink="true">https://www.ycrootaccess.com/p/boris-cherny-building-claude-code</guid>
+      <pubDate>Sun, 02 Aug 2026 21:01:12 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Holonomic functions</title>
+      <link>https://www.johndcook.com/blog/2026/08/02/holonomic-functions/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/02/holonomic-functions/</guid>
+      <pubDate>Sun, 02 Aug 2026 20:47:53 +0000</pubDate>
+      <description>John D. Cook</description>
     </item>
     <item>
       <title>Estimating a cumulative sum</title>
@@ -60,6 +88,13 @@
       <guid isPermaLink="true">https://martinalderson.com/posts/speed-vs-intelligence/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
       <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
       <description>Martin Alderson</description>
+    </item>
+    <item>
+      <title>telephones caught in between</title>
+      <link>https://computer.rip/2026-08-02-telephone-leasing.html</link>
+      <guid isPermaLink="true">https://computer.rip/2026-08-02-telephone-leasing.html</guid>
+      <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
+      <description>computers are bad</description>
     </item>
     <item>
       <title>Quoting Greg Brockman</title>
@@ -804,45 +839,10 @@
       <description>Troy Hunt</description>
     </item>
     <item>
-      <title>sqlite-utils 3.39.1</title>
-      <link>https://simonwillison.net/2026/Jul/26/sqlite-utils/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/26/sqlite-utils/#atom-everything</guid>
-      <pubDate>Sun, 26 Jul 2026 04:38:46 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
       <title>‘AI Mania Is Eviscerating Global Decision-Making’</title>
       <link>https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/</link>
       <guid isPermaLink="true">https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/</guid>
       <pubDate>Sat, 25 Jul 2026 18:15:12 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>EU Fines Google $1 Billion for DMA Competition Violations, Including Making Search Results More Useful</title>
-      <link>https://digital-markets-act.ec.europa.eu/commission-fines-google-eur890-million-breaches-digital-markets-act-2026-07-23_en</link>
-      <guid isPermaLink="true">https://digital-markets-act.ec.europa.eu/commission-fines-google-eur890-million-breaches-digital-markets-act-2026-07-23_en</guid>
-      <pubDate>Sat, 25 Jul 2026 17:44:13 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Court Grants SerpApi’s Motion to Dismiss Google Lawsuit</title>
-      <link>https://serpapi.com/blog/google-v-serpapi-the-court-granted-our-motion-to-dismiss/</link>
-      <guid isPermaLink="true">https://serpapi.com/blog/google-v-serpapi-the-court-granted-our-motion-to-dismiss/</guid>
-      <pubDate>Sat, 25 Jul 2026 17:27:19 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Apple Maps to Power Navigation Experience for Ford’s New EVs</title>
-      <link>https://www.apple.com/newsroom/2026/07/apple-maps-to-power-navigation-experience-for-ford-uev-platform/</link>
-      <guid isPermaLink="true">https://www.apple.com/newsroom/2026/07/apple-maps-to-power-navigation-experience-for-ford-uev-platform/</guid>
-      <pubDate>Sat, 25 Jul 2026 16:21:00 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Measles Cases Hit New Record in U.S., as Stupid-Americans Reject Vaccines</title>
-      <link>https://www.nytimes.com/2026/07/24/well/measles-record-united-states-numbers.html?unlocked_article_code=1.0VA.4jBf.vqAYN4Bwu807</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/24/well/measles-record-united-states-numbers.html?unlocked_article_code=1.0VA.4jBf.vqAYN4Bwu807</guid>
-      <pubDate>Sat, 25 Jul 2026 16:06:52 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
   </channel>
