@@ -208,11 +208,11 @@ Last Updated: Tuesday, August 4th, 2026, 3:22:50 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Pluralistic: Dualism (03 Aug 2026)](https://pluralistic.net/2026/08/03/andor/) — *Pluralistic: Daily links from Cory Doctorow* `08-03`
-- [Invisible Problems](https://idiallo.com/blog/invisible-problems) — *Software and Tech stories from an Insider - iDiallo.com* `08-03`
-- [Welcoming the Nepalese Government to Have I Been Pwned](https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/) — *Troy Hunt* `08-03`
-- [Weekly Update 515](https://www.troyhunt.com/weekly-update-515/) — *Troy Hunt* `08-03`
-- [Review: Job-Less Utopia](https://borretti.me/article/review-job-less-utopia) — *Fernando Borretti* `08-03`
+- [Why smarter AI models could drive up compute prices 10x](https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive-video) — *Dwarkesh Podcast* `08-03`
+- [★ Why Apple Requires a Cellular Account Through a Big Three Carrier to Lease an iPhone](https://daringfireball.net/2026/08/followup_big_three_carrier_requirement) — *Daring Fireball* `08-03`
+- [Ulysses S. Grant on the Future Dividing Line](https://www.snopes.com/fact-check/grant-next-civil-war/) — *Daring Fireball* `08-03`
+- [Quoting David Crawshaw's prompt](https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything) — *Simon Willison's Weblog* `08-03`
+- [Agentic coding techniques](https://micahflee.com/agentic-coding-techniques/) — *micahflee* `08-03`
 <!--BLOG_RADAR:end-->
 
 ---
