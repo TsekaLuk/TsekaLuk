@@ -208,11 +208,11 @@ Last Updated: Monday, August 3rd, 2026, 5:31:51 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Pluralistic: Dualism (03 Aug 2026)](https://pluralistic.net/2026/08/03/andor/) — *Pluralistic: Daily links from Cory Doctorow* `08-03`
+- [Invisible Problems](https://idiallo.com/blog/invisible-problems) — *Software and Tech stories from an Insider - iDiallo.com* `08-03`
+- [Welcoming the Nepalese Government to Have I Been Pwned](https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/) — *Troy Hunt* `08-03`
 - [Weekly Update 515](https://www.troyhunt.com/weekly-update-515/) — *Troy Hunt* `08-03`
-- [condense-json 1.0](https://simonwillison.net/2026/Aug/2/condense-json/#atom-everything) — *Simon Willison's Weblog* `08-02`
-- [Agent Fone](https://fail.xyz/phone/) — *Daring Fireball* `08-02`
-- [Boris Cherny on Trying to Get Claude Code to Rewrite the Claude App](https://www.ycrootaccess.com/p/boris-cherny-building-claude-code) — *Daring Fireball* `08-02`
-- [Holonomic functions](https://www.johndcook.com/blog/2026/08/02/holonomic-functions/) — *John D. Cook* `08-02`
+- [Review: Job-Less Utopia](https://borretti.me/article/review-job-less-utopia) — *Fernando Borretti* `08-03`
 <!--BLOG_RADAR:end-->
 
 ---

@@ -4,13 +4,41 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 03 Aug 2026 03:36:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 09:58:02 +0000</lastBuildDate>
+    <item>
+      <title>Pluralistic: Dualism (03 Aug 2026)</title>
+      <link>https://pluralistic.net/2026/08/03/andor/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/08/03/andor/</guid>
+      <pubDate>Mon, 03 Aug 2026 08:25:53 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Invisible Problems</title>
+      <link>https://idiallo.com/blog/invisible-problems</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/invisible-problems</guid>
+      <pubDate>Mon, 03 Aug 2026 07:00:00 +0000</pubDate>
+      <description>Software and Tech stories from an Insider - iDiallo.com</description>
+    </item>
+    <item>
+      <title>Welcoming the Nepalese Government to Have I Been Pwned</title>
+      <link>https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/</link>
+      <guid isPermaLink="true">https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/</guid>
+      <pubDate>Mon, 03 Aug 2026 06:38:05 +0000</pubDate>
+      <description>Troy Hunt</description>
+    </item>
     <item>
       <title>Weekly Update 515</title>
       <link>https://www.troyhunt.com/weekly-update-515/</link>
       <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-515/</guid>
       <pubDate>Mon, 03 Aug 2026 00:07:14 +0000</pubDate>
       <description>Troy Hunt</description>
+    </item>
+    <item>
+      <title>Review: Job-Less Utopia</title>
+      <link>https://borretti.me/article/review-job-less-utopia</link>
+      <guid isPermaLink="true">https://borretti.me/article/review-job-less-utopia</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Fernando Borretti</description>
     </item>
     <item>
       <title>condense-json 1.0</title>
@@ -172,6 +200,13 @@
       <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-080126</guid>
       <pubDate>Sat, 01 Aug 2026 12:04:01 +0000</pubDate>
       <description>Construction Physics</description>
+    </item>
+    <item>
+      <title>Gadget Review: HIKMICRO D02 Thermal Camera ★★★★★</title>
+      <link>https://shkspr.mobi/blog/2026/08/gadget-review-hikmicro-d02-thermal-camera/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/gadget-review-hikmicro-d02-thermal-camera/</guid>
+      <pubDate>Sat, 01 Aug 2026 11:34:43 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>This Week in Package Management: 1 August 2026</title>
@@ -454,6 +489,13 @@
       <description>Construction Physics</description>
     </item>
     <item>
+      <title>Are political journalists always wrong?</title>
+      <link>https://shkspr.mobi/blog/2026/07/are-political-journalists-always-wrong/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/are-political-journalists-always-wrong/</guid>
+      <pubDate>Thu, 30 Jul 2026 11:34:31 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>Wheels, Bottles and Images</title>
       <link>https://nesbitt.io/2026/07/30/wheels-bottles-images.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/07/30/wheels-bottles-images.html</guid>
@@ -461,18 +503,18 @@
       <description>Andrew Nesbitt</description>
     </item>
     <item>
-      <title>You have been mislead about lightbulbs</title>
-      <link>https://maurycyz.com/misc/tungsten/</link>
-      <guid isPermaLink="true">https://maurycyz.com/misc/tungsten/</guid>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
-    </item>
-    <item>
       <title>So you want to use plants to reduce indoor CO₂</title>
       <link>https://dynomight.net/plants/</link>
       <guid isPermaLink="true">https://dynomight.net/plants/</guid>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
       <description>DYNOMIGHT</description>
+    </item>
+    <item>
+      <title>You have been mislead about lightbulbs</title>
+      <link>https://maurycyz.com/misc/tungsten/</link>
+      <guid isPermaLink="true">https://maurycyz.com/misc/tungsten/</guid>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
     </item>
     <item>
       <title>Quoting D. Richard Hipp</title>
@@ -671,6 +713,13 @@
       <description>John D. Cook</description>
     </item>
     <item>
+      <title>Google Calendar "Unable to launch event" - caused by missing DTSTAMP</title>
+      <link>https://shkspr.mobi/blog/2026/07/google-calendar-unable-to-launch-event-caused-by-missing-dtstamp/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/google-calendar-unable-to-launch-event-caused-by-missing-dtstamp/</guid>
+      <pubDate>Tue, 28 Jul 2026 11:34:15 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>Pluralistic: Discernment (28 Jul 2026)</title>
       <link>https://pluralistic.net/2026/07/28/hitl-ers/</link>
       <guid isPermaLink="true">https://pluralistic.net/2026/07/28/hitl-ers/</guid>
@@ -795,55 +844,6 @@
       <guid isPermaLink="true">https://pluralistic.net/2026/07/27/eucd-6/</guid>
       <pubDate>Mon, 27 Jul 2026 10:52:03 +0000</pubDate>
       <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Digital circuit simulator in Haskell (SICP 3.3)</title>
-      <link>https://entropicthoughts.com/sicp-3-3-digital-circuit-simulator-in-haskell</link>
-      <guid isPermaLink="true">https://entropicthoughts.com/sicp-3-3-digital-circuit-simulator-in-haskell</guid>
-      <pubDate>Sun, 26 Jul 2026 22:00:00 +0000</pubDate>
-      <description>Entropic Thoughts</description>
-    </item>
-    <item>
-      <title>Permutation roots</title>
-      <link>https://www.johndcook.com/blog/2026/07/26/permutation-roots/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/07/26/permutation-roots/</guid>
-      <pubDate>Sun, 26 Jul 2026 20:32:02 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>An Inside Look at the Relay Market Powering Token Resellers and Fraud</title>
-      <link>https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything</guid>
-      <pubDate>Sun, 26 Jul 2026 19:30:54 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Why $550 Million Medical Debt only Cost $5.5 Million</title>
-      <link>https://idiallo.com/byte-size/550-million-only-cost-5-million</link>
-      <guid isPermaLink="true">https://idiallo.com/byte-size/550-million-only-cost-5-million</guid>
-      <pubDate>Sun, 26 Jul 2026 19:03:04 +0000</pubDate>
-      <description>Software and Tech stories from an Insider - iDiallo.com</description>
-    </item>
-    <item>
-      <title>exp_q</title>
-      <link>https://www.johndcook.com/blog/2026/07/26/exp-q/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/07/26/exp-q/</guid>
-      <pubDate>Sun, 26 Jul 2026 18:20:36 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Weekly Update 514: This Week in Data Breaches</title>
-      <link>https://www.troyhunt.com/weekly-update-514/</link>
-      <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-514/</guid>
-      <pubDate>Sun, 26 Jul 2026 09:14:51 +0000</pubDate>
-      <description>Troy Hunt</description>
-    </item>
-    <item>
-      <title>‘AI Mania Is Eviscerating Global Decision-Making’</title>
-      <link>https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/</link>
-      <guid isPermaLink="true">https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/</guid>
-      <pubDate>Sat, 25 Jul 2026 18:15:12 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
