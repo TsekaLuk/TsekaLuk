@@ -208,11 +208,11 @@ Last Updated: Tuesday, August 4th, 2026, 9:56:17 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Relative velocity and closing speed](https://eli.thegreenplace.net/2026/relative-velocity-and-closing-speed/) — *Eli Bendersky's website* `08-04`
-- [TerminalWidget 1.0](https://terminalwidget.app/) — *Daring Fireball* `08-04`
-- [Quoting Steve Yegge](https://simonwillison.net/2026/Aug/4/steve-yegge/#atom-everything) — *Simon Willison's Weblog* `08-04`
-- [Don't be a meat proxy](https://simonwillison.net/2026/Aug/3/dont-be-a-meat-proxy/#atom-everything) — *Simon Willison's Weblog* `08-03`
-- [[Sponsor] MCP vs. REST: The Right Way to Connect Agents to Your API](https://workos.com/blog/mcp-vs-rest?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026) — *Daring Fireball* `08-03`
+- [Metallic alchemy](https://www.johndcook.com/blog/2026/08/04/metallic-alchemy/) — *John D. Cook* `08-04`
+- [Ratio of metallic ratios](https://www.johndcook.com/blog/2026/08/04/ratio-of-metallic-ratios/) — *John D. Cook* `08-04`
+- [Gig Review: Belle & Sebastian - If You’re Feeling Sinister at Margate Dreamland ★★★★★](https://shkspr.mobi/blog/2026/08/gig-review-belle-sebastian-if-youre-feeling-sinister-at-margate-dreamland/) — *Terence Eden’s Blog* `08-04`
+- [Pluralistic: Post-American compute for a post-American Internet (04 Aug 2026)](https://pluralistic.net/2026/08/04/technology-freedom-cooperative/) — *Pluralistic: Daily links from Cory Doctorow* `08-04`
+- [brew install actions/checkout](https://nesbitt.io/2026/08/04/brew-install-actions-checkout.html) — *Andrew Nesbitt* `08-04`
 <!--BLOG_RADAR:end-->
 
 ---
