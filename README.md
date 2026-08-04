@@ -208,11 +208,11 @@ Last Updated: Wednesday, August 5th, 2026, 3:22:40 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Metallic alchemy](https://www.johndcook.com/blog/2026/08/04/metallic-alchemy/) — *John D. Cook* `08-04`
-- [Ratio of metallic ratios](https://www.johndcook.com/blog/2026/08/04/ratio-of-metallic-ratios/) — *John D. Cook* `08-04`
-- [Gig Review: Belle & Sebastian - If You’re Feeling Sinister at Margate Dreamland ★★★★★](https://shkspr.mobi/blog/2026/08/gig-review-belle-sebastian-if-youre-feeling-sinister-at-margate-dreamland/) — *Terence Eden’s Blog* `08-04`
-- [Pluralistic: Post-American compute for a post-American Internet (04 Aug 2026)](https://pluralistic.net/2026/08/04/technology-freedom-cooperative/) — *Pluralistic: Daily links from Cory Doctorow* `08-04`
-- [brew install actions/checkout](https://nesbitt.io/2026/08/04/brew-install-actions-checkout.html) — *Andrew Nesbitt* `08-04`
+- [PipeNetwork/minimax-h3-mlx](https://simonwillison.net/2026/Aug/4/minimax-h3-mlx/#atom-everything) — *Simon Willison's Weblog* `08-04`
+- [Yours Truly on TBPN Yesterday](https://www.youtube.com/live/ruL8Q-TsbbI?t=4085) — *Daring Fireball* `08-04`
+- [Apple Seeks Preliminary Injunction Against OpenAI in Trade Secrets Case](https://www.reuters.com/legal/litigation/apple-seeks-preliminary-injunction-against-openai-trade-secrets-case-2026-08-04/) — *Daring Fireball* `08-04`
+- [The AI Demand Bubble](https://www.wheresyoured.at/the-ai-demand-bubble/) — *Ed Zitron's Where's Your Ed At* `08-04`
+- [Bending Spoons to Buy Airtable for $1.3 Billion](https://techcrunch.com/2026/08/04/bending-spoons-to-buy-airtable-for-1-28b/) — *Daring Fireball* `08-04`
 <!--BLOG_RADAR:end-->
 
 ---
