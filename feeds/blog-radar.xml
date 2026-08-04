@@ -4,7 +4,63 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 03 Aug 2026 19:46:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 03:19:35 +0000</lastBuildDate>
+    <item>
+      <title>Relative velocity and closing speed</title>
+      <link>https://eli.thegreenplace.net/2026/relative-velocity-and-closing-speed/</link>
+      <guid isPermaLink="true">https://eli.thegreenplace.net/2026/relative-velocity-and-closing-speed/</guid>
+      <pubDate>Tue, 04 Aug 2026 03:01:00 +0000</pubDate>
+      <description>Eli Bendersky's website</description>
+    </item>
+    <item>
+      <title>TerminalWidget 1.0</title>
+      <link>https://terminalwidget.app/</link>
+      <guid isPermaLink="true">https://terminalwidget.app/</guid>
+      <pubDate>Tue, 04 Aug 2026 02:32:33 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Quoting Steve Yegge</title>
+      <link>https://simonwillison.net/2026/Aug/4/steve-yegge/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/4/steve-yegge/#atom-everything</guid>
+      <pubDate>Tue, 04 Aug 2026 00:42:45 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Don't be a meat proxy</title>
+      <link>https://simonwillison.net/2026/Aug/3/dont-be-a-meat-proxy/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/3/dont-be-a-meat-proxy/#atom-everything</guid>
+      <pubDate>Mon, 03 Aug 2026 23:45:04 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>[Sponsor] MCP vs. REST: The Right Way to Connect Agents to Your API</title>
+      <link>https://workos.com/blog/mcp-vs-rest?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</link>
+      <guid isPermaLink="true">https://workos.com/blog/mcp-vs-rest?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</guid>
+      <pubDate>Mon, 03 Aug 2026 22:26:01 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>John Ternus Has Rehired Former Hardware VP Laura Legros</title>
+      <link>https://www.macrumors.com/2026/08/03/apple-john-ternus-hiring-retired-vp/</link>
+      <guid isPermaLink="true">https://www.macrumors.com/2026/08/03/apple-john-ternus-hiring-retired-vp/</guid>
+      <pubDate>Mon, 03 Aug 2026 22:01:41 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>The Information on Apple’s Unusual Use of iCloud for Confidential Work</title>
+      <link>https://www.theinformation.com/articles/apple-icloud-policy-fueled-employee-leaks-ahead-openai-suit?rc=jfy0lk</link>
+      <guid isPermaLink="true">https://www.theinformation.com/articles/apple-icloud-policy-fueled-employee-leaks-ahead-openai-suit?rc=jfy0lk</guid>
+      <pubDate>Mon, 03 Aug 2026 21:45:40 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Om Malik’s Final Essay: ‘The Myth, the Mythos and the Man’</title>
+      <link>https://om.co/2026/06/07/the-myth-the-mythos-and-the-man/</link>
+      <guid isPermaLink="true">https://om.co/2026/06/07/the-myth-the-mythos-and-the-man/</guid>
+      <pubDate>Mon, 03 Aug 2026 20:34:12 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Why smarter AI models could drive up compute prices 10x</title>
       <link>https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive-video</link>
@@ -53,13 +109,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Aug/3/devtools-must-be-open-source-exedev/#atom-everything</guid>
       <pubDate>Mon, 03 Aug 2026 15:30:38 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Book Review: The Field Guide to Understanding 'Human Error' by Sidney Dekker ★★★★☆</title>
-      <link>https://shkspr.mobi/blog/2026/08/book-review-the-field-guide-to-understanding-human-error-by-sidney-dekker/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/book-review-the-field-guide-to-understanding-human-error-by-sidney-dekker/</guid>
-      <pubDate>Mon, 03 Aug 2026 11:34:02 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Pluralistic: Dualism (03 Aug 2026)</title>
@@ -265,13 +314,6 @@
       <description>Construction Physics</description>
     </item>
     <item>
-      <title>Gadget Review: HIKMICRO D02 Thermal Camera ★★★★★</title>
-      <link>https://shkspr.mobi/blog/2026/08/gadget-review-hikmicro-d02-thermal-camera/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/gadget-review-hikmicro-d02-thermal-camera/</guid>
-      <pubDate>Sat, 01 Aug 2026 11:34:43 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>This Week in Package Management: 1 August 2026</title>
       <link>https://nesbitt.io/2026/08/01/this-week-in-package-management.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/08/01/this-week-in-package-management.html</guid>
@@ -377,18 +419,18 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>Making an agile version of a Windows Runtime delegate in C++/WinRT, part 10</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260731-00/?p=112578</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260731-00/?p=112578</guid>
-      <pubDate>Fri, 31 Jul 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
       <title>Getting 25 Gbps Thunderbolt Ethernet on my Mac Studio</title>
       <link>https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/</link>
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/</guid>
       <pubDate>Fri, 31 Jul 2026 14:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>Making an agile version of a Windows Runtime delegate in C++/WinRT, part 10</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260731-00/?p=112578</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260731-00/?p=112578</guid>
+      <pubDate>Fri, 31 Jul 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Pluralistic: Better to beg forgiveness (31 Jul 2026)</title>
@@ -550,13 +592,6 @@
       <guid isPermaLink="true">https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a</guid>
       <pubDate>Thu, 30 Jul 2026 12:04:25 +0000</pubDate>
       <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>Are political journalists always wrong?</title>
-      <link>https://shkspr.mobi/blog/2026/07/are-political-journalists-always-wrong/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/are-political-journalists-always-wrong/</guid>
-      <pubDate>Thu, 30 Jul 2026 11:34:31 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Wheels, Bottles and Images</title>
@@ -727,13 +762,6 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident</title>
-      <link>https://simonwillison.net/2026/Jul/28/anatomy-of-a-frontier-lab-agent-intrusion/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/28/anatomy-of-a-frontier-lab-agent-intrusion/#atom-everything</guid>
-      <pubDate>Tue, 28 Jul 2026 21:28:54 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
       <title>The More You Buy, The More You Lose</title>
       <link>https://www.wheresyoured.at/the-more-you-buy-the-more-you-lose/</link>
       <guid isPermaLink="true">https://www.wheresyoured.at/the-more-you-buy-the-more-you-lose/</guid>
@@ -776,13 +804,6 @@
       <description>John D. Cook</description>
     </item>
     <item>
-      <title>Google Calendar "Unable to launch event" - caused by missing DTSTAMP</title>
-      <link>https://shkspr.mobi/blog/2026/07/google-calendar-unable-to-launch-event-caused-by-missing-dtstamp/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/google-calendar-unable-to-launch-event-caused-by-missing-dtstamp/</guid>
-      <pubDate>Tue, 28 Jul 2026 11:34:15 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>Pluralistic: Discernment (28 Jul 2026)</title>
       <link>https://pluralistic.net/2026/07/28/hitl-ers/</link>
       <guid isPermaLink="true">https://pluralistic.net/2026/07/28/hitl-ers/</guid>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://borretti.me/article/when-the-future-doesnt-need-us</guid>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
       <description>Fernando Borretti</description>
-    </item>
-    <item>
-      <title>The inliner is yielding benefits for ZJIT</title>
-      <link>https://bernsteinbear.com/blog/zjit-inliner-invokeblock/?utm_source=rss</link>
-      <guid isPermaLink="true">https://bernsteinbear.com/blog/zjit-inliner-invokeblock/?utm_source=rss</guid>
-      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Max Bernstein's Blog</description>
-    </item>
-    <item>
-      <title>moonshotai/Kimi-K3</title>
-      <link>https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything</guid>
-      <pubDate>Mon, 27 Jul 2026 23:39:04 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Hiding data in permutations</title>
-      <link>https://www.johndcook.com/blog/2026/07/27/hiding-data-in-permutations/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/07/27/hiding-data-in-permutations/</guid>
-      <pubDate>Mon, 27 Jul 2026 23:08:59 +0000</pubDate>
-      <description>John D. Cook</description>
     </item>
   </channel>
 </rss>

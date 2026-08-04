@@ -208,11 +208,11 @@ Last Updated: Tuesday, August 4th, 2026, 9:58:21 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Why smarter AI models could drive up compute prices 10x](https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive-video) — *Dwarkesh Podcast* `08-03`
-- [★ Why Apple Requires a Cellular Account Through a Big Three Carrier to Lease an iPhone](https://daringfireball.net/2026/08/followup_big_three_carrier_requirement) — *Daring Fireball* `08-03`
-- [Ulysses S. Grant on the Future Dividing Line](https://www.snopes.com/fact-check/grant-next-civil-war/) — *Daring Fireball* `08-03`
-- [Quoting David Crawshaw's prompt](https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything) — *Simon Willison's Weblog* `08-03`
-- [Agentic coding techniques](https://micahflee.com/agentic-coding-techniques/) — *micahflee* `08-03`
+- [Relative velocity and closing speed](https://eli.thegreenplace.net/2026/relative-velocity-and-closing-speed/) — *Eli Bendersky's website* `08-04`
+- [TerminalWidget 1.0](https://terminalwidget.app/) — *Daring Fireball* `08-04`
+- [Quoting Steve Yegge](https://simonwillison.net/2026/Aug/4/steve-yegge/#atom-everything) — *Simon Willison's Weblog* `08-04`
+- [Don't be a meat proxy](https://simonwillison.net/2026/Aug/3/dont-be-a-meat-proxy/#atom-everything) — *Simon Willison's Weblog* `08-03`
+- [[Sponsor] MCP vs. REST: The Right Way to Connect Agents to Your API](https://workos.com/blog/mcp-vs-rest?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026) — *Daring Fireball* `08-03`
 <!--BLOG_RADAR:end-->
 
 ---
