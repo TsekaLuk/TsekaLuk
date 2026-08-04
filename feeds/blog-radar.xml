@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 04 Aug 2026 03:19:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 08:48:09 +0000</lastBuildDate>
     <item>
       <title>Relative velocity and closing speed</title>
       <link>https://eli.thegreenplace.net/2026/relative-velocity-and-closing-speed/</link>
@@ -109,6 +109,20 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Aug/3/devtools-must-be-open-source-exedev/#atom-everything</guid>
       <pubDate>Mon, 03 Aug 2026 15:30:38 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Creating a fake agile wrapper that is technically agile but is not useful outside its home apartment, part 1</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260803-00/?p=112582</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260803-00/?p=112582</guid>
+      <pubDate>Mon, 03 Aug 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>Book Review: The Field Guide to Understanding 'Human Error' by Sidney Dekker ★★★★☆</title>
+      <link>https://shkspr.mobi/blog/2026/08/book-review-the-field-guide-to-understanding-human-error-by-sidney-dekker/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/book-review-the-field-guide-to-understanding-human-error-by-sidney-dekker/</guid>
+      <pubDate>Mon, 03 Aug 2026 11:34:02 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Pluralistic: Dualism (03 Aug 2026)</title>
@@ -312,6 +326,13 @@
       <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-080126</guid>
       <pubDate>Sat, 01 Aug 2026 12:04:01 +0000</pubDate>
       <description>Construction Physics</description>
+    </item>
+    <item>
+      <title>Gadget Review: HIKMICRO D02 Thermal Camera ★★★★★</title>
+      <link>https://shkspr.mobi/blog/2026/08/gadget-review-hikmicro-d02-thermal-camera/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/gadget-review-hikmicro-d02-thermal-camera/</guid>
+      <pubDate>Sat, 01 Aug 2026 11:34:43 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>This Week in Package Management: 1 August 2026</title>
@@ -594,6 +615,13 @@
       <description>Construction Physics</description>
     </item>
     <item>
+      <title>Are political journalists always wrong?</title>
+      <link>https://shkspr.mobi/blog/2026/07/are-political-journalists-always-wrong/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/are-political-journalists-always-wrong/</guid>
+      <pubDate>Thu, 30 Jul 2026 11:34:31 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>Wheels, Bottles and Images</title>
       <link>https://nesbitt.io/2026/07/30/wheels-bottles-images.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/07/30/wheels-bottles-images.html</guid>
@@ -804,46 +832,18 @@
       <description>John D. Cook</description>
     </item>
     <item>
+      <title>Google Calendar "Unable to launch event" - caused by missing DTSTAMP</title>
+      <link>https://shkspr.mobi/blog/2026/07/google-calendar-unable-to-launch-event-caused-by-missing-dtstamp/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/07/google-calendar-unable-to-launch-event-caused-by-missing-dtstamp/</guid>
+      <pubDate>Tue, 28 Jul 2026 11:34:15 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>Pluralistic: Discernment (28 Jul 2026)</title>
       <link>https://pluralistic.net/2026/07/28/hitl-ers/</link>
       <guid isPermaLink="true">https://pluralistic.net/2026/07/28/hitl-ers/</guid>
       <pubDate>Tue, 28 Jul 2026 10:44:03 +0000</pubDate>
       <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Why npm Dependency Trees Are So Big</title>
-      <link>https://nesbitt.io/2026/07/28/why-npm-dependency-trees-are-so-big.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/07/28/why-npm-dependency-trees-are-so-big.html</guid>
-      <pubDate>Tue, 28 Jul 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>The real AI risk is inside the labs</title>
-      <link>http://antirez.com/news/172</link>
-      <guid isPermaLink="true">http://antirez.com/news/172</guid>
-      <pubDate>Tue, 28 Jul 2026 09:00:11 +0000</pubDate>
-      <description>&lt;antirez&gt;</description>
-    </item>
-    <item>
-      <title>‘Always Choose the Good Soap’</title>
-      <link>https://sixcolors.com/post/2026/07/always-choose-the-good-soap/</link>
-      <guid isPermaLink="true">https://sixcolors.com/post/2026/07/always-choose-the-good-soap/</guid>
-      <pubDate>Tue, 28 Jul 2026 01:13:55 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Does every question mark deserve a Betteridge?</title>
-      <link>https://dynomight.net/betteridge/</link>
-      <guid isPermaLink="true">https://dynomight.net/betteridge/</guid>
-      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
-    </item>
-    <item>
-      <title>When The Future Doesn’t Need Us</title>
-      <link>https://borretti.me/article/when-the-future-doesnt-need-us</link>
-      <guid isPermaLink="true">https://borretti.me/article/when-the-future-doesnt-need-us</guid>
-      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Fernando Borretti</description>
     </item>
   </channel>
 </rss>
