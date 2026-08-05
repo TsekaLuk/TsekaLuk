@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 05 Aug 2026 08:45:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 14:23:21 +0000</lastBuildDate>
+    <item>
+      <title>Committing to creativity</title>
+      <link>https://herman.bearblog.dev/creativity/</link>
+      <guid isPermaLink="true">https://herman.bearblog.dev/creativity/</guid>
+      <pubDate>Wed, 05 Aug 2026 12:04:00 +0000</pubDate>
+      <description>Herman's blog</description>
+    </item>
+    <item>
+      <title>Gadget Review: T2 Max plug-in Thermal Camera ★★★⯪☆</title>
+      <link>https://shkspr.mobi/blog/2026/08/gadget-review-t2-max-plug-in-thermal-camera/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/gadget-review-t2-max-plug-in-thermal-camera/</guid>
+      <pubDate>Wed, 05 Aug 2026 11:34:17 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Pluralistic: Google is a scammer's paradise (05 Aug 2026)</title>
+      <link>https://pluralistic.net/2026/08/05/absentee-landlord/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/08/05/absentee-landlord/</guid>
+      <pubDate>Wed, 05 Aug 2026 10:50:43 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
     <item>
       <title>New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging</title>
       <link>https://simonwillison.net/2026/Aug/4/new-release-of-llm/#atom-everything</link>
@@ -559,18 +580,18 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>Getting 25 Gbps Thunderbolt Ethernet on my Mac Studio</title>
-      <link>https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/</guid>
-      <pubDate>Fri, 31 Jul 2026 14:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
       <title>Making an agile version of a Windows Runtime delegate in C++/WinRT, part 10</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260731-00/?p=112578</link>
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260731-00/?p=112578</guid>
       <pubDate>Fri, 31 Jul 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>Getting 25 Gbps Thunderbolt Ethernet on my Mac Studio</title>
+      <link>https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/</guid>
+      <pubDate>Fri, 31 Jul 2026 14:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
     </item>
     <item>
       <title>Pluralistic: Better to beg forgiveness (31 Jul 2026)</title>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/</guid>
       <pubDate>Wed, 29 Jul 2026 15:28:02 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Why compute might get 10x+ more expensive in coming years</title>
-      <link>https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive</link>
-      <guid isPermaLink="true">https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive</guid>
-      <pubDate>Wed, 29 Jul 2026 15:01:35 +0000</pubDate>
-      <description>Dwarkesh Podcast</description>
-    </item>
-    <item>
-      <title>‘eBay’s Bizarre Cyberstalking Saga Ends With a $56 Million Settlement’</title>
-      <link>https://www.theverge.com/tech/972209/ebay-cyberstalking-harassment-settlement</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/972209/ebay-cyberstalking-harassment-settlement</guid>
-      <pubDate>Wed, 29 Jul 2026 14:43:24 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Making an agile version of a Windows Runtime delegate in C++/WinRT, part 8</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260729-00/?p=112570</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260729-00/?p=112570</guid>
-      <pubDate>Wed, 29 Jul 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
     </item>
   </channel>
 </rss>

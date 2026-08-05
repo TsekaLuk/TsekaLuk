@@ -208,11 +208,11 @@ Last Updated: Wednesday, August 5th, 2026, 9:53:38 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Committing to creativity](https://herman.bearblog.dev/creativity/) — *Herman's blog* `08-05`
+- [Gadget Review: T2 Max plug-in Thermal Camera ★★★⯪☆](https://shkspr.mobi/blog/2026/08/gadget-review-t2-max-plug-in-thermal-camera/) — *Terence Eden’s Blog* `08-05`
+- [Pluralistic: Google is a scammer's paradise (05 Aug 2026)](https://pluralistic.net/2026/08/05/absentee-landlord/) — *Pluralistic: Daily links from Cory Doctorow* `08-05`
 - [New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging](https://simonwillison.net/2026/Aug/4/new-release-of-llm/#atom-everything) — *Simon Willison's Weblog* `08-04`
 - [★ OpenAI Responds to Apple’s Lawsuit and Motion for Preliminary Injunction: ‘Apple Is Getting This Wrong’](https://daringfireball.net/2026/08/openai_apple_is_getting_this_wrong) — *Daring Fireball* `08-04`
-- [llm-anthropic 0.26](https://simonwillison.net/2026/Aug/4/llm-anthropic/#atom-everything) — *Simon Willison's Weblog* `08-04`
-- [Purely functional digital circuit simulator (SICP 3.3)](https://entropicthoughts.com/sicp-3-3-pure-digital-circuit-simulator) — *Entropic Thoughts* `08-04`
-- [PipeNetwork/minimax-h3-mlx](https://simonwillison.net/2026/Aug/4/minimax-h3-mlx/#atom-everything) — *Simon Willison's Weblog* `08-04`
 <!--BLOG_RADAR:end-->
 
 ---
