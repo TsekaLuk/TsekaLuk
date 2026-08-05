@@ -208,11 +208,11 @@ Last Updated: Wednesday, August 5th, 2026, 9:57:47 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging](https://simonwillison.net/2026/Aug/4/new-release-of-llm/#atom-everything) — *Simon Willison's Weblog* `08-04`
+- [★ OpenAI Responds to Apple’s Lawsuit and Motion for Preliminary Injunction: ‘Apple Is Getting This Wrong’](https://daringfireball.net/2026/08/openai_apple_is_getting_this_wrong) — *Daring Fireball* `08-04`
+- [llm-anthropic 0.26](https://simonwillison.net/2026/Aug/4/llm-anthropic/#atom-everything) — *Simon Willison's Weblog* `08-04`
 - [PipeNetwork/minimax-h3-mlx](https://simonwillison.net/2026/Aug/4/minimax-h3-mlx/#atom-everything) — *Simon Willison's Weblog* `08-04`
 - [Yours Truly on TBPN Yesterday](https://www.youtube.com/live/ruL8Q-TsbbI?t=4085) — *Daring Fireball* `08-04`
-- [Apple Seeks Preliminary Injunction Against OpenAI in Trade Secrets Case](https://www.reuters.com/legal/litigation/apple-seeks-preliminary-injunction-against-openai-trade-secrets-case-2026-08-04/) — *Daring Fireball* `08-04`
-- [The AI Demand Bubble](https://www.wheresyoured.at/the-ai-demand-bubble/) — *Ed Zitron's Where's Your Ed At* `08-04`
-- [Bending Spoons to Buy Airtable for $1.3 Billion](https://techcrunch.com/2026/08/04/bending-spoons-to-buy-airtable-for-1-28b/) — *Daring Fireball* `08-04`
 <!--BLOG_RADAR:end-->
 
 ---
