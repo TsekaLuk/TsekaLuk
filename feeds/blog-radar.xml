@@ -4,7 +4,77 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 05 Aug 2026 14:23:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 19:44:29 +0000</lastBuildDate>
+    <item>
+      <title>One-shotting a Raccoon Heist game using Claude Fable 5</title>
+      <link>https://simonwillison.net/2026/Aug/5/raccoon-heist/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/5/raccoon-heist/#atom-everything</guid>
+      <pubDate>Wed, 05 Aug 2026 19:42:38 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Apple News Ad of the Week</title>
+      <link>https://mastodon.social/@gruber/117044545772667716</link>
+      <guid isPermaLink="true">https://mastodon.social/@gruber/117044545772667716</guid>
+      <pubDate>Wed, 05 Aug 2026 19:29:49 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>News: Microsoft Disclosures Suggest OpenAI Sales Account For Around 70% Of FY26 AI Revenue, more than 7% of FY26 Revenue</title>
+      <link>https://www.wheresyoured.at/news-microsoft-disclosures-suggest-openai-sales-account-for-around-70-of-fy26-ai-revenue-more-than-7-of-fy26-revenue/</link>
+      <guid isPermaLink="true">https://www.wheresyoured.at/news-microsoft-disclosures-suggest-openai-sales-account-for-around-70-of-fy26-ai-revenue-more-than-7-of-fy26-revenue/</guid>
+      <pubDate>Wed, 05 Aug 2026 18:41:14 +0000</pubDate>
+      <description>Ed Zitron's Where's Your Ed At</description>
+    </item>
+    <item>
+      <title>The code that didn’t break</title>
+      <link>https://www.johndcook.com/blog/2026/08/05/math-log/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/05/math-log/</guid>
+      <pubDate>Wed, 05 Aug 2026 18:26:25 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Proxmox officially supports Arm, with some caveats</title>
+      <link>https://www.jeffgeerling.com/blog/2026/proxmox-ve-arm-official/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/proxmox-ve-arm-official/</guid>
+      <pubDate>Wed, 05 Aug 2026 16:50:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>Paul Thurrott Reviews the HP OmniBook Ultra 14, With Qualcomm’s Snapdragon X2</title>
+      <link>https://www.thurrott.com/mobile/copilot-pc/340107/hp-omnibook-ultra-14-snapdragon-x2-review</link>
+      <guid isPermaLink="true">https://www.thurrott.com/mobile/copilot-pc/340107/hp-omnibook-ultra-14-snapdragon-x2-review</guid>
+      <pubDate>Wed, 05 Aug 2026 15:41:32 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>How Compiler Explorer Runs on AWS in 2026</title>
+      <link>http://xania.org/202608/how-compiler-explorer-runs-on-aws?utm_source=feed&amp;utm_medium=rss</link>
+      <guid isPermaLink="true">http://xania.org/202608/how-compiler-explorer-runs-on-aws?utm_source=feed&amp;utm_medium=rss</guid>
+      <pubDate>Wed, 05 Aug 2026 15:19:00 +0000</pubDate>
+      <description>Matt Godbolt’s blog</description>
+    </item>
+    <item>
+      <title>Hacker News Thread on OpenAI’s ‘Apple Is Getting This Wrong’ Post</title>
+      <link>https://news.ycombinator.com/item?id=49164649</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49164649</guid>
+      <pubDate>Wed, 05 Aug 2026 14:57:47 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Incentives are for losers</title>
+      <link>https://www.experimental-history.com/p/incentives-are-for-losers</link>
+      <guid isPermaLink="true">https://www.experimental-history.com/p/incentives-are-for-losers</guid>
+      <pubDate>Wed, 05 Aug 2026 14:54:40 +0000</pubDate>
+      <description>Experimental History</description>
+    </item>
+    <item>
+      <title>Enumerating trees and circles</title>
+      <link>https://www.johndcook.com/blog/2026/08/05/enumerating-trees-and-circles/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/05/enumerating-trees-and-circles/</guid>
+      <pubDate>Wed, 05 Aug 2026 14:49:35 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
     <item>
       <title>Committing to creativity</title>
       <link>https://herman.bearblog.dev/creativity/</link>
@@ -580,18 +650,18 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>Making an agile version of a Windows Runtime delegate in C++/WinRT, part 10</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260731-00/?p=112578</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260731-00/?p=112578</guid>
-      <pubDate>Fri, 31 Jul 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
       <title>Getting 25 Gbps Thunderbolt Ethernet on my Mac Studio</title>
       <link>https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/</link>
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/</guid>
       <pubDate>Fri, 31 Jul 2026 14:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>Making an agile version of a Windows Runtime delegate in C++/WinRT, part 10</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260731-00/?p=112578</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260731-00/?p=112578</guid>
+      <pubDate>Fri, 31 Jul 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Pluralistic: Better to beg forgiveness (31 Jul 2026)</title>
@@ -774,76 +844,6 @@
       <guid isPermaLink="true">https://maurycyz.com/misc/tungsten/</guid>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
       <description>Maurycy's Blog</description>
-    </item>
-    <item>
-      <title>So you want to use plants to reduce indoor CO₂</title>
-      <link>https://dynomight.net/plants/</link>
-      <guid isPermaLink="true">https://dynomight.net/plants/</guid>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
-    </item>
-    <item>
-      <title>Quoting D. Richard Hipp</title>
-      <link>https://simonwillison.net/2026/Jul/29/d-richard-hipp/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/29/d-richard-hipp/#atom-everything</guid>
-      <pubDate>Wed, 29 Jul 2026 21:15:21 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Apple Says iOS 27 ‘Restricted Mode’ Isn’t for Users Who Miss Payments in New Apple Upgrade Program</title>
-      <link>https://9to5mac.com/2026/07/28/apple-says-ios-27-restricted-mode-isnt-for-new-upgrade-program-leases/</link>
-      <guid isPermaLink="true">https://9to5mac.com/2026/07/28/apple-says-ios-27-restricted-mode-isnt-for-new-upgrade-program-leases/</guid>
-      <pubDate>Wed, 29 Jul 2026 20:56:33 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The AI Aesthetic</title>
-      <link>https://blog.jim-nielsen.com/2026/ai-aesthetic/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/ai-aesthetic/</guid>
-      <pubDate>Wed, 29 Jul 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
-      <title>AI Worming through Word</title>
-      <link>https://simonwillison.net/2026/Jul/29/ai-worming-through-word/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Jul/29/ai-worming-through-word/#atom-everything</guid>
-      <pubDate>Wed, 29 Jul 2026 18:43:03 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Apple Upgrade — New Program With Klarna for Leasing iPhones, Macs, iPads, and More for Near-Zero Interest</title>
-      <link>https://www.apple.com/newsroom/2026/07/apple-upgrade-launches-in-the-united-states/</link>
-      <guid isPermaLink="true">https://www.apple.com/newsroom/2026/07/apple-upgrade-launches-in-the-united-states/</guid>
-      <pubDate>Wed, 29 Jul 2026 16:51:15 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Pastebot 3</title>
-      <link>https://tapbots.com/pastebot/</link>
-      <guid isPermaLink="true">https://tapbots.com/pastebot/</guid>
-      <pubDate>Wed, 29 Jul 2026 16:07:03 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Logic for Programmers is Done</title>
-      <link>https://buttondown.com/hillelwayne/archive/logic-for-programmers-is-done/</link>
-      <guid isPermaLink="true">https://buttondown.com/hillelwayne/archive/logic-for-programmers-is-done/</guid>
-      <pubDate>Wed, 29 Jul 2026 15:43:52 +0000</pubDate>
-      <description>Computer Things</description>
-    </item>
-    <item>
-      <title>Why do OpenAI's GPT-2 weights beat mine?</title>
-      <link>https://www.gilesthomas.com/2026/07/why-do-openai-gpt2-weights-beat-mine-1-intro</link>
-      <guid isPermaLink="true">https://www.gilesthomas.com/2026/07/why-do-openai-gpt2-weights-beat-mine-1-intro</guid>
-      <pubDate>Wed, 29 Jul 2026 15:30:00 +0000</pubDate>
-      <description>Giles' blog</description>
-    </item>
-    <item>
-      <title>Count Those Underscores</title>
-      <link>https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/</link>
-      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/</guid>
-      <pubDate>Wed, 29 Jul 2026 15:28:02 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>

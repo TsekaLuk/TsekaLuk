@@ -208,11 +208,11 @@ Last Updated: Thursday, August 6th, 2026, 3:21:03 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Committing to creativity](https://herman.bearblog.dev/creativity/) — *Herman's blog* `08-05`
-- [Gadget Review: T2 Max plug-in Thermal Camera ★★★⯪☆](https://shkspr.mobi/blog/2026/08/gadget-review-t2-max-plug-in-thermal-camera/) — *Terence Eden’s Blog* `08-05`
-- [Pluralistic: Google is a scammer's paradise (05 Aug 2026)](https://pluralistic.net/2026/08/05/absentee-landlord/) — *Pluralistic: Daily links from Cory Doctorow* `08-05`
-- [New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging](https://simonwillison.net/2026/Aug/4/new-release-of-llm/#atom-everything) — *Simon Willison's Weblog* `08-04`
-- [★ OpenAI Responds to Apple’s Lawsuit and Motion for Preliminary Injunction: ‘Apple Is Getting This Wrong’](https://daringfireball.net/2026/08/openai_apple_is_getting_this_wrong) — *Daring Fireball* `08-04`
+- [One-shotting a Raccoon Heist game using Claude Fable 5](https://simonwillison.net/2026/Aug/5/raccoon-heist/#atom-everything) — *Simon Willison's Weblog* `08-05`
+- [Apple News Ad of the Week](https://mastodon.social/@gruber/117044545772667716) — *Daring Fireball* `08-05`
+- [News: Microsoft Disclosures Suggest OpenAI Sales Account For Around 70% Of FY26 AI Revenue, more than 7% of FY26 Revenue](https://www.wheresyoured.at/news-microsoft-disclosures-suggest-openai-sales-account-for-around-70-of-fy26-ai-revenue-more-than-7-of-fy26-revenue/) — *Ed Zitron's Where's Your Ed At* `08-05`
+- [The code that didn’t break](https://www.johndcook.com/blog/2026/08/05/math-log/) — *John D. Cook* `08-05`
+- [Proxmox officially supports Arm, with some caveats](https://www.jeffgeerling.com/blog/2026/proxmox-ve-arm-official/) — *Jeff Geerling* `08-05`
 <!--BLOG_RADAR:end-->
 
 ---
