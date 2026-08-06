@@ -208,11 +208,11 @@ Last Updated: Thursday, August 6th, 2026, 9:51:17 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Calculating log(1000!)](https://www.johndcook.com/blog/2026/08/06/log1000/) — *John D. Cook* `08-06`
+- [What Will the 21st Century ROAD to Housing Act Do for Housing Supply?](https://www.construction-physics.com/p/what-will-the-21st-century-road-to) — *Construction Physics* `08-06`
+- [Pluralistic: Eternal Sloptember (06 Aug 2026)](https://pluralistic.net/2026/08/06/sin-is-when/) — *Pluralistic: Daily links from Cory Doctorow* `08-06`
 - [An AI model from Meta also hacked another company during testing](https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything) — *Simon Willison's Weblog* `08-06`
 - [A year of AI disclosure in critical packages](https://nesbitt.io/2026/08/06/a-year-of-ai-disclosure-in-critical-packages.html) — *Andrew Nesbitt* `08-06`
-- [Introducing Muse Code and Muse Spark 1.2](https://simonwillison.net/2026/Aug/5/muse-code-and-muse-spark-12/#atom-everything) — *Simon Willison's Weblog* `08-05`
-- [Third-party cyber evaluations involving OpenAI models](https://simonwillison.net/2026/Aug/5/third-party-cyber-evaluations/#atom-everything) — *Simon Willison's Weblog* `08-05`
-- [Incident Report: unsanctioned agent behaviour during cyber testing](https://simonwillison.net/2026/Aug/5/incident-report/#atom-everything) — *Simon Willison's Weblog* `08-05`
 <!--BLOG_RADAR:end-->
 
 ---
