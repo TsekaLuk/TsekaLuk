@@ -208,11 +208,11 @@ Last Updated: Thursday, August 6th, 2026, 10:01:31 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [One-shotting a Raccoon Heist game using Claude Fable 5](https://simonwillison.net/2026/Aug/5/raccoon-heist/#atom-everything) — *Simon Willison's Weblog* `08-05`
-- [Apple News Ad of the Week](https://mastodon.social/@gruber/117044545772667716) — *Daring Fireball* `08-05`
-- [News: Microsoft Disclosures Suggest OpenAI Sales Account For Around 70% Of FY26 AI Revenue, more than 7% of FY26 Revenue](https://www.wheresyoured.at/news-microsoft-disclosures-suggest-openai-sales-account-for-around-70-of-fy26-ai-revenue-more-than-7-of-fy26-revenue/) — *Ed Zitron's Where's Your Ed At* `08-05`
-- [The code that didn’t break](https://www.johndcook.com/blog/2026/08/05/math-log/) — *John D. Cook* `08-05`
-- [Proxmox officially supports Arm, with some caveats](https://www.jeffgeerling.com/blog/2026/proxmox-ve-arm-official/) — *Jeff Geerling* `08-05`
+- [An AI model from Meta also hacked another company during testing](https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything) — *Simon Willison's Weblog* `08-06`
+- [A year of AI disclosure in critical packages](https://nesbitt.io/2026/08/06/a-year-of-ai-disclosure-in-critical-packages.html) — *Andrew Nesbitt* `08-06`
+- [Introducing Muse Code and Muse Spark 1.2](https://simonwillison.net/2026/Aug/5/muse-code-and-muse-spark-12/#atom-everything) — *Simon Willison's Weblog* `08-05`
+- [Third-party cyber evaluations involving OpenAI models](https://simonwillison.net/2026/Aug/5/third-party-cyber-evaluations/#atom-everything) — *Simon Willison's Weblog* `08-05`
+- [Incident Report: unsanctioned agent behaviour during cyber testing](https://simonwillison.net/2026/Aug/5/incident-report/#atom-everything) — *Simon Willison's Weblog* `08-05`
 <!--BLOG_RADAR:end-->
 
 ---
