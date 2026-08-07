@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 07 Aug 2026 00:08:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 07:25:57 +0000</lastBuildDate>
+    <item>
+      <title>The Contracting Circle</title>
+      <link>https://borretti.me/article/the-contracting-circle</link>
+      <guid isPermaLink="true">https://borretti.me/article/the-contracting-circle</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Fernando Borretti</description>
+    </item>
     <item>
       <title>Gurman on OpenAI’s Device: ‘A Doughnut-Shaped Speaker That Costs Over $300’</title>
       <link>https://www.bloomberg.com/news/articles/2026-08-06/what-is-openai-s-device-a-doughnut-shaped-speaker-that-costs-over-300?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NjA0NjY3NSwiZXhwIjoxNzg2NjUxNDc1LCJhcnRpY2xlSWQiOiJUSjlNQ01UOU5KTFUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.pj0oCNz7Ez90rn67tMWib-ed2PxcUAhAG2-hlVQ_DRg&amp;leadSource=article-gifting</link>
@@ -90,6 +97,13 @@
       <description>Daring Fireball</description>
     </item>
     <item>
+      <title>Creating a fake agile wrapper that is technically agile but is not useful outside its home apartment, part 4</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260806-00/?p=112595</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260806-00/?p=112595</guid>
+      <pubDate>Thu, 06 Aug 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
+    <item>
       <title>Calculating log(1000!)</title>
       <link>https://www.johndcook.com/blog/2026/08/06/log1000/</link>
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/06/log1000/</guid>
@@ -118,18 +132,18 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>Zig's Io.Threaded is Neat</title>
-      <link>https://matklad.github.io/2026/08/06/neat-io-threaded.html</link>
-      <guid isPermaLink="true">https://matklad.github.io/2026/08/06/neat-io-threaded.html</guid>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <description>matklad</description>
-    </item>
-    <item>
       <title>SigV4 authentication is surprisingly complicated</title>
       <link>https://www.tigrisdata.com/blog/sigv4/</link>
       <guid isPermaLink="true">https://www.tigrisdata.com/blog/sigv4/</guid>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>Zig's Io.Threaded is Neat</title>
+      <link>https://matklad.github.io/2026/08/06/neat-io-threaded.html</link>
+      <guid isPermaLink="true">https://matklad.github.io/2026/08/06/neat-io-threaded.html</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description>matklad</description>
     </item>
     <item>
       <title>A year of AI disclosure in critical packages</title>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://www.filfre.net/2026/07/y2k-will-be-quite-okay/</guid>
       <pubDate>Fri, 31 Jul 2026 16:06:39 +0000</pubDate>
       <description>The Digital Antiquarian</description>
-    </item>
-    <item>
-      <title>Energizing a vacuum-tube flip-flop module from a 1948 IBM system</title>
-      <link>http://www.righto.com/2026/07/ibm-604-trigger-tube-module.html</link>
-      <guid isPermaLink="true">http://www.righto.com/2026/07/ibm-604-trigger-tube-module.html</guid>
-      <pubDate>Fri, 31 Jul 2026 16:04:31 +0000</pubDate>
-      <description>Ken Shirriff's blog</description>
-    </item>
-    <item>
-      <title>Premium: AI Is Getting Way Too Expensive</title>
-      <link>https://www.wheresyoured.at/premium-ai-is-getting-way-too-expensive/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/premium-ai-is-getting-way-too-expensive/</guid>
-      <pubDate>Fri, 31 Jul 2026 15:53:49 +0000</pubDate>
-      <description>Ed Zitron's Where's Your Ed At</description>
     </item>
   </channel>
 </rss>
