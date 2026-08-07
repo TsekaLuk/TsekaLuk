@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 07 Aug 2026 07:25:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 13:17:38 +0000</lastBuildDate>
+    <item>
+      <title>Metadata for AI Generated Outputs</title>
+      <link>https://shkspr.mobi/blog/2026/08/metadata-for-ai-generated-outputs/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/metadata-for-ai-generated-outputs/</guid>
+      <pubDate>Fri, 07 Aug 2026 11:34:30 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>The Software Stewardship Lab</title>
+      <link>https://nesbitt.io/2026/08/07/the-software-stewardship-lab.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/08/07/the-software-stewardship-lab.html</guid>
+      <pubDate>Fri, 07 Aug 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>How to keep thinking</title>
+      <link>https://seangoedecke.com/how-to-keep-thinking/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/how-to-keep-thinking/</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
+    </item>
     <item>
       <title>The Contracting Circle</title>
       <link>https://borretti.me/article/the-contracting-circle</link>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://www.gilesthomas.com/2026/07/ai-use</guid>
       <pubDate>Fri, 31 Jul 2026 19:00:00 +0000</pubDate>
       <description>Giles' blog</description>
-    </item>
-    <item>
-      <title>Solving the RK4 design equations</title>
-      <link>https://www.johndcook.com/blog/2026/07/31/runge-kutta-design/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/07/31/runge-kutta-design/</guid>
-      <pubDate>Fri, 31 Jul 2026 18:59:02 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>★ Temu Is a Comically Bad App</title>
-      <link>https://daringfireball.net/2026/07/temu_is_a_comically_bad_app</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/07/temu_is_a_comically_bad_app</guid>
-      <pubDate>Fri, 31 Jul 2026 18:27:50 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Y2K Will Be Quite Okay</title>
-      <link>https://www.filfre.net/2026/07/y2k-will-be-quite-okay/</link>
-      <guid isPermaLink="true">https://www.filfre.net/2026/07/y2k-will-be-quite-okay/</guid>
-      <pubDate>Fri, 31 Jul 2026 16:06:39 +0000</pubDate>
-      <description>The Digital Antiquarian</description>
     </item>
   </channel>
 </rss>

@@ -208,11 +208,11 @@ Last Updated: Friday, August 7th, 2026, 8:50:04 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Metadata for AI Generated Outputs](https://shkspr.mobi/blog/2026/08/metadata-for-ai-generated-outputs/) — *Terence Eden’s Blog* `08-07`
+- [The Software Stewardship Lab](https://nesbitt.io/2026/08/07/the-software-stewardship-lab.html) — *Andrew Nesbitt* `08-07`
+- [How to keep thinking](https://seangoedecke.com/how-to-keep-thinking/) — *seangoedecke.com RSS feed* `08-07`
 - [The Contracting Circle](https://borretti.me/article/the-contracting-circle) — *Fernando Borretti* `08-07`
 - [Gurman on OpenAI’s Device: ‘A Doughnut-Shaped Speaker That Costs Over $300’](https://www.bloomberg.com/news/articles/2026-08-06/what-is-openai-s-device-a-doughnut-shaped-speaker-that-costs-over-300?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NjA0NjY3NSwiZXhwIjoxNzg2NjUxNDc1LCJhcnRpY2xlSWQiOiJUSjlNQ01UOU5KTFUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.pj0oCNz7Ez90rn67tMWib-ed2PxcUAhAG2-hlVQ_DRg&leadSource=article-gifting) — *Daring Fireball* `08-06`
-- [OpenAI Files 28-Page Motion to Dismiss Apple’s Lawsuit (PDF Link)](https://storage.courtlistener.com/recap/gov.uscourts.cand.474095/gov.uscourts.cand.474095.59.0.pdf) — *Daring Fireball* `08-06`
-- [Brendan Leonard: ‘Do It 14,000 Times Slower With This One Trick’](https://semi-rad.com/2026/08/do-it-14000-times-slower-with-this-one-trick/) — *Daring Fireball* `08-06`
-- [datasette 1.0a38](https://simonwillison.net/2026/Aug/6/datasette/#atom-everything) — *Simon Willison's Weblog* `08-06`
 <!--BLOG_RADAR:end-->
 
 ---
