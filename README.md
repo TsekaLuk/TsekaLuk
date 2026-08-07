@@ -208,11 +208,11 @@ Last Updated: Saturday, August 8th, 2026, 2:45:39 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Metadata for AI Generated Outputs](https://shkspr.mobi/blog/2026/08/metadata-for-ai-generated-outputs/) — *Terence Eden’s Blog* `08-07`
-- [The Software Stewardship Lab](https://nesbitt.io/2026/08/07/the-software-stewardship-lab.html) — *Andrew Nesbitt* `08-07`
-- [How to keep thinking](https://seangoedecke.com/how-to-keep-thinking/) — *seangoedecke.com RSS feed* `08-07`
-- [The Contracting Circle](https://borretti.me/article/the-contracting-circle) — *Fernando Borretti* `08-07`
-- [Gurman on OpenAI’s Device: ‘A Doughnut-Shaped Speaker That Costs Over $300’](https://www.bloomberg.com/news/articles/2026-08-06/what-is-openai-s-device-a-doughnut-shaped-speaker-that-costs-over-300?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NjA0NjY3NSwiZXhwIjoxNzg2NjUxNDc1LCJhcnRpY2xlSWQiOiJUSjlNQ01UOU5KTFUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.pj0oCNz7Ez90rn67tMWib-ed2PxcUAhAG2-hlVQ_DRg&leadSource=article-gifting) — *Daring Fireball* `08-06`
+- [An AI Model From Meta Also Hacked Another Company During Testing](https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/) — *Daring Fireball* `08-07`
+- [Meta: Introducing Muse Code and Muse Spark 1.2](https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2) — *Daring Fireball* `08-07`
+- [App Store Review Times Are Failing to Meet the AI-Driven Influx of Submissions](https://macaw.social/@mergesort/117055390966724799) — *Daring Fireball* `08-07`
+- [Premium: The Hater's Guide To NVIDIA (Part 2)](https://www.wheresyoured.at/premium-the-haters-guide-to-nvidia-part-2/) — *Ed Zitron's Where's Your Ed At* `08-07`
+- [Leadership Shake-Up at Google DeepMind](https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/) — *Daring Fireball* `08-07`
 <!--BLOG_RADAR:end-->
 
 ---
