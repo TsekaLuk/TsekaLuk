@@ -208,11 +208,11 @@ Last Updated: Saturday, August 8th, 2026, 8:35:03 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Reading List 08/08/2026](https://www.construction-physics.com/p/reading-list-08082026) — *Construction Physics* `08-08`
+- [This Week in Package Management: 8 August 2026](https://nesbitt.io/2026/08/08/this-week-in-package-management.html) — *Andrew Nesbitt* `08-08`
+- [Pluralistic: Digital sewer socialism (08 Aug 2026)](https://pluralistic.net/2026/08/08/find-yourself-a-city/) — *Pluralistic: Daily links from Cory Doctorow* `08-08`
 - [Corrupted apostrophes](https://www.johndcook.com/blog/2026/08/07/corrupted-apostrophes/) — *John D. Cook* `08-08`
 - [Quoting John Gruber](https://simonwillison.net/2026/Aug/8/john-gruber/#atom-everything) — *Simon Willison's Weblog* `08-08`
-- [Now we have a timeline of the OpenAI accidental attack against Hugging Face](https://simonwillison.net/2026/Aug/7/openai-timeline/#atom-everything) — *Simon Willison's Weblog* `08-07`
-- [Simon Willison on Blogging](https://writethatblog.substack.com/p/simon-willison-on-technical-blogging) — *Daring Fireball* `08-07`
-- [Google Earth Retracts AI Tool for Making Fake Satellite Images After It Was Immediately Abused Upon Release](https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/) — *Daring Fireball* `08-07`
 <!--BLOG_RADAR:end-->
 
 ---
