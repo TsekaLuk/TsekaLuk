@@ -4,13 +4,27 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 08 Aug 2026 13:01:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 18:47:57 +0000</lastBuildDate>
+    <item>
+      <title>Now we have a timeline of the OpenAI accidental attack against Hugging Face</title>
+      <link>https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h/#atom-everything</guid>
+      <pubDate>Sat, 08 Aug 2026 14:06:41 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Reading List 08/08/2026</title>
       <link>https://www.construction-physics.com/p/reading-list-08082026</link>
       <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-08082026</guid>
       <pubDate>Sat, 08 Aug 2026 12:01:03 +0000</pubDate>
       <description>Construction Physics</description>
+    </item>
+    <item>
+      <title>[RSS Club] I got an NLnet grant!</title>
+      <link>https://shkspr.mobi/blog/2026/08/rss-club-i-got-an-nlnet-grant/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/rss-club-i-got-an-nlnet-grant/</guid>
+      <pubDate>Sat, 08 Aug 2026 11:34:15 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>This Week in Package Management: 8 August 2026</title>
@@ -186,6 +200,13 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/07/cos200/</guid>
       <pubDate>Fri, 07 Aug 2026 13:19:07 +0000</pubDate>
       <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Metadata for AI Generated Outputs</title>
+      <link>https://shkspr.mobi/blog/2026/08/metadata-for-ai-generated-outputs/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/metadata-for-ai-generated-outputs/</guid>
+      <pubDate>Fri, 07 Aug 2026 11:34:30 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>The Software Stewardship Lab</title>
@@ -503,6 +524,13 @@
       <description>Herman's blog</description>
     </item>
     <item>
+      <title>Gadget Review: T2 Max plug-in Thermal Camera ★★★⯪☆</title>
+      <link>https://shkspr.mobi/blog/2026/08/gadget-review-t2-max-plug-in-thermal-camera/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/gadget-review-t2-max-plug-in-thermal-camera/</guid>
+      <pubDate>Wed, 05 Aug 2026 11:34:17 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>Pluralistic: Google is a scammer's paradise (05 Aug 2026)</title>
       <link>https://pluralistic.net/2026/08/05/absentee-landlord/</link>
       <guid isPermaLink="true">https://pluralistic.net/2026/08/05/absentee-landlord/</guid>
@@ -599,6 +627,13 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/04/ratio-of-metallic-ratios/</guid>
       <pubDate>Tue, 04 Aug 2026 11:41:49 +0000</pubDate>
       <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Gig Review: Belle &amp; Sebastian - If You’re Feeling Sinister at Margate Dreamland ★★★★★</title>
+      <link>https://shkspr.mobi/blog/2026/08/gig-review-belle-sebastian-if-youre-feeling-sinister-at-margate-dreamland/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/gig-review-belle-sebastian-if-youre-feeling-sinister-at-margate-dreamland/</guid>
+      <pubDate>Tue, 04 Aug 2026 11:34:22 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Pluralistic: Post-American compute for a post-American Internet (04 Aug 2026)</title>
@@ -727,6 +762,13 @@
       <description>The Old New Thing</description>
     </item>
     <item>
+      <title>Book Review: The Field Guide to Understanding 'Human Error' by Sidney Dekker ★★★★☆</title>
+      <link>https://shkspr.mobi/blog/2026/08/book-review-the-field-guide-to-understanding-human-error-by-sidney-dekker/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/book-review-the-field-guide-to-understanding-human-error-by-sidney-dekker/</guid>
+      <pubDate>Mon, 03 Aug 2026 11:34:02 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>Pluralistic: Dualism (03 Aug 2026)</title>
       <link>https://pluralistic.net/2026/08/03/andor/</link>
       <guid isPermaLink="true">https://pluralistic.net/2026/08/03/andor/</guid>
@@ -802,48 +844,6 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/02/estimating-a-cumulative-sum/</guid>
       <pubDate>Sun, 02 Aug 2026 17:57:31 +0000</pubDate>
       <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Open letters about AI development</title>
-      <link>https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything</guid>
-      <pubDate>Sun, 02 Aug 2026 04:16:52 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>July 2026 newsletter</title>
-      <link>https://simonwillison.net/2026/Aug/2/july-newsletter/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/2/july-newsletter/#atom-everything</guid>
-      <pubDate>Sun, 02 Aug 2026 04:12:41 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>MkLinux and the pimped-out Apple Workgroup Server 9150</title>
-      <link>https://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html</link>
-      <guid isPermaLink="true">https://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html</guid>
-      <pubDate>Sun, 02 Aug 2026 02:54:02 +0000</pubDate>
-      <description>Old Vintage Computing Research</description>
-    </item>
-    <item>
-      <title>Giving and taking credit in big tech companies</title>
-      <link>https://seangoedecke.com/giving-and-taking-credit/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/giving-and-taking-credit/</guid>
-      <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>Indirect lessons from human alignment</title>
-      <link>https://dynomight.net/human-alignment/</link>
-      <guid isPermaLink="true">https://dynomight.net/human-alignment/</guid>
-      <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
-    </item>
-    <item>
-      <title>Mathematics Without Mathematicians</title>
-      <link>https://borretti.me/article/mathematics-without-mathematicians</link>
-      <guid isPermaLink="true">https://borretti.me/article/mathematics-without-mathematicians</guid>
-      <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Fernando Borretti</description>
     </item>
   </channel>
 </rss>
