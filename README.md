@@ -208,11 +208,11 @@ Last Updated: Saturday, August 8th, 2026, 9:08:50 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [An AI Model From Meta Also Hacked Another Company During Testing](https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/) — *Daring Fireball* `08-07`
-- [Meta: Introducing Muse Code and Muse Spark 1.2](https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2) — *Daring Fireball* `08-07`
-- [App Store Review Times Are Failing to Meet the AI-Driven Influx of Submissions](https://macaw.social/@mergesort/117055390966724799) — *Daring Fireball* `08-07`
-- [Premium: The Hater's Guide To NVIDIA (Part 2)](https://www.wheresyoured.at/premium-the-haters-guide-to-nvidia-part-2/) — *Ed Zitron's Where's Your Ed At* `08-07`
-- [Leadership Shake-Up at Google DeepMind](https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/) — *Daring Fireball* `08-07`
+- [Corrupted apostrophes](https://www.johndcook.com/blog/2026/08/07/corrupted-apostrophes/) — *John D. Cook* `08-08`
+- [Quoting John Gruber](https://simonwillison.net/2026/Aug/8/john-gruber/#atom-everything) — *Simon Willison's Weblog* `08-08`
+- [Now we have a timeline of the OpenAI accidental attack against Hugging Face](https://simonwillison.net/2026/Aug/7/openai-timeline/#atom-everything) — *Simon Willison's Weblog* `08-07`
+- [Simon Willison on Blogging](https://writethatblog.substack.com/p/simon-willison-on-technical-blogging) — *Daring Fireball* `08-07`
+- [Google Earth Retracts AI Tool for Making Fake Satellite Images After It Was Immediately Abused Upon Release](https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/) — *Daring Fireball* `08-07`
 <!--BLOG_RADAR:end-->
 
 ---
