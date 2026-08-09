@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 09 Aug 2026 07:05:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 13:04:29 +0000</lastBuildDate>
+    <item>
+      <title>Advanced AI sycophancy</title>
+      <link>https://seangoedecke.com/advanced-ai-sycophancy/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/advanced-ai-sycophancy/</guid>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Tracking down a Zsh history data loss bug 🐞</title>
+      <link>https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/</link>
+      <guid isPermaLink="true">https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/</guid>
+      <pubDate>Sun, 09 Aug 2026 08:13:00 +0000</pubDate>
+      <description>Michael Stapelbergs Website</description>
+    </item>
     <item>
       <title>★ Retraction: The App Store Rejection of the Week That Was, in Fact, a Correct Rejection</title>
       <link>https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week</link>
@@ -377,18 +391,18 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>Zig's Io.Threaded is Neat</title>
-      <link>https://matklad.github.io/2026/08/06/neat-io-threaded.html</link>
-      <guid isPermaLink="true">https://matklad.github.io/2026/08/06/neat-io-threaded.html</guid>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <description>matklad</description>
-    </item>
-    <item>
       <title>SigV4 authentication is surprisingly complicated</title>
       <link>https://www.tigrisdata.com/blog/sigv4/</link>
       <guid isPermaLink="true">https://www.tigrisdata.com/blog/sigv4/</guid>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>Zig's Io.Threaded is Neat</title>
+      <link>https://matklad.github.io/2026/08/06/neat-io-threaded.html</link>
+      <guid isPermaLink="true">https://matklad.github.io/2026/08/06/neat-io-threaded.html</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description>matklad</description>
     </item>
     <item>
       <title>A year of AI disclosure in critical packages</title>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://www.ycrootaccess.com/p/boris-cherny-building-claude-code</guid>
       <pubDate>Sun, 02 Aug 2026 21:01:12 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Holonomic functions</title>
-      <link>https://www.johndcook.com/blog/2026/08/02/holonomic-functions/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/02/holonomic-functions/</guid>
-      <pubDate>Sun, 02 Aug 2026 20:47:53 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Estimating a cumulative sum</title>
-      <link>https://www.johndcook.com/blog/2026/08/02/estimating-a-cumulative-sum/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/02/estimating-a-cumulative-sum/</guid>
-      <pubDate>Sun, 02 Aug 2026 17:57:31 +0000</pubDate>
-      <description>John D. Cook</description>
     </item>
   </channel>
 </rss>
