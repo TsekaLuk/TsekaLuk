@@ -208,11 +208,11 @@ Last Updated: Sunday, August 9th, 2026, 9:13:47 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Auto mode is now the default in Claude Code for Pro, Max, and Team plans](https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything) — *Simon Willison's Weblog* `08-08`
+- [Corrupt Minds Think Alike](https://www.nytimes.com/2026/08/06/business/fifa-world-cup-privatization.html?unlocked_article_code=1.3VA.4zqH.Pul7X9bQ2kv0&smid=bs-share) — *Daring Fireball* `08-08`
+- [Maybe ‘Steal Underpants by Blowing a Fortune on AI Tokens’ Is, in Fact, Not a Good Business Plan](https://www.404media.co/the-tokenpocalypse-is-here-companies-are-scrambling-to-stop-spending-so-much-on-ai/) — *Daring Fireball* `08-08`
 - [Now we have a timeline of the OpenAI accidental attack against Hugging Face](https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h/#atom-everything) — *Simon Willison's Weblog* `08-08`
 - [Reading List 08/08/2026](https://www.construction-physics.com/p/reading-list-08082026) — *Construction Physics* `08-08`
-- [[RSS Club] I got an NLnet grant!](https://shkspr.mobi/blog/2026/08/rss-club-i-got-an-nlnet-grant/) — *Terence Eden’s Blog* `08-08`
-- [This Week in Package Management: 8 August 2026](https://nesbitt.io/2026/08/08/this-week-in-package-management.html) — *Andrew Nesbitt* `08-08`
-- [Pluralistic: Digital sewer socialism (08 Aug 2026)](https://pluralistic.net/2026/08/08/find-yourself-a-city/) — *Pluralistic: Daily links from Cory Doctorow* `08-08`
 <!--BLOG_RADAR:end-->
 
 ---

@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 08 Aug 2026 18:47:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 02:11:14 +0000</lastBuildDate>
+    <item>
+      <title>Auto mode is now the default in Claude Code for Pro, Max, and Team plans</title>
+      <link>https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything</guid>
+      <pubDate>Sat, 08 Aug 2026 22:36:03 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Corrupt Minds Think Alike</title>
+      <link>https://www.nytimes.com/2026/08/06/business/fifa-world-cup-privatization.html?unlocked_article_code=1.3VA.4zqH.Pul7X9bQ2kv0&amp;smid=bs-share</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/06/business/fifa-world-cup-privatization.html?unlocked_article_code=1.3VA.4zqH.Pul7X9bQ2kv0&amp;smid=bs-share</guid>
+      <pubDate>Sat, 08 Aug 2026 20:32:11 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Maybe ‘Steal Underpants by Blowing a Fortune on AI Tokens’ Is, in Fact, Not a Good Business Plan</title>
+      <link>https://www.404media.co/the-tokenpocalypse-is-here-companies-are-scrambling-to-stop-spending-so-much-on-ai/</link>
+      <guid isPermaLink="true">https://www.404media.co/the-tokenpocalypse-is-here-companies-are-scrambling-to-stop-spending-so-much-on-ai/</guid>
+      <pubDate>Sat, 08 Aug 2026 19:31:52 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Now we have a timeline of the OpenAI accidental attack against Hugging Face</title>
       <link>https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h/#atom-everything</link>
@@ -53,6 +74,13 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Aug/8/john-gruber/#atom-everything</guid>
       <pubDate>Sat, 08 Aug 2026 00:10:40 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Anubis v1.27.0: Moenbryda Wilfsunnwyn</title>
+      <link>https://anubis.techaro.lol/blog/release/v1.27.0/</link>
+      <guid isPermaLink="true">https://anubis.techaro.lol/blog/release/v1.27.0/</guid>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>Now we have a timeline of the OpenAI accidental attack against Hugging Face</title>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Aug/2/condense-json/#atom-everything</guid>
       <pubDate>Sun, 02 Aug 2026 22:19:59 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Agent Fone</title>
-      <link>https://fail.xyz/phone/</link>
-      <guid isPermaLink="true">https://fail.xyz/phone/</guid>
-      <pubDate>Sun, 02 Aug 2026 21:02:00 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Boris Cherny on Trying to Get Claude Code to Rewrite the Claude App</title>
-      <link>https://www.ycrootaccess.com/p/boris-cherny-building-claude-code</link>
-      <guid isPermaLink="true">https://www.ycrootaccess.com/p/boris-cherny-building-claude-code</guid>
-      <pubDate>Sun, 02 Aug 2026 21:01:12 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Holonomic functions</title>
-      <link>https://www.johndcook.com/blog/2026/08/02/holonomic-functions/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/02/holonomic-functions/</guid>
-      <pubDate>Sun, 02 Aug 2026 20:47:53 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Estimating a cumulative sum</title>
-      <link>https://www.johndcook.com/blog/2026/08/02/estimating-a-cumulative-sum/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/02/estimating-a-cumulative-sum/</guid>
-      <pubDate>Sun, 02 Aug 2026 17:57:31 +0000</pubDate>
-      <description>John D. Cook</description>
     </item>
   </channel>
 </rss>
