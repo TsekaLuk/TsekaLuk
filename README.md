@@ -209,10 +209,10 @@ Last Updated: Monday, August 10th, 2026, 2:30:33 AM
 
 <!--BLOG_RADAR:start-->
 - [Advanced AI sycophancy](https://seangoedecke.com/advanced-ai-sycophancy/) — *seangoedecke.com RSS feed* `08-10`
-- [Tracking down a Zsh history data loss bug 🐞](https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/) — *Michael Stapelbergs Website* `08-09`
-- [★ Retraction: The App Store Rejection of the Week That Was, in Fact, a Correct Rejection](https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week) — *Daring Fireball* `08-09`
-- [I got an email about resistance](https://seangoedecke.com/i-got-an-email-about-resistance/) — *seangoedecke.com RSS feed* `08-09`
-- [Auto mode is now the default in Claude Code for Pro, Max, and Team plans](https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything) — *Simon Willison's Weblog* `08-08`
+- [DNA and Bessel functions](https://www.johndcook.com/blog/2026/08/09/dna-and-bessel-functions/) — *John D. Cook* `08-09`
+- [A simple range reduction method](https://www.johndcook.com/blog/2026/08/09/simple-range-reduction/) — *John D. Cook* `08-09`
+- [Edinburgh Fringe: 4 Aussies For Aussies - The Raging Bull ★★⯪☆☆](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-4-aussies-for-aussies-the-raging-bull/) — *Terence Eden’s Blog* `08-09`
+- [Against Doomerism](https://shkspr.mobi/blog/2026/08/against-doomerism/) — *Terence Eden’s Blog* `08-09`
 <!--BLOG_RADAR:end-->
 
 ---
