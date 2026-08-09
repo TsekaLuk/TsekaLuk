@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 09 Aug 2026 02:11:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 07:05:10 +0000</lastBuildDate>
+    <item>
+      <title>★ Retraction: The App Store Rejection of the Week That Was, in Fact, a Correct Rejection</title>
+      <link>https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week</guid>
+      <pubDate>Sun, 09 Aug 2026 03:16:24 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>I got an email about resistance</title>
+      <link>https://seangoedecke.com/i-got-an-email-about-resistance/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/i-got-an-email-about-resistance/</guid>
+      <pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
+    </item>
     <item>
       <title>Auto mode is now the default in Claude Code for Pro, Max, and Team plans</title>
       <link>https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything</link>
@@ -39,13 +53,6 @@
       <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-08082026</guid>
       <pubDate>Sat, 08 Aug 2026 12:01:03 +0000</pubDate>
       <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>[RSS Club] I got an NLnet grant!</title>
-      <link>https://shkspr.mobi/blog/2026/08/rss-club-i-got-an-nlnet-grant/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/rss-club-i-got-an-nlnet-grant/</guid>
-      <pubDate>Sat, 08 Aug 2026 11:34:15 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>This Week in Package Management: 8 August 2026</title>
@@ -174,13 +181,6 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>★ App Store Rejection of the Week: Dark Hours</title>
-      <link>https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours</guid>
-      <pubDate>Fri, 07 Aug 2026 16:40:11 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
       <title>The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI</title>
       <link>https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/#atom-everything</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/#atom-everything</guid>
@@ -228,13 +228,6 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/07/cos200/</guid>
       <pubDate>Fri, 07 Aug 2026 13:19:07 +0000</pubDate>
       <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Metadata for AI Generated Outputs</title>
-      <link>https://shkspr.mobi/blog/2026/08/metadata-for-ai-generated-outputs/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/metadata-for-ai-generated-outputs/</guid>
-      <pubDate>Fri, 07 Aug 2026 11:34:30 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>The Software Stewardship Lab</title>
@@ -384,18 +377,18 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>SigV4 authentication is surprisingly complicated</title>
-      <link>https://www.tigrisdata.com/blog/sigv4/</link>
-      <guid isPermaLink="true">https://www.tigrisdata.com/blog/sigv4/</guid>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
       <title>Zig's Io.Threaded is Neat</title>
       <link>https://matklad.github.io/2026/08/06/neat-io-threaded.html</link>
       <guid isPermaLink="true">https://matklad.github.io/2026/08/06/neat-io-threaded.html</guid>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
       <description>matklad</description>
+    </item>
+    <item>
+      <title>SigV4 authentication is surprisingly complicated</title>
+      <link>https://www.tigrisdata.com/blog/sigv4/</link>
+      <guid isPermaLink="true">https://www.tigrisdata.com/blog/sigv4/</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>A year of AI disclosure in critical packages</title>
@@ -552,13 +545,6 @@
       <description>Herman's blog</description>
     </item>
     <item>
-      <title>Gadget Review: T2 Max plug-in Thermal Camera ★★★⯪☆</title>
-      <link>https://shkspr.mobi/blog/2026/08/gadget-review-t2-max-plug-in-thermal-camera/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/gadget-review-t2-max-plug-in-thermal-camera/</guid>
-      <pubDate>Wed, 05 Aug 2026 11:34:17 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>Pluralistic: Google is a scammer's paradise (05 Aug 2026)</title>
       <link>https://pluralistic.net/2026/08/05/absentee-landlord/</link>
       <guid isPermaLink="true">https://pluralistic.net/2026/08/05/absentee-landlord/</guid>
@@ -655,13 +641,6 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/04/ratio-of-metallic-ratios/</guid>
       <pubDate>Tue, 04 Aug 2026 11:41:49 +0000</pubDate>
       <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Gig Review: Belle &amp; Sebastian - If You’re Feeling Sinister at Margate Dreamland ★★★★★</title>
-      <link>https://shkspr.mobi/blog/2026/08/gig-review-belle-sebastian-if-youre-feeling-sinister-at-margate-dreamland/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/gig-review-belle-sebastian-if-youre-feeling-sinister-at-margate-dreamland/</guid>
-      <pubDate>Tue, 04 Aug 2026 11:34:22 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Pluralistic: Post-American compute for a post-American Internet (04 Aug 2026)</title>
@@ -790,13 +769,6 @@
       <description>The Old New Thing</description>
     </item>
     <item>
-      <title>Book Review: The Field Guide to Understanding 'Human Error' by Sidney Dekker ★★★★☆</title>
-      <link>https://shkspr.mobi/blog/2026/08/book-review-the-field-guide-to-understanding-human-error-by-sidney-dekker/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/book-review-the-field-guide-to-understanding-human-error-by-sidney-dekker/</guid>
-      <pubDate>Mon, 03 Aug 2026 11:34:02 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>Pluralistic: Dualism (03 Aug 2026)</title>
       <link>https://pluralistic.net/2026/08/03/andor/</link>
       <guid isPermaLink="true">https://pluralistic.net/2026/08/03/andor/</guid>
@@ -844,6 +816,34 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Aug/2/condense-json/#atom-everything</guid>
       <pubDate>Sun, 02 Aug 2026 22:19:59 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Agent Fone</title>
+      <link>https://fail.xyz/phone/</link>
+      <guid isPermaLink="true">https://fail.xyz/phone/</guid>
+      <pubDate>Sun, 02 Aug 2026 21:02:00 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Boris Cherny on Trying to Get Claude Code to Rewrite the Claude App</title>
+      <link>https://www.ycrootaccess.com/p/boris-cherny-building-claude-code</link>
+      <guid isPermaLink="true">https://www.ycrootaccess.com/p/boris-cherny-building-claude-code</guid>
+      <pubDate>Sun, 02 Aug 2026 21:01:12 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Holonomic functions</title>
+      <link>https://www.johndcook.com/blog/2026/08/02/holonomic-functions/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/02/holonomic-functions/</guid>
+      <pubDate>Sun, 02 Aug 2026 20:47:53 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Estimating a cumulative sum</title>
+      <link>https://www.johndcook.com/blog/2026/08/02/estimating-a-cumulative-sum/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/02/estimating-a-cumulative-sum/</guid>
+      <pubDate>Sun, 02 Aug 2026 17:57:31 +0000</pubDate>
+      <description>John D. Cook</description>
     </item>
   </channel>
 </rss>

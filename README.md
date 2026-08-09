@@ -208,11 +208,11 @@ Last Updated: Sunday, August 9th, 2026, 2:44:10 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [★ Retraction: The App Store Rejection of the Week That Was, in Fact, a Correct Rejection](https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week) — *Daring Fireball* `08-09`
+- [I got an email about resistance](https://seangoedecke.com/i-got-an-email-about-resistance/) — *seangoedecke.com RSS feed* `08-09`
 - [Auto mode is now the default in Claude Code for Pro, Max, and Team plans](https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything) — *Simon Willison's Weblog* `08-08`
 - [Corrupt Minds Think Alike](https://www.nytimes.com/2026/08/06/business/fifa-world-cup-privatization.html?unlocked_article_code=1.3VA.4zqH.Pul7X9bQ2kv0&smid=bs-share) — *Daring Fireball* `08-08`
 - [Maybe ‘Steal Underpants by Blowing a Fortune on AI Tokens’ Is, in Fact, Not a Good Business Plan](https://www.404media.co/the-tokenpocalypse-is-here-companies-are-scrambling-to-stop-spending-so-much-on-ai/) — *Daring Fireball* `08-08`
-- [Now we have a timeline of the OpenAI accidental attack against Hugging Face](https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h/#atom-everything) — *Simon Willison's Weblog* `08-08`
-- [Reading List 08/08/2026](https://www.construction-physics.com/p/reading-list-08082026) — *Construction Physics* `08-08`
 <!--BLOG_RADAR:end-->
 
 ---
