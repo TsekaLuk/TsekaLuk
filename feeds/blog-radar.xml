@@ -4,13 +4,62 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 09 Aug 2026 18:50:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 02:19:26 +0000</lastBuildDate>
+    <item>
+      <title>Quoting OpenClaw</title>
+      <link>https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything</guid>
+      <pubDate>Mon, 10 Aug 2026 02:05:16 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Edinburgh Fringe: Smut Slam ★★★☆☆</title>
+      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-smut-slam/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/edinburgh-fringe-smut-slam/</guid>
+      <pubDate>Mon, 10 Aug 2026 00:23:08 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
     <item>
       <title>Advanced AI sycophancy</title>
       <link>https://seangoedecke.com/advanced-ai-sycophancy/</link>
       <guid isPermaLink="true">https://seangoedecke.com/advanced-ai-sycophancy/</guid>
       <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>WorkOS: Connect Your Agents to Your API</title>
+      <link>https://workos.com/blog/mcp-vs-rest?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</link>
+      <guid isPermaLink="true">https://workos.com/blog/mcp-vs-rest?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</guid>
+      <pubDate>Sun, 09 Aug 2026 23:54:18 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Quoting Claude Opus 5 system prompt</title>
+      <link>https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything</guid>
+      <pubDate>Sun, 09 Aug 2026 23:31:39 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>GitHub Models is now retired</title>
+      <link>https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything</guid>
+      <pubDate>Sun, 09 Aug 2026 22:48:05 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Edinburgh Fringe - Heated Rivalry: The Musical Parody! ★★★★★</title>
+      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-heated-rivalry-the-musical-parody/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/edinburgh-fringe-heated-rivalry-the-musical-parody/</guid>
+      <pubDate>Sun, 09 Aug 2026 22:45:45 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>SQLite compressed text-history prototypes</title>
+      <link>https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/#atom-everything</guid>
+      <pubDate>Sun, 09 Aug 2026 22:05:00 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
     <item>
       <title>DNA and Bessel functions</title>
@@ -319,6 +368,13 @@
       <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-08-06/what-is-openai-s-device-a-doughnut-shaped-speaker-that-costs-over-300?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NjA0NjY3NSwiZXhwIjoxNzg2NjUxNDc1LCJhcnRpY2xlSWQiOiJUSjlNQ01UOU5KTFUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.pj0oCNz7Ez90rn67tMWib-ed2PxcUAhAG2-hlVQ_DRg&amp;leadSource=article-gifting</guid>
       <pubDate>Thu, 06 Aug 2026 23:47:32 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>datasette-auth-tokens 0.4a13</title>
+      <link>https://simonwillison.net/2026/Aug/6/datasette-auth-tokens/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/6/datasette-auth-tokens/#atom-everything</guid>
+      <pubDate>Thu, 06 Aug 2026 23:07:47 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
     <item>
       <title>OpenAI Files 28-Page Motion to Dismiss Apple’s Lawsuit (PDF Link)</title>
@@ -755,13 +811,6 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>[Sponsor] MCP vs. REST: The Right Way to Connect Agents to Your API</title>
-      <link>https://workos.com/blog/mcp-vs-rest?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</link>
-      <guid isPermaLink="true">https://workos.com/blog/mcp-vs-rest?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</guid>
-      <pubDate>Mon, 03 Aug 2026 22:26:01 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
       <title>John Ternus Has Rehired Former Hardware VP Laura Legros</title>
       <link>https://www.macrumors.com/2026/08/03/apple-john-ternus-hiring-retired-vp/</link>
       <guid isPermaLink="true">https://www.macrumors.com/2026/08/03/apple-john-ternus-hiring-retired-vp/</guid>
@@ -795,55 +844,6 @@
       <guid isPermaLink="true">https://daringfireball.net/2026/08/followup_big_three_carrier_requirement</guid>
       <pubDate>Mon, 03 Aug 2026 17:19:34 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Ulysses S. Grant on the Future Dividing Line</title>
-      <link>https://www.snopes.com/fact-check/grant-next-civil-war/</link>
-      <guid isPermaLink="true">https://www.snopes.com/fact-check/grant-next-civil-war/</guid>
-      <pubDate>Mon, 03 Aug 2026 17:14:42 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Quoting David Crawshaw's prompt</title>
-      <link>https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything</guid>
-      <pubDate>Mon, 03 Aug 2026 16:15:27 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Agentic coding techniques</title>
-      <link>https://micahflee.com/agentic-coding-techniques/</link>
-      <guid isPermaLink="true">https://micahflee.com/agentic-coding-techniques/</guid>
-      <pubDate>Mon, 03 Aug 2026 16:05:25 +0000</pubDate>
-      <description>micahflee</description>
-    </item>
-    <item>
-      <title>Truth Social Launches Paid Early Access to Trump Posts</title>
-      <link>https://www.npr.org/2026/08/01/nx-s1-5912219/trump-truth-social-access-insider-trading</link>
-      <guid isPermaLink="true">https://www.npr.org/2026/08/01/nx-s1-5912219/trump-truth-social-access-insider-trading</guid>
-      <pubDate>Mon, 03 Aug 2026 16:00:29 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Devtools must be open source (exe.dev)</title>
-      <link>https://simonwillison.net/2026/Aug/3/devtools-must-be-open-source-exedev/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/3/devtools-must-be-open-source-exedev/#atom-everything</guid>
-      <pubDate>Mon, 03 Aug 2026 15:30:38 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Creating a fake agile wrapper that is technically agile but is not useful outside its home apartment, part 1</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260803-00/?p=112582</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260803-00/?p=112582</guid>
-      <pubDate>Mon, 03 Aug 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Book Review: The Field Guide to Understanding 'Human Error' by Sidney Dekker ★★★★☆</title>
-      <link>https://shkspr.mobi/blog/2026/08/book-review-the-field-guide-to-understanding-human-error-by-sidney-dekker/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/book-review-the-field-guide-to-understanding-human-error-by-sidney-dekker/</guid>
-      <pubDate>Mon, 03 Aug 2026 11:34:02 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
   </channel>
 </rss>

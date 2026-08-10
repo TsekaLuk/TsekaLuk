@@ -208,11 +208,11 @@ Last Updated: Monday, August 10th, 2026, 9:15:55 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Quoting OpenClaw](https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything) — *Simon Willison's Weblog* `08-10`
+- [Edinburgh Fringe: Smut Slam ★★★☆☆](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-smut-slam/) — *Terence Eden’s Blog* `08-10`
 - [Advanced AI sycophancy](https://seangoedecke.com/advanced-ai-sycophancy/) — *seangoedecke.com RSS feed* `08-10`
-- [DNA and Bessel functions](https://www.johndcook.com/blog/2026/08/09/dna-and-bessel-functions/) — *John D. Cook* `08-09`
-- [A simple range reduction method](https://www.johndcook.com/blog/2026/08/09/simple-range-reduction/) — *John D. Cook* `08-09`
-- [Edinburgh Fringe: 4 Aussies For Aussies - The Raging Bull ★★⯪☆☆](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-4-aussies-for-aussies-the-raging-bull/) — *Terence Eden’s Blog* `08-09`
-- [Against Doomerism](https://shkspr.mobi/blog/2026/08/against-doomerism/) — *Terence Eden’s Blog* `08-09`
+- [WorkOS: Connect Your Agents to Your API](https://workos.com/blog/mcp-vs-rest?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026) — *Daring Fireball* `08-09`
+- [Quoting Claude Opus 5 system prompt](https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything) — *Simon Willison's Weblog* `08-09`
 <!--BLOG_RADAR:end-->
 
 ---
