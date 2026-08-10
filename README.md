@@ -208,11 +208,11 @@ Last Updated: Monday, August 10th, 2026, 3:19:30 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Quoting OpenClaw](https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything) — *Simon Willison's Weblog* `08-10`
-- [Edinburgh Fringe: Smut Slam ★★★☆☆](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-smut-slam/) — *Terence Eden’s Blog* `08-10`
-- [Advanced AI sycophancy](https://seangoedecke.com/advanced-ai-sycophancy/) — *seangoedecke.com RSS feed* `08-10`
-- [WorkOS: Connect Your Agents to Your API](https://workos.com/blog/mcp-vs-rest?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026) — *Daring Fireball* `08-09`
-- [Quoting Claude Opus 5 system prompt](https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything) — *Simon Willison's Weblog* `08-09`
+- [Pluralistic: The bureaucratic AI arms-race is mutually assured destruction (10 Aug 2026)](https://pluralistic.net/2026/08/10/deep-state-wopr/) — *Pluralistic: Daily links from Cory Doctorow* `08-10`
+- [Failing after Success](https://idiallo.com/blog/failing-after-success) — *Software and Tech stories from an Insider - iDiallo.com* `08-10`
+- [When the Aliens Finally Came to Visit](https://idiallo.com/byte-size/when-the-aliens-came-to-visit) — *Software and Tech stories from an Insider - iDiallo.com* `08-10`
+- [UPS finally refunded the overcharged tariff](https://oldvcr.blogspot.com/2026/08/ups-finally-refunded-overcharged-tariff.html) — *Old Vintage Computing Research* `08-10`
+- [Vibe-Coded Flattery](https://feed.tedium.co/link/15204/17410919/vibe-coding-insincerity) — *Tedium: The Dull Side of the Internet.* `08-10`
 <!--BLOG_RADAR:end-->
 
 ---

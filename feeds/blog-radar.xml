@@ -4,7 +4,42 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 10 Aug 2026 02:19:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 07:52:55 +0000</lastBuildDate>
+    <item>
+      <title>Pluralistic: The bureaucratic AI arms-race is mutually assured destruction (10 Aug 2026)</title>
+      <link>https://pluralistic.net/2026/08/10/deep-state-wopr/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/08/10/deep-state-wopr/</guid>
+      <pubDate>Mon, 10 Aug 2026 07:01:46 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Failing after Success</title>
+      <link>https://idiallo.com/blog/failing-after-success</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/failing-after-success</guid>
+      <pubDate>Mon, 10 Aug 2026 07:00:00 +0000</pubDate>
+      <description>Software and Tech stories from an Insider - iDiallo.com</description>
+    </item>
+    <item>
+      <title>When the Aliens Finally Came to Visit</title>
+      <link>https://idiallo.com/byte-size/when-the-aliens-came-to-visit</link>
+      <guid isPermaLink="true">https://idiallo.com/byte-size/when-the-aliens-came-to-visit</guid>
+      <pubDate>Mon, 10 Aug 2026 04:26:49 +0000</pubDate>
+      <description>Software and Tech stories from an Insider - iDiallo.com</description>
+    </item>
+    <item>
+      <title>UPS finally refunded the overcharged tariff</title>
+      <link>https://oldvcr.blogspot.com/2026/08/ups-finally-refunded-overcharged-tariff.html</link>
+      <guid isPermaLink="true">https://oldvcr.blogspot.com/2026/08/ups-finally-refunded-overcharged-tariff.html</guid>
+      <pubDate>Mon, 10 Aug 2026 03:36:22 +0000</pubDate>
+      <description>Old Vintage Computing Research</description>
+    </item>
+    <item>
+      <title>Vibe-Coded Flattery</title>
+      <link>https://feed.tedium.co/link/15204/17410919/vibe-coding-insincerity</link>
+      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17410919/vibe-coding-insincerity</guid>
+      <pubDate>Mon, 10 Aug 2026 02:31:00 +0000</pubDate>
+      <description>Tedium: The Dull Side of the Internet.</description>
+    </item>
     <item>
       <title>Quoting OpenClaw</title>
       <link>https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything</link>
@@ -809,41 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Aug/3/dont-be-a-meat-proxy/#atom-everything</guid>
       <pubDate>Mon, 03 Aug 2026 23:45:04 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>John Ternus Has Rehired Former Hardware VP Laura Legros</title>
-      <link>https://www.macrumors.com/2026/08/03/apple-john-ternus-hiring-retired-vp/</link>
-      <guid isPermaLink="true">https://www.macrumors.com/2026/08/03/apple-john-ternus-hiring-retired-vp/</guid>
-      <pubDate>Mon, 03 Aug 2026 22:01:41 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The Information on Apple’s Unusual Use of iCloud for Confidential Work</title>
-      <link>https://www.theinformation.com/articles/apple-icloud-policy-fueled-employee-leaks-ahead-openai-suit?rc=jfy0lk</link>
-      <guid isPermaLink="true">https://www.theinformation.com/articles/apple-icloud-policy-fueled-employee-leaks-ahead-openai-suit?rc=jfy0lk</guid>
-      <pubDate>Mon, 03 Aug 2026 21:45:40 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Om Malik’s Final Essay: ‘The Myth, the Mythos and the Man’</title>
-      <link>https://om.co/2026/06/07/the-myth-the-mythos-and-the-man/</link>
-      <guid isPermaLink="true">https://om.co/2026/06/07/the-myth-the-mythos-and-the-man/</guid>
-      <pubDate>Mon, 03 Aug 2026 20:34:12 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Why smarter AI models could drive up compute prices 10x</title>
-      <link>https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive-video</link>
-      <guid isPermaLink="true">https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive-video</guid>
-      <pubDate>Mon, 03 Aug 2026 17:32:13 +0000</pubDate>
-      <description>Dwarkesh Podcast</description>
-    </item>
-    <item>
-      <title>★ Why Apple Requires a Cellular Account Through a Big Three Carrier to Lease an iPhone</title>
-      <link>https://daringfireball.net/2026/08/followup_big_three_carrier_requirement</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/08/followup_big_three_carrier_requirement</guid>
-      <pubDate>Mon, 03 Aug 2026 17:19:34 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
