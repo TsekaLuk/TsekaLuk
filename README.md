@@ -208,11 +208,11 @@ Last Updated: Tuesday, August 11th, 2026, 2:47:49 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Pluralistic: The bureaucratic AI arms-race is mutually assured destruction (10 Aug 2026)](https://pluralistic.net/2026/08/10/deep-state-wopr/) — *Pluralistic: Daily links from Cory Doctorow* `08-10`
-- [Failing after Success](https://idiallo.com/blog/failing-after-success) — *Software and Tech stories from an Insider - iDiallo.com* `08-10`
-- [When the Aliens Finally Came to Visit](https://idiallo.com/byte-size/when-the-aliens-came-to-visit) — *Software and Tech stories from an Insider - iDiallo.com* `08-10`
-- [UPS finally refunded the overcharged tariff](https://oldvcr.blogspot.com/2026/08/ups-finally-refunded-overcharged-tariff.html) — *Old Vintage Computing Research* `08-10`
-- [Vibe-Coded Flattery](https://feed.tedium.co/link/15204/17410919/vibe-coding-insincerity) — *Tedium: The Dull Side of the Internet.* `08-10`
+- [Edinburgh Fringe - Kat Ronson: Millennial Girl ★★★★☆](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-kat-ronson-millennial-girl/) — *Terence Eden’s Blog* `08-10`
+- [‘The Problem With Vibe-Coded Flattery’](https://tedium.co/2026/08/09/vibe-coding-insincerity/) — *Daring Fireball* `08-10`
+- [Edinburgh Fringe - Michael Brunström: William Tell vs the Algorithm ★★★☆☆](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-michael-brunstrom-william-tell-vs-the-algorithm/) — *Terence Eden’s Blog* `08-10`
+- [The NYT and WSJ on Apple, China, and the RAM Crisis](https://www.nytimes.com/2026/08/10/technology/memory-chip-shortage-ai.html?unlocked_article_code=1.4VA.49f7.Qj8S541DkkOz) — *Daring Fireball* `08-10`
+- [Learning from historical mistakes](https://www.johndcook.com/blog/2026/08/10/learning-from-historical-mistakes/) — *John D. Cook* `08-10`
 <!--BLOG_RADAR:end-->
 
 ---
