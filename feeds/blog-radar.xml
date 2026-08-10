@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 10 Aug 2026 07:52:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 13:22:54 +0000</lastBuildDate>
     <item>
       <title>Pluralistic: The bureaucratic AI arms-race is mutually assured destruction (10 Aug 2026)</title>
       <link>https://pluralistic.net/2026/08/10/deep-state-wopr/</link>
@@ -342,18 +342,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>I'm excited for Intel after testing the XPS 13</title>
-      <link>https://www.jeffgeerling.com/blog/2026/excited-for-intel-efficiency/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/excited-for-intel-efficiency/</guid>
-      <pubDate>Fri, 07 Aug 2026 14:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
       <title>Creating a fake agile wrapper that is technically agile but is not useful outside its home apartment, part 5</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260807-00/?p=112597</link>
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260807-00/?p=112597</guid>
       <pubDate>Fri, 07 Aug 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>I'm excited for Intel after testing the XPS 13</title>
+      <link>https://www.jeffgeerling.com/blog/2026/excited-for-intel-efficiency/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/excited-for-intel-efficiency/</guid>
+      <pubDate>Fri, 07 Aug 2026 14:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
     </item>
     <item>
       <title>cos(200!)</title>
