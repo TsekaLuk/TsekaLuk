@@ -208,11 +208,11 @@ Last Updated: Tuesday, August 11th, 2026, 8:50:28 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [No, local models will not win](https://seangoedecke.com/local-models-will-not-win/) — *seangoedecke.com RSS feed* `08-11`
-- [Introducing Muse Glimmer](https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/#atom-everything) — *Simon Willison's Weblog* `08-10`
-- [[Sponsor] Drata](https://drata.com/daring) — *Daring Fireball* `08-10`
-- [What’s New in iOS 27 Beta 5](https://9to5mac.com/2026/08/10/heres-whats-new-with-ios-27-beta-5/) — *Daring Fireball* `08-10`
-- [‘Friday Night Baseball’ Will Start Broadcasting Games Live, in Apple Immersive, on Vision Pro](https://www.apple.com/newsroom/2026/08/apple-mlb-announce-september-friday-night-baseball-schedule/) — *Daring Fireball* `08-10`
+- [Edinburgh Fringe: Noted ★★★⯪☆](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-noted/) — *Terence Eden’s Blog* `08-11`
+- [Manually unbreakable cryptography](https://www.johndcook.com/blog/2026/08/11/manually-unbreakable-cryptography/) — *John D. Cook* `08-11`
+- [Gadget Review: Soundpeats POP Clip2 Earphones ★★★★⯪](https://shkspr.mobi/blog/2026/08/gadget-review-soundpeats-pop-clip2-earphones/) — *Terence Eden’s Blog* `08-11`
+- [Pluralistic: Surveillance vs guillotines (11 Aug 2026)](https://pluralistic.net/2026/08/11/tragedy-of-the-commoners/) — *Pluralistic: Daily links from Cory Doctorow* `08-11`
+- [Shared Code Between Package Managers](https://nesbitt.io/2026/08/11/package-manager-library-reuse.html) — *Andrew Nesbitt* `08-11`
 <!--BLOG_RADAR:end-->
 
 ---

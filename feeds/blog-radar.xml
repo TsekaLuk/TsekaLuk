@@ -4,7 +4,42 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 11 Aug 2026 07:17:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 13:19:36 +0000</lastBuildDate>
+    <item>
+      <title>Edinburgh Fringe: Noted ★★★⯪☆</title>
+      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-noted/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/edinburgh-fringe-noted/</guid>
+      <pubDate>Tue, 11 Aug 2026 12:45:28 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Manually unbreakable cryptography</title>
+      <link>https://www.johndcook.com/blog/2026/08/11/manually-unbreakable-cryptography/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/11/manually-unbreakable-cryptography/</guid>
+      <pubDate>Tue, 11 Aug 2026 12:04:24 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Gadget Review: Soundpeats POP Clip2 Earphones ★★★★⯪</title>
+      <link>https://shkspr.mobi/blog/2026/08/gadget-review-soundpeats-pop-clip2-earphones/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/gadget-review-soundpeats-pop-clip2-earphones/</guid>
+      <pubDate>Tue, 11 Aug 2026 11:34:37 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Pluralistic: Surveillance vs guillotines (11 Aug 2026)</title>
+      <link>https://pluralistic.net/2026/08/11/tragedy-of-the-commoners/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/08/11/tragedy-of-the-commoners/</guid>
+      <pubDate>Tue, 11 Aug 2026 11:19:13 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Shared Code Between Package Managers</title>
+      <link>https://nesbitt.io/2026/08/11/package-manager-library-reuse.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/08/11/package-manager-library-reuse.html</guid>
+      <pubDate>Tue, 11 Aug 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
     <item>
       <title>No, local models will not win</title>
       <link>https://seangoedecke.com/local-models-will-not-win/</link>
@@ -25,6 +60,13 @@
       <guid isPermaLink="true">https://drata.com/daring</guid>
       <pubDate>Mon, 10 Aug 2026 22:25:00 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>A noob learns FFT</title>
+      <link>https://entropicthoughts.com/fft</link>
+      <guid isPermaLink="true">https://entropicthoughts.com/fft</guid>
+      <pubDate>Mon, 10 Aug 2026 22:00:00 +0000</pubDate>
+      <description>Entropic Thoughts</description>
     </item>
     <item>
       <title>What’s New in iOS 27 Beta 5</title>
@@ -802,48 +844,6 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260805-00/?p=112591</guid>
       <pubDate>Wed, 05 Aug 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Committing to creativity</title>
-      <link>https://herman.bearblog.dev/creativity/</link>
-      <guid isPermaLink="true">https://herman.bearblog.dev/creativity/</guid>
-      <pubDate>Wed, 05 Aug 2026 12:04:00 +0000</pubDate>
-      <description>Herman's blog</description>
-    </item>
-    <item>
-      <title>Gadget Review: T2 Max plug-in Thermal Camera ★★★⯪☆</title>
-      <link>https://shkspr.mobi/blog/2026/08/gadget-review-t2-max-plug-in-thermal-camera/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/gadget-review-t2-max-plug-in-thermal-camera/</guid>
-      <pubDate>Wed, 05 Aug 2026 11:34:17 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Pluralistic: Google is a scammer's paradise (05 Aug 2026)</title>
-      <link>https://pluralistic.net/2026/08/05/absentee-landlord/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/08/05/absentee-landlord/</guid>
-      <pubDate>Wed, 05 Aug 2026 10:50:43 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging</title>
-      <link>https://simonwillison.net/2026/Aug/4/new-release-of-llm/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/4/new-release-of-llm/#atom-everything</guid>
-      <pubDate>Tue, 04 Aug 2026 23:58:24 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>★ OpenAI Responds to Apple’s Lawsuit and Motion for Preliminary Injunction: ‘Apple Is Getting This Wrong’</title>
-      <link>https://daringfireball.net/2026/08/openai_apple_is_getting_this_wrong</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/08/openai_apple_is_getting_this_wrong</guid>
-      <pubDate>Tue, 04 Aug 2026 22:51:19 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>llm-anthropic 0.26</title>
-      <link>https://simonwillison.net/2026/Aug/4/llm-anthropic/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/4/llm-anthropic/#atom-everything</guid>
-      <pubDate>Tue, 04 Aug 2026 22:00:58 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
