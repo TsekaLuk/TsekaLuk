@@ -4,7 +4,63 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 11 Aug 2026 13:19:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 19:10:29 +0000</lastBuildDate>
+    <item>
+      <title>The Talk Show: ‘Getting the Snack Right’</title>
+      <link>https://daringfireball.net/thetalkshow/2026/08/10/ep-454</link>
+      <guid isPermaLink="true">https://daringfireball.net/thetalkshow/2026/08/10/ep-454</guid>
+      <pubDate>Tue, 11 Aug 2026 19:00:00 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>The Fruits of AI</title>
+      <link>https://blog.jim-nielsen.com/2026/fruit-of-ai/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/fruit-of-ai/</guid>
+      <pubDate>Tue, 11 Aug 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
+    </item>
+    <item>
+      <title>Netflix Has Peaked</title>
+      <link>https://sharptext.net/2026/is-netflix-washed-now/</link>
+      <guid isPermaLink="true">https://sharptext.net/2026/is-netflix-washed-now/</guid>
+      <pubDate>Tue, 11 Aug 2026 18:54:53 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Edinburgh Fringe: Hamlet The Musical ★★☆☆☆</title>
+      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-hamlet-the-musical/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/edinburgh-fringe-hamlet-the-musical/</guid>
+      <pubDate>Tue, 11 Aug 2026 18:19:16 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Anthropic Posts ‘How Claude Marks AI-Generated Content’ Without Explaining How Claude Marks AI-Generated Content</title>
+      <link>https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content</link>
+      <guid isPermaLink="true">https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content</guid>
+      <pubDate>Tue, 11 Aug 2026 17:59:22 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Ryan Greenblatt – Human level AIs might build runaway superintelligences by 2032</title>
+      <link>https://www.dwarkesh.com/p/ryan-greenblatt</link>
+      <guid isPermaLink="true">https://www.dwarkesh.com/p/ryan-greenblatt</guid>
+      <pubDate>Tue, 11 Aug 2026 16:31:23 +0000</pubDate>
+      <description>Dwarkesh Podcast</description>
+    </item>
+    <item>
+      <title>Edinburgh Fringe: Afronauts ★★★★☆</title>
+      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-afronauts/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/edinburgh-fringe-afronauts/</guid>
+      <pubDate>Tue, 11 Aug 2026 16:17:12 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Dogs and fat tails</title>
+      <link>https://www.johndcook.com/blog/2026/08/11/dogs-and-fat-tails/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/11/dogs-and-fat-tails/</guid>
+      <pubDate>Tue, 11 Aug 2026 14:09:46 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
     <item>
       <title>Edinburgh Fringe: Noted ★★★⯪☆</title>
       <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-noted/</link>
@@ -46,6 +102,20 @@
       <guid isPermaLink="true">https://seangoedecke.com/local-models-will-not-win/</guid>
       <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Extending immutability: deletion without losing data</title>
+      <link>https://www.tigrisdata.com/blog/soft-delete-deep-dive/</link>
+      <guid isPermaLink="true">https://www.tigrisdata.com/blog/soft-delete-deep-dive/</guid>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>Thoughts I had while reading your comment</title>
+      <link>https://dynomight.net/comment/</link>
+      <guid isPermaLink="true">https://dynomight.net/comment/</guid>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>Introducing Muse Glimmer</title>
@@ -139,7 +209,7 @@
       <description>John D. Cook</description>
     </item>
     <item>
-      <title>How can I perform a Copy­File&amp;shy in unbuffered mode?</title>
+      <title>How can I perform a Copy­File in unbuffered mode?</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260810-00/?p=112600</link>
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260810-00/?p=112600</guid>
       <pubDate>Mon, 10 Aug 2026 14:00:00 +0000</pubDate>
@@ -188,7 +258,7 @@
       <description>Tedium: The Dull Side of the Internet.</description>
     </item>
     <item>
-      <title>Quoting OpenClaw</title>
+      <title>Quoting OpenClaw (running Opus 4.6)</title>
       <link>https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything</guid>
       <pubDate>Mon, 10 Aug 2026 02:05:16 +0000</pubDate>
@@ -774,76 +844,6 @@
       <guid isPermaLink="true">https://mastodon.social/@gruber/117044545772667716</guid>
       <pubDate>Wed, 05 Aug 2026 19:29:49 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>News: Microsoft Disclosures Suggest OpenAI Sales Account For Around 70% Of FY26 AI Revenue, More Than 7% of FY26 Revenue</title>
-      <link>https://www.wheresyoured.at/news-microsoft-disclosures-suggest-openai-sales-account-for-around-70-of-fy26-ai-revenue-more-than-7-of-fy26-revenue/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/news-microsoft-disclosures-suggest-openai-sales-account-for-around-70-of-fy26-ai-revenue-more-than-7-of-fy26-revenue/</guid>
-      <pubDate>Wed, 05 Aug 2026 18:41:14 +0000</pubDate>
-      <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>The code that didn’t break</title>
-      <link>https://www.johndcook.com/blog/2026/08/05/math-log/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/05/math-log/</guid>
-      <pubDate>Wed, 05 Aug 2026 18:26:25 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Proxmox officially supports Arm, with some caveats</title>
-      <link>https://www.jeffgeerling.com/blog/2026/proxmox-ve-arm-official/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/proxmox-ve-arm-official/</guid>
-      <pubDate>Wed, 05 Aug 2026 16:50:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
-      <title>A Bad HDMI Cable Broke My Mouse</title>
-      <link>https://jayd.ml/2026/08/05/bad-hdmi-cable-broken-mouse.html</link>
-      <guid isPermaLink="true">https://jayd.ml/2026/08/05/bad-hdmi-cable-broken-mouse.html</guid>
-      <pubDate>Wed, 05 Aug 2026 16:35:00 +0000</pubDate>
-      <description>Jayden’s Blog</description>
-    </item>
-    <item>
-      <title>Paul Thurrott Reviews the HP OmniBook Ultra 14, With Qualcomm’s Snapdragon X2</title>
-      <link>https://www.thurrott.com/mobile/copilot-pc/340107/hp-omnibook-ultra-14-snapdragon-x2-review</link>
-      <guid isPermaLink="true">https://www.thurrott.com/mobile/copilot-pc/340107/hp-omnibook-ultra-14-snapdragon-x2-review</guid>
-      <pubDate>Wed, 05 Aug 2026 15:41:32 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>How Compiler Explorer Runs on AWS in 2026</title>
-      <link>http://xania.org/202608/how-compiler-explorer-runs-on-aws?utm_source=feed&amp;utm_medium=rss</link>
-      <guid isPermaLink="true">http://xania.org/202608/how-compiler-explorer-runs-on-aws?utm_source=feed&amp;utm_medium=rss</guid>
-      <pubDate>Wed, 05 Aug 2026 15:19:00 +0000</pubDate>
-      <description>Matt Godbolt’s blog</description>
-    </item>
-    <item>
-      <title>Hacker News Thread on OpenAI’s ‘Apple Is Getting This Wrong’ Post</title>
-      <link>https://news.ycombinator.com/item?id=49164649</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=49164649</guid>
-      <pubDate>Wed, 05 Aug 2026 14:57:47 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Incentives are for losers</title>
-      <link>https://www.experimental-history.com/p/incentives-are-for-losers</link>
-      <guid isPermaLink="true">https://www.experimental-history.com/p/incentives-are-for-losers</guid>
-      <pubDate>Wed, 05 Aug 2026 14:54:40 +0000</pubDate>
-      <description>Experimental History</description>
-    </item>
-    <item>
-      <title>Enumerating trees and circles</title>
-      <link>https://www.johndcook.com/blog/2026/08/05/enumerating-trees-and-circles/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/05/enumerating-trees-and-circles/</guid>
-      <pubDate>Wed, 05 Aug 2026 14:49:35 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Creating a fake agile wrapper that is technically agile but is not useful outside its home apartment, part 3</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260805-00/?p=112591</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260805-00/?p=112591</guid>
-      <pubDate>Wed, 05 Aug 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
     </item>
   </channel>
 </rss>

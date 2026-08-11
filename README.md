@@ -208,11 +208,11 @@ Last Updated: Wednesday, August 12th, 2026, 2:53:51 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Edinburgh Fringe: Noted ★★★⯪☆](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-noted/) — *Terence Eden’s Blog* `08-11`
-- [Manually unbreakable cryptography](https://www.johndcook.com/blog/2026/08/11/manually-unbreakable-cryptography/) — *John D. Cook* `08-11`
-- [Gadget Review: Soundpeats POP Clip2 Earphones ★★★★⯪](https://shkspr.mobi/blog/2026/08/gadget-review-soundpeats-pop-clip2-earphones/) — *Terence Eden’s Blog* `08-11`
-- [Pluralistic: Surveillance vs guillotines (11 Aug 2026)](https://pluralistic.net/2026/08/11/tragedy-of-the-commoners/) — *Pluralistic: Daily links from Cory Doctorow* `08-11`
-- [Shared Code Between Package Managers](https://nesbitt.io/2026/08/11/package-manager-library-reuse.html) — *Andrew Nesbitt* `08-11`
+- [The Talk Show: ‘Getting the Snack Right’](https://daringfireball.net/thetalkshow/2026/08/10/ep-454) — *Daring Fireball* `08-11`
+- [The Fruits of AI](https://blog.jim-nielsen.com/2026/fruit-of-ai/) — *Jim Nielsen’s Blog* `08-11`
+- [Netflix Has Peaked](https://sharptext.net/2026/is-netflix-washed-now/) — *Daring Fireball* `08-11`
+- [Edinburgh Fringe: Hamlet The Musical ★★☆☆☆](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-hamlet-the-musical/) — *Terence Eden’s Blog* `08-11`
+- [Anthropic Posts ‘How Claude Marks AI-Generated Content’ Without Explaining How Claude Marks AI-Generated Content](https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content) — *Daring Fireball* `08-11`
 <!--BLOG_RADAR:end-->
 
 ---
