@@ -208,11 +208,11 @@ Last Updated: Wednesday, August 12th, 2026, 9:22:11 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [The Talk Show: ‘Getting the Snack Right’](https://daringfireball.net/thetalkshow/2026/08/10/ep-454) — *Daring Fireball* `08-11`
-- [The Fruits of AI](https://blog.jim-nielsen.com/2026/fruit-of-ai/) — *Jim Nielsen’s Blog* `08-11`
-- [Netflix Has Peaked](https://sharptext.net/2026/is-netflix-washed-now/) — *Daring Fireball* `08-11`
-- [Edinburgh Fringe: Hamlet The Musical ★★☆☆☆](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-hamlet-the-musical/) — *Terence Eden’s Blog* `08-11`
-- [Anthropic Posts ‘How Claude Marks AI-Generated Content’ Without Explaining How Claude Marks AI-Generated Content](https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content) — *Daring Fireball* `08-11`
+- [There are no lossless transformations of natural-language text](https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/#atom-everything) — *Simon Willison's Weblog* `08-11`
+- [Stealing Reasoning Traces from Proprietary LLM APIs](https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything) — *Simon Willison's Weblog* `08-11`
+- [Edinburgh Fringe - Justina Seselskaite: Settled ★★★★☆](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-justina-seselskaite-settled/) — *Terence Eden’s Blog* `08-11`
+- [The Economist: ‘How to Spot AI Writing’](https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing?giftId=NzBlNTc2OGItMDgxNS00N2EzLWE4NmUtZDgzZmE4Y2FkM2Mw) — *Daring Fireball* `08-11`
+- [Microsoft Plugs Nearly 400 Security Holes](https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/) — *Krebs on Security* `08-11`
 <!--BLOG_RADAR:end-->
 
 ---

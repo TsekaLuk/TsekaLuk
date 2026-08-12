@@ -4,7 +4,77 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 11 Aug 2026 19:10:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 02:27:43 +0000</lastBuildDate>
+    <item>
+      <title>There are no lossless transformations of natural-language text</title>
+      <link>https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/#atom-everything</guid>
+      <pubDate>Tue, 11 Aug 2026 23:48:35 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Stealing Reasoning Traces from Proprietary LLM APIs</title>
+      <link>https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything</guid>
+      <pubDate>Tue, 11 Aug 2026 22:40:45 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Edinburgh Fringe - Justina Seselskaite: Settled ★★★★☆</title>
+      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-justina-seselskaite-settled/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/edinburgh-fringe-justina-seselskaite-settled/</guid>
+      <pubDate>Tue, 11 Aug 2026 22:23:14 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>The Economist: ‘How to Spot AI Writing’</title>
+      <link>https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing?giftId=NzBlNTc2OGItMDgxNS00N2EzLWE4NmUtZDgzZmE4Y2FkM2Mw</link>
+      <guid isPermaLink="true">https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing?giftId=NzBlNTc2OGItMDgxNS00N2EzLWE4NmUtZDgzZmE4Y2FkM2Mw</guid>
+      <pubDate>Tue, 11 Aug 2026 21:37:06 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Microsoft Plugs Nearly 400 Security Holes</title>
+      <link>https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/</link>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/</guid>
+      <pubDate>Tue, 11 Aug 2026 21:28:35 +0000</pubDate>
+      <description>Krebs on Security</description>
+    </item>
+    <item>
+      <title>Edinburgh Fringe: Handel Nine German Arias ★★★⯪☆</title>
+      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-handel-nine-german-arias/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/edinburgh-fringe-handel-nine-german-arias/</guid>
+      <pubDate>Tue, 11 Aug 2026 20:21:05 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Alex Micek on BMW’s iDrive ‘Special Surprises’</title>
+      <link>https://tumbledry.org/2026/08/07/idrive_ads</link>
+      <guid isPermaLink="true">https://tumbledry.org/2026/08/07/idrive_ads</guid>
+      <pubDate>Tue, 11 Aug 2026 19:56:13 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>BMW Probably Paid Sony for the Spider-Man Dashboard Ads, Not the Other Way Around</title>
+      <link>https://www.press.bmwgroup.com/global/article/detail/T0459622EN/bmw-brings-modern-mobility-to-the-sony-pictures-film-%E2%80%9Cspider-man%E2%84%A2:-brand-new-day%E2%80%9D?language=en</link>
+      <guid isPermaLink="true">https://www.press.bmwgroup.com/global/article/detail/T0459622EN/bmw-brings-modern-mobility-to-the-sony-pictures-film-%E2%80%9Cspider-man%E2%84%A2:-brand-new-day%E2%80%9D?language=en</guid>
+      <pubDate>Tue, 11 Aug 2026 19:46:49 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Mark Zuckerberg Posts 6,500-Word AI Essay</title>
+      <link>https://www.meta.com/thefutureisforeveryone/</link>
+      <guid isPermaLink="true">https://www.meta.com/thefutureisforeveryone/</guid>
+      <pubDate>Tue, 11 Aug 2026 19:36:36 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Don't Look Up</title>
+      <link>https://www.wheresyoured.at/dont-look-up/</link>
+      <guid isPermaLink="true">https://www.wheresyoured.at/dont-look-up/</guid>
+      <pubDate>Tue, 11 Aug 2026 19:14:25 +0000</pubDate>
+      <description>Ed Zitron's Where's Your Ed At</description>
+    </item>
     <item>
       <title>The Talk Show: ‘Getting the Snack Right’</title>
       <link>https://daringfireball.net/thetalkshow/2026/08/10/ep-454</link>
@@ -774,76 +844,6 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/08/06/a-year-of-ai-disclosure-in-critical-packages.html</guid>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Introducing Muse Code and Muse Spark 1.2</title>
-      <link>https://simonwillison.net/2026/Aug/5/muse-code-and-muse-spark-12/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/5/muse-code-and-muse-spark-12/#atom-everything</guid>
-      <pubDate>Wed, 05 Aug 2026 23:58:35 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Third-party cyber evaluations involving OpenAI models</title>
-      <link>https://simonwillison.net/2026/Aug/5/third-party-cyber-evaluations/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/5/third-party-cyber-evaluations/#atom-everything</guid>
-      <pubDate>Wed, 05 Aug 2026 23:45:32 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Incident Report: unsanctioned agent behaviour during cyber testing</title>
-      <link>https://simonwillison.net/2026/Aug/5/incident-report/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/5/incident-report/#atom-everything</guid>
-      <pubDate>Wed, 05 Aug 2026 23:32:06 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Shawn Smucker: ‘Please Use AI’</title>
-      <link>https://shawnsmucker.substack.com/p/please-use-ai</link>
-      <guid isPermaLink="true">https://shawnsmucker.substack.com/p/please-use-ai</guid>
-      <pubDate>Wed, 05 Aug 2026 23:16:47 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Matthew Green on Anthropic’s New Cryptanalysis Results</title>
-      <link>https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/</link>
-      <guid isPermaLink="true">https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/</guid>
-      <pubDate>Wed, 05 Aug 2026 23:08:52 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Uh, I’m Pretty Sure People Would Know</title>
-      <link>https://www.nytimes.com/2026/08/04/magazine/trump-rfk-steak-kimchi-diet.html?unlocked_article_code=1.21A.ymed.OyFVP85xWyNK</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/magazine/trump-rfk-steak-kimchi-diet.html?unlocked_article_code=1.21A.ymed.OyFVP85xWyNK</guid>
-      <pubDate>Wed, 05 Aug 2026 21:53:24 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Sam Altman, Definitely Not a Weirdo</title>
-      <link>https://www.businessinsider.com/ai-parenting-debate-sam-altman-2026-8</link>
-      <guid isPermaLink="true">https://www.businessinsider.com/ai-parenting-debate-sam-altman-2026-8</guid>
-      <pubDate>Wed, 05 Aug 2026 21:10:24 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>David Pogue: ‘Alexa+ Is a Buggy Embarrassment’</title>
-      <link>https://pogueman.substack.com/p/alexa-is-a-buggy-embarrassment</link>
-      <guid isPermaLink="true">https://pogueman.substack.com/p/alexa-is-a-buggy-embarrassment</guid>
-      <pubDate>Wed, 05 Aug 2026 20:56:09 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>One-shotting a Raccoon Heist game using Claude Fable 5</title>
-      <link>https://simonwillison.net/2026/Aug/5/raccoon-heist/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/5/raccoon-heist/#atom-everything</guid>
-      <pubDate>Wed, 05 Aug 2026 19:42:38 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Apple News Ad of the Week</title>
-      <link>https://mastodon.social/@gruber/117044545772667716</link>
-      <guid isPermaLink="true">https://mastodon.social/@gruber/117044545772667716</guid>
-      <pubDate>Wed, 05 Aug 2026 19:29:49 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
