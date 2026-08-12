@@ -208,11 +208,11 @@ Last Updated: Thursday, August 13th, 2026, 2:53:57 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Cryptic but consistent](https://www.johndcook.com/blog/2026/08/12/cryptic-but-consistent/) — *John D. Cook* `08-12`
-- [Where Did the Productivity Gains Go?](https://idiallo.com/blog/where-did-the-productivity-gains-go) — *Software and Tech stories from an Insider - iDiallo.com* `08-12`
-- [OTel Isn't Going Well (And I Made A Spreadsheet About It)](https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/) — *matduggan.com* `08-12`
-- [Pluralistic: Model collapse (12 Aug 2026)](https://pluralistic.net/2026/08/12/insurance-value-of-biodiversity/) — *Pluralistic: Daily links from Cory Doctorow* `08-12`
-- [Weekly Update 516: Live From Vietnam](https://www.troyhunt.com/weekly-update-516/) — *Troy Hunt* `08-12`
+- [Amazon Is Spiting Customers With Unhelpful Order Confirmation Emails](https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data) — *Daring Fireball* `08-12`
+- [Edinburgh Fringe - Garrett Millerick: We Tried it Your Way ★☆☆☆☆](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-garrett-millerick-we-tried-it-your-way/) — *Terence Eden’s Blog* `08-12`
+- [Edinburgh Fringe: When Vincent Met John ★★★★★](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-when-vincent-met-john/) — *Terence Eden’s Blog* `08-12`
+- [Quoting Florian Herrengt](https://simonwillison.net/2026/Aug/12/florian-herrengt/#atom-everything) — *Simon Willison's Weblog* `08-12`
+- [App Store Scam of the Week: ‘TabControl Extension’ for Safari](https://lapcatsoftware.com/articles/2026/8/4.html) — *Daring Fireball* `08-12`
 <!--BLOG_RADAR:end-->
 
 ---
