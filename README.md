@@ -208,11 +208,11 @@ Last Updated: Wednesday, August 12th, 2026, 3:15:14 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Books I Enjoyed In 2026H1](https://borretti.me/article/books-i-enjoyed-in-2026-h1) — *Fernando Borretti* `08-12`
 - [There are no lossless transformations of natural-language text](https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/#atom-everything) — *Simon Willison's Weblog* `08-11`
 - [Stealing Reasoning Traces from Proprietary LLM APIs](https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything) — *Simon Willison's Weblog* `08-11`
 - [Edinburgh Fringe - Justina Seselskaite: Settled ★★★★☆](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-justina-seselskaite-settled/) — *Terence Eden’s Blog* `08-11`
 - [The Economist: ‘How to Spot AI Writing’](https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing?giftId=NzBlNTc2OGItMDgxNS00N2EzLWE4NmUtZDgzZmE4Y2FkM2Mw) — *Daring Fireball* `08-11`
-- [Microsoft Plugs Nearly 400 Security Holes](https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/) — *Krebs on Security* `08-11`
 <!--BLOG_RADAR:end-->
 
 ---

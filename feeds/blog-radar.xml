@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 12 Aug 2026 02:27:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 07:41:20 +0000</lastBuildDate>
+    <item>
+      <title>Books I Enjoyed In 2026H1</title>
+      <link>https://borretti.me/article/books-i-enjoyed-in-2026-h1</link>
+      <guid isPermaLink="true">https://borretti.me/article/books-i-enjoyed-in-2026-h1</guid>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Fernando Borretti</description>
+    </item>
     <item>
       <title>There are no lossless transformations of natural-language text</title>
       <link>https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/#atom-everything</link>
@@ -39,6 +46,13 @@
       <guid isPermaLink="true">https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/</guid>
       <pubDate>Tue, 11 Aug 2026 21:28:35 +0000</pubDate>
       <description>Krebs on Security</description>
+    </item>
+    <item>
+      <title>datasette-upload-dbs 0.5a0</title>
+      <link>https://simonwillison.net/2026/Aug/11/datasette-upload-dbs/#atom-everything</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/11/datasette-upload-dbs/#atom-everything</guid>
+      <pubDate>Tue, 11 Aug 2026 20:35:13 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
     <item>
       <title>Edinburgh Fringe: Handel Nine German Arias ★★★⯪☆</title>
@@ -132,6 +146,13 @@
       <description>John D. Cook</description>
     </item>
     <item>
+      <title>The little-known winstart.bat batch file</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260811-00/?p=112605</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260811-00/?p=112605</guid>
+      <pubDate>Tue, 11 Aug 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
+    <item>
       <title>Edinburgh Fringe: Noted ★★★⯪☆</title>
       <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-noted/</link>
       <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/edinburgh-fringe-noted/</guid>
@@ -146,7 +167,7 @@
       <description>John D. Cook</description>
     </item>
     <item>
-      <title>Gadget Review: Soundpeats POP Clip2 Earphones ★★★★⯪</title>
+      <title>Gadget Review: Soundpeats UU2 POP Clip2 Earphones ★★★★⯪</title>
       <link>https://shkspr.mobi/blog/2026/08/gadget-review-soundpeats-pop-clip2-earphones/</link>
       <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/gadget-review-soundpeats-pop-clip2-earphones/</guid>
       <pubDate>Tue, 11 Aug 2026 11:34:37 +0000</pubDate>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything</guid>
       <pubDate>Thu, 06 Aug 2026 00:25:27 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>SigV4 authentication is surprisingly complicated</title>
-      <link>https://www.tigrisdata.com/blog/sigv4/</link>
-      <guid isPermaLink="true">https://www.tigrisdata.com/blog/sigv4/</guid>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
-      <title>Zig's Io.Threaded is Neat</title>
-      <link>https://matklad.github.io/2026/08/06/neat-io-threaded.html</link>
-      <guid isPermaLink="true">https://matklad.github.io/2026/08/06/neat-io-threaded.html</guid>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <description>matklad</description>
-    </item>
-    <item>
-      <title>A year of AI disclosure in critical packages</title>
-      <link>https://nesbitt.io/2026/08/06/a-year-of-ai-disclosure-in-critical-packages.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/08/06/a-year-of-ai-disclosure-in-critical-packages.html</guid>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
     </item>
   </channel>
 </rss>
