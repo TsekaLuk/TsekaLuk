@@ -4,7 +4,42 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 12 Aug 2026 07:41:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 13:23:35 +0000</lastBuildDate>
+    <item>
+      <title>Cryptic but consistent</title>
+      <link>https://www.johndcook.com/blog/2026/08/12/cryptic-but-consistent/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/12/cryptic-but-consistent/</guid>
+      <pubDate>Wed, 12 Aug 2026 13:17:03 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Where Did the Productivity Gains Go?</title>
+      <link>https://idiallo.com/blog/where-did-the-productivity-gains-go</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/where-did-the-productivity-gains-go</guid>
+      <pubDate>Wed, 12 Aug 2026 12:00:00 +0000</pubDate>
+      <description>Software and Tech stories from an Insider - iDiallo.com</description>
+    </item>
+    <item>
+      <title>OTel Isn't Going Well (And I Made A Spreadsheet About It)</title>
+      <link>https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/</link>
+      <guid isPermaLink="true">https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/</guid>
+      <pubDate>Wed, 12 Aug 2026 11:14:11 +0000</pubDate>
+      <description>matduggan.com</description>
+    </item>
+    <item>
+      <title>Pluralistic: Model collapse (12 Aug 2026)</title>
+      <link>https://pluralistic.net/2026/08/12/insurance-value-of-biodiversity/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/08/12/insurance-value-of-biodiversity/</guid>
+      <pubDate>Wed, 12 Aug 2026 08:55:27 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Weekly Update 516: Live From Vietnam</title>
+      <link>https://www.troyhunt.com/weekly-update-516/</link>
+      <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-516/</guid>
+      <pubDate>Wed, 12 Aug 2026 08:16:15 +0000</pubDate>
+      <description>Troy Hunt</description>
+    </item>
     <item>
       <title>Books I Enjoyed In 2026H1</title>
       <link>https://borretti.me/article/books-i-enjoyed-in-2026-h1</link>
@@ -125,7 +160,7 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Ryan Greenblatt – Human level AIs might build runaway superintelligences by 2032</title>
+      <title>Ryan Greenblatt – What happens once AI can automate AI research?</title>
       <link>https://www.dwarkesh.com/p/ryan-greenblatt</link>
       <guid isPermaLink="true">https://www.dwarkesh.com/p/ryan-greenblatt</guid>
       <pubDate>Tue, 11 Aug 2026 16:31:23 +0000</pubDate>
@@ -809,41 +844,6 @@
       <guid isPermaLink="true">https://www.hollywoodreporter.com/movies/movie-news/bmw-spider-man-brand-new-day-ads-1236665172/</guid>
       <pubDate>Thu, 06 Aug 2026 15:19:01 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Creating a fake agile wrapper that is technically agile but is not useful outside its home apartment, part 4</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260806-00/?p=112595</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260806-00/?p=112595</guid>
-      <pubDate>Thu, 06 Aug 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Calculating log(1000!)</title>
-      <link>https://www.johndcook.com/blog/2026/08/06/log1000/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/06/log1000/</guid>
-      <pubDate>Thu, 06 Aug 2026 13:23:43 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>What Will the 21st Century ROAD to Housing Act Do for Housing Supply?</title>
-      <link>https://www.construction-physics.com/p/what-will-the-21st-century-road-to</link>
-      <guid isPermaLink="true">https://www.construction-physics.com/p/what-will-the-21st-century-road-to</guid>
-      <pubDate>Thu, 06 Aug 2026 12:02:32 +0000</pubDate>
-      <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>Pluralistic: Eternal Sloptember (06 Aug 2026)</title>
-      <link>https://pluralistic.net/2026/08/06/sin-is-when/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/08/06/sin-is-when/</guid>
-      <pubDate>Thu, 06 Aug 2026 10:07:06 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>An AI model from Meta also hacked another company during testing</title>
-      <link>https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything</guid>
-      <pubDate>Thu, 06 Aug 2026 00:25:27 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
