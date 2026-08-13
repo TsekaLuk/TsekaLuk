@@ -208,11 +208,11 @@ Last Updated: Friday, August 14th, 2026, 2:54:29 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Book Review: Coding Literacy by Annette Vee ★★⯪☆☆](https://shkspr.mobi/blog/2026/08/book-review-coding-literacy-by-annette-vee/) — *Terence Eden’s Blog* `08-13`
+- [Supplier Security Questionnaire](https://nesbitt.io/2026/08/13/supplier-security-questionnaire.html) — *Andrew Nesbitt* `08-13`
+- [Ceramic Shield 2 Is the Real Deal](https://www.tomsguide.com/phones/iphones/iphone-17-and-iphone-air-durability-testing-heres-how-the-new-iphones-stand-up-to-bending-scratching-and-dropping) — *Daring Fireball* `08-13`
+- [Constructing Hadamard matrices](https://www.johndcook.com/blog/2026/08/13/constructing-hadamard-matrices/) — *John D. Cook* `08-13`
 - [Google Design Pisses Its Pants on Twitter/X](https://x.com/googledesign/status/2087195277094695096) — *Daring Fireball* `08-13`
-- [DeepSeek V4 Pro 0813 (on OpenRouter)](https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/) — *Simon Willison's Weblog* `08-12`
-- [Joanna Stern on the Pixel 11 ‘HiLight’ Notification Light](https://thenewthings.com/p/the-new-pixel-feature-i-want-on-my-iphone?gift_content=e9bf3ebd-db33-4ee5-91b0-84d7acac3263) — *Daring Fireball* `08-12`
-- [Edinburgh Fringe - Heated Rivalry: The Unauthorized Musical Parody ★★★★☆](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-heated-rivalry-the-unauthorized-musical-parody/) — *Terence Eden’s Blog* `08-12`
+- [Another partial SSI trick with canonicalize](https://bernsteinbear.com/blog/more-partial-ssi/?utm_source=rss) — *Max Bernstein's Blog* `08-13`
 <!--BLOG_RADAR:end-->
 
 ---
