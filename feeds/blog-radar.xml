@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 13 Aug 2026 07:43:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 13:25:29 +0000</lastBuildDate>
+    <item>
+      <title>Book Review: Coding Literacy by Annette Vee ★★⯪☆☆</title>
+      <link>https://shkspr.mobi/blog/2026/08/book-review-coding-literacy-by-annette-vee/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/book-review-coding-literacy-by-annette-vee/</guid>
+      <pubDate>Thu, 13 Aug 2026 11:34:09 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
     <item>
       <title>Google Design Pisses Its Pants on Twitter/X</title>
       <link>https://x.com/googledesign/status/2087195277094695096</link>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/excited-for-intel-efficiency/</guid>
       <pubDate>Fri, 07 Aug 2026 14:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
-    </item>
-    <item>
-      <title>Creating a fake agile wrapper that is technically agile but is not useful outside its home apartment, part 5</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260807-00/?p=112597</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260807-00/?p=112597</guid>
-      <pubDate>Fri, 07 Aug 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
     </item>
   </channel>
 </rss>

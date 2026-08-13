@@ -208,11 +208,11 @@ Last Updated: Thursday, August 13th, 2026, 8:56:01 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Book Review: Coding Literacy by Annette Vee ★★⯪☆☆](https://shkspr.mobi/blog/2026/08/book-review-coding-literacy-by-annette-vee/) — *Terence Eden’s Blog* `08-13`
 - [Google Design Pisses Its Pants on Twitter/X](https://x.com/googledesign/status/2087195277094695096) — *Daring Fireball* `08-13`
 - [DeepSeek V4 Pro 0813 (on OpenRouter)](https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/) — *Simon Willison's Weblog* `08-12`
 - [Joanna Stern on the Pixel 11 ‘HiLight’ Notification Light](https://thenewthings.com/p/the-new-pixel-feature-i-want-on-my-iphone?gift_content=e9bf3ebd-db33-4ee5-91b0-84d7acac3263) — *Daring Fireball* `08-12`
 - [Edinburgh Fringe - Heated Rivalry: The Unauthorized Musical Parody ★★★★☆](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-heated-rivalry-the-unauthorized-musical-parody/) — *Terence Eden’s Blog* `08-12`
-- [Google Introduces ‘Camera Looks’ With Pixel 11 Phones](https://www.theverge.com/tech/978084/google-camera-looks-interview-computational-photography) — *Daring Fireball* `08-12`
 <!--BLOG_RADAR:end-->
 
 ---
