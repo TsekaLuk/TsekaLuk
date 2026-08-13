@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 13 Aug 2026 02:29:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 07:43:14 +0000</lastBuildDate>
     <item>
       <title>Google Design Pisses Its Pants on Twitter/X</title>
       <link>https://x.com/googledesign/status/2087195277094695096</link>
@@ -39,6 +39,13 @@
       <guid isPermaLink="true">https://www.theverge.com/tech/978084/google-camera-looks-interview-computational-photography</guid>
       <pubDate>Wed, 12 Aug 2026 20:58:15 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>alchemy-utils 0.1a0</title>
+      <link>https://simonwillison.net/2026/Aug/12/alchemy-utils/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/12/alchemy-utils/</guid>
+      <pubDate>Wed, 12 Aug 2026 19:51:30 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
     <item>
       <title>TechCrunch on Google’s Pixel 11 Lineup</title>
@@ -123,6 +130,13 @@
       <guid isPermaLink="true">https://mastodon.social/@BasicAppleGuy/117073366339407186</guid>
       <pubDate>Wed, 12 Aug 2026 14:43:11 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>The comments that go into code versus those that go into the pull request description</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260812-00/?p=112607</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260812-00/?p=112607</guid>
+      <pubDate>Wed, 12 Aug 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Cryptic but consistent</title>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260807-00/?p=112597</guid>
       <pubDate>Fri, 07 Aug 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>cos(200!)</title>
-      <link>https://www.johndcook.com/blog/2026/08/07/cos200/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/07/cos200/</guid>
-      <pubDate>Fri, 07 Aug 2026 13:19:07 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Metadata for AI Generated Outputs</title>
-      <link>https://shkspr.mobi/blog/2026/08/metadata-for-ai-generated-outputs/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/metadata-for-ai-generated-outputs/</guid>
-      <pubDate>Fri, 07 Aug 2026 11:34:30 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
   </channel>
 </rss>
