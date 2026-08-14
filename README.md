@@ -208,11 +208,11 @@ Last Updated: Saturday, August 15th, 2026, 2:43:54 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Edinburgh Fringe: Waiting for Wonka ★★★⯪☆](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-waiting-for-wonka/) — *Terence Eden’s Blog* `08-14`
-- [How Will the 21st Century ROAD to Housing Act Affect Housing Supply? Part II](https://www.construction-physics.com/p/how-will-the-21st-century-road-to) — *Construction Physics* `08-14`
-- [Who’s Tracking You? Use This New Service to Find Out](https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/) — *Krebs on Security* `08-14`
-- [Pluralistic: Capital formation (14 Aug 2026)](https://pluralistic.net/2026/08/14/one-chokable-throat/) — *Pluralistic: Daily links from Cory Doctorow* `08-14`
-- [How This Blog Is Built](https://nesbitt.io/2026/08/14/how-this-blog-is-built.html) — *Andrew Nesbitt* `08-14`
+- [Oh Hey, It’s Not Just Me](https://blog.jim-nielsen.com/2026/its-not-just-me/) — *Jim Nielsen’s Blog* `08-14`
+- [★ You Don’t Need to Worry About Scratching Your iPhone Camera Lenses](https://daringfireball.net/2026/08/iphone_camera_lens_scratch_resistance) — *Daring Fireball* `08-14`
+- [Google’s ‘Material 3’ Design Write-Up Is 93.3 Percent Embarrassing](https://design.google/library/expressive-material-design-google-research) — *Daring Fireball* `08-14`
+- [This Week on The Analog Antiquarian](https://www.filfre.net/2026/08/this-week-on-the-analog-antiquarian/) — *The Digital Antiquarian* `08-14`
+- [Premium: How Much Money Does AI Need?](https://www.wheresyoured.at/premium-how-much-money-does-ai-need/) — *Ed Zitron's Where's Your Ed At* `08-14`
 <!--BLOG_RADAR:end-->
 
 ---
