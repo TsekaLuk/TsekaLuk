@@ -208,11 +208,11 @@ Last Updated: Friday, August 14th, 2026, 8:52:32 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Hadamard Codes and Sphere Packing](https://www.johndcook.com/blog/2026/08/13/hadamard-sphere-packing/) — *John D. Cook* `08-14`
-- [How NASA’s Mariner 9 probe encoded images](https://www.johndcook.com/blog/2026/08/13/mariner-hadamard/) — *John D. Cook* `08-13`
-- [sqlite-utils 4.2.1](https://simonwillison.net/2026/Aug/13/sqlite-utils-2/) — *Simon Willison's Weblog* `08-13`
-- [Edinburgh Fringe: Doris, Dolly and the Dressing Room Divas ★★★★⯪](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-doris-dolly-and-the-dressing-room-divas/) — *Terence Eden’s Blog* `08-13`
-- [Edinburgh Fringe: The Musical Mystery Caller ★★★★★](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-the-musical-mystery-caller/) — *Terence Eden’s Blog* `08-13`
+- [Edinburgh Fringe: Waiting for Wonka ★★★⯪☆](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-waiting-for-wonka/) — *Terence Eden’s Blog* `08-14`
+- [How Will the 21st Century ROAD to Housing Act Affect Housing Supply? Part II](https://www.construction-physics.com/p/how-will-the-21st-century-road-to) — *Construction Physics* `08-14`
+- [Who’s Tracking You? Use This New Service to Find Out](https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/) — *Krebs on Security* `08-14`
+- [Pluralistic: Capital formation (14 Aug 2026)](https://pluralistic.net/2026/08/14/one-chokable-throat/) — *Pluralistic: Daily links from Cory Doctorow* `08-14`
+- [How This Blog Is Built](https://nesbitt.io/2026/08/14/how-this-blog-is-built.html) — *Andrew Nesbitt* `08-14`
 <!--BLOG_RADAR:end-->
 
 ---
