@@ -208,11 +208,11 @@ Last Updated: Friday, August 14th, 2026, 9:23:20 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Supplier Security Questionnaire](https://nesbitt.io/2026/08/13/supplier-security-questionnaire.html) — *Andrew Nesbitt* `08-13`
-- [Ceramic Shield 2 Is the Real Deal](https://www.tomsguide.com/phones/iphones/iphone-17-and-iphone-air-durability-testing-heres-how-the-new-iphones-stand-up-to-bending-scratching-and-dropping) — *Daring Fireball* `08-13`
-- [Constructing Hadamard matrices](https://www.johndcook.com/blog/2026/08/13/constructing-hadamard-matrices/) — *John D. Cook* `08-13`
-- [Google Design Pisses Its Pants on Twitter/X](https://x.com/googledesign/status/2087195277094695096) — *Daring Fireball* `08-13`
-- [Another partial SSI trick with canonicalize](https://bernsteinbear.com/blog/more-partial-ssi/?utm_source=rss) — *Max Bernstein's Blog* `08-13`
+- [Hadamard Codes and Sphere Packing](https://www.johndcook.com/blog/2026/08/13/hadamard-sphere-packing/) — *John D. Cook* `08-14`
+- [How NASA’s Mariner 9 probe encoded images](https://www.johndcook.com/blog/2026/08/13/mariner-hadamard/) — *John D. Cook* `08-13`
+- [sqlite-utils 4.2.1](https://simonwillison.net/2026/Aug/13/sqlite-utils-2/) — *Simon Willison's Weblog* `08-13`
+- [Edinburgh Fringe: Doris, Dolly and the Dressing Room Divas ★★★★⯪](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-doris-dolly-and-the-dressing-room-divas/) — *Terence Eden’s Blog* `08-13`
+- [Edinburgh Fringe: The Musical Mystery Caller ★★★★★](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-the-musical-mystery-caller/) — *Terence Eden’s Blog* `08-13`
 <!--BLOG_RADAR:end-->
 
 ---
