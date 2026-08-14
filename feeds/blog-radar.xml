@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 14 Aug 2026 02:27:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 07:40:49 +0000</lastBuildDate>
     <item>
       <title>Hadamard Codes and Sphere Packing</title>
       <link>https://www.johndcook.com/blog/2026/08/13/hadamard-sphere-packing/</link>
@@ -48,6 +48,13 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
+      <title>llm-gemini 0.33</title>
+      <link>https://simonwillison.net/2026/Aug/13/llm-gemini/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/13/llm-gemini/</guid>
+      <pubDate>Thu, 13 Aug 2026 19:37:34 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
       <title>Edinburgh Fringe: Miscast Sondheim ★★☆☆☆</title>
       <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-miscast-sondheim/</link>
       <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/edinburgh-fringe-miscast-sondheim/</guid>
@@ -88,6 +95,13 @@
       <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/edinburgh-fringe-eleanor-morton-the-mermaid/</guid>
       <pubDate>Thu, 13 Aug 2026 14:55:59 +0000</pubDate>
       <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>A little helper class for managing LPPROC_THREAD_ATTRIBUTE_LISTs</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260813-00/?p=112611</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260813-00/?p=112611</guid>
+      <pubDate>Thu, 13 Aug 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Book Review: Coding Literacy by Annette Vee ★★⯪☆☆</title>
@@ -468,18 +482,18 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>Extending immutability: deletion without losing data</title>
-      <link>https://www.tigrisdata.com/blog/soft-delete-deep-dive/</link>
-      <guid isPermaLink="true">https://www.tigrisdata.com/blog/soft-delete-deep-dive/</guid>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
       <title>Thoughts I had while reading your comment</title>
       <link>https://dynomight.net/comment/</link>
       <guid isPermaLink="true">https://dynomight.net/comment/</guid>
       <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
       <description>DYNOMIGHT</description>
+    </item>
+    <item>
+      <title>Extending immutability: deletion without losing data</title>
+      <link>https://www.tigrisdata.com/blog/soft-delete-deep-dive/</link>
+      <guid isPermaLink="true">https://www.tigrisdata.com/blog/soft-delete-deep-dive/</guid>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>Introducing Muse Glimmer</title>
@@ -829,20 +843,6 @@
       <link>https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/</guid>
       <pubDate>Fri, 07 Aug 2026 18:13:55 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Meta: Introducing Muse Code and Muse Spark 1.2</title>
-      <link>https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2</link>
-      <guid isPermaLink="true">https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2</guid>
-      <pubDate>Fri, 07 Aug 2026 18:05:03 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>App Store Review Times Are Failing to Meet the AI-Driven Influx of Submissions</title>
-      <link>https://macaw.social/@mergesort/117055390966724799</link>
-      <guid isPermaLink="true">https://macaw.social/@mergesort/117055390966724799</guid>
-      <pubDate>Fri, 07 Aug 2026 17:45:22 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
   </channel>
