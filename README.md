@@ -208,11 +208,11 @@ Last Updated: Saturday, August 15th, 2026, 8:53:55 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Don't classify. Hallucinate!](https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/) — *Simon Willison's Weblog* `08-14`
 - [Oh Hey, It’s Not Just Me](https://blog.jim-nielsen.com/2026/its-not-just-me/) — *Jim Nielsen’s Blog* `08-14`
+- [Edinburgh Fringe: Target Audience ★★★★★](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-target-audience/) — *Terence Eden’s Blog* `08-14`
 - [★ You Don’t Need to Worry About Scratching Your iPhone Camera Lenses](https://daringfireball.net/2026/08/iphone_camera_lens_scratch_resistance) — *Daring Fireball* `08-14`
 - [Google’s ‘Material 3’ Design Write-Up Is 93.3 Percent Embarrassing](https://design.google/library/expressive-material-design-google-research) — *Daring Fireball* `08-14`
-- [This Week on The Analog Antiquarian](https://www.filfre.net/2026/08/this-week-on-the-analog-antiquarian/) — *The Digital Antiquarian* `08-14`
-- [Premium: How Much Money Does AI Need?](https://www.wheresyoured.at/premium-how-much-money-does-ai-need/) — *Ed Zitron's Where's Your Ed At* `08-14`
 <!--BLOG_RADAR:end-->
 
 ---

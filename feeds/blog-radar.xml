@@ -4,13 +4,27 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 14 Aug 2026 19:02:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 01:38:15 +0000</lastBuildDate>
+    <item>
+      <title>Don't classify. Hallucinate!</title>
+      <link>https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/</guid>
+      <pubDate>Fri, 14 Aug 2026 21:54:35 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Oh Hey, It’s Not Just Me</title>
       <link>https://blog.jim-nielsen.com/2026/its-not-just-me/</link>
       <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/its-not-just-me/</guid>
       <pubDate>Fri, 14 Aug 2026 19:00:00 +0000</pubDate>
       <description>Jim Nielsen’s Blog</description>
+    </item>
+    <item>
+      <title>Edinburgh Fringe: Target Audience ★★★★★</title>
+      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-target-audience/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/edinburgh-fringe-target-audience/</guid>
+      <pubDate>Fri, 14 Aug 2026 18:45:41 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>★ You Don’t Need to Worry About Scratching Your iPhone Camera Lenses</title>
@@ -41,11 +55,25 @@
       <description>Ed Zitron's Where's Your Ed At</description>
     </item>
     <item>
+      <title>Edinburgh Fringe: Stand-up Philosophy ★★★⯪☆</title>
+      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-stand-up-philosophy/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/edinburgh-fringe-stand-up-philosophy/</guid>
+      <pubDate>Fri, 14 Aug 2026 15:16:26 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>Forcing an ARM64X executable to run as a specific architecture</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260814-00/?p=112613</link>
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260814-00/?p=112613</guid>
       <pubDate>Fri, 14 Aug 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>Edinburgh Fringe: Waiting for Wonka ★★★⯪☆</title>
+      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-waiting-for-wonka/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/edinburgh-fringe-waiting-for-wonka/</guid>
+      <pubDate>Fri, 14 Aug 2026 12:31:07 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>How Will the 21st Century ROAD to Housing Act Affect Housing Supply? Part II</title>
@@ -104,6 +132,20 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
+      <title>Edinburgh Fringe: Doris, Dolly and the Dressing Room Divas ★★★★⯪</title>
+      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-doris-dolly-and-the-dressing-room-divas/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/edinburgh-fringe-doris-dolly-and-the-dressing-room-divas/</guid>
+      <pubDate>Thu, 13 Aug 2026 22:23:25 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Edinburgh Fringe: The Musical Mystery Caller ★★★★★</title>
+      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-the-musical-mystery-caller/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/edinburgh-fringe-the-musical-mystery-caller/</guid>
+      <pubDate>Thu, 13 Aug 2026 20:21:53 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>sqlite-utils 4.2</title>
       <link>https://simonwillison.net/2026/Aug/13/sqlite-utils/</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Aug/13/sqlite-utils/</guid>
@@ -118,11 +160,25 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
+      <title>Edinburgh Fringe: Miscast Sondheim ★★☆☆☆</title>
+      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-miscast-sondheim/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/edinburgh-fringe-miscast-sondheim/</guid>
+      <pubDate>Thu, 13 Aug 2026 18:45:15 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>Supplier Security Questionnaire</title>
       <link>https://nesbitt.io/2026/08/13/supplier-security-questionnaire.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/08/13/supplier-security-questionnaire.html</guid>
       <pubDate>Thu, 13 Aug 2026 17:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>Edinburgh Fringe: Hot Flush – A Bold, We’re Old(ish) Burlesque Show ★★★☆☆</title>
+      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-hot-flush-a-bold-were-oldish-burlesque-show/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/edinburgh-fringe-hot-flush-a-bold-were-oldish-burlesque-show/</guid>
+      <pubDate>Thu, 13 Aug 2026 16:45:02 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Ceramic Shield 2 Is the Real Deal</title>
@@ -139,11 +195,25 @@
       <description>John D. Cook</description>
     </item>
     <item>
+      <title>Edinburgh Fringe - Eleanor Morton: The Mermaid ★★★⯪☆</title>
+      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-eleanor-morton-the-mermaid/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/edinburgh-fringe-eleanor-morton-the-mermaid/</guid>
+      <pubDate>Thu, 13 Aug 2026 14:55:59 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>A little helper class for managing LPPROC_THREAD_ATTRIBUTE_LISTs</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260813-00/?p=112611</link>
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260813-00/?p=112611</guid>
       <pubDate>Thu, 13 Aug 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>Book Review: Coding Literacy by Annette Vee ★★⯪☆☆</title>
+      <link>https://shkspr.mobi/blog/2026/08/book-review-coding-literacy-by-annette-vee/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/book-review-coding-literacy-by-annette-vee/</guid>
+      <pubDate>Thu, 13 Aug 2026 11:34:09 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>alchemy-utils 0.1a1</title>
@@ -181,6 +251,13 @@
       <description>Daring Fireball</description>
     </item>
     <item>
+      <title>Edinburgh Fringe - Heated Rivalry: The Unauthorized Musical Parody ★★★★☆</title>
+      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-heated-rivalry-the-unauthorized-musical-parody/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/edinburgh-fringe-heated-rivalry-the-unauthorized-musical-parody/</guid>
+      <pubDate>Wed, 12 Aug 2026 21:22:09 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>Google Introduces ‘Camera Looks’ With Pixel 11 Phones</title>
       <link>https://www.theverge.com/tech/978084/google-camera-looks-interview-computational-photography</link>
       <guid isPermaLink="true">https://www.theverge.com/tech/978084/google-camera-looks-interview-computational-photography</guid>
@@ -216,6 +293,13 @@
       <description>Daring Fireball</description>
     </item>
     <item>
+      <title>Edinburgh Fringe - James Rowland: Team Viking ★★⯪☆☆</title>
+      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-james-rowland-team-viking/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/edinburgh-fringe-james-rowland-team-viking/</guid>
+      <pubDate>Wed, 12 Aug 2026 19:20:01 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>Amazon Is Spiting Customers With Unhelpful Order Confirmation Emails</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data</link>
       <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data</guid>
@@ -228,6 +312,20 @@
       <guid isPermaLink="true">https://feed.tedium.co/link/15204/17416577/greeting-cards-care-bears-cartoons-history</guid>
       <pubDate>Wed, 12 Aug 2026 18:27:39 +0000</pubDate>
       <description>Tedium: The Dull Side of the Internet.</description>
+    </item>
+    <item>
+      <title>Edinburgh Fringe - Garrett Millerick: We Tried it Your Way ★☆☆☆☆</title>
+      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-garrett-millerick-we-tried-it-your-way/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/edinburgh-fringe-garrett-millerick-we-tried-it-your-way/</guid>
+      <pubDate>Wed, 12 Aug 2026 17:55:57 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Edinburgh Fringe: When Vincent Met John ★★★★★</title>
+      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-when-vincent-met-john/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/edinburgh-fringe-when-vincent-met-john/</guid>
+      <pubDate>Wed, 12 Aug 2026 15:30:12 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Quoting Florian Herrengt</title>
@@ -321,6 +419,13 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
+      <title>Edinburgh Fringe - Justina Seselskaite: Settled ★★★★☆</title>
+      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-justina-seselskaite-settled/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/edinburgh-fringe-justina-seselskaite-settled/</guid>
+      <pubDate>Tue, 11 Aug 2026 22:23:14 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>The Economist: ‘How to Spot AI Writing’</title>
       <link>https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing?giftId=NzBlNTc2OGItMDgxNS00N2EzLWE4NmUtZDgzZmE4Y2FkM2Mw</link>
       <guid isPermaLink="true">https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing?giftId=NzBlNTc2OGItMDgxNS00N2EzLWE4NmUtZDgzZmE4Y2FkM2Mw</guid>
@@ -340,6 +445,13 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Aug/11/datasette-upload-dbs/</guid>
       <pubDate>Tue, 11 Aug 2026 20:35:13 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Edinburgh Fringe: Handel Nine German Arias ★★★⯪☆</title>
+      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-handel-nine-german-arias/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/edinburgh-fringe-handel-nine-german-arias/</guid>
+      <pubDate>Tue, 11 Aug 2026 20:21:05 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Alex Micek on BMW’s iDrive ‘Special Surprises’</title>
@@ -391,6 +503,13 @@
       <description>Daring Fireball</description>
     </item>
     <item>
+      <title>Edinburgh Fringe: Hamlet The Musical ★★☆☆☆</title>
+      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-hamlet-the-musical/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/edinburgh-fringe-hamlet-the-musical/</guid>
+      <pubDate>Tue, 11 Aug 2026 18:19:16 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>Anthropic Posts ‘How Claude Marks AI-Generated Content’ Without Explaining How Claude Marks AI-Generated Content</title>
       <link>https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content</link>
       <guid isPermaLink="true">https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content</guid>
@@ -403,6 +522,13 @@
       <guid isPermaLink="true">https://www.dwarkesh.com/p/ryan-greenblatt</guid>
       <pubDate>Tue, 11 Aug 2026 16:31:23 +0000</pubDate>
       <description>Dwarkesh Podcast</description>
+    </item>
+    <item>
+      <title>Edinburgh Fringe: Afronauts ★★★★☆</title>
+      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-afronauts/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/edinburgh-fringe-afronauts/</guid>
+      <pubDate>Tue, 11 Aug 2026 16:17:12 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Dogs and fat tails</title>
@@ -419,11 +545,25 @@
       <description>The Old New Thing</description>
     </item>
     <item>
+      <title>Edinburgh Fringe: Noted ★★★⯪☆</title>
+      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-noted/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/edinburgh-fringe-noted/</guid>
+      <pubDate>Tue, 11 Aug 2026 12:45:28 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>Manually unbreakable cryptography</title>
       <link>https://www.johndcook.com/blog/2026/08/11/manually-unbreakable-cryptography/</link>
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/11/manually-unbreakable-cryptography/</guid>
       <pubDate>Tue, 11 Aug 2026 12:04:24 +0000</pubDate>
       <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Gadget Review: Soundpeats UU2 POP Clip2 Earphones ★★★★⯪</title>
+      <link>https://shkspr.mobi/blog/2026/08/gadget-review-soundpeats-pop-clip2-earphones/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/gadget-review-soundpeats-pop-clip2-earphones/</guid>
+      <pubDate>Tue, 11 Aug 2026 11:34:37 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Pluralistic: Surveillance vs guillotines (11 Aug 2026)</title>
@@ -494,6 +634,13 @@
       <guid isPermaLink="true">https://www.apple.com/newsroom/2026/08/apple-mlb-announce-september-friday-night-baseball-schedule/</guid>
       <pubDate>Mon, 10 Aug 2026 20:47:43 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Edinburgh Fringe: 15 Minutes of Shame ★★★★⯪</title>
+      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-15-minutes-of-shame/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/edinburgh-fringe-15-minutes-of-shame/</guid>
+      <pubDate>Mon, 10 Aug 2026 20:43:10 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Michael Tsai on My Retraction of the Astrology/Astronomy App Store Rejection Story</title>
@@ -697,153 +844,6 @@
       <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-08082026</guid>
       <pubDate>Sat, 08 Aug 2026 12:01:03 +0000</pubDate>
       <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>This Week in Package Management: 8 August 2026</title>
-      <link>https://nesbitt.io/2026/08/08/this-week-in-package-management.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/08/08/this-week-in-package-management.html</guid>
-      <pubDate>Sat, 08 Aug 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Pluralistic: Digital sewer socialism (08 Aug 2026)</title>
-      <link>https://pluralistic.net/2026/08/08/find-yourself-a-city/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/08/08/find-yourself-a-city/</guid>
-      <pubDate>Sat, 08 Aug 2026 09:04:00 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Corrupted apostrophes</title>
-      <link>https://www.johndcook.com/blog/2026/08/07/corrupted-apostrophes/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/07/corrupted-apostrophes/</guid>
-      <pubDate>Sat, 08 Aug 2026 01:20:25 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Quoting John Gruber</title>
-      <link>https://simonwillison.net/2026/Aug/8/john-gruber/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/8/john-gruber/</guid>
-      <pubDate>Sat, 08 Aug 2026 00:10:40 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Anubis v1.27.0: Moenbryda Wilfsunnwyn</title>
-      <link>https://anubis.techaro.lol/blog/release/v1.27.0/</link>
-      <guid isPermaLink="true">https://anubis.techaro.lol/blog/release/v1.27.0/</guid>
-      <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
-      <title>Now we have a timeline of the OpenAI accidental attack against Hugging Face</title>
-      <link>https://simonwillison.net/2026/Aug/7/openai-timeline/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/7/openai-timeline/</guid>
-      <pubDate>Fri, 07 Aug 2026 23:55:58 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Simon Willison on Blogging</title>
-      <link>https://writethatblog.substack.com/p/simon-willison-on-technical-blogging</link>
-      <guid isPermaLink="true">https://writethatblog.substack.com/p/simon-willison-on-technical-blogging</guid>
-      <pubDate>Fri, 07 Aug 2026 20:36:58 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Google Earth Retracts AI Tool for Making Fake Satellite Images After It Was Immediately Abused Upon Release</title>
-      <link>https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/</link>
-      <guid isPermaLink="true">https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/</guid>
-      <pubDate>Fri, 07 Aug 2026 19:43:23 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Some New Data Centers Are Necessary</title>
-      <link>https://www.newyorker.com/cartoon/a62045</link>
-      <guid isPermaLink="true">https://www.newyorker.com/cartoon/a62045</guid>
-      <pubDate>Fri, 07 Aug 2026 19:39:15 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Moonlight &amp; Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)</title>
-      <link>https://simonwillison.net/2026/Aug/7/moonlight-mayhem/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/7/moonlight-mayhem/</guid>
-      <pubDate>Fri, 07 Aug 2026 19:18:09 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>A quick(ish) Chinchilla check</title>
-      <link>https://www.gilesthomas.com/2026/08/chinchilla-check</link>
-      <guid isPermaLink="true">https://www.gilesthomas.com/2026/08/chinchilla-check</guid>
-      <pubDate>Fri, 07 Aug 2026 19:00:00 +0000</pubDate>
-      <description>Giles' blog</description>
-    </item>
-    <item>
-      <title>An AI Model From Meta Also Hacked Another Company During Testing</title>
-      <link>https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/</guid>
-      <pubDate>Fri, 07 Aug 2026 18:13:55 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Meta: Introducing Muse Code and Muse Spark 1.2</title>
-      <link>https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2</link>
-      <guid isPermaLink="true">https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2</guid>
-      <pubDate>Fri, 07 Aug 2026 18:05:03 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>App Store Review Times Are Failing to Meet the AI-Driven Influx of Submissions</title>
-      <link>https://macaw.social/@mergesort/117055390966724799</link>
-      <guid isPermaLink="true">https://macaw.social/@mergesort/117055390966724799</guid>
-      <pubDate>Fri, 07 Aug 2026 17:45:22 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Premium: The Hater's Guide To NVIDIA (Part 2)</title>
-      <link>https://www.wheresyoured.at/premium-the-haters-guide-to-nvidia-part-2/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/premium-the-haters-guide-to-nvidia-part-2/</guid>
-      <pubDate>Fri, 07 Aug 2026 17:30:26 +0000</pubDate>
-      <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>Leadership Shake-Up at Google DeepMind</title>
-      <link>https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/</link>
-      <guid isPermaLink="true">https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/</guid>
-      <pubDate>Fri, 07 Aug 2026 17:23:17 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>8 Predictions for the Era of Continual Learning</title>
-      <link>https://www.dwarkesh.com/p/era-of-continual-learning</link>
-      <guid isPermaLink="true">https://www.dwarkesh.com/p/era-of-continual-learning</guid>
-      <pubDate>Fri, 07 Aug 2026 17:17:40 +0000</pubDate>
-      <description>Dwarkesh Podcast</description>
-    </item>
-    <item>
-      <title>‘Google’s Top AI Brains Are Leaving to Launch Discovery Loop’</title>
-      <link>https://www.wired.com/story/jeff-dean-google-discovery-loop-startup/?ref=spyglass.org</link>
-      <guid isPermaLink="true">https://www.wired.com/story/jeff-dean-google-discovery-loop-startup/?ref=spyglass.org</guid>
-      <pubDate>Fri, 07 Aug 2026 17:05:02 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI</title>
-      <link>https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/</guid>
-      <pubDate>Fri, 07 Aug 2026 16:18:51 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>The Life and Times of Maxis, Part 3: The Sims</title>
-      <link>https://www.filfre.net/2026/08/the-life-and-times-of-maxis-part-3-the-sims/</link>
-      <guid isPermaLink="true">https://www.filfre.net/2026/08/the-life-and-times-of-maxis-part-3-the-sims/</guid>
-      <pubDate>Fri, 07 Aug 2026 16:05:16 +0000</pubDate>
-      <description>The Digital Antiquarian</description>
-    </item>
-    <item>
-      <title>How not to calculate cosine</title>
-      <link>https://www.johndcook.com/blog/2026/08/07/how-not-to-calculate-cos/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/07/how-not-to-calculate-cos/</guid>
-      <pubDate>Fri, 07 Aug 2026 15:11:10 +0000</pubDate>
-      <description>John D. Cook</description>
     </item>
   </channel>
 </rss>
