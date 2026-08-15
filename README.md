@@ -208,11 +208,11 @@ Last Updated: Saturday, August 15th, 2026, 8:24:46 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Reading List — 08/15/2026](https://www.construction-physics.com/p/reading-list-08152026) — *Construction Physics* `08-15`
+- [Book Review: Slags by Emma Jane Unsworth ★★★⯪☆](https://shkspr.mobi/blog/2026/08/book-review-slags-by-emma-jane-unsworth/) — *Terence Eden’s Blog* `08-15`
+- [This Week in Package Management: 15 August 2026](https://nesbitt.io/2026/08/15/this-week-in-package-management.html) — *Andrew Nesbitt* `08-15`
 - [Northern Gannet](https://simonwillison.net/2026/Aug/15/sighting-391300422/) — *Simon Willison's Weblog* `08-15`
 - [Training a Reinforcement Learning Model to Play Bonk.io](https://blog.pixelmelt.dev/training-a-reinforcement-learning-model-to-play-bonk-io/) — *Cats with power tools* `08-15`
-- [Don't classify. Hallucinate!](https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/) — *Simon Willison's Weblog* `08-14`
-- [Oh Hey, It’s Not Just Me](https://blog.jim-nielsen.com/2026/its-not-just-me/) — *Jim Nielsen’s Blog* `08-14`
-- [Edinburgh Fringe: Target Audience ★★★★★](https://shkspr.mobi/blog/2026/08/edinburgh-fringe-target-audience/) — *Terence Eden’s Blog* `08-14`
 <!--BLOG_RADAR:end-->
 
 ---

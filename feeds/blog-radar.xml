@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 15 Aug 2026 06:48:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 12:49:49 +0000</lastBuildDate>
+    <item>
+      <title>Reading List — 08/15/2026</title>
+      <link>https://www.construction-physics.com/p/reading-list-08152026</link>
+      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-08152026</guid>
+      <pubDate>Sat, 15 Aug 2026 12:02:38 +0000</pubDate>
+      <description>Construction Physics</description>
+    </item>
+    <item>
+      <title>Book Review: Slags by Emma Jane Unsworth ★★★⯪☆</title>
+      <link>https://shkspr.mobi/blog/2026/08/book-review-slags-by-emma-jane-unsworth/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/book-review-slags-by-emma-jane-unsworth/</guid>
+      <pubDate>Sat, 15 Aug 2026 11:34:42 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>This Week in Package Management: 15 August 2026</title>
+      <link>https://nesbitt.io/2026/08/15/this-week-in-package-management.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/08/15/this-week-in-package-management.html</guid>
+      <pubDate>Sat, 15 Aug 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
     <item>
       <title>Northern Gannet</title>
       <link>https://simonwillison.net/2026/Aug/15/sighting-391300422/</link>
@@ -650,13 +671,6 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Edinburgh Fringe: 15 Minutes of Shame ★★★★⯪</title>
-      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-15-minutes-of-shame/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/edinburgh-fringe-15-minutes-of-shame/</guid>
-      <pubDate>Mon, 10 Aug 2026 20:43:10 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>Michael Tsai on My Retraction of the Astrology/Astronomy App Store Rejection Story</title>
       <link>https://mjtsai.com/blog/2026/08/07/dark-hours-rejected-from-the-app-store/</link>
       <guid isPermaLink="true">https://mjtsai.com/blog/2026/08/07/dark-hours-rejected-from-the-app-store/</guid>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Aug/8/auto-mode/</guid>
       <pubDate>Sat, 08 Aug 2026 22:36:03 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Corrupt Minds Think Alike</title>
-      <link>https://www.nytimes.com/2026/08/06/business/fifa-world-cup-privatization.html?unlocked_article_code=1.3VA.4zqH.Pul7X9bQ2kv0&amp;smid=bs-share</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/06/business/fifa-world-cup-privatization.html?unlocked_article_code=1.3VA.4zqH.Pul7X9bQ2kv0&amp;smid=bs-share</guid>
-      <pubDate>Sat, 08 Aug 2026 20:32:11 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Maybe ‘Steal Underpants by Blowing a Fortune on AI Tokens’ Is, in Fact, Not a Good Business Plan</title>
-      <link>https://www.404media.co/the-tokenpocalypse-is-here-companies-are-scrambling-to-stop-spending-so-much-on-ai/</link>
-      <guid isPermaLink="true">https://www.404media.co/the-tokenpocalypse-is-here-companies-are-scrambling-to-stop-spending-so-much-on-ai/</guid>
-      <pubDate>Sat, 08 Aug 2026 19:31:52 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
