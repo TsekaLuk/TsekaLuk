@@ -208,11 +208,11 @@ Last Updated: Sunday, August 16th, 2026, 2:18:47 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Concurrent Servers: Part 7 - Rust](https://eli.thegreenplace.net/2026/concurrent-servers-part-7-rust/) — *Eli Bendersky's website* `08-15`
+- [Probability of correcting errors](https://www.johndcook.com/blog/2026/08/15/probability-of-correcting-errors/) — *John D. Cook* `08-15`
+- [Compressing a Hadamard matrix](https://www.johndcook.com/blog/2026/08/15/compressing-a-hadamard-matrix/) — *John D. Cook* `08-15`
 - [Reading List — 08/15/2026](https://www.construction-physics.com/p/reading-list-08152026) — *Construction Physics* `08-15`
 - [Book Review: Slags by Emma Jane Unsworth ★★★⯪☆](https://shkspr.mobi/blog/2026/08/book-review-slags-by-emma-jane-unsworth/) — *Terence Eden’s Blog* `08-15`
-- [This Week in Package Management: 15 August 2026](https://nesbitt.io/2026/08/15/this-week-in-package-management.html) — *Andrew Nesbitt* `08-15`
-- [Northern Gannet](https://simonwillison.net/2026/Aug/15/sighting-391300422/) — *Simon Willison's Weblog* `08-15`
-- [Training a Reinforcement Learning Model to Play Bonk.io](https://blog.pixelmelt.dev/training-a-reinforcement-learning-model-to-play-bonk-io/) — *Cats with power tools* `08-15`
 <!--BLOG_RADAR:end-->
 
 ---

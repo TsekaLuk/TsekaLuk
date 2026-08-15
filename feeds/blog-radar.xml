@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 15 Aug 2026 12:49:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 18:37:51 +0000</lastBuildDate>
+    <item>
+      <title>Concurrent Servers: Part 7 - Rust</title>
+      <link>https://eli.thegreenplace.net/2026/concurrent-servers-part-7-rust/</link>
+      <guid isPermaLink="true">https://eli.thegreenplace.net/2026/concurrent-servers-part-7-rust/</guid>
+      <pubDate>Sat, 15 Aug 2026 16:41:00 +0000</pubDate>
+      <description>Eli Bendersky's website</description>
+    </item>
+    <item>
+      <title>Probability of correcting errors</title>
+      <link>https://www.johndcook.com/blog/2026/08/15/probability-of-correcting-errors/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/15/probability-of-correcting-errors/</guid>
+      <pubDate>Sat, 15 Aug 2026 16:33:56 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Compressing a Hadamard matrix</title>
+      <link>https://www.johndcook.com/blog/2026/08/15/compressing-a-hadamard-matrix/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/15/compressing-a-hadamard-matrix/</guid>
+      <pubDate>Sat, 15 Aug 2026 15:40:43 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
     <item>
       <title>Reading List — 08/15/2026</title>
       <link>https://www.construction-physics.com/p/reading-list-08152026</link>
@@ -39,6 +60,13 @@
       <guid isPermaLink="true">https://blog.pixelmelt.dev/training-a-reinforcement-learning-model-to-play-bonk-io/</guid>
       <pubDate>Sat, 15 Aug 2026 02:50:29 +0000</pubDate>
       <description>Cats with power tools</description>
+    </item>
+    <item>
+      <title>Site update: a few posts have been removed</title>
+      <link>https://xeiaso.net/notes/2026/blogposts-removed/</link>
+      <guid isPermaLink="true">https://xeiaso.net/notes/2026/blogposts-removed/</guid>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>Don't classify. Hallucinate!</title>
@@ -622,18 +650,18 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>Thoughts I had while reading your comment</title>
-      <link>https://dynomight.net/comment/</link>
-      <guid isPermaLink="true">https://dynomight.net/comment/</guid>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
-    </item>
-    <item>
       <title>Extending immutability: deletion without losing data</title>
       <link>https://www.tigrisdata.com/blog/soft-delete-deep-dive/</link>
       <guid isPermaLink="true">https://www.tigrisdata.com/blog/soft-delete-deep-dive/</guid>
       <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>Thoughts I had while reading your comment</title>
+      <link>https://dynomight.net/comment/</link>
+      <guid isPermaLink="true">https://dynomight.net/comment/</guid>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>Introducing Muse Glimmer</title>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/09/simple-range-reduction/</guid>
       <pubDate>Sun, 09 Aug 2026 16:46:59 +0000</pubDate>
       <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Tracking down a Zsh history data loss bug 🐞</title>
-      <link>https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/</link>
-      <guid isPermaLink="true">https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/</guid>
-      <pubDate>Sun, 09 Aug 2026 08:13:00 +0000</pubDate>
-      <description>Michael Stapelbergs Website</description>
-    </item>
-    <item>
-      <title>★ Retraction: The App Store Rejection of the Week That Was, in Fact, a Correct Rejection</title>
-      <link>https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week</guid>
-      <pubDate>Sun, 09 Aug 2026 03:16:24 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>I got an email about resistance</title>
-      <link>https://seangoedecke.com/i-got-an-email-about-resistance/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/i-got-an-email-about-resistance/</guid>
-      <pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>Auto mode is now the default in Claude Code for Pro, Max, and Team plans</title>
-      <link>https://simonwillison.net/2026/Aug/8/auto-mode/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/8/auto-mode/</guid>
-      <pubDate>Sat, 08 Aug 2026 22:36:03 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
