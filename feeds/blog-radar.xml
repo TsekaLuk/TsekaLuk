@@ -4,7 +4,42 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 16 Aug 2026 12:51:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 18:36:52 +0000</lastBuildDate>
+    <item>
+      <title>The Information Profiles Cami Clark, Dario Amodei’s Wife, Ivanka Trump’s Friend, One-Time Would-Be Pornographer, and Anthropic’s ‘First Lady’</title>
+      <link>https://www.theinformation.com/articles/anthropics-first-lady-took-winding-road-top?rc=jfy0lk</link>
+      <guid isPermaLink="true">https://www.theinformation.com/articles/anthropics-first-lady-took-winding-road-top?rc=jfy0lk</guid>
+      <pubDate>Sun, 16 Aug 2026 17:36:34 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>‘Anthropic’s Weak Watermarks Appease a Weak Law’</title>
+      <link>https://blog.j11y.io/2026-08-12_Anthropics-weak-watermarks-appease-a-weak-law/</link>
+      <guid isPermaLink="true">https://blog.j11y.io/2026-08-12_Anthropics-weak-watermarks-appease-a-weak-law/</guid>
+      <pubDate>Sun, 16 Aug 2026 17:07:37 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Trump Administration ‘Not in Favor’ of Apple Using Chinese RAM</title>
+      <link>https://www.wsj.com/tech/apple-china-memory-chip-plan-57773a83?st=vfe1SA</link>
+      <guid isPermaLink="true">https://www.wsj.com/tech/apple-china-memory-chip-plan-57773a83?st=vfe1SA</guid>
+      <pubDate>Sun, 16 Aug 2026 16:34:12 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Quoting Dario Amodei</title>
+      <link>https://simonwillison.net/2026/Aug/16/dario-amodei/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/16/dario-amodei/</guid>
+      <pubDate>Sun, 16 Aug 2026 15:05:36 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>XCancel — An Unofficial Twitter/X Mirror</title>
+      <link>https://xcancel.com/about</link>
+      <guid isPermaLink="true">https://xcancel.com/about</guid>
+      <pubDate>Sun, 16 Aug 2026 14:33:16 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Thoughts on visiting the Edinburgh Fringe as a newbie</title>
       <link>https://shkspr.mobi/blog/2026/08/thoughts-on-the-edinburgh-fringe-as-a-newbie/</link>
@@ -671,18 +706,18 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>Extending immutability: deletion without losing data</title>
-      <link>https://www.tigrisdata.com/blog/soft-delete-deep-dive/</link>
-      <guid isPermaLink="true">https://www.tigrisdata.com/blog/soft-delete-deep-dive/</guid>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
       <title>Thoughts I had while reading your comment</title>
       <link>https://dynomight.net/comment/</link>
       <guid isPermaLink="true">https://dynomight.net/comment/</guid>
       <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
       <description>DYNOMIGHT</description>
+    </item>
+    <item>
+      <title>Extending immutability: deletion without losing data</title>
+      <link>https://www.tigrisdata.com/blog/soft-delete-deep-dive/</link>
+      <guid isPermaLink="true">https://www.tigrisdata.com/blog/soft-delete-deep-dive/</guid>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>Introducing Muse Glimmer</title>
@@ -809,41 +844,6 @@
       <guid isPermaLink="true">https://martinalderson.com/posts/watch-out-for-cache-read-costs/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
       <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
       <description>Martin Alderson</description>
-    </item>
-    <item>
-      <title>WorkOS: Connect Your Agents to Your API</title>
-      <link>https://workos.com/blog/mcp-vs-rest?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</link>
-      <guid isPermaLink="true">https://workos.com/blog/mcp-vs-rest?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</guid>
-      <pubDate>Sun, 09 Aug 2026 23:54:18 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Quoting Claude Opus 5 system prompt</title>
-      <link>https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/</guid>
-      <pubDate>Sun, 09 Aug 2026 23:31:39 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>GitHub Models is now retired</title>
-      <link>https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/</guid>
-      <pubDate>Sun, 09 Aug 2026 22:48:05 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>SQLite compressed text-history prototypes</title>
-      <link>https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/</guid>
-      <pubDate>Sun, 09 Aug 2026 22:05:00 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>A License to Act</title>
-      <link>https://blog.jim-nielsen.com/2026/license-to-act/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/license-to-act/</guid>
-      <pubDate>Sun, 09 Aug 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
     </item>
   </channel>
 </rss>

@@ -208,11 +208,11 @@ Last Updated: Monday, August 17th, 2026, 2:19:43 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Thoughts on visiting the Edinburgh Fringe as a newbie](https://shkspr.mobi/blog/2026/08/thoughts-on-the-edinburgh-fringe-as-a-newbie/) — *Terence Eden’s Blog* `08-16`
-- [AI text watermarking is not a big deal](https://seangoedecke.com/ai-text-watermarking-is-not-a-big-deal/) — *seangoedecke.com RSS feed* `08-16`
-- [Drata](https://drata.com/daring) — *Daring Fireball* `08-15`
-- [Concurrent Servers: Part 7 - Rust](https://eli.thegreenplace.net/2026/concurrent-servers-part-7-rust/) — *Eli Bendersky's website* `08-15`
-- [Probability of correcting errors](https://www.johndcook.com/blog/2026/08/15/probability-of-correcting-errors/) — *John D. Cook* `08-15`
+- [The Information Profiles Cami Clark, Dario Amodei’s Wife, Ivanka Trump’s Friend, One-Time Would-Be Pornographer, and Anthropic’s ‘First Lady’](https://www.theinformation.com/articles/anthropics-first-lady-took-winding-road-top?rc=jfy0lk) — *Daring Fireball* `08-16`
+- [‘Anthropic’s Weak Watermarks Appease a Weak Law’](https://blog.j11y.io/2026-08-12_Anthropics-weak-watermarks-appease-a-weak-law/) — *Daring Fireball* `08-16`
+- [Trump Administration ‘Not in Favor’ of Apple Using Chinese RAM](https://www.wsj.com/tech/apple-china-memory-chip-plan-57773a83?st=vfe1SA) — *Daring Fireball* `08-16`
+- [Quoting Dario Amodei](https://simonwillison.net/2026/Aug/16/dario-amodei/) — *Simon Willison's Weblog* `08-16`
+- [XCancel — An Unofficial Twitter/X Mirror](https://xcancel.com/about) — *Daring Fireball* `08-16`
 <!--BLOG_RADAR:end-->
 
 ---
