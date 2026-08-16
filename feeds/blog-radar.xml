@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 15 Aug 2026 18:37:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 01:45:27 +0000</lastBuildDate>
+    <item>
+      <title>Drata</title>
+      <link>https://drata.com/daring</link>
+      <guid isPermaLink="true">https://drata.com/daring</guid>
+      <pubDate>Sat, 15 Aug 2026 21:40:15 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Concurrent Servers: Part 7 - Rust</title>
       <link>https://eli.thegreenplace.net/2026/concurrent-servers-part-7-rust/</link>
@@ -25,6 +32,13 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/15/compressing-a-hadamard-matrix/</guid>
       <pubDate>Sat, 15 Aug 2026 15:40:43 +0000</pubDate>
       <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>CORS Chat</title>
+      <link>https://simonwillison.net/2026/Aug/15/cors-chat/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/15/cors-chat/</guid>
+      <pubDate>Sat, 15 Aug 2026 14:49:54 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
     <item>
       <title>Reading List — 08/15/2026</title>
@@ -671,13 +685,6 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>[Sponsor] Drata</title>
-      <link>https://drata.com/daring</link>
-      <guid isPermaLink="true">https://drata.com/daring</guid>
-      <pubDate>Mon, 10 Aug 2026 22:25:00 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
       <title>A noob learns FFT</title>
       <link>https://entropicthoughts.com/fft</link>
       <guid isPermaLink="true">https://entropicthoughts.com/fft</guid>
@@ -836,13 +843,6 @@
       <link>https://www.johndcook.com/blog/2026/08/09/dna-and-bessel-functions/</link>
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/09/dna-and-bessel-functions/</guid>
       <pubDate>Sun, 09 Aug 2026 17:17:42 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>A simple range reduction method</title>
-      <link>https://www.johndcook.com/blog/2026/08/09/simple-range-reduction/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/09/simple-range-reduction/</guid>
-      <pubDate>Sun, 09 Aug 2026 16:46:59 +0000</pubDate>
       <description>John D. Cook</description>
     </item>
   </channel>
