@@ -208,11 +208,11 @@ Last Updated: Sunday, August 16th, 2026, 8:26:41 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Thoughts on visiting the Edinburgh Fringe as a newbie](https://shkspr.mobi/blog/2026/08/thoughts-on-the-edinburgh-fringe-as-a-newbie/) — *Terence Eden’s Blog* `08-16`
+- [AI text watermarking is not a big deal](https://seangoedecke.com/ai-text-watermarking-is-not-a-big-deal/) — *seangoedecke.com RSS feed* `08-16`
 - [Drata](https://drata.com/daring) — *Daring Fireball* `08-15`
 - [Concurrent Servers: Part 7 - Rust](https://eli.thegreenplace.net/2026/concurrent-servers-part-7-rust/) — *Eli Bendersky's website* `08-15`
 - [Probability of correcting errors](https://www.johndcook.com/blog/2026/08/15/probability-of-correcting-errors/) — *John D. Cook* `08-15`
-- [Compressing a Hadamard matrix](https://www.johndcook.com/blog/2026/08/15/compressing-a-hadamard-matrix/) — *John D. Cook* `08-15`
-- [CORS Chat](https://simonwillison.net/2026/Aug/15/cors-chat/) — *Simon Willison's Weblog* `08-15`
 <!--BLOG_RADAR:end-->
 
 ---
