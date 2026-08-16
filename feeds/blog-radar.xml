@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 16 Aug 2026 01:45:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 06:50:15 +0000</lastBuildDate>
     <item>
       <title>Drata</title>
       <link>https://drata.com/daring</link>
@@ -664,18 +664,18 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>Extending immutability: deletion without losing data</title>
-      <link>https://www.tigrisdata.com/blog/soft-delete-deep-dive/</link>
-      <guid isPermaLink="true">https://www.tigrisdata.com/blog/soft-delete-deep-dive/</guid>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
       <title>Thoughts I had while reading your comment</title>
       <link>https://dynomight.net/comment/</link>
       <guid isPermaLink="true">https://dynomight.net/comment/</guid>
       <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
       <description>DYNOMIGHT</description>
+    </item>
+    <item>
+      <title>Extending immutability: deletion without losing data</title>
+      <link>https://www.tigrisdata.com/blog/soft-delete-deep-dive/</link>
+      <guid isPermaLink="true">https://www.tigrisdata.com/blog/soft-delete-deep-dive/</guid>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>Introducing Muse Glimmer</title>
