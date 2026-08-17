@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 17 Aug 2026 07:06:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 12:55:53 +0000</lastBuildDate>
+    <item>
+      <title>And then the men with guns tell you to do it anyway</title>
+      <link>https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/</guid>
+      <pubDate>Mon, 17 Aug 2026 11:34:24 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Pluralistic: Jennifer Jenkins' 'Music Copyright, Creativity, and Culture' (17 Aug 2026)</title>
+      <link>https://pluralistic.net/2026/08/17/great-sousas-ghost/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/08/17/great-sousas-ghost/</guid>
+      <pubDate>Mon, 17 Aug 2026 07:00:08 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
     <item>
       <title>Proportion of 1s in a Hadamard matrix</title>
       <link>https://www.johndcook.com/blog/2026/08/16/proportion-of-1s-in-a-hadamard-matrix/</link>
@@ -713,13 +727,6 @@
       <description>The Old New Thing</description>
     </item>
     <item>
-      <title>Edinburgh Fringe: Noted ★★★⯪☆</title>
-      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-noted/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/edinburgh-fringe-noted/</guid>
-      <pubDate>Tue, 11 Aug 2026 12:45:28 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>Manually unbreakable cryptography</title>
       <link>https://www.johndcook.com/blog/2026/08/11/manually-unbreakable-cryptography/</link>
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/11/manually-unbreakable-cryptography/</guid>
@@ -748,18 +755,18 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>Extending immutability: deletion without losing data</title>
-      <link>https://www.tigrisdata.com/blog/soft-delete-deep-dive/</link>
-      <guid isPermaLink="true">https://www.tigrisdata.com/blog/soft-delete-deep-dive/</guid>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
       <title>Thoughts I had while reading your comment</title>
       <link>https://dynomight.net/comment/</link>
       <guid isPermaLink="true">https://dynomight.net/comment/</guid>
       <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
       <description>DYNOMIGHT</description>
+    </item>
+    <item>
+      <title>Extending immutability: deletion without losing data</title>
+      <link>https://www.tigrisdata.com/blog/soft-delete-deep-dive/</link>
+      <guid isPermaLink="true">https://www.tigrisdata.com/blog/soft-delete-deep-dive/</guid>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>Introducing Muse Glimmer</title>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://pluralistic.net/2026/08/10/deep-state-wopr/</guid>
       <pubDate>Mon, 10 Aug 2026 07:01:46 +0000</pubDate>
       <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Failing after Success</title>
-      <link>https://idiallo.com/blog/failing-after-success</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/failing-after-success</guid>
-      <pubDate>Mon, 10 Aug 2026 07:00:00 +0000</pubDate>
-      <description>Software and Tech stories from an Insider - iDiallo.com</description>
     </item>
   </channel>
 </rss>
