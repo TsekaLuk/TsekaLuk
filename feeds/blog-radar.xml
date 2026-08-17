@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 17 Aug 2026 12:55:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 18:48:38 +0000</lastBuildDate>
+    <item>
+      <title>How do functions like alloca allocate memory from the stack?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260817-40/?p=112617</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260817-40/?p=112617</guid>
+      <pubDate>Mon, 17 Aug 2026 15:54:40 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility</title>
+      <link>https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/</guid>
+      <pubDate>Mon, 17 Aug 2026 15:21:29 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>And then the men with guns tell you to do it anyway</title>
       <link>https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/</link>
@@ -748,6 +762,13 @@
       <description>Andrew Nesbitt</description>
     </item>
     <item>
+      <title>Extending immutability: deletion without losing data</title>
+      <link>https://www.tigrisdata.com/blog/soft-delete-deep-dive/</link>
+      <guid isPermaLink="true">https://www.tigrisdata.com/blog/soft-delete-deep-dive/</guid>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
+    </item>
+    <item>
       <title>No, local models will not win</title>
       <link>https://seangoedecke.com/local-models-will-not-win/</link>
       <guid isPermaLink="true">https://seangoedecke.com/local-models-will-not-win/</guid>
@@ -760,13 +781,6 @@
       <guid isPermaLink="true">https://dynomight.net/comment/</guid>
       <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
       <description>DYNOMIGHT</description>
-    </item>
-    <item>
-      <title>Extending immutability: deletion without losing data</title>
-      <link>https://www.tigrisdata.com/blog/soft-delete-deep-dive/</link>
-      <guid isPermaLink="true">https://www.tigrisdata.com/blog/soft-delete-deep-dive/</guid>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>Introducing Muse Glimmer</title>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/10/inverse-differential-equations/</guid>
       <pubDate>Mon, 10 Aug 2026 14:32:42 +0000</pubDate>
       <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>How can I perform a Copy­File in unbuffered mode?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260810-00/?p=112600</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260810-00/?p=112600</guid>
-      <pubDate>Mon, 10 Aug 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Pluralistic: The bureaucratic AI arms-race is mutually assured destruction (10 Aug 2026)</title>
-      <link>https://pluralistic.net/2026/08/10/deep-state-wopr/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/08/10/deep-state-wopr/</guid>
-      <pubDate>Mon, 10 Aug 2026 07:01:46 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
     </item>
   </channel>
 </rss>
