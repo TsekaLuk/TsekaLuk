@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 17 Aug 2026 01:43:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 07:06:46 +0000</lastBuildDate>
     <item>
       <title>Proportion of 1s in a Hadamard matrix</title>
       <link>https://www.johndcook.com/blog/2026/08/16/proportion-of-1s-in-a-hadamard-matrix/</link>
@@ -39,6 +39,13 @@
       <guid isPermaLink="true">https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing</guid>
       <pubDate>Sun, 16 Aug 2026 19:26:33 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Oops, Should’ve Thought of That</title>
+      <link>https://blog.jim-nielsen.com/2026/oops-shouldve-thought-of-that/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/oops-shouldve-thought-of-that/</guid>
+      <pubDate>Sun, 16 Aug 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
     </item>
     <item>
       <title>‘Anthropic’s Weak Watermarks Appease a Weak Law’</title>
@@ -836,13 +843,6 @@
       <link>https://idiallo.com/blog/failing-after-success</link>
       <guid isPermaLink="true">https://idiallo.com/blog/failing-after-success</guid>
       <pubDate>Mon, 10 Aug 2026 07:00:00 +0000</pubDate>
-      <description>Software and Tech stories from an Insider - iDiallo.com</description>
-    </item>
-    <item>
-      <title>When the Aliens Finally Came to Visit</title>
-      <link>https://idiallo.com/byte-size/when-the-aliens-came-to-visit</link>
-      <guid isPermaLink="true">https://idiallo.com/byte-size/when-the-aliens-came-to-visit</guid>
-      <pubDate>Mon, 10 Aug 2026 04:26:49 +0000</pubDate>
       <description>Software and Tech stories from an Insider - iDiallo.com</description>
     </item>
   </channel>
