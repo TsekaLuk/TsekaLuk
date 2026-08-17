@@ -208,11 +208,11 @@ Last Updated: Monday, August 17th, 2026, 8:54:57 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [The Information Profiles Cami Clark, Dario Amodei’s Wife, Ivanka Trump’s Friend, One-Time Would-Be Pornographer, and Anthropic’s ‘First Lady’](https://www.theinformation.com/articles/anthropics-first-lady-took-winding-road-top?rc=jfy0lk) — *Daring Fireball* `08-16`
-- [‘Anthropic’s Weak Watermarks Appease a Weak Law’](https://blog.j11y.io/2026-08-12_Anthropics-weak-watermarks-appease-a-weak-law/) — *Daring Fireball* `08-16`
-- [Trump Administration ‘Not in Favor’ of Apple Using Chinese RAM](https://www.wsj.com/tech/apple-china-memory-chip-plan-57773a83?st=vfe1SA) — *Daring Fireball* `08-16`
-- [Quoting Dario Amodei](https://simonwillison.net/2026/Aug/16/dario-amodei/) — *Simon Willison's Weblog* `08-16`
-- [XCancel — An Unofficial Twitter/X Mirror](https://xcancel.com/about) — *Daring Fireball* `08-16`
+- [Proportion of 1s in a Hadamard matrix](https://www.johndcook.com/blog/2026/08/16/proportion-of-1s-in-a-hadamard-matrix/) — *John D. Cook* `08-17`
+- [Markdown SVG upgrades](https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/) — *Simon Willison's Weblog* `08-16`
+- [Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things](https://simonwillison.net/2026/Aug/16/qwen-38-27b/) — *Simon Willison's Weblog* `08-16`
+- [The Information Profiles Cami Clark — Dario Amodei’s Wife, Ivanka Trump’s Friend, One-Time Would-Be Pornographer, and Anthropic’s ‘First Lady’](https://www.theinformation.com/articles/anthropics-first-lady-took-winding-road-top?rc=jfy0lk) — *Daring Fireball* `08-16`
+- [★ Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing](https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing) — *Daring Fireball* `08-16`
 <!--BLOG_RADAR:end-->
 
 ---

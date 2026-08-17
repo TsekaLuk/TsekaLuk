@@ -4,19 +4,47 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 16 Aug 2026 18:36:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 01:43:20 +0000</lastBuildDate>
     <item>
-      <title>The Information Profiles Cami Clark, Dario Amodei’s Wife, Ivanka Trump’s Friend, One-Time Would-Be Pornographer, and Anthropic’s ‘First Lady’</title>
+      <title>Proportion of 1s in a Hadamard matrix</title>
+      <link>https://www.johndcook.com/blog/2026/08/16/proportion-of-1s-in-a-hadamard-matrix/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/16/proportion-of-1s-in-a-hadamard-matrix/</guid>
+      <pubDate>Mon, 17 Aug 2026 01:16:39 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Markdown SVG upgrades</title>
+      <link>https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/</guid>
+      <pubDate>Sun, 16 Aug 2026 23:59:37 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things</title>
+      <link>https://simonwillison.net/2026/Aug/16/qwen-38-27b/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/16/qwen-38-27b/</guid>
+      <pubDate>Sun, 16 Aug 2026 22:00:39 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>The Information Profiles Cami Clark — Dario Amodei’s Wife, Ivanka Trump’s Friend, One-Time Would-Be Pornographer, and Anthropic’s ‘First Lady’</title>
       <link>https://www.theinformation.com/articles/anthropics-first-lady-took-winding-road-top?rc=jfy0lk</link>
       <guid isPermaLink="true">https://www.theinformation.com/articles/anthropics-first-lady-took-winding-road-top?rc=jfy0lk</guid>
-      <pubDate>Sun, 16 Aug 2026 17:36:34 +0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 19:30:00 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>★ Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing</title>
+      <link>https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing</guid>
+      <pubDate>Sun, 16 Aug 2026 19:26:33 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
     <item>
       <title>‘Anthropic’s Weak Watermarks Appease a Weak Law’</title>
       <link>https://blog.j11y.io/2026-08-12_Anthropics-weak-watermarks-appease-a-weak-law/</link>
       <guid isPermaLink="true">https://blog.j11y.io/2026-08-12_Anthropics-weak-watermarks-appease-a-weak-law/</guid>
-      <pubDate>Sun, 16 Aug 2026 17:07:37 +0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 17:30:00 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
     <item>
@@ -53,6 +81,13 @@
       <guid isPermaLink="true">https://seangoedecke.com/ai-text-watermarking-is-not-a-big-deal/</guid>
       <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>How I think about reducing AI costs</title>
+      <link>https://martinalderson.com/posts/how-i-think-about-reducing-ai-costs/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
+      <guid isPermaLink="true">https://martinalderson.com/posts/how-i-think-about-reducing-ai-costs/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Martin Alderson</description>
     </item>
     <item>
       <title>Drata</title>
@@ -706,18 +741,18 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>Thoughts I had while reading your comment</title>
-      <link>https://dynomight.net/comment/</link>
-      <guid isPermaLink="true">https://dynomight.net/comment/</guid>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
-    </item>
-    <item>
       <title>Extending immutability: deletion without losing data</title>
       <link>https://www.tigrisdata.com/blog/soft-delete-deep-dive/</link>
       <guid isPermaLink="true">https://www.tigrisdata.com/blog/soft-delete-deep-dive/</guid>
       <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>Thoughts I had while reading your comment</title>
+      <link>https://dynomight.net/comment/</link>
+      <guid isPermaLink="true">https://dynomight.net/comment/</guid>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>Introducing Muse Glimmer</title>
@@ -809,41 +844,6 @@
       <guid isPermaLink="true">https://idiallo.com/byte-size/when-the-aliens-came-to-visit</guid>
       <pubDate>Mon, 10 Aug 2026 04:26:49 +0000</pubDate>
       <description>Software and Tech stories from an Insider - iDiallo.com</description>
-    </item>
-    <item>
-      <title>UPS finally refunded the overcharged tariff</title>
-      <link>https://oldvcr.blogspot.com/2026/08/ups-finally-refunded-overcharged-tariff.html</link>
-      <guid isPermaLink="true">https://oldvcr.blogspot.com/2026/08/ups-finally-refunded-overcharged-tariff.html</guid>
-      <pubDate>Mon, 10 Aug 2026 03:36:22 +0000</pubDate>
-      <description>Old Vintage Computing Research</description>
-    </item>
-    <item>
-      <title>Vibe-Coded Flattery</title>
-      <link>https://feed.tedium.co/link/15204/17410919/vibe-coding-insincerity</link>
-      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17410919/vibe-coding-insincerity</guid>
-      <pubDate>Mon, 10 Aug 2026 02:31:00 +0000</pubDate>
-      <description>Tedium: The Dull Side of the Internet.</description>
-    </item>
-    <item>
-      <title>Quoting OpenClaw (running Opus 4.6)</title>
-      <link>https://simonwillison.net/2026/Aug/10/openclaw/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/10/openclaw/</guid>
-      <pubDate>Mon, 10 Aug 2026 02:05:16 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Advanced AI sycophancy</title>
-      <link>https://seangoedecke.com/advanced-ai-sycophancy/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/advanced-ai-sycophancy/</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>Watch out for cache read costs</title>
-      <link>https://martinalderson.com/posts/watch-out-for-cache-read-costs/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
-      <guid isPermaLink="true">https://martinalderson.com/posts/watch-out-for-cache-read-costs/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Martin Alderson</description>
     </item>
   </channel>
 </rss>
