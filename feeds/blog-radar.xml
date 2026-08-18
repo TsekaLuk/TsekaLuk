@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 18 Aug 2026 06:53:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 12:57:29 +0000</lastBuildDate>
+    <item>
+      <title>Nature Is Healing: MacOS 27 Golden Gate Beta 6 Adds Redesigned Traffic Light Window Controls</title>
+      <link>https://9to5mac.com/2026/08/17/macos-27-golden-gate-beta-6-features-redesigned-traffic-light-window-controls/</link>
+      <guid isPermaLink="true">https://9to5mac.com/2026/08/17/macos-27-golden-gate-beta-6-features-redesigned-traffic-light-window-controls/</guid>
+      <pubDate>Tue, 18 Aug 2026 12:32:38 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Two-Factor Authentication Across Package Registries</title>
+      <link>https://nesbitt.io/2026/08/18/two-factor-authentication-across-package-registries.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/08/18/two-factor-authentication-across-package-registries.html</guid>
+      <pubDate>Tue, 18 Aug 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
     <item>
       <title>Weekly Update 517: Cyber Ransoms</title>
       <link>https://www.troyhunt.com/weekly-update-517/</link>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/08/11/package-manager-library-reuse.html</guid>
       <pubDate>Tue, 11 Aug 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>No, local models will not win</title>
-      <link>https://seangoedecke.com/local-models-will-not-win/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/local-models-will-not-win/</guid>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>Thoughts I had while reading your comment</title>
-      <link>https://dynomight.net/comment/</link>
-      <guid isPermaLink="true">https://dynomight.net/comment/</guid>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
     </item>
   </channel>
 </rss>

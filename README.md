@@ -208,11 +208,11 @@ Last Updated: Tuesday, August 18th, 2026, 8:32:35 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Nature Is Healing: MacOS 27 Golden Gate Beta 6 Adds Redesigned Traffic Light Window Controls](https://9to5mac.com/2026/08/17/macos-27-golden-gate-beta-6-features-redesigned-traffic-light-window-controls/) — *Daring Fireball* `08-18`
+- [Two-Factor Authentication Across Package Registries](https://nesbitt.io/2026/08/18/two-factor-authentication-across-package-registries.html) — *Andrew Nesbitt* `08-18`
 - [Weekly Update 517: Cyber Ransoms](https://www.troyhunt.com/weekly-update-517/) — *Troy Hunt* `08-18`
 - [MacOS 26.7 Tahoe Release Candidate Contains a Video Demonstrating Camera-Equipped AirPods in Action](https://www.macrumors.com/2026/08/17/camera-equipped-airpods-macos-26-7/) — *Daring Fireball* `08-18`
 - [★ Follow-Up Thoughts on Watermarking Schemes for AI-Generated Text](https://daringfireball.net/2026/08/follow-up_thoughts_on_watermarking) — *Daring Fireball* `08-18`
-- [Help peer](https://seangoedecke.com/help-peer/) — *seangoedecke.com RSS feed* `08-18`
-- [AI Alignment as a Thought-Terminating Cliche](https://borretti.me/article/ai-alignment-as-thought-terminating-cliche) — *Fernando Borretti* `08-18`
 <!--BLOG_RADAR:end-->
 
 ---
