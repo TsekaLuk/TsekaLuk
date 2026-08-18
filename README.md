@@ -208,11 +208,11 @@ Last Updated: Tuesday, August 18th, 2026, 2:32:06 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Weekly Update 517: Cyber Ransoms](https://www.troyhunt.com/weekly-update-517/) — *Troy Hunt* `08-18`
+- [MacOS 26.7 Tahoe Release Candidate Contains a Video Demonstrating Camera-Equipped AirPods in Action](https://www.macrumors.com/2026/08/17/camera-equipped-airpods-macos-26-7/) — *Daring Fireball* `08-18`
 - [★ Follow-Up Thoughts on Watermarking Schemes for AI-Generated Text](https://daringfireball.net/2026/08/follow-up_thoughts_on_watermarking) — *Daring Fireball* `08-18`
-- [Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index](https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/) — *Simon Willison's Weblog* `08-17`
-- [Apple TV Still Has No Start Date for ‘The Savant’](https://daringfireball.net/linked/2026/04/19/chastain-says-the-savant-will-be-released) — *Daring Fireball* `08-17`
-- [No Update Since Early July Regarding Siri AI Coming to the EU, Ever](https://www.ft.com/content/807d25c3-f4ac-4402-b815-3aa91018237d) — *Daring Fireball* `08-17`
-- [How do functions like alloca allocate memory from the stack?](https://devblogs.microsoft.com/oldnewthing/20260817-40/?p=112617) — *The Old New Thing* `08-17`
+- [Help peer](https://seangoedecke.com/help-peer/) — *seangoedecke.com RSS feed* `08-18`
+- [AI Alignment as a Thought-Terminating Cliche](https://borretti.me/article/ai-alignment-as-thought-terminating-cliche) — *Fernando Borretti* `08-18`
 <!--BLOG_RADAR:end-->
 
 ---

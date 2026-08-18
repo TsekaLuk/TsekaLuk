@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 18 Aug 2026 01:38:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 06:53:46 +0000</lastBuildDate>
+    <item>
+      <title>Weekly Update 517: Cyber Ransoms</title>
+      <link>https://www.troyhunt.com/weekly-update-517/</link>
+      <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-517/</guid>
+      <pubDate>Tue, 18 Aug 2026 03:44:58 +0000</pubDate>
+      <description>Troy Hunt</description>
+    </item>
+    <item>
+      <title>MacOS 26.7 Tahoe Release Candidate Contains a Video Demonstrating Camera-Equipped AirPods in Action</title>
+      <link>https://www.macrumors.com/2026/08/17/camera-equipped-airpods-macos-26-7/</link>
+      <guid isPermaLink="true">https://www.macrumors.com/2026/08/17/camera-equipped-airpods-macos-26-7/</guid>
+      <pubDate>Tue, 18 Aug 2026 03:37:14 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>★ Follow-Up Thoughts on Watermarking Schemes for AI-Generated Text</title>
       <link>https://daringfireball.net/2026/08/follow-up_thoughts_on_watermarking</link>
@@ -13,11 +27,32 @@
       <description>Daring Fireball</description>
     </item>
     <item>
+      <title>Help peer</title>
+      <link>https://seangoedecke.com/help-peer/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/help-peer/</guid>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>AI Alignment as a Thought-Terminating Cliche</title>
+      <link>https://borretti.me/article/ai-alignment-as-thought-terminating-cliche</link>
+      <guid isPermaLink="true">https://borretti.me/article/ai-alignment-as-thought-terminating-cliche</guid>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Fernando Borretti</description>
+    </item>
+    <item>
       <title>Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index</title>
       <link>https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/</guid>
       <pubDate>Mon, 17 Aug 2026 23:58:14 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Snakes and Ladders</title>
+      <link>https://entropicthoughts.com/snakes-and-ladders</link>
+      <guid isPermaLink="true">https://entropicthoughts.com/snakes-and-ladders</guid>
+      <pubDate>Mon, 17 Aug 2026 22:00:00 +0000</pubDate>
+      <description>Entropic Thoughts</description>
     </item>
     <item>
       <title>Apple TV Still Has No Start Date for ‘The Savant’</title>
@@ -804,46 +839,11 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>Extending immutability: deletion without losing data</title>
-      <link>https://www.tigrisdata.com/blog/soft-delete-deep-dive/</link>
-      <guid isPermaLink="true">https://www.tigrisdata.com/blog/soft-delete-deep-dive/</guid>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
       <title>Thoughts I had while reading your comment</title>
       <link>https://dynomight.net/comment/</link>
       <guid isPermaLink="true">https://dynomight.net/comment/</guid>
       <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
       <description>DYNOMIGHT</description>
-    </item>
-    <item>
-      <title>Introducing Muse Glimmer</title>
-      <link>https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/</guid>
-      <pubDate>Mon, 10 Aug 2026 23:56:03 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>A noob learns FFT</title>
-      <link>https://entropicthoughts.com/fft</link>
-      <guid isPermaLink="true">https://entropicthoughts.com/fft</guid>
-      <pubDate>Mon, 10 Aug 2026 22:00:00 +0000</pubDate>
-      <description>Entropic Thoughts</description>
-    </item>
-    <item>
-      <title>What’s New in iOS 27 Beta 5</title>
-      <link>https://9to5mac.com/2026/08/10/heres-whats-new-with-ios-27-beta-5/</link>
-      <guid isPermaLink="true">https://9to5mac.com/2026/08/10/heres-whats-new-with-ios-27-beta-5/</guid>
-      <pubDate>Mon, 10 Aug 2026 21:54:25 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>‘Friday Night Baseball’ Will Start Broadcasting Games Live, in Apple Immersive, on Vision Pro</title>
-      <link>https://www.apple.com/newsroom/2026/08/apple-mlb-announce-september-friday-night-baseball-schedule/</link>
-      <guid isPermaLink="true">https://www.apple.com/newsroom/2026/08/apple-mlb-announce-september-friday-night-baseball-schedule/</guid>
-      <pubDate>Mon, 10 Aug 2026 20:47:43 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
