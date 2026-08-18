@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 17 Aug 2026 18:48:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 01:38:37 +0000</lastBuildDate>
+    <item>
+      <title>★ Follow-Up Thoughts on Watermarking Schemes for AI-Generated Text</title>
+      <link>https://daringfireball.net/2026/08/follow-up_thoughts_on_watermarking</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/08/follow-up_thoughts_on_watermarking</guid>
+      <pubDate>Tue, 18 Aug 2026 00:55:13 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index</title>
+      <link>https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/</guid>
+      <pubDate>Mon, 17 Aug 2026 23:58:14 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Apple TV Still Has No Start Date for ‘The Savant’</title>
+      <link>https://daringfireball.net/linked/2026/04/19/chastain-says-the-savant-will-be-released</link>
+      <guid isPermaLink="true">https://daringfireball.net/linked/2026/04/19/chastain-says-the-savant-will-be-released</guid>
+      <pubDate>Mon, 17 Aug 2026 21:55:29 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>No Update Since Early July Regarding Siri AI Coming to the EU, Ever</title>
+      <link>https://www.ft.com/content/807d25c3-f4ac-4402-b815-3aa91018237d</link>
+      <guid isPermaLink="true">https://www.ft.com/content/807d25c3-f4ac-4402-b815-3aa91018237d</guid>
+      <pubDate>Mon, 17 Aug 2026 21:43:50 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>How do functions like alloca allocate memory from the stack?</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260817-40/?p=112617</link>
@@ -39,6 +67,13 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/16/proportion-of-1s-in-a-hadamard-matrix/</guid>
       <pubDate>Mon, 17 Aug 2026 01:16:39 +0000</pubDate>
       <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Quake Shareware, a CD-ROM just a little too full</title>
+      <link>https://fabiensanglard.net/quake_shareware_cd/index.html</link>
+      <guid isPermaLink="true">https://fabiensanglard.net/quake_shareware_cd/index.html</guid>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Fabien Sanglard</description>
     </item>
     <item>
       <title>Markdown SVG upgrades</title>
@@ -762,18 +797,18 @@
       <description>Andrew Nesbitt</description>
     </item>
     <item>
-      <title>Extending immutability: deletion without losing data</title>
-      <link>https://www.tigrisdata.com/blog/soft-delete-deep-dive/</link>
-      <guid isPermaLink="true">https://www.tigrisdata.com/blog/soft-delete-deep-dive/</guid>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
       <title>No, local models will not win</title>
       <link>https://seangoedecke.com/local-models-will-not-win/</link>
       <guid isPermaLink="true">https://seangoedecke.com/local-models-will-not-win/</guid>
       <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Extending immutability: deletion without losing data</title>
+      <link>https://www.tigrisdata.com/blog/soft-delete-deep-dive/</link>
+      <guid isPermaLink="true">https://www.tigrisdata.com/blog/soft-delete-deep-dive/</guid>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>Thoughts I had while reading your comment</title>
@@ -809,41 +844,6 @@
       <guid isPermaLink="true">https://www.apple.com/newsroom/2026/08/apple-mlb-announce-september-friday-night-baseball-schedule/</guid>
       <pubDate>Mon, 10 Aug 2026 20:47:43 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Michael Tsai on My Retraction of the Astrology/Astronomy App Store Rejection Story</title>
-      <link>https://mjtsai.com/blog/2026/08/07/dark-hours-rejected-from-the-app-store/</link>
-      <guid isPermaLink="true">https://mjtsai.com/blog/2026/08/07/dark-hours-rejected-from-the-app-store/</guid>
-      <pubDate>Mon, 10 Aug 2026 20:18:48 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>‘The Problem With Vibe-Coded Flattery’</title>
-      <link>https://tedium.co/2026/08/09/vibe-coding-insincerity/</link>
-      <guid isPermaLink="true">https://tedium.co/2026/08/09/vibe-coding-insincerity/</guid>
-      <pubDate>Mon, 10 Aug 2026 16:42:01 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The NYT and WSJ on Apple, China, and the RAM Crisis</title>
-      <link>https://www.nytimes.com/2026/08/10/technology/memory-chip-shortage-ai.html?unlocked_article_code=1.4VA.49f7.Qj8S541DkkOz</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/10/technology/memory-chip-shortage-ai.html?unlocked_article_code=1.4VA.49f7.Qj8S541DkkOz</guid>
-      <pubDate>Mon, 10 Aug 2026 15:21:29 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Learning from historical mistakes</title>
-      <link>https://www.johndcook.com/blog/2026/08/10/learning-from-historical-mistakes/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/10/learning-from-historical-mistakes/</guid>
-      <pubDate>Mon, 10 Aug 2026 14:34:21 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Inverse differential equations</title>
-      <link>https://www.johndcook.com/blog/2026/08/10/inverse-differential-equations/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/10/inverse-differential-equations/</guid>
-      <pubDate>Mon, 10 Aug 2026 14:32:42 +0000</pubDate>
-      <description>John D. Cook</description>
     </item>
   </channel>
 </rss>
