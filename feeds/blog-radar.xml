@@ -4,7 +4,63 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 18 Aug 2026 12:57:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 18:47:17 +0000</lastBuildDate>
+    <item>
+      <title>Vim wants you to control, VSCode wants you to consume</title>
+      <link>https://buttondown.com/hillelwayne/archive/vim-wants-you-to-control-vscode-wants-you-to/</link>
+      <guid isPermaLink="true">https://buttondown.com/hillelwayne/archive/vim-wants-you-to-control-vscode-wants-you-to/</guid>
+      <pubDate>Tue, 18 Aug 2026 16:26:05 +0000</pubDate>
+      <description>Computer Things</description>
+    </item>
+    <item>
+      <title>‘Dickover’ Makes It Into The Guardian</title>
+      <link>https://www.theguardian.com/technology/2026/aug/18/dickovers-baggravation-botiquette-18-new-words-tech-hellscape</link>
+      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/aug/18/dickovers-baggravation-botiquette-18-new-words-tech-hellscape</guid>
+      <pubDate>Tue, 18 Aug 2026 16:03:32 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>The imbalance theorem</title>
+      <link>https://www.johndcook.com/blog/2026/08/18/the-imbalance-theorem/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/18/the-imbalance-theorem/</guid>
+      <pubDate>Tue, 18 Aug 2026 15:54:57 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>What Happens If OpenAI Dies?</title>
+      <link>https://www.wheresyoured.at/what-happens-if-openai-dies/</link>
+      <guid isPermaLink="true">https://www.wheresyoured.at/what-happens-if-openai-dies/</guid>
+      <pubDate>Tue, 18 Aug 2026 15:23:40 +0000</pubDate>
+      <description>Ed Zitron's Where's Your Ed At</description>
+    </item>
+    <item>
+      <title>I like 'em thick</title>
+      <link>https://www.experimental-history.com/p/i-like-em-thick</link>
+      <guid isPermaLink="true">https://www.experimental-history.com/p/i-like-em-thick</guid>
+      <pubDate>Tue, 18 Aug 2026 15:02:15 +0000</pubDate>
+      <description>Experimental History</description>
+    </item>
+    <item>
+      <title>OpenAI Pot Complains That Google Kettle Is Black</title>
+      <link>https://x.com/thsottiaux/status/2083373529081291076?s=12</link>
+      <guid isPermaLink="true">https://x.com/thsottiaux/status/2083373529081291076?s=12</guid>
+      <pubDate>Tue, 18 Aug 2026 14:54:28 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Pluralistic: IP can't save you from AI (18 Aug 2026)</title>
+      <link>https://pluralistic.net/2026/08/18/enron-corpus/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/08/18/enron-corpus/</guid>
+      <pubDate>Tue, 18 Aug 2026 14:48:19 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Mean distance to the sun</title>
+      <link>https://www.johndcook.com/blog/2026/08/18/mean-distance-to-the-sun/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/18/mean-distance-to-the-sun/</guid>
+      <pubDate>Tue, 18 Aug 2026 13:42:06 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
     <item>
       <title>Nature Is Healing: MacOS 27 Golden Gate Beta 6 Adds Redesigned Traffic Light Window Controls</title>
       <link>https://9to5mac.com/2026/08/17/macos-27-golden-gate-beta-6-features-redesigned-traffic-light-window-controls/</link>
@@ -363,13 +419,6 @@
       <description>Construction Physics</description>
     </item>
     <item>
-      <title>Who’s Tracking You? Use This New Service to Find Out</title>
-      <link>https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/</link>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/</guid>
-      <pubDate>Fri, 14 Aug 2026 11:24:35 +0000</pubDate>
-      <description>Krebs on Security</description>
-    </item>
-    <item>
       <title>Pluralistic: Capital formation (14 Aug 2026)</title>
       <link>https://pluralistic.net/2026/08/14/one-chokable-throat/</link>
       <guid isPermaLink="true">https://pluralistic.net/2026/08/14/one-chokable-throat/</guid>
@@ -713,13 +762,6 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Microsoft Plugs Nearly 400 Security Holes</title>
-      <link>https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/</link>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/</guid>
-      <pubDate>Tue, 11 Aug 2026 21:28:35 +0000</pubDate>
-      <description>Krebs on Security</description>
-    </item>
-    <item>
       <title>datasette-upload-dbs 0.5a0</title>
       <link>https://simonwillison.net/2026/Aug/11/datasette-upload-dbs/</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Aug/11/datasette-upload-dbs/</guid>
@@ -802,48 +844,6 @@
       <guid isPermaLink="true">https://www.dwarkesh.com/p/ryan-greenblatt</guid>
       <pubDate>Tue, 11 Aug 2026 16:31:23 +0000</pubDate>
       <description>Dwarkesh Podcast</description>
-    </item>
-    <item>
-      <title>Edinburgh Fringe: Afronauts ★★★★☆</title>
-      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-afronauts/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/edinburgh-fringe-afronauts/</guid>
-      <pubDate>Tue, 11 Aug 2026 16:17:12 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Dogs and fat tails</title>
-      <link>https://www.johndcook.com/blog/2026/08/11/dogs-and-fat-tails/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/11/dogs-and-fat-tails/</guid>
-      <pubDate>Tue, 11 Aug 2026 14:09:46 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>The little-known winstart.bat batch file</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260811-00/?p=112605</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260811-00/?p=112605</guid>
-      <pubDate>Tue, 11 Aug 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Manually unbreakable cryptography</title>
-      <link>https://www.johndcook.com/blog/2026/08/11/manually-unbreakable-cryptography/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/11/manually-unbreakable-cryptography/</guid>
-      <pubDate>Tue, 11 Aug 2026 12:04:24 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Pluralistic: Surveillance vs guillotines (11 Aug 2026)</title>
-      <link>https://pluralistic.net/2026/08/11/tragedy-of-the-commoners/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/08/11/tragedy-of-the-commoners/</guid>
-      <pubDate>Tue, 11 Aug 2026 11:19:13 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Shared Code Between Package Managers</title>
-      <link>https://nesbitt.io/2026/08/11/package-manager-library-reuse.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/08/11/package-manager-library-reuse.html</guid>
-      <pubDate>Tue, 11 Aug 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
     </item>
   </channel>
 </rss>
