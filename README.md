@@ -208,11 +208,11 @@ Last Updated: Wednesday, August 19th, 2026, 8:34:12 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Asymmetric Agents](https://shkspr.mobi/blog/2026/08/asymmetric-agents/) — *Terence Eden’s Blog* `08-19`
+- [Pluralistic: The ordinariness of evil (19 Aug 2026)](https://pluralistic.net/2026/08/19/banaility/) — *Pluralistic: Daily links from Cory Doctorow* `08-19`
+- [Hands-on with Raspberry Pi's CM5 Programming Jig](https://www.jeffgeerling.com/blog/2026/cm5-programming-jig/) — *Jeff Geerling* `08-19`
 - [Big little hexagon](https://www.johndcook.com/blog/2026/08/18/big-little-hexagon/) — *John D. Cook* `08-19`
 - [Disney’s ABC Sues Trump’s FCC Over Challenge to Its Broadcast License](https://www.wsj.com/business/media/disneys-abc-sues-fcc-over-challenge-to-its-broadcast-licenses-64e8f794?st=XTL4tA) — *Daring Fireball* `08-18`
-- [Apple Gives Legal Middle Finger to DOJ Challenge on Apple’s July Discovery Win](https://9to5mac.com/2026/08/17/apple-dojs-latest-challenge-in-antitrust-case-fails-at-every-level/) — *Daring Fireball* `08-18`
-- [Mojo🔥 is now open source](https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/) — *Simon Willison's Weblog* `08-18`
-- [Organized Thieves Are Targeting AI Server Chips With Violent Highway Hijackings](https://www.wired.com/story/the-worst-ive-ever-seen-cargo-thieves-are-turning-violent-in-pursuit-of-ai-hardware/) — *Daring Fireball* `08-18`
 <!--BLOG_RADAR:end-->
 
 ---

@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 19 Aug 2026 06:54:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 12:58:24 +0000</lastBuildDate>
+    <item>
+      <title>Asymmetric Agents</title>
+      <link>https://shkspr.mobi/blog/2026/08/asymmetric-agents/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/asymmetric-agents/</guid>
+      <pubDate>Wed, 19 Aug 2026 11:34:52 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Pluralistic: The ordinariness of evil (19 Aug 2026)</title>
+      <link>https://pluralistic.net/2026/08/19/banaility/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/08/19/banaility/</guid>
+      <pubDate>Wed, 19 Aug 2026 07:36:27 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Hands-on with Raspberry Pi's CM5 Programming Jig</title>
+      <link>https://www.jeffgeerling.com/blog/2026/cm5-programming-jig/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/cm5-programming-jig/</guid>
+      <pubDate>Wed, 19 Aug 2026 07:13:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
+    </item>
     <item>
       <title>Big little hexagon</title>
       <link>https://www.johndcook.com/blog/2026/08/18/big-little-hexagon/</link>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/edinburgh-fringe-handel-nine-german-arias/</guid>
       <pubDate>Tue, 11 Aug 2026 20:21:05 +0000</pubDate>
       <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Alex Micek on BMW’s iDrive ‘Special Surprises’</title>
-      <link>https://tumbledry.org/2026/08/07/idrive_ads</link>
-      <guid isPermaLink="true">https://tumbledry.org/2026/08/07/idrive_ads</guid>
-      <pubDate>Tue, 11 Aug 2026 19:56:13 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>BMW Probably Paid Sony for the Spider-Man Dashboard Ads, Not the Other Way Around</title>
-      <link>https://www.press.bmwgroup.com/global/article/detail/T0459622EN/bmw-brings-modern-mobility-to-the-sony-pictures-film-%E2%80%9Cspider-man%E2%84%A2:-brand-new-day%E2%80%9D?language=en</link>
-      <guid isPermaLink="true">https://www.press.bmwgroup.com/global/article/detail/T0459622EN/bmw-brings-modern-mobility-to-the-sony-pictures-film-%E2%80%9Cspider-man%E2%84%A2:-brand-new-day%E2%80%9D?language=en</guid>
-      <pubDate>Tue, 11 Aug 2026 19:46:49 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Mark Zuckerberg Posts 6,500-Word AI Essay</title>
-      <link>https://www.meta.com/thefutureisforeveryone/</link>
-      <guid isPermaLink="true">https://www.meta.com/thefutureisforeveryone/</guid>
-      <pubDate>Tue, 11 Aug 2026 19:36:36 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
