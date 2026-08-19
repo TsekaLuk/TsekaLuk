@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 19 Aug 2026 12:58:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 18:43:00 +0000</lastBuildDate>
     <item>
       <title>Asymmetric Agents</title>
       <link>https://shkspr.mobi/blog/2026/08/asymmetric-agents/</link>
@@ -32,6 +32,13 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/18/big-little-hexagon/</guid>
       <pubDate>Wed, 19 Aug 2026 00:22:36 +0000</pubDate>
       <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>What Is Reasoning</title>
+      <link>https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
       <title>Disney’s ABC Sues Trump’s FCC Over Challenge to Its Broadcast License</title>
@@ -109,6 +116,13 @@
       <guid isPermaLink="true">https://pluralistic.net/2026/08/18/enron-corpus/</guid>
       <pubDate>Tue, 18 Aug 2026 14:48:19 +0000</pubDate>
       <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Why did the Microsoft Entertainment Pack for Windows have a special sticker announcing that it also had Tetris?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621</guid>
+      <pubDate>Tue, 18 Aug 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Mean distance to the sun</title>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/</guid>
       <pubDate>Tue, 11 Aug 2026 21:28:35 +0000</pubDate>
       <description>Krebs on Security</description>
-    </item>
-    <item>
-      <title>datasette-upload-dbs 0.5a0</title>
-      <link>https://simonwillison.net/2026/Aug/11/datasette-upload-dbs/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/11/datasette-upload-dbs/</guid>
-      <pubDate>Tue, 11 Aug 2026 20:35:13 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Edinburgh Fringe: Handel Nine German Arias ★★★⯪☆</title>
-      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-handel-nine-german-arias/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/edinburgh-fringe-handel-nine-german-arias/</guid>
-      <pubDate>Tue, 11 Aug 2026 20:21:05 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
   </channel>
 </rss>

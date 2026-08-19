@@ -212,7 +212,7 @@ Last Updated: Thursday, August 20th, 2026, 2:24:39 AM
 - [Pluralistic: The ordinariness of evil (19 Aug 2026)](https://pluralistic.net/2026/08/19/banaility/) — *Pluralistic: Daily links from Cory Doctorow* `08-19`
 - [Hands-on with Raspberry Pi's CM5 Programming Jig](https://www.jeffgeerling.com/blog/2026/cm5-programming-jig/) — *Jeff Geerling* `08-19`
 - [Big little hexagon](https://www.johndcook.com/blog/2026/08/18/big-little-hexagon/) — *John D. Cook* `08-19`
-- [Disney’s ABC Sues Trump’s FCC Over Challenge to Its Broadcast License](https://www.wsj.com/business/media/disneys-abc-sues-fcc-over-challenge-to-its-broadcast-licenses-64e8f794?st=XTL4tA) — *Daring Fireball* `08-18`
+- [What Is Reasoning](https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/) — *Armin Ronacher's Thoughts and Writings* `08-19`
 <!--BLOG_RADAR:end-->
 
 ---
