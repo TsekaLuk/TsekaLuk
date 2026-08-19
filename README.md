@@ -208,11 +208,11 @@ Last Updated: Wednesday, August 19th, 2026, 8:53:59 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Vim wants you to control, VSCode wants you to consume](https://buttondown.com/hillelwayne/archive/vim-wants-you-to-control-vscode-wants-you-to/) — *Computer Things* `08-18`
-- [‘Dickover’ Makes It Into The Guardian](https://www.theguardian.com/technology/2026/aug/18/dickovers-baggravation-botiquette-18-new-words-tech-hellscape) — *Daring Fireball* `08-18`
-- [The imbalance theorem](https://www.johndcook.com/blog/2026/08/18/the-imbalance-theorem/) — *John D. Cook* `08-18`
-- [What Happens If OpenAI Dies?](https://www.wheresyoured.at/what-happens-if-openai-dies/) — *Ed Zitron's Where's Your Ed At* `08-18`
-- [I like 'em thick](https://www.experimental-history.com/p/i-like-em-thick) — *Experimental History* `08-18`
+- [Big little hexagon](https://www.johndcook.com/blog/2026/08/18/big-little-hexagon/) — *John D. Cook* `08-19`
+- [Disney’s ABC Sues Trump’s FCC Over Challenge to Its Broadcast License](https://www.wsj.com/business/media/disneys-abc-sues-fcc-over-challenge-to-its-broadcast-licenses-64e8f794?st=XTL4tA) — *Daring Fireball* `08-18`
+- [Apple Gives Legal Middle Finger to DOJ Challenge on Apple’s July Discovery Win](https://9to5mac.com/2026/08/17/apple-dojs-latest-challenge-in-antitrust-case-fails-at-every-level/) — *Daring Fireball* `08-18`
+- [Mojo🔥 is now open source](https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/) — *Simon Willison's Weblog* `08-18`
+- [Organized Thieves Are Targeting AI Server Chips With Violent Highway Hijackings](https://www.wired.com/story/the-worst-ive-ever-seen-cargo-thieves-are-turning-violent-in-pursuit-of-ai-hardware/) — *Daring Fireball* `08-18`
 <!--BLOG_RADAR:end-->
 
 ---

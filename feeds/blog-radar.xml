@@ -4,7 +4,42 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 18 Aug 2026 18:47:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 01:40:24 +0000</lastBuildDate>
+    <item>
+      <title>Big little hexagon</title>
+      <link>https://www.johndcook.com/blog/2026/08/18/big-little-hexagon/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/18/big-little-hexagon/</guid>
+      <pubDate>Wed, 19 Aug 2026 00:22:36 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Disney’s ABC Sues Trump’s FCC Over Challenge to Its Broadcast License</title>
+      <link>https://www.wsj.com/business/media/disneys-abc-sues-fcc-over-challenge-to-its-broadcast-licenses-64e8f794?st=XTL4tA</link>
+      <guid isPermaLink="true">https://www.wsj.com/business/media/disneys-abc-sues-fcc-over-challenge-to-its-broadcast-licenses-64e8f794?st=XTL4tA</guid>
+      <pubDate>Tue, 18 Aug 2026 22:39:40 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Apple Gives Legal Middle Finger to DOJ Challenge on Apple’s July Discovery Win</title>
+      <link>https://9to5mac.com/2026/08/17/apple-dojs-latest-challenge-in-antitrust-case-fails-at-every-level/</link>
+      <guid isPermaLink="true">https://9to5mac.com/2026/08/17/apple-dojs-latest-challenge-in-antitrust-case-fails-at-every-level/</guid>
+      <pubDate>Tue, 18 Aug 2026 22:23:45 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Mojo🔥 is now open source</title>
+      <link>https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/</guid>
+      <pubDate>Tue, 18 Aug 2026 21:39:20 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Organized Thieves Are Targeting AI Server Chips With Violent Highway Hijackings</title>
+      <link>https://www.wired.com/story/the-worst-ive-ever-seen-cargo-thieves-are-turning-violent-in-pursuit-of-ai-hardware/</link>
+      <guid isPermaLink="true">https://www.wired.com/story/the-worst-ive-ever-seen-cargo-thieves-are-turning-violent-in-pursuit-of-ai-hardware/</guid>
+      <pubDate>Tue, 18 Aug 2026 18:49:17 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Vim wants you to control, VSCode wants you to consume</title>
       <link>https://buttondown.com/hillelwayne/archive/vim-wants-you-to-control-vscode-wants-you-to/</link>
@@ -139,18 +174,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>How do functions like alloca allocate memory from the stack?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260817-40/?p=112617</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260817-40/?p=112617</guid>
-      <pubDate>Mon, 17 Aug 2026 15:54:40 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
       <title>We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility</title>
       <link>https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/</guid>
       <pubDate>Mon, 17 Aug 2026 15:21:29 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>How do functions like alloca allocate memory from the stack?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260817-00/?p=112617</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260817-00/?p=112617</guid>
+      <pubDate>Mon, 17 Aug 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>And then the men with guns tell you to do it anyway</title>
@@ -417,6 +452,13 @@
       <guid isPermaLink="true">https://www.construction-physics.com/p/how-will-the-21st-century-road-to</guid>
       <pubDate>Fri, 14 Aug 2026 12:03:37 +0000</pubDate>
       <description>Construction Physics</description>
+    </item>
+    <item>
+      <title>Who’s Tracking You? Use This New Service to Find Out</title>
+      <link>https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/</link>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/</guid>
+      <pubDate>Fri, 14 Aug 2026 11:24:35 +0000</pubDate>
+      <description>Krebs on Security</description>
     </item>
     <item>
       <title>Pluralistic: Capital formation (14 Aug 2026)</title>
@@ -762,6 +804,13 @@
       <description>Daring Fireball</description>
     </item>
     <item>
+      <title>Microsoft Plugs Nearly 400 Security Holes</title>
+      <link>https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/</link>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/</guid>
+      <pubDate>Tue, 11 Aug 2026 21:28:35 +0000</pubDate>
+      <description>Krebs on Security</description>
+    </item>
+    <item>
       <title>datasette-upload-dbs 0.5a0</title>
       <link>https://simonwillison.net/2026/Aug/11/datasette-upload-dbs/</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Aug/11/datasette-upload-dbs/</guid>
@@ -795,55 +844,6 @@
       <guid isPermaLink="true">https://www.meta.com/thefutureisforeveryone/</guid>
       <pubDate>Tue, 11 Aug 2026 19:36:36 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Don't Look Up</title>
-      <link>https://www.wheresyoured.at/dont-look-up/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/dont-look-up/</guid>
-      <pubDate>Tue, 11 Aug 2026 19:14:25 +0000</pubDate>
-      <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>The Talk Show: ‘Getting the Snack Right’</title>
-      <link>https://daringfireball.net/thetalkshow/2026/08/10/ep-454</link>
-      <guid isPermaLink="true">https://daringfireball.net/thetalkshow/2026/08/10/ep-454</guid>
-      <pubDate>Tue, 11 Aug 2026 19:00:00 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The Fruits of AI</title>
-      <link>https://blog.jim-nielsen.com/2026/fruit-of-ai/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/fruit-of-ai/</guid>
-      <pubDate>Tue, 11 Aug 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
-      <title>Netflix Has Peaked</title>
-      <link>https://sharptext.net/2026/is-netflix-washed-now/</link>
-      <guid isPermaLink="true">https://sharptext.net/2026/is-netflix-washed-now/</guid>
-      <pubDate>Tue, 11 Aug 2026 18:54:53 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Edinburgh Fringe: Hamlet The Musical ★★☆☆☆</title>
-      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-hamlet-the-musical/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/edinburgh-fringe-hamlet-the-musical/</guid>
-      <pubDate>Tue, 11 Aug 2026 18:19:16 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Anthropic Posts ‘How Claude Marks AI-Generated Content’ Without Explaining How Claude Marks AI-Generated Content</title>
-      <link>https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content</link>
-      <guid isPermaLink="true">https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content</guid>
-      <pubDate>Tue, 11 Aug 2026 17:59:22 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Ryan Greenblatt – What happens once AI can automate AI research?</title>
-      <link>https://www.dwarkesh.com/p/ryan-greenblatt</link>
-      <guid isPermaLink="true">https://www.dwarkesh.com/p/ryan-greenblatt</guid>
-      <pubDate>Tue, 11 Aug 2026 16:31:23 +0000</pubDate>
-      <description>Dwarkesh Podcast</description>
     </item>
   </channel>
 </rss>
