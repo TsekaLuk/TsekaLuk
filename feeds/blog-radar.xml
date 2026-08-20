@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 20 Aug 2026 01:39:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 06:55:32 +0000</lastBuildDate>
     <item>
       <title>Use the built-in GELU, don't roll your own!</title>
       <link>https://www.gilesthomas.com/2026/08/built-in-gelu</link>
@@ -32,6 +32,13 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/</guid>
       <pubDate>Wed, 19 Aug 2026 22:46:07 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>On wrapping a callable in a lambda that just calls it with the same parameters</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260819-00/?p=112624</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260819-00/?p=112624</guid>
+      <pubDate>Wed, 19 Aug 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Asymmetric Agents</title>
@@ -452,13 +459,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/</guid>
       <pubDate>Fri, 14 Aug 2026 21:54:35 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Why do OpenAI's GPT-2 weights beat mine? Part two: IFT dropout</title>
-      <link>https://www.gilesthomas.com/2026/08/why-do-openai-gpt2-weights-beat-mine-2-ift-dropout</link>
-      <guid isPermaLink="true">https://www.gilesthomas.com/2026/08/why-do-openai-gpt2-weights-beat-mine-2-ift-dropout</guid>
-      <pubDate>Fri, 14 Aug 2026 19:00:00 +0000</pubDate>
-      <description>Giles' blog</description>
     </item>
     <item>
       <title>Oh Hey, It’s Not Just Me</title>
