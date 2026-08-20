@@ -208,11 +208,11 @@ Last Updated: Thursday, August 20th, 2026, 8:35:16 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Issues in the Repo](https://nesbitt.io/2026/08/20/issues-in-the-repo.html) — *Andrew Nesbitt* `08-20`
 - [Use the built-in GELU, don't roll your own!](https://www.gilesthomas.com/2026/08/built-in-gelu) — *Giles' blog* `08-20`
+- [Our Servants Will Do That For Us](https://borretti.me/article/our-servants-will-do-that-for-us) — *Fernando Borretti* `08-20`
 - [smolmachines / smolvm as a sandbox for untrusted Python & JavaScript](https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/) — *Simon Willison's Weblog* `08-19`
 - [Quoting Jeremy Morrell](https://simonwillison.net/2026/Aug/19/jeremy-morrell/) — *Simon Willison's Weblog* `08-19`
-- [Conceptual integrity and counting lines of code](https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/) — *Simon Willison's Weblog* `08-19`
-- [On wrapping a callable in a lambda that just calls it with the same parameters](https://devblogs.microsoft.com/oldnewthing/20260819-00/?p=112624) — *The Old New Thing* `08-19`
 <!--BLOG_RADAR:end-->
 
 ---

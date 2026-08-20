@@ -4,13 +4,27 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 20 Aug 2026 06:55:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 13:00:25 +0000</lastBuildDate>
+    <item>
+      <title>Issues in the Repo</title>
+      <link>https://nesbitt.io/2026/08/20/issues-in-the-repo.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/08/20/issues-in-the-repo.html</guid>
+      <pubDate>Thu, 20 Aug 2026 09:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
     <item>
       <title>Use the built-in GELU, don't roll your own!</title>
       <link>https://www.gilesthomas.com/2026/08/built-in-gelu</link>
       <guid isPermaLink="true">https://www.gilesthomas.com/2026/08/built-in-gelu</guid>
       <pubDate>Thu, 20 Aug 2026 02:00:00 +0000</pubDate>
       <description>Giles' blog</description>
+    </item>
+    <item>
+      <title>Our Servants Will Do That For Us</title>
+      <link>https://borretti.me/article/our-servants-will-do-that-for-us</link>
+      <guid isPermaLink="true">https://borretti.me/article/our-servants-will-do-that-for-us</guid>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Fernando Borretti</description>
     </item>
     <item>
       <title>smolmachines / smolvm as a sandbox for untrusted Python &amp; JavaScript</title>
@@ -67,6 +81,13 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/18/big-little-hexagon/</guid>
       <pubDate>Wed, 19 Aug 2026 00:22:36 +0000</pubDate>
       <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Good writing is obvious, not original</title>
+      <link>https://seangoedecke.com/good-writing-is-obvious-not-original/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/good-writing-is-obvious-not-original/</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>What Is Reasoning</title>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://idiallo.com/blog/where-did-the-productivity-gains-go</guid>
       <pubDate>Wed, 12 Aug 2026 12:00:00 +0000</pubDate>
       <description>Software and Tech stories from an Insider - iDiallo.com</description>
-    </item>
-    <item>
-      <title>OTel Isn't Going Well (And I Made A Spreadsheet About It)</title>
-      <link>https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/</link>
-      <guid isPermaLink="true">https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/</guid>
-      <pubDate>Wed, 12 Aug 2026 11:14:11 +0000</pubDate>
-      <description>matduggan.com</description>
-    </item>
-    <item>
-      <title>Pluralistic: Model collapse (12 Aug 2026)</title>
-      <link>https://pluralistic.net/2026/08/12/insurance-value-of-biodiversity/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/08/12/insurance-value-of-biodiversity/</guid>
-      <pubDate>Wed, 12 Aug 2026 08:55:27 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Weekly Update 516: Live From Vietnam</title>
-      <link>https://www.troyhunt.com/weekly-update-516/</link>
-      <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-516/</guid>
-      <pubDate>Wed, 12 Aug 2026 08:16:15 +0000</pubDate>
-      <description>Troy Hunt</description>
     </item>
   </channel>
 </rss>
