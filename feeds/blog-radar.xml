@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 20 Aug 2026 13:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 18:49:05 +0000</lastBuildDate>
+    <item>
+      <title>A Sloppy Interface Is a Security Liability ￼</title>
+      <link>https://blog.jim-nielsen.com/2026/sloppy-ui-is-security-liability/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/sloppy-ui-is-security-liability/</guid>
+      <pubDate>Thu, 20 Aug 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
+    </item>
+    <item>
+      <title>Getting the Steam Deck LCD working on a Raspberry Pi</title>
+      <link>https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat/</guid>
+      <pubDate>Thu, 20 Aug 2026 14:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>AI-generated ASCII diagrams</title>
+      <link>https://www.johndcook.com/blog/2026/08/20/ai-generated-ascii-diagrams/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/20/ai-generated-ascii-diagrams/</guid>
+      <pubDate>Thu, 20 Aug 2026 13:48:43 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
     <item>
       <title>Issues in the Repo</title>
       <link>https://nesbitt.io/2026/08/20/issues-in-the-repo.html</link>
@@ -90,18 +111,18 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>What Is Reasoning</title>
-      <link>https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/</link>
-      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/</guid>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Armin Ronacher's Thoughts and Writings</description>
-    </item>
-    <item>
       <title>Anubis continues to expose new ways people configure webservers</title>
       <link>https://xeiaso.net/notes/2026/anubis-csp-worker-hell/</link>
       <guid isPermaLink="true">https://xeiaso.net/notes/2026/anubis-csp-worker-hell/</guid>
       <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>What Is Reasoning</title>
+      <link>https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
       <title>Disney’s ABC Sues Trump’s FCC Over Challenge to Its Broadcast License</title>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://mastodon.social/@BasicAppleGuy/117073366339407186</guid>
       <pubDate>Wed, 12 Aug 2026 14:43:11 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The comments that go into code versus those that go into the pull request description</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260812-00/?p=112607</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260812-00/?p=112607</guid>
-      <pubDate>Wed, 12 Aug 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Cryptic but consistent</title>
-      <link>https://www.johndcook.com/blog/2026/08/12/cryptic-but-consistent/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/12/cryptic-but-consistent/</guid>
-      <pubDate>Wed, 12 Aug 2026 13:17:03 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Where Did the Productivity Gains Go?</title>
-      <link>https://idiallo.com/blog/where-did-the-productivity-gains-go</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/where-did-the-productivity-gains-go</guid>
-      <pubDate>Wed, 12 Aug 2026 12:00:00 +0000</pubDate>
-      <description>Software and Tech stories from an Insider - iDiallo.com</description>
     </item>
   </channel>
 </rss>
