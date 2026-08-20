@@ -208,11 +208,11 @@ Last Updated: Thursday, August 20th, 2026, 8:53:33 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Use the built-in GELU, don't roll your own!](https://www.gilesthomas.com/2026/08/built-in-gelu) — *Giles' blog* `08-20`
+- [smolmachines / smolvm as a sandbox for untrusted Python & JavaScript](https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/) — *Simon Willison's Weblog* `08-19`
+- [Quoting Jeremy Morrell](https://simonwillison.net/2026/Aug/19/jeremy-morrell/) — *Simon Willison's Weblog* `08-19`
+- [Conceptual integrity and counting lines of code](https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/) — *Simon Willison's Weblog* `08-19`
 - [Asymmetric Agents](https://shkspr.mobi/blog/2026/08/asymmetric-agents/) — *Terence Eden’s Blog* `08-19`
-- [Pluralistic: The ordinariness of evil (19 Aug 2026)](https://pluralistic.net/2026/08/19/banaility/) — *Pluralistic: Daily links from Cory Doctorow* `08-19`
-- [Hands-on with Raspberry Pi's CM5 Programming Jig](https://www.jeffgeerling.com/blog/2026/cm5-programming-jig/) — *Jeff Geerling* `08-19`
-- [Big little hexagon](https://www.johndcook.com/blog/2026/08/18/big-little-hexagon/) — *John D. Cook* `08-19`
-- [What Is Reasoning](https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/) — *Armin Ronacher's Thoughts and Writings* `08-19`
 <!--BLOG_RADAR:end-->
 
 ---
