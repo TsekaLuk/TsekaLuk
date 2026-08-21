@@ -212,7 +212,7 @@ Last Updated: Friday, August 21st, 2026, 2:35:14 PM
 - [Pluralistic: The actual epistemic crisis (20 Aug 2026)](https://pluralistic.net/2026/08/20/epistemic-void/) — *Pluralistic: Daily links from Cory Doctorow* `08-20`
 - [A Sloppy Interface Is a Security Liability ￼](https://blog.jim-nielsen.com/2026/sloppy-ui-is-security-liability/) — *Jim Nielsen’s Blog* `08-20`
 - [A shot-scraper-style JSON API on Bun 1.4's new Bun.WebView](https://simonwillison.net/2026/Aug/20/bun-webview-json-api/) — *Simon Willison's Weblog* `08-20`
-- [Getting the Steam Deck LCD working on a Raspberry Pi](https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat/) — *Jeff Geerling* `08-20`
+- [Reducing C++ template bloat by factoring out the type-dependent portions of the function](https://devblogs.microsoft.com/oldnewthing/20260820-00/?p=112629) — *The Old New Thing* `08-20`
 <!--BLOG_RADAR:end-->
 
 ---

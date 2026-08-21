@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 21 Aug 2026 01:44:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 06:56:39 +0000</lastBuildDate>
     <item>
       <title>ChatGPT search now uses the site:operator at scale</title>
       <link>https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/</link>
@@ -32,6 +32,13 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Aug/20/bun-webview-json-api/</guid>
       <pubDate>Thu, 20 Aug 2026 15:37:00 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Reducing C++ template bloat by factoring out the type-dependent portions of the function</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260820-00/?p=112629</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260820-00/?p=112629</guid>
+      <pubDate>Thu, 20 Aug 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Getting the Steam Deck LCD working on a Raspberry Pi</title>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://feed.tedium.co/link/15204/17416577/greeting-cards-care-bears-cartoons-history</guid>
       <pubDate>Wed, 12 Aug 2026 18:27:39 +0000</pubDate>
       <description>Tedium: The Dull Side of the Internet.</description>
-    </item>
-    <item>
-      <title>Edinburgh Fringe - Garrett Millerick: We Tried it Your Way ★☆☆☆☆</title>
-      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-garrett-millerick-we-tried-it-your-way/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/edinburgh-fringe-garrett-millerick-we-tried-it-your-way/</guid>
-      <pubDate>Wed, 12 Aug 2026 17:55:57 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
   </channel>
 </rss>
