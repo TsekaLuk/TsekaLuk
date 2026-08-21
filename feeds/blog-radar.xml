@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 21 Aug 2026 06:56:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 12:59:38 +0000</lastBuildDate>
+    <item>
+      <title>Book Review: An Immense World - How Animal Senses Reveal the Hidden Realms Around Us by Ed Yong ★★★☆☆</title>
+      <link>https://shkspr.mobi/blog/2026/08/book-review-an-immense-world-how-animal-senses-reveal-the-hidden-realms-around-us-by-ed-yong/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/book-review-an-immense-world-how-animal-senses-reveal-the-hidden-realms-around-us-by-ed-yong/</guid>
+      <pubDate>Fri, 21 Aug 2026 11:34:36 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>In Purgatory Everyone Likes Crepes: My Time at a Greek All-Inclusive</title>
+      <link>https://matduggan.com/in-purgatory-everyone-likes-crepes-my-time-at-a-greek-all-inclusive/</link>
+      <guid isPermaLink="true">https://matduggan.com/in-purgatory-everyone-likes-crepes-my-time-at-a-greek-all-inclusive/</guid>
+      <pubDate>Fri, 21 Aug 2026 09:00:05 +0000</pubDate>
+      <description>matduggan.com</description>
+    </item>
+    <item>
+      <title>Readers can't identify watermarked AI text</title>
+      <link>https://seangoedecke.com/readers-cant-identify-watermarked-ai-text/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/readers-cant-identify-watermarked-ai-text/</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
+    </item>
     <item>
       <title>ChatGPT search now uses the site:operator at scale</title>
       <link>https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/</link>
@@ -34,18 +55,18 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>Reducing C++ template bloat by factoring out the type-dependent portions of the function</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260820-00/?p=112629</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260820-00/?p=112629</guid>
-      <pubDate>Thu, 20 Aug 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
       <title>Getting the Steam Deck LCD working on a Raspberry Pi</title>
       <link>https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat/</link>
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat/</guid>
       <pubDate>Thu, 20 Aug 2026 14:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>Reducing C++ template bloat by factoring out the type-dependent portions of the function</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260820-00/?p=112629</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260820-00/?p=112629</guid>
+      <pubDate>Thu, 20 Aug 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>AI-generated ASCII diagrams</title>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch</guid>
       <pubDate>Wed, 12 Aug 2026 19:38:03 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Edinburgh Fringe - James Rowland: Team Viking ★★⯪☆☆</title>
-      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-james-rowland-team-viking/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/edinburgh-fringe-james-rowland-team-viking/</guid>
-      <pubDate>Wed, 12 Aug 2026 19:20:01 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Amazon Is Spiting Customers With Unhelpful Order Confirmation Emails</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data</link>
-      <guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data</guid>
-      <pubDate>Wed, 12 Aug 2026 18:51:01 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Card Sharks</title>
-      <link>https://feed.tedium.co/link/15204/17416577/greeting-cards-care-bears-cartoons-history</link>
-      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17416577/greeting-cards-care-bears-cartoons-history</guid>
-      <pubDate>Wed, 12 Aug 2026 18:27:39 +0000</pubDate>
-      <description>Tedium: The Dull Side of the Internet.</description>
     </item>
   </channel>
 </rss>
