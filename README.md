@@ -208,11 +208,11 @@ Last Updated: Saturday, August 22nd, 2026, 2:27:13 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Book Review: An Immense World - How Animal Senses Reveal the Hidden Realms Around Us by Ed Yong ★★★☆☆](https://shkspr.mobi/blog/2026/08/book-review-an-immense-world-how-animal-senses-reveal-the-hidden-realms-around-us-by-ed-yong/) — *Terence Eden’s Blog* `08-21`
-- [In Purgatory Everyone Likes Crepes: My Time at a Greek All-Inclusive](https://matduggan.com/in-purgatory-everyone-likes-crepes-my-time-at-a-greek-all-inclusive/) — *matduggan.com* `08-21`
-- [Readers can't identify watermarked AI text](https://seangoedecke.com/readers-cant-identify-watermarked-ai-text/) — *seangoedecke.com RSS feed* `08-21`
-- [ChatGPT search now uses the site:operator at scale](https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/) — *Simon Willison's Weblog* `08-20`
-- [Pluralistic: The actual epistemic crisis (20 Aug 2026)](https://pluralistic.net/2026/08/20/epistemic-void/) — *Pluralistic: Daily links from Cory Doctorow* `08-20`
+- [★ When New DF Posts Drop in a Forest and No One Is There to Read Them](https://daringfireball.net/2026/08/df_posts_drop_in_a_forest) — *Daring Fireball* `08-21`
+- [Stop Making TUIs](https://simonwillison.net/2026/Aug/21/stop-making-tuis/) — *Simon Willison's Weblog* `08-21`
+- [A Need for Speed](https://www.filfre.net/2026/08/a-need-for-speed/) — *The Digital Antiquarian* `08-21`
+- [Quoting Matt Webb](https://simonwillison.net/2026/Aug/21/matt-webb/) — *Simon Willison's Weblog* `08-21`
+- [Reducing C++ template bloat by factoring out the type-dependent portions of the function, practical exam](https://devblogs.microsoft.com/oldnewthing/20260821-00/?p=112632) — *The Old New Thing* `08-21`
 <!--BLOG_RADAR:end-->
 
 ---
