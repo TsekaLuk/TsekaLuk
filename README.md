@@ -208,11 +208,11 @@ Last Updated: Friday, August 21st, 2026, 8:57:16 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [ChatGPT search now uses the site:operator at scale](https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/) — *Simon Willison's Weblog* `08-20`
+- [Pluralistic: The actual epistemic crisis (20 Aug 2026)](https://pluralistic.net/2026/08/20/epistemic-void/) — *Pluralistic: Daily links from Cory Doctorow* `08-20`
 - [A Sloppy Interface Is a Security Liability ￼](https://blog.jim-nielsen.com/2026/sloppy-ui-is-security-liability/) — *Jim Nielsen’s Blog* `08-20`
+- [A shot-scraper-style JSON API on Bun 1.4's new Bun.WebView](https://simonwillison.net/2026/Aug/20/bun-webview-json-api/) — *Simon Willison's Weblog* `08-20`
 - [Getting the Steam Deck LCD working on a Raspberry Pi](https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat/) — *Jeff Geerling* `08-20`
-- [AI-generated ASCII diagrams](https://www.johndcook.com/blog/2026/08/20/ai-generated-ascii-diagrams/) — *John D. Cook* `08-20`
-- [Issues in the Repo](https://nesbitt.io/2026/08/20/issues-in-the-repo.html) — *Andrew Nesbitt* `08-20`
-- [Use the built-in GELU, don't roll your own!](https://www.gilesthomas.com/2026/08/built-in-gelu) — *Giles' blog* `08-20`
 <!--BLOG_RADAR:end-->
 
 ---
