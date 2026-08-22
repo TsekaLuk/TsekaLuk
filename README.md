@@ -208,11 +208,11 @@ Last Updated: Saturday, August 22nd, 2026, 8:53:46 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [★ When New DF Posts Drop in a Forest and No One Is There to Read Them](https://daringfireball.net/2026/08/df_posts_drop_in_a_forest) — *Daring Fireball* `08-21`
-- [Stop Making TUIs](https://simonwillison.net/2026/Aug/21/stop-making-tuis/) — *Simon Willison's Weblog* `08-21`
-- [A Need for Speed](https://www.filfre.net/2026/08/a-need-for-speed/) — *The Digital Antiquarian* `08-21`
-- [Quoting Matt Webb](https://simonwillison.net/2026/Aug/21/matt-webb/) — *Simon Willison's Weblog* `08-21`
-- [Reducing C++ template bloat by factoring out the type-dependent portions of the function, practical exam](https://devblogs.microsoft.com/oldnewthing/20260821-00/?p=112632) — *The Old New Thing* `08-21`
+- [Pluralistic: Born on technology's third base (21 Aug 2026)](https://pluralistic.net/2026/08/21/world-historic-forces/) — *Pluralistic: Daily links from Cory Doctorow* `08-22`
+- [You should never be angry at work](https://seangoedecke.com/you-should-never-be-angry-at-work/) — *seangoedecke.com RSS feed* `08-22`
+- [The Fourth Horseman of the File-Format-Hegemony Apocalypse](https://techcommunity.microsoft.com/blog/onedriveblog/introducing-markdown-support-in-sharepoint-and-onedrive/4512174) — *Daring Fireball* `08-21`
+- [Walmart Finally Caves, Will Soon Support Apple Pay](https://corporate.walmart.com/news/2026/08/21/more-ways-to-pay-tap-to-pay-is-coming-to-walmart-and-sams-club) — *Daring Fireball* `08-21`
+- [llm 0.32.1](https://simonwillison.net/2026/Aug/21/llm/) — *Simon Willison's Weblog* `08-21`
 <!--BLOG_RADAR:end-->
 
 ---
