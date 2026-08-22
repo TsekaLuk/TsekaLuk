@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 22 Aug 2026 06:50:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 12:50:58 +0000</lastBuildDate>
+    <item>
+      <title>Reading List 08/22/26</title>
+      <link>https://www.construction-physics.com/p/reading-list-082226</link>
+      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-082226</guid>
+      <pubDate>Sat, 22 Aug 2026 12:02:58 +0000</pubDate>
+      <description>Construction Physics</description>
+    </item>
+    <item>
+      <title>This Week in Package Management: 22 August 2026</title>
+      <link>https://nesbitt.io/2026/08/22/this-week-in-package-management.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/08/22/this-week-in-package-management.html</guid>
+      <pubDate>Sat, 22 Aug 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
     <item>
       <title>Pluralistic: Born on technology's third base (21 Aug 2026)</title>
       <link>https://pluralistic.net/2026/08/21/world-historic-forces/</link>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://matklad.github.io/2026/08/14/printing-lists.html</guid>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
       <description>matklad</description>
-    </item>
-    <item>
-      <title>How NASA’s Mariner 9 probe encoded images</title>
-      <link>https://www.johndcook.com/blog/2026/08/13/mariner-hadamard/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/13/mariner-hadamard/</guid>
-      <pubDate>Thu, 13 Aug 2026 23:54:21 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>sqlite-utils 4.2.1</title>
-      <link>https://simonwillison.net/2026/Aug/13/sqlite-utils-2/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/13/sqlite-utils-2/</guid>
-      <pubDate>Thu, 13 Aug 2026 23:53:47 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>

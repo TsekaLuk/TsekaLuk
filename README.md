@@ -208,11 +208,11 @@ Last Updated: Saturday, August 22nd, 2026, 8:26:32 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Reading List 08/22/26](https://www.construction-physics.com/p/reading-list-082226) — *Construction Physics* `08-22`
+- [This Week in Package Management: 22 August 2026](https://nesbitt.io/2026/08/22/this-week-in-package-management.html) — *Andrew Nesbitt* `08-22`
 - [Pluralistic: Born on technology's third base (21 Aug 2026)](https://pluralistic.net/2026/08/21/world-historic-forces/) — *Pluralistic: Daily links from Cory Doctorow* `08-22`
 - [You should never be angry at work](https://seangoedecke.com/you-should-never-be-angry-at-work/) — *seangoedecke.com RSS feed* `08-22`
 - [The Fourth Horseman of the File-Format-Hegemony Apocalypse](https://techcommunity.microsoft.com/blog/onedriveblog/introducing-markdown-support-in-sharepoint-and-onedrive/4512174) — *Daring Fireball* `08-21`
-- [Walmart Finally Caves, Will Soon Support Apple Pay](https://corporate.walmart.com/news/2026/08/21/more-ways-to-pay-tap-to-pay-is-coming-to-walmart-and-sams-club) — *Daring Fireball* `08-21`
-- [llm 0.32.1](https://simonwillison.net/2026/Aug/21/llm/) — *Simon Willison's Weblog* `08-21`
 <!--BLOG_RADAR:end-->
 
 ---
