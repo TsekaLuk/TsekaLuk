@@ -4,7 +4,56 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 22 Aug 2026 12:50:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 18:38:34 +0000</lastBuildDate>
+    <item>
+      <title>llm 0.33</title>
+      <link>https://simonwillison.net/2026/Aug/22/llm/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/22/llm/</guid>
+      <pubDate>Sat, 22 Aug 2026 17:01:16 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Mark Carney on the U.S. Under Trump: ‘Sometimes, Its Signature Is Written in Pencil’</title>
+      <link>https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html?unlocked_article_code=1.7VA.r3Ue.GTc_tOhX0qSn</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html?unlocked_article_code=1.7VA.r3Ue.GTc_tOhX0qSn</guid>
+      <pubDate>Sat, 22 Aug 2026 16:47:10 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>More than just code review</title>
+      <link>https://simonwillison.net/2026/Aug/22/more-than-just-code-review/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/22/more-than-just-code-review/</guid>
+      <pubDate>Sat, 22 Aug 2026 15:56:54 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Coming soon</title>
+      <link>https://www.johndcook.com/blog/2026/08/22/coming-soon/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/22/coming-soon/</guid>
+      <pubDate>Sat, 22 Aug 2026 15:34:11 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Concurrent Servers: Part 8 - Go</title>
+      <link>https://eli.thegreenplace.net/2026/concurrent-servers-part-8-go/</link>
+      <guid isPermaLink="true">https://eli.thegreenplace.net/2026/concurrent-servers-part-8-go/</guid>
+      <pubDate>Sat, 22 Aug 2026 14:52:00 +0000</pubDate>
+      <description>Eli Bendersky's website</description>
+    </item>
+    <item>
+      <title>WorkOS: Agents Can Now Sign Up for Your App</title>
+      <link>https://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</link>
+      <guid isPermaLink="true">https://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</guid>
+      <pubDate>Sat, 22 Aug 2026 14:18:29 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Dutch Regulator Fines Uber $1 Billion for Suspending Dishonest Drivers</title>
+      <link>https://www.reuters.com/world/dutch-regulator-fines-uber-966-million-automating-driver-suspensions-document-2026-08-21/</link>
+      <guid isPermaLink="true">https://www.reuters.com/world/dutch-regulator-fines-uber-966-million-automating-driver-suspensions-document-2026-08-21/</guid>
+      <pubDate>Sat, 22 Aug 2026 14:12:07 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Reading List 08/22/26</title>
       <link>https://www.construction-physics.com/p/reading-list-082226</link>
@@ -326,13 +375,6 @@
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/cm5-programming-jig/</guid>
       <pubDate>Wed, 19 Aug 2026 07:13:00 +0000</pubDate>
       <description>Jeff Geerling</description>
-    </item>
-    <item>
-      <title>[Sponsor] WorkOS: Agents Can Now Sign Up for Your App</title>
-      <link>https://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</link>
-      <guid isPermaLink="true">https://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</guid>
-      <pubDate>Wed, 19 Aug 2026 04:30:16 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
     <item>
       <title>Big little hexagon</title>
@@ -720,13 +762,6 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>Training a Reinforcement Learning Model to Play Bonk.io</title>
-      <link>https://blog.pixelmelt.dev/training-a-reinforcement-learning-model-to-play-bonk-io/</link>
-      <guid isPermaLink="true">https://blog.pixelmelt.dev/training-a-reinforcement-learning-model-to-play-bonk-io/</guid>
-      <pubDate>Sat, 15 Aug 2026 02:50:29 +0000</pubDate>
-      <description>Cats with power tools</description>
-    </item>
-    <item>
       <title>Site update: a few posts have been removed</title>
       <link>https://xeiaso.net/notes/2026/blogposts-removed/</link>
       <guid isPermaLink="true">https://xeiaso.net/notes/2026/blogposts-removed/</guid>
@@ -809,41 +844,6 @@
       <guid isPermaLink="true">https://www.construction-physics.com/p/how-will-the-21st-century-road-to</guid>
       <pubDate>Fri, 14 Aug 2026 12:03:37 +0000</pubDate>
       <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>Who’s Tracking You? Use This New Service to Find Out</title>
-      <link>https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/</link>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/</guid>
-      <pubDate>Fri, 14 Aug 2026 11:24:35 +0000</pubDate>
-      <description>Krebs on Security</description>
-    </item>
-    <item>
-      <title>Pluralistic: Capital formation (14 Aug 2026)</title>
-      <link>https://pluralistic.net/2026/08/14/one-chokable-throat/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/08/14/one-chokable-throat/</guid>
-      <pubDate>Fri, 14 Aug 2026 11:10:41 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>How This Blog Is Built</title>
-      <link>https://nesbitt.io/2026/08/14/how-this-blog-is-built.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/08/14/how-this-blog-is-built.html</guid>
-      <pubDate>Fri, 14 Aug 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Hadamard Codes and Sphere Packing</title>
-      <link>https://www.johndcook.com/blog/2026/08/13/hadamard-sphere-packing/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/13/hadamard-sphere-packing/</guid>
-      <pubDate>Fri, 14 Aug 2026 01:35:05 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Printing Lists</title>
-      <link>https://matklad.github.io/2026/08/14/printing-lists.html</link>
-      <guid isPermaLink="true">https://matklad.github.io/2026/08/14/printing-lists.html</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <description>matklad</description>
     </item>
   </channel>
 </rss>

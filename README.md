@@ -208,11 +208,11 @@ Last Updated: Sunday, August 23rd, 2026, 2:19:47 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Reading List 08/22/26](https://www.construction-physics.com/p/reading-list-082226) — *Construction Physics* `08-22`
-- [This Week in Package Management: 22 August 2026](https://nesbitt.io/2026/08/22/this-week-in-package-management.html) — *Andrew Nesbitt* `08-22`
-- [Pluralistic: Born on technology's third base (21 Aug 2026)](https://pluralistic.net/2026/08/21/world-historic-forces/) — *Pluralistic: Daily links from Cory Doctorow* `08-22`
-- [You should never be angry at work](https://seangoedecke.com/you-should-never-be-angry-at-work/) — *seangoedecke.com RSS feed* `08-22`
-- [The Fourth Horseman of the File-Format-Hegemony Apocalypse](https://techcommunity.microsoft.com/blog/onedriveblog/introducing-markdown-support-in-sharepoint-and-onedrive/4512174) — *Daring Fireball* `08-21`
+- [llm 0.33](https://simonwillison.net/2026/Aug/22/llm/) — *Simon Willison's Weblog* `08-22`
+- [Mark Carney on the U.S. Under Trump: ‘Sometimes, Its Signature Is Written in Pencil’](https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html?unlocked_article_code=1.7VA.r3Ue.GTc_tOhX0qSn) — *Daring Fireball* `08-22`
+- [More than just code review](https://simonwillison.net/2026/Aug/22/more-than-just-code-review/) — *Simon Willison's Weblog* `08-22`
+- [Coming soon](https://www.johndcook.com/blog/2026/08/22/coming-soon/) — *John D. Cook* `08-22`
+- [Concurrent Servers: Part 8 - Go](https://eli.thegreenplace.net/2026/concurrent-servers-part-8-go/) — *Eli Bendersky's website* `08-22`
 <!--BLOG_RADAR:end-->
 
 ---
