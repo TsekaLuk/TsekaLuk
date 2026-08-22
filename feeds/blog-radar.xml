@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 22 Aug 2026 01:37:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 06:50:23 +0000</lastBuildDate>
     <item>
       <title>Pluralistic: Born on technology's third base (21 Aug 2026)</title>
       <link>https://pluralistic.net/2026/08/21/world-historic-forces/</link>
@@ -328,18 +328,18 @@
       <description>John D. Cook</description>
     </item>
     <item>
-      <title>What Is Reasoning</title>
-      <link>https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/</link>
-      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/</guid>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Armin Ronacher's Thoughts and Writings</description>
-    </item>
-    <item>
       <title>Good writing is obvious, not original</title>
       <link>https://seangoedecke.com/good-writing-is-obvious-not-original/</link>
       <guid isPermaLink="true">https://seangoedecke.com/good-writing-is-obvious-not-original/</guid>
       <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>What Is Reasoning</title>
+      <link>https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
       <title>Anubis continues to expose new ways people configure webservers</title>
