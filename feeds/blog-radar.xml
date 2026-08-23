@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 23 Aug 2026 01:47:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 06:51:23 +0000</lastBuildDate>
+    <item>
+      <title>Welcoming the Sri Lankan Government to Have I Been Pwned</title>
+      <link>https://www.troyhunt.com/welcoming-the-sri-lankan-government-to-have-i-been-pwned/</link>
+      <guid isPermaLink="true">https://www.troyhunt.com/welcoming-the-sri-lankan-government-to-have-i-been-pwned/</guid>
+      <pubDate>Sun, 23 Aug 2026 06:39:45 +0000</pubDate>
+      <description>Troy Hunt</description>
+    </item>
     <item>
       <title>The difference orbit inclination makes</title>
       <link>https://www.johndcook.com/blog/2026/08/22/inclination/</link>
@@ -97,18 +104,18 @@
       <description>Pluralistic: Daily links from Cory Doctorow</description>
     </item>
     <item>
-      <title>You should never be angry at work</title>
-      <link>https://seangoedecke.com/you-should-never-be-angry-at-work/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/you-should-never-be-angry-at-work/</guid>
-      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
       <title>Fast and Hard Code</title>
       <link>https://lucumr.pocoo.org/2026/8/22/fast-hard-code/</link>
       <guid isPermaLink="true">https://lucumr.pocoo.org/2026/8/22/fast-hard-code/</guid>
       <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
       <description>Armin Ronacher's Thoughts and Writings</description>
+    </item>
+    <item>
+      <title>You should never be angry at work</title>
+      <link>https://seangoedecke.com/you-should-never-be-angry-at-work/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/you-should-never-be-angry-at-work/</guid>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>Vim's UserGettingBored autocmd</title>
@@ -293,18 +300,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Reducing C++ template bloat by factoring out the type-dependent portions of the function</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260820-00/?p=112629</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260820-00/?p=112629</guid>
-      <pubDate>Thu, 20 Aug 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
       <title>Getting the Steam Deck LCD working on a Raspberry Pi</title>
       <link>https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat/</link>
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat/</guid>
       <pubDate>Thu, 20 Aug 2026 14:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>Reducing C++ template bloat by factoring out the type-dependent portions of the function</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260820-00/?p=112629</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260820-00/?p=112629</guid>
+      <pubDate>Thu, 20 Aug 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>AI-generated ASCII diagrams</title>
@@ -426,18 +433,18 @@
       <description>John D. Cook</description>
     </item>
     <item>
-      <title>Good writing is obvious, not original</title>
-      <link>https://seangoedecke.com/good-writing-is-obvious-not-original/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/good-writing-is-obvious-not-original/</guid>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
       <title>What Is Reasoning</title>
       <link>https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/</link>
       <guid isPermaLink="true">https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/</guid>
       <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
       <description>Armin Ronacher's Thoughts and Writings</description>
+    </item>
+    <item>
+      <title>Good writing is obvious, not original</title>
+      <link>https://seangoedecke.com/good-writing-is-obvious-not-original/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/good-writing-is-obvious-not-original/</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>Anubis continues to expose new ways people configure webservers</title>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/edinburgh-fringe-target-audience/</guid>
       <pubDate>Fri, 14 Aug 2026 18:45:41 +0000</pubDate>
       <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>★ You Don’t Need to Worry About Scratching Your iPhone Camera Lenses</title>
-      <link>https://daringfireball.net/2026/08/iphone_camera_lens_scratch_resistance</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/08/iphone_camera_lens_scratch_resistance</guid>
-      <pubDate>Fri, 14 Aug 2026 17:16:15 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
