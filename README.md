@@ -208,11 +208,11 @@ Last Updated: Sunday, August 23rd, 2026, 8:57:55 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [The difference orbit inclination makes](https://www.johndcook.com/blog/2026/08/22/inclination/) — *John D. Cook* `08-23`
+- [Quoting Linus Torvalds](https://simonwillison.net/2026/Aug/22/linus-torvalds/) — *Simon Willison's Weblog* `08-22`
 - [llm 0.33](https://simonwillison.net/2026/Aug/22/llm/) — *Simon Willison's Weblog* `08-22`
 - [Mark Carney on the U.S. Under Trump: ‘Sometimes, Its Signature Is Written in Pencil’](https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html?unlocked_article_code=1.7VA.r3Ue.GTc_tOhX0qSn) — *Daring Fireball* `08-22`
 - [More than just code review](https://simonwillison.net/2026/Aug/22/more-than-just-code-review/) — *Simon Willison's Weblog* `08-22`
-- [Coming soon](https://www.johndcook.com/blog/2026/08/22/coming-soon/) — *John D. Cook* `08-22`
-- [Concurrent Servers: Part 8 - Go](https://eli.thegreenplace.net/2026/concurrent-servers-part-8-go/) — *Eli Bendersky's website* `08-22`
 <!--BLOG_RADAR:end-->
 
 ---

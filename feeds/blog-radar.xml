@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 22 Aug 2026 18:38:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 01:47:31 +0000</lastBuildDate>
+    <item>
+      <title>The difference orbit inclination makes</title>
+      <link>https://www.johndcook.com/blog/2026/08/22/inclination/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/22/inclination/</guid>
+      <pubDate>Sun, 23 Aug 2026 00:01:10 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Quoting Linus Torvalds</title>
+      <link>https://simonwillison.net/2026/Aug/22/linus-torvalds/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/22/linus-torvalds/</guid>
+      <pubDate>Sat, 22 Aug 2026 21:04:26 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>llm 0.33</title>
       <link>https://simonwillison.net/2026/Aug/22/llm/</link>
@@ -55,6 +69,13 @@
       <description>Daring Fireball</description>
     </item>
     <item>
+      <title>A Syncthing and SQLite Gotcha</title>
+      <link>https://borretti.me/article/a-syncthing-and-sqlite-gotcha</link>
+      <guid isPermaLink="true">https://borretti.me/article/a-syncthing-and-sqlite-gotcha</guid>
+      <pubDate>Sat, 22 Aug 2026 14:00:00 +0000</pubDate>
+      <description>Fernando Borretti</description>
+    </item>
+    <item>
       <title>Reading List 08/22/26</title>
       <link>https://www.construction-physics.com/p/reading-list-082226</link>
       <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-082226</guid>
@@ -81,6 +102,27 @@
       <guid isPermaLink="true">https://seangoedecke.com/you-should-never-be-angry-at-work/</guid>
       <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Fast and Hard Code</title>
+      <link>https://lucumr.pocoo.org/2026/8/22/fast-hard-code/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/8/22/fast-hard-code/</guid>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Armin Ronacher's Thoughts and Writings</description>
+    </item>
+    <item>
+      <title>Vim's UserGettingBored autocmd</title>
+      <link>https://evanhahn.com/usergettingbored-vim/</link>
+      <guid isPermaLink="true">https://evanhahn.com/usergettingbored-vim/</guid>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Evan Hahn (dot com)</description>
+    </item>
+    <item>
+      <title>the figure of the earth</title>
+      <link>https://computer.rip/2026-08-22-figure-of-the-earth.html</link>
+      <guid isPermaLink="true">https://computer.rip/2026-08-22-figure-of-the-earth.html</guid>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+      <description>computers are bad</description>
     </item>
     <item>
       <title>The Fourth Horseman of the File-Format-Hegemony Apocalypse</title>
@@ -251,18 +293,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Getting the Steam Deck LCD working on a Raspberry Pi</title>
-      <link>https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat/</guid>
-      <pubDate>Thu, 20 Aug 2026 14:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
       <title>Reducing C++ template bloat by factoring out the type-dependent portions of the function</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260820-00/?p=112629</link>
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260820-00/?p=112629</guid>
       <pubDate>Thu, 20 Aug 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>Getting the Steam Deck LCD working on a Raspberry Pi</title>
+      <link>https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat/</guid>
+      <pubDate>Thu, 20 Aug 2026 14:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
     </item>
     <item>
       <title>AI-generated ASCII diagrams</title>
@@ -298,13 +340,6 @@
       <guid isPermaLink="true">https://matklad.github.io/2026/08/20/better-batteries.html</guid>
       <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
       <description>matklad</description>
-    </item>
-    <item>
-      <title>Our Servants Will Do That For Us</title>
-      <link>https://borretti.me/article/our-servants-will-do-that-for-us</link>
-      <guid isPermaLink="true">https://borretti.me/article/our-servants-will-do-that-for-us</guid>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Fernando Borretti</description>
     </item>
     <item>
       <title>Introducing Dashboard Touch, a build-your-own version of Touch ID</title>
@@ -354,6 +389,13 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260819-00/?p=112624</guid>
       <pubDate>Wed, 19 Aug 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>Our Servants Will Do That For Us</title>
+      <link>https://borretti.me/article/our-servants-will-do-that-for-us</link>
+      <guid isPermaLink="true">https://borretti.me/article/our-servants-will-do-that-for-us</guid>
+      <pubDate>Wed, 19 Aug 2026 14:00:00 +0000</pubDate>
+      <description>Fernando Borretti</description>
     </item>
     <item>
       <title>Asymmetric Agents</title>
@@ -538,13 +580,6 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>AI Alignment as a Thought-Terminating Cliche</title>
-      <link>https://borretti.me/article/ai-alignment-as-thought-terminating-cliche</link>
-      <guid isPermaLink="true">https://borretti.me/article/ai-alignment-as-thought-terminating-cliche</guid>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Fernando Borretti</description>
-    </item>
-    <item>
       <title>Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index</title>
       <link>https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/</guid>
@@ -585,6 +620,13 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260817-00/?p=112617</guid>
       <pubDate>Mon, 17 Aug 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>AI Alignment as a Thought-Terminating Cliche</title>
+      <link>https://borretti.me/article/ai-alignment-as-thought-terminating-cliche</link>
+      <guid isPermaLink="true">https://borretti.me/article/ai-alignment-as-thought-terminating-cliche</guid>
+      <pubDate>Mon, 17 Aug 2026 14:00:00 +0000</pubDate>
+      <description>Fernando Borretti</description>
     </item>
     <item>
       <title>And then the men with guns tell you to do it anyway</title>
@@ -762,6 +804,13 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
+      <title>Training a Reinforcement Learning Model to Play Bonk.io</title>
+      <link>https://blog.pixelmelt.dev/training-a-reinforcement-learning-model-to-play-bonk-io/</link>
+      <guid isPermaLink="true">https://blog.pixelmelt.dev/training-a-reinforcement-learning-model-to-play-bonk-io/</guid>
+      <pubDate>Sat, 15 Aug 2026 02:50:29 +0000</pubDate>
+      <description>Cats with power tools</description>
+    </item>
+    <item>
       <title>Site update: a few posts have been removed</title>
       <link>https://xeiaso.net/notes/2026/blogposts-removed/</link>
       <guid isPermaLink="true">https://xeiaso.net/notes/2026/blogposts-removed/</guid>
@@ -795,55 +844,6 @@
       <guid isPermaLink="true">https://daringfireball.net/2026/08/iphone_camera_lens_scratch_resistance</guid>
       <pubDate>Fri, 14 Aug 2026 17:16:15 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Google’s ‘Material 3’ Design Write-Up Is 93.3 Percent Embarrassing</title>
-      <link>https://design.google/library/expressive-material-design-google-research</link>
-      <guid isPermaLink="true">https://design.google/library/expressive-material-design-google-research</guid>
-      <pubDate>Fri, 14 Aug 2026 16:33:55 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>This Week on The Analog Antiquarian</title>
-      <link>https://www.filfre.net/2026/08/this-week-on-the-analog-antiquarian/</link>
-      <guid isPermaLink="true">https://www.filfre.net/2026/08/this-week-on-the-analog-antiquarian/</guid>
-      <pubDate>Fri, 14 Aug 2026 16:05:50 +0000</pubDate>
-      <description>The Digital Antiquarian</description>
-    </item>
-    <item>
-      <title>Premium: How Much Money Does AI Need?</title>
-      <link>https://www.wheresyoured.at/premium-how-much-money-does-ai-need/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/premium-how-much-money-does-ai-need/</guid>
-      <pubDate>Fri, 14 Aug 2026 15:48:21 +0000</pubDate>
-      <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>Edinburgh Fringe: Stand-up Philosophy ★★★⯪☆</title>
-      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-stand-up-philosophy/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/edinburgh-fringe-stand-up-philosophy/</guid>
-      <pubDate>Fri, 14 Aug 2026 15:16:26 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Forcing an ARM64X executable to run as a specific architecture</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260814-00/?p=112613</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260814-00/?p=112613</guid>
-      <pubDate>Fri, 14 Aug 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Edinburgh Fringe: Waiting for Wonka ★★★⯪☆</title>
-      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-waiting-for-wonka/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/edinburgh-fringe-waiting-for-wonka/</guid>
-      <pubDate>Fri, 14 Aug 2026 12:31:07 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>How Will the 21st Century ROAD to Housing Act Affect Housing Supply? Part II</title>
-      <link>https://www.construction-physics.com/p/how-will-the-21st-century-road-to</link>
-      <guid isPermaLink="true">https://www.construction-physics.com/p/how-will-the-21st-century-road-to</guid>
-      <pubDate>Fri, 14 Aug 2026 12:03:37 +0000</pubDate>
-      <description>Construction Physics</description>
     </item>
   </channel>
 </rss>
