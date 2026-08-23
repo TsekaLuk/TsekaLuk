@@ -208,11 +208,11 @@ Last Updated: Sunday, August 23rd, 2026, 8:27:13 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Death to px, long live ch!](https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/) — *Terence Eden’s Blog* `08-23`
 - [Welcoming the Sri Lankan Government to Have I Been Pwned](https://www.troyhunt.com/welcoming-the-sri-lankan-government-to-have-i-been-pwned/) — *Troy Hunt* `08-23`
 - [The difference orbit inclination makes](https://www.johndcook.com/blog/2026/08/22/inclination/) — *John D. Cook* `08-23`
 - [Quoting Linus Torvalds](https://simonwillison.net/2026/Aug/22/linus-torvalds/) — *Simon Willison's Weblog* `08-22`
 - [llm 0.33](https://simonwillison.net/2026/Aug/22/llm/) — *Simon Willison's Weblog* `08-22`
-- [Mark Carney on the U.S. Under Trump: ‘Sometimes, Its Signature Is Written in Pencil’](https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html?unlocked_article_code=1.7VA.r3Ue.GTc_tOhX0qSn) — *Daring Fireball* `08-22`
 <!--BLOG_RADAR:end-->
 
 ---

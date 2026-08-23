@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 23 Aug 2026 06:51:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 12:52:03 +0000</lastBuildDate>
+    <item>
+      <title>Death to px, long live ch!</title>
+      <link>https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/</guid>
+      <pubDate>Sun, 23 Aug 2026 11:34:52 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
     <item>
       <title>Welcoming the Sri Lankan Government to Have I Been Pwned</title>
       <link>https://www.troyhunt.com/welcoming-the-sri-lankan-government-to-have-i-been-pwned/</link>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/its-not-just-me/</guid>
       <pubDate>Fri, 14 Aug 2026 19:00:00 +0000</pubDate>
       <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
-      <title>Edinburgh Fringe: Target Audience ★★★★★</title>
-      <link>https://shkspr.mobi/blog/2026/08/edinburgh-fringe-target-audience/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/edinburgh-fringe-target-audience/</guid>
-      <pubDate>Fri, 14 Aug 2026 18:45:41 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
   </channel>
 </rss>
