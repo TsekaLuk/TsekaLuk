@@ -208,11 +208,11 @@ Last Updated: Monday, August 24th, 2026, 2:19:49 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Why special function terminology is arcane](https://www.johndcook.com/blog/2026/08/23/arcane-terminology/) — *John D. Cook* `08-23`
+- [Cooper Sharp Proves That American Cheese Can Be Great Cheese](https://sixcolors.com/member/2026/08/this-week-in-apple-lets-fight/) — *Daring Fireball* `08-23`
 - [Death to px, long live ch!](https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/) — *Terence Eden’s Blog* `08-23`
 - [Welcoming the Sri Lankan Government to Have I Been Pwned](https://www.troyhunt.com/welcoming-the-sri-lankan-government-to-have-i-been-pwned/) — *Troy Hunt* `08-23`
 - [The difference orbit inclination makes](https://www.johndcook.com/blog/2026/08/22/inclination/) — *John D. Cook* `08-23`
-- [Quoting Linus Torvalds](https://simonwillison.net/2026/Aug/22/linus-torvalds/) — *Simon Willison's Weblog* `08-22`
-- [llm 0.33](https://simonwillison.net/2026/Aug/22/llm/) — *Simon Willison's Weblog* `08-22`
 <!--BLOG_RADAR:end-->
 
 ---

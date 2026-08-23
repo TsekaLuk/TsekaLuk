@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 23 Aug 2026 12:52:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 18:37:56 +0000</lastBuildDate>
+    <item>
+      <title>Why special function terminology is arcane</title>
+      <link>https://www.johndcook.com/blog/2026/08/23/arcane-terminology/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/23/arcane-terminology/</guid>
+      <pubDate>Sun, 23 Aug 2026 17:56:03 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Cooper Sharp Proves That American Cheese Can Be Great Cheese</title>
+      <link>https://sixcolors.com/member/2026/08/this-week-in-apple-lets-fight/</link>
+      <guid isPermaLink="true">https://sixcolors.com/member/2026/08/this-week-in-apple-lets-fight/</guid>
+      <pubDate>Sun, 23 Aug 2026 17:36:28 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Death to px, long live ch!</title>
       <link>https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/</link>
@@ -111,18 +125,18 @@
       <description>Pluralistic: Daily links from Cory Doctorow</description>
     </item>
     <item>
-      <title>Fast and Hard Code</title>
-      <link>https://lucumr.pocoo.org/2026/8/22/fast-hard-code/</link>
-      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/8/22/fast-hard-code/</guid>
-      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Armin Ronacher's Thoughts and Writings</description>
-    </item>
-    <item>
       <title>You should never be angry at work</title>
       <link>https://seangoedecke.com/you-should-never-be-angry-at-work/</link>
       <guid isPermaLink="true">https://seangoedecke.com/you-should-never-be-angry-at-work/</guid>
       <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Fast and Hard Code</title>
+      <link>https://lucumr.pocoo.org/2026/8/22/fast-hard-code/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/8/22/fast-hard-code/</guid>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
       <title>Vim's UserGettingBored autocmd</title>
@@ -440,18 +454,18 @@
       <description>John D. Cook</description>
     </item>
     <item>
-      <title>What Is Reasoning</title>
-      <link>https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/</link>
-      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/</guid>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Armin Ronacher's Thoughts and Writings</description>
-    </item>
-    <item>
       <title>Good writing is obvious, not original</title>
       <link>https://seangoedecke.com/good-writing-is-obvious-not-original/</link>
       <guid isPermaLink="true">https://seangoedecke.com/good-writing-is-obvious-not-original/</guid>
       <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>What Is Reasoning</title>
+      <link>https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
       <title>Anubis continues to expose new ways people configure webservers</title>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://xeiaso.net/notes/2026/blogposts-removed/</guid>
       <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
-    </item>
-    <item>
-      <title>Don't classify. Hallucinate!</title>
-      <link>https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/</guid>
-      <pubDate>Fri, 14 Aug 2026 21:54:35 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Oh Hey, It’s Not Just Me</title>
-      <link>https://blog.jim-nielsen.com/2026/its-not-just-me/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/its-not-just-me/</guid>
-      <pubDate>Fri, 14 Aug 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
     </item>
   </channel>
 </rss>
