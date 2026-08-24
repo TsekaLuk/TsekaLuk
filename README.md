@@ -208,11 +208,11 @@ Last Updated: Monday, August 24th, 2026, 2:43:28 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Weekly Update 518: IoT Doorlock Nirvana with UniFi](https://www.troyhunt.com/weekly-update-518/) — *Troy Hunt* `08-24`
 - [Anthropic’s best AI model struggles to attract users as cheaper tools thrive](https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/) — *Simon Willison's Weblog* `08-23`
 - [Quoting Drew Breunig](https://simonwillison.net/2026/Aug/23/drew-breunig/) — *Simon Willison's Weblog* `08-23`
 - [Fixing an eMachines EL1200 BIOS bug with Claude](https://www.downtowndougbrown.com/2026/08/fixing-an-emachines-el1200-bios-bug-with-claude/) — *Downtown Doug Brown* `08-23`
-- [What exactly is modified about a modified Bessel function?](https://www.johndcook.com/blog/2026/08/23/modified-bessel-function/) — *John D. Cook* `08-23`
-- [Why special function terminology is arcane](https://www.johndcook.com/blog/2026/08/23/arcane-terminology/) — *John D. Cook* `08-23`
+- [Getting an LLM to Make Me a Tool for Enriching the Color Metadata in My Icon Collection](https://blog.jim-nielsen.com/2026/use-llm-to-add-color-metadata/) — *Jim Nielsen’s Blog* `08-23`
 <!--BLOG_RADAR:end-->
 
 ---

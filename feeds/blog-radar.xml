@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 24 Aug 2026 01:44:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 07:10:02 +0000</lastBuildDate>
+    <item>
+      <title>Weekly Update 518: IoT Doorlock Nirvana with UniFi</title>
+      <link>https://www.troyhunt.com/weekly-update-518/</link>
+      <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-518/</guid>
+      <pubDate>Mon, 24 Aug 2026 04:19:51 +0000</pubDate>
+      <description>Troy Hunt</description>
+    </item>
     <item>
       <title>Anthropic’s best AI model struggles to attract users as cheaper tools thrive</title>
       <link>https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/</link>
@@ -25,6 +32,13 @@
       <guid isPermaLink="true">https://www.downtowndougbrown.com/2026/08/fixing-an-emachines-el1200-bios-bug-with-claude/</guid>
       <pubDate>Sun, 23 Aug 2026 19:28:10 +0000</pubDate>
       <description>Downtown Doug Brown</description>
+    </item>
+    <item>
+      <title>Getting an LLM to Make Me a Tool for Enriching the Color Metadata in My Icon Collection</title>
+      <link>https://blog.jim-nielsen.com/2026/use-llm-to-add-color-metadata/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/use-llm-to-add-color-metadata/</guid>
+      <pubDate>Sun, 23 Aug 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
     </item>
     <item>
       <title>What exactly is modified about a modified Bessel function?</title>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/15/compressing-a-hadamard-matrix/</guid>
       <pubDate>Sat, 15 Aug 2026 15:40:43 +0000</pubDate>
       <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>CORS Chat</title>
-      <link>https://simonwillison.net/2026/Aug/15/cors-chat/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/15/cors-chat/</guid>
-      <pubDate>Sat, 15 Aug 2026 14:49:54 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Reading List — 08/15/2026</title>
-      <link>https://www.construction-physics.com/p/reading-list-08152026</link>
-      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-08152026</guid>
-      <pubDate>Sat, 15 Aug 2026 12:02:38 +0000</pubDate>
-      <description>Construction Physics</description>
     </item>
   </channel>
 </rss>
