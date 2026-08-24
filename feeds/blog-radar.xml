@@ -4,13 +4,34 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 24 Aug 2026 07:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 13:02:13 +0000</lastBuildDate>
+    <item>
+      <title>Your executable is a SQLite database</title>
+      <link>https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/</guid>
+      <pubDate>Mon, 24 Aug 2026 11:38:15 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Why do audience members choose specific shows at the Edinburgh Fringe?</title>
+      <link>https://shkspr.mobi/blog/2026/08/why-do-audience-members-choose-specific-shows-at-the-edinburgh-fringe/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/why-do-audience-members-choose-specific-shows-at-the-edinburgh-fringe/</guid>
+      <pubDate>Mon, 24 Aug 2026 11:34:45 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
     <item>
       <title>Weekly Update 518: IoT Doorlock Nirvana with UniFi</title>
       <link>https://www.troyhunt.com/weekly-update-518/</link>
       <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-518/</guid>
       <pubDate>Mon, 24 Aug 2026 04:19:51 +0000</pubDate>
       <description>Troy Hunt</description>
+    </item>
+    <item>
+      <title>Anger, Anxiety and Agency</title>
+      <link>https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
       <title>Anthropic’s best AI model struggles to attract users as cheaper tools thrive</title>
@@ -370,18 +391,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Getting the Steam Deck LCD working on a Raspberry Pi</title>
-      <link>https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat/</guid>
-      <pubDate>Thu, 20 Aug 2026 14:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
       <title>Reducing C++ template bloat by factoring out the type-dependent portions of the function</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260820-00/?p=112629</link>
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260820-00/?p=112629</guid>
       <pubDate>Thu, 20 Aug 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>Getting the Steam Deck LCD working on a Raspberry Pi</title>
+      <link>https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat/</guid>
+      <pubDate>Thu, 20 Aug 2026 14:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
     </item>
     <item>
       <title>AI-generated ASCII diagrams</title>
@@ -510,18 +531,18 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>What Is Reasoning</title>
-      <link>https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/</link>
-      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/</guid>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Armin Ronacher's Thoughts and Writings</description>
-    </item>
-    <item>
       <title>Anubis continues to expose new ways people configure webservers</title>
       <link>https://xeiaso.net/notes/2026/anubis-csp-worker-hell/</link>
       <guid isPermaLink="true">https://xeiaso.net/notes/2026/anubis-csp-worker-hell/</guid>
       <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>What Is Reasoning</title>
+      <link>https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
       <title>Disney’s ABC Sues Trump’s FCC Over Challenge to Its Broadcast License</title>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://drata.com/daring</guid>
       <pubDate>Sat, 15 Aug 2026 21:40:15 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Concurrent Servers: Part 7 - Rust</title>
-      <link>https://eli.thegreenplace.net/2026/concurrent-servers-part-7-rust/</link>
-      <guid isPermaLink="true">https://eli.thegreenplace.net/2026/concurrent-servers-part-7-rust/</guid>
-      <pubDate>Sat, 15 Aug 2026 16:41:00 +0000</pubDate>
-      <description>Eli Bendersky's website</description>
-    </item>
-    <item>
-      <title>Probability of correcting errors</title>
-      <link>https://www.johndcook.com/blog/2026/08/15/probability-of-correcting-errors/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/15/probability-of-correcting-errors/</guid>
-      <pubDate>Sat, 15 Aug 2026 16:33:56 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Compressing a Hadamard matrix</title>
-      <link>https://www.johndcook.com/blog/2026/08/15/compressing-a-hadamard-matrix/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/15/compressing-a-hadamard-matrix/</guid>
-      <pubDate>Sat, 15 Aug 2026 15:40:43 +0000</pubDate>
-      <description>John D. Cook</description>
     </item>
   </channel>
 </rss>
