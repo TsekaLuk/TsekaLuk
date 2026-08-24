@@ -208,11 +208,11 @@ Last Updated: Monday, August 24th, 2026, 8:56:06 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Anthropic’s best AI model struggles to attract users as cheaper tools thrive](https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/) — *Simon Willison's Weblog* `08-23`
+- [Quoting Drew Breunig](https://simonwillison.net/2026/Aug/23/drew-breunig/) — *Simon Willison's Weblog* `08-23`
+- [Fixing an eMachines EL1200 BIOS bug with Claude](https://www.downtowndougbrown.com/2026/08/fixing-an-emachines-el1200-bios-bug-with-claude/) — *Downtown Doug Brown* `08-23`
+- [What exactly is modified about a modified Bessel function?](https://www.johndcook.com/blog/2026/08/23/modified-bessel-function/) — *John D. Cook* `08-23`
 - [Why special function terminology is arcane](https://www.johndcook.com/blog/2026/08/23/arcane-terminology/) — *John D. Cook* `08-23`
-- [Cooper Sharp Proves That American Cheese Can Be Great Cheese](https://sixcolors.com/member/2026/08/this-week-in-apple-lets-fight/) — *Daring Fireball* `08-23`
-- [Death to px, long live ch!](https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/) — *Terence Eden’s Blog* `08-23`
-- [Welcoming the Sri Lankan Government to Have I Been Pwned](https://www.troyhunt.com/welcoming-the-sri-lankan-government-to-have-i-been-pwned/) — *Troy Hunt* `08-23`
-- [The difference orbit inclination makes](https://www.johndcook.com/blog/2026/08/22/inclination/) — *John D. Cook* `08-23`
 <!--BLOG_RADAR:end-->
 
 ---
