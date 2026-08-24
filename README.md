@@ -208,11 +208,11 @@ Last Updated: Tuesday, August 25th, 2026, 2:30:48 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [BitCam: The 1-Bit Camera App Turns 2.0](https://bitcam-app.com/) — *Daring Fireball* `08-24`
+- [More on TestFlight’s Screwy Sort Order](https://daringfireball.net/2026/08/apple_testflight_list_sort_order) — *Daring Fireball* `08-24`
+- [Three-term recurrences](https://www.johndcook.com/blog/2026/08/24/three-term-recurrences/) — *John D. Cook* `08-24`
+- [The von Mises-Fisher distribution](https://www.johndcook.com/blog/2026/08/24/von-mises-fisher/) — *John D. Cook* `08-24`
 - [Your executable is a SQLite database](https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/) — *Simon Willison's Weblog* `08-24`
-- [Why do audience members choose specific shows at the Edinburgh Fringe?](https://shkspr.mobi/blog/2026/08/why-do-audience-members-choose-specific-shows-at-the-edinburgh-fringe/) — *Terence Eden’s Blog* `08-24`
-- [Weekly Update 518: IoT Doorlock Nirvana with UniFi](https://www.troyhunt.com/weekly-update-518/) — *Troy Hunt* `08-24`
-- [Anger, Anxiety and Agency](https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/) — *Armin Ronacher's Thoughts and Writings* `08-24`
-- [Anthropic’s best AI model struggles to attract users as cheaper tools thrive](https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/) — *Simon Willison's Weblog* `08-23`
 <!--BLOG_RADAR:end-->
 
 ---

@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 24 Aug 2026 13:02:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 18:49:31 +0000</lastBuildDate>
+    <item>
+      <title>BitCam: The 1-Bit Camera App Turns 2.0</title>
+      <link>https://bitcam-app.com/</link>
+      <guid isPermaLink="true">https://bitcam-app.com/</guid>
+      <pubDate>Mon, 24 Aug 2026 16:37:54 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>More on TestFlight’s Screwy Sort Order</title>
+      <link>https://daringfireball.net/2026/08/apple_testflight_list_sort_order</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/08/apple_testflight_list_sort_order</guid>
+      <pubDate>Mon, 24 Aug 2026 15:22:16 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Three-term recurrences</title>
+      <link>https://www.johndcook.com/blog/2026/08/24/three-term-recurrences/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/24/three-term-recurrences/</guid>
+      <pubDate>Mon, 24 Aug 2026 14:14:55 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>The von Mises-Fisher distribution</title>
+      <link>https://www.johndcook.com/blog/2026/08/24/von-mises-fisher/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/24/von-mises-fisher/</guid>
+      <pubDate>Mon, 24 Aug 2026 14:14:25 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
     <item>
       <title>Your executable is a SQLite database</title>
       <link>https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/</link>
@@ -391,18 +419,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Reducing C++ template bloat by factoring out the type-dependent portions of the function</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260820-00/?p=112629</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260820-00/?p=112629</guid>
-      <pubDate>Thu, 20 Aug 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
       <title>Getting the Steam Deck LCD working on a Raspberry Pi</title>
       <link>https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat/</link>
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/steam-deck-lcd-pi-hat/</guid>
       <pubDate>Thu, 20 Aug 2026 14:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>Reducing C++ template bloat by factoring out the type-dependent portions of the function</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260820-00/?p=112629</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260820-00/?p=112629</guid>
+      <pubDate>Thu, 20 Aug 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>AI-generated ASCII diagrams</title>
@@ -468,13 +496,6 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>★ Apple Screwed Up the TestFlight App’s Sort Order a Month Ago, and It’s Still Screwed Up, but the More I Think About It, the More Clear It Is They Started Screwing This Up 15 Years Ago</title>
-      <link>https://daringfireball.net/2026/08/apple_testflight_list_sort_order</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/08/apple_testflight_list_sort_order</guid>
-      <pubDate>Wed, 19 Aug 2026 21:39:47 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
       <title>NBC News Strikes Ad Sales Deal With Taboola for Programmatic Display Ads</title>
       <link>https://www.axios.com/2026/08/18/nbc-news-taboola-programmatic-display-ads</link>
       <guid isPermaLink="true">https://www.axios.com/2026/08/18/nbc-news-taboola-programmatic-display-ads</guid>
@@ -531,18 +552,18 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>Anubis continues to expose new ways people configure webservers</title>
-      <link>https://xeiaso.net/notes/2026/anubis-csp-worker-hell/</link>
-      <guid isPermaLink="true">https://xeiaso.net/notes/2026/anubis-csp-worker-hell/</guid>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
       <title>What Is Reasoning</title>
       <link>https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/</link>
       <guid isPermaLink="true">https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/</guid>
       <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
       <description>Armin Ronacher's Thoughts and Writings</description>
+    </item>
+    <item>
+      <title>Anubis continues to expose new ways people configure webservers</title>
+      <link>https://xeiaso.net/notes/2026/anubis-csp-worker-hell/</link>
+      <guid isPermaLink="true">https://xeiaso.net/notes/2026/anubis-csp-worker-hell/</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>Disney’s ABC Sues Trump’s FCC Over Challenge to Its Broadcast License</title>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/thoughts-on-the-edinburgh-fringe-as-a-newbie/</guid>
       <pubDate>Sun, 16 Aug 2026 11:34:21 +0000</pubDate>
       <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>AI text watermarking is not a big deal</title>
-      <link>https://seangoedecke.com/ai-text-watermarking-is-not-a-big-deal/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/ai-text-watermarking-is-not-a-big-deal/</guid>
-      <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>How I think about reducing AI costs</title>
-      <link>https://martinalderson.com/posts/how-i-think-about-reducing-ai-costs/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
-      <guid isPermaLink="true">https://martinalderson.com/posts/how-i-think-about-reducing-ai-costs/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
-      <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Martin Alderson</description>
-    </item>
-    <item>
-      <title>Drata</title>
-      <link>https://drata.com/daring</link>
-      <guid isPermaLink="true">https://drata.com/daring</guid>
-      <pubDate>Sat, 15 Aug 2026 21:40:15 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
