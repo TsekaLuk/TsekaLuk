@@ -208,11 +208,11 @@ Last Updated: Tuesday, August 25th, 2026, 8:35:35 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Extending life perception](https://herman.bearblog.dev/extending-life-perception/) — *Herman's blog* `08-25`
+- [Theatre Review: Cats at Regent's Park Open Air Theatre ★★★★☆](https://shkspr.mobi/blog/2026/08/theatre-review-cats-at-regents-park-open-air-theatre/) — *Terence Eden’s Blog* `08-25`
+- [Hardening the Override Flag](https://nesbitt.io/2026/08/25/hardening-the-override-flag.html) — *Andrew Nesbitt* `08-25`
+- [Foot Guns for Sale](https://idiallo.com/blog/foot-gun-for-sale) — *Software and Tech stories from an Insider - iDiallo.com* `08-25`
 - [The Negative Option](https://feed.tedium.co/link/15204/17427939/columbia-house-history-retrospective) — *Tedium: The Dull Side of the Internet.* `08-25`
-- [Numerical (in)stability of recurrence relations](https://www.johndcook.com/blog/2026/08/24/numerical-instability-recurrece/) — *John D. Cook* `08-25`
-- [[Sponsor] Finalist 4: Inspired by Paper Day Planners](https://www.finalist.works/?utm_source=df-aug-2026) — *Daring Fireball* `08-25`
-- [Apple Rethinks Plan to Merge ‘Hide My Email’ Domain Name With ‘Sign In With Apple’](https://developer.apple.com/news/?id=1ptvdtcm) — *Daring Fireball* `08-24`
-- [★ What Is the Point of the DMA?](https://daringfireball.net/2026/08/what_is_the_point_of_the_dma) — *Daring Fireball* `08-24`
 <!--BLOG_RADAR:end-->
 
 ---
