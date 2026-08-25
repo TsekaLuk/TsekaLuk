@@ -208,11 +208,11 @@ Last Updated: Wednesday, August 26th, 2026, 2:30:52 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Extending life perception](https://herman.bearblog.dev/extending-life-perception/) — *Herman's blog* `08-25`
-- [Theatre Review: Cats at Regent's Park Open Air Theatre ★★★★☆](https://shkspr.mobi/blog/2026/08/theatre-review-cats-at-regents-park-open-air-theatre/) — *Terence Eden’s Blog* `08-25`
-- [Hardening the Override Flag](https://nesbitt.io/2026/08/25/hardening-the-override-flag.html) — *Andrew Nesbitt* `08-25`
-- [Foot Guns for Sale](https://idiallo.com/blog/foot-gun-for-sale) — *Software and Tech stories from an Insider - iDiallo.com* `08-25`
-- [The Negative Option](https://feed.tedium.co/link/15204/17427939/columbia-house-history-retrospective) — *Tedium: The Dull Side of the Internet.* `08-25`
+- [Have You Heard the Good News About Microlighter?](https://blog.jim-nielsen.com/2026/shipping-microlighter/) — *Jim Nielsen’s Blog* `08-25`
+- [The AI Hater's Manifesto](https://www.wheresyoured.at/the-ai-haters-manifesto/) — *Ed Zitron's Where's Your Ed At* `08-25`
+- [Footnote Regarding the GDPR and Cookie Permission Prompts](https://daringfireball.net/2026/08/what_is_the_point_of_the_dma#fn1-2026-08-24) — *Daring Fireball* `08-25`
+- [Dylan Patel – Anthropic & OpenAI will have most of the world’s compute by 2028](https://www.dwarkesh.com/p/dylan-patel-3) — *Dwarkesh Podcast* `08-25`
+- [★ Memory and Storage Configurations and Pricing for the New Mac Minis (M6/M5 Pro) and Mac Studios (M5 Max/M5 Ultra)](https://daringfireball.net/2026/08/configurations_and_pricing_for_new_mac_minis_and_mac_studios) — *Daring Fireball* `08-25`
 <!--BLOG_RADAR:end-->
 
 ---
