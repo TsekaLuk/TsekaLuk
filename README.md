@@ -208,11 +208,11 @@ Last Updated: Tuesday, August 25th, 2026, 2:35:43 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [The Negative Option](https://feed.tedium.co/link/15204/17427939/columbia-house-history-retrospective) — *Tedium: The Dull Side of the Internet.* `08-25`
+- [Numerical (in)stability of recurrence relations](https://www.johndcook.com/blog/2026/08/24/numerical-instability-recurrece/) — *John D. Cook* `08-25`
 - [[Sponsor] Finalist 4: Inspired by Paper Day Planners](https://www.finalist.works/?utm_source=df-aug-2026) — *Daring Fireball* `08-25`
 - [Apple Rethinks Plan to Merge ‘Hide My Email’ Domain Name With ‘Sign In With Apple’](https://developer.apple.com/news/?id=1ptvdtcm) — *Daring Fireball* `08-24`
 - [★ What Is the Point of the DMA?](https://daringfireball.net/2026/08/what_is_the_point_of_the_dma) — *Daring Fireball* `08-24`
-- [Pluralistic: How Canada can help Americans and defeat America (23 Aug 2026)](https://pluralistic.net/2026/08/24/elbows-really-up/) — *Pluralistic: Daily links from Cory Doctorow* `08-24`
-- [BitCam: The 1-Bit Camera App Turns 2.0](https://bitcam-app.com/) — *Daring Fireball* `08-24`
 <!--BLOG_RADAR:end-->
 
 ---

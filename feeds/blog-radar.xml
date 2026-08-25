@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 25 Aug 2026 01:39:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 06:57:34 +0000</lastBuildDate>
+    <item>
+      <title>The Negative Option</title>
+      <link>https://feed.tedium.co/link/15204/17427939/columbia-house-history-retrospective</link>
+      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17427939/columbia-house-history-retrospective</guid>
+      <pubDate>Tue, 25 Aug 2026 02:45:00 +0000</pubDate>
+      <description>Tedium: The Dull Side of the Internet.</description>
+    </item>
+    <item>
+      <title>Numerical (in)stability of recurrence relations</title>
+      <link>https://www.johndcook.com/blog/2026/08/24/numerical-instability-recurrece/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/24/numerical-instability-recurrece/</guid>
+      <pubDate>Tue, 25 Aug 2026 01:47:47 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
     <item>
       <title>[Sponsor] Finalist 4: Inspired by Paper Day Planners</title>
       <link>https://www.finalist.works/?utm_source=df-aug-2026</link>
@@ -25,6 +39,13 @@
       <guid isPermaLink="true">https://daringfireball.net/2026/08/what_is_the_point_of_the_dma</guid>
       <pubDate>Mon, 24 Aug 2026 22:47:20 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>A curmudgeon tries a language server</title>
+      <link>https://entropicthoughts.com/curmudgeon-tries-language-server</link>
+      <guid isPermaLink="true">https://entropicthoughts.com/curmudgeon-tries-language-server</guid>
+      <pubDate>Mon, 24 Aug 2026 22:00:00 +0000</pubDate>
+      <description>Entropic Thoughts</description>
     </item>
     <item>
       <title>Pluralistic: How Canada can help Americans and defeat America (23 Aug 2026)</title>
@@ -67,6 +88,13 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/24/von-mises-fisher/</guid>
       <pubDate>Mon, 24 Aug 2026 14:14:25 +0000</pubDate>
       <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Comparing the two holograms on the Windows 95 box</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260824-00/?p=112643</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260824-00/?p=112643</guid>
+      <pubDate>Mon, 24 Aug 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Your executable is a SQLite database</title>
@@ -265,18 +293,18 @@
       <description>Pluralistic: Daily links from Cory Doctorow</description>
     </item>
     <item>
-      <title>Fast and Hard Code</title>
-      <link>https://lucumr.pocoo.org/2026/8/22/fast-hard-code/</link>
-      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/8/22/fast-hard-code/</guid>
-      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Armin Ronacher's Thoughts and Writings</description>
-    </item>
-    <item>
       <title>You should never be angry at work</title>
       <link>https://seangoedecke.com/you-should-never-be-angry-at-work/</link>
       <guid isPermaLink="true">https://seangoedecke.com/you-should-never-be-angry-at-work/</guid>
       <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Fast and Hard Code</title>
+      <link>https://lucumr.pocoo.org/2026/8/22/fast-hard-code/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/8/22/fast-hard-code/</guid>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
       <title>Vim's UserGettingBored autocmd</title>
@@ -587,18 +615,18 @@
       <description>John D. Cook</description>
     </item>
     <item>
-      <title>What Is Reasoning</title>
-      <link>https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/</link>
-      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/</guid>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Armin Ronacher's Thoughts and Writings</description>
-    </item>
-    <item>
       <title>Good writing is obvious, not original</title>
       <link>https://seangoedecke.com/good-writing-is-obvious-not-original/</link>
       <guid isPermaLink="true">https://seangoedecke.com/good-writing-is-obvious-not-original/</guid>
       <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>What Is Reasoning</title>
+      <link>https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
       <title>Anubis continues to expose new ways people configure webservers</title>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://fabiensanglard.net/quake_shareware_cd/index.html</guid>
       <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
       <description>Fabien Sanglard</description>
-    </item>
-    <item>
-      <title>Markdown SVG upgrades</title>
-      <link>https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/</guid>
-      <pubDate>Sun, 16 Aug 2026 23:59:37 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things</title>
-      <link>https://simonwillison.net/2026/Aug/16/qwen-38-27b/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/16/qwen-38-27b/</guid>
-      <pubDate>Sun, 16 Aug 2026 22:00:39 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>The Information Profiles Cami Clark — Dario Amodei’s Wife, Ivanka Trump’s Friend, One-Time Would-Be Pornographer, and Anthropic’s ‘First Lady’</title>
-      <link>https://www.theinformation.com/articles/anthropics-first-lady-took-winding-road-top?rc=jfy0lk</link>
-      <guid isPermaLink="true">https://www.theinformation.com/articles/anthropics-first-lady-took-winding-road-top?rc=jfy0lk</guid>
-      <pubDate>Sun, 16 Aug 2026 19:30:00 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>★ Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing</title>
-      <link>https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing</guid>
-      <pubDate>Sun, 16 Aug 2026 19:26:33 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
