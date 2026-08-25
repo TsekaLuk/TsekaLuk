@@ -208,11 +208,11 @@ Last Updated: Tuesday, August 25th, 2026, 8:55:53 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [[Sponsor] Finalist 4: Inspired by Paper Day Planners](https://www.finalist.works/?utm_source=df-aug-2026) — *Daring Fireball* `08-25`
+- [Apple Rethinks Plan to Merge ‘Hide My Email’ Domain Name With ‘Sign In With Apple’](https://developer.apple.com/news/?id=1ptvdtcm) — *Daring Fireball* `08-24`
+- [★ What Is the Point of the DMA?](https://daringfireball.net/2026/08/what_is_the_point_of_the_dma) — *Daring Fireball* `08-24`
+- [Pluralistic: How Canada can help Americans and defeat America (23 Aug 2026)](https://pluralistic.net/2026/08/24/elbows-really-up/) — *Pluralistic: Daily links from Cory Doctorow* `08-24`
 - [BitCam: The 1-Bit Camera App Turns 2.0](https://bitcam-app.com/) — *Daring Fireball* `08-24`
-- [More on TestFlight’s Screwy Sort Order](https://daringfireball.net/2026/08/apple_testflight_list_sort_order) — *Daring Fireball* `08-24`
-- [Three-term recurrences](https://www.johndcook.com/blog/2026/08/24/three-term-recurrences/) — *John D. Cook* `08-24`
-- [The von Mises-Fisher distribution](https://www.johndcook.com/blog/2026/08/24/von-mises-fisher/) — *John D. Cook* `08-24`
-- [Your executable is a SQLite database](https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/) — *Simon Willison's Weblog* `08-24`
 <!--BLOG_RADAR:end-->
 
 ---

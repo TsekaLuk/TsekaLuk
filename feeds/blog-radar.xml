@@ -4,13 +4,48 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 24 Aug 2026 18:49:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 01:39:28 +0000</lastBuildDate>
+    <item>
+      <title>[Sponsor] Finalist 4: Inspired by Paper Day Planners</title>
+      <link>https://www.finalist.works/?utm_source=df-aug-2026</link>
+      <guid isPermaLink="true">https://www.finalist.works/?utm_source=df-aug-2026</guid>
+      <pubDate>Tue, 25 Aug 2026 00:37:24 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Apple Rethinks Plan to Merge ‘Hide My Email’ Domain Name With ‘Sign In With Apple’</title>
+      <link>https://developer.apple.com/news/?id=1ptvdtcm</link>
+      <guid isPermaLink="true">https://developer.apple.com/news/?id=1ptvdtcm</guid>
+      <pubDate>Mon, 24 Aug 2026 23:33:50 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>★ What Is the Point of the DMA?</title>
+      <link>https://daringfireball.net/2026/08/what_is_the_point_of_the_dma</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/08/what_is_the_point_of_the_dma</guid>
+      <pubDate>Mon, 24 Aug 2026 22:47:20 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Pluralistic: How Canada can help Americans and defeat America (23 Aug 2026)</title>
+      <link>https://pluralistic.net/2026/08/24/elbows-really-up/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/08/24/elbows-really-up/</guid>
+      <pubDate>Mon, 24 Aug 2026 21:29:38 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
     <item>
       <title>BitCam: The 1-Bit Camera App Turns 2.0</title>
       <link>https://bitcam-app.com/</link>
       <guid isPermaLink="true">https://bitcam-app.com/</guid>
       <pubDate>Mon, 24 Aug 2026 16:37:54 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>llm-anthropic 0.27</title>
+      <link>https://simonwillison.net/2026/Aug/24/llm-anthropic/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/24/llm-anthropic/</guid>
+      <pubDate>Mon, 24 Aug 2026 16:27:04 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
     <item>
       <title>More on TestFlight’s Screwy Sort Order</title>
@@ -60,6 +95,13 @@
       <guid isPermaLink="true">https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/</guid>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
       <description>Armin Ronacher's Thoughts and Writings</description>
+    </item>
+    <item>
+      <title>distributed identity</title>
+      <link>https://jyn.dev/distributed-identity/</link>
+      <guid isPermaLink="true">https://jyn.dev/distributed-identity/</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <description>the website of jyn</description>
     </item>
     <item>
       <title>Anthropic’s best AI model struggles to attract users as cheaper tools thrive</title>
@@ -223,18 +265,18 @@
       <description>Pluralistic: Daily links from Cory Doctorow</description>
     </item>
     <item>
-      <title>You should never be angry at work</title>
-      <link>https://seangoedecke.com/you-should-never-be-angry-at-work/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/you-should-never-be-angry-at-work/</guid>
-      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
       <title>Fast and Hard Code</title>
       <link>https://lucumr.pocoo.org/2026/8/22/fast-hard-code/</link>
       <guid isPermaLink="true">https://lucumr.pocoo.org/2026/8/22/fast-hard-code/</guid>
       <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
       <description>Armin Ronacher's Thoughts and Writings</description>
+    </item>
+    <item>
+      <title>You should never be angry at work</title>
+      <link>https://seangoedecke.com/you-should-never-be-angry-at-work/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/you-should-never-be-angry-at-work/</guid>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>Vim's UserGettingBored autocmd</title>
@@ -545,18 +587,18 @@
       <description>John D. Cook</description>
     </item>
     <item>
-      <title>Good writing is obvious, not original</title>
-      <link>https://seangoedecke.com/good-writing-is-obvious-not-original/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/good-writing-is-obvious-not-original/</guid>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
       <title>What Is Reasoning</title>
       <link>https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/</link>
       <guid isPermaLink="true">https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/</guid>
       <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
       <description>Armin Ronacher's Thoughts and Writings</description>
+    </item>
+    <item>
+      <title>Good writing is obvious, not original</title>
+      <link>https://seangoedecke.com/good-writing-is-obvious-not-original/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/good-writing-is-obvious-not-original/</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>Anubis continues to expose new ways people configure webservers</title>
@@ -802,48 +844,6 @@
       <guid isPermaLink="true">https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing</guid>
       <pubDate>Sun, 16 Aug 2026 19:26:33 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Oops, Should’ve Thought of That</title>
-      <link>https://blog.jim-nielsen.com/2026/oops-shouldve-thought-of-that/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/oops-shouldve-thought-of-that/</guid>
-      <pubDate>Sun, 16 Aug 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
-      <title>‘Anthropic’s Weak Watermarks Appease a Weak Law’</title>
-      <link>https://blog.j11y.io/2026-08-12_Anthropics-weak-watermarks-appease-a-weak-law/</link>
-      <guid isPermaLink="true">https://blog.j11y.io/2026-08-12_Anthropics-weak-watermarks-appease-a-weak-law/</guid>
-      <pubDate>Sun, 16 Aug 2026 17:30:00 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Trump Administration ‘Not in Favor’ of Apple Using Chinese RAM</title>
-      <link>https://www.wsj.com/tech/apple-china-memory-chip-plan-57773a83?st=vfe1SA</link>
-      <guid isPermaLink="true">https://www.wsj.com/tech/apple-china-memory-chip-plan-57773a83?st=vfe1SA</guid>
-      <pubDate>Sun, 16 Aug 2026 16:34:12 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Quoting Dario Amodei</title>
-      <link>https://simonwillison.net/2026/Aug/16/dario-amodei/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/16/dario-amodei/</guid>
-      <pubDate>Sun, 16 Aug 2026 15:05:36 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>XCancel — An Unofficial Twitter/X Mirror</title>
-      <link>https://xcancel.com/about</link>
-      <guid isPermaLink="true">https://xcancel.com/about</guid>
-      <pubDate>Sun, 16 Aug 2026 14:33:16 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Thoughts on visiting the Edinburgh Fringe as a newbie</title>
-      <link>https://shkspr.mobi/blog/2026/08/thoughts-on-the-edinburgh-fringe-as-a-newbie/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/thoughts-on-the-edinburgh-fringe-as-a-newbie/</guid>
-      <pubDate>Sun, 16 Aug 2026 11:34:21 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
   </channel>
 </rss>
