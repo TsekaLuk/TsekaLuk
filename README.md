@@ -208,11 +208,11 @@ Last Updated: Wednesday, August 26th, 2026, 2:37:24 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Pluralistic: The age of disinvention (25 Aug 2026)](https://pluralistic.net/2026/08/25/gammamax/) — *Pluralistic: Daily links from Cory Doctorow* `08-26`
 - [Adding diagrams to my static site generator with D2](https://www.gilesthomas.com/2026/08/adding-d2) — *Giles' blog* `08-25`
 - [EVE Online: The Move to Python 3 Begins!](https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/) — *Simon Willison's Weblog* `08-25`
 - [XCancel, the Twitter/X Mirror, Shuts Down After Cease and Desist From the Fine Folks at X Corp](https://xcancel.com/) — *Daring Fireball* `08-25`
 - [Dolly Parton Dies at 80](https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-dead.html) — *Daring Fireball* `08-25`
-- [Update Regarding the Base Prices of the M5 Max Mac Studio](https://daringfireball.net/2026/08/configurations_and_pricing_for_new_mac_minis_and_mac_studios) — *Daring Fireball* `08-25`
 <!--BLOG_RADAR:end-->
 
 ---
