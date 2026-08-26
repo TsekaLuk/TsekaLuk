@@ -208,11 +208,11 @@ Last Updated: Wednesday, August 26th, 2026, 8:56:39 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Have You Heard the Good News About Microlighter?](https://blog.jim-nielsen.com/2026/shipping-microlighter/) — *Jim Nielsen’s Blog* `08-25`
-- [The AI Hater's Manifesto](https://www.wheresyoured.at/the-ai-haters-manifesto/) — *Ed Zitron's Where's Your Ed At* `08-25`
-- [Footnote Regarding the GDPR and Cookie Permission Prompts](https://daringfireball.net/2026/08/what_is_the_point_of_the_dma#fn1-2026-08-24) — *Daring Fireball* `08-25`
-- [Dylan Patel – Anthropic & OpenAI will have most of the world’s compute by 2028](https://www.dwarkesh.com/p/dylan-patel-3) — *Dwarkesh Podcast* `08-25`
-- [★ Memory and Storage Configurations and Pricing for the New Mac Minis (M6/M5 Pro) and Mac Studios (M5 Max/M5 Ultra)](https://daringfireball.net/2026/08/configurations_and_pricing_for_new_mac_minis_and_mac_studios) — *Daring Fireball* `08-25`
+- [Adding diagrams to my static site generator with D2](https://www.gilesthomas.com/2026/08/adding-d2) — *Giles' blog* `08-25`
+- [EVE Online: The Move to Python 3 Begins!](https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/) — *Simon Willison's Weblog* `08-25`
+- [XCancel, the Twitter/X Mirror, Shuts Down After Cease and Desist From the Fine Folks at X Corp](https://xcancel.com/) — *Daring Fireball* `08-25`
+- [Dolly Parton Dies at 80](https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-dead.html) — *Daring Fireball* `08-25`
+- [Update Regarding the Base Prices of the M5 Max Mac Studio](https://daringfireball.net/2026/08/configurations_and_pricing_for_new_mac_minis_and_mac_studios) — *Daring Fireball* `08-25`
 <!--BLOG_RADAR:end-->
 
 ---
