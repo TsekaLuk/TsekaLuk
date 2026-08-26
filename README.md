@@ -208,11 +208,11 @@ Last Updated: Wednesday, August 26th, 2026, 8:38:58 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Junk solutions](https://www.johndcook.com/blog/2026/08/26/junk-solutions/) — *John D. Cook* `08-26`
+- [Gadget Review: Thermal Master P3 Macro Lens ★★★★⯪](https://shkspr.mobi/blog/2026/08/gadget-review-thermal-master-p3-macro-lens/) — *Terence Eden’s Blog* `08-26`
+- [Ultraspherical](https://www.johndcook.com/blog/2026/08/26/ultraspherical/) — *John D. Cook* `08-26`
+- [Quoting Paul Dix](https://simonwillison.net/2026/Aug/26/paul-dix/) — *Simon Willison's Weblog* `08-26`
 - [Pluralistic: The age of disinvention (25 Aug 2026)](https://pluralistic.net/2026/08/25/gammamax/) — *Pluralistic: Daily links from Cory Doctorow* `08-26`
-- [Adding diagrams to my static site generator with D2](https://www.gilesthomas.com/2026/08/adding-d2) — *Giles' blog* `08-25`
-- [EVE Online: The Move to Python 3 Begins!](https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/) — *Simon Willison's Weblog* `08-25`
-- [XCancel, the Twitter/X Mirror, Shuts Down After Cease and Desist From the Fine Folks at X Corp](https://xcancel.com/) — *Daring Fireball* `08-25`
-- [Dolly Parton Dies at 80](https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-dead.html) — *Daring Fireball* `08-25`
 <!--BLOG_RADAR:end-->
 
 ---

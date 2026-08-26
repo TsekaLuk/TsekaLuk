@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 26 Aug 2026 06:58:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 13:04:12 +0000</lastBuildDate>
+    <item>
+      <title>Junk solutions</title>
+      <link>https://www.johndcook.com/blog/2026/08/26/junk-solutions/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/26/junk-solutions/</guid>
+      <pubDate>Wed, 26 Aug 2026 12:16:17 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Gadget Review: Thermal Master P3 Macro Lens ★★★★⯪</title>
+      <link>https://shkspr.mobi/blog/2026/08/gadget-review-thermal-master-p3-macro-lens/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/gadget-review-thermal-master-p3-macro-lens/</guid>
+      <pubDate>Wed, 26 Aug 2026 11:34:52 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Ultraspherical</title>
+      <link>https://www.johndcook.com/blog/2026/08/26/ultraspherical/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/26/ultraspherical/</guid>
+      <pubDate>Wed, 26 Aug 2026 10:51:32 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Quoting Paul Dix</title>
+      <link>https://simonwillison.net/2026/Aug/26/paul-dix/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/26/paul-dix/</guid>
+      <pubDate>Wed, 26 Aug 2026 08:07:55 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Pluralistic: The age of disinvention (25 Aug 2026)</title>
       <link>https://pluralistic.net/2026/08/25/gammamax/</link>
@@ -440,18 +468,18 @@
       <description>Pluralistic: Daily links from Cory Doctorow</description>
     </item>
     <item>
-      <title>Fast and Hard Code</title>
-      <link>https://lucumr.pocoo.org/2026/8/22/fast-hard-code/</link>
-      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/8/22/fast-hard-code/</guid>
-      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Armin Ronacher's Thoughts and Writings</description>
-    </item>
-    <item>
       <title>You should never be angry at work</title>
       <link>https://seangoedecke.com/you-should-never-be-angry-at-work/</link>
       <guid isPermaLink="true">https://seangoedecke.com/you-should-never-be-angry-at-work/</guid>
       <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Fast and Hard Code</title>
+      <link>https://lucumr.pocoo.org/2026/8/22/fast-hard-code/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/8/22/fast-hard-code/</guid>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
       <title>Vim's UserGettingBored autocmd</title>
@@ -762,11 +790,11 @@
       <description>John D. Cook</description>
     </item>
     <item>
-      <title>Anubis continues to expose new ways people configure webservers</title>
-      <link>https://xeiaso.net/notes/2026/anubis-csp-worker-hell/</link>
-      <guid isPermaLink="true">https://xeiaso.net/notes/2026/anubis-csp-worker-hell/</guid>
+      <title>Good writing is obvious, not original</title>
+      <link>https://seangoedecke.com/good-writing-is-obvious-not-original/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/good-writing-is-obvious-not-original/</guid>
       <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>What Is Reasoning</title>
@@ -776,11 +804,11 @@
       <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
-      <title>Good writing is obvious, not original</title>
-      <link>https://seangoedecke.com/good-writing-is-obvious-not-original/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/good-writing-is-obvious-not-original/</guid>
+      <title>Anubis continues to expose new ways people configure webservers</title>
+      <link>https://xeiaso.net/notes/2026/anubis-csp-worker-hell/</link>
+      <guid isPermaLink="true">https://xeiaso.net/notes/2026/anubis-csp-worker-hell/</guid>
       <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
+      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>Disney’s ABC Sues Trump’s FCC Over Challenge to Its Broadcast License</title>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://buttondown.com/hillelwayne/archive/vim-wants-you-to-control-vscode-wants-you-to/</guid>
       <pubDate>Tue, 18 Aug 2026 16:26:05 +0000</pubDate>
       <description>Computer Things</description>
-    </item>
-    <item>
-      <title>‘Dickover’ Makes It Into The Guardian</title>
-      <link>https://www.theguardian.com/technology/2026/aug/18/dickovers-baggravation-botiquette-18-new-words-tech-hellscape</link>
-      <guid isPermaLink="true">https://www.theguardian.com/technology/2026/aug/18/dickovers-baggravation-botiquette-18-new-words-tech-hellscape</guid>
-      <pubDate>Tue, 18 Aug 2026 16:03:32 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The imbalance theorem</title>
-      <link>https://www.johndcook.com/blog/2026/08/18/the-imbalance-theorem/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/18/the-imbalance-theorem/</guid>
-      <pubDate>Tue, 18 Aug 2026 15:54:57 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>What Happens If OpenAI Dies?</title>
-      <link>https://www.wheresyoured.at/what-happens-if-openai-dies/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/what-happens-if-openai-dies/</guid>
-      <pubDate>Tue, 18 Aug 2026 15:23:40 +0000</pubDate>
-      <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>I like 'em thick</title>
-      <link>https://www.experimental-history.com/p/i-like-em-thick</link>
-      <guid isPermaLink="true">https://www.experimental-history.com/p/i-like-em-thick</guid>
-      <pubDate>Tue, 18 Aug 2026 15:02:15 +0000</pubDate>
-      <description>Experimental History</description>
     </item>
   </channel>
 </rss>
