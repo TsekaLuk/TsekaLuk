@@ -208,11 +208,11 @@ Last Updated: Thursday, August 27th, 2026, 2:45:30 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Apple Polishing Cloth Is Now Just $9](https://9to5mac.com/2026/08/25/apple-releases-new-polishing-cloth-for-9/) — *Daring Fireball* `08-26`
+- [Can Self-Hosting Be Simple?](https://feed.tedium.co/link/15204/17432610/self-hosting-third-place-strategy) — *Tedium: The Dull Side of the Internet.* `08-27`
+- [Qwen3.8-Flash-Next](https://simonwillison.net/2026/Aug/26/qwen38-flash-next/) — *Simon Willison's Weblog* `08-26`
+- [POSIWID: The Purpose of a System Is What It Does](https://en.wikipedia.org/wiki/The_purpose_of_a_system_is_what_it_does) — *Daring Fireball* `08-26`
+- [Apple’s Polishing Cloth Is Now Just $9](https://9to5mac.com/2026/08/25/apple-releases-new-polishing-cloth-for-9/) — *Daring Fireball* `08-26`
 - [‘Surprise and Shine’ Apple Event: Wednesday 9 September](https://9to5mac.com/2026/08/26/apple-officially-announces-iphone-18-pro-foldable-event/) — *Daring Fireball* `08-26`
-- [What is the quality of software that AI writes?](https://www.johndcook.com/blog/2026/08/26/what-is-the-quality-of-software-that-ai-writes/) — *John D. Cook* `08-26`
-- [Junk solutions](https://www.johndcook.com/blog/2026/08/26/junk-solutions/) — *John D. Cook* `08-26`
-- [Gadget Review: Thermal Master P3 Macro Lens ★★★★⯪](https://shkspr.mobi/blog/2026/08/gadget-review-thermal-master-p3-macro-lens/) — *Terence Eden’s Blog* `08-26`
 <!--BLOG_RADAR:end-->
 
 ---
