@@ -208,11 +208,11 @@ Last Updated: Friday, August 28th, 2026, 5:35:53 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Can Self-Hosting Be Simple?](https://feed.tedium.co/link/15204/17432610/self-hosting-third-place-strategy) — *Tedium: The Dull Side of the Internet.* `08-27`
-- [Qwen3.8-Flash-Next](https://simonwillison.net/2026/Aug/26/qwen38-flash-next/) — *Simon Willison's Weblog* `08-26`
-- [POSIWID: The Purpose of a System Is What It Does](https://en.wikipedia.org/wiki/The_purpose_of_a_system_is_what_it_does) — *Daring Fireball* `08-26`
-- [Apple’s Polishing Cloth Is Now Just $9](https://9to5mac.com/2026/08/25/apple-releases-new-polishing-cloth-for-9/) — *Daring Fireball* `08-26`
-- [‘Surprise and Shine’ Apple Event: Wednesday 9 September](https://9to5mac.com/2026/08/26/apple-officially-announces-iphone-18-pro-foldable-event/) — *Daring Fireball* `08-26`
+- [Afterglow — Classic After Dark Screen Savers on Today’s MacOS](https://morphing.cloud/afterglow/) — *Daring Fireball* `08-27`
+- [The Load-Bearing Vocabulary of Claude](https://louisabraham.github.io/load-bearing/) — *Daring Fireball* `08-27`
+- [Elizabeth Warren’s Incoherent Outrage Regarding Apple’s Tariff Refund](https://www.warren.senate.gov/newsroom/press-releases/warren-pushes-giant-corporations-to-give-billions-in-tariff-refunds-back-to-consumers/) — *Daring Fireball* `08-27`
+- [Panic Is Refunding Tariff Fees to Playdate Buyers](https://www.gamedeveloper.com/business/playdate-maker-is-refunding-tariff-fees-to-customers) — *Daring Fireball* `08-27`
+- [Ads in Apple Maps Have Now Launched](https://9to5mac.com/2026/08/25/apple-maps-launches-ads-on-iphone-heres-whats-new/) — *Daring Fireball* `08-27`
 <!--BLOG_RADAR:end-->
 
 ---
