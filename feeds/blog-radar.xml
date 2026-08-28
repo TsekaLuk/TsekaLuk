@@ -4,7 +4,42 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 27 Aug 2026 22:07:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 10:59:55 +0000</lastBuildDate>
+    <item>
+      <title>Now Hiring: Senior Open Source Maintainer</title>
+      <link>https://nesbitt.io/2026/08/28/now-hiring-senior-open-source-maintainer.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/08/28/now-hiring-senior-open-source-maintainer.html</guid>
+      <pubDate>Fri, 28 Aug 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>U.S. Judge Blocks Trump Defense Department’s Anthropic Blacklisting</title>
+      <link>https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/</link>
+      <guid isPermaLink="true">https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/</guid>
+      <pubDate>Fri, 28 Aug 2026 02:59:46 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>How big are factorials?</title>
+      <link>https://eli.thegreenplace.net/2026/how-big-are-factorials/</link>
+      <guid isPermaLink="true">https://eli.thegreenplace.net/2026/how-big-are-factorials/</guid>
+      <pubDate>Fri, 28 Aug 2026 01:52:00 +0000</pubDate>
+      <description>Eli Bendersky's website</description>
+    </item>
+    <item>
+      <title>Selling out</title>
+      <link>https://seangoedecke.com/selling-out/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/selling-out/</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Breaking Claude Code Opus 5 Auto Mode</title>
+      <link>https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/</guid>
+      <pubDate>Thu, 27 Aug 2026 22:50:25 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Afterglow — Classic After Dark Screen Savers on Today’s MacOS</title>
       <link>https://morphing.cloud/afterglow/</link>
@@ -67,6 +102,13 @@
       <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/blog-calendar-view/</guid>
       <pubDate>Thu, 27 Aug 2026 19:00:00 +0000</pubDate>
       <description>Jim Nielsen’s Blog</description>
+    </item>
+    <item>
+      <title>On forcing all derived classes to implement a specific non-virtual method, part 1</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260827-00/?p=112651</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260827-00/?p=112651</guid>
+      <pubDate>Thu, 27 Aug 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Second solutions</title>
@@ -650,18 +692,18 @@
       <description>Pluralistic: Daily links from Cory Doctorow</description>
     </item>
     <item>
-      <title>You should never be angry at work</title>
-      <link>https://seangoedecke.com/you-should-never-be-angry-at-work/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/you-should-never-be-angry-at-work/</guid>
-      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
       <title>Fast and Hard Code</title>
       <link>https://lucumr.pocoo.org/2026/8/22/fast-hard-code/</link>
       <guid isPermaLink="true">https://lucumr.pocoo.org/2026/8/22/fast-hard-code/</guid>
       <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
       <description>Armin Ronacher's Thoughts and Writings</description>
+    </item>
+    <item>
+      <title>You should never be angry at work</title>
+      <link>https://seangoedecke.com/you-should-never-be-angry-at-work/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/you-should-never-be-angry-at-work/</guid>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>Vim's UserGettingBored autocmd</title>
@@ -802,48 +844,6 @@
       <guid isPermaLink="true">https://fabiensanglard.net/agent.md/index.html</guid>
       <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
       <description>Fabien Sanglard</description>
-    </item>
-    <item>
-      <title>Why shaming people about AI slop isn’t enough to stop Big AI</title>
-      <link>https://anildash.com/2026/08/21/ai-slop-and-shame/</link>
-      <guid isPermaLink="true">https://anildash.com/2026/08/21/ai-slop-and-shame/</guid>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Anil Dash</description>
-    </item>
-    <item>
-      <title>ChatGPT search now uses the site:operator at scale</title>
-      <link>https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/</guid>
-      <pubDate>Thu, 20 Aug 2026 23:57:32 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Pluralistic: The actual epistemic crisis (20 Aug 2026)</title>
-      <link>https://pluralistic.net/2026/08/20/epistemic-void/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/08/20/epistemic-void/</guid>
-      <pubDate>Thu, 20 Aug 2026 23:41:21 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>A Sloppy Interface Is a Security Liability ￼</title>
-      <link>https://blog.jim-nielsen.com/2026/sloppy-ui-is-security-liability/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/sloppy-ui-is-security-liability/</guid>
-      <pubDate>Thu, 20 Aug 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
-      <title>A shot-scraper-style JSON API on Bun 1.4's new Bun.WebView</title>
-      <link>https://simonwillison.net/2026/Aug/20/bun-webview-json-api/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/20/bun-webview-json-api/</guid>
-      <pubDate>Thu, 20 Aug 2026 15:37:00 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>★ Apple and European Commission Reach Agreement on App Payment Terms Under DMA, With Apple Conceding Very Little</title>
-      <link>https://daringfireball.net/2026/08/apple_eu_business_terms_conceding_little</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/08/apple_eu_business_terms_conceding_little</guid>
-      <pubDate>Thu, 20 Aug 2026 15:12:16 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>

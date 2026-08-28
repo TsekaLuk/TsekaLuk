@@ -208,11 +208,11 @@ Last Updated: Friday, August 28th, 2026, 4:34:31 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Afterglow — Classic After Dark Screen Savers on Today’s MacOS](https://morphing.cloud/afterglow/) — *Daring Fireball* `08-27`
-- [The Load-Bearing Vocabulary of Claude](https://louisabraham.github.io/load-bearing/) — *Daring Fireball* `08-27`
-- [Elizabeth Warren’s Incoherent Outrage Regarding Apple’s Tariff Refund](https://www.warren.senate.gov/newsroom/press-releases/warren-pushes-giant-corporations-to-give-billions-in-tariff-refunds-back-to-consumers/) — *Daring Fireball* `08-27`
-- [Panic Is Refunding Tariff Fees to Playdate Buyers](https://www.gamedeveloper.com/business/playdate-maker-is-refunding-tariff-fees-to-customers) — *Daring Fireball* `08-27`
-- [Ads in Apple Maps Have Now Launched](https://9to5mac.com/2026/08/25/apple-maps-launches-ads-on-iphone-heres-whats-new/) — *Daring Fireball* `08-27`
+- [Now Hiring: Senior Open Source Maintainer](https://nesbitt.io/2026/08/28/now-hiring-senior-open-source-maintainer.html) — *Andrew Nesbitt* `08-28`
+- [U.S. Judge Blocks Trump Defense Department’s Anthropic Blacklisting](https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/) — *Daring Fireball* `08-28`
+- [How big are factorials?](https://eli.thegreenplace.net/2026/how-big-are-factorials/) — *Eli Bendersky's website* `08-28`
+- [Selling out](https://seangoedecke.com/selling-out/) — *seangoedecke.com RSS feed* `08-28`
+- [Breaking Claude Code Opus 5 Auto Mode](https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/) — *Simon Willison's Weblog* `08-27`
 <!--BLOG_RADAR:end-->
 
 ---
