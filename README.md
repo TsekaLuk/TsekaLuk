@@ -208,11 +208,11 @@ Last Updated: Saturday, August 29th, 2026, 5:39:21 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Now Hiring: Senior Open Source Maintainer](https://nesbitt.io/2026/08/28/now-hiring-senior-open-source-maintainer.html) — *Andrew Nesbitt* `08-28`
-- [U.S. Judge Blocks Trump Defense Department’s Anthropic Blacklisting](https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/) — *Daring Fireball* `08-28`
-- [How big are factorials?](https://eli.thegreenplace.net/2026/how-big-are-factorials/) — *Eli Bendersky's website* `08-28`
-- [Selling out](https://seangoedecke.com/selling-out/) — *seangoedecke.com RSS feed* `08-28`
-- [Breaking Claude Code Opus 5 Auto Mode](https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/) — *Simon Willison's Weblog* `08-27`
+- [Apple Announces Price Increase for Apple TV and Apple One Subscriptions](https://9to5mac.com/2026/08/28/apple-announces-price-increase-for-apple-tv-and-apple-one-subscriptions/) — *Daring Fireball* `08-28`
+- [‘I’m the Guy Who Destroys Antique Books After We Scan Them Into Our Company’s Insatiable AI Platform’](https://www.mcsweeneys.net/articles/im-the-guy-who-destroys-antique-books-after-we-scan-them-into-our-companys-insatiable-ai-platform) — *Daring Fireball* `08-28`
+- [‘How Americans See E.U. Tech’](https://www.youtube.com/watch?v=gGlpBuW6ZFc) — *Daring Fireball* `08-28`
+- [We Certainly Have Made a Hames Out of This](https://daringfireball.net/linked/2026/08/28/trump-lake-ontario) — *Daring Fireball* `08-28`
+- [‘Not Sure How You Own Canada by Deleting Your Own History’](https://x.com/MattWalshBlog/status/2093060290371870948) — *Daring Fireball* `08-28`
 <!--BLOG_RADAR:end-->
 
 ---
