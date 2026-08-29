@@ -208,11 +208,11 @@ Last Updated: Sunday, August 30th, 2026, 4:17:25 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [The Server Called Paranoia: Defend Autistici/Inventati](https://micahflee.com/the-server-called-paranoia-defend-autistici-inventati/) — *micahflee* `08-29`
+- [★ Thoughts and Observations on Apple’s First Immersive MLB Broadcast, a Yankees 1-0 Win Over the Red Sox](https://daringfireball.net/2026/08/thoughts_and_observations_apple_immersive_mlb_broadcast) — *Daring Fireball* `08-29`
 - [Reading List 08/29/26](https://www.construction-physics.com/p/reading-list-082926) — *Construction Physics* `08-29`
-- [A simple "copy this code" button in JavaScript](https://shkspr.mobi/blog/2026/08/a-simple-copy-this-code-button-in-javascript/) — *Terence Eden’s Blog* `08-29`
 - [This Week in Package Management: 29 August 2026](https://nesbitt.io/2026/08/29/this-week-in-package-management.html) — *Andrew Nesbitt* `08-29`
-- [What GLM-5.3 Flash running on Chinese hardware actually means](https://martinalderson.com/posts/glm-5-3-flash-chinese-hardware/?utm_source=rss&utm_medium=rss&utm_campaign=feed) — *Martin Alderson* `08-29`
-- [Just a rumour of a bug is enough to find a security exploit these days](https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/) — *Simon Willison's Weblog* `08-28`
+- [Technical note: transfer files over an ethernet patch cable](https://maurycyz.com/misc/etherfiles/) — *Maurycy's Blog* `08-29`
 <!--BLOG_RADAR:end-->
 
 ---

@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 29 Aug 2026 16:35:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 20:48:05 +0000</lastBuildDate>
+    <item>
+      <title>The Server Called Paranoia: Defend Autistici/Inventati</title>
+      <link>https://micahflee.com/the-server-called-paranoia-defend-autistici-inventati/</link>
+      <guid isPermaLink="true">https://micahflee.com/the-server-called-paranoia-defend-autistici-inventati/</guid>
+      <pubDate>Sat, 29 Aug 2026 19:40:15 +0000</pubDate>
+      <description>micahflee</description>
+    </item>
+    <item>
+      <title>★ Thoughts and Observations on Apple’s First Immersive MLB Broadcast, a Yankees 1-0 Win Over the Red Sox</title>
+      <link>https://daringfireball.net/2026/08/thoughts_and_observations_apple_immersive_mlb_broadcast</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/08/thoughts_and_observations_apple_immersive_mlb_broadcast</guid>
+      <pubDate>Sat, 29 Aug 2026 17:53:34 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Reading List 08/29/26</title>
       <link>https://www.construction-physics.com/p/reading-list-082926</link>
@@ -13,18 +27,18 @@
       <description>Construction Physics</description>
     </item>
     <item>
-      <title>A simple "copy this code" button in JavaScript</title>
-      <link>https://shkspr.mobi/blog/2026/08/a-simple-copy-this-code-button-in-javascript/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/a-simple-copy-this-code-button-in-javascript/</guid>
-      <pubDate>Sat, 29 Aug 2026 11:34:49 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>This Week in Package Management: 29 August 2026</title>
       <link>https://nesbitt.io/2026/08/29/this-week-in-package-management.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/08/29/this-week-in-package-management.html</guid>
       <pubDate>Sat, 29 Aug 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>Technical note: transfer files over an ethernet patch cable</title>
+      <link>https://maurycyz.com/misc/etherfiles/</link>
+      <guid isPermaLink="true">https://maurycyz.com/misc/etherfiles/</guid>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
     </item>
     <item>
       <title>What GLM-5.3 Flash running on Chinese hardware actually means</title>
@@ -132,13 +146,6 @@
       <description>matduggan.com</description>
     </item>
     <item>
-      <title>"iT woRKs BeTter in THe aPp!!"</title>
-      <link>https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/</guid>
-      <pubDate>Fri, 28 Aug 2026 11:34:46 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>Now Hiring: Senior Open Source Maintainer</title>
       <link>https://nesbitt.io/2026/08/28/now-hiring-senior-open-source-maintainer.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/08/28/now-hiring-senior-open-source-maintainer.html</guid>
@@ -223,18 +230,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>A Calendar View For My Blog</title>
-      <link>https://blog.jim-nielsen.com/2026/blog-calendar-view/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/blog-calendar-view/</guid>
-      <pubDate>Thu, 27 Aug 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
       <title>Why do OpenAI's GPT-2 weights beat mine? Part four: digging into dropout</title>
       <link>https://www.gilesthomas.com/2026/08/why-do-openai-gpt2-weights-beat-mine-4-ift-dropout</link>
       <guid isPermaLink="true">https://www.gilesthomas.com/2026/08/why-do-openai-gpt2-weights-beat-mine-4-ift-dropout</guid>
       <pubDate>Thu, 27 Aug 2026 19:00:00 +0000</pubDate>
       <description>Giles' blog</description>
+    </item>
+    <item>
+      <title>A Calendar View For My Blog</title>
+      <link>https://blog.jim-nielsen.com/2026/blog-calendar-view/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/blog-calendar-view/</guid>
+      <pubDate>Thu, 27 Aug 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
     </item>
     <item>
       <title>On forcing all derived classes to implement a specific non-virtual method, part 1</title>
@@ -256,13 +263,6 @@
       <guid isPermaLink="true">https://www.construction-physics.com/p/how-the-strategic-petroleum-reserve</guid>
       <pubDate>Thu, 27 Aug 2026 12:03:58 +0000</pubDate>
       <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>Book Review: The Infinite Sadness of Small Appliances by Glenn Dixon ★★★★☆</title>
-      <link>https://shkspr.mobi/blog/2026/08/book-review-the-infinite-sadness-of-small-appliances-by-glenn-dixon/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/book-review-the-infinite-sadness-of-small-appliances-by-glenn-dixon/</guid>
-      <pubDate>Thu, 27 Aug 2026 11:34:48 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Two Alleged ‘TeamPCP’ Hackers Arrested in Australia</title>
@@ -347,13 +347,6 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/26/junk-solutions/</guid>
       <pubDate>Wed, 26 Aug 2026 12:16:17 +0000</pubDate>
       <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Gadget Review: Thermal Master P3 Macro Lens ★★★★⯪</title>
-      <link>https://shkspr.mobi/blog/2026/08/gadget-review-thermal-master-p3-macro-lens/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/gadget-review-thermal-master-p3-macro-lens/</guid>
-      <pubDate>Wed, 26 Aug 2026 11:34:52 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Ultraspherical</title>
@@ -510,13 +503,6 @@
       <description>Herman's blog</description>
     </item>
     <item>
-      <title>Theatre Review: Cats at Regent's Park Open Air Theatre ★★★★☆</title>
-      <link>https://shkspr.mobi/blog/2026/08/theatre-review-cats-at-regents-park-open-air-theatre/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/theatre-review-cats-at-regents-park-open-air-theatre/</guid>
-      <pubDate>Tue, 25 Aug 2026 11:34:22 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>Hardening the Override Flag</title>
       <link>https://nesbitt.io/2026/08/25/hardening-the-override-flag.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/08/25/hardening-the-override-flag.html</guid>
@@ -636,13 +622,6 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>Why do audience members choose specific shows at the Edinburgh Fringe?</title>
-      <link>https://shkspr.mobi/blog/2026/08/why-do-audience-members-choose-specific-shows-at-the-edinburgh-fringe/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/why-do-audience-members-choose-specific-shows-at-the-edinburgh-fringe/</guid>
-      <pubDate>Mon, 24 Aug 2026 11:34:45 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>Weekly Update 518: IoT Doorlock Nirvana with UniFi</title>
       <link>https://www.troyhunt.com/weekly-update-518/</link>
       <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-518/</guid>
@@ -711,13 +690,6 @@
       <guid isPermaLink="true">https://sixcolors.com/member/2026/08/this-week-in-apple-lets-fight/</guid>
       <pubDate>Sun, 23 Aug 2026 17:36:28 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Death to px, long live ch!</title>
-      <link>https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/</guid>
-      <pubDate>Sun, 23 Aug 2026 11:34:52 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Welcoming the Sri Lankan Government to Have I Been Pwned</title>
@@ -844,6 +816,34 @@
       <guid isPermaLink="true">https://evanhahn.com/usergettingbored-vim/</guid>
       <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
       <description>Evan Hahn (dot com)</description>
+    </item>
+    <item>
+      <title>the figure of the earth</title>
+      <link>https://computer.rip/2026-08-22-figure-of-the-earth.html</link>
+      <guid isPermaLink="true">https://computer.rip/2026-08-22-figure-of-the-earth.html</guid>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+      <description>computers are bad</description>
+    </item>
+    <item>
+      <title>The Fourth Horseman of the File-Format-Hegemony Apocalypse</title>
+      <link>https://techcommunity.microsoft.com/blog/onedriveblog/introducing-markdown-support-in-sharepoint-and-onedrive/4512174</link>
+      <guid isPermaLink="true">https://techcommunity.microsoft.com/blog/onedriveblog/introducing-markdown-support-in-sharepoint-and-onedrive/4512174</guid>
+      <pubDate>Fri, 21 Aug 2026 23:18:40 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Walmart Finally Caves, Will Soon Support Apple Pay</title>
+      <link>https://corporate.walmart.com/news/2026/08/21/more-ways-to-pay-tap-to-pay-is-coming-to-walmart-and-sams-club</link>
+      <guid isPermaLink="true">https://corporate.walmart.com/news/2026/08/21/more-ways-to-pay-tap-to-pay-is-coming-to-walmart-and-sams-club</guid>
+      <pubDate>Fri, 21 Aug 2026 19:34:55 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>llm 0.32.1</title>
+      <link>https://simonwillison.net/2026/Aug/21/llm/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/21/llm/</guid>
+      <pubDate>Fri, 21 Aug 2026 17:16:13 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
