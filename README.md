@@ -208,11 +208,11 @@ Last Updated: Saturday, August 29th, 2026, 8:07:32 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Reading List 08/29/26](https://www.construction-physics.com/p/reading-list-082926) — *Construction Physics* `08-29`
+- [A simple "copy this code" button in JavaScript](https://shkspr.mobi/blog/2026/08/a-simple-copy-this-code-button-in-javascript/) — *Terence Eden’s Blog* `08-29`
+- [This Week in Package Management: 29 August 2026](https://nesbitt.io/2026/08/29/this-week-in-package-management.html) — *Andrew Nesbitt* `08-29`
 - [What GLM-5.3 Flash running on Chinese hardware actually means](https://martinalderson.com/posts/glm-5-3-flash-chinese-hardware/?utm_source=rss&utm_medium=rss&utm_campaign=feed) — *Martin Alderson* `08-29`
 - [Just a rumour of a bug is enough to find a security exploit these days](https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/) — *Simon Willison's Weblog* `08-28`
-- [Apple Announces Price Increase for Apple TV and Apple One Subscriptions](https://9to5mac.com/2026/08/28/apple-announces-price-increase-for-apple-tv-and-apple-one-subscriptions/) — *Daring Fireball* `08-28`
-- [‘I’m the Guy Who Destroys Antique Books After We Scan Them Into Our Company’s Insatiable AI Platform’](https://www.mcsweeneys.net/articles/im-the-guy-who-destroys-antique-books-after-we-scan-them-into-our-companys-insatiable-ai-platform) — *Daring Fireball* `08-28`
-- [‘How Americans See E.U. Tech’](https://www.youtube.com/watch?v=gGlpBuW6ZFc) — *Daring Fireball* `08-28`
 <!--BLOG_RADAR:end-->
 
 ---
