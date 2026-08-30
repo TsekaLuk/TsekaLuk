@@ -208,11 +208,11 @@ Last Updated: Sunday, August 30th, 2026, 11:06:26 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [You have to beat the models at something](https://seangoedecke.com/you-have-to-beat-the-models-at-something/) — *seangoedecke.com RSS feed* `08-30`
+- [Introducing Hy4 Preview](https://simonwillison.net/2026/Aug/29/hy4/) — *Simon Willison's Weblog* `08-29`
+- [The Rise and Fall of Agent Civilizations](https://www.dwarkesh.com/p/openai-huggingface) — *Dwarkesh Podcast* `08-29`
 - [The Server Called Paranoia: Defend Autistici/Inventati](https://micahflee.com/the-server-called-paranoia-defend-autistici-inventati/) — *micahflee* `08-29`
 - [★ Thoughts and Observations on Apple’s First Immersive MLB Broadcast, a Yankees 1-0 Win Over the Red Sox](https://daringfireball.net/2026/08/thoughts_and_observations_apple_immersive_mlb_broadcast) — *Daring Fireball* `08-29`
-- [Reading List 08/29/26](https://www.construction-physics.com/p/reading-list-082926) — *Construction Physics* `08-29`
-- [This Week in Package Management: 29 August 2026](https://nesbitt.io/2026/08/29/this-week-in-package-management.html) — *Andrew Nesbitt* `08-29`
-- [Technical note: transfer files over an ethernet patch cable](https://maurycyz.com/misc/etherfiles/) — *Maurycy's Blog* `08-29`
 <!--BLOG_RADAR:end-->
 
 ---
