@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 30 Aug 2026 16:30:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 20:52:43 +0000</lastBuildDate>
+    <item>
+      <title>Recreating a 2010 Experiment</title>
+      <link>http://xania.org/202608/recreating-a-2010-experiment?utm_source=feed&amp;utm_medium=rss</link>
+      <guid isPermaLink="true">http://xania.org/202608/recreating-a-2010-experiment?utm_source=feed&amp;utm_medium=rss</guid>
+      <pubDate>Sun, 30 Aug 2026 19:40:00 +0000</pubDate>
+      <description>Matt Godbolt’s blog</description>
+    </item>
+    <item>
+      <title>Finalist 4</title>
+      <link>https://www.finalist.works/?utm_source=df-aug-2026</link>
+      <guid isPermaLink="true">https://www.finalist.works/?utm_source=df-aug-2026</guid>
+      <pubDate>Sun, 30 Aug 2026 18:35:22 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Cores in space: The core memory module from a 1980 Spacelab computer</title>
+      <link>http://www.righto.com/2026/08/spacelab-core-memory.html</link>
+      <guid isPermaLink="true">http://www.righto.com/2026/08/spacelab-core-memory.html</guid>
+      <pubDate>Sun, 30 Aug 2026 16:42:42 +0000</pubDate>
+      <description>Ken Shirriff's blog</description>
+    </item>
     <item>
       <title>Forgejo Hack #2: Integration with Read The Docs</title>
       <link>https://blog.miguelgrinberg.com/post/forgejo-hack-2-integration-with-read-the-docs</link>
@@ -608,13 +629,6 @@
       <description>John D. Cook</description>
     </item>
     <item>
-      <title>[Sponsor] Finalist 4: Inspired by Paper Day Planners</title>
-      <link>https://www.finalist.works/?utm_source=df-aug-2026</link>
-      <guid isPermaLink="true">https://www.finalist.works/?utm_source=df-aug-2026</guid>
-      <pubDate>Tue, 25 Aug 2026 00:37:24 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
       <title>Uranium from Příbram (Czechia)</title>
       <link>https://maurycyz.com/misc/rocks3/</link>
       <guid isPermaLink="true">https://maurycyz.com/misc/rocks3/</guid>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Aug/22/more-than-just-code-review/</guid>
       <pubDate>Sat, 22 Aug 2026 15:56:54 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Coming soon</title>
-      <link>https://www.johndcook.com/blog/2026/08/22/coming-soon/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/22/coming-soon/</guid>
-      <pubDate>Sat, 22 Aug 2026 15:34:11 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Concurrent Servers: Part 8 - Go</title>
-      <link>https://eli.thegreenplace.net/2026/concurrent-servers-part-8-go/</link>
-      <guid isPermaLink="true">https://eli.thegreenplace.net/2026/concurrent-servers-part-8-go/</guid>
-      <pubDate>Sat, 22 Aug 2026 14:52:00 +0000</pubDate>
-      <description>Eli Bendersky's website</description>
     </item>
   </channel>
 </rss>
