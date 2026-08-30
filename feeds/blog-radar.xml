@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 30 Aug 2026 04:57:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 11:42:45 +0000</lastBuildDate>
+    <item>
+      <title>ActivityBot is the recipient of an NLnet grant!</title>
+      <link>https://shkspr.mobi/blog/2026/08/activitybot-is-the-recipient-of-an-nlnet-grant/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/activitybot-is-the-recipient-of-an-nlnet-grant/</guid>
+      <pubDate>Sun, 30 Aug 2026 11:34:55 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
     <item>
       <title>You have to beat the models at something</title>
       <link>https://seangoedecke.com/you-have-to-beat-the-models-at-something/</link>
@@ -531,7 +538,7 @@
       <description>Fernando Borretti</description>
     </item>
     <item>
-      <title>Forgejo hack: How to set a starting issue and pull request number</title>
+      <title>Forgejo hack #1: How to set a starting issue and pull request number</title>
       <link>https://blog.miguelgrinberg.com/post/forgejo-hack-how-to-set-a-starting-issue-and-pull-request-number</link>
       <guid isPermaLink="true">https://blog.miguelgrinberg.com/post/forgejo-hack-how-to-set-a-starting-issue-and-pull-request-number</guid>
       <pubDate>Tue, 25 Aug 2026 13:38:15 +0000</pubDate>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://www.reuters.com/world/dutch-regulator-fines-uber-966-million-automating-driver-suspensions-document-2026-08-21/</guid>
       <pubDate>Sat, 22 Aug 2026 14:12:07 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>A Syncthing and SQLite Gotcha</title>
-      <link>https://borretti.me/article/a-syncthing-and-sqlite-gotcha</link>
-      <guid isPermaLink="true">https://borretti.me/article/a-syncthing-and-sqlite-gotcha</guid>
-      <pubDate>Sat, 22 Aug 2026 14:00:00 +0000</pubDate>
-      <description>Fernando Borretti</description>
     </item>
   </channel>
 </rss>
