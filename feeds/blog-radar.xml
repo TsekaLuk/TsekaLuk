@@ -4,13 +4,27 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 30 Aug 2026 11:42:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 16:30:12 +0000</lastBuildDate>
+    <item>
+      <title>Forgejo Hack #2: Integration with Read The Docs</title>
+      <link>https://blog.miguelgrinberg.com/post/forgejo-hack-2-integration-with-read-the-docs</link>
+      <guid isPermaLink="true">https://blog.miguelgrinberg.com/post/forgejo-hack-2-integration-with-read-the-docs</guid>
+      <pubDate>Sun, 30 Aug 2026 16:02:08 +0000</pubDate>
+      <description>Miguel Grinberg's Blog</description>
+    </item>
     <item>
       <title>ActivityBot is the recipient of an NLnet grant!</title>
       <link>https://shkspr.mobi/blog/2026/08/activitybot-is-the-recipient-of-an-nlnet-grant/</link>
       <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/activitybot-is-the-recipient-of-an-nlnet-grant/</guid>
       <pubDate>Sun, 30 Aug 2026 11:34:55 +0000</pubDate>
       <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>New Pebble Weather App + Software Updates</title>
+      <link>https://repebble.com/blog/new-pebble-weather-app-software-updates</link>
+      <guid isPermaLink="true">https://repebble.com/blog/new-pebble-weather-app-software-updates</guid>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Eric Migicovsky's Blog RSS Feed</description>
     </item>
     <item>
       <title>You have to beat the models at something</title>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://eli.thegreenplace.net/2026/concurrent-servers-part-8-go/</guid>
       <pubDate>Sat, 22 Aug 2026 14:52:00 +0000</pubDate>
       <description>Eli Bendersky's website</description>
-    </item>
-    <item>
-      <title>WorkOS: Agents Can Now Sign Up for Your App</title>
-      <link>https://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</link>
-      <guid isPermaLink="true">https://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</guid>
-      <pubDate>Sat, 22 Aug 2026 14:18:29 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Dutch Regulator Fines Uber $1 Billion for Suspending Dishonest Drivers</title>
-      <link>https://www.reuters.com/world/dutch-regulator-fines-uber-966-million-automating-driver-suspensions-document-2026-08-21/</link>
-      <guid isPermaLink="true">https://www.reuters.com/world/dutch-regulator-fines-uber-966-million-automating-driver-suspensions-document-2026-08-21/</guid>
-      <pubDate>Sat, 22 Aug 2026 14:12:07 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>

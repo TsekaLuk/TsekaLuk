@@ -208,11 +208,11 @@ Last Updated: Sunday, August 30th, 2026, 11:52:40 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Forgejo Hack #2: Integration with Read The Docs](https://blog.miguelgrinberg.com/post/forgejo-hack-2-integration-with-read-the-docs) — *Miguel Grinberg's Blog* `08-30`
 - [ActivityBot is the recipient of an NLnet grant!](https://shkspr.mobi/blog/2026/08/activitybot-is-the-recipient-of-an-nlnet-grant/) — *Terence Eden’s Blog* `08-30`
+- [New Pebble Weather App + Software Updates](https://repebble.com/blog/new-pebble-weather-app-software-updates) — *Eric Migicovsky's Blog RSS Feed* `08-30`
 - [You have to beat the models at something](https://seangoedecke.com/you-have-to-beat-the-models-at-something/) — *seangoedecke.com RSS feed* `08-30`
 - [Introducing Hy4 Preview](https://simonwillison.net/2026/Aug/29/hy4/) — *Simon Willison's Weblog* `08-29`
-- [The Rise and Fall of Agent Civilizations](https://www.dwarkesh.com/p/openai-huggingface) — *Dwarkesh Podcast* `08-29`
-- [The Server Called Paranoia: Defend Autistici/Inventati](https://micahflee.com/the-server-called-paranoia-defend-autistici-inventati/) — *micahflee* `08-29`
 <!--BLOG_RADAR:end-->
 
 ---
