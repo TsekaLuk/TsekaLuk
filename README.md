@@ -208,11 +208,11 @@ Last Updated: Tuesday, September 1st, 2026, 6:17:03 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [The rise and fall of agent civilizations](https://www.dwarkesh.com/p/openai-huggingface-narration) — *Dwarkesh Podcast* `08-31`
 - [My Experience Has Nuance, Yours Is a Data Point](https://blog.jim-nielsen.com/2026/nuance-for-me-none-for-you/) — *Jim Nielsen’s Blog* `08-31`
 - [Review: Ruined Theatre's A Midsummer Night's Dream ★★★★☆](https://shkspr.mobi/blog/2026/08/review-ruined-theatres-a-midsummer-nights-dream/) — *Terence Eden’s Blog* `08-31`
 - [Here's a good way to present AI videos](https://idiallo.com/blog/a-good-way-to-present-ai-videos-on-youtube) — *Software and Tech stories from an Insider - iDiallo.com* `08-31`
 - [Cancelation Terminology](https://matklad.github.io/2026/08/31/cancelation-terminology.html) — *matklad* `08-31`
-- [Understanding ChatGPT Work](https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/) — *Simon Willison's Weblog* `08-30`
 <!--BLOG_RADAR:end-->
 
 ---

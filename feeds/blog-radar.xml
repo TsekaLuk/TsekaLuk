@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 31 Aug 2026 13:21:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 22:42:46 +0000</lastBuildDate>
+    <item>
+      <title>The rise and fall of agent civilizations</title>
+      <link>https://www.dwarkesh.com/p/openai-huggingface-narration</link>
+      <guid isPermaLink="true">https://www.dwarkesh.com/p/openai-huggingface-narration</guid>
+      <pubDate>Mon, 31 Aug 2026 20:36:53 +0000</pubDate>
+      <description>Dwarkesh Podcast</description>
+    </item>
     <item>
       <title>My Experience Has Nuance, Yours Is a Data Point</title>
       <link>https://blog.jim-nielsen.com/2026/nuance-for-me-none-for-you/</link>
@@ -32,6 +39,13 @@
       <guid isPermaLink="true">https://matklad.github.io/2026/08/31/cancelation-terminology.html</guid>
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
       <description>matklad</description>
+    </item>
+    <item>
+      <title>Reducing codebase cognitive debt through... quizzes?</title>
+      <link>https://martinalderson.com/posts/codebase-cognitive-debt-quizzes/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
+      <guid isPermaLink="true">https://martinalderson.com/posts/codebase-cognitive-debt-quizzes/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Martin Alderson</description>
     </item>
     <item>
       <title>Understanding ChatGPT Work</title>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/23/arcane-terminology/</guid>
       <pubDate>Sun, 23 Aug 2026 17:56:03 +0000</pubDate>
       <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Cooper Sharp Proves That American Cheese Can Be Great Cheese</title>
-      <link>https://sixcolors.com/member/2026/08/this-week-in-apple-lets-fight/</link>
-      <guid isPermaLink="true">https://sixcolors.com/member/2026/08/this-week-in-apple-lets-fight/</guid>
-      <pubDate>Sun, 23 Aug 2026 17:36:28 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Death to px, long live ch!</title>
-      <link>https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/</guid>
-      <pubDate>Sun, 23 Aug 2026 11:34:52 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
   </channel>
 </rss>
