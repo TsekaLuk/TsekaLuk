@@ -208,11 +208,11 @@ Last Updated: Monday, August 31st, 2026, 10:59:41 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Understanding ChatGPT Work](https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/) — *Simon Willison's Weblog* `08-30`
+- [Before NTP there were Time and Daytime](https://www.jeffgeerling.com/blog/2026/rfc-867-868-time/) — *Jeff Geerling* `08-30`
 - [Recreating a 2010 Experiment](http://xania.org/202608/recreating-a-2010-experiment?utm_source=feed&utm_medium=rss) — *Matt Godbolt’s blog* `08-30`
 - [Finalist 4](https://www.finalist.works/?utm_source=df-aug-2026) — *Daring Fireball* `08-30`
 - [Cores in space: The core memory module from a 1980 Spacelab computer](http://www.righto.com/2026/08/spacelab-core-memory.html) — *Ken Shirriff's blog* `08-30`
-- [Forgejo Hack #2: Integration with Read The Docs](https://blog.miguelgrinberg.com/post/forgejo-hack-2-integration-with-read-the-docs) — *Miguel Grinberg's Blog* `08-30`
-- [ActivityBot is the recipient of an NLnet grant!](https://shkspr.mobi/blog/2026/08/activitybot-is-the-recipient-of-an-nlnet-grant/) — *Terence Eden’s Blog* `08-30`
 <!--BLOG_RADAR:end-->
 
 ---
