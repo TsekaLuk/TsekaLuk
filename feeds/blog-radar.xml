@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 31 Aug 2026 05:03:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 13:21:11 +0000</lastBuildDate>
+    <item>
+      <title>My Experience Has Nuance, Yours Is a Data Point</title>
+      <link>https://blog.jim-nielsen.com/2026/nuance-for-me-none-for-you/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/nuance-for-me-none-for-you/</guid>
+      <pubDate>Mon, 31 Aug 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
+    </item>
+    <item>
+      <title>Review: Ruined Theatre's A Midsummer Night's Dream ★★★★☆</title>
+      <link>https://shkspr.mobi/blog/2026/08/review-ruined-theatres-a-midsummer-nights-dream/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/review-ruined-theatres-a-midsummer-nights-dream/</guid>
+      <pubDate>Mon, 31 Aug 2026 11:34:08 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Here's a good way to present AI videos</title>
+      <link>https://idiallo.com/blog/a-good-way-to-present-ai-videos-on-youtube</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/a-good-way-to-present-ai-videos-on-youtube</guid>
+      <pubDate>Mon, 31 Aug 2026 07:30:00 +0000</pubDate>
+      <description>Software and Tech stories from an Insider - iDiallo.com</description>
+    </item>
+    <item>
+      <title>Cancelation Terminology</title>
+      <link>https://matklad.github.io/2026/08/31/cancelation-terminology.html</link>
+      <guid isPermaLink="true">https://matklad.github.io/2026/08/31/cancelation-terminology.html</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <description>matklad</description>
+    </item>
     <item>
       <title>Understanding ChatGPT Work</title>
       <link>https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/</link>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/</guid>
       <pubDate>Sun, 23 Aug 2026 11:34:52 +0000</pubDate>
       <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Welcoming the Sri Lankan Government to Have I Been Pwned</title>
-      <link>https://www.troyhunt.com/welcoming-the-sri-lankan-government-to-have-i-been-pwned/</link>
-      <guid isPermaLink="true">https://www.troyhunt.com/welcoming-the-sri-lankan-government-to-have-i-been-pwned/</guid>
-      <pubDate>Sun, 23 Aug 2026 06:39:45 +0000</pubDate>
-      <description>Troy Hunt</description>
-    </item>
-    <item>
-      <title>The difference orbit inclination makes</title>
-      <link>https://www.johndcook.com/blog/2026/08/22/inclination/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/22/inclination/</guid>
-      <pubDate>Sun, 23 Aug 2026 00:01:10 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>The summer of open weights</title>
-      <link>https://martinalderson.com/posts/the-summer-of-open-weights/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
-      <guid isPermaLink="true">https://martinalderson.com/posts/the-summer-of-open-weights/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
-      <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Martin Alderson</description>
-    </item>
-    <item>
-      <title>Quoting Linus Torvalds</title>
-      <link>https://simonwillison.net/2026/Aug/22/linus-torvalds/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/22/linus-torvalds/</guid>
-      <pubDate>Sat, 22 Aug 2026 21:04:26 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>

@@ -208,11 +208,11 @@ Last Updated: Monday, August 31st, 2026, 8:26:06 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [My Experience Has Nuance, Yours Is a Data Point](https://blog.jim-nielsen.com/2026/nuance-for-me-none-for-you/) — *Jim Nielsen’s Blog* `08-31`
+- [Review: Ruined Theatre's A Midsummer Night's Dream ★★★★☆](https://shkspr.mobi/blog/2026/08/review-ruined-theatres-a-midsummer-nights-dream/) — *Terence Eden’s Blog* `08-31`
+- [Here's a good way to present AI videos](https://idiallo.com/blog/a-good-way-to-present-ai-videos-on-youtube) — *Software and Tech stories from an Insider - iDiallo.com* `08-31`
+- [Cancelation Terminology](https://matklad.github.io/2026/08/31/cancelation-terminology.html) — *matklad* `08-31`
 - [Understanding ChatGPT Work](https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/) — *Simon Willison's Weblog* `08-30`
-- [Before NTP there were Time and Daytime](https://www.jeffgeerling.com/blog/2026/rfc-867-868-time/) — *Jeff Geerling* `08-30`
-- [Recreating a 2010 Experiment](http://xania.org/202608/recreating-a-2010-experiment?utm_source=feed&utm_medium=rss) — *Matt Godbolt’s blog* `08-30`
-- [Finalist 4](https://www.finalist.works/?utm_source=df-aug-2026) — *Daring Fireball* `08-30`
-- [Cores in space: The core memory module from a 1980 Spacelab computer](http://www.righto.com/2026/08/spacelab-core-memory.html) — *Ken Shirriff's blog* `08-30`
 <!--BLOG_RADAR:end-->
 
 ---
