@@ -208,11 +208,11 @@ Last Updated: Wednesday, September 2nd, 2026, 4:23:52 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Ajeya Cotra – Inside the OpenAI agent swarm that hacked Hugging Face](https://www.dwarkesh.com/p/ajeya-cotra) — *Dwarkesh Podcast* `09-01`
-- [Python 3.15.0 candidate 2 is here!](https://simonwillison.net/2026/Sep/1/python-315-rc-2/) — *Simon Willison's Weblog* `09-01`
-- [Book Review: ActivityPub by Evan Prodromou ★★★★⯪](https://shkspr.mobi/blog/2026/09/book-review-activitypub-by-evan-prodromou/) — *Terence Eden’s Blog* `09-01`
-- [Git Submodules as a Package Manager](https://nesbitt.io/2026/09/01/git-submodules-as-a-package-manager.html) — *Andrew Nesbitt* `09-01`
-- [[Sponsor] WorkOS: How to Give an Agent a Task Instead of a Token](https://workos.com/blog/delegated-access-for-ai-agents?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026) — *Daring Fireball* `09-01`
+- [Codex bundles LibreOffice](https://simonwillison.net/2026/Sep/1/codex-libreoffice/) — *Simon Willison's Weblog* `09-01`
+- [New Post: A Crash Course in Predicate Logic](https://buttondown.com/hillelwayne/archive/new-post-a-crash-course-in-predicate-logic/) — *Computer Things* `09-01`
+- [Tim Cook’s Departure Memo on His Last Day as CEO](https://9to5mac.com/2026/08/31/read-tim-cooks-full-memo-to-apple-employees-on-his-last-day-as-ceo/) — *Daring Fireball* `09-01`
+- [Hyperscale Normalization](https://www.wheresyoured.at/hyperscale-normalization/) — *Ed Zitron's Where's Your Ed At* `09-01`
+- [Apple Reveals Forensic Evidence From Chang Liu’s MacBook in OpenAI Lawsuit](https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/) — *Daring Fireball* `09-01`
 <!--BLOG_RADAR:end-->
 
 ---

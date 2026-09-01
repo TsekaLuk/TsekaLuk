@@ -4,7 +4,49 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 01 Sep 2026 16:26:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 20:54:25 +0000</lastBuildDate>
+    <item>
+      <title>Codex bundles LibreOffice</title>
+      <link>https://simonwillison.net/2026/Sep/1/codex-libreoffice/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/1/codex-libreoffice/</guid>
+      <pubDate>Tue, 01 Sep 2026 19:03:01 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>New Post: A Crash Course in Predicate Logic</title>
+      <link>https://buttondown.com/hillelwayne/archive/new-post-a-crash-course-in-predicate-logic/</link>
+      <guid isPermaLink="true">https://buttondown.com/hillelwayne/archive/new-post-a-crash-course-in-predicate-logic/</guid>
+      <pubDate>Tue, 01 Sep 2026 18:30:01 +0000</pubDate>
+      <description>Computer Things</description>
+    </item>
+    <item>
+      <title>Tim Cook’s Departure Memo on His Last Day as CEO</title>
+      <link>https://9to5mac.com/2026/08/31/read-tim-cooks-full-memo-to-apple-employees-on-his-last-day-as-ceo/</link>
+      <guid isPermaLink="true">https://9to5mac.com/2026/08/31/read-tim-cooks-full-memo-to-apple-employees-on-his-last-day-as-ceo/</guid>
+      <pubDate>Tue, 01 Sep 2026 18:11:57 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Hyperscale Normalization</title>
+      <link>https://www.wheresyoured.at/hyperscale-normalization/</link>
+      <guid isPermaLink="true">https://www.wheresyoured.at/hyperscale-normalization/</guid>
+      <pubDate>Tue, 01 Sep 2026 17:39:44 +0000</pubDate>
+      <description>Ed Zitron's Where's Your Ed At</description>
+    </item>
+    <item>
+      <title>Apple Reveals Forensic Evidence From Chang Liu’s MacBook in OpenAI Lawsuit</title>
+      <link>https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/</link>
+      <guid isPermaLink="true">https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/</guid>
+      <pubDate>Tue, 01 Sep 2026 17:36:08 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Quoting Tarn Adams</title>
+      <link>https://simonwillison.net/2026/Sep/1/tarn-adams/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/1/tarn-adams/</guid>
+      <pubDate>Tue, 01 Sep 2026 17:01:11 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Ajeya Cotra – Inside the OpenAI agent swarm that hacked Hugging Face</title>
       <link>https://www.dwarkesh.com/p/ajeya-cotra</link>
@@ -60,6 +102,13 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Aug/31/andrew-digby/</guid>
       <pubDate>Mon, 31 Aug 2026 22:25:02 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Claude comment detection</title>
+      <link>https://entropicthoughts.com/ai-comment-classifier</link>
+      <guid isPermaLink="true">https://entropicthoughts.com/ai-comment-classifier</guid>
+      <pubDate>Mon, 31 Aug 2026 22:00:00 +0000</pubDate>
+      <description>Entropic Thoughts</description>
     </item>
     <item>
       <title>The rise and fall of agent civilizations</title>
@@ -795,55 +844,6 @@
       <guid isPermaLink="true">https://pluralistic.net/2026/08/24/elbows-really-up/</guid>
       <pubDate>Mon, 24 Aug 2026 21:29:38 +0000</pubDate>
       <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>BitCam: The 1-Bit Camera App Turns 2.0</title>
-      <link>https://bitcam-app.com/</link>
-      <guid isPermaLink="true">https://bitcam-app.com/</guid>
-      <pubDate>Mon, 24 Aug 2026 16:37:54 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>llm-anthropic 0.27</title>
-      <link>https://simonwillison.net/2026/Aug/24/llm-anthropic/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/24/llm-anthropic/</guid>
-      <pubDate>Mon, 24 Aug 2026 16:27:04 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>More on TestFlight’s Screwy Sort Order</title>
-      <link>https://daringfireball.net/2026/08/apple_testflight_list_sort_order</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/08/apple_testflight_list_sort_order</guid>
-      <pubDate>Mon, 24 Aug 2026 15:22:16 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Three-term recurrences</title>
-      <link>https://www.johndcook.com/blog/2026/08/24/three-term-recurrences/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/24/three-term-recurrences/</guid>
-      <pubDate>Mon, 24 Aug 2026 14:14:55 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>The von Mises-Fisher distribution</title>
-      <link>https://www.johndcook.com/blog/2026/08/24/von-mises-fisher/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/24/von-mises-fisher/</guid>
-      <pubDate>Mon, 24 Aug 2026 14:14:25 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Comparing the two holograms on the Windows 95 box</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260824-00/?p=112643</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260824-00/?p=112643</guid>
-      <pubDate>Mon, 24 Aug 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Your executable is a SQLite database</title>
-      <link>https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/</guid>
-      <pubDate>Mon, 24 Aug 2026 11:38:15 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
