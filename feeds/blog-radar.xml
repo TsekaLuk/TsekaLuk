@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 01 Sep 2026 11:28:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 16:26:32 +0000</lastBuildDate>
+    <item>
+      <title>Ajeya Cotra – Inside the OpenAI agent swarm that hacked Hugging Face</title>
+      <link>https://www.dwarkesh.com/p/ajeya-cotra</link>
+      <guid isPermaLink="true">https://www.dwarkesh.com/p/ajeya-cotra</guid>
+      <pubDate>Tue, 01 Sep 2026 15:41:06 +0000</pubDate>
+      <description>Dwarkesh Podcast</description>
+    </item>
+    <item>
+      <title>Python 3.15.0 candidate 2 is here!</title>
+      <link>https://simonwillison.net/2026/Sep/1/python-315-rc-2/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/1/python-315-rc-2/</guid>
+      <pubDate>Tue, 01 Sep 2026 14:59:18 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Book Review: ActivityPub by Evan Prodromou ★★★★⯪</title>
+      <link>https://shkspr.mobi/blog/2026/09/book-review-activitypub-by-evan-prodromou/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/09/book-review-activitypub-by-evan-prodromou/</guid>
+      <pubDate>Tue, 01 Sep 2026 11:34:18 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
     <item>
       <title>Git Submodules as a Package Manager</title>
       <link>https://nesbitt.io/2026/09/01/git-submodules-as-a-package-manager.html</link>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/</guid>
       <pubDate>Mon, 24 Aug 2026 11:38:15 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Why do audience members choose specific shows at the Edinburgh Fringe?</title>
-      <link>https://shkspr.mobi/blog/2026/08/why-do-audience-members-choose-specific-shows-at-the-edinburgh-fringe/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/why-do-audience-members-choose-specific-shows-at-the-edinburgh-fringe/</guid>
-      <pubDate>Mon, 24 Aug 2026 11:34:45 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Weekly Update 518: IoT Doorlock Nirvana with UniFi</title>
-      <link>https://www.troyhunt.com/weekly-update-518/</link>
-      <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-518/</guid>
-      <pubDate>Mon, 24 Aug 2026 04:19:51 +0000</pubDate>
-      <description>Troy Hunt</description>
-    </item>
-    <item>
-      <title>Anger, Anxiety and Agency</title>
-      <link>https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/</link>
-      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/</guid>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
   </channel>
 </rss>
