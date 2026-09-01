@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 01 Sep 2026 04:41:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 11:28:32 +0000</lastBuildDate>
+    <item>
+      <title>Git Submodules as a Package Manager</title>
+      <link>https://nesbitt.io/2026/09/01/git-submodules-as-a-package-manager.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/09/01/git-submodules-as-a-package-manager.html</guid>
+      <pubDate>Tue, 01 Sep 2026 09:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>[Sponsor] WorkOS: How to Give an Agent a Task Instead of a Token</title>
+      <link>https://workos.com/blog/delegated-access-for-ai-agents?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</link>
+      <guid isPermaLink="true">https://workos.com/blog/delegated-access-for-ai-agents?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</guid>
+      <pubDate>Tue, 01 Sep 2026 07:59:07 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Introducing wrapture</title>
       <link>https://simonwillison.net/2026/Aug/31/introducing-wrapture/</link>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/</guid>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
       <description>Armin Ronacher's Thoughts and Writings</description>
-    </item>
-    <item>
-      <title>distributed identity</title>
-      <link>https://jyn.dev/distributed-identity/</link>
-      <guid isPermaLink="true">https://jyn.dev/distributed-identity/</guid>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <description>the website of jyn</description>
-    </item>
-    <item>
-      <title>Anthropic’s best AI model struggles to attract users as cheaper tools thrive</title>
-      <link>https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/</guid>
-      <pubDate>Sun, 23 Aug 2026 20:24:52 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
