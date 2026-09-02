@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 02 Sep 2026 04:03:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 11:03:11 +0000</lastBuildDate>
+    <item>
+      <title>Pluralistic: Unpermissioned research (02 Sep 2026)</title>
+      <link>https://pluralistic.net/2026/09/02/scrape-scrope-scrap/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/09/02/scrape-scrope-scrap/</guid>
+      <pubDate>Wed, 02 Sep 2026 10:19:10 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Quoting Rick Brewster</title>
+      <link>https://simonwillison.net/2026/Sep/2/rick-brewster/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/2/rick-brewster/</guid>
+      <pubDate>Wed, 02 Sep 2026 05:50:57 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>How to protect yourself from workslop</title>
+      <link>https://seangoedecke.com/how-to-protect-yourself-from-workslop/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/how-to-protect-yourself-from-workslop/</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
+    </item>
     <item>
       <title>Claude Fable 5.1 made me a really nice animated pelican</title>
       <link>https://simonwillison.net/2026/Sep/1/claude-fable-5-1/</link>
@@ -88,6 +109,13 @@
       <guid isPermaLink="true">https://www.dwarkesh.com/p/ajeya-cotra</guid>
       <pubDate>Tue, 01 Sep 2026 15:41:06 +0000</pubDate>
       <description>Dwarkesh Podcast</description>
+    </item>
+    <item>
+      <title>datasette-mcp 0.2</title>
+      <link>https://simonwillison.net/2026/Sep/1/datasette-mcp/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/1/datasette-mcp/</guid>
+      <pubDate>Tue, 01 Sep 2026 15:30:12 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
     <item>
       <title>Python 3.15.0 candidate 2 is here!</title>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://herman.bearblog.dev/extending-life-perception/</guid>
       <pubDate>Tue, 25 Aug 2026 11:59:44 +0000</pubDate>
       <description>Herman's blog</description>
-    </item>
-    <item>
-      <title>Theatre Review: Cats at Regent's Park Open Air Theatre ★★★★☆</title>
-      <link>https://shkspr.mobi/blog/2026/08/theatre-review-cats-at-regents-park-open-air-theatre/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/theatre-review-cats-at-regents-park-open-air-theatre/</guid>
-      <pubDate>Tue, 25 Aug 2026 11:34:22 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Hardening the Override Flag</title>
-      <link>https://nesbitt.io/2026/08/25/hardening-the-override-flag.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/08/25/hardening-the-override-flag.html</guid>
-      <pubDate>Tue, 25 Aug 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Foot Guns for Sale</title>
-      <link>https://idiallo.com/blog/foot-gun-for-sale</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/foot-gun-for-sale</guid>
-      <pubDate>Tue, 25 Aug 2026 07:15:00 +0000</pubDate>
-      <description>Software and Tech stories from an Insider - iDiallo.com</description>
-    </item>
-    <item>
-      <title>The Negative Option</title>
-      <link>https://feed.tedium.co/link/15204/17427939/columbia-house-history-retrospective</link>
-      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17427939/columbia-house-history-retrospective</guid>
-      <pubDate>Tue, 25 Aug 2026 02:45:00 +0000</pubDate>
-      <description>Tedium: The Dull Side of the Internet.</description>
     </item>
   </channel>
 </rss>
