@@ -208,11 +208,11 @@ Last Updated: Wednesday, September 2nd, 2026, 11:48:35 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Claude's new system prompt really doesn't want to reproduce song lyrics](https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/) — *Simon Willison's Weblog* `09-02`
 - [Pluralistic: Unpermissioned research (02 Sep 2026)](https://pluralistic.net/2026/09/02/scrape-scrope-scrap/) — *Pluralistic: Daily links from Cory Doctorow* `09-02`
 - [Quoting Rick Brewster](https://simonwillison.net/2026/Sep/2/rick-brewster/) — *Simon Willison's Weblog* `09-02`
 - [How to protect yourself from workslop](https://seangoedecke.com/how-to-protect-yourself-from-workslop/) — *seangoedecke.com RSS feed* `09-02`
 - [Claude Fable 5.1 made me a really nice animated pelican](https://simonwillison.net/2026/Sep/1/claude-fable-5-1/) — *Simon Willison's Weblog* `09-01`
-- [FBI Probes Service Selling 153M+ Drivers Licenses](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/) — *Krebs on Security* `09-01`
 <!--BLOG_RADAR:end-->
 
 ---

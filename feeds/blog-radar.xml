@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 02 Sep 2026 11:03:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 16:24:02 +0000</lastBuildDate>
+    <item>
+      <title>Claude's new system prompt really doesn't want to reproduce song lyrics</title>
+      <link>https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/</guid>
+      <pubDate>Wed, 02 Sep 2026 14:16:42 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Pluralistic: Unpermissioned research (02 Sep 2026)</title>
       <link>https://pluralistic.net/2026/09/02/scrape-scrope-scrap/</link>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/</guid>
       <pubDate>Tue, 25 Aug 2026 13:10:18 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Extending life perception</title>
-      <link>https://herman.bearblog.dev/extending-life-perception/</link>
-      <guid isPermaLink="true">https://herman.bearblog.dev/extending-life-perception/</guid>
-      <pubDate>Tue, 25 Aug 2026 11:59:44 +0000</pubDate>
-      <description>Herman's blog</description>
     </item>
   </channel>
 </rss>
