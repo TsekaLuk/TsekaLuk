@@ -4,13 +4,41 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 01 Sep 2026 20:54:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 04:03:10 +0000</lastBuildDate>
+    <item>
+      <title>Claude Fable 5.1 made me a really nice animated pelican</title>
+      <link>https://simonwillison.net/2026/Sep/1/claude-fable-5-1/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/1/claude-fable-5-1/</guid>
+      <pubDate>Tue, 01 Sep 2026 23:57:28 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>FBI Probes Service Selling 153M+ Drivers Licenses</title>
+      <link>https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/</link>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/</guid>
+      <pubDate>Tue, 01 Sep 2026 22:40:28 +0000</pubDate>
+      <description>Krebs on Security</description>
+    </item>
+    <item>
+      <title>Weekly Update 519: Breaches &amp; Data Integrity</title>
+      <link>https://www.troyhunt.com/weekly-update-519/</link>
+      <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-519/</guid>
+      <pubDate>Tue, 01 Sep 2026 22:26:38 +0000</pubDate>
+      <description>Troy Hunt</description>
+    </item>
     <item>
       <title>Codex bundles LibreOffice</title>
       <link>https://simonwillison.net/2026/Sep/1/codex-libreoffice/</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Sep/1/codex-libreoffice/</guid>
       <pubDate>Tue, 01 Sep 2026 19:03:01 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Nobody Believes It, Everybody Does It</title>
+      <link>https://blog.jim-nielsen.com/2026/nobody-believes-it-everybody-does-it/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/nobody-believes-it-everybody-does-it/</guid>
+      <pubDate>Tue, 01 Sep 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
     </item>
     <item>
       <title>New Post: A Crash Course in Predicate Logic</title>
@@ -25,6 +53,13 @@
       <guid isPermaLink="true">https://9to5mac.com/2026/08/31/read-tim-cooks-full-memo-to-apple-employees-on-his-last-day-as-ceo/</guid>
       <pubDate>Tue, 01 Sep 2026 18:11:57 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>GeoJSON Map Viewer</title>
+      <link>https://simonwillison.net/2026/Sep/1/geojson/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/1/geojson/</guid>
+      <pubDate>Tue, 01 Sep 2026 18:05:45 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
     <item>
       <title>Hyperscale Normalization</title>
@@ -60,6 +95,13 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Sep/1/python-315-rc-2/</guid>
       <pubDate>Tue, 01 Sep 2026 14:59:18 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Microspeak: Funded / unfunded</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260901-00/?p=112662</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260901-00/?p=112662</guid>
+      <pubDate>Tue, 01 Sep 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Book Review: ActivityPub by Evan Prodromou ★★★★⯪</title>
@@ -802,48 +844,6 @@
       <guid isPermaLink="true">https://feed.tedium.co/link/15204/17427939/columbia-house-history-retrospective</guid>
       <pubDate>Tue, 25 Aug 2026 02:45:00 +0000</pubDate>
       <description>Tedium: The Dull Side of the Internet.</description>
-    </item>
-    <item>
-      <title>Numerical (in)stability of recurrence relations</title>
-      <link>https://www.johndcook.com/blog/2026/08/24/numerical-instability-recurrece/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/24/numerical-instability-recurrece/</guid>
-      <pubDate>Tue, 25 Aug 2026 01:47:47 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Uranium from Příbram (Czechia)</title>
-      <link>https://maurycyz.com/misc/rocks3/</link>
-      <guid isPermaLink="true">https://maurycyz.com/misc/rocks3/</guid>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
-    </item>
-    <item>
-      <title>Apple Rethinks Plan to Merge ‘Hide My Email’ Domain Name With ‘Sign In With Apple’</title>
-      <link>https://developer.apple.com/news/?id=1ptvdtcm</link>
-      <guid isPermaLink="true">https://developer.apple.com/news/?id=1ptvdtcm</guid>
-      <pubDate>Mon, 24 Aug 2026 23:33:50 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>★ What Is the Point of the DMA?</title>
-      <link>https://daringfireball.net/2026/08/what_is_the_point_of_the_dma</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/08/what_is_the_point_of_the_dma</guid>
-      <pubDate>Mon, 24 Aug 2026 22:47:20 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>A curmudgeon tries a language server</title>
-      <link>https://entropicthoughts.com/curmudgeon-tries-language-server</link>
-      <guid isPermaLink="true">https://entropicthoughts.com/curmudgeon-tries-language-server</guid>
-      <pubDate>Mon, 24 Aug 2026 22:00:00 +0000</pubDate>
-      <description>Entropic Thoughts</description>
-    </item>
-    <item>
-      <title>Pluralistic: How Canada can help Americans and defeat America (23 Aug 2026)</title>
-      <link>https://pluralistic.net/2026/08/24/elbows-really-up/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/08/24/elbows-really-up/</guid>
-      <pubDate>Mon, 24 Aug 2026 21:29:38 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
     </item>
   </channel>
 </rss>
