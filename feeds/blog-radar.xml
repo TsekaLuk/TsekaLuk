@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 03 Sep 2026 04:01:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 11:00:38 +0000</lastBuildDate>
+    <item>
+      <title>Pluralistic: Preparing for a post-Trump internet (03 Sep 2026)</title>
+      <link>https://pluralistic.net/2026/09/03/broken-arrows/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/09/03/broken-arrows/</guid>
+      <pubDate>Thu, 03 Sep 2026 08:45:19 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
     <item>
       <title>Second Quest</title>
       <link>https://feed.tedium.co/link/15204/17438215/mapquest-unexpected-revival</link>
@@ -32,6 +39,13 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/</guid>
       <pubDate>Wed, 02 Sep 2026 14:16:42 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>The perils of binding to value types in XAML</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260902-00/?p=112668</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260902-00/?p=112668</guid>
+      <pubDate>Wed, 02 Sep 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Pluralistic: Unpermissioned research (02 Sep 2026)</title>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://www.wheresyoured.at/the-ai-haters-manifesto/</guid>
       <pubDate>Tue, 25 Aug 2026 16:57:38 +0000</pubDate>
       <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>Footnote Regarding the GDPR and Cookie Permission Prompts</title>
-      <link>https://daringfireball.net/2026/08/what_is_the_point_of_the_dma#fn1-2026-08-24</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/08/what_is_the_point_of_the_dma#fn1-2026-08-24</guid>
-      <pubDate>Tue, 25 Aug 2026 15:46:27 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Dylan Patel – Anthropic &amp; OpenAI will have most of the world’s compute by 2028</title>
-      <link>https://www.dwarkesh.com/p/dylan-patel-3</link>
-      <guid isPermaLink="true">https://www.dwarkesh.com/p/dylan-patel-3</guid>
-      <pubDate>Tue, 25 Aug 2026 15:32:57 +0000</pubDate>
-      <description>Dwarkesh Podcast</description>
     </item>
   </channel>
 </rss>
