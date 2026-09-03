@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 02 Sep 2026 20:53:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 04:01:34 +0000</lastBuildDate>
+    <item>
+      <title>Second Quest</title>
+      <link>https://feed.tedium.co/link/15204/17438215/mapquest-unexpected-revival</link>
+      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17438215/mapquest-unexpected-revival</guid>
+      <pubDate>Thu, 03 Sep 2026 03:24:54 +0000</pubDate>
+      <description>Tedium: The Dull Side of the Internet.</description>
+    </item>
+    <item>
+      <title>iOS 27 Introduces New ‘iPhone Handoff’ Feature</title>
+      <link>https://www.macrumors.com/2026/09/02/ios-27-iphone-handoff-feature/</link>
+      <guid isPermaLink="true">https://www.macrumors.com/2026/09/02/ios-27-iphone-handoff-feature/</guid>
+      <pubDate>Wed, 02 Sep 2026 20:58:28 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>llm-gemini 0.34</title>
       <link>https://simonwillison.net/2026/Sep/2/llm-gemini/</link>
@@ -46,6 +60,13 @@
       <guid isPermaLink="true">https://matklad.github.io/2026/09/02/static-allocation-constant-work.html</guid>
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
       <description>matklad</description>
+    </item>
+    <item>
+      <title>VC isn’t VC anymore — understanding the rise of Cancer Capital</title>
+      <link>https://anildash.com/2026/09/02/cancer-capital/</link>
+      <guid isPermaLink="true">https://anildash.com/2026/09/02/cancer-capital/</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Anil Dash</description>
     </item>
     <item>
       <title>Claude Fable 5.1 made me a really nice animated pelican</title>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://www.dwarkesh.com/p/dylan-patel-3</guid>
       <pubDate>Tue, 25 Aug 2026 15:32:57 +0000</pubDate>
       <description>Dwarkesh Podcast</description>
-    </item>
-    <item>
-      <title>Actually good advice</title>
-      <link>https://www.experimental-history.com/p/actually-good-advice</link>
-      <guid isPermaLink="true">https://www.experimental-history.com/p/actually-good-advice</guid>
-      <pubDate>Tue, 25 Aug 2026 14:28:03 +0000</pubDate>
-      <description>Experimental History</description>
-    </item>
-    <item>
-      <title>Why didn’t the Windows Entertainment Pack just run the MS-DOS version inside an emulator?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260825-00/?p=112645</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260825-00/?p=112645</guid>
-      <pubDate>Tue, 25 Aug 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Futurism Is Always Extreme</title>
-      <link>https://borretti.me/article/futurism-is-always-extreme</link>
-      <guid isPermaLink="true">https://borretti.me/article/futurism-is-always-extreme</guid>
-      <pubDate>Tue, 25 Aug 2026 14:00:00 +0000</pubDate>
-      <description>Fernando Borretti</description>
     </item>
   </channel>
 </rss>

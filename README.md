@@ -208,11 +208,11 @@ Last Updated: Thursday, September 3rd, 2026, 10:34:02 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Second Quest](https://feed.tedium.co/link/15204/17438215/mapquest-unexpected-revival) — *Tedium: The Dull Side of the Internet.* `09-03`
+- [iOS 27 Introduces New ‘iPhone Handoff’ Feature](https://www.macrumors.com/2026/09/02/ios-27-iphone-handoff-feature/) — *Daring Fireball* `09-02`
 - [llm-gemini 0.34](https://simonwillison.net/2026/Sep/2/llm-gemini/) — *Simon Willison's Weblog* `09-02`
 - [Claude's new system prompt really doesn't want to reproduce song lyrics](https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/) — *Simon Willison's Weblog* `09-02`
 - [Pluralistic: Unpermissioned research (02 Sep 2026)](https://pluralistic.net/2026/09/02/scrape-scrope-scrap/) — *Pluralistic: Daily links from Cory Doctorow* `09-02`
-- [Quoting Rick Brewster](https://simonwillison.net/2026/Sep/2/rick-brewster/) — *Simon Willison's Weblog* `09-02`
-- [How to protect yourself from workslop](https://seangoedecke.com/how-to-protect-yourself-from-workslop/) — *seangoedecke.com RSS feed* `09-02`
 <!--BLOG_RADAR:end-->
 
 ---
