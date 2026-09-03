@@ -185,20 +185,20 @@ As **Founder & CEO**, I operate **Nebutra Intelligence** as an **AI-Native OPC (
 ### 🕒 **Recent Activity**
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 3rd, 2026, 11:37:56 PM
+Last Updated: Friday, September 4th, 2026, 4:23:15 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-- ⬆️ Pushed updates to [Nebutra/cache](https://github.com/Nebutra/cache)<br>
-- ⬆️ Pushed updates to [Nebutra/ui](https://github.com/Nebutra/ui)<br>
-- ⬆️ Pushed updates to [Nebutra/agents](https://github.com/Nebutra/agents)<br>
-- 💪 Opened PR [#525](undefined) in [Nebutra/Nebutra-Sailor](https://github.com/Nebutra/Nebutra-Sailor)<br>
-- ⬆️ Pushed updates to [Nebutra/Nebutra-Sailor](https://github.com/Nebutra/Nebutra-Sailor)<br>
-- ❌ Closed PR [#521](undefined) in [Nebutra/Nebutra-Sailor](https://github.com/Nebutra/Nebutra-Sailor)<br>
-- ⬆️ Pushed updates to [Nebutra/email](https://github.com/Nebutra/email)<br>
-- ⬆️ Pushed updates to [Nebutra/carina](https://github.com/Nebutra/carina)<br>
-- ⬆️ Pushed updates to [Nebutra/Nebutra-Sailor](https://github.com/Nebutra/Nebutra-Sailor)<br>
+- ⬆️ Pushed updates to [TsekaLuk/specialist-runtime](https://github.com/TsekaLuk/specialist-runtime)<br>
 - ⬆️ Pushed updates to [Nebutra/Sailor-Template](https://github.com/Nebutra/Sailor-Template)<br>
+- ⬆️ Pushed updates to [Nebutra/errors](https://github.com/Nebutra/errors)<br>
+- ⬆️ Pushed updates to [Nebutra/webhooks](https://github.com/Nebutra/webhooks)<br>
+- ⬆️ Pushed updates to [Nebutra/logger](https://github.com/Nebutra/logger)<br>
+- ⬆️ Pushed updates to [Nebutra/errors](https://github.com/Nebutra/errors)<br>
+- ⬆️ Pushed updates to [Nebutra/Nebutra-Sailor](https://github.com/Nebutra/Nebutra-Sailor)<br>
+- ⬆️ Pushed updates to [Nebutra/provider-factory](https://github.com/Nebutra/provider-factory)<br>
+- ⬆️ Pushed updates to [Nebutra/code-execution](https://github.com/Nebutra/code-execution)<br>
+- ⬆️ Pushed updates to [Nebutra/ui](https://github.com/Nebutra/ui)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
