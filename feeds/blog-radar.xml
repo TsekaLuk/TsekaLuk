@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 03 Sep 2026 16:14:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 20:51:57 +0000</lastBuildDate>
+    <item>
+      <title>GPT‑6 Astra</title>
+      <link>https://simonwillison.net/2026/Sep/3/gpt6-astra/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/3/gpt6-astra/</guid>
+      <pubDate>Thu, 03 Sep 2026 20:18:41 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>How Will the 21st Century ROAD to Housing Act Affect Housing Supply? Part III</title>
+      <link>https://www.construction-physics.com/p/how-will-the-21st-century-road-to-21c</link>
+      <guid isPermaLink="true">https://www.construction-physics.com/p/how-will-the-21st-century-road-to-21c</guid>
+      <pubDate>Thu, 03 Sep 2026 19:20:13 +0000</pubDate>
+      <description>Construction Physics</description>
+    </item>
     <item>
       <title>Can We Stop With the Uptime Percentages?</title>
       <link>https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/</link>
@@ -13,11 +27,46 @@
       <description>Jim Nielsen’s Blog</description>
     </item>
     <item>
+      <title>Putting my JAX-trained models on the Hugging Face Hub</title>
+      <link>https://www.gilesthomas.com/2026/09/jax-models-on-hugging-face</link>
+      <guid isPermaLink="true">https://www.gilesthomas.com/2026/09/jax-models-on-hugging-face</guid>
+      <pubDate>Thu, 03 Sep 2026 18:00:00 +0000</pubDate>
+      <description>Giles' blog</description>
+    </item>
+    <item>
+      <title>New RSA number factored</title>
+      <link>https://www.johndcook.com/blog/2026/09/03/new-rsa-number-factored/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/09/03/new-rsa-number-factored/</guid>
+      <pubDate>Thu, 03 Sep 2026 17:21:45 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Phil Schiller Steps Down From Running App Store and Product Events</title>
+      <link>https://www.bloomberg.com/news/articles/2026-08-31/apple-s-phil-schiller-steps-down-from-running-app-store-and-product-events?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODE5Mzk5NywiZXhwIjoxNzg4Nzk4Nzk3LCJhcnRpY2xlSWQiOiJUS0VDTE1LSkg2VjQwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.G1fAbZQH31AQBLUajPYPUJ7BqRyeIUN7SbxQZFAqMXE</link>
+      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-08-31/apple-s-phil-schiller-steps-down-from-running-app-store-and-product-events?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODE5Mzk5NywiZXhwIjoxNzg4Nzk4Nzk3LCJhcnRpY2xlSWQiOiJUS0VDTE1LSkg2VjQwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.G1fAbZQH31AQBLUajPYPUJ7BqRyeIUN7SbxQZFAqMXE</guid>
+      <pubDate>Thu, 03 Sep 2026 16:39:09 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>MapQuest Refuses to Relabel Lake Ontario, Rewarded With Surge in Popularity</title>
+      <link>https://thehill.com/homenews/administration/6063924-mapquest-tops-apple-google-maps-in-downloads-after-refusing-trumps-lake-america-change/?ref=ihnatko.com</link>
+      <guid isPermaLink="true">https://thehill.com/homenews/administration/6063924-mapquest-tops-apple-google-maps-in-downloads-after-refusing-trumps-lake-america-change/?ref=ihnatko.com</guid>
+      <pubDate>Thu, 03 Sep 2026 16:30:09 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
       <title>You Should be Using Rootless Containers</title>
       <link>https://blog.miguelgrinberg.com/post/you-should-be-using-rootless-containers</link>
       <guid isPermaLink="true">https://blog.miguelgrinberg.com/post/you-should-be-using-rootless-containers</guid>
       <pubDate>Thu, 03 Sep 2026 14:59:54 +0000</pubDate>
       <description>Miguel Grinberg's Blog</description>
+    </item>
+    <item>
+      <title>A reasonably practical guide to validating RFC 9421 HTTP Signatures for ActivityPub in PHP</title>
+      <link>https://shkspr.mobi/blog/2026/09/a-reasonably-practical-guide-to-validating-rfc-9421-http-signatures-for-activitypub-in-php/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/09/a-reasonably-practical-guide-to-validating-rfc-9421-http-signatures-for-activitypub-in-php/</guid>
+      <pubDate>Thu, 03 Sep 2026 11:34:12 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>De nieuwe AIVD/MIVD wet: een eerste overzicht</title>
@@ -209,6 +258,13 @@
       <description>The Old New Thing</description>
     </item>
     <item>
+      <title>Book Review: ActivityPub by Evan Prodromou ★★★★⯪</title>
+      <link>https://shkspr.mobi/blog/2026/09/book-review-activitypub-by-evan-prodromou/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/09/book-review-activitypub-by-evan-prodromou/</guid>
+      <pubDate>Tue, 01 Sep 2026 11:34:18 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>Git Submodules as a Package Manager</title>
       <link>https://nesbitt.io/2026/09/01/git-submodules-as-a-package-manager.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/09/01/git-submodules-as-a-package-manager.html</guid>
@@ -272,11 +328,25 @@
       <description>The Old New Thing</description>
     </item>
     <item>
+      <title>Review: Ruined Theatre's A Midsummer Night's Dream ★★★★☆</title>
+      <link>https://shkspr.mobi/blog/2026/08/review-ruined-theatres-a-midsummer-nights-dream/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/review-ruined-theatres-a-midsummer-nights-dream/</guid>
+      <pubDate>Mon, 31 Aug 2026 11:34:08 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>Here's a good way to present AI videos</title>
       <link>https://idiallo.com/blog/a-good-way-to-present-ai-videos-on-youtube</link>
       <guid isPermaLink="true">https://idiallo.com/blog/a-good-way-to-present-ai-videos-on-youtube</guid>
       <pubDate>Mon, 31 Aug 2026 07:30:00 +0000</pubDate>
       <description>Software and Tech stories from an Insider - iDiallo.com</description>
+    </item>
+    <item>
+      <title>Notes from August 2026</title>
+      <link>https://evanhahn.com/notes-from-august-2026/</link>
+      <guid isPermaLink="true">https://evanhahn.com/notes-from-august-2026/</guid>
+      <pubDate>Mon, 31 Aug 2026 06:00:00 +0000</pubDate>
+      <description>Evan Hahn (dot com)</description>
     </item>
     <item>
       <title>Cancelation Terminology</title>
@@ -342,6 +412,13 @@
       <description>Fernando Borretti</description>
     </item>
     <item>
+      <title>ActivityBot is the recipient of an NLnet grant!</title>
+      <link>https://shkspr.mobi/blog/2026/08/activitybot-is-the-recipient-of-an-nlnet-grant/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/activitybot-is-the-recipient-of-an-nlnet-grant/</guid>
+      <pubDate>Sun, 30 Aug 2026 11:34:55 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>New Pebble Weather App + Software Updates</title>
       <link>https://repebble.com/blog/new-pebble-weather-app-software-updates</link>
       <guid isPermaLink="true">https://repebble.com/blog/new-pebble-weather-app-software-updates</guid>
@@ -389,6 +466,13 @@
       <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-082926</guid>
       <pubDate>Sat, 29 Aug 2026 12:03:07 +0000</pubDate>
       <description>Construction Physics</description>
+    </item>
+    <item>
+      <title>A simple "copy this code" button in JavaScript</title>
+      <link>https://shkspr.mobi/blog/2026/08/a-simple-copy-this-code-button-in-javascript/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/a-simple-copy-this-code-button-in-javascript/</guid>
+      <pubDate>Sat, 29 Aug 2026 11:34:49 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>This Week in Package Management: 29 August 2026</title>
@@ -454,6 +538,13 @@
       <description>Daring Fireball</description>
     </item>
     <item>
+      <title>This Week on The Analog Antiquarian</title>
+      <link>https://www.filfre.net/2026/08/this-week-on-the-analog-antiquarian/</link>
+      <guid isPermaLink="true">https://www.filfre.net/2026/08/this-week-on-the-analog-antiquarian/</guid>
+      <pubDate>Fri, 28 Aug 2026 16:14:15 +0000</pubDate>
+      <description>The Digital Antiquarian</description>
+    </item>
+    <item>
       <title>Premium: The Hater's Guide To Circular Financing (Part One)</title>
       <link>https://www.wheresyoured.at/premium-the-haters-guide-to-circular-financing-part-one/</link>
       <guid isPermaLink="true">https://www.wheresyoured.at/premium-the-haters-guide-to-circular-financing-part-one/</guid>
@@ -501,6 +592,13 @@
       <guid isPermaLink="true">https://matduggan.com/you-know-gdpr-is-good-based-on-who-hates-it/</guid>
       <pubDate>Fri, 28 Aug 2026 12:02:22 +0000</pubDate>
       <description>matduggan.com</description>
+    </item>
+    <item>
+      <title>"iT woRKs BeTter in THe aPp!!"</title>
+      <link>https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/</guid>
+      <pubDate>Fri, 28 Aug 2026 11:34:46 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Now Hiring: Senior Open Source Maintainer</title>
@@ -622,6 +720,13 @@
       <description>Construction Physics</description>
     </item>
     <item>
+      <title>Book Review: The Infinite Sadness of Small Appliances by Glenn Dixon ★★★★☆</title>
+      <link>https://shkspr.mobi/blog/2026/08/book-review-the-infinite-sadness-of-small-appliances-by-glenn-dixon/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/book-review-the-infinite-sadness-of-small-appliances-by-glenn-dixon/</guid>
+      <pubDate>Thu, 27 Aug 2026 11:34:48 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>Two Alleged ‘TeamPCP’ Hackers Arrested in Australia</title>
       <link>https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/</link>
       <guid isPermaLink="true">https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/</guid>
@@ -655,6 +760,13 @@
       <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-41992/</guid>
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>simple is not small</title>
+      <link>https://jyn.dev/simple-is-not-the-same-as-small/</link>
+      <guid isPermaLink="true">https://jyn.dev/simple-is-not-the-same-as-small/</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <description>the website of jyn</description>
     </item>
     <item>
       <title>Qwen3.8-Flash-Next</title>
@@ -706,6 +818,13 @@
       <description>John D. Cook</description>
     </item>
     <item>
+      <title>Gadget Review: Thermal Master P3 Macro Lens ★★★★⯪</title>
+      <link>https://shkspr.mobi/blog/2026/08/gadget-review-thermal-master-p3-macro-lens/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/gadget-review-thermal-master-p3-macro-lens/</guid>
+      <pubDate>Wed, 26 Aug 2026 11:34:52 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>Ultraspherical</title>
       <link>https://www.johndcook.com/blog/2026/08/26/ultraspherical/</link>
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/26/ultraspherical/</guid>
@@ -725,125 +844,6 @@
       <guid isPermaLink="true">https://pluralistic.net/2026/08/25/gammamax/</guid>
       <pubDate>Wed, 26 Aug 2026 03:21:38 +0000</pubDate>
       <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>If your VS Code remotes stopped working, downgrade to v1.124.x</title>
-      <link>https://xeiaso.net/notes/2026/vscode-remotes-not-working-downgrade/</link>
-      <guid isPermaLink="true">https://xeiaso.net/notes/2026/vscode-remotes-not-working-downgrade/</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
-      <title>How to make VS Code go back to the old UI</title>
-      <link>https://xeiaso.net/notes/2026/vscode-ui-revert/</link>
-      <guid isPermaLink="true">https://xeiaso.net/notes/2026/vscode-ui-revert/</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
-      <title>Adding diagrams to my static site generator with D2</title>
-      <link>https://www.gilesthomas.com/2026/08/adding-d2</link>
-      <guid isPermaLink="true">https://www.gilesthomas.com/2026/08/adding-d2</guid>
-      <pubDate>Tue, 25 Aug 2026 23:00:00 +0000</pubDate>
-      <description>Giles' blog</description>
-    </item>
-    <item>
-      <title>EVE Online: The Move to Python 3 Begins!</title>
-      <link>https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/</guid>
-      <pubDate>Tue, 25 Aug 2026 22:59:30 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>XCancel, the Twitter/X Mirror, Shuts Down After Cease and Desist From the Fine Folks at X Corp</title>
-      <link>https://xcancel.com/</link>
-      <guid isPermaLink="true">https://xcancel.com/</guid>
-      <pubDate>Tue, 25 Aug 2026 22:44:18 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Dolly Parton Dies at 80</title>
-      <link>https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-dead.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-dead.html</guid>
-      <pubDate>Tue, 25 Aug 2026 22:39:12 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Update Regarding the Base Prices of the M5 Max Mac Studio</title>
-      <link>https://daringfireball.net/2026/08/configurations_and_pricing_for_new_mac_minis_and_mac_studios</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/08/configurations_and_pricing_for_new_mac_minis_and_mac_studios</guid>
-      <pubDate>Tue, 25 Aug 2026 22:17:40 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>A Cautionary Tale About Data Breach Claims, Verification and Carhartt</title>
-      <link>https://www.troyhunt.com/a-cautionary-tale-about-data-breach-claims-verification-and-carhartt/</link>
-      <guid isPermaLink="true">https://www.troyhunt.com/a-cautionary-tale-about-data-breach-claims-verification-and-carhartt/</guid>
-      <pubDate>Tue, 25 Aug 2026 21:51:08 +0000</pubDate>
-      <description>Troy Hunt</description>
-    </item>
-    <item>
-      <title>Debugging Ubiquiti's 5G Backup on AT&amp;T</title>
-      <link>https://www.jeffgeerling.com/blog/2026/unifi-u5g-backup-debugging/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/unifi-u5g-backup-debugging/</guid>
-      <pubDate>Tue, 25 Aug 2026 19:18:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
-      <title>Have You Heard the Good News About Microlighter?</title>
-      <link>https://blog.jim-nielsen.com/2026/shipping-microlighter/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/shipping-microlighter/</guid>
-      <pubDate>Tue, 25 Aug 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
-      <title>The AI Hater's Manifesto</title>
-      <link>https://www.wheresyoured.at/the-ai-haters-manifesto/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/the-ai-haters-manifesto/</guid>
-      <pubDate>Tue, 25 Aug 2026 16:57:38 +0000</pubDate>
-      <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>Footnote Regarding the GDPR and Cookie Permission Prompts</title>
-      <link>https://daringfireball.net/2026/08/what_is_the_point_of_the_dma#fn1-2026-08-24</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/08/what_is_the_point_of_the_dma#fn1-2026-08-24</guid>
-      <pubDate>Tue, 25 Aug 2026 15:46:27 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Dylan Patel – Anthropic &amp; OpenAI will have most of the world’s compute by 2028</title>
-      <link>https://www.dwarkesh.com/p/dylan-patel-3</link>
-      <guid isPermaLink="true">https://www.dwarkesh.com/p/dylan-patel-3</guid>
-      <pubDate>Tue, 25 Aug 2026 15:32:57 +0000</pubDate>
-      <description>Dwarkesh Podcast</description>
-    </item>
-    <item>
-      <title>Actually good advice</title>
-      <link>https://www.experimental-history.com/p/actually-good-advice</link>
-      <guid isPermaLink="true">https://www.experimental-history.com/p/actually-good-advice</guid>
-      <pubDate>Tue, 25 Aug 2026 14:28:03 +0000</pubDate>
-      <description>Experimental History</description>
-    </item>
-    <item>
-      <title>Why didn’t the Windows Entertainment Pack just run the MS-DOS version inside an emulator?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260825-00/?p=112645</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260825-00/?p=112645</guid>
-      <pubDate>Tue, 25 Aug 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Futurism Is Always Extreme</title>
-      <link>https://borretti.me/article/futurism-is-always-extreme</link>
-      <guid isPermaLink="true">https://borretti.me/article/futurism-is-always-extreme</guid>
-      <pubDate>Tue, 25 Aug 2026 14:00:00 +0000</pubDate>
-      <description>Fernando Borretti</description>
-    </item>
-    <item>
-      <title>Forgejo hack #1: How to set a starting issue and pull request number</title>
-      <link>https://blog.miguelgrinberg.com/post/forgejo-hack-how-to-set-a-starting-issue-and-pull-request-number</link>
-      <guid isPermaLink="true">https://blog.miguelgrinberg.com/post/forgejo-hack-how-to-set-a-starting-issue-and-pull-request-number</guid>
-      <pubDate>Tue, 25 Aug 2026 13:38:15 +0000</pubDate>
-      <description>Miguel Grinberg's Blog</description>
     </item>
   </channel>
 </rss>
