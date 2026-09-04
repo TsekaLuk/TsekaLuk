@@ -208,11 +208,11 @@ Last Updated: Friday, September 4th, 2026, 11:36:20 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Porsche Unleashed](https://www.filfre.net/2026/09/porsche-unleashed/) — *The Digital Antiquarian* `09-04`
+- [Computing a lower bound on matrix rank](https://www.johndcook.com/blog/2026/09/04/stable-rank/) — *John D. Cook* `09-04`
+- [Rebuilding a 1995 GPS Time Server so I don't get Telstra'd](https://www.jeffgeerling.com/blog/2026/truetime-xl-gps-time-server-restomod/) — *Jeff Geerling* `09-04`
 - [Pluralistic: Amazon achieves enshittification inception (04 Sep 2026)](https://pluralistic.net/2026/09/04/cheating-at-fraud/) — *Pluralistic: Daily links from Cory Doctorow* `09-04`
-- [August newsletter is out](https://simonwillison.net/2026/Sep/4/august-newsletter/) — *Simon Willison's Weblog* `09-04`
-- [OpenAI Soft-Releases GPT‑6 Astra](https://simonwillison.net/2026/Sep/3/gpt6-astra/) — *Daring Fireball* `09-04`
-- [Radical responsibility means treating people like tools](https://seangoedecke.com/radical-responsibility-means-treating-people-like-tools/) — *seangoedecke.com RSS feed* `09-04`
-- [Hugging Face Easter Egg](https://www.johndcook.com/blog/2026/09/03/hugging-face-easter-egg/) — *John D. Cook* `09-03`
+- [How much should you trust your OSS data?](https://nesbitt.io/2026/09/04/how-much-should-you-trust-your-oss-data.html) — *Andrew Nesbitt* `09-04`
 <!--BLOG_RADAR:end-->
 
 ---

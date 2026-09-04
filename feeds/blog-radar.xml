@@ -4,13 +4,41 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 04 Sep 2026 11:01:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 16:09:23 +0000</lastBuildDate>
+    <item>
+      <title>Porsche Unleashed</title>
+      <link>https://www.filfre.net/2026/09/porsche-unleashed/</link>
+      <guid isPermaLink="true">https://www.filfre.net/2026/09/porsche-unleashed/</guid>
+      <pubDate>Fri, 04 Sep 2026 15:55:22 +0000</pubDate>
+      <description>The Digital Antiquarian</description>
+    </item>
+    <item>
+      <title>Computing a lower bound on matrix rank</title>
+      <link>https://www.johndcook.com/blog/2026/09/04/stable-rank/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/09/04/stable-rank/</guid>
+      <pubDate>Fri, 04 Sep 2026 14:16:16 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Rebuilding a 1995 GPS Time Server so I don't get Telstra'd</title>
+      <link>https://www.jeffgeerling.com/blog/2026/truetime-xl-gps-time-server-restomod/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/truetime-xl-gps-time-server-restomod/</guid>
+      <pubDate>Fri, 04 Sep 2026 14:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
+    </item>
     <item>
       <title>Pluralistic: Amazon achieves enshittification inception (04 Sep 2026)</title>
       <link>https://pluralistic.net/2026/09/04/cheating-at-fraud/</link>
       <guid isPermaLink="true">https://pluralistic.net/2026/09/04/cheating-at-fraud/</guid>
       <pubDate>Fri, 04 Sep 2026 09:41:25 +0000</pubDate>
       <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>How much should you trust your OSS data?</title>
+      <link>https://nesbitt.io/2026/09/04/how-much-should-you-trust-your-oss-data.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/09/04/how-much-should-you-trust-your-oss-data.html</guid>
+      <pubDate>Fri, 04 Sep 2026 09:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
     </item>
     <item>
       <title>August newsletter is out</title>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://en.wikipedia.org/wiki/The_purpose_of_a_system_is_what_it_does</guid>
       <pubDate>Wed, 26 Aug 2026 20:18:04 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Apple’s Polishing Cloth Is Now Just $9</title>
-      <link>https://9to5mac.com/2026/08/25/apple-releases-new-polishing-cloth-for-9/</link>
-      <guid isPermaLink="true">https://9to5mac.com/2026/08/25/apple-releases-new-polishing-cloth-for-9/</guid>
-      <pubDate>Wed, 26 Aug 2026 19:18:40 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>‘Surprise and Shine’ Apple Event: Wednesday 9 September</title>
-      <link>https://9to5mac.com/2026/08/26/apple-officially-announces-iphone-18-pro-foldable-event/</link>
-      <guid isPermaLink="true">https://9to5mac.com/2026/08/26/apple-officially-announces-iphone-18-pro-foldable-event/</guid>
-      <pubDate>Wed, 26 Aug 2026 19:16:34 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>What is the quality of software that AI writes?</title>
-      <link>https://www.johndcook.com/blog/2026/08/26/what-is-the-quality-of-software-that-ai-writes/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/26/what-is-the-quality-of-software-that-ai-writes/</guid>
-      <pubDate>Wed, 26 Aug 2026 18:51:13 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>In the product end game, every change carries significant risk, episode 2</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260826-00/?p=112649</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260826-00/?p=112649</guid>
-      <pubDate>Wed, 26 Aug 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
     </item>
   </channel>
 </rss>
