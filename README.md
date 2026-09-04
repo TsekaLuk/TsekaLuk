@@ -208,11 +208,11 @@ Last Updated: Friday, September 4th, 2026, 10:29:51 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [GPT‑6 Astra](https://simonwillison.net/2026/Sep/3/gpt6-astra/) — *Simon Willison's Weblog* `09-03`
+- [OpenAI Soft-Releases GPT‑6 Astra](https://simonwillison.net/2026/Sep/3/gpt6-astra/) — *Daring Fireball* `09-04`
+- [Hugging Face Easter Egg](https://www.johndcook.com/blog/2026/09/03/hugging-face-easter-egg/) — *John D. Cook* `09-03`
 - [How Will the 21st Century ROAD to Housing Act Affect Housing Supply? Part III](https://www.construction-physics.com/p/how-will-the-21st-century-road-to-21c) — *Construction Physics* `09-03`
 - [Can We Stop With the Uptime Percentages?](https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/) — *Jim Nielsen’s Blog* `09-03`
 - [Putting my JAX-trained models on the Hugging Face Hub](https://www.gilesthomas.com/2026/09/jax-models-on-hugging-face) — *Giles' blog* `09-03`
-- [New RSA number factored](https://www.johndcook.com/blog/2026/09/03/new-rsa-number-factored/) — *John D. Cook* `09-03`
 <!--BLOG_RADAR:end-->
 
 ---

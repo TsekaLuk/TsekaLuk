@@ -4,13 +4,20 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 03 Sep 2026 20:51:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 04:04:46 +0000</lastBuildDate>
     <item>
-      <title>GPT‑6 Astra</title>
+      <title>OpenAI Soft-Releases GPT‑6 Astra</title>
       <link>https://simonwillison.net/2026/Sep/3/gpt6-astra/</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Sep/3/gpt6-astra/</guid>
-      <pubDate>Thu, 03 Sep 2026 20:18:41 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
+      <pubDate>Fri, 04 Sep 2026 01:35:24 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Hugging Face Easter Egg</title>
+      <link>https://www.johndcook.com/blog/2026/09/03/hugging-face-easter-egg/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/09/03/hugging-face-easter-egg/</guid>
+      <pubDate>Thu, 03 Sep 2026 23:34:41 +0000</pubDate>
+      <description>John D. Cook</description>
     </item>
     <item>
       <title>How Will the 21st Century ROAD to Housing Act Affect Housing Supply? Part III</title>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Aug/26/paul-dix/</guid>
       <pubDate>Wed, 26 Aug 2026 08:07:55 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Pluralistic: The age of disinvention (25 Aug 2026)</title>
-      <link>https://pluralistic.net/2026/08/25/gammamax/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/08/25/gammamax/</guid>
-      <pubDate>Wed, 26 Aug 2026 03:21:38 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
     </item>
   </channel>
 </rss>
