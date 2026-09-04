@@ -4,13 +4,34 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 04 Sep 2026 04:04:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 11:01:19 +0000</lastBuildDate>
+    <item>
+      <title>Pluralistic: Amazon achieves enshittification inception (04 Sep 2026)</title>
+      <link>https://pluralistic.net/2026/09/04/cheating-at-fraud/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/09/04/cheating-at-fraud/</guid>
+      <pubDate>Fri, 04 Sep 2026 09:41:25 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>August newsletter is out</title>
+      <link>https://simonwillison.net/2026/Sep/4/august-newsletter/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/4/august-newsletter/</guid>
+      <pubDate>Fri, 04 Sep 2026 05:54:40 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>OpenAI Soft-Releases GPT‑6 Astra</title>
       <link>https://simonwillison.net/2026/Sep/3/gpt6-astra/</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Sep/3/gpt6-astra/</guid>
       <pubDate>Fri, 04 Sep 2026 01:35:24 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Radical responsibility means treating people like tools</title>
+      <link>https://seangoedecke.com/radical-responsibility-means-treating-people-like-tools/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/radical-responsibility-means-treating-people-like-tools/</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>Hugging Face Easter Egg</title>
@@ -67,6 +88,13 @@
       <guid isPermaLink="true">https://blog.miguelgrinberg.com/post/you-should-be-using-rootless-containers</guid>
       <pubDate>Thu, 03 Sep 2026 14:59:54 +0000</pubDate>
       <description>Miguel Grinberg's Blog</description>
+    </item>
+    <item>
+      <title>The case of the progress callback that never got called when progress happened</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260903-00/?p=112672</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260903-00/?p=112672</guid>
+      <pubDate>Thu, 03 Sep 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>A reasonably practical guide to validating RFC 9421 HTTP Signatures for ActivityPub in PHP</title>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260826-00/?p=112649</guid>
       <pubDate>Wed, 26 Aug 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Junk solutions</title>
-      <link>https://www.johndcook.com/blog/2026/08/26/junk-solutions/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/26/junk-solutions/</guid>
-      <pubDate>Wed, 26 Aug 2026 12:16:17 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Gadget Review: Thermal Master P3 Macro Lens ★★★★⯪</title>
-      <link>https://shkspr.mobi/blog/2026/08/gadget-review-thermal-master-p3-macro-lens/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/gadget-review-thermal-master-p3-macro-lens/</guid>
-      <pubDate>Wed, 26 Aug 2026 11:34:52 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Ultraspherical</title>
-      <link>https://www.johndcook.com/blog/2026/08/26/ultraspherical/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/26/ultraspherical/</guid>
-      <pubDate>Wed, 26 Aug 2026 10:51:32 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Quoting Paul Dix</title>
-      <link>https://simonwillison.net/2026/Aug/26/paul-dix/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/26/paul-dix/</guid>
-      <pubDate>Wed, 26 Aug 2026 08:07:55 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
