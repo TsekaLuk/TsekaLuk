@@ -208,11 +208,11 @@ Last Updated: Saturday, September 5th, 2026, 4:09:17 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Porsche Unleashed](https://www.filfre.net/2026/09/porsche-unleashed/) — *The Digital Antiquarian* `09-04`
-- [Computing a lower bound on matrix rank](https://www.johndcook.com/blog/2026/09/04/stable-rank/) — *John D. Cook* `09-04`
-- [Rebuilding a 1995 GPS Time Server so I don't get Telstra'd](https://www.jeffgeerling.com/blog/2026/truetime-xl-gps-time-server-restomod/) — *Jeff Geerling* `09-04`
-- [Pluralistic: Amazon achieves enshittification inception (04 Sep 2026)](https://pluralistic.net/2026/09/04/cheating-at-fraud/) — *Pluralistic: Daily links from Cory Doctorow* `09-04`
-- [How much should you trust your OSS data?](https://nesbitt.io/2026/09/04/how-much-should-you-trust-your-oss-data.html) — *Andrew Nesbitt* `09-04`
+- [Apple Fixed ‎TestFlight’s Screwy Sort Order, I Think](https://apps.apple.com/us/app/testflight/id899247664) — *Daring Fireball* `09-04`
+- [Vinted](https://www.vinted.com/) — *Daring Fireball* `09-04`
+- [★ Writing With Unnatural Constraints](https://daringfireball.net/2026/09/writing_with_unnatural_constraints) — *Daring Fireball* `09-04`
+- [OpenAI's rogue agents were caught communicating via public wikis](https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/) — *Simon Willison's Weblog* `09-04`
+- [Premium: The Hater's Guide To Circular Financing (Part Two)](https://www.wheresyoured.at/premium-the-haters-guide-to-circular-financing-part-two/) — *Ed Zitron's Where's Your Ed At* `09-04`
 <!--BLOG_RADAR:end-->
 
 ---

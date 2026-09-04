@@ -4,7 +4,49 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 04 Sep 2026 16:09:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 20:38:29 +0000</lastBuildDate>
+    <item>
+      <title>Apple Fixed ‎TestFlight’s Screwy Sort Order, I Think</title>
+      <link>https://apps.apple.com/us/app/testflight/id899247664</link>
+      <guid isPermaLink="true">https://apps.apple.com/us/app/testflight/id899247664</guid>
+      <pubDate>Fri, 04 Sep 2026 20:04:47 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Vinted</title>
+      <link>https://www.vinted.com/</link>
+      <guid isPermaLink="true">https://www.vinted.com/</guid>
+      <pubDate>Fri, 04 Sep 2026 19:55:45 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>★ Writing With Unnatural Constraints</title>
+      <link>https://daringfireball.net/2026/09/writing_with_unnatural_constraints</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/09/writing_with_unnatural_constraints</guid>
+      <pubDate>Fri, 04 Sep 2026 18:07:18 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>OpenAI's rogue agents were caught communicating via public wikis</title>
+      <link>https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/</guid>
+      <pubDate>Fri, 04 Sep 2026 17:38:48 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Premium: The Hater's Guide To Circular Financing (Part Two)</title>
+      <link>https://www.wheresyoured.at/premium-the-haters-guide-to-circular-financing-part-two/</link>
+      <guid isPermaLink="true">https://www.wheresyoured.at/premium-the-haters-guide-to-circular-financing-part-two/</guid>
+      <pubDate>Fri, 04 Sep 2026 16:24:26 +0000</pubDate>
+      <description>Ed Zitron's Where's Your Ed At</description>
+    </item>
+    <item>
+      <title>FBI Probes Service Selling 153M+ Drivers Licenses</title>
+      <link>https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/</link>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/</guid>
+      <pubDate>Fri, 04 Sep 2026 16:15:43 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Porsche Unleashed</title>
       <link>https://www.filfre.net/2026/09/porsche-unleashed/</link>
@@ -60,6 +102,20 @@
       <guid isPermaLink="true">https://seangoedecke.com/radical-responsibility-means-treating-people-like-tools/</guid>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Support Local Variables</title>
+      <link>https://bernsteinbear.com/blog/support-local-variables/?utm_source=rss</link>
+      <guid isPermaLink="true">https://bernsteinbear.com/blog/support-local-variables/?utm_source=rss</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Max Bernstein's Blog</description>
+    </item>
+    <item>
+      <title>Cancer Capital: VC didn’t use to work like this</title>
+      <link>https://anildash.com/2026/09/04/vc-didnt-use-to-work-like-this/</link>
+      <guid isPermaLink="true">https://anildash.com/2026/09/04/vc-didnt-use-to-work-like-this/</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Anil Dash</description>
     </item>
     <item>
       <title>Hugging Face Easter Egg</title>
@@ -221,13 +277,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Sep/1/claude-fable-5-1/</guid>
       <pubDate>Tue, 01 Sep 2026 23:57:28 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>FBI Probes Service Selling 153M+ Drivers Licenses</title>
-      <link>https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/</link>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/</guid>
-      <pubDate>Tue, 01 Sep 2026 22:40:28 +0000</pubDate>
-      <description>Krebs on Security</description>
     </item>
     <item>
       <title>Weekly Update 519: Breaches &amp; Data Integrity</title>
@@ -795,55 +844,6 @@
       <guid isPermaLink="true">https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/</guid>
       <pubDate>Thu, 27 Aug 2026 11:04:15 +0000</pubDate>
       <description>Krebs on Security</description>
-    </item>
-    <item>
-      <title>Nieuwe wet Inlichtingen- en veiligheidsdiensten: wat mogen ze nu al en waar zijn ze voor</title>
-      <link>https://berthub.eu/articles/posts/geheime-veiligheids-en-inlichtingendiensten/</link>
-      <guid isPermaLink="true">https://berthub.eu/articles/posts/geheime-veiligheids-en-inlichtingendiensten/</guid>
-      <pubDate>Thu, 27 Aug 2026 10:20:00 +0000</pubDate>
-      <description>Bert Hubert's writings</description>
-    </item>
-    <item>
-      <title>Bazel Module Versions Aren’t SemVer</title>
-      <link>https://nesbitt.io/2026/08/27/bazel-module-versions-arent-semver.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/08/27/bazel-module-versions-arent-semver.html</guid>
-      <pubDate>Thu, 27 Aug 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Can Self-Hosting Be Simple?</title>
-      <link>https://feed.tedium.co/link/15204/17432610/self-hosting-third-place-strategy</link>
-      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17432610/self-hosting-third-place-strategy</guid>
-      <pubDate>Thu, 27 Aug 2026 03:11:28 +0000</pubDate>
-      <description>Tedium: The Dull Side of the Internet.</description>
-    </item>
-    <item>
-      <title>"No way to prevent this" say users of only language where this regularly happens</title>
-      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-41992/</link>
-      <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-41992/</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
-      <title>simple is not small</title>
-      <link>https://jyn.dev/simple-is-not-the-same-as-small/</link>
-      <guid isPermaLink="true">https://jyn.dev/simple-is-not-the-same-as-small/</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <description>the website of jyn</description>
-    </item>
-    <item>
-      <title>Qwen3.8-Flash-Next</title>
-      <link>https://simonwillison.net/2026/Aug/26/qwen38-flash-next/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/26/qwen38-flash-next/</guid>
-      <pubDate>Wed, 26 Aug 2026 23:52:58 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>POSIWID: The Purpose of a System Is What It Does</title>
-      <link>https://en.wikipedia.org/wiki/The_purpose_of_a_system_is_what_it_does</link>
-      <guid isPermaLink="true">https://en.wikipedia.org/wiki/The_purpose_of_a_system_is_what_it_does</guid>
-      <pubDate>Wed, 26 Aug 2026 20:18:04 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
