@@ -208,11 +208,11 @@ Last Updated: Sunday, September 6th, 2026, 3:48:21 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Gloria Steinem’s Final Essay](https://www.newyorker.com/culture/life-and-letters/gloria-steinems-final-essay?cndid=66114350) — *Daring Fireball* `09-05`
+- [Proof of the rank-trace theorem](https://www.johndcook.com/blog/2026/09/05/proof-of-the-rank-trace-theorem/) — *John D. Cook* `09-05`
+- [‘Bob and Van’](https://marco.org/2026/09/04/bob-and-van) — *Daring Fireball* `09-05`
+- [Using Blender with coding agents on macOS](https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/) — *Simon Willison's Weblog* `09-05`
 - [Reading List - 09/05/2026](https://www.construction-physics.com/p/reading-list-09052026) — *Construction Physics* `09-05`
-- [Book Review: The Passing of the Dragon and Other Stories by Ken Liu ★★★★☆](https://shkspr.mobi/blog/2026/09/book-review-the-passing-of-the-dragon-and-other-stories-by-ken-liu/) — *Terence Eden’s Blog* `09-05`
-- [This Week in Package Management: 5 September 2026](https://nesbitt.io/2026/09/05/this-week-in-package-management.html) — *Andrew Nesbitt* `09-05`
-- [Pluralistic: Google skates (05 Sep 2026)](https://pluralistic.net/2026/09/05/divorce-court/) — *Pluralistic: Daily links from Cory Doctorow* `09-05`
-- [Adobe Names Anil Chakravarthy as CEO, Replacing Shantanu Narayen](https://www.cnbc.com/2026/09/03/adobe-anil-chakravarthy-ceo.html) — *Daring Fireball* `09-05`
 <!--BLOG_RADAR:end-->
 
 ---

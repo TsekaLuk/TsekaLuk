@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 05 Sep 2026 14:58:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 20:12:22 +0000</lastBuildDate>
+    <item>
+      <title>Gloria Steinem’s Final Essay</title>
+      <link>https://www.newyorker.com/culture/life-and-letters/gloria-steinems-final-essay?cndid=66114350</link>
+      <guid isPermaLink="true">https://www.newyorker.com/culture/life-and-letters/gloria-steinems-final-essay?cndid=66114350</guid>
+      <pubDate>Sat, 05 Sep 2026 19:42:43 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Proof of the rank-trace theorem</title>
+      <link>https://www.johndcook.com/blog/2026/09/05/proof-of-the-rank-trace-theorem/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/09/05/proof-of-the-rank-trace-theorem/</guid>
+      <pubDate>Sat, 05 Sep 2026 17:04:13 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>‘Bob and Van’</title>
+      <link>https://marco.org/2026/09/04/bob-and-van</link>
+      <guid isPermaLink="true">https://marco.org/2026/09/04/bob-and-van</guid>
+      <pubDate>Sat, 05 Sep 2026 16:08:24 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Using Blender with coding agents on macOS</title>
+      <link>https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/</guid>
+      <pubDate>Sat, 05 Sep 2026 15:51:09 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Reading List - 09/05/2026</title>
       <link>https://www.construction-physics.com/p/reading-list-09052026</link>
@@ -167,18 +195,18 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>Cancer Capital: VC didn’t use to work like this</title>
-      <link>https://anildash.com/2026/09/04/vc-didnt-use-to-work-like-this/</link>
-      <guid isPermaLink="true">https://anildash.com/2026/09/04/vc-didnt-use-to-work-like-this/</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Anil Dash</description>
-    </item>
-    <item>
       <title>Support Local Variables</title>
       <link>https://bernsteinbear.com/blog/support-local-variables/?utm_source=rss</link>
       <guid isPermaLink="true">https://bernsteinbear.com/blog/support-local-variables/?utm_source=rss</guid>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
       <description>Max Bernstein's Blog</description>
+    </item>
+    <item>
+      <title>Cancer Capital: VC didn’t use to work like this</title>
+      <link>https://anildash.com/2026/09/04/vc-didnt-use-to-work-like-this/</link>
+      <guid isPermaLink="true">https://anildash.com/2026/09/04/vc-didnt-use-to-work-like-this/</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Anil Dash</description>
     </item>
     <item>
       <title>we have a year to fix security everywhere</title>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/</guid>
       <pubDate>Thu, 27 Aug 2026 22:50:25 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Afterglow — Classic After Dark Screen Savers on Today’s MacOS</title>
-      <link>https://morphing.cloud/afterglow/</link>
-      <guid isPermaLink="true">https://morphing.cloud/afterglow/</guid>
-      <pubDate>Thu, 27 Aug 2026 21:49:50 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The Load-Bearing Vocabulary of Claude</title>
-      <link>https://louisabraham.github.io/load-bearing/</link>
-      <guid isPermaLink="true">https://louisabraham.github.io/load-bearing/</guid>
-      <pubDate>Thu, 27 Aug 2026 21:09:42 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Elizabeth Warren’s Incoherent Outrage Regarding Apple’s Tariff Refund</title>
-      <link>https://www.warren.senate.gov/newsroom/press-releases/warren-pushes-giant-corporations-to-give-billions-in-tariff-refunds-back-to-consumers/</link>
-      <guid isPermaLink="true">https://www.warren.senate.gov/newsroom/press-releases/warren-pushes-giant-corporations-to-give-billions-in-tariff-refunds-back-to-consumers/</guid>
-      <pubDate>Thu, 27 Aug 2026 20:46:08 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Panic Is Refunding Tariff Fees to Playdate Buyers</title>
-      <link>https://www.gamedeveloper.com/business/playdate-maker-is-refunding-tariff-fees-to-customers</link>
-      <guid isPermaLink="true">https://www.gamedeveloper.com/business/playdate-maker-is-refunding-tariff-fees-to-customers</guid>
-      <pubDate>Thu, 27 Aug 2026 20:10:13 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
