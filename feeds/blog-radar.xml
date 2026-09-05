@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 05 Sep 2026 04:00:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 10:23:43 +0000</lastBuildDate>
+    <item>
+      <title>Pluralistic: Google skates (05 Sep 2026)</title>
+      <link>https://pluralistic.net/2026/09/05/divorce-court/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/09/05/divorce-court/</guid>
+      <pubDate>Sat, 05 Sep 2026 08:04:11 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
     <item>
       <title>Adobe Names Anil Chakravarthy as CEO, Replacing Shantanu Narayen</title>
       <link>https://www.cnbc.com/2026/09/03/adobe-anil-chakravarthy-ceo.html</link>
@@ -88,6 +95,13 @@
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/truetime-xl-gps-time-server-restomod/</guid>
       <pubDate>Fri, 04 Sep 2026 14:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>What happens if you change a window class’s GCL_CB­WND­EXTRA?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260904-00/?p=112675</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260904-00/?p=112675</guid>
+      <pubDate>Fri, 04 Sep 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Pluralistic: Amazon achieves enshittification inception (04 Sep 2026)</title>
@@ -825,25 +839,11 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Why do OpenAI's GPT-2 weights beat mine? Part four: digging into dropout</title>
-      <link>https://www.gilesthomas.com/2026/08/why-do-openai-gpt2-weights-beat-mine-4-ift-dropout</link>
-      <guid isPermaLink="true">https://www.gilesthomas.com/2026/08/why-do-openai-gpt2-weights-beat-mine-4-ift-dropout</guid>
-      <pubDate>Thu, 27 Aug 2026 19:00:00 +0000</pubDate>
-      <description>Giles' blog</description>
-    </item>
-    <item>
       <title>A Calendar View For My Blog</title>
       <link>https://blog.jim-nielsen.com/2026/blog-calendar-view/</link>
       <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/blog-calendar-view/</guid>
       <pubDate>Thu, 27 Aug 2026 19:00:00 +0000</pubDate>
       <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
-      <title>On forcing all derived classes to implement a specific non-virtual method, part 1</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260827-00/?p=112651</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260827-00/?p=112651</guid>
-      <pubDate>Thu, 27 Aug 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
     </item>
   </channel>
 </rss>
