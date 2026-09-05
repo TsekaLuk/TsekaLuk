@@ -4,9 +4,30 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 04 Sep 2026 20:38:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 04:00:47 +0000</lastBuildDate>
     <item>
-      <title>Apple Fixed ‎TestFlight’s Screwy Sort Order, I Think</title>
+      <title>Adobe Names Anil Chakravarthy as CEO, Replacing Shantanu Narayen</title>
+      <link>https://www.cnbc.com/2026/09/03/adobe-anil-chakravarthy-ceo.html</link>
+      <guid isPermaLink="true">https://www.cnbc.com/2026/09/03/adobe-anil-chakravarthy-ceo.html</guid>
+      <pubDate>Sat, 05 Sep 2026 00:05:47 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>The Pelican comparison grid for Astra is pretty interesting</title>
+      <link>https://simonwillison.net/2026/Sep/4/astra-pelicans/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/4/astra-pelicans/</guid>
+      <pubDate>Fri, 04 Sep 2026 23:59:05 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>NBA Brings the Hammer on the Clippers — $30 Million Fine, 5 First-Round Draft Picks, and Steve Ballmer Is Banned for a Year</title>
+      <link>https://www.nytimes.com/athletic/7513882/2026/09/02/clippers-kawhi-leonard-punishment-fine-suspensions-nba-investigation/?unlocked_article_code=1.-lA.wcSN.awOHwzojR5nR</link>
+      <guid isPermaLink="true">https://www.nytimes.com/athletic/7513882/2026/09/02/clippers-kawhi-leonard-punishment-fine-suspensions-nba-investigation/?unlocked_article_code=1.-lA.wcSN.awOHwzojR5nR</guid>
+      <pubDate>Fri, 04 Sep 2026 23:23:34 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Apple Fixed ‎TestFlight’s Screwy Sort Order</title>
       <link>https://apps.apple.com/us/app/testflight/id899247664</link>
       <guid isPermaLink="true">https://apps.apple.com/us/app/testflight/id899247664</guid>
       <pubDate>Fri, 04 Sep 2026 20:04:47 +0000</pubDate>
@@ -116,6 +137,13 @@
       <guid isPermaLink="true">https://anildash.com/2026/09/04/vc-didnt-use-to-work-like-this/</guid>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
       <description>Anil Dash</description>
+    </item>
+    <item>
+      <title>we have a year to fix security everywhere</title>
+      <link>https://jyn.dev/a-year-to-fix-security/</link>
+      <guid isPermaLink="true">https://jyn.dev/a-year-to-fix-security/</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <description>the website of jyn</description>
     </item>
     <item>
       <title>Hugging Face Easter Egg</title>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260827-00/?p=112651</guid>
       <pubDate>Thu, 27 Aug 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Second solutions</title>
-      <link>https://www.johndcook.com/blog/2026/08/27/second-solutions/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/27/second-solutions/</guid>
-      <pubDate>Thu, 27 Aug 2026 13:14:35 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>How the Strategic Petroleum Reserve Works</title>
-      <link>https://www.construction-physics.com/p/how-the-strategic-petroleum-reserve</link>
-      <guid isPermaLink="true">https://www.construction-physics.com/p/how-the-strategic-petroleum-reserve</guid>
-      <pubDate>Thu, 27 Aug 2026 12:03:58 +0000</pubDate>
-      <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>Book Review: The Infinite Sadness of Small Appliances by Glenn Dixon ★★★★☆</title>
-      <link>https://shkspr.mobi/blog/2026/08/book-review-the-infinite-sadness-of-small-appliances-by-glenn-dixon/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/book-review-the-infinite-sadness-of-small-appliances-by-glenn-dixon/</guid>
-      <pubDate>Thu, 27 Aug 2026 11:34:48 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Two Alleged ‘TeamPCP’ Hackers Arrested in Australia</title>
-      <link>https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/</link>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/</guid>
-      <pubDate>Thu, 27 Aug 2026 11:04:15 +0000</pubDate>
-      <description>Krebs on Security</description>
     </item>
   </channel>
 </rss>

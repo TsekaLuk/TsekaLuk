@@ -208,11 +208,11 @@ Last Updated: Saturday, September 5th, 2026, 10:30:52 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Apple Fixed ‎TestFlight’s Screwy Sort Order, I Think](https://apps.apple.com/us/app/testflight/id899247664) — *Daring Fireball* `09-04`
+- [Adobe Names Anil Chakravarthy as CEO, Replacing Shantanu Narayen](https://www.cnbc.com/2026/09/03/adobe-anil-chakravarthy-ceo.html) — *Daring Fireball* `09-05`
+- [The Pelican comparison grid for Astra is pretty interesting](https://simonwillison.net/2026/Sep/4/astra-pelicans/) — *Simon Willison's Weblog* `09-04`
+- [NBA Brings the Hammer on the Clippers — $30 Million Fine, 5 First-Round Draft Picks, and Steve Ballmer Is Banned for a Year](https://www.nytimes.com/athletic/7513882/2026/09/02/clippers-kawhi-leonard-punishment-fine-suspensions-nba-investigation/?unlocked_article_code=1.-lA.wcSN.awOHwzojR5nR) — *Daring Fireball* `09-04`
+- [Apple Fixed ‎TestFlight’s Screwy Sort Order](https://apps.apple.com/us/app/testflight/id899247664) — *Daring Fireball* `09-04`
 - [Vinted](https://www.vinted.com/) — *Daring Fireball* `09-04`
-- [★ Writing With Unnatural Constraints](https://daringfireball.net/2026/09/writing_with_unnatural_constraints) — *Daring Fireball* `09-04`
-- [OpenAI's rogue agents were caught communicating via public wikis](https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/) — *Simon Willison's Weblog* `09-04`
-- [Premium: The Hater's Guide To Circular Financing (Part Two)](https://www.wheresyoured.at/premium-the-haters-guide-to-circular-financing-part-two/) — *Ed Zitron's Where's Your Ed At* `09-04`
 <!--BLOG_RADAR:end-->
 
 ---
