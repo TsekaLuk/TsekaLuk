@@ -208,11 +208,11 @@ Last Updated: Saturday, September 5th, 2026, 10:24:15 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Reading List - 09/05/2026](https://www.construction-physics.com/p/reading-list-09052026) — *Construction Physics* `09-05`
+- [Book Review: The Passing of the Dragon and Other Stories by Ken Liu ★★★★☆](https://shkspr.mobi/blog/2026/09/book-review-the-passing-of-the-dragon-and-other-stories-by-ken-liu/) — *Terence Eden’s Blog* `09-05`
+- [This Week in Package Management: 5 September 2026](https://nesbitt.io/2026/09/05/this-week-in-package-management.html) — *Andrew Nesbitt* `09-05`
 - [Pluralistic: Google skates (05 Sep 2026)](https://pluralistic.net/2026/09/05/divorce-court/) — *Pluralistic: Daily links from Cory Doctorow* `09-05`
 - [Adobe Names Anil Chakravarthy as CEO, Replacing Shantanu Narayen](https://www.cnbc.com/2026/09/03/adobe-anil-chakravarthy-ceo.html) — *Daring Fireball* `09-05`
-- [The Pelican comparison grid for Astra is pretty interesting](https://simonwillison.net/2026/Sep/4/astra-pelicans/) — *Simon Willison's Weblog* `09-04`
-- [NBA Brings the Hammer on the Clippers — $30 Million Fine, 5 First-Round Draft Picks, and Steve Ballmer Is Banned for a Year](https://www.nytimes.com/athletic/7513882/2026/09/02/clippers-kawhi-leonard-punishment-fine-suspensions-nba-investigation/?unlocked_article_code=1.-lA.wcSN.awOHwzojR5nR) — *Daring Fireball* `09-04`
-- [Apple Fixed ‎TestFlight’s Screwy Sort Order](https://apps.apple.com/us/app/testflight/id899247664) — *Daring Fireball* `09-04`
 <!--BLOG_RADAR:end-->
 
 ---
