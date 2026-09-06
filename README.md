@@ -208,11 +208,11 @@ Last Updated: Sunday, September 6th, 2026, 10:27:32 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Introducing GPT-6 Astra for developers](https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/) — *Simon Willison's Weblog* `09-05`
 - [Gloria Steinem’s Final Essay](https://www.newyorker.com/culture/life-and-letters/gloria-steinems-final-essay?cndid=66114350) — *Daring Fireball* `09-05`
 - [Proof of the rank-trace theorem](https://www.johndcook.com/blog/2026/09/05/proof-of-the-rank-trace-theorem/) — *John D. Cook* `09-05`
 - [‘Bob and Van’](https://marco.org/2026/09/04/bob-and-van) — *Daring Fireball* `09-05`
 - [Using Blender with coding agents on macOS](https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/) — *Simon Willison's Weblog* `09-05`
-- [Reading List - 09/05/2026](https://www.construction-physics.com/p/reading-list-09052026) — *Construction Physics* `09-05`
 <!--BLOG_RADAR:end-->
 
 ---
