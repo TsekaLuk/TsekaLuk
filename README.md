@@ -208,11 +208,11 @@ Last Updated: Monday, September 7th, 2026, 3:52:19 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [The purpose of DNS is to spread scams](https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/) — *Simon Willison's Weblog* `09-06`
-- [The purpose of DNS is to spread scams](https://shkspr.mobi/blog/2026/09/the-purpose-of-dns-is-to-spread-scams/) — *Terence Eden’s Blog* `09-06`
-- [Quoting Zach Kehs](https://simonwillison.net/2026/Sep/6/zach-kehs/) — *Simon Willison's Weblog* `09-06`
-- [Debian Code Search: Fast TurboPFor with Go SIMD](https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/) — *Michael Stapelbergs Website* `09-06`
-- [Introducing GPT-6 Astra for developers](https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/) — *Simon Willison's Weblog* `09-05`
+- [WorkOS: How to Give an Agent a Task Instead of a Token](https://workos.com/blog/delegated-access-for-ai-agents?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026) — *Daring Fireball* `09-06`
+- [Matt Haughey: ‘The Car Industry a/B Tested Selling a Car With and Without CarPlay and the Results Are Not Shocking’](https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/) — *Daring Fireball* `09-06`
+- [Trump Administration Launches Rip-Off Video Games at Arcade.gov](https://x.com/WhiteHouse/status/2095615734567100766) — *Daring Fireball* `09-06`
+- [Gurman on Schiller’s Departure and Ternus’s Goals for the App Store](https://www.bloomberg.com/news/newsletters/2026-09-06/apple-s-new-ceo-like-cook-pay-package-shows-he-s-going-nowhere-sept-9-event-mtpvpcj1?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODcwNTgwOCwiZXhwIjoxNzg5MzEwNjA4LCJhcnRpY2xlSWQiOiJUS1k0ODFLR0NURlEwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.VPVLP03ZWjEbH48efjq8Q7n0_vk4t7OynYeaUbOfYzU&leadSource=article-gifting) — *Daring Fireball* `09-06`
+- [Dickover of the Week: Slashdot Put One in Their RSS Feed](https://discourse.netnewswire.com/t/dickover-in-the-slashdot-rss-feed/372) — *Daring Fireball* `09-06`
 <!--BLOG_RADAR:end-->
 
 ---

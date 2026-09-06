@@ -4,7 +4,49 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 06 Sep 2026 15:18:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 20:16:35 +0000</lastBuildDate>
+    <item>
+      <title>WorkOS: How to Give an Agent a Task Instead of a Token</title>
+      <link>https://workos.com/blog/delegated-access-for-ai-agents?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</link>
+      <guid isPermaLink="true">https://workos.com/blog/delegated-access-for-ai-agents?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</guid>
+      <pubDate>Sun, 06 Sep 2026 19:06:27 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Matt Haughey: ‘The Car Industry a/B Tested Selling a Car With and Without CarPlay and the Results Are Not Shocking’</title>
+      <link>https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/</link>
+      <guid isPermaLink="true">https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/</guid>
+      <pubDate>Sun, 06 Sep 2026 19:04:12 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Trump Administration Launches Rip-Off Video Games at Arcade.gov</title>
+      <link>https://x.com/WhiteHouse/status/2095615734567100766</link>
+      <guid isPermaLink="true">https://x.com/WhiteHouse/status/2095615734567100766</guid>
+      <pubDate>Sun, 06 Sep 2026 17:51:09 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Gurman on Schiller’s Departure and Ternus’s Goals for the App Store</title>
+      <link>https://www.bloomberg.com/news/newsletters/2026-09-06/apple-s-new-ceo-like-cook-pay-package-shows-he-s-going-nowhere-sept-9-event-mtpvpcj1?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODcwNTgwOCwiZXhwIjoxNzg5MzEwNjA4LCJhcnRpY2xlSWQiOiJUS1k0ODFLR0NURlEwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.VPVLP03ZWjEbH48efjq8Q7n0_vk4t7OynYeaUbOfYzU&amp;leadSource=article-gifting</link>
+      <guid isPermaLink="true">https://www.bloomberg.com/news/newsletters/2026-09-06/apple-s-new-ceo-like-cook-pay-package-shows-he-s-going-nowhere-sept-9-event-mtpvpcj1?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODcwNTgwOCwiZXhwIjoxNzg5MzEwNjA4LCJhcnRpY2xlSWQiOiJUS1k0ODFLR0NURlEwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.VPVLP03ZWjEbH48efjq8Q7n0_vk4t7OynYeaUbOfYzU&amp;leadSource=article-gifting</guid>
+      <pubDate>Sun, 06 Sep 2026 17:00:01 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Dickover of the Week: Slashdot Put One in Their RSS Feed</title>
+      <link>https://discourse.netnewswire.com/t/dickover-in-the-slashdot-rss-feed/372</link>
+      <guid isPermaLink="true">https://discourse.netnewswire.com/t/dickover-in-the-slashdot-rss-feed/372</guid>
+      <pubDate>Sun, 06 Sep 2026 16:30:00 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Litterbox: Safari Extension for Viewing X Tweets</title>
+      <link>https://andadinosaur.com/launch-litterbox</link>
+      <guid isPermaLink="true">https://andadinosaur.com/launch-litterbox</guid>
+      <pubDate>Sun, 06 Sep 2026 16:19:31 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>The purpose of DNS is to spread scams</title>
       <link>https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/</link>
@@ -20,6 +62,13 @@
       <description>Terence Eden’s Blog</description>
     </item>
     <item>
+      <title>There's No Limit to How Bad Code Can Get</title>
+      <link>https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/</guid>
+      <pubDate>Sun, 06 Sep 2026 09:08:06 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
       <title>Quoting Zach Kehs</title>
       <link>https://simonwillison.net/2026/Sep/6/zach-kehs/</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Sep/6/zach-kehs/</guid>
@@ -32,6 +81,13 @@
       <guid isPermaLink="true">https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/</guid>
       <pubDate>Sun, 06 Sep 2026 07:00:00 +0000</pubDate>
       <description>Michael Stapelbergs Website</description>
+    </item>
+    <item>
+      <title>Have the frontier labs mixed up AI safety and security?</title>
+      <link>https://martinalderson.com/posts/ai-safety-vs-security/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
+      <guid isPermaLink="true">https://martinalderson.com/posts/ai-safety-vs-security/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Martin Alderson</description>
     </item>
     <item>
       <title>Introducing GPT-6 Astra for developers</title>
@@ -524,13 +580,6 @@
       <description>Andrew Nesbitt</description>
     </item>
     <item>
-      <title>[Sponsor] WorkOS: How to Give an Agent a Task Instead of a Token</title>
-      <link>https://workos.com/blog/delegated-access-for-ai-agents?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</link>
-      <guid isPermaLink="true">https://workos.com/blog/delegated-access-for-ai-agents?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</guid>
-      <pubDate>Tue, 01 Sep 2026 07:59:07 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
       <title>Introducing wrapture</title>
       <link>https://simonwillison.net/2026/Aug/31/introducing-wrapture/</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Aug/31/introducing-wrapture/</guid>
@@ -795,55 +844,6 @@
       <guid isPermaLink="true">https://www.filfre.net/2026/08/this-week-on-the-analog-antiquarian/</guid>
       <pubDate>Fri, 28 Aug 2026 16:14:15 +0000</pubDate>
       <description>The Digital Antiquarian</description>
-    </item>
-    <item>
-      <title>Premium: The Hater's Guide To Circular Financing (Part One)</title>
-      <link>https://www.wheresyoured.at/premium-the-haters-guide-to-circular-financing-part-one/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/premium-the-haters-guide-to-circular-financing-part-one/</guid>
-      <pubDate>Fri, 28 Aug 2026 15:55:36 +0000</pubDate>
-      <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>From the DF Archive: ‘Golfo Del Gringo Loco’</title>
-      <link>https://daringfireball.net/2025/02/golfo_del_gringo_loco</link>
-      <guid isPermaLink="true">https://daringfireball.net/2025/02/golfo_del_gringo_loco</guid>
-      <pubDate>Fri, 28 Aug 2026 15:00:39 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Building a mini Homelab that fits in my carry-on</title>
-      <link>https://www.jeffgeerling.com/blog/2026/mini-homelab-network-fits-in-carry-on/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/mini-homelab-network-fits-in-carry-on/</guid>
-      <pubDate>Fri, 28 Aug 2026 15:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
-      <title>Making the unnecessary easier</title>
-      <link>https://www.johndcook.com/blog/2026/08/28/making-the-unnecessary-easier/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/28/making-the-unnecessary-easier/</guid>
-      <pubDate>Fri, 28 Aug 2026 14:35:36 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Trump Declares That Lake Ontario Is Now ‘Lake America’</title>
-      <link>https://www.notus.org/trump-white-house/lake-america-ontario-canada-trade-war-trump-executive-order-rename</link>
-      <guid isPermaLink="true">https://www.notus.org/trump-white-house/lake-america-ontario-canada-trade-war-trump-executive-order-rename</guid>
-      <pubDate>Fri, 28 Aug 2026 14:02:53 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>On forcing all derived classes to implement a specific non-virtual method, part 2</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260828-00/?p=112654</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260828-00/?p=112654</guid>
-      <pubDate>Fri, 28 Aug 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>You Know GDPR Is Good Based on Who Hates It</title>
-      <link>https://matduggan.com/you-know-gdpr-is-good-based-on-who-hates-it/</link>
-      <guid isPermaLink="true">https://matduggan.com/you-know-gdpr-is-good-based-on-who-hates-it/</guid>
-      <pubDate>Fri, 28 Aug 2026 12:02:22 +0000</pubDate>
-      <description>matduggan.com</description>
     </item>
   </channel>
 </rss>
