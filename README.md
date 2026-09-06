@@ -208,11 +208,11 @@ Last Updated: Sunday, September 6th, 2026, 10:46:42 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [The purpose of DNS is to spread scams](https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/) — *Simon Willison's Weblog* `09-06`
+- [The purpose of DNS is to spread scams](https://shkspr.mobi/blog/2026/09/the-purpose-of-dns-is-to-spread-scams/) — *Terence Eden’s Blog* `09-06`
 - [Quoting Zach Kehs](https://simonwillison.net/2026/Sep/6/zach-kehs/) — *Simon Willison's Weblog* `09-06`
 - [Debian Code Search: Fast TurboPFor with Go SIMD](https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/) — *Michael Stapelbergs Website* `09-06`
 - [Introducing GPT-6 Astra for developers](https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/) — *Simon Willison's Weblog* `09-05`
-- [Gloria Steinem’s Final Essay](https://www.newyorker.com/culture/life-and-letters/gloria-steinems-final-essay?cndid=66114350) — *Daring Fireball* `09-05`
-- [Proof of the rank-trace theorem](https://www.johndcook.com/blog/2026/09/05/proof-of-the-rank-trace-theorem/) — *John D. Cook* `09-05`
 <!--BLOG_RADAR:end-->
 
 ---

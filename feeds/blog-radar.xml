@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 06 Sep 2026 10:42:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 15:18:57 +0000</lastBuildDate>
+    <item>
+      <title>The purpose of DNS is to spread scams</title>
+      <link>https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/</guid>
+      <pubDate>Sun, 06 Sep 2026 14:40:07 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>The purpose of DNS is to spread scams</title>
+      <link>https://shkspr.mobi/blog/2026/09/the-purpose-of-dns-is-to-spread-scams/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/09/the-purpose-of-dns-is-to-spread-scams/</guid>
+      <pubDate>Sun, 06 Sep 2026 11:34:20 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
     <item>
       <title>Quoting Zach Kehs</title>
       <link>https://simonwillison.net/2026/Sep/6/zach-kehs/</link>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://matduggan.com/you-know-gdpr-is-good-based-on-who-hates-it/</guid>
       <pubDate>Fri, 28 Aug 2026 12:02:22 +0000</pubDate>
       <description>matduggan.com</description>
-    </item>
-    <item>
-      <title>"iT woRKs BeTter in THe aPp!!"</title>
-      <link>https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/</guid>
-      <pubDate>Fri, 28 Aug 2026 11:34:46 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Now Hiring: Senior Open Source Maintainer</title>
-      <link>https://nesbitt.io/2026/08/28/now-hiring-senior-open-source-maintainer.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/08/28/now-hiring-senior-open-source-maintainer.html</guid>
-      <pubDate>Fri, 28 Aug 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
     </item>
   </channel>
 </rss>
