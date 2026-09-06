@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 06 Sep 2026 04:08:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 10:42:21 +0000</lastBuildDate>
+    <item>
+      <title>Quoting Zach Kehs</title>
+      <link>https://simonwillison.net/2026/Sep/6/zach-kehs/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/6/zach-kehs/</guid>
+      <pubDate>Sun, 06 Sep 2026 08:42:49 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Debian Code Search: Fast TurboPFor with Go SIMD</title>
+      <link>https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/</link>
+      <guid isPermaLink="true">https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/</guid>
+      <pubDate>Sun, 06 Sep 2026 07:00:00 +0000</pubDate>
+      <description>Michael Stapelbergs Website</description>
+    </item>
     <item>
       <title>Introducing GPT-6 Astra for developers</title>
       <link>https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/</link>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/08/28/now-hiring-senior-open-source-maintainer.html</guid>
       <pubDate>Fri, 28 Aug 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>U.S. Judge Blocks Trump Defense Department’s Anthropic Blacklisting</title>
-      <link>https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/</link>
-      <guid isPermaLink="true">https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/</guid>
-      <pubDate>Fri, 28 Aug 2026 02:59:46 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>How big are factorials?</title>
-      <link>https://eli.thegreenplace.net/2026/how-big-are-factorials/</link>
-      <guid isPermaLink="true">https://eli.thegreenplace.net/2026/how-big-are-factorials/</guid>
-      <pubDate>Fri, 28 Aug 2026 01:52:00 +0000</pubDate>
-      <description>Eli Bendersky's website</description>
     </item>
   </channel>
 </rss>
