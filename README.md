@@ -208,11 +208,11 @@ Last Updated: Tuesday, September 8th, 2026, 5:00:18 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Pluralistic: How corporate America built a better Roach Motel (07 Sep 2026)](https://pluralistic.net/2026/09/06/hotels-california/) — *Pluralistic: Daily links from Cory Doctorow* `09-07`
-- [Research acceleration: The view inside OpenAI](https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/) — *Simon Willison's Weblog* `09-06`
-- [Weekly Update 520: The Unscripted Edition](https://www.troyhunt.com/weekly-update-520/) — *Troy Hunt* `09-06`
-- [Meta AI Has a Native Mac App Now, and It Seems Decent](https://9to5mac.com/2026/08/19/meta-ai-is-now-available-as-a-more-capable-desktop-app-for-mac/) — *Daring Fireball* `09-06`
-- [WorkOS: How to Give an Agent a Task Instead of a Token](https://workos.com/blog/delegated-access-for-ai-agents?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026) — *Daring Fireball* `09-06`
+- [McKinley 1.0](https://mckinleysymbols.com/) — *Daring Fireball* `09-07`
+- [The Onion’s Exclusive Interview With Larry Ellison](https://theonion.com/the-onions-exclusive-interview-with-larry-ellison/) — *Daring Fireball* `09-07`
+- [Matt Birchler’s Folding iPhone Predictions](https://birchtree.me/blog/my-folding-iphone-predictions/) — *Daring Fireball* `09-07`
+- [Ngram error rate](https://www.johndcook.com/blog/2026/09/07/ngram-error-rate/) — *John D. Cook* `09-07`
+- [★ And It’s True That I Stole Your Lighter, and It’s Also True That I Lost the Map](https://daringfireball.net/2026/09/its_true_that_i_stole_your_lighter) — *Daring Fireball* `09-07`
 <!--BLOG_RADAR:end-->
 
 ---

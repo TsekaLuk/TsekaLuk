@@ -4,7 +4,49 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 07 Sep 2026 12:10:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 21:23:34 +0000</lastBuildDate>
+    <item>
+      <title>McKinley 1.0</title>
+      <link>https://mckinleysymbols.com/</link>
+      <guid isPermaLink="true">https://mckinleysymbols.com/</guid>
+      <pubDate>Mon, 07 Sep 2026 20:33:08 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>The Onion’s Exclusive Interview With Larry Ellison</title>
+      <link>https://theonion.com/the-onions-exclusive-interview-with-larry-ellison/</link>
+      <guid isPermaLink="true">https://theonion.com/the-onions-exclusive-interview-with-larry-ellison/</guid>
+      <pubDate>Mon, 07 Sep 2026 20:09:27 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Matt Birchler’s Folding iPhone Predictions</title>
+      <link>https://birchtree.me/blog/my-folding-iphone-predictions/</link>
+      <guid isPermaLink="true">https://birchtree.me/blog/my-folding-iphone-predictions/</guid>
+      <pubDate>Mon, 07 Sep 2026 19:59:36 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Ngram error rate</title>
+      <link>https://www.johndcook.com/blog/2026/09/07/ngram-error-rate/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/09/07/ngram-error-rate/</guid>
+      <pubDate>Mon, 07 Sep 2026 18:35:45 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>★ And It’s True That I Stole Your Lighter, and It’s Also True That I Lost the Map</title>
+      <link>https://daringfireball.net/2026/09/its_true_that_i_stole_your_lighter</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/09/its_true_that_i_stole_your_lighter</guid>
+      <pubDate>Mon, 07 Sep 2026 16:31:55 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>The Education of a Doomer</title>
+      <link>https://borretti.me/article/the-education-of-a-doomer</link>
+      <guid isPermaLink="true">https://borretti.me/article/the-education-of-a-doomer</guid>
+      <pubDate>Mon, 07 Sep 2026 14:00:00 +0000</pubDate>
+      <description>Fernando Borretti</description>
+    </item>
     <item>
       <title>Pluralistic: How corporate America built a better Roach Motel (07 Sep 2026)</title>
       <link>https://pluralistic.net/2026/09/06/hotels-california/</link>
@@ -335,18 +377,18 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>Support Local Variables</title>
-      <link>https://bernsteinbear.com/blog/support-local-variables/?utm_source=rss</link>
-      <guid isPermaLink="true">https://bernsteinbear.com/blog/support-local-variables/?utm_source=rss</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Max Bernstein's Blog</description>
-    </item>
-    <item>
       <title>Cancer Capital: VC didn’t use to work like this</title>
       <link>https://anildash.com/2026/09/04/vc-didnt-use-to-work-like-this/</link>
       <guid isPermaLink="true">https://anildash.com/2026/09/04/vc-didnt-use-to-work-like-this/</guid>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
       <description>Anil Dash</description>
+    </item>
+    <item>
+      <title>Support Local Variables</title>
+      <link>https://bernsteinbear.com/blog/support-local-variables/?utm_source=rss</link>
+      <guid isPermaLink="true">https://bernsteinbear.com/blog/support-local-variables/?utm_source=rss</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Max Bernstein's Blog</description>
     </item>
     <item>
       <title>we have a year to fix security everywhere</title>
@@ -802,48 +844,6 @@
       <guid isPermaLink="true">https://micahflee.com/the-server-called-paranoia-defend-autistici-inventati/</guid>
       <pubDate>Sat, 29 Aug 2026 19:40:15 +0000</pubDate>
       <description>micahflee</description>
-    </item>
-    <item>
-      <title>★ Thoughts and Observations on Apple’s First Immersive MLB Broadcast, a Yankees 1-0 Win Over the Red Sox</title>
-      <link>https://daringfireball.net/2026/08/thoughts_and_observations_apple_immersive_mlb_broadcast</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/08/thoughts_and_observations_apple_immersive_mlb_broadcast</guid>
-      <pubDate>Sat, 29 Aug 2026 17:53:34 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Reading List 08/29/26</title>
-      <link>https://www.construction-physics.com/p/reading-list-082926</link>
-      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-082926</guid>
-      <pubDate>Sat, 29 Aug 2026 12:03:07 +0000</pubDate>
-      <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>A simple "copy this code" button in JavaScript</title>
-      <link>https://shkspr.mobi/blog/2026/08/a-simple-copy-this-code-button-in-javascript/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/a-simple-copy-this-code-button-in-javascript/</guid>
-      <pubDate>Sat, 29 Aug 2026 11:34:49 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>This Week in Package Management: 29 August 2026</title>
-      <link>https://nesbitt.io/2026/08/29/this-week-in-package-management.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/08/29/this-week-in-package-management.html</guid>
-      <pubDate>Sat, 29 Aug 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Technical note: transfer files over an ethernet patch cable</title>
-      <link>https://maurycyz.com/misc/etherfiles/</link>
-      <guid isPermaLink="true">https://maurycyz.com/misc/etherfiles/</guid>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
-    </item>
-    <item>
-      <title>What GLM-5.3 Flash running on Chinese hardware actually means</title>
-      <link>https://martinalderson.com/posts/glm-5-3-flash-chinese-hardware/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
-      <guid isPermaLink="true">https://martinalderson.com/posts/glm-5-3-flash-chinese-hardware/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Martin Alderson</description>
     </item>
   </channel>
 </rss>
