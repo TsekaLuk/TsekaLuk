@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 07 Sep 2026 04:07:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 12:10:40 +0000</lastBuildDate>
+    <item>
+      <title>Pluralistic: How corporate America built a better Roach Motel (07 Sep 2026)</title>
+      <link>https://pluralistic.net/2026/09/06/hotels-california/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/09/06/hotels-california/</guid>
+      <pubDate>Mon, 07 Sep 2026 05:29:25 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
     <item>
       <title>Research acceleration: The view inside OpenAI</title>
       <link>https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/</link>
@@ -74,6 +81,13 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/</guid>
       <pubDate>Sun, 06 Sep 2026 14:40:07 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Kunsten '92 praatje: De AI Trein</title>
+      <link>https://berthub.eu/articles/posts/kunsten92-paradiso-2026/</link>
+      <guid isPermaLink="true">https://berthub.eu/articles/posts/kunsten92-paradiso-2026/</guid>
+      <pubDate>Sun, 06 Sep 2026 11:37:00 +0000</pubDate>
+      <description>Bert Hubert's writings</description>
     </item>
     <item>
       <title>The purpose of DNS is to spread scams</title>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://martinalderson.com/posts/glm-5-3-flash-chinese-hardware/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
       <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
       <description>Martin Alderson</description>
-    </item>
-    <item>
-      <title>Just a rumour of a bug is enough to find a security exploit these days</title>
-      <link>https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/</guid>
-      <pubDate>Fri, 28 Aug 2026 22:12:02 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Apple Announces Price Increase for Apple TV and Apple One Subscriptions</title>
-      <link>https://9to5mac.com/2026/08/28/apple-announces-price-increase-for-apple-tv-and-apple-one-subscriptions/</link>
-      <guid isPermaLink="true">https://9to5mac.com/2026/08/28/apple-announces-price-increase-for-apple-tv-and-apple-one-subscriptions/</guid>
-      <pubDate>Fri, 28 Aug 2026 21:52:37 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>

@@ -208,11 +208,11 @@ Last Updated: Monday, September 7th, 2026, 7:20:42 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Pluralistic: How corporate America built a better Roach Motel (07 Sep 2026)](https://pluralistic.net/2026/09/06/hotels-california/) — *Pluralistic: Daily links from Cory Doctorow* `09-07`
 - [Research acceleration: The view inside OpenAI](https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/) — *Simon Willison's Weblog* `09-06`
 - [Weekly Update 520: The Unscripted Edition](https://www.troyhunt.com/weekly-update-520/) — *Troy Hunt* `09-06`
 - [Meta AI Has a Native Mac App Now, and It Seems Decent](https://9to5mac.com/2026/08/19/meta-ai-is-now-available-as-a-more-capable-desktop-app-for-mac/) — *Daring Fireball* `09-06`
 - [WorkOS: How to Give an Agent a Task Instead of a Token](https://workos.com/blog/delegated-access-for-ai-agents?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026) — *Daring Fireball* `09-06`
-- [Matt Haughey: ‘The Car Industry A/B Tested Selling a Car With and Without CarPlay and the Results Are Not Shocking’](https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/) — *Daring Fireball* `09-06`
 <!--BLOG_RADAR:end-->
 
 ---
