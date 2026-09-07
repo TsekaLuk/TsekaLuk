@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 06 Sep 2026 20:16:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 04:07:41 +0000</lastBuildDate>
+    <item>
+      <title>Research acceleration: The view inside OpenAI</title>
+      <link>https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/</guid>
+      <pubDate>Sun, 06 Sep 2026 23:57:40 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Weekly Update 520: The Unscripted Edition</title>
+      <link>https://www.troyhunt.com/weekly-update-520/</link>
+      <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-520/</guid>
+      <pubDate>Sun, 06 Sep 2026 23:31:36 +0000</pubDate>
+      <description>Troy Hunt</description>
+    </item>
+    <item>
+      <title>Meta AI Has a Native Mac App Now, and It Seems Decent</title>
+      <link>https://9to5mac.com/2026/08/19/meta-ai-is-now-available-as-a-more-capable-desktop-app-for-mac/</link>
+      <guid isPermaLink="true">https://9to5mac.com/2026/08/19/meta-ai-is-now-available-as-a-more-capable-desktop-app-for-mac/</guid>
+      <pubDate>Sun, 06 Sep 2026 20:44:27 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>WorkOS: How to Give an Agent a Task Instead of a Token</title>
       <link>https://workos.com/blog/delegated-access-for-ai-agents?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</link>
@@ -13,7 +34,7 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Matt Haughey: ‘The Car Industry a/B Tested Selling a Car With and Without CarPlay and the Results Are Not Shocking’</title>
+      <title>Matt Haughey: ‘The Car Industry A/B Tested Selling a Car With and Without CarPlay and the Results Are Not Shocking’</title>
       <link>https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/</link>
       <guid isPermaLink="true">https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/</guid>
       <pubDate>Sun, 06 Sep 2026 19:04:12 +0000</pubDate>
@@ -81,6 +102,13 @@
       <guid isPermaLink="true">https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/</guid>
       <pubDate>Sun, 06 Sep 2026 07:00:00 +0000</pubDate>
       <description>Michael Stapelbergs Website</description>
+    </item>
+    <item>
+      <title>It took a year to ship WebAssembly in Anubis</title>
+      <link>https://anubis.techaro.lol/blog/2026/anubis-wasm/</link>
+      <guid isPermaLink="true">https://anubis.techaro.lol/blog/2026/anubis-wasm/</guid>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>Have the frontier labs mixed up AI safety and security?</title>
@@ -580,6 +608,13 @@
       <description>Andrew Nesbitt</description>
     </item>
     <item>
+      <title>Conflict resolution is “fun”</title>
+      <link>https://www.tigrisdata.com/blog/conflict-resolution-is-fun/</link>
+      <guid isPermaLink="true">https://www.tigrisdata.com/blog/conflict-resolution-is-fun/</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
+    </item>
+    <item>
       <title>Introducing wrapture</title>
       <link>https://simonwillison.net/2026/Aug/31/introducing-wrapture/</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Aug/31/introducing-wrapture/</guid>
@@ -809,41 +844,6 @@
       <guid isPermaLink="true">https://9to5mac.com/2026/08/28/apple-announces-price-increase-for-apple-tv-and-apple-one-subscriptions/</guid>
       <pubDate>Fri, 28 Aug 2026 21:52:37 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>‘I’m the Guy Who Destroys Antique Books After We Scan Them Into Our Company’s Insatiable AI Platform’</title>
-      <link>https://www.mcsweeneys.net/articles/im-the-guy-who-destroys-antique-books-after-we-scan-them-into-our-companys-insatiable-ai-platform</link>
-      <guid isPermaLink="true">https://www.mcsweeneys.net/articles/im-the-guy-who-destroys-antique-books-after-we-scan-them-into-our-companys-insatiable-ai-platform</guid>
-      <pubDate>Fri, 28 Aug 2026 21:35:22 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>‘How Americans See E.U. Tech’</title>
-      <link>https://www.youtube.com/watch?v=gGlpBuW6ZFc</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=gGlpBuW6ZFc</guid>
-      <pubDate>Fri, 28 Aug 2026 21:27:21 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>We Certainly Have Made a Hames Out of This</title>
-      <link>https://daringfireball.net/linked/2026/08/28/trump-lake-ontario</link>
-      <guid isPermaLink="true">https://daringfireball.net/linked/2026/08/28/trump-lake-ontario</guid>
-      <pubDate>Fri, 28 Aug 2026 19:42:59 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>‘Not Sure How You Own Canada by Deleting Your Own History’</title>
-      <link>https://x.com/MattWalshBlog/status/2093060290371870948</link>
-      <guid isPermaLink="true">https://x.com/MattWalshBlog/status/2093060290371870948</guid>
-      <pubDate>Fri, 28 Aug 2026 16:25:33 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>This Week on The Analog Antiquarian</title>
-      <link>https://www.filfre.net/2026/08/this-week-on-the-analog-antiquarian/</link>
-      <guid isPermaLink="true">https://www.filfre.net/2026/08/this-week-on-the-analog-antiquarian/</guid>
-      <pubDate>Fri, 28 Aug 2026 16:14:15 +0000</pubDate>
-      <description>The Digital Antiquarian</description>
     </item>
   </channel>
 </rss>

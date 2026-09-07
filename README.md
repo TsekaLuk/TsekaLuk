@@ -208,11 +208,11 @@ Last Updated: Monday, September 7th, 2026, 10:24:34 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Research acceleration: The view inside OpenAI](https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/) — *Simon Willison's Weblog* `09-06`
+- [Weekly Update 520: The Unscripted Edition](https://www.troyhunt.com/weekly-update-520/) — *Troy Hunt* `09-06`
+- [Meta AI Has a Native Mac App Now, and It Seems Decent](https://9to5mac.com/2026/08/19/meta-ai-is-now-available-as-a-more-capable-desktop-app-for-mac/) — *Daring Fireball* `09-06`
 - [WorkOS: How to Give an Agent a Task Instead of a Token](https://workos.com/blog/delegated-access-for-ai-agents?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026) — *Daring Fireball* `09-06`
-- [Matt Haughey: ‘The Car Industry a/B Tested Selling a Car With and Without CarPlay and the Results Are Not Shocking’](https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/) — *Daring Fireball* `09-06`
-- [Trump Administration Launches Rip-Off Video Games at Arcade.gov](https://x.com/WhiteHouse/status/2095615734567100766) — *Daring Fireball* `09-06`
-- [Gurman on Schiller’s Departure and Ternus’s Goals for the App Store](https://www.bloomberg.com/news/newsletters/2026-09-06/apple-s-new-ceo-like-cook-pay-package-shows-he-s-going-nowhere-sept-9-event-mtpvpcj1?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODcwNTgwOCwiZXhwIjoxNzg5MzEwNjA4LCJhcnRpY2xlSWQiOiJUS1k0ODFLR0NURlEwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.VPVLP03ZWjEbH48efjq8Q7n0_vk4t7OynYeaUbOfYzU&leadSource=article-gifting) — *Daring Fireball* `09-06`
-- [Dickover of the Week: Slashdot Put One in Their RSS Feed](https://discourse.netnewswire.com/t/dickover-in-the-slashdot-rss-feed/372) — *Daring Fireball* `09-06`
+- [Matt Haughey: ‘The Car Industry A/B Tested Selling a Car With and Without CarPlay and the Results Are Not Shocking’](https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/) — *Daring Fireball* `09-06`
 <!--BLOG_RADAR:end-->
 
 ---
