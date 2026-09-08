@@ -208,11 +208,11 @@ Last Updated: Tuesday, September 8th, 2026, 10:37:26 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [McKinley 1.0](https://mckinleysymbols.com/) — *Daring Fireball* `09-07`
-- [The Onion’s Exclusive Interview With Larry Ellison](https://theonion.com/the-onions-exclusive-interview-with-larry-ellison/) — *Daring Fireball* `09-07`
-- [Matt Birchler’s Folding iPhone Predictions](https://birchtree.me/blog/my-folding-iphone-predictions/) — *Daring Fireball* `09-07`
-- [Ngram error rate](https://www.johndcook.com/blog/2026/09/07/ngram-error-rate/) — *John D. Cook* `09-07`
-- [★ And It’s True That I Stole Your Lighter, and It’s Also True That I Lost the Map](https://daringfireball.net/2026/09/its_true_that_i_stole_your_lighter) — *Daring Fireball* `09-07`
+- [Automatically detecting AI text in my browser](https://seangoedecke.com/deckard/) — *seangoedecke.com RSS feed* `09-08`
+- [llm 0.35](https://simonwillison.net/2026/Sep/7/llm/) — *Simon Willison's Weblog* `09-07`
+- [I found an old interview mine (2017)](https://idiallo.com/byte-size/interviewing-with-thatsoftware-dude) — *Software and Tech stories from an Insider - iDiallo.com* `09-07`
+- [Creepy crawlies](https://simonwillison.net/2026/Sep/7/creepy-crawlies/) — *Simon Willison's Weblog* `09-07`
+- [Quoting Jakub Pachocki](https://simonwillison.net/2026/Sep/7/jakub-pachocki/) — *Simon Willison's Weblog* `09-07`
 <!--BLOG_RADAR:end-->
 
 ---

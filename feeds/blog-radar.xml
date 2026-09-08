@@ -4,19 +4,75 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 07 Sep 2026 21:23:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 04:08:57 +0000</lastBuildDate>
     <item>
-      <title>McKinley 1.0</title>
-      <link>https://mckinleysymbols.com/</link>
-      <guid isPermaLink="true">https://mckinleysymbols.com/</guid>
-      <pubDate>Mon, 07 Sep 2026 20:33:08 +0000</pubDate>
+      <title>Automatically detecting AI text in my browser</title>
+      <link>https://seangoedecke.com/deckard/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/deckard/</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>llm 0.35</title>
+      <link>https://simonwillison.net/2026/Sep/7/llm/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/7/llm/</guid>
+      <pubDate>Mon, 07 Sep 2026 23:54:54 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>I found an old interview mine (2017)</title>
+      <link>https://idiallo.com/byte-size/interviewing-with-thatsoftware-dude</link>
+      <guid isPermaLink="true">https://idiallo.com/byte-size/interviewing-with-thatsoftware-dude</guid>
+      <pubDate>Mon, 07 Sep 2026 23:20:02 +0000</pubDate>
+      <description>Software and Tech stories from an Insider - iDiallo.com</description>
+    </item>
+    <item>
+      <title>Creepy crawlies</title>
+      <link>https://simonwillison.net/2026/Sep/7/creepy-crawlies/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/7/creepy-crawlies/</guid>
+      <pubDate>Mon, 07 Sep 2026 23:08:58 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Quoting Jakub Pachocki</title>
+      <link>https://simonwillison.net/2026/Sep/7/jakub-pachocki/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/7/jakub-pachocki/</guid>
+      <pubDate>Mon, 07 Sep 2026 22:26:25 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>[Sponsor] Glyphs 4</title>
+      <link>https://glyphsapp.com/</link>
+      <guid isPermaLink="true">https://glyphsapp.com/</guid>
+      <pubDate>Mon, 07 Sep 2026 22:16:26 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Trackables 1.5</title>
+      <link>https://trackables.app/</link>
+      <guid isPermaLink="true">https://trackables.app/</guid>
+      <pubDate>Mon, 07 Sep 2026 22:01:27 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Clickable whitespace</title>
+      <link>https://idiallo.com/blog/clickable-whitespace</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/clickable-whitespace</guid>
+      <pubDate>Mon, 07 Sep 2026 21:53:00 +0000</pubDate>
+      <description>Software and Tech stories from an Insider - iDiallo.com</description>
     </item>
     <item>
       <title>The Onion’s Exclusive Interview With Larry Ellison</title>
       <link>https://theonion.com/the-onions-exclusive-interview-with-larry-ellison/</link>
       <guid isPermaLink="true">https://theonion.com/the-onions-exclusive-interview-with-larry-ellison/</guid>
       <pubDate>Mon, 07 Sep 2026 20:09:27 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>McKinley 1.0</title>
+      <link>https://mckinleysymbols.com/</link>
+      <guid isPermaLink="true">https://mckinleysymbols.com/</guid>
+      <pubDate>Mon, 07 Sep 2026 20:00:00 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
     <item>
@@ -34,11 +90,25 @@
       <description>John D. Cook</description>
     </item>
     <item>
+      <title>Video compressor</title>
+      <link>https://simonwillison.net/2026/Sep/7/video-compressor/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/7/video-compressor/</guid>
+      <pubDate>Mon, 07 Sep 2026 18:29:07 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
       <title>★ And It’s True That I Stole Your Lighter, and It’s Also True That I Lost the Map</title>
       <link>https://daringfireball.net/2026/09/its_true_that_i_stole_your_lighter</link>
       <guid isPermaLink="true">https://daringfireball.net/2026/09/its_true_that_i_stole_your_lighter</guid>
       <pubDate>Mon, 07 Sep 2026 16:31:55 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Mercator ↔ Equal Earth</title>
+      <link>https://simonwillison.net/2026/Sep/7/equal-earth/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/7/equal-earth/</guid>
+      <pubDate>Mon, 07 Sep 2026 16:24:16 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
     <item>
       <title>The Education of a Doomer</title>
@@ -377,18 +447,18 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>Cancer Capital: VC didn’t use to work like this</title>
-      <link>https://anildash.com/2026/09/04/vc-didnt-use-to-work-like-this/</link>
-      <guid isPermaLink="true">https://anildash.com/2026/09/04/vc-didnt-use-to-work-like-this/</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Anil Dash</description>
-    </item>
-    <item>
       <title>Support Local Variables</title>
       <link>https://bernsteinbear.com/blog/support-local-variables/?utm_source=rss</link>
       <guid isPermaLink="true">https://bernsteinbear.com/blog/support-local-variables/?utm_source=rss</guid>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
       <description>Max Bernstein's Blog</description>
+    </item>
+    <item>
+      <title>Cancer Capital: VC didn’t use to work like this</title>
+      <link>https://anildash.com/2026/09/04/vc-didnt-use-to-work-like-this/</link>
+      <guid isPermaLink="true">https://anildash.com/2026/09/04/vc-didnt-use-to-work-like-this/</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Anil Dash</description>
     </item>
     <item>
       <title>we have a year to fix security everywhere</title>
@@ -494,6 +564,27 @@
       <guid isPermaLink="true">https://www.macrumors.com/2026/09/02/ios-27-iphone-handoff-feature/</guid>
       <pubDate>Wed, 02 Sep 2026 20:58:28 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>llm-openrouter 0.7.1</title>
+      <link>https://simonwillison.net/2026/Sep/2/llm-openrouter/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/2/llm-openrouter/</guid>
+      <pubDate>Wed, 02 Sep 2026 20:23:26 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>llm 0.34</title>
+      <link>https://simonwillison.net/2026/Sep/2/llm/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/2/llm/</guid>
+      <pubDate>Wed, 02 Sep 2026 19:23:52 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>llm-anthropic 0.28</title>
+      <link>https://simonwillison.net/2026/Sep/2/llm-anthropic/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/2/llm-anthropic/</guid>
+      <pubDate>Wed, 02 Sep 2026 17:59:32 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
     <item>
       <title>llm-gemini 0.34</title>
@@ -753,97 +844,6 @@
       <guid isPermaLink="true">https://martinalderson.com/posts/codebase-cognitive-debt-quizzes/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
       <description>Martin Alderson</description>
-    </item>
-    <item>
-      <title>Understanding ChatGPT Work</title>
-      <link>https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/</guid>
-      <pubDate>Sun, 30 Aug 2026 23:59:47 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Before NTP there were Time and Daytime</title>
-      <link>https://www.jeffgeerling.com/blog/2026/rfc-867-868-time/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/rfc-867-868-time/</guid>
-      <pubDate>Sun, 30 Aug 2026 22:09:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
-      <title>Recreating a 2010 Experiment</title>
-      <link>http://xania.org/202608/recreating-a-2010-experiment?utm_source=feed&amp;utm_medium=rss</link>
-      <guid isPermaLink="true">http://xania.org/202608/recreating-a-2010-experiment?utm_source=feed&amp;utm_medium=rss</guid>
-      <pubDate>Sun, 30 Aug 2026 19:40:00 +0000</pubDate>
-      <description>Matt Godbolt’s blog</description>
-    </item>
-    <item>
-      <title>Finalist 4</title>
-      <link>https://www.finalist.works/?utm_source=df-aug-2026</link>
-      <guid isPermaLink="true">https://www.finalist.works/?utm_source=df-aug-2026</guid>
-      <pubDate>Sun, 30 Aug 2026 18:35:22 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Cores in space: The core memory module from a 1980 Spacelab computer</title>
-      <link>http://www.righto.com/2026/08/spacelab-core-memory.html</link>
-      <guid isPermaLink="true">http://www.righto.com/2026/08/spacelab-core-memory.html</guid>
-      <pubDate>Sun, 30 Aug 2026 16:42:42 +0000</pubDate>
-      <description>Ken Shirriff's blog</description>
-    </item>
-    <item>
-      <title>Forgejo hack #2: Integration with Read The Docs</title>
-      <link>https://blog.miguelgrinberg.com/post/forgejo-hack-2-integration-with-read-the-docs</link>
-      <guid isPermaLink="true">https://blog.miguelgrinberg.com/post/forgejo-hack-2-integration-with-read-the-docs</guid>
-      <pubDate>Sun, 30 Aug 2026 16:02:08 +0000</pubDate>
-      <description>Miguel Grinberg's Blog</description>
-    </item>
-    <item>
-      <title>On Inevitability</title>
-      <link>https://borretti.me/article/on-inevitability</link>
-      <guid isPermaLink="true">https://borretti.me/article/on-inevitability</guid>
-      <pubDate>Sun, 30 Aug 2026 14:00:00 +0000</pubDate>
-      <description>Fernando Borretti</description>
-    </item>
-    <item>
-      <title>ActivityBot is the recipient of an NLnet grant!</title>
-      <link>https://shkspr.mobi/blog/2026/08/activitybot-is-the-recipient-of-an-nlnet-grant/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/activitybot-is-the-recipient-of-an-nlnet-grant/</guid>
-      <pubDate>Sun, 30 Aug 2026 11:34:55 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>New Pebble Weather App + Software Updates</title>
-      <link>https://repebble.com/blog/new-pebble-weather-app-software-updates</link>
-      <guid isPermaLink="true">https://repebble.com/blog/new-pebble-weather-app-software-updates</guid>
-      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Eric Migicovsky's Blog RSS Feed</description>
-    </item>
-    <item>
-      <title>You have to beat the models at something</title>
-      <link>https://seangoedecke.com/you-have-to-beat-the-models-at-something/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/you-have-to-beat-the-models-at-something/</guid>
-      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>Introducing Hy4 Preview</title>
-      <link>https://simonwillison.net/2026/Aug/29/hy4/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/29/hy4/</guid>
-      <pubDate>Sat, 29 Aug 2026 23:53:13 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>The Rise and Fall of Agent Civilizations</title>
-      <link>https://www.dwarkesh.com/p/openai-huggingface</link>
-      <guid isPermaLink="true">https://www.dwarkesh.com/p/openai-huggingface</guid>
-      <pubDate>Sat, 29 Aug 2026 22:47:53 +0000</pubDate>
-      <description>Dwarkesh Podcast</description>
-    </item>
-    <item>
-      <title>The Server Called Paranoia: Defend Autistici/Inventati</title>
-      <link>https://micahflee.com/the-server-called-paranoia-defend-autistici-inventati/</link>
-      <guid isPermaLink="true">https://micahflee.com/the-server-called-paranoia-defend-autistici-inventati/</guid>
-      <pubDate>Sat, 29 Aug 2026 19:40:15 +0000</pubDate>
-      <description>micahflee</description>
     </item>
   </channel>
 </rss>
