@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 08 Sep 2026 04:08:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 11:01:19 +0000</lastBuildDate>
+    <item>
+      <title>What’s new in git-pkgs</title>
+      <link>https://nesbitt.io/2026/09/08/whats-new-in-git-pkgs.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/09/08/whats-new-in-git-pkgs.html</guid>
+      <pubDate>Tue, 08 Sep 2026 09:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
     <item>
       <title>Automatically detecting AI text in my browser</title>
       <link>https://seangoedecke.com/deckard/</link>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://matklad.github.io/2026/08/31/cancelation-terminology.html</guid>
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
       <description>matklad</description>
-    </item>
-    <item>
-      <title>Reducing codebase cognitive debt through... quizzes?</title>
-      <link>https://martinalderson.com/posts/codebase-cognitive-debt-quizzes/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
-      <guid isPermaLink="true">https://martinalderson.com/posts/codebase-cognitive-debt-quizzes/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Martin Alderson</description>
     </item>
   </channel>
 </rss>

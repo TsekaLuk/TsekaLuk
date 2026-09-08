@@ -208,11 +208,11 @@ Last Updated: Tuesday, September 8th, 2026, 6:26:04 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [What’s new in git-pkgs](https://nesbitt.io/2026/09/08/whats-new-in-git-pkgs.html) — *Andrew Nesbitt* `09-08`
 - [Automatically detecting AI text in my browser](https://seangoedecke.com/deckard/) — *seangoedecke.com RSS feed* `09-08`
 - [llm 0.35](https://simonwillison.net/2026/Sep/7/llm/) — *Simon Willison's Weblog* `09-07`
 - [I found an old interview mine (2017)](https://idiallo.com/byte-size/interviewing-with-thatsoftware-dude) — *Software and Tech stories from an Insider - iDiallo.com* `09-07`
 - [Creepy crawlies](https://simonwillison.net/2026/Sep/7/creepy-crawlies/) — *Simon Willison's Weblog* `09-07`
-- [Quoting Jakub Pachocki](https://simonwillison.net/2026/Sep/7/jakub-pachocki/) — *Simon Willison's Weblog* `09-07`
 <!--BLOG_RADAR:end-->
 
 ---
