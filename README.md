@@ -208,11 +208,11 @@ Last Updated: Tuesday, September 8th, 2026, 11:50:09 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [What’s new in git-pkgs](https://nesbitt.io/2026/09/08/whats-new-in-git-pkgs.html) — *Andrew Nesbitt* `09-08`
-- [Automatically detecting AI text in my browser](https://seangoedecke.com/deckard/) — *seangoedecke.com RSS feed* `09-08`
-- [llm 0.35](https://simonwillison.net/2026/Sep/7/llm/) — *Simon Willison's Weblog* `09-07`
-- [I found an old interview mine (2017)](https://idiallo.com/byte-size/interviewing-with-thatsoftware-dude) — *Software and Tech stories from an Insider - iDiallo.com* `09-07`
-- [Creepy crawlies](https://simonwillison.net/2026/Sep/7/creepy-crawlies/) — *Simon Willison's Weblog* `09-07`
+- [The Bulldozing of an Interface](https://blog.jim-nielsen.com/2026/bulldoze-ui/) — *Jim Nielsen’s Blog* `09-08`
+- [Pretraining progress is mostly coming from data](https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data) — *Dwarkesh Podcast* `09-08`
+- [OpenNMC is an open replacement for expensive APC management cards](https://www.jeffgeerling.com/blog/2026/opennmc-apc-ups-replacement-card/) — *Jeff Geerling* `09-08`
+- [Navier-Stokes in the news](https://www.johndcook.com/blog/2026/09/08/navier-stokes-in-the-news/) — *John D. Cook* `09-08`
+- [★ SuperDuper 4](https://daringfireball.net/2026/09/superduper_4) — *Daring Fireball* `09-08`
 <!--BLOG_RADAR:end-->
 
 ---

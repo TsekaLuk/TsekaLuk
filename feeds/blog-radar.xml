@@ -4,7 +4,63 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 08 Sep 2026 11:01:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 16:26:47 +0000</lastBuildDate>
+    <item>
+      <title>The Bulldozing of an Interface</title>
+      <link>https://blog.jim-nielsen.com/2026/bulldoze-ui/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/bulldoze-ui/</guid>
+      <pubDate>Tue, 08 Sep 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
+    </item>
+    <item>
+      <title>Pretraining progress is mostly coming from data</title>
+      <link>https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data</link>
+      <guid isPermaLink="true">https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data</guid>
+      <pubDate>Tue, 08 Sep 2026 16:10:16 +0000</pubDate>
+      <description>Dwarkesh Podcast</description>
+    </item>
+    <item>
+      <title>OpenNMC is an open replacement for expensive APC management cards</title>
+      <link>https://www.jeffgeerling.com/blog/2026/opennmc-apc-ups-replacement-card/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/opennmc-apc-ups-replacement-card/</guid>
+      <pubDate>Tue, 08 Sep 2026 16:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>Navier-Stokes in the news</title>
+      <link>https://www.johndcook.com/blog/2026/09/08/navier-stokes-in-the-news/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/09/08/navier-stokes-in-the-news/</guid>
+      <pubDate>Tue, 08 Sep 2026 15:26:08 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>★ SuperDuper 4</title>
+      <link>https://daringfireball.net/2026/09/superduper_4</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/09/superduper_4</guid>
+      <pubDate>Tue, 08 Sep 2026 14:55:20 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Concentration Risk</title>
+      <link>https://www.wheresyoured.at/concentration-risk/</link>
+      <guid isPermaLink="true">https://www.wheresyoured.at/concentration-risk/</guid>
+      <pubDate>Tue, 08 Sep 2026 14:28:03 +0000</pubDate>
+      <description>Ed Zitron's Where's Your Ed At</description>
+    </item>
+    <item>
+      <title>A sample use of the winstart.bat file in Windows 95</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260908-00/?p=112679</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260908-00/?p=112679</guid>
+      <pubDate>Tue, 08 Sep 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>ActivityPub - Is it worth defending against replay attacks and message/signature time skew?</title>
+      <link>https://shkspr.mobi/blog/2026/09/activitypub-is-it-worth-defending-against-replay-attacks-and-message-signature-time-skew/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/09/activitypub-is-it-worth-defending-against-replay-attacks-and-message-signature-time-skew/</guid>
+      <pubDate>Tue, 08 Sep 2026 11:34:51 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
     <item>
       <title>What’s new in git-pkgs</title>
       <link>https://nesbitt.io/2026/09/08/whats-new-in-git-pkgs.html</link>
@@ -116,6 +172,13 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Sep/7/equal-earth/</guid>
       <pubDate>Mon, 07 Sep 2026 16:24:16 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Why don’t we allow stacks to be sparse, instead of forcing them to be contiguous?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260907-00/?p=112677</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260907-00/?p=112677</guid>
+      <pubDate>Mon, 07 Sep 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>The Education of a Doomer</title>
@@ -781,69 +844,6 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/08/31/patented-application-of-linear-algebra/</guid>
       <pubDate>Mon, 31 Aug 2026 23:26:12 +0000</pubDate>
       <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Quoting Andrew Digby</title>
-      <link>https://simonwillison.net/2026/Aug/31/andrew-digby/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/31/andrew-digby/</guid>
-      <pubDate>Mon, 31 Aug 2026 22:25:02 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Claude comment detection</title>
-      <link>https://entropicthoughts.com/ai-comment-classifier</link>
-      <guid isPermaLink="true">https://entropicthoughts.com/ai-comment-classifier</guid>
-      <pubDate>Mon, 31 Aug 2026 22:00:00 +0000</pubDate>
-      <description>Entropic Thoughts</description>
-    </item>
-    <item>
-      <title>The rise and fall of agent civilizations</title>
-      <link>https://www.dwarkesh.com/p/openai-huggingface-narration</link>
-      <guid isPermaLink="true">https://www.dwarkesh.com/p/openai-huggingface-narration</guid>
-      <pubDate>Mon, 31 Aug 2026 20:36:53 +0000</pubDate>
-      <description>Dwarkesh Podcast</description>
-    </item>
-    <item>
-      <title>My Experience Has Nuance, Yours Is a Data Point</title>
-      <link>https://blog.jim-nielsen.com/2026/nuance-for-me-none-for-you/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/nuance-for-me-none-for-you/</guid>
-      <pubDate>Mon, 31 Aug 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
-      <title>AWE does not require PAE, though PAE makes it much more useful</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260831-00/?p=112660</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260831-00/?p=112660</guid>
-      <pubDate>Mon, 31 Aug 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Review: Ruined Theatre's A Midsummer Night's Dream ★★★★☆</title>
-      <link>https://shkspr.mobi/blog/2026/08/review-ruined-theatres-a-midsummer-nights-dream/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/08/review-ruined-theatres-a-midsummer-nights-dream/</guid>
-      <pubDate>Mon, 31 Aug 2026 11:34:08 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Here's a good way to present AI videos</title>
-      <link>https://idiallo.com/blog/a-good-way-to-present-ai-videos-on-youtube</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/a-good-way-to-present-ai-videos-on-youtube</guid>
-      <pubDate>Mon, 31 Aug 2026 07:30:00 +0000</pubDate>
-      <description>Software and Tech stories from an Insider - iDiallo.com</description>
-    </item>
-    <item>
-      <title>Notes from August 2026</title>
-      <link>https://evanhahn.com/notes-from-august-2026/</link>
-      <guid isPermaLink="true">https://evanhahn.com/notes-from-august-2026/</guid>
-      <pubDate>Mon, 31 Aug 2026 06:00:00 +0000</pubDate>
-      <description>Evan Hahn (dot com)</description>
-    </item>
-    <item>
-      <title>Cancelation Terminology</title>
-      <link>https://matklad.github.io/2026/08/31/cancelation-terminology.html</link>
-      <guid isPermaLink="true">https://matklad.github.io/2026/08/31/cancelation-terminology.html</guid>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-      <description>matklad</description>
     </item>
   </channel>
 </rss>
