@@ -208,11 +208,11 @@ Last Updated: Wednesday, September 9th, 2026, 10:37:56 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [The Bulldozing of an Interface](https://blog.jim-nielsen.com/2026/bulldoze-ui/) — *Jim Nielsen’s Blog* `09-08`
-- [Pretraining progress is mostly coming from data](https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data) — *Dwarkesh Podcast* `09-08`
-- [OpenNMC is an open replacement for expensive APC management cards](https://www.jeffgeerling.com/blog/2026/opennmc-apc-ups-replacement-card/) — *Jeff Geerling* `09-08`
-- [Navier-Stokes in the news](https://www.johndcook.com/blog/2026/09/08/navier-stokes-in-the-news/) — *John D. Cook* `09-08`
-- [★ SuperDuper 4](https://daringfireball.net/2026/09/superduper_4) — *Daring Fireball* `09-08`
+- [★ The iPhone Air and iPhone 17 Pro](https://daringfireball.net/2026/09/the_iphone_air_and_iphone_17_pro) — *Daring Fireball* `09-09`
+- [Quoting Terence Tao](https://simonwillison.net/2026/Sep/9/terence-tao/) — *Simon Willison's Weblog* `09-09`
+- [On the Navier–Stokes Millennium Prize Problem](https://simonwillison.net/2026/Sep/8/on-navier-stokes/) — *Simon Willison's Weblog* `09-08`
+- [‘Modern Day Typographer’](https://www.youtube.com/watch?v=0Ck-NPqf2c8) — *Daring Fireball* `09-08`
+- [Introducing ChatGPT Images 2.5](https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/) — *Simon Willison's Weblog* `09-08`
 <!--BLOG_RADAR:end-->
 
 ---
