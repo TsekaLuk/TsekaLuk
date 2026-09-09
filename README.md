@@ -208,11 +208,11 @@ Last Updated: Wednesday, September 9th, 2026, 6:36:25 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Pluralistic: Anti-vax/anti-trust (08 Sep 2026)](https://pluralistic.net/2026/09/09/when-it-dont-rain/) — *Pluralistic: Daily links from Cory Doctorow* `09-09`
 - [★ The iPhone Air and iPhone 17 Pro](https://daringfireball.net/2026/09/the_iphone_air_and_iphone_17_pro) — *Daring Fireball* `09-09`
 - [Quoting Terence Tao](https://simonwillison.net/2026/Sep/9/terence-tao/) — *Simon Willison's Weblog* `09-09`
+- [Why we should anthropomorphize AI agents](https://seangoedecke.com/why-we-should-anthropomorphize-ai-agents/) — *seangoedecke.com RSS feed* `09-09`
 - [On the Navier–Stokes Millennium Prize Problem](https://simonwillison.net/2026/Sep/8/on-navier-stokes/) — *Simon Willison's Weblog* `09-08`
-- [‘Modern Day Typographer’](https://www.youtube.com/watch?v=0Ck-NPqf2c8) — *Daring Fireball* `09-08`
-- [Introducing ChatGPT Images 2.5](https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/) — *Simon Willison's Weblog* `09-08`
 <!--BLOG_RADAR:end-->
 
 ---
