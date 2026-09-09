@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 09 Sep 2026 16:23:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 20:48:27 +0000</lastBuildDate>
     <item>
       <title>Don’t Let Anyone Take Away Your Big Box of Cables</title>
       <link>https://blog.jim-nielsen.com/2026/hands-off-my-cables/</link>
@@ -67,6 +67,13 @@
       <guid isPermaLink="true">https://anildash.com/2026/09/09/cancer-capital-founders/</guid>
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
       <description>Anil Dash</description>
+    </item>
+    <item>
+      <title>Analysing 2048 on a 3×3 board</title>
+      <link>https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/small2048/</link>
+      <guid isPermaLink="true">https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/small2048/</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Simon Tatham's quasi-blog</description>
     </item>
     <item>
       <title>On the Navier–Stokes Millennium Prize Problem</title>
@@ -291,6 +298,13 @@
       <guid isPermaLink="true">https://pluralistic.net/2026/09/06/hotels-california/</guid>
       <pubDate>Mon, 07 Sep 2026 05:29:25 +0000</pubDate>
       <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Astra for Coding: Why Are We Doing This Again?</title>
+      <link>https://lucumr.pocoo.org/2026/9/7/astra-why/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/9/7/astra-why/</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
       <title>Research acceleration: The view inside OpenAI</title>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Sep/1/codex-libreoffice/</guid>
       <pubDate>Tue, 01 Sep 2026 19:03:01 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Nobody Believes It, Everybody Does It</title>
-      <link>https://blog.jim-nielsen.com/2026/nobody-believes-it-everybody-does-it/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/nobody-believes-it-everybody-does-it/</guid>
-      <pubDate>Tue, 01 Sep 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
-      <title>New Post: A Crash Course in Predicate Logic</title>
-      <link>https://buttondown.com/hillelwayne/archive/new-post-a-crash-course-in-predicate-logic/</link>
-      <guid isPermaLink="true">https://buttondown.com/hillelwayne/archive/new-post-a-crash-course-in-predicate-logic/</guid>
-      <pubDate>Tue, 01 Sep 2026 18:30:01 +0000</pubDate>
-      <description>Computer Things</description>
     </item>
   </channel>
 </rss>
