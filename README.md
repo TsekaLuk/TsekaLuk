@@ -208,11 +208,11 @@ Last Updated: Wednesday, September 9th, 2026, 11:45:56 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Pluralistic: Anti-vax/anti-trust (08 Sep 2026)](https://pluralistic.net/2026/09/09/when-it-dont-rain/) — *Pluralistic: Daily links from Cory Doctorow* `09-09`
-- [★ The iPhone Air and iPhone 17 Pro](https://daringfireball.net/2026/09/the_iphone_air_and_iphone_17_pro) — *Daring Fireball* `09-09`
-- [Quoting Terence Tao](https://simonwillison.net/2026/Sep/9/terence-tao/) — *Simon Willison's Weblog* `09-09`
-- [Why we should anthropomorphize AI agents](https://seangoedecke.com/why-we-should-anthropomorphize-ai-agents/) — *seangoedecke.com RSS feed* `09-09`
-- [On the Navier–Stokes Millennium Prize Problem](https://simonwillison.net/2026/Sep/8/on-navier-stokes/) — *Simon Willison's Weblog* `09-08`
+- [Don’t Let Anyone Take Away Your Big Box of Cables](https://blog.jim-nielsen.com/2026/hands-off-my-cables/) — *Jim Nielsen’s Blog* `09-09`
+- [A 50-year-old computer-assisted proof](https://www.johndcook.com/blog/2026/09/09/four-colors/) — *John D. Cook* `09-09`
+- [AI is an intelligence multiplier](https://www.johndcook.com/blog/2026/09/09/ai-multiplier/) — *John D. Cook* `09-09`
+- [The part of Navier-Stokes no one is talking about](https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/) — *John D. Cook* `09-09`
+- [Pluralistic: Anti-vax/anti-trust (09 Sep 2026)](https://pluralistic.net/2026/09/09/when-it-dont-rain/) — *Pluralistic: Daily links from Cory Doctorow* `09-09`
 <!--BLOG_RADAR:end-->
 
 ---

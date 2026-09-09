@@ -4,9 +4,37 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 09 Sep 2026 11:06:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 16:23:27 +0000</lastBuildDate>
     <item>
-      <title>Pluralistic: Anti-vax/anti-trust (08 Sep 2026)</title>
+      <title>Don’t Let Anyone Take Away Your Big Box of Cables</title>
+      <link>https://blog.jim-nielsen.com/2026/hands-off-my-cables/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/hands-off-my-cables/</guid>
+      <pubDate>Wed, 09 Sep 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
+    </item>
+    <item>
+      <title>A 50-year-old computer-assisted proof</title>
+      <link>https://www.johndcook.com/blog/2026/09/09/four-colors/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/09/09/four-colors/</guid>
+      <pubDate>Wed, 09 Sep 2026 14:59:48 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>AI is an intelligence multiplier</title>
+      <link>https://www.johndcook.com/blog/2026/09/09/ai-multiplier/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/09/09/ai-multiplier/</guid>
+      <pubDate>Wed, 09 Sep 2026 14:17:20 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>The part of Navier-Stokes no one is talking about</title>
+      <link>https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/</guid>
+      <pubDate>Wed, 09 Sep 2026 12:43:36 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Pluralistic: Anti-vax/anti-trust (09 Sep 2026)</title>
       <link>https://pluralistic.net/2026/09/09/when-it-dont-rain/</link>
       <guid isPermaLink="true">https://pluralistic.net/2026/09/09/when-it-dont-rain/</guid>
       <pubDate>Wed, 09 Sep 2026 10:28:57 +0000</pubDate>
@@ -34,6 +62,13 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
+      <title>Cancer Capital: It sucks for founders, too!</title>
+      <link>https://anildash.com/2026/09/09/cancer-capital-founders/</link>
+      <guid isPermaLink="true">https://anildash.com/2026/09/09/cancer-capital-founders/</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Anil Dash</description>
+    </item>
+    <item>
       <title>On the Navier–Stokes Millennium Prize Problem</title>
       <link>https://simonwillison.net/2026/Sep/8/on-navier-stokes/</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Sep/8/on-navier-stokes/</guid>
@@ -53,6 +88,13 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/</guid>
       <pubDate>Tue, 08 Sep 2026 22:46:33 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Better AI code comment detector</title>
+      <link>https://entropicthoughts.com/better-ai-comment-classifier</link>
+      <guid isPermaLink="true">https://entropicthoughts.com/better-ai-comment-classifier</guid>
+      <pubDate>Tue, 08 Sep 2026 22:00:00 +0000</pubDate>
+      <description>Entropic Thoughts</description>
     </item>
     <item>
       <title>Microsoft Plugs Nearly 1,000 Security Holes</title>
@@ -109,6 +151,13 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260908-00/?p=112679</guid>
       <pubDate>Tue, 08 Sep 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>ActivityPub - Is it worth defending against replay attacks and message/signature time skew?</title>
+      <link>https://shkspr.mobi/blog/2026/09/activitypub-is-it-worth-defending-against-replay-attacks-and-message-signature-time-skew/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/09/activitypub-is-it-worth-defending-against-replay-attacks-and-message-signature-time-skew/</guid>
+      <pubDate>Tue, 08 Sep 2026 11:34:51 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>What’s new in git-pkgs</title>
@@ -321,6 +370,13 @@
       <description>Bert Hubert's writings</description>
     </item>
     <item>
+      <title>The purpose of DNS is to spread scams</title>
+      <link>https://shkspr.mobi/blog/2026/09/the-purpose-of-dns-is-to-spread-scams/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/09/the-purpose-of-dns-is-to-spread-scams/</guid>
+      <pubDate>Sun, 06 Sep 2026 11:34:20 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>There's No Limit to How Bad Code Can Get</title>
       <link>https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/</guid>
@@ -396,6 +452,13 @@
       <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-09052026</guid>
       <pubDate>Sat, 05 Sep 2026 12:03:33 +0000</pubDate>
       <description>Construction Physics</description>
+    </item>
+    <item>
+      <title>Book Review: The Passing of the Dragon and Other Stories by Ken Liu ★★★★☆</title>
+      <link>https://shkspr.mobi/blog/2026/09/book-review-the-passing-of-the-dragon-and-other-stories-by-ken-liu/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/09/book-review-the-passing-of-the-dragon-and-other-stories-by-ken-liu/</guid>
+      <pubDate>Sat, 05 Sep 2026 11:34:47 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>This Week in Package Management: 5 September 2026</title>
@@ -503,18 +566,18 @@
       <description>John D. Cook</description>
     </item>
     <item>
-      <title>Rebuilding a 1995 GPS Time Server so I don't get Telstra'd</title>
-      <link>https://www.jeffgeerling.com/blog/2026/truetime-xl-gps-time-server-restomod/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/truetime-xl-gps-time-server-restomod/</guid>
-      <pubDate>Fri, 04 Sep 2026 14:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
       <title>What happens if you change a window class’s GCL_CB­WND­EXTRA?</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260904-00/?p=112675</link>
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260904-00/?p=112675</guid>
       <pubDate>Fri, 04 Sep 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>Rebuilding a 1995 GPS Time Server so I don't get Telstra'd</title>
+      <link>https://www.jeffgeerling.com/blog/2026/truetime-xl-gps-time-server-restomod/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/truetime-xl-gps-time-server-restomod/</guid>
+      <pubDate>Fri, 04 Sep 2026 14:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
     </item>
     <item>
       <title>Pluralistic: Amazon achieves enshittification inception (04 Sep 2026)</title>
@@ -634,6 +697,13 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260903-00/?p=112672</guid>
       <pubDate>Thu, 03 Sep 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>A reasonably practical guide to validating RFC 9421 HTTP Signatures for ActivityPub in PHP</title>
+      <link>https://shkspr.mobi/blog/2026/09/a-reasonably-practical-guide-to-validating-rfc-9421-http-signatures-for-activitypub-in-php/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/09/a-reasonably-practical-guide-to-validating-rfc-9421-http-signatures-for-activitypub-in-php/</guid>
+      <pubDate>Thu, 03 Sep 2026 11:34:12 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>De nieuwe AIVD/MIVD wet: een eerste overzicht</title>
@@ -774,76 +844,6 @@
       <guid isPermaLink="true">https://buttondown.com/hillelwayne/archive/new-post-a-crash-course-in-predicate-logic/</guid>
       <pubDate>Tue, 01 Sep 2026 18:30:01 +0000</pubDate>
       <description>Computer Things</description>
-    </item>
-    <item>
-      <title>Tim Cook’s Departure Memo on His Last Day as CEO</title>
-      <link>https://9to5mac.com/2026/08/31/read-tim-cooks-full-memo-to-apple-employees-on-his-last-day-as-ceo/</link>
-      <guid isPermaLink="true">https://9to5mac.com/2026/08/31/read-tim-cooks-full-memo-to-apple-employees-on-his-last-day-as-ceo/</guid>
-      <pubDate>Tue, 01 Sep 2026 18:11:57 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>GeoJSON Map Viewer</title>
-      <link>https://simonwillison.net/2026/Sep/1/geojson/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/1/geojson/</guid>
-      <pubDate>Tue, 01 Sep 2026 18:05:45 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Hyperscale Normalization</title>
-      <link>https://www.wheresyoured.at/hyperscale-normalization/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/hyperscale-normalization/</guid>
-      <pubDate>Tue, 01 Sep 2026 17:39:44 +0000</pubDate>
-      <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>Apple Reveals Forensic Evidence From Chang Liu’s MacBook in OpenAI Lawsuit</title>
-      <link>https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/</link>
-      <guid isPermaLink="true">https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/</guid>
-      <pubDate>Tue, 01 Sep 2026 17:36:08 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Quoting Tarn Adams</title>
-      <link>https://simonwillison.net/2026/Sep/1/tarn-adams/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/1/tarn-adams/</guid>
-      <pubDate>Tue, 01 Sep 2026 17:01:11 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Ajeya Cotra – Inside the OpenAI agent swarm that hacked Hugging Face</title>
-      <link>https://www.dwarkesh.com/p/ajeya-cotra</link>
-      <guid isPermaLink="true">https://www.dwarkesh.com/p/ajeya-cotra</guid>
-      <pubDate>Tue, 01 Sep 2026 15:41:06 +0000</pubDate>
-      <description>Dwarkesh Podcast</description>
-    </item>
-    <item>
-      <title>datasette-mcp 0.2</title>
-      <link>https://simonwillison.net/2026/Sep/1/datasette-mcp/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/1/datasette-mcp/</guid>
-      <pubDate>Tue, 01 Sep 2026 15:30:12 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Python 3.15.0 candidate 2 is here!</title>
-      <link>https://simonwillison.net/2026/Sep/1/python-315-rc-2/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/1/python-315-rc-2/</guid>
-      <pubDate>Tue, 01 Sep 2026 14:59:18 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Microspeak: Funded / unfunded</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260901-00/?p=112662</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260901-00/?p=112662</guid>
-      <pubDate>Tue, 01 Sep 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Git Submodules as a Package Manager</title>
-      <link>https://nesbitt.io/2026/09/01/git-submodules-as-a-package-manager.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/09/01/git-submodules-as-a-package-manager.html</guid>
-      <pubDate>Tue, 01 Sep 2026 09:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
     </item>
   </channel>
 </rss>
