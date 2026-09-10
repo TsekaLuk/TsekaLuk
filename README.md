@@ -208,11 +208,11 @@ Last Updated: Thursday, September 10th, 2026, 6:24:20 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Package Manager Trends](https://nesbitt.io/2026/09/10/package-manager-trends.html) — *Andrew Nesbitt* `09-10`
+- [Automattic Minus Matt](https://feed.tedium.co/link/15204/17444080/matt-mullenweg-automattic-leave-absence) — *Tedium: The Dull Side of the Internet.* `09-10`
 - [Quoting Calif Research](https://simonwillison.net/2026/Sep/10/calif-research/) — *Simon Willison's Weblog* `09-10`
+- [They really do think AI might kill everyone](https://seangoedecke.com/they-really-do-think-ai-might-kill-everyone/) — *seangoedecke.com RSS feed* `09-10`
 - [.blend URL Viewer](https://simonwillison.net/2026/Sep/9/blender-viewer/) — *Simon Willison's Weblog* `09-09`
-- [We own the Glass](https://idiallo.com/byte-size/) — *Software and Tech stories from an Insider - iDiallo.com* `09-09`
-- [Don’t Let Anyone Take Away Your Big Box of Cables](https://blog.jim-nielsen.com/2026/hands-off-my-cables/) — *Jim Nielsen’s Blog* `09-09`
-- [A 50-year-old computer-assisted proof](https://www.johndcook.com/blog/2026/09/09/four-colors/) — *John D. Cook* `09-09`
 <!--BLOG_RADAR:end-->
 
 ---

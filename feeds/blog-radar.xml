@@ -4,13 +4,34 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 10 Sep 2026 04:12:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 11:02:22 +0000</lastBuildDate>
+    <item>
+      <title>Package Manager Trends</title>
+      <link>https://nesbitt.io/2026/09/10/package-manager-trends.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/09/10/package-manager-trends.html</guid>
+      <pubDate>Thu, 10 Sep 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>Automattic Minus Matt</title>
+      <link>https://feed.tedium.co/link/15204/17444080/matt-mullenweg-automattic-leave-absence</link>
+      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17444080/matt-mullenweg-automattic-leave-absence</guid>
+      <pubDate>Thu, 10 Sep 2026 05:29:30 +0000</pubDate>
+      <description>Tedium: The Dull Side of the Internet.</description>
+    </item>
     <item>
       <title>Quoting Calif Research</title>
       <link>https://simonwillison.net/2026/Sep/10/calif-research/</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Sep/10/calif-research/</guid>
       <pubDate>Thu, 10 Sep 2026 00:56:41 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>They really do think AI might kill everyone</title>
+      <link>https://seangoedecke.com/they-really-do-think-ai-might-kill-everyone/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/they-really-do-think-ai-might-kill-everyone/</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>.blend URL Viewer</title>
@@ -48,6 +69,20 @@
       <description>John D. Cook</description>
     </item>
     <item>
+      <title>What algorithm did Windows XP use to choose your initial user picture?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683</guid>
+      <pubDate>Wed, 09 Sep 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>The Other Road</title>
+      <link>https://borretti.me/article/the-other-road</link>
+      <guid isPermaLink="true">https://borretti.me/article/the-other-road</guid>
+      <pubDate>Wed, 09 Sep 2026 14:00:00 +0000</pubDate>
+      <description>Fernando Borretti</description>
+    </item>
+    <item>
       <title>The part of Navier-Stokes no one is talking about</title>
       <link>https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/</link>
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/</guid>
@@ -76,18 +111,18 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>Why we should anthropomorphize AI agents</title>
-      <link>https://seangoedecke.com/why-we-should-anthropomorphize-ai-agents/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/why-we-should-anthropomorphize-ai-agents/</guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
       <title>A rant about phishing: It's not the user's fault (and not DNS either)</title>
       <link>https://maurycyz.com/misc/domains/</link>
       <guid isPermaLink="true">https://maurycyz.com/misc/domains/</guid>
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
       <description>Maurycy's Blog</description>
+    </item>
+    <item>
+      <title>Why we should anthropomorphize AI agents</title>
+      <link>https://seangoedecke.com/why-we-should-anthropomorphize-ai-agents/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/why-we-should-anthropomorphize-ai-agents/</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>Analysing 2048 on a 3×3 board</title>
@@ -809,41 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/</guid>
       <pubDate>Wed, 02 Sep 2026 14:16:42 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>The perils of binding to value types in XAML</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260902-00/?p=112668</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260902-00/?p=112668</guid>
-      <pubDate>Wed, 02 Sep 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Pluralistic: Unpermissioned research (02 Sep 2026)</title>
-      <link>https://pluralistic.net/2026/09/02/scrape-scrope-scrap/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/09/02/scrape-scrope-scrap/</guid>
-      <pubDate>Wed, 02 Sep 2026 10:19:10 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Quoting Rick Brewster</title>
-      <link>https://simonwillison.net/2026/Sep/2/rick-brewster/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/2/rick-brewster/</guid>
-      <pubDate>Wed, 02 Sep 2026 05:50:57 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>How to protect yourself from workslop</title>
-      <link>https://seangoedecke.com/how-to-protect-yourself-from-workslop/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/how-to-protect-yourself-from-workslop/</guid>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>Static Allocation, Constant Work</title>
-      <link>https://matklad.github.io/2026/09/02/static-allocation-constant-work.html</link>
-      <guid isPermaLink="true">https://matklad.github.io/2026/09/02/static-allocation-constant-work.html</guid>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-      <description>matklad</description>
     </item>
   </channel>
 </rss>
