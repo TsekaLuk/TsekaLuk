@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 10 Sep 2026 11:02:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 16:13:10 +0000</lastBuildDate>
+    <item>
+      <title>AI Is Breaking This Thing We Call Trust</title>
+      <link>https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/</link>
+      <guid isPermaLink="true">https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/</guid>
+      <pubDate>Thu, 10 Sep 2026 14:18:06 +0000</pubDate>
+      <description>Terrible Software</description>
+    </item>
+    <item>
+      <title>Bayesian OCR</title>
+      <link>https://www.johndcook.com/blog/2026/09/10/bayesian-ocr/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/09/10/bayesian-ocr/</guid>
+      <pubDate>Thu, 10 Sep 2026 12:32:31 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Put an AV test at the start of your slides</title>
+      <link>https://shkspr.mobi/blog/2026/09/put-an-av-test-at-the-start-of-your-slides/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/09/put-an-av-test-at-the-start-of-your-slides/</guid>
+      <pubDate>Thu, 10 Sep 2026 11:34:10 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
     <item>
       <title>Package Manager Trends</title>
       <link>https://nesbitt.io/2026/09/10/package-manager-trends.html</link>
@@ -111,13 +132,6 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>A rant about phishing: It's not the user's fault (and not DNS either)</title>
-      <link>https://maurycyz.com/misc/domains/</link>
-      <guid isPermaLink="true">https://maurycyz.com/misc/domains/</guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
-    </item>
-    <item>
       <title>Why we should anthropomorphize AI agents</title>
       <link>https://seangoedecke.com/why-we-should-anthropomorphize-ai-agents/</link>
       <guid isPermaLink="true">https://seangoedecke.com/why-we-should-anthropomorphize-ai-agents/</guid>
@@ -125,11 +139,11 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>Analysing 2048 on a 3×3 board</title>
-      <link>https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/small2048/</link>
-      <guid isPermaLink="true">https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/small2048/</guid>
+      <title>A rant about phishing: It's not the user's fault (and not DNS either)</title>
+      <link>https://maurycyz.com/misc/domains/</link>
+      <guid isPermaLink="true">https://maurycyz.com/misc/domains/</guid>
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Simon Tatham's quasi-blog</description>
+      <description>Maurycy's Blog</description>
     </item>
     <item>
       <title>Cancer Capital: It sucks for founders, too!</title>
@@ -829,20 +843,6 @@
       <link>https://simonwillison.net/2026/Sep/2/llm-anthropic/</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Sep/2/llm-anthropic/</guid>
       <pubDate>Wed, 02 Sep 2026 17:59:32 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>llm-gemini 0.34</title>
-      <link>https://simonwillison.net/2026/Sep/2/llm-gemini/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/2/llm-gemini/</guid>
-      <pubDate>Wed, 02 Sep 2026 16:39:38 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Claude's new system prompt really doesn't want to reproduce song lyrics</title>
-      <link>https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/</guid>
-      <pubDate>Wed, 02 Sep 2026 14:16:42 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
     </item>
   </channel>

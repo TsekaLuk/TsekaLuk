@@ -208,11 +208,11 @@ Last Updated: Thursday, September 10th, 2026, 11:41:05 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [AI Is Breaking This Thing We Call Trust](https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/) — *Terrible Software* `09-10`
+- [Bayesian OCR](https://www.johndcook.com/blog/2026/09/10/bayesian-ocr/) — *John D. Cook* `09-10`
+- [Put an AV test at the start of your slides](https://shkspr.mobi/blog/2026/09/put-an-av-test-at-the-start-of-your-slides/) — *Terence Eden’s Blog* `09-10`
 - [Package Manager Trends](https://nesbitt.io/2026/09/10/package-manager-trends.html) — *Andrew Nesbitt* `09-10`
 - [Automattic Minus Matt](https://feed.tedium.co/link/15204/17444080/matt-mullenweg-automattic-leave-absence) — *Tedium: The Dull Side of the Internet.* `09-10`
-- [Quoting Calif Research](https://simonwillison.net/2026/Sep/10/calif-research/) — *Simon Willison's Weblog* `09-10`
-- [They really do think AI might kill everyone](https://seangoedecke.com/they-really-do-think-ai-might-kill-everyone/) — *seangoedecke.com RSS feed* `09-10`
-- [.blend URL Viewer](https://simonwillison.net/2026/Sep/9/blender-viewer/) — *Simon Willison's Weblog* `09-09`
 <!--BLOG_RADAR:end-->
 
 ---
