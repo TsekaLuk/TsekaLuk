@@ -208,11 +208,11 @@ Last Updated: Thursday, September 10th, 2026, 10:39:54 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Quoting Calif Research](https://simonwillison.net/2026/Sep/10/calif-research/) — *Simon Willison's Weblog* `09-10`
+- [.blend URL Viewer](https://simonwillison.net/2026/Sep/9/blender-viewer/) — *Simon Willison's Weblog* `09-09`
+- [We own the Glass](https://idiallo.com/byte-size/) — *Software and Tech stories from an Insider - iDiallo.com* `09-09`
 - [Don’t Let Anyone Take Away Your Big Box of Cables](https://blog.jim-nielsen.com/2026/hands-off-my-cables/) — *Jim Nielsen’s Blog* `09-09`
 - [A 50-year-old computer-assisted proof](https://www.johndcook.com/blog/2026/09/09/four-colors/) — *John D. Cook* `09-09`
-- [AI is an intelligence multiplier](https://www.johndcook.com/blog/2026/09/09/ai-multiplier/) — *John D. Cook* `09-09`
-- [The part of Navier-Stokes no one is talking about](https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/) — *John D. Cook* `09-09`
-- [Pluralistic: Anti-vax/anti-trust (09 Sep 2026)](https://pluralistic.net/2026/09/09/when-it-dont-rain/) — *Pluralistic: Daily links from Cory Doctorow* `09-09`
 <!--BLOG_RADAR:end-->
 
 ---
