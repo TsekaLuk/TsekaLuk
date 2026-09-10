@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 10 Sep 2026 16:13:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 20:43:13 +0000</lastBuildDate>
+    <item>
+      <title>Apple’s OS 27 Updates Will Be Released on Monday, 14 September</title>
+      <link>https://9to5mac.com/2026/09/09/apple-confirms-macos-27-golden-gate-launch-date-september-14/</link>
+      <guid isPermaLink="true">https://9to5mac.com/2026/09/09/apple-confirms-macos-27-golden-gate-launch-date-september-14/</guid>
+      <pubDate>Thu, 10 Sep 2026 20:15:52 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>An Ode to Links</title>
+      <link>https://blog.jim-nielsen.com/2026/ode-to-links/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/ode-to-links/</guid>
+      <pubDate>Thu, 10 Sep 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
+    </item>
+    <item>
+      <title>Extending Raschka's GPT-2: an MoE trained from scratch on an RTX 3090</title>
+      <link>https://www.gilesthomas.com/2026/09/gpt-2-to-moe</link>
+      <guid isPermaLink="true">https://www.gilesthomas.com/2026/09/gpt-2-to-moe</guid>
+      <pubDate>Thu, 10 Sep 2026 18:45:00 +0000</pubDate>
+      <description>Giles' blog</description>
+    </item>
+    <item>
+      <title>Joanna Stern on the iPhone Duo</title>
+      <link>https://youtu.be/VNzl-q0EGfg</link>
+      <guid isPermaLink="true">https://youtu.be/VNzl-q0EGfg</guid>
+      <pubDate>Thu, 10 Sep 2026 17:29:30 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>AI Is Breaking This Thing We Call Trust</title>
       <link>https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/</link>
@@ -144,6 +172,13 @@
       <guid isPermaLink="true">https://maurycyz.com/misc/domains/</guid>
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
       <description>Maurycy's Blog</description>
+    </item>
+    <item>
+      <title>Analysing 2048 on a 3×3 board</title>
+      <link>https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/small2048/</link>
+      <guid isPermaLink="true">https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/small2048/</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Simon Tatham's quasi-blog</description>
     </item>
     <item>
       <title>Cancer Capital: It sucks for founders, too!</title>
@@ -657,18 +692,18 @@
       <description>John D. Cook</description>
     </item>
     <item>
-      <title>Rebuilding a 1995 GPS Time Server so I don't get Telstra'd</title>
-      <link>https://www.jeffgeerling.com/blog/2026/truetime-xl-gps-time-server-restomod/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/truetime-xl-gps-time-server-restomod/</guid>
-      <pubDate>Fri, 04 Sep 2026 14:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
       <title>What happens if you change a window class’s GCL_CB­WND­EXTRA?</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260904-00/?p=112675</link>
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260904-00/?p=112675</guid>
       <pubDate>Fri, 04 Sep 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>Rebuilding a 1995 GPS Time Server so I don't get Telstra'd</title>
+      <link>https://www.jeffgeerling.com/blog/2026/truetime-xl-gps-time-server-restomod/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/truetime-xl-gps-time-server-restomod/</guid>
+      <pubDate>Fri, 04 Sep 2026 14:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
     </item>
     <item>
       <title>Pluralistic: Amazon achieves enshittification inception (04 Sep 2026)</title>
@@ -809,41 +844,6 @@
       <guid isPermaLink="true">https://pluralistic.net/2026/09/03/broken-arrows/</guid>
       <pubDate>Thu, 03 Sep 2026 08:45:19 +0000</pubDate>
       <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Second Quest</title>
-      <link>https://feed.tedium.co/link/15204/17438215/mapquest-unexpected-revival</link>
-      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17438215/mapquest-unexpected-revival</guid>
-      <pubDate>Thu, 03 Sep 2026 03:24:54 +0000</pubDate>
-      <description>Tedium: The Dull Side of the Internet.</description>
-    </item>
-    <item>
-      <title>iOS 27 Introduces New ‘iPhone Handoff’ Feature</title>
-      <link>https://www.macrumors.com/2026/09/02/ios-27-iphone-handoff-feature/</link>
-      <guid isPermaLink="true">https://www.macrumors.com/2026/09/02/ios-27-iphone-handoff-feature/</guid>
-      <pubDate>Wed, 02 Sep 2026 20:58:28 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>llm-openrouter 0.7.1</title>
-      <link>https://simonwillison.net/2026/Sep/2/llm-openrouter/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/2/llm-openrouter/</guid>
-      <pubDate>Wed, 02 Sep 2026 20:23:26 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>llm 0.34</title>
-      <link>https://simonwillison.net/2026/Sep/2/llm/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/2/llm/</guid>
-      <pubDate>Wed, 02 Sep 2026 19:23:52 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>llm-anthropic 0.28</title>
-      <link>https://simonwillison.net/2026/Sep/2/llm-anthropic/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/2/llm-anthropic/</guid>
-      <pubDate>Wed, 02 Sep 2026 17:59:32 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>

@@ -208,11 +208,11 @@ Last Updated: Friday, September 11th, 2026, 4:19:29 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Apple’s OS 27 Updates Will Be Released on Monday, 14 September](https://9to5mac.com/2026/09/09/apple-confirms-macos-27-golden-gate-launch-date-september-14/) — *Daring Fireball* `09-10`
+- [An Ode to Links](https://blog.jim-nielsen.com/2026/ode-to-links/) — *Jim Nielsen’s Blog* `09-10`
+- [Extending Raschka's GPT-2: an MoE trained from scratch on an RTX 3090](https://www.gilesthomas.com/2026/09/gpt-2-to-moe) — *Giles' blog* `09-10`
+- [Joanna Stern on the iPhone Duo](https://youtu.be/VNzl-q0EGfg) — *Daring Fireball* `09-10`
 - [AI Is Breaking This Thing We Call Trust](https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/) — *Terrible Software* `09-10`
-- [Bayesian OCR](https://www.johndcook.com/blog/2026/09/10/bayesian-ocr/) — *John D. Cook* `09-10`
-- [Put an AV test at the start of your slides](https://shkspr.mobi/blog/2026/09/put-an-av-test-at-the-start-of-your-slides/) — *Terence Eden’s Blog* `09-10`
-- [Package Manager Trends](https://nesbitt.io/2026/09/10/package-manager-trends.html) — *Andrew Nesbitt* `09-10`
-- [Automattic Minus Matt](https://feed.tedium.co/link/15204/17444080/matt-mullenweg-automattic-leave-absence) — *Tedium: The Dull Side of the Internet.* `09-10`
 <!--BLOG_RADAR:end-->
 
 ---
