@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 11 Sep 2026 04:12:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 11:00:44 +0000</lastBuildDate>
     <item>
       <title>Datasette 1.0a39 and 0.65.4 security releases</title>
       <link>https://simonwillison.net/2026/Sep/11/datasette-security/</link>
@@ -181,18 +181,18 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>Why we should anthropomorphize AI agents</title>
-      <link>https://seangoedecke.com/why-we-should-anthropomorphize-ai-agents/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/why-we-should-anthropomorphize-ai-agents/</guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
       <title>A rant about phishing: It's not the user's fault (and not DNS either)</title>
       <link>https://maurycyz.com/misc/domains/</link>
       <guid isPermaLink="true">https://maurycyz.com/misc/domains/</guid>
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
       <description>Maurycy's Blog</description>
+    </item>
+    <item>
+      <title>Why we should anthropomorphize AI agents</title>
+      <link>https://seangoedecke.com/why-we-should-anthropomorphize-ai-agents/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/why-we-should-anthropomorphize-ai-agents/</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>Analysing 2048 on a 3×3 board</title>
@@ -713,18 +713,18 @@
       <description>John D. Cook</description>
     </item>
     <item>
-      <title>What happens if you change a window class’s GCL_CB­WND­EXTRA?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260904-00/?p=112675</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260904-00/?p=112675</guid>
-      <pubDate>Fri, 04 Sep 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
       <title>Rebuilding a 1995 GPS Time Server so I don't get Telstra'd</title>
       <link>https://www.jeffgeerling.com/blog/2026/truetime-xl-gps-time-server-restomod/</link>
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/truetime-xl-gps-time-server-restomod/</guid>
       <pubDate>Fri, 04 Sep 2026 14:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>What happens if you change a window class’s GCL_CB­WND­EXTRA?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260904-00/?p=112675</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260904-00/?p=112675</guid>
+      <pubDate>Fri, 04 Sep 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Pluralistic: Amazon achieves enshittification inception (04 Sep 2026)</title>
@@ -762,18 +762,18 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>Cancer Capital: VC didn’t use to work like this</title>
-      <link>https://anildash.com/2026/09/04/vc-didnt-use-to-work-like-this/</link>
-      <guid isPermaLink="true">https://anildash.com/2026/09/04/vc-didnt-use-to-work-like-this/</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Anil Dash</description>
-    </item>
-    <item>
       <title>Support Local Variables</title>
       <link>https://bernsteinbear.com/blog/support-local-variables/?utm_source=rss</link>
       <guid isPermaLink="true">https://bernsteinbear.com/blog/support-local-variables/?utm_source=rss</guid>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
       <description>Max Bernstein's Blog</description>
+    </item>
+    <item>
+      <title>Cancer Capital: VC didn’t use to work like this</title>
+      <link>https://anildash.com/2026/09/04/vc-didnt-use-to-work-like-this/</link>
+      <guid isPermaLink="true">https://anildash.com/2026/09/04/vc-didnt-use-to-work-like-this/</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Anil Dash</description>
     </item>
     <item>
       <title>we have a year to fix security everywhere</title>
