@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 10 Sep 2026 20:43:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 04:12:28 +0000</lastBuildDate>
+    <item>
+      <title>Datasette 1.0a39 and 0.65.4 security releases</title>
+      <link>https://simonwillison.net/2026/Sep/11/datasette-security/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/11/datasette-security/</guid>
+      <pubDate>Fri, 11 Sep 2026 03:27:16 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Any Nix package, live in your browser</title>
+      <link>https://simonwillison.net/2026/Sep/10/trynix/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/10/trynix/</guid>
+      <pubDate>Thu, 10 Sep 2026 23:44:15 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Native is now the future of mobile at Shopify</title>
+      <link>https://simonwillison.net/2026/Sep/10/shopify-react-native/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/10/shopify-react-native/</guid>
+      <pubDate>Thu, 10 Sep 2026 21:11:15 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Apple’s OS 27 Updates Will Be Released on Monday, 14 September</title>
       <link>https://9to5mac.com/2026/09/09/apple-confirms-macos-27-golden-gate-launch-date-september-14/</link>
@@ -188,7 +209,7 @@
       <description>Anil Dash</description>
     </item>
     <item>
-      <title>On the Navier–Stokes Millennium Prize Problem</title>
+      <title>Some thoughts on the Navier–Stokes Millennium Prize Problem</title>
       <link>https://simonwillison.net/2026/Sep/8/on-navier-stokes/</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Sep/8/on-navier-stokes/</guid>
       <pubDate>Tue, 08 Sep 2026 23:55:12 +0000</pubDate>
@@ -741,18 +762,18 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>Support Local Variables</title>
-      <link>https://bernsteinbear.com/blog/support-local-variables/?utm_source=rss</link>
-      <guid isPermaLink="true">https://bernsteinbear.com/blog/support-local-variables/?utm_source=rss</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Max Bernstein's Blog</description>
-    </item>
-    <item>
       <title>Cancer Capital: VC didn’t use to work like this</title>
       <link>https://anildash.com/2026/09/04/vc-didnt-use-to-work-like-this/</link>
       <guid isPermaLink="true">https://anildash.com/2026/09/04/vc-didnt-use-to-work-like-this/</guid>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
       <description>Anil Dash</description>
+    </item>
+    <item>
+      <title>Support Local Variables</title>
+      <link>https://bernsteinbear.com/blog/support-local-variables/?utm_source=rss</link>
+      <guid isPermaLink="true">https://bernsteinbear.com/blog/support-local-variables/?utm_source=rss</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Max Bernstein's Blog</description>
     </item>
     <item>
       <title>we have a year to fix security everywhere</title>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260903-00/?p=112672</guid>
       <pubDate>Thu, 03 Sep 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>A reasonably practical guide to validating RFC 9421 HTTP Signatures for ActivityPub in PHP</title>
-      <link>https://shkspr.mobi/blog/2026/09/a-reasonably-practical-guide-to-validating-rfc-9421-http-signatures-for-activitypub-in-php/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/09/a-reasonably-practical-guide-to-validating-rfc-9421-http-signatures-for-activitypub-in-php/</guid>
-      <pubDate>Thu, 03 Sep 2026 11:34:12 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>De nieuwe AIVD/MIVD wet: een eerste overzicht</title>
-      <link>https://berthub.eu/articles/posts/de-wiv-202x/</link>
-      <guid isPermaLink="true">https://berthub.eu/articles/posts/de-wiv-202x/</guid>
-      <pubDate>Thu, 03 Sep 2026 11:20:00 +0000</pubDate>
-      <description>Bert Hubert's writings</description>
-    </item>
-    <item>
-      <title>Pluralistic: Preparing for a post-Trump internet (03 Sep 2026)</title>
-      <link>https://pluralistic.net/2026/09/03/broken-arrows/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/09/03/broken-arrows/</guid>
-      <pubDate>Thu, 03 Sep 2026 08:45:19 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
     </item>
   </channel>
 </rss>

@@ -208,11 +208,11 @@ Last Updated: Friday, September 11th, 2026, 10:33:30 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Datasette 1.0a39 and 0.65.4 security releases](https://simonwillison.net/2026/Sep/11/datasette-security/) — *Simon Willison's Weblog* `09-11`
+- [Any Nix package, live in your browser](https://simonwillison.net/2026/Sep/10/trynix/) — *Simon Willison's Weblog* `09-10`
+- [Native is now the future of mobile at Shopify](https://simonwillison.net/2026/Sep/10/shopify-react-native/) — *Simon Willison's Weblog* `09-10`
 - [Apple’s OS 27 Updates Will Be Released on Monday, 14 September](https://9to5mac.com/2026/09/09/apple-confirms-macos-27-golden-gate-launch-date-september-14/) — *Daring Fireball* `09-10`
 - [An Ode to Links](https://blog.jim-nielsen.com/2026/ode-to-links/) — *Jim Nielsen’s Blog* `09-10`
-- [Extending Raschka's GPT-2: an MoE trained from scratch on an RTX 3090](https://www.gilesthomas.com/2026/09/gpt-2-to-moe) — *Giles' blog* `09-10`
-- [Joanna Stern on the iPhone Duo](https://youtu.be/VNzl-q0EGfg) — *Daring Fireball* `09-10`
-- [AI Is Breaking This Thing We Call Trust](https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/) — *Terrible Software* `09-10`
 <!--BLOG_RADAR:end-->
 
 ---
