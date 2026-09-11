@@ -208,11 +208,11 @@ Last Updated: Saturday, September 12th, 2026, 4:19:55 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Quoting huggingface.co/security.txt](https://simonwillison.net/2026/Sep/11/hugging-face-security/) — *Simon Willison's Weblog* `09-11`
-- [This Week on The Analog Antiquarian](https://www.filfre.net/2026/09/this-week-on-the-analog-antiquarian/) — *The Digital Antiquarian* `09-11`
-- [Pluralistic: Inefficiency is bad, actually (11 Sep 2026)](https://pluralistic.net/2026/09/11/mazzucato-thought/) — *Pluralistic: Daily links from Cory Doctorow* `09-11`
-- [Soft-deprecating re.match()](https://simonwillison.net/2026/Sep/11/soft-deprecating-re-match/) — *Simon Willison's Weblog* `09-11`
-- [Premium: The Hater's Guide To Broadcom](https://www.wheresyoured.at/premium-the-haters-guide-to-broadcom/) — *Ed Zitron's Where's Your Ed At* `09-11`
+- [Weekly Update 521: Breach Perception v. Reality](https://www.troyhunt.com/weekly-update-521/) — *Troy Hunt* `09-11`
+- [Clarus the Dogcow Easter Egg in iOS 27 Settings](https://9to5mac.com/2026/09/11/apple-hid-a-classic-mac-easter-egg-in-the-ios-27-settings-app/) — *Daring Fireball* `09-11`
+- [You Can Drop SEO](https://idiallo.com/blog/you-can-drop-the-seo) — *Software and Tech stories from an Insider - iDiallo.com* `09-11`
+- [XCancel Is Back](https://xcancel.com/cdclegal) — *Daring Fireball* `09-11`
+- [Quoting Boris Cherny](https://simonwillison.net/2026/Sep/11/boris-cherny/) — *Simon Willison's Weblog* `09-11`
 <!--BLOG_RADAR:end-->
 
 ---
