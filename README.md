@@ -208,11 +208,11 @@ Last Updated: Friday, September 11th, 2026, 11:42:17 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Datasette 1.0a39 and 0.65.4 security releases](https://simonwillison.net/2026/Sep/11/datasette-security/) — *Simon Willison's Weblog* `09-11`
-- [Any Nix package, live in your browser](https://simonwillison.net/2026/Sep/10/trynix/) — *Simon Willison's Weblog* `09-10`
-- [Native is now the future of mobile at Shopify](https://simonwillison.net/2026/Sep/10/shopify-react-native/) — *Simon Willison's Weblog* `09-10`
-- [Apple’s OS 27 Updates Will Be Released on Monday, 14 September](https://9to5mac.com/2026/09/09/apple-confirms-macos-27-golden-gate-launch-date-september-14/) — *Daring Fireball* `09-10`
-- [An Ode to Links](https://blog.jim-nielsen.com/2026/ode-to-links/) — *Jim Nielsen’s Blog* `09-10`
+- [Quoting huggingface.co/security.txt](https://simonwillison.net/2026/Sep/11/hugging-face-security/) — *Simon Willison's Weblog* `09-11`
+- [This Week on The Analog Antiquarian](https://www.filfre.net/2026/09/this-week-on-the-analog-antiquarian/) — *The Digital Antiquarian* `09-11`
+- [Pluralistic: Inefficiency is bad, actually (11 Sep 2026)](https://pluralistic.net/2026/09/11/mazzucato-thought/) — *Pluralistic: Daily links from Cory Doctorow* `09-11`
+- [Soft-deprecating re.match()](https://simonwillison.net/2026/Sep/11/soft-deprecating-re-match/) — *Simon Willison's Weblog* `09-11`
+- [Premium: The Hater's Guide To Broadcom](https://www.wheresyoured.at/premium-the-haters-guide-to-broadcom/) — *Ed Zitron's Where's Your Ed At* `09-11`
 <!--BLOG_RADAR:end-->
 
 ---
