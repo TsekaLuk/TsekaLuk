@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 12 Sep 2026 04:11:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 10:29:58 +0000</lastBuildDate>
     <item>
       <title>OpenAI agents attacked RubyGems back in May</title>
       <link>https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/</link>
@@ -377,13 +377,6 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>A rant about phishing: It's not the user's fault (and not DNS either)</title>
-      <link>https://maurycyz.com/misc/domains/</link>
-      <guid isPermaLink="true">https://maurycyz.com/misc/domains/</guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
-    </item>
-    <item>
       <title>Why we should anthropomorphize AI agents</title>
       <link>https://seangoedecke.com/why-we-should-anthropomorphize-ai-agents/</link>
       <guid isPermaLink="true">https://seangoedecke.com/why-we-should-anthropomorphize-ai-agents/</guid>
@@ -391,11 +384,11 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>Analysing 2048 on a 3×3 board</title>
-      <link>https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/small2048/</link>
-      <guid isPermaLink="true">https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/small2048/</guid>
+      <title>A rant about phishing: It's not the user's fault (and not DNS either)</title>
+      <link>https://maurycyz.com/misc/domains/</link>
+      <guid isPermaLink="true">https://maurycyz.com/misc/domains/</guid>
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Simon Tatham's quasi-blog</description>
+      <description>Maurycy's Blog</description>
     </item>
     <item>
       <title>Cancer Capital: It sucks for founders, too!</title>
@@ -843,6 +836,13 @@
       <link>https://www.nytimes.com/athletic/7513882/2026/09/02/clippers-kawhi-leonard-punishment-fine-suspensions-nba-investigation/?unlocked_article_code=1.-lA.wcSN.awOHwzojR5nR</link>
       <guid isPermaLink="true">https://www.nytimes.com/athletic/7513882/2026/09/02/clippers-kawhi-leonard-punishment-fine-suspensions-nba-investigation/?unlocked_article_code=1.-lA.wcSN.awOHwzojR5nR</guid>
       <pubDate>Fri, 04 Sep 2026 23:23:34 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Apple Fixed ‎TestFlight’s Screwy Sort Order</title>
+      <link>https://apps.apple.com/us/app/testflight/id899247664</link>
+      <guid isPermaLink="true">https://apps.apple.com/us/app/testflight/id899247664</guid>
+      <pubDate>Fri, 04 Sep 2026 20:04:47 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
   </channel>
