@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 11 Sep 2026 20:49:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 04:11:30 +0000</lastBuildDate>
+    <item>
+      <title>OpenAI agents attacked RubyGems back in May</title>
+      <link>https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/</guid>
+      <pubDate>Sat, 12 Sep 2026 00:42:25 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Last Year’s iPhone Share Amongst Users of Widgetsmith</title>
+      <link>https://mastodon.social/@_Davidsmith/117253170115740653</link>
+      <guid isPermaLink="true">https://mastodon.social/@_Davidsmith/117253170115740653</guid>
+      <pubDate>Sat, 12 Sep 2026 00:19:57 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Don't build tools for AI agents</title>
+      <link>https://seangoedecke.com/dont-build-tools-for-ai-agents/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/dont-build-tools-for-ai-agents/</guid>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>So you want to use OpenRouter?</title>
+      <link>https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/</guid>
+      <pubDate>Fri, 11 Sep 2026 22:49:18 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Weekly Update 521: Breach Perception v. Reality</title>
       <link>https://www.troyhunt.com/weekly-update-521/</link>
@@ -13,7 +41,7 @@
       <description>Troy Hunt</description>
     </item>
     <item>
-      <title>Clarus the Dogcow Easter Egg in iOS 27 Settings</title>
+      <title>Clarus the Dogcow Easter Egg in Apple’s OS 27 Settings</title>
       <link>https://9to5mac.com/2026/09/11/apple-hid-a-classic-mac-easter-egg-in-the-ios-27-settings-app/</link>
       <guid isPermaLink="true">https://9to5mac.com/2026/09/11/apple-hid-a-classic-mac-easter-egg-in-the-ios-27-settings-app/</guid>
       <pubDate>Fri, 11 Sep 2026 20:33:03 +0000</pubDate>
@@ -38,6 +66,13 @@
       <link>https://simonwillison.net/2026/Sep/11/boris-cherny/</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Sep/11/boris-cherny/</guid>
       <pubDate>Fri, 11 Sep 2026 17:47:11 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Feeling sad about AI</title>
+      <link>https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/</guid>
+      <pubDate>Fri, 11 Sep 2026 17:28:37 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
@@ -129,6 +164,34 @@
       <link>https://simonwillison.net/2026/Sep/11/datasette-security/</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Sep/11/datasette-security/</guid>
       <pubDate>Fri, 11 Sep 2026 03:27:16 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>datasette-publish-fly 1.4</title>
+      <link>https://simonwillison.net/2026/Sep/11/datasette-publish-fly/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/11/datasette-publish-fly/</guid>
+      <pubDate>Fri, 11 Sep 2026 02:58:52 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>github-to-sqlite 2.9.1</title>
+      <link>https://simonwillison.net/2026/Sep/11/github-to-sqlite/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/11/github-to-sqlite/</guid>
+      <pubDate>Fri, 11 Sep 2026 00:28:39 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>datasette 0.65.4</title>
+      <link>https://simonwillison.net/2026/Sep/11/datasette/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/11/datasette/</guid>
+      <pubDate>Fri, 11 Sep 2026 00:06:55 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>datasette 1.0a39</title>
+      <link>https://simonwillison.net/2026/Sep/11/datasette-2/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/11/datasette-2/</guid>
+      <pubDate>Fri, 11 Sep 2026 00:05:54 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
@@ -326,6 +389,13 @@
       <guid isPermaLink="true">https://seangoedecke.com/why-we-should-anthropomorphize-ai-agents/</guid>
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Analysing 2048 on a 3×3 board</title>
+      <link>https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/small2048/</link>
+      <guid isPermaLink="true">https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/small2048/</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Simon Tatham's quasi-blog</description>
     </item>
     <item>
       <title>Cancer Capital: It sucks for founders, too!</title>
@@ -769,81 +839,11 @@
       <description>computers are bad</description>
     </item>
     <item>
-      <title>The Pelican comparison grid for Astra is pretty interesting</title>
-      <link>https://simonwillison.net/2026/Sep/4/astra-pelicans/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/4/astra-pelicans/</guid>
-      <pubDate>Fri, 04 Sep 2026 23:59:05 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
       <title>NBA Brings the Hammer on the Clippers — $30 Million Fine, 5 First-Round Draft Picks, and Steve Ballmer Is Banned for a Year</title>
       <link>https://www.nytimes.com/athletic/7513882/2026/09/02/clippers-kawhi-leonard-punishment-fine-suspensions-nba-investigation/?unlocked_article_code=1.-lA.wcSN.awOHwzojR5nR</link>
       <guid isPermaLink="true">https://www.nytimes.com/athletic/7513882/2026/09/02/clippers-kawhi-leonard-punishment-fine-suspensions-nba-investigation/?unlocked_article_code=1.-lA.wcSN.awOHwzojR5nR</guid>
       <pubDate>Fri, 04 Sep 2026 23:23:34 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Apple Fixed ‎TestFlight’s Screwy Sort Order</title>
-      <link>https://apps.apple.com/us/app/testflight/id899247664</link>
-      <guid isPermaLink="true">https://apps.apple.com/us/app/testflight/id899247664</guid>
-      <pubDate>Fri, 04 Sep 2026 20:04:47 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Vinted</title>
-      <link>https://www.vinted.com/</link>
-      <guid isPermaLink="true">https://www.vinted.com/</guid>
-      <pubDate>Fri, 04 Sep 2026 19:55:45 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>★ Writing With Unnatural Constraints</title>
-      <link>https://daringfireball.net/2026/09/writing_with_unnatural_constraints</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/09/writing_with_unnatural_constraints</guid>
-      <pubDate>Fri, 04 Sep 2026 18:07:18 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>OpenAI's rogue agents were caught communicating via public wikis</title>
-      <link>https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/</guid>
-      <pubDate>Fri, 04 Sep 2026 17:38:48 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Premium: The Hater's Guide To Circular Financing (Part Two)</title>
-      <link>https://www.wheresyoured.at/premium-the-haters-guide-to-circular-financing-part-two/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/premium-the-haters-guide-to-circular-financing-part-two/</guid>
-      <pubDate>Fri, 04 Sep 2026 16:24:26 +0000</pubDate>
-      <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>FBI Probes Service Selling 153M+ Drivers Licenses</title>
-      <link>https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/</link>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/</guid>
-      <pubDate>Fri, 04 Sep 2026 16:15:43 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Porsche Unleashed</title>
-      <link>https://www.filfre.net/2026/09/porsche-unleashed/</link>
-      <guid isPermaLink="true">https://www.filfre.net/2026/09/porsche-unleashed/</guid>
-      <pubDate>Fri, 04 Sep 2026 15:55:22 +0000</pubDate>
-      <description>The Digital Antiquarian</description>
-    </item>
-    <item>
-      <title>Computing a lower bound on matrix rank</title>
-      <link>https://www.johndcook.com/blog/2026/09/04/stable-rank/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/09/04/stable-rank/</guid>
-      <pubDate>Fri, 04 Sep 2026 14:16:16 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Rebuilding a 1995 GPS Time Server so I don't get Telstra'd</title>
-      <link>https://www.jeffgeerling.com/blog/2026/truetime-xl-gps-time-server-restomod/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/truetime-xl-gps-time-server-restomod/</guid>
-      <pubDate>Fri, 04 Sep 2026 14:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
     </item>
   </channel>
 </rss>

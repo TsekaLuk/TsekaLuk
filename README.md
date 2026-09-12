@@ -208,11 +208,11 @@ Last Updated: Saturday, September 12th, 2026, 10:42:26 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [OpenAI agents attacked RubyGems back in May](https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/) — *Simon Willison's Weblog* `09-12`
+- [Last Year’s iPhone Share Amongst Users of Widgetsmith](https://mastodon.social/@_Davidsmith/117253170115740653) — *Daring Fireball* `09-12`
+- [Don't build tools for AI agents](https://seangoedecke.com/dont-build-tools-for-ai-agents/) — *seangoedecke.com RSS feed* `09-12`
+- [So you want to use OpenRouter?](https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/) — *Simon Willison's Weblog* `09-11`
 - [Weekly Update 521: Breach Perception v. Reality](https://www.troyhunt.com/weekly-update-521/) — *Troy Hunt* `09-11`
-- [Clarus the Dogcow Easter Egg in iOS 27 Settings](https://9to5mac.com/2026/09/11/apple-hid-a-classic-mac-easter-egg-in-the-ios-27-settings-app/) — *Daring Fireball* `09-11`
-- [You Can Drop SEO](https://idiallo.com/blog/you-can-drop-the-seo) — *Software and Tech stories from an Insider - iDiallo.com* `09-11`
-- [XCancel Is Back](https://xcancel.com/cdclegal) — *Daring Fireball* `09-11`
-- [Quoting Boris Cherny](https://simonwillison.net/2026/Sep/11/boris-cherny/) — *Simon Willison's Weblog* `09-11`
 <!--BLOG_RADAR:end-->
 
 ---
