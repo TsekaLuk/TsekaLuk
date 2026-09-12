@@ -208,11 +208,11 @@ Last Updated: Sunday, September 13th, 2026, 4:01:43 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Tristan Buckmaster’s Statement on Getting Scooped by OpenAI on the Navier-Stokes Problem](https://cims.nyu.edu/~tristanb/statement.pdf) — *Daring Fireball* `09-12`
-- [Gary Marcus on This Week in AI Drama](https://garymarcus.substack.com/p/two-dire-warnings-one-from-terence) — *Daring Fireball* `09-12`
-- [Reading List — 09/12/2026](https://www.construction-physics.com/p/reading-list-09122026) — *Construction Physics* `09-12`
-- [ActivityPub - How to send an updated user profile to Mastodon and the Fediverse](https://shkspr.mobi/blog/2026/09/activitypub-how-to-send-an-updated-user-profile-to-mastodon-and-the-fediverse/) — *Terence Eden’s Blog* `09-12`
-- [Pluralistic: LLMs are real, AI is fake (12 Sep 2026)](https://pluralistic.net/2026/09/12/god-in-the-box/) — *Pluralistic: Daily links from Cory Doctorow* `09-12`
+- [Unread 5.0](https://www.goldenhillsoftware.com/2026/09/unread-50/) — *Daring Fireball* `09-12`
+- [Post Peek — Litterbox-Inspired Tweet Viewing Extension for Chrome](https://github.com/tsvb/post-peek) — *Daring Fireball* `09-12`
+- [Quoting Paul Ford](https://simonwillison.net/2026/Sep/12/paul-ford/) — *Simon Willison's Weblog* `09-12`
+- [Where Are the AI-Generated Killer Apps?](https://www.nytimes.com/2026/09/12/opinion/ai-software-coding-apps.html?unlocked_article_code=1.AlE.C9EE.H2j5a1eHFUbQ&smid=nytcore-ios-share) — *Daring Fireball* `09-12`
+- [Microcode in Intel's 8087 floating-point chip: the scale instruction](http://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html) — *Ken Shirriff's blog* `09-12`
 <!--BLOG_RADAR:end-->
 
 ---
