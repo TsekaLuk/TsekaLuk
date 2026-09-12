@@ -4,7 +4,49 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 12 Sep 2026 10:29:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 15:23:16 +0000</lastBuildDate>
+    <item>
+      <title>Tristan Buckmaster’s Statement on Getting Scooped by OpenAI on the Navier-Stokes Problem</title>
+      <link>https://cims.nyu.edu/~tristanb/statement.pdf</link>
+      <guid isPermaLink="true">https://cims.nyu.edu/~tristanb/statement.pdf</guid>
+      <pubDate>Sat, 12 Sep 2026 14:55:12 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Gary Marcus on This Week in AI Drama</title>
+      <link>https://garymarcus.substack.com/p/two-dire-warnings-one-from-terence</link>
+      <guid isPermaLink="true">https://garymarcus.substack.com/p/two-dire-warnings-one-from-terence</guid>
+      <pubDate>Sat, 12 Sep 2026 14:25:07 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Reading List — 09/12/2026</title>
+      <link>https://www.construction-physics.com/p/reading-list-09122026</link>
+      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-09122026</guid>
+      <pubDate>Sat, 12 Sep 2026 12:32:46 +0000</pubDate>
+      <description>Construction Physics</description>
+    </item>
+    <item>
+      <title>ActivityPub - How to send an updated user profile to Mastodon and the Fediverse</title>
+      <link>https://shkspr.mobi/blog/2026/09/activitypub-how-to-send-an-updated-user-profile-to-mastodon-and-the-fediverse/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/09/activitypub-how-to-send-an-updated-user-profile-to-mastodon-and-the-fediverse/</guid>
+      <pubDate>Sat, 12 Sep 2026 11:34:02 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Pluralistic: LLMs are real, AI is fake (12 Sep 2026)</title>
+      <link>https://pluralistic.net/2026/09/12/god-in-the-box/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/09/12/god-in-the-box/</guid>
+      <pubDate>Sat, 12 Sep 2026 11:14:10 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>This Week in Package Management: 12 September 2026</title>
+      <link>https://nesbitt.io/2026/09/12/this-week-in-package-management.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/09/12/this-week-in-package-management.html</guid>
+      <pubDate>Sat, 12 Sep 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
     <item>
       <title>OpenAI agents attacked RubyGems back in May</title>
       <link>https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/</link>
@@ -46,13 +88,6 @@
       <guid isPermaLink="true">https://9to5mac.com/2026/09/11/apple-hid-a-classic-mac-easter-egg-in-the-ios-27-settings-app/</guid>
       <pubDate>Fri, 11 Sep 2026 20:33:03 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>You Can Drop SEO</title>
-      <link>https://idiallo.com/blog/you-can-drop-the-seo</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/you-can-drop-the-seo</guid>
-      <pubDate>Fri, 11 Sep 2026 20:30:00 +0000</pubDate>
-      <description>Software and Tech stories from an Insider - iDiallo.com</description>
     </item>
     <item>
       <title>XCancel Is Back</title>
@@ -307,13 +342,6 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>We own the Glass</title>
-      <link>https://idiallo.com/byte-size/</link>
-      <guid isPermaLink="true">https://idiallo.com/byte-size/</guid>
-      <pubDate>Wed, 09 Sep 2026 20:55:02 +0000</pubDate>
-      <description>Software and Tech stories from an Insider - iDiallo.com</description>
-    </item>
-    <item>
       <title>Don’t Let Anyone Take Away Your Big Box of Cables</title>
       <link>https://blog.jim-nielsen.com/2026/hands-off-my-cables/</link>
       <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/hands-off-my-cables/</guid>
@@ -510,13 +538,6 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>I found an old interview mine (2017)</title>
-      <link>https://idiallo.com/byte-size/interviewing-with-thatsoftware-dude</link>
-      <guid isPermaLink="true">https://idiallo.com/byte-size/interviewing-with-thatsoftware-dude</guid>
-      <pubDate>Mon, 07 Sep 2026 23:20:02 +0000</pubDate>
-      <description>Software and Tech stories from an Insider - iDiallo.com</description>
-    </item>
-    <item>
       <title>Creepy crawlies</title>
       <link>https://simonwillison.net/2026/Sep/7/creepy-crawlies/</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Sep/7/creepy-crawlies/</guid>
@@ -543,13 +564,6 @@
       <guid isPermaLink="true">https://trackables.app/</guid>
       <pubDate>Mon, 07 Sep 2026 22:01:27 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Clickable whitespace</title>
-      <link>https://idiallo.com/blog/clickable-whitespace</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/clickable-whitespace</guid>
-      <pubDate>Mon, 07 Sep 2026 21:53:00 +0000</pubDate>
-      <description>Software and Tech stories from an Insider - iDiallo.com</description>
     </item>
     <item>
       <title>The Onion’s Exclusive Interview With Larry Ellison</title>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://computer.rip/2026-09-05-avalanche.html</guid>
       <pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate>
       <description>computers are bad</description>
-    </item>
-    <item>
-      <title>NBA Brings the Hammer on the Clippers — $30 Million Fine, 5 First-Round Draft Picks, and Steve Ballmer Is Banned for a Year</title>
-      <link>https://www.nytimes.com/athletic/7513882/2026/09/02/clippers-kawhi-leonard-punishment-fine-suspensions-nba-investigation/?unlocked_article_code=1.-lA.wcSN.awOHwzojR5nR</link>
-      <guid isPermaLink="true">https://www.nytimes.com/athletic/7513882/2026/09/02/clippers-kawhi-leonard-punishment-fine-suspensions-nba-investigation/?unlocked_article_code=1.-lA.wcSN.awOHwzojR5nR</guid>
-      <pubDate>Fri, 04 Sep 2026 23:23:34 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Apple Fixed ‎TestFlight’s Screwy Sort Order</title>
-      <link>https://apps.apple.com/us/app/testflight/id899247664</link>
-      <guid isPermaLink="true">https://apps.apple.com/us/app/testflight/id899247664</guid>
-      <pubDate>Fri, 04 Sep 2026 20:04:47 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>

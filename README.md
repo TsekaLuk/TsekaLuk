@@ -208,11 +208,11 @@ Last Updated: Saturday, September 12th, 2026, 10:50:26 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [OpenAI agents attacked RubyGems back in May](https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/) — *Simon Willison's Weblog* `09-12`
-- [Last Year’s iPhone Share Amongst Users of Widgetsmith](https://mastodon.social/@_Davidsmith/117253170115740653) — *Daring Fireball* `09-12`
-- [Don't build tools for AI agents](https://seangoedecke.com/dont-build-tools-for-ai-agents/) — *seangoedecke.com RSS feed* `09-12`
-- [So you want to use OpenRouter?](https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/) — *Simon Willison's Weblog* `09-11`
-- [Weekly Update 521: Breach Perception v. Reality](https://www.troyhunt.com/weekly-update-521/) — *Troy Hunt* `09-11`
+- [Tristan Buckmaster’s Statement on Getting Scooped by OpenAI on the Navier-Stokes Problem](https://cims.nyu.edu/~tristanb/statement.pdf) — *Daring Fireball* `09-12`
+- [Gary Marcus on This Week in AI Drama](https://garymarcus.substack.com/p/two-dire-warnings-one-from-terence) — *Daring Fireball* `09-12`
+- [Reading List — 09/12/2026](https://www.construction-physics.com/p/reading-list-09122026) — *Construction Physics* `09-12`
+- [ActivityPub - How to send an updated user profile to Mastodon and the Fediverse](https://shkspr.mobi/blog/2026/09/activitypub-how-to-send-an-updated-user-profile-to-mastodon-and-the-fediverse/) — *Terence Eden’s Blog* `09-12`
+- [Pluralistic: LLMs are real, AI is fake (12 Sep 2026)](https://pluralistic.net/2026/09/12/god-in-the-box/) — *Pluralistic: Daily links from Cory Doctorow* `09-12`
 <!--BLOG_RADAR:end-->
 
 ---
