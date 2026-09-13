@@ -4,13 +4,13 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 13 Sep 2026 16:01:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 20:36:40 +0000</lastBuildDate>
     <item>
-      <title>The expectations of privacy in driverless cars</title>
-      <link>https://shkspr.mobi/blog/2026/09/the-expectations-of-privacy-in-driverless-cars/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/09/the-expectations-of-privacy-in-driverless-cars/</guid>
-      <pubDate>Sun, 13 Sep 2026 11:34:13 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
+      <title>AI Forces You to Commit to Your Initial Belief</title>
+      <link>https://idiallo.com/blog/making-changes-mid-sentence</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/making-changes-mid-sentence</guid>
+      <pubDate>Sun, 13 Sep 2026 20:00:00 +0000</pubDate>
+      <description>Software and Tech stories from an Insider - iDiallo.com</description>
     </item>
     <item>
       <title>A Dick Smith VZ200 without the Dick Smith (but with a serial port)</title>
@@ -25,6 +25,13 @@
       <guid isPermaLink="true">https://seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/</guid>
       <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Anecdotally, programmers dislike "reduce"</title>
+      <link>https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/</link>
+      <guid isPermaLink="true">https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/</guid>
+      <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Evan Hahn (dot com)</description>
     </item>
     <item>
       <title>Generating running routes with GPT-6 Astra and ChatGPT Work</title>
@@ -109,13 +116,6 @@
       <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-09122026</guid>
       <pubDate>Sat, 12 Sep 2026 12:32:46 +0000</pubDate>
       <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>ActivityPub - How to send an updated user profile to Mastodon and the Fediverse</title>
-      <link>https://shkspr.mobi/blog/2026/09/activitypub-how-to-send-an-updated-user-profile-to-mastodon-and-the-fediverse/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/09/activitypub-how-to-send-an-updated-user-profile-to-mastodon-and-the-fediverse/</guid>
-      <pubDate>Sat, 12 Sep 2026 11:34:02 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Pluralistic: LLMs are real, AI is fake (12 Sep 2026)</title>
@@ -293,13 +293,6 @@
       <description>matduggan.com</description>
     </item>
     <item>
-      <title>[RSS Club] Sneak peek at new DOI functionality</title>
-      <link>https://shkspr.mobi/blog/2026/09/rss-club-sneak-peek-at-new-doi-functionality/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/09/rss-club-sneak-peek-at-new-doi-functionality/</guid>
-      <pubDate>Fri, 11 Sep 2026 11:34:12 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>Datasette 1.0a39 and 0.65.4 security releases</title>
       <link>https://simonwillison.net/2026/Sep/11/datasette-security/</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Sep/11/datasette-security/</guid>
@@ -403,13 +396,6 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/09/10/bayesian-ocr/</guid>
       <pubDate>Thu, 10 Sep 2026 12:32:31 +0000</pubDate>
       <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Put an AV test at the start of your slides</title>
-      <link>https://shkspr.mobi/blog/2026/09/put-an-av-test-at-the-start-of-your-slides/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/09/put-an-av-test-at-the-start-of-your-slides/</guid>
-      <pubDate>Thu, 10 Sep 2026 11:34:10 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Package Manager Trends</title>
@@ -517,13 +503,6 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>Why we should anthropomorphize AI agents</title>
-      <link>https://seangoedecke.com/why-we-should-anthropomorphize-ai-agents/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/why-we-should-anthropomorphize-ai-agents/</guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
       <title>A rant about phishing: It's not the user's fault (and not DNS either)</title>
       <link>https://maurycyz.com/misc/domains/</link>
       <guid isPermaLink="true">https://maurycyz.com/misc/domains/</guid>
@@ -531,11 +510,11 @@
       <description>Maurycy's Blog</description>
     </item>
     <item>
-      <title>Analysing 2048 on a 3×3 board</title>
-      <link>https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/small2048/</link>
-      <guid isPermaLink="true">https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/small2048/</guid>
+      <title>Why we should anthropomorphize AI agents</title>
+      <link>https://seangoedecke.com/why-we-should-anthropomorphize-ai-agents/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/why-we-should-anthropomorphize-ai-agents/</guid>
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Simon Tatham's quasi-blog</description>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>Cancer Capital: It sucks for founders, too!</title>
@@ -627,13 +606,6 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260908-00/?p=112679</guid>
       <pubDate>Tue, 08 Sep 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>ActivityPub - Is it worth defending against replay attacks and message/signature time skew?</title>
-      <link>https://shkspr.mobi/blog/2026/09/activitypub-is-it-worth-defending-against-replay-attacks-and-message-signature-time-skew/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/09/activitypub-is-it-worth-defending-against-replay-attacks-and-message-signature-time-skew/</guid>
-      <pubDate>Tue, 08 Sep 2026 11:34:51 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>What’s new in git-pkgs</title>
@@ -844,6 +816,34 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/</guid>
       <pubDate>Sun, 06 Sep 2026 14:40:07 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Kunsten '92 praatje: De AI Trein</title>
+      <link>https://berthub.eu/articles/posts/kunsten92-paradiso-2026/</link>
+      <guid isPermaLink="true">https://berthub.eu/articles/posts/kunsten92-paradiso-2026/</guid>
+      <pubDate>Sun, 06 Sep 2026 11:37:00 +0000</pubDate>
+      <description>Bert Hubert's writings</description>
+    </item>
+    <item>
+      <title>There's No Limit to How Bad Code Can Get</title>
+      <link>https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/</guid>
+      <pubDate>Sun, 06 Sep 2026 09:08:06 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Debian Code Search: Fast TurboPFor with Go SIMD</title>
+      <link>https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/</link>
+      <guid isPermaLink="true">https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/</guid>
+      <pubDate>Sun, 06 Sep 2026 07:00:00 +0000</pubDate>
+      <description>Michael Stapelbergs Website</description>
+    </item>
+    <item>
+      <title>It took a year to ship WebAssembly in Anubis</title>
+      <link>https://anubis.techaro.lol/blog/2026/anubis-wasm/</link>
+      <guid isPermaLink="true">https://anubis.techaro.lol/blog/2026/anubis-wasm/</guid>
+      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
     </item>
   </channel>
 </rss>
