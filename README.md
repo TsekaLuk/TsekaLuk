@@ -208,11 +208,11 @@ Last Updated: Sunday, September 13th, 2026, 11:28:08 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [The expectations of privacy in driverless cars](https://shkspr.mobi/blog/2026/09/the-expectations-of-privacy-in-driverless-cars/) — *Terence Eden’s Blog* `09-13`
 - [A Dick Smith VZ200 without the Dick Smith (but with a serial port)](https://oldvcr.blogspot.com/2026/09/a-dick-smith-vz200-without-dick-smith.html) — *Old Vintage Computing Research* `09-13`
 - [AI is breaking our proxies for expertise](https://seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/) — *seangoedecke.com RSS feed* `09-13`
 - [Generating running routes with GPT-6 Astra and ChatGPT Work](https://simonwillison.net/2026/Sep/12/astra-running-routes/) — *Simon Willison's Weblog* `09-12`
 - [California Brown Pelican](https://simonwillison.net/2026/Sep/12/sighting-399708714/) — *Simon Willison's Weblog* `09-12`
-- [Unread 5.0](https://www.goldenhillsoftware.com/2026/09/unread-50/) — *Daring Fireball* `09-12`
 <!--BLOG_RADAR:end-->
 
 ---

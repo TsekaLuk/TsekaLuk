@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 13 Sep 2026 11:32:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 16:01:04 +0000</lastBuildDate>
+    <item>
+      <title>The expectations of privacy in driverless cars</title>
+      <link>https://shkspr.mobi/blog/2026/09/the-expectations-of-privacy-in-driverless-cars/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/09/the-expectations-of-privacy-in-driverless-cars/</guid>
+      <pubDate>Sun, 13 Sep 2026 11:34:13 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
     <item>
       <title>A Dick Smith VZ200 without the Dick Smith (but with a serial port)</title>
       <link>https://oldvcr.blogspot.com/2026/09/a-dick-smith-vz200-without-dick-smith.html</link>
@@ -524,6 +531,13 @@
       <description>Maurycy's Blog</description>
     </item>
     <item>
+      <title>Analysing 2048 on a 3×3 board</title>
+      <link>https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/small2048/</link>
+      <guid isPermaLink="true">https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/small2048/</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Simon Tatham's quasi-blog</description>
+    </item>
+    <item>
       <title>Cancer Capital: It sucks for founders, too!</title>
       <link>https://anildash.com/2026/09/09/cancer-capital-founders/</link>
       <guid isPermaLink="true">https://anildash.com/2026/09/09/cancer-capital-founders/</guid>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/</guid>
       <pubDate>Sun, 06 Sep 2026 14:40:07 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Kunsten '92 praatje: De AI Trein</title>
-      <link>https://berthub.eu/articles/posts/kunsten92-paradiso-2026/</link>
-      <guid isPermaLink="true">https://berthub.eu/articles/posts/kunsten92-paradiso-2026/</guid>
-      <pubDate>Sun, 06 Sep 2026 11:37:00 +0000</pubDate>
-      <description>Bert Hubert's writings</description>
-    </item>
-    <item>
-      <title>The purpose of DNS is to spread scams</title>
-      <link>https://shkspr.mobi/blog/2026/09/the-purpose-of-dns-is-to-spread-scams/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/09/the-purpose-of-dns-is-to-spread-scams/</guid>
-      <pubDate>Sun, 06 Sep 2026 11:34:20 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
   </channel>
 </rss>
