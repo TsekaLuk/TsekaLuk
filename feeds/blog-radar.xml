@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 12 Sep 2026 20:25:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 04:23:24 +0000</lastBuildDate>
+    <item>
+      <title>A Dick Smith VZ200 without the Dick Smith (but with a serial port)</title>
+      <link>https://oldvcr.blogspot.com/2026/09/a-dick-smith-vz200-without-dick-smith.html</link>
+      <guid isPermaLink="true">https://oldvcr.blogspot.com/2026/09/a-dick-smith-vz200-without-dick-smith.html</guid>
+      <pubDate>Sun, 13 Sep 2026 02:17:52 +0000</pubDate>
+      <description>Old Vintage Computing Research</description>
+    </item>
+    <item>
+      <title>AI is breaking our proxies for expertise</title>
+      <link>https://seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/</guid>
+      <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Generating running routes with GPT-6 Astra and ChatGPT Work</title>
+      <link>https://simonwillison.net/2026/Sep/12/astra-running-routes/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/12/astra-running-routes/</guid>
+      <pubDate>Sat, 12 Sep 2026 23:56:42 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>California Brown Pelican</title>
+      <link>https://simonwillison.net/2026/Sep/12/sighting-399708714/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/12/sighting-399708714/</guid>
+      <pubDate>Sat, 12 Sep 2026 21:16:09 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Unread 5.0</title>
       <link>https://www.goldenhillsoftware.com/2026/09/unread-50/</link>
@@ -123,6 +151,13 @@
       <guid isPermaLink="true">https://lucumr.pocoo.org/2026/9/12/pdoom/</guid>
       <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
       <description>Armin Ronacher's Thoughts and Writings</description>
+    </item>
+    <item>
+      <title>Everyone should slow down AI development except for me</title>
+      <link>https://xeiaso.net/notes/2026/everyone-slowdown-but-me/</link>
+      <guid isPermaLink="true">https://xeiaso.net/notes/2026/everyone-slowdown-but-me/</guid>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>So you want to use OpenRouter?</title>
@@ -489,13 +524,6 @@
       <description>Maurycy's Blog</description>
     </item>
     <item>
-      <title>Analysing 2048 on a 3×3 board</title>
-      <link>https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/small2048/</link>
-      <guid isPermaLink="true">https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/small2048/</guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Simon Tatham's quasi-blog</description>
-    </item>
-    <item>
       <title>Cancer Capital: It sucks for founders, too!</title>
       <link>https://anildash.com/2026/09/09/cancer-capital-founders/</link>
       <guid isPermaLink="true">https://anildash.com/2026/09/09/cancer-capital-founders/</guid>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://shkspr.mobi/blog/2026/09/the-purpose-of-dns-is-to-spread-scams/</guid>
       <pubDate>Sun, 06 Sep 2026 11:34:20 +0000</pubDate>
       <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>There's No Limit to How Bad Code Can Get</title>
-      <link>https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/</guid>
-      <pubDate>Sun, 06 Sep 2026 09:08:06 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Quoting Zach Kehs</title>
-      <link>https://simonwillison.net/2026/Sep/6/zach-kehs/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/6/zach-kehs/</guid>
-      <pubDate>Sun, 06 Sep 2026 08:42:49 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Debian Code Search: Fast TurboPFor with Go SIMD</title>
-      <link>https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/</link>
-      <guid isPermaLink="true">https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/</guid>
-      <pubDate>Sun, 06 Sep 2026 07:00:00 +0000</pubDate>
-      <description>Michael Stapelbergs Website</description>
-    </item>
-    <item>
-      <title>It took a year to ship WebAssembly in Anubis</title>
-      <link>https://anubis.techaro.lol/blog/2026/anubis-wasm/</link>
-      <guid isPermaLink="true">https://anubis.techaro.lol/blog/2026/anubis-wasm/</guid>
-      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
     </item>
   </channel>
 </rss>
