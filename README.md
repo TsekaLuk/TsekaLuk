@@ -208,11 +208,11 @@ Last Updated: Tuesday, September 15th, 2026, 5:18:16 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Esoteric HTML - ismap vs CSS](https://shkspr.mobi/blog/2026/09/esoteric-html-ismap-vs-css/) — *Terence Eden’s Blog* `09-14`
-- [Pluralistic: But do you use keyboard shortcuts? (14 Sep 2026)](https://pluralistic.net/2026/09/14/cult-taylorism/) — *Pluralistic: Daily links from Cory Doctorow* `09-14`
-- [Guessing the meaning of a number](https://www.johndcook.com/blog/2026/09/14/guessing-the-meaning-of-a-number/) — *John D. Cook* `09-14`
-- [commit-rewriter 0.1](https://simonwillison.net/2026/Sep/14/commit-rewriter/) — *Simon Willison's Weblog* `09-14`
-- [Slow developer experience will bottleneck fast models](https://seangoedecke.com/slow-devex-will-bottleneck-fast-models/) — *seangoedecke.com RSS feed* `09-14`
+- [The contagion of fear](https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/) — *Simon Willison's Weblog* `09-14`
+- [What blog posts influenced your thinking the most?](https://simonwillison.net/2026/Sep/14/influences/) — *Simon Willison's Weblog* `09-14`
+- [Apple’s 27.0 OS Updates](https://scriptingosx.com/2026/09/apple-27-platform-updates-september-2026/) — *Daring Fireball* `09-14`
+- [AI Is Already In Dangerous Hands](https://www.wheresyoured.at/ai-is-already-in-dangerous-hands/) — *Ed Zitron's Where's Your Ed At* `09-14`
+- [Dumpster Fire – Litterbox-Inspired Extension for Firefox](https://addons.mozilla.org/en-US/firefox/addon/dumpster-fire/) — *Daring Fireball* `09-14`
 <!--BLOG_RADAR:end-->
 
 ---
