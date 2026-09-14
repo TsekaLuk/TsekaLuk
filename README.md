@@ -208,11 +208,11 @@ Last Updated: Monday, September 14th, 2026, 10:56:02 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [AI Forces You to Commit to Your Initial Belief](https://idiallo.com/blog/making-changes-mid-sentence) — *Software and Tech stories from an Insider - iDiallo.com* `09-13`
-- [A Dick Smith VZ200 without the Dick Smith (but with a serial port)](https://oldvcr.blogspot.com/2026/09/a-dick-smith-vz200-without-dick-smith.html) — *Old Vintage Computing Research* `09-13`
-- [AI is breaking our proxies for expertise](https://seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/) — *seangoedecke.com RSS feed* `09-13`
-- [Anecdotally, programmers dislike "reduce"](https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/) — *Evan Hahn (dot com)* `09-13`
-- [Generating running routes with GPT-6 Astra and ChatGPT Work](https://simonwillison.net/2026/Sep/12/astra-running-routes/) — *Simon Willison's Weblog* `09-12`
+- [commit-rewriter 0.1](https://simonwillison.net/2026/Sep/14/commit-rewriter/) — *Simon Willison's Weblog* `09-14`
+- [Slow developer experience will bottleneck fast models](https://seangoedecke.com/slow-devex-will-bottleneck-fast-models/) — *seangoedecke.com RSS feed* `09-14`
+- [shot-scraper 1.12](https://simonwillison.net/2026/Sep/13/shot-scraper/) — *Simon Willison's Weblog* `09-13`
+- [Glyphs 4](https://glyphsapp.com/) — *Daring Fireball* `09-13`
+- [Fixing an NZXT Signal 4K30 part 2: the green/pink video bug](https://www.downtowndougbrown.com/2026/09/fixing-an-nzxt-signal-4k30-part-2-the-green-pink-video-bug/) — *Downtown Doug Brown* `09-13`
 <!--BLOG_RADAR:end-->
 
 ---

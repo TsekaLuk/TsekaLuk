@@ -4,13 +4,62 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 13 Sep 2026 20:36:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 04:30:13 +0000</lastBuildDate>
+    <item>
+      <title>commit-rewriter 0.1</title>
+      <link>https://simonwillison.net/2026/Sep/14/commit-rewriter/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/14/commit-rewriter/</guid>
+      <pubDate>Mon, 14 Sep 2026 00:28:10 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Slow developer experience will bottleneck fast models</title>
+      <link>https://seangoedecke.com/slow-devex-will-bottleneck-fast-models/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/slow-devex-will-bottleneck-fast-models/</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>shot-scraper 1.12</title>
+      <link>https://simonwillison.net/2026/Sep/13/shot-scraper/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/13/shot-scraper/</guid>
+      <pubDate>Sun, 13 Sep 2026 23:58:14 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Glyphs 4</title>
+      <link>https://glyphsapp.com/</link>
+      <guid isPermaLink="true">https://glyphsapp.com/</guid>
+      <pubDate>Sun, 13 Sep 2026 21:44:17 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Fixing an NZXT Signal 4K30 part 2: the green/pink video bug</title>
+      <link>https://www.downtowndougbrown.com/2026/09/fixing-an-nzxt-signal-4k30-part-2-the-green-pink-video-bug/</link>
+      <guid isPermaLink="true">https://www.downtowndougbrown.com/2026/09/fixing-an-nzxt-signal-4k30-part-2-the-green-pink-video-bug/</guid>
+      <pubDate>Sun, 13 Sep 2026 21:02:59 +0000</pubDate>
+      <description>Downtown Doug Brown</description>
+    </item>
     <item>
       <title>AI Forces You to Commit to Your Initial Belief</title>
       <link>https://idiallo.com/blog/making-changes-mid-sentence</link>
       <guid isPermaLink="true">https://idiallo.com/blog/making-changes-mid-sentence</guid>
       <pubDate>Sun, 13 Sep 2026 20:00:00 +0000</pubDate>
       <description>Software and Tech stories from an Insider - iDiallo.com</description>
+    </item>
+    <item>
+      <title>Preserving Netlify Analytics Data Beyond 30 Days</title>
+      <link>https://blog.jim-nielsen.com/2026/preserving-netlify-analytics-data/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/preserving-netlify-analytics-data/</guid>
+      <pubDate>Sun, 13 Sep 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
+    </item>
+    <item>
+      <title>The expectations of privacy in driverless cars</title>
+      <link>https://shkspr.mobi/blog/2026/09/the-expectations-of-privacy-in-driverless-cars/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/09/the-expectations-of-privacy-in-driverless-cars/</guid>
+      <pubDate>Sun, 13 Sep 2026 11:34:13 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>A Dick Smith VZ200 without the Dick Smith (but with a serial port)</title>
@@ -97,7 +146,7 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Tristan Buckmaster’s Statement on Getting Scooped by OpenAI on the Navier-Stokes Problem</title>
+      <title>Tristan Buckmaster’s Statement on Getting Scooped by OpenAI on the Navier–Stokes Problem</title>
       <link>https://cims.nyu.edu/~tristanb/statement.pdf</link>
       <guid isPermaLink="true">https://cims.nyu.edu/~tristanb/statement.pdf</guid>
       <pubDate>Sat, 12 Sep 2026 14:55:12 +0000</pubDate>
@@ -116,6 +165,13 @@
       <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-09122026</guid>
       <pubDate>Sat, 12 Sep 2026 12:32:46 +0000</pubDate>
       <description>Construction Physics</description>
+    </item>
+    <item>
+      <title>ActivityPub - How to send an updated user profile to Mastodon and the Fediverse</title>
+      <link>https://shkspr.mobi/blog/2026/09/activitypub-how-to-send-an-updated-user-profile-to-mastodon-and-the-fediverse/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/09/activitypub-how-to-send-an-updated-user-profile-to-mastodon-and-the-fediverse/</guid>
+      <pubDate>Sat, 12 Sep 2026 11:34:02 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Pluralistic: LLMs are real, AI is fake (12 Sep 2026)</title>
@@ -146,18 +202,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Don't build tools for AI agents</title>
-      <link>https://seangoedecke.com/dont-build-tools-for-ai-agents/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/dont-build-tools-for-ai-agents/</guid>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
       <title>P(doom)</title>
       <link>https://lucumr.pocoo.org/2026/9/12/pdoom/</link>
       <guid isPermaLink="true">https://lucumr.pocoo.org/2026/9/12/pdoom/</guid>
       <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
       <description>Armin Ronacher's Thoughts and Writings</description>
+    </item>
+    <item>
+      <title>Don't build tools for AI agents</title>
+      <link>https://seangoedecke.com/dont-build-tools-for-ai-agents/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/dont-build-tools-for-ai-agents/</guid>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>Everyone should slow down AI development except for me</title>
@@ -293,6 +349,13 @@
       <description>matduggan.com</description>
     </item>
     <item>
+      <title>[RSS Club] Sneak peek at new DOI functionality</title>
+      <link>https://shkspr.mobi/blog/2026/09/rss-club-sneak-peek-at-new-doi-functionality/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/09/rss-club-sneak-peek-at-new-doi-functionality/</guid>
+      <pubDate>Fri, 11 Sep 2026 11:34:12 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>Datasette 1.0a39 and 0.65.4 security releases</title>
       <link>https://simonwillison.net/2026/Sep/11/datasette-security/</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Sep/11/datasette-security/</guid>
@@ -396,6 +459,13 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/09/10/bayesian-ocr/</guid>
       <pubDate>Thu, 10 Sep 2026 12:32:31 +0000</pubDate>
       <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Put an AV test at the start of your slides</title>
+      <link>https://shkspr.mobi/blog/2026/09/put-an-av-test-at-the-start-of-your-slides/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/09/put-an-av-test-at-the-start-of-your-slides/</guid>
+      <pubDate>Thu, 10 Sep 2026 11:34:10 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Package Manager Trends</title>
@@ -503,6 +573,13 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
+      <title>Why we should anthropomorphize AI agents</title>
+      <link>https://seangoedecke.com/why-we-should-anthropomorphize-ai-agents/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/why-we-should-anthropomorphize-ai-agents/</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
       <title>A rant about phishing: It's not the user's fault (and not DNS either)</title>
       <link>https://maurycyz.com/misc/domains/</link>
       <guid isPermaLink="true">https://maurycyz.com/misc/domains/</guid>
@@ -510,11 +587,11 @@
       <description>Maurycy's Blog</description>
     </item>
     <item>
-      <title>Why we should anthropomorphize AI agents</title>
-      <link>https://seangoedecke.com/why-we-should-anthropomorphize-ai-agents/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/why-we-should-anthropomorphize-ai-agents/</guid>
+      <title>Analysing 2048 on a 3×3 board</title>
+      <link>https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/small2048/</link>
+      <guid isPermaLink="true">https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/small2048/</guid>
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
+      <description>Simon Tatham's quasi-blog</description>
     </item>
     <item>
       <title>Cancer Capital: It sucks for founders, too!</title>
@@ -608,6 +685,13 @@
       <description>The Old New Thing</description>
     </item>
     <item>
+      <title>ActivityPub - Is it worth defending against replay attacks and message/signature time skew?</title>
+      <link>https://shkspr.mobi/blog/2026/09/activitypub-is-it-worth-defending-against-replay-attacks-and-message-signature-time-skew/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/09/activitypub-is-it-worth-defending-against-replay-attacks-and-message-signature-time-skew/</guid>
+      <pubDate>Tue, 08 Sep 2026 11:34:51 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>What’s new in git-pkgs</title>
       <link>https://nesbitt.io/2026/09/08/whats-new-in-git-pkgs.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/09/08/whats-new-in-git-pkgs.html</guid>
@@ -648,13 +732,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Sep/7/jakub-pachocki/</guid>
       <pubDate>Mon, 07 Sep 2026 22:26:25 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>[Sponsor] Glyphs 4</title>
-      <link>https://glyphsapp.com/</link>
-      <guid isPermaLink="true">https://glyphsapp.com/</guid>
-      <pubDate>Mon, 07 Sep 2026 22:16:26 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
     <item>
       <title>Trackables 1.5</title>
@@ -767,83 +844,6 @@
       <guid isPermaLink="true">https://9to5mac.com/2026/08/19/meta-ai-is-now-available-as-a-more-capable-desktop-app-for-mac/</guid>
       <pubDate>Sun, 06 Sep 2026 20:44:27 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>WorkOS: How to Give an Agent a Task Instead of a Token</title>
-      <link>https://workos.com/blog/delegated-access-for-ai-agents?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</link>
-      <guid isPermaLink="true">https://workos.com/blog/delegated-access-for-ai-agents?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</guid>
-      <pubDate>Sun, 06 Sep 2026 19:06:27 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Matt Haughey: ‘The Car Industry A/B Tested Selling a Car With and Without CarPlay and the Results Are Not Shocking’</title>
-      <link>https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/</link>
-      <guid isPermaLink="true">https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/</guid>
-      <pubDate>Sun, 06 Sep 2026 19:04:12 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Trump Administration Launches Rip-Off Video Games at Arcade.gov</title>
-      <link>https://x.com/WhiteHouse/status/2095615734567100766</link>
-      <guid isPermaLink="true">https://x.com/WhiteHouse/status/2095615734567100766</guid>
-      <pubDate>Sun, 06 Sep 2026 17:51:09 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Gurman on Schiller’s Departure and Ternus’s Goals for the App Store</title>
-      <link>https://www.bloomberg.com/news/newsletters/2026-09-06/apple-s-new-ceo-like-cook-pay-package-shows-he-s-going-nowhere-sept-9-event-mtpvpcj1?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODcwNTgwOCwiZXhwIjoxNzg5MzEwNjA4LCJhcnRpY2xlSWQiOiJUS1k0ODFLR0NURlEwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.VPVLP03ZWjEbH48efjq8Q7n0_vk4t7OynYeaUbOfYzU&amp;leadSource=article-gifting</link>
-      <guid isPermaLink="true">https://www.bloomberg.com/news/newsletters/2026-09-06/apple-s-new-ceo-like-cook-pay-package-shows-he-s-going-nowhere-sept-9-event-mtpvpcj1?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4ODcwNTgwOCwiZXhwIjoxNzg5MzEwNjA4LCJhcnRpY2xlSWQiOiJUS1k0ODFLR0NURlEwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.VPVLP03ZWjEbH48efjq8Q7n0_vk4t7OynYeaUbOfYzU&amp;leadSource=article-gifting</guid>
-      <pubDate>Sun, 06 Sep 2026 17:00:01 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Dickover of the Week: Slashdot Put One in Their RSS Feed</title>
-      <link>https://discourse.netnewswire.com/t/dickover-in-the-slashdot-rss-feed/372</link>
-      <guid isPermaLink="true">https://discourse.netnewswire.com/t/dickover-in-the-slashdot-rss-feed/372</guid>
-      <pubDate>Sun, 06 Sep 2026 16:30:00 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Litterbox: Safari Extension for Viewing X Tweets</title>
-      <link>https://andadinosaur.com/launch-litterbox</link>
-      <guid isPermaLink="true">https://andadinosaur.com/launch-litterbox</guid>
-      <pubDate>Sun, 06 Sep 2026 16:19:31 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The purpose of DNS is to spread scams</title>
-      <link>https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/</guid>
-      <pubDate>Sun, 06 Sep 2026 14:40:07 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Kunsten '92 praatje: De AI Trein</title>
-      <link>https://berthub.eu/articles/posts/kunsten92-paradiso-2026/</link>
-      <guid isPermaLink="true">https://berthub.eu/articles/posts/kunsten92-paradiso-2026/</guid>
-      <pubDate>Sun, 06 Sep 2026 11:37:00 +0000</pubDate>
-      <description>Bert Hubert's writings</description>
-    </item>
-    <item>
-      <title>There's No Limit to How Bad Code Can Get</title>
-      <link>https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/</guid>
-      <pubDate>Sun, 06 Sep 2026 09:08:06 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Debian Code Search: Fast TurboPFor with Go SIMD</title>
-      <link>https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/</link>
-      <guid isPermaLink="true">https://michael.stapelberg.ch/posts/2026-09-06-dcs-fast-turbopfor-go-simd/</guid>
-      <pubDate>Sun, 06 Sep 2026 07:00:00 +0000</pubDate>
-      <description>Michael Stapelbergs Website</description>
-    </item>
-    <item>
-      <title>It took a year to ship WebAssembly in Anubis</title>
-      <link>https://anubis.techaro.lol/blog/2026/anubis-wasm/</link>
-      <guid isPermaLink="true">https://anubis.techaro.lol/blog/2026/anubis-wasm/</guid>
-      <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
     </item>
   </channel>
 </rss>
