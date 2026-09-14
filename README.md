@@ -208,11 +208,11 @@ Last Updated: Monday, September 14th, 2026, 7:30:27 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Esoteric HTML - ismap vs CSS](https://shkspr.mobi/blog/2026/09/esoteric-html-ismap-vs-css/) — *Terence Eden’s Blog* `09-14`
+- [Pluralistic: But do you use keyboard shortcuts? (14 Sep 2026)](https://pluralistic.net/2026/09/14/cult-taylorism/) — *Pluralistic: Daily links from Cory Doctorow* `09-14`
+- [Guessing the meaning of a number](https://www.johndcook.com/blog/2026/09/14/guessing-the-meaning-of-a-number/) — *John D. Cook* `09-14`
 - [commit-rewriter 0.1](https://simonwillison.net/2026/Sep/14/commit-rewriter/) — *Simon Willison's Weblog* `09-14`
 - [Slow developer experience will bottleneck fast models](https://seangoedecke.com/slow-devex-will-bottleneck-fast-models/) — *seangoedecke.com RSS feed* `09-14`
-- [shot-scraper 1.12](https://simonwillison.net/2026/Sep/13/shot-scraper/) — *Simon Willison's Weblog* `09-13`
-- [Glyphs 4](https://glyphsapp.com/) — *Daring Fireball* `09-13`
-- [Fixing an NZXT Signal 4K30 part 2: the green/pink video bug](https://www.downtowndougbrown.com/2026/09/fixing-an-nzxt-signal-4k30-part-2-the-green-pink-video-bug/) — *Downtown Doug Brown* `09-13`
 <!--BLOG_RADAR:end-->
 
 ---
