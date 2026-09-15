@@ -208,11 +208,11 @@ Last Updated: Tuesday, September 15th, 2026, 6:51:38 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Shadowing the Standard Library](https://nesbitt.io/2026/09/15/shadowing-the-standard-library.html) — *Andrew Nesbitt* `09-15`
+- [Pluralistic: Everybody pees (15 Sep 2026)](https://pluralistic.net/2026/09/15/bitter-lemon-energy-drink/) — *Pluralistic: Daily links from Cory Doctorow* `09-15`
 - [alt.time-capsule.reopened](https://feed.tedium.co/link/15204/17462130/usenet-rewind-archive-revival-website) — *Tedium: The Dull Side of the Internet.* `09-15`
+- [Tell agents the why, not just the how](https://seangoedecke.com/tell-agents-the-why/) — *seangoedecke.com RSS feed* `09-15`
 - [The contagion of fear](https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/) — *Simon Willison's Weblog* `09-14`
-- [What blog posts influenced your thinking the most?](https://simonwillison.net/2026/Sep/14/influences/) — *Simon Willison's Weblog* `09-14`
-- [Apple’s 27.0 OS Updates](https://scriptingosx.com/2026/09/apple-27-platform-updates-september-2026/) — *Daring Fireball* `09-14`
-- [AI Is Already In Dangerous Hands](https://www.wheresyoured.at/ai-is-already-in-dangerous-hands/) — *Ed Zitron's Where's Your Ed At* `09-14`
 <!--BLOG_RADAR:end-->
 
 ---
