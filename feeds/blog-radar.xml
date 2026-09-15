@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 15 Sep 2026 16:44:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 21:08:10 +0000</lastBuildDate>
+    <item>
+      <title>FT: ‘Steve Bannon and Bernie Sanders Unite in AI Safety Call’</title>
+      <link>https://www.ft.com/content/bab5c4c5-5377-4dd0-8b46-d8c4ce9a36d5?syn-25a6b1a6=1</link>
+      <guid isPermaLink="true">https://www.ft.com/content/bab5c4c5-5377-4dd0-8b46-d8c4ce9a36d5?syn-25a6b1a6=1</guid>
+      <pubDate>Tue, 15 Sep 2026 19:01:30 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>★ Thoughts and Observations on Apple’s ‘Surprise and Shine’ Event; the Announcements of the iPhones 18 Pro, AirPods 5, Apple Watches Series 12 and Ultra 4, and the iPhone Duo; and the Dawn of the Ternus, John Ternus Era at Apple</title>
+      <link>https://daringfireball.net/2026/09/thoughts_and_observations_on_apples_surprise_and_shine_event</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/09/thoughts_and_observations_on_apples_surprise_and_shine_event</guid>
+      <pubDate>Tue, 15 Sep 2026 17:54:09 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>What counts as a large cosine similarity?</title>
       <link>https://www.johndcook.com/blog/2026/09/15/cosine-similarity/</link>
@@ -60,6 +74,13 @@
       <guid isPermaLink="true">https://seangoedecke.com/tell-agents-the-why/</guid>
       <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Tag index for Org mode blog</title>
+      <link>https://entropicthoughts.com/tag-index-for-org-mode-blog</link>
+      <guid isPermaLink="true">https://entropicthoughts.com/tag-index-for-org-mode-blog</guid>
+      <pubDate>Mon, 14 Sep 2026 22:00:00 +0000</pubDate>
+      <description>Entropic Thoughts</description>
     </item>
     <item>
       <title>The contagion of fear</title>
@@ -153,18 +174,18 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>Slow developer experience will bottleneck fast models</title>
-      <link>https://seangoedecke.com/slow-devex-will-bottleneck-fast-models/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/slow-devex-will-bottleneck-fast-models/</guid>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
       <title>Interpreting Pangram</title>
       <link>https://lucumr.pocoo.org/2026/9/14/interpreting-pangram/</link>
       <guid isPermaLink="true">https://lucumr.pocoo.org/2026/9/14/interpreting-pangram/</guid>
       <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
       <description>Armin Ronacher's Thoughts and Writings</description>
+    </item>
+    <item>
+      <title>Slow developer experience will bottleneck fast models</title>
+      <link>https://seangoedecke.com/slow-devex-will-bottleneck-fast-models/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/slow-devex-will-bottleneck-fast-models/</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>shot-scraper 1.12</title>
@@ -349,6 +370,13 @@
       <description>Daring Fireball</description>
     </item>
     <item>
+      <title>P(doom)</title>
+      <link>https://lucumr.pocoo.org/2026/9/12/pdoom/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/9/12/pdoom/</guid>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Armin Ronacher's Thoughts and Writings</description>
+    </item>
+    <item>
       <title>Don't build tools for AI agents</title>
       <link>https://seangoedecke.com/dont-build-tools-for-ai-agents/</link>
       <guid isPermaLink="true">https://seangoedecke.com/dont-build-tools-for-ai-agents/</guid>
@@ -361,13 +389,6 @@
       <guid isPermaLink="true">https://xeiaso.net/notes/2026/everyone-slowdown-but-me/</guid>
       <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
-    </item>
-    <item>
-      <title>P(doom)</title>
-      <link>https://lucumr.pocoo.org/2026/9/12/pdoom/</link>
-      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/9/12/pdoom/</guid>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
       <title>So you want to use OpenRouter?</title>
@@ -741,18 +762,18 @@
       <description>Maurycy's Blog</description>
     </item>
     <item>
-      <title>Analysing 2048 on a 3×3 board</title>
-      <link>https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/small2048/</link>
-      <guid isPermaLink="true">https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/small2048/</guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Simon Tatham's quasi-blog</description>
-    </item>
-    <item>
       <title>Cancer Capital: It sucks for founders, too!</title>
       <link>https://anildash.com/2026/09/09/cancer-capital-founders/</link>
       <guid isPermaLink="true">https://anildash.com/2026/09/09/cancer-capital-founders/</guid>
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
       <description>Anil Dash</description>
+    </item>
+    <item>
+      <title>Analysing 2048 on a 3×3 board</title>
+      <link>https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/small2048/</link>
+      <guid isPermaLink="true">https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/small2048/</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Simon Tatham's quasi-blog</description>
     </item>
     <item>
       <title>Some thoughts on the Navier–Stokes Millennium Prize Problem</title>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://daringfireball.net/2026/09/superduper_4</guid>
       <pubDate>Tue, 08 Sep 2026 14:55:20 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Concentration Risk</title>
-      <link>https://www.wheresyoured.at/concentration-risk/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/concentration-risk/</guid>
-      <pubDate>Tue, 08 Sep 2026 14:28:03 +0000</pubDate>
-      <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>A sample use of the winstart.bat file in Windows 95</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260908-00/?p=112679</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260908-00/?p=112679</guid>
-      <pubDate>Tue, 08 Sep 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>ActivityPub - Is it worth defending against replay attacks and message/signature time skew?</title>
-      <link>https://shkspr.mobi/blog/2026/09/activitypub-is-it-worth-defending-against-replay-attacks-and-message-signature-time-skew/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/09/activitypub-is-it-worth-defending-against-replay-attacks-and-message-signature-time-skew/</guid>
-      <pubDate>Tue, 08 Sep 2026 11:34:51 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
   </channel>
 </rss>
