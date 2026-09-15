@@ -208,11 +208,11 @@ Last Updated: Wednesday, September 16th, 2026, 12:03:22 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [What counts as a large cosine similarity?](https://www.johndcook.com/blog/2026/09/15/cosine-similarity/) — *John D. Cook* `09-15`
+- [[Sponsor] WorkOS: How SSO Works and the Fastest Way to Add It](https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026) — *Daring Fireball* `09-15`
+- [There is no epidemic of loneliness, but there is an epidemic of scurvy](https://www.experimental-history.com/p/there-is-no-epidemic-of-loneliness) — *Experimental History* `09-15`
+- [[RSS Club] Sorry for breaking your feed readers!](https://shkspr.mobi/blog/2026/09/rss-club-sorry-for-breaking-your-feed-readers/) — *Terence Eden’s Blog* `09-15`
 - [Shadowing the Standard Library](https://nesbitt.io/2026/09/15/shadowing-the-standard-library.html) — *Andrew Nesbitt* `09-15`
-- [Pluralistic: Everybody pees (15 Sep 2026)](https://pluralistic.net/2026/09/15/bitter-lemon-energy-drink/) — *Pluralistic: Daily links from Cory Doctorow* `09-15`
-- [alt.time-capsule.reopened](https://feed.tedium.co/link/15204/17462130/usenet-rewind-archive-revival-website) — *Tedium: The Dull Side of the Internet.* `09-15`
-- [Tell agents the why, not just the how](https://seangoedecke.com/tell-agents-the-why/) — *seangoedecke.com RSS feed* `09-15`
-- [The contagion of fear](https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/) — *Simon Willison's Weblog* `09-14`
 <!--BLOG_RADAR:end-->
 
 ---

@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 15 Sep 2026 11:31:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 16:44:37 +0000</lastBuildDate>
+    <item>
+      <title>What counts as a large cosine similarity?</title>
+      <link>https://www.johndcook.com/blog/2026/09/15/cosine-similarity/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/09/15/cosine-similarity/</guid>
+      <pubDate>Tue, 15 Sep 2026 16:06:02 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>[Sponsor] WorkOS: How SSO Works and the Fastest Way to Add It</title>
+      <link>https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</link>
+      <guid isPermaLink="true">https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</guid>
+      <pubDate>Tue, 15 Sep 2026 15:32:24 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>There is no epidemic of loneliness, but there is an epidemic of scurvy</title>
+      <link>https://www.experimental-history.com/p/there-is-no-epidemic-of-loneliness</link>
+      <guid isPermaLink="true">https://www.experimental-history.com/p/there-is-no-epidemic-of-loneliness</guid>
+      <pubDate>Tue, 15 Sep 2026 12:54:38 +0000</pubDate>
+      <description>Experimental History</description>
+    </item>
+    <item>
+      <title>[RSS Club] Sorry for breaking your feed readers!</title>
+      <link>https://shkspr.mobi/blog/2026/09/rss-club-sorry-for-breaking-your-feed-readers/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/09/rss-club-sorry-for-breaking-your-feed-readers/</guid>
+      <pubDate>Tue, 15 Sep 2026 11:34:26 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
     <item>
       <title>Shadowing the Standard Library</title>
       <link>https://nesbitt.io/2026/09/15/shadowing-the-standard-library.html</link>
@@ -328,18 +356,18 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>P(doom)</title>
-      <link>https://lucumr.pocoo.org/2026/9/12/pdoom/</link>
-      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/9/12/pdoom/</guid>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Armin Ronacher's Thoughts and Writings</description>
-    </item>
-    <item>
       <title>Everyone should slow down AI development except for me</title>
       <link>https://xeiaso.net/notes/2026/everyone-slowdown-but-me/</link>
       <guid isPermaLink="true">https://xeiaso.net/notes/2026/everyone-slowdown-but-me/</guid>
       <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>P(doom)</title>
+      <link>https://lucumr.pocoo.org/2026/9/12/pdoom/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/9/12/pdoom/</guid>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
       <title>So you want to use OpenRouter?</title>
@@ -699,6 +727,13 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
+      <title>Why we should anthropomorphize AI agents</title>
+      <link>https://seangoedecke.com/why-we-should-anthropomorphize-ai-agents/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/why-we-should-anthropomorphize-ai-agents/</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
       <title>A rant about phishing: It's not the user's fault (and not DNS either)</title>
       <link>https://maurycyz.com/misc/domains/</link>
       <guid isPermaLink="true">https://maurycyz.com/misc/domains/</guid>
@@ -706,11 +741,11 @@
       <description>Maurycy's Blog</description>
     </item>
     <item>
-      <title>Why we should anthropomorphize AI agents</title>
-      <link>https://seangoedecke.com/why-we-should-anthropomorphize-ai-agents/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/why-we-should-anthropomorphize-ai-agents/</guid>
+      <title>Analysing 2048 on a 3×3 board</title>
+      <link>https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/small2048/</link>
+      <guid isPermaLink="true">https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/small2048/</guid>
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
+      <description>Simon Tatham's quasi-blog</description>
     </item>
     <item>
       <title>Cancer Capital: It sucks for founders, too!</title>
@@ -809,41 +844,6 @@
       <guid isPermaLink="true">https://shkspr.mobi/blog/2026/09/activitypub-is-it-worth-defending-against-replay-attacks-and-message-signature-time-skew/</guid>
       <pubDate>Tue, 08 Sep 2026 11:34:51 +0000</pubDate>
       <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>What’s new in git-pkgs</title>
-      <link>https://nesbitt.io/2026/09/08/whats-new-in-git-pkgs.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/09/08/whats-new-in-git-pkgs.html</guid>
-      <pubDate>Tue, 08 Sep 2026 09:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Automatically detecting AI text in my browser</title>
-      <link>https://seangoedecke.com/deckard/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/deckard/</guid>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>llm 0.35</title>
-      <link>https://simonwillison.net/2026/Sep/7/llm/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/7/llm/</guid>
-      <pubDate>Mon, 07 Sep 2026 23:54:54 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>I found an old interview mine (2017)</title>
-      <link>https://idiallo.com/byte-size/interviewing-with-thatsoftware-dude</link>
-      <guid isPermaLink="true">https://idiallo.com/byte-size/interviewing-with-thatsoftware-dude</guid>
-      <pubDate>Mon, 07 Sep 2026 23:20:02 +0000</pubDate>
-      <description>Software and Tech stories from an Insider - iDiallo.com</description>
-    </item>
-    <item>
-      <title>Creepy crawlies</title>
-      <link>https://simonwillison.net/2026/Sep/7/creepy-crawlies/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/7/creepy-crawlies/</guid>
-      <pubDate>Mon, 07 Sep 2026 23:08:58 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
