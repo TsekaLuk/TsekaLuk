@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 14 Sep 2026 21:42:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 04:30:20 +0000</lastBuildDate>
+    <item>
+      <title>alt.time-capsule.reopened</title>
+      <link>https://feed.tedium.co/link/15204/17462130/usenet-rewind-archive-revival-website</link>
+      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17462130/usenet-rewind-archive-revival-website</guid>
+      <pubDate>Tue, 15 Sep 2026 02:58:29 +0000</pubDate>
+      <description>Tedium: The Dull Side of the Internet.</description>
+    </item>
     <item>
       <title>The contagion of fear</title>
       <link>https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/</link>
@@ -685,6 +692,13 @@
       <description>Maurycy's Blog</description>
     </item>
     <item>
+      <title>Analysing 2048 on a 3×3 board</title>
+      <link>https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/small2048/</link>
+      <guid isPermaLink="true">https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/small2048/</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Simon Tatham's quasi-blog</description>
+    </item>
+    <item>
       <title>Cancer Capital: It sucks for founders, too!</title>
       <link>https://anildash.com/2026/09/09/cancer-capital-founders/</link>
       <guid isPermaLink="true">https://anildash.com/2026/09/09/cancer-capital-founders/</guid>
@@ -829,20 +843,6 @@
       <link>https://trackables.app/</link>
       <guid isPermaLink="true">https://trackables.app/</guid>
       <pubDate>Mon, 07 Sep 2026 22:01:27 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Clickable whitespace</title>
-      <link>https://idiallo.com/blog/clickable-whitespace</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/clickable-whitespace</guid>
-      <pubDate>Mon, 07 Sep 2026 21:53:00 +0000</pubDate>
-      <description>Software and Tech stories from an Insider - iDiallo.com</description>
-    </item>
-    <item>
-      <title>The Onion’s Exclusive Interview With Larry Ellison</title>
-      <link>https://theonion.com/the-onions-exclusive-interview-with-larry-ellison/</link>
-      <guid isPermaLink="true">https://theonion.com/the-onions-exclusive-interview-with-larry-ellison/</guid>
-      <pubDate>Mon, 07 Sep 2026 20:09:27 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
   </channel>
