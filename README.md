@@ -208,11 +208,11 @@ Last Updated: Wednesday, September 16th, 2026, 11:56:23 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Pluralistic: How an AI moratorium can save AI bosses (16 Sep 2026)](https://pluralistic.net/2026/09/16/beggar-thy-neighbor/) — *Pluralistic: Daily links from Cory Doctorow* `09-16`
-- [‘Apple Reference Image: A New Approach for Verified Photography’](https://security.apple.com/blog/apple-reference-image/) — *Daring Fireball* `09-16`
-- [Jev means structured output is interesting again](https://seangoedecke.com/jev-means-structured-output-is-interesting-again/) — *seangoedecke.com RSS feed* `09-16`
-- [Gemini Live audio](https://simonwillison.net/2026/Sep/15/gemini-live/) — *Simon Willison's Weblog* `09-15`
-- [Simple approximation for spherical cap area](https://www.johndcook.com/blog/2026/09/15/simple-approximation-for-spherical-cap-area/) — *John D. Cook* `09-15`
+- [Converting between cosine similarity and concentration ratio](https://www.johndcook.com/blog/2026/09/16/concentration-ratio/) — *John D. Cook* `09-16`
+- [Quoting Mustafa Suleyman](https://simonwillison.net/2026/Sep/16/mustafa-suleyman/) — *Simon Willison's Weblog* `09-16`
+- [Coffee + milk ≠ latte](https://www.johndcook.com/blog/2026/09/16/coffee-milk-latte/) — *John D. Cook* `09-16`
+- [AirPods 5 With Wireless Charging Case Works With MagSafe, But Not Magnetically](https://www.apple.com/airpods-5/specs/) — *Daring Fireball* `09-16`
+- [Fibonacci product](https://www.johndcook.com/blog/2026/09/16/fibonacci-product/) — *John D. Cook* `09-16`
 <!--BLOG_RADAR:end-->
 
 ---
