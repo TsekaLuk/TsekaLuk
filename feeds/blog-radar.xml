@@ -4,13 +4,41 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 15 Sep 2026 21:08:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 04:25:50 +0000</lastBuildDate>
+    <item>
+      <title>‘Apple Reference Image: A New Approach for Verified Photography’</title>
+      <link>https://security.apple.com/blog/apple-reference-image/</link>
+      <guid isPermaLink="true">https://security.apple.com/blog/apple-reference-image/</guid>
+      <pubDate>Wed, 16 Sep 2026 02:38:24 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Gemini Live audio</title>
+      <link>https://simonwillison.net/2026/Sep/15/gemini-live/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/15/gemini-live/</guid>
+      <pubDate>Tue, 15 Sep 2026 22:47:07 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Simple approximation for spherical cap area</title>
+      <link>https://www.johndcook.com/blog/2026/09/15/simple-approximation-for-spherical-cap-area/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/09/15/simple-approximation-for-spherical-cap-area/</guid>
+      <pubDate>Tue, 15 Sep 2026 22:00:44 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
     <item>
       <title>FT: ‘Steve Bannon and Bernie Sanders Unite in AI Safety Call’</title>
       <link>https://www.ft.com/content/bab5c4c5-5377-4dd0-8b46-d8c4ce9a36d5?syn-25a6b1a6=1</link>
       <guid isPermaLink="true">https://www.ft.com/content/bab5c4c5-5377-4dd0-8b46-d8c4ce9a36d5?syn-25a6b1a6=1</guid>
       <pubDate>Tue, 15 Sep 2026 19:01:30 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Bottlenecks Get a Bad Rap</title>
+      <link>https://blog.jim-nielsen.com/2026/bottlenecks/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/bottlenecks/</guid>
+      <pubDate>Tue, 15 Sep 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
     </item>
     <item>
       <title>★ Thoughts and Observations on Apple’s ‘Surprise and Shine’ Event; the Announcements of the iPhones 18 Pro, AirPods 5, Apple Watches Series 12 and Ultra 4, and the iPhone Duo; and the Dawn of the Ternus, John Ternus Era at Apple</title>
@@ -174,18 +202,18 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>Interpreting Pangram</title>
-      <link>https://lucumr.pocoo.org/2026/9/14/interpreting-pangram/</link>
-      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/9/14/interpreting-pangram/</guid>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Armin Ronacher's Thoughts and Writings</description>
-    </item>
-    <item>
       <title>Slow developer experience will bottleneck fast models</title>
       <link>https://seangoedecke.com/slow-devex-will-bottleneck-fast-models/</link>
       <guid isPermaLink="true">https://seangoedecke.com/slow-devex-will-bottleneck-fast-models/</guid>
       <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Interpreting Pangram</title>
+      <link>https://lucumr.pocoo.org/2026/9/14/interpreting-pangram/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/9/14/interpreting-pangram/</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
       <title>shot-scraper 1.12</title>
@@ -370,18 +398,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>P(doom)</title>
-      <link>https://lucumr.pocoo.org/2026/9/12/pdoom/</link>
-      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/9/12/pdoom/</guid>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Armin Ronacher's Thoughts and Writings</description>
-    </item>
-    <item>
       <title>Don't build tools for AI agents</title>
       <link>https://seangoedecke.com/dont-build-tools-for-ai-agents/</link>
       <guid isPermaLink="true">https://seangoedecke.com/dont-build-tools-for-ai-agents/</guid>
       <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>P(doom)</title>
+      <link>https://lucumr.pocoo.org/2026/9/12/pdoom/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/9/12/pdoom/</guid>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
       <title>Everyone should slow down AI development except for me</title>
@@ -762,18 +790,18 @@
       <description>Maurycy's Blog</description>
     </item>
     <item>
-      <title>Cancer Capital: It sucks for founders, too!</title>
-      <link>https://anildash.com/2026/09/09/cancer-capital-founders/</link>
-      <guid isPermaLink="true">https://anildash.com/2026/09/09/cancer-capital-founders/</guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Anil Dash</description>
-    </item>
-    <item>
       <title>Analysing 2048 on a 3×3 board</title>
       <link>https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/small2048/</link>
       <guid isPermaLink="true">https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/small2048/</guid>
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
       <description>Simon Tatham's quasi-blog</description>
+    </item>
+    <item>
+      <title>Cancer Capital: It sucks for founders, too!</title>
+      <link>https://anildash.com/2026/09/09/cancer-capital-founders/</link>
+      <guid isPermaLink="true">https://anildash.com/2026/09/09/cancer-capital-founders/</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Anil Dash</description>
     </item>
     <item>
       <title>Some thoughts on the Navier–Stokes Millennium Prize Problem</title>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/bulldoze-ui/</guid>
       <pubDate>Tue, 08 Sep 2026 19:00:00 +0000</pubDate>
       <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
-      <title>Pretraining progress is mostly coming from data</title>
-      <link>https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data</link>
-      <guid isPermaLink="true">https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data</guid>
-      <pubDate>Tue, 08 Sep 2026 16:10:16 +0000</pubDate>
-      <description>Dwarkesh Podcast</description>
-    </item>
-    <item>
-      <title>OpenNMC is an open replacement for expensive APC management cards</title>
-      <link>https://www.jeffgeerling.com/blog/2026/opennmc-apc-ups-replacement-card/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/opennmc-apc-ups-replacement-card/</guid>
-      <pubDate>Tue, 08 Sep 2026 16:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
-      <title>Navier-Stokes in the news</title>
-      <link>https://www.johndcook.com/blog/2026/09/08/navier-stokes-in-the-news/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/09/08/navier-stokes-in-the-news/</guid>
-      <pubDate>Tue, 08 Sep 2026 15:26:08 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>★ SuperDuper 4</title>
-      <link>https://daringfireball.net/2026/09/superduper_4</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/09/superduper_4</guid>
-      <pubDate>Tue, 08 Sep 2026 14:55:20 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>

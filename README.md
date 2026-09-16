@@ -208,11 +208,11 @@ Last Updated: Wednesday, September 16th, 2026, 10:54:11 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [‘Apple Reference Image: A New Approach for Verified Photography’](https://security.apple.com/blog/apple-reference-image/) — *Daring Fireball* `09-16`
+- [Gemini Live audio](https://simonwillison.net/2026/Sep/15/gemini-live/) — *Simon Willison's Weblog* `09-15`
+- [Simple approximation for spherical cap area](https://www.johndcook.com/blog/2026/09/15/simple-approximation-for-spherical-cap-area/) — *John D. Cook* `09-15`
 - [FT: ‘Steve Bannon and Bernie Sanders Unite in AI Safety Call’](https://www.ft.com/content/bab5c4c5-5377-4dd0-8b46-d8c4ce9a36d5?syn-25a6b1a6=1) — *Daring Fireball* `09-15`
-- [★ Thoughts and Observations on Apple’s ‘Surprise and Shine’ Event; the Announcements of the iPhones 18 Pro, AirPods 5, Apple Watches Series 12 and Ultra 4, and the iPhone Duo; and the Dawn of the Ternus, John Ternus Era at Apple](https://daringfireball.net/2026/09/thoughts_and_observations_on_apples_surprise_and_shine_event) — *Daring Fireball* `09-15`
-- [What counts as a large cosine similarity?](https://www.johndcook.com/blog/2026/09/15/cosine-similarity/) — *John D. Cook* `09-15`
-- [[Sponsor] WorkOS: How SSO Works and the Fastest Way to Add It](https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026) — *Daring Fireball* `09-15`
-- [There is no epidemic of loneliness, but there is an epidemic of scurvy](https://www.experimental-history.com/p/there-is-no-epidemic-of-loneliness) — *Experimental History* `09-15`
+- [Bottlenecks Get a Bad Rap](https://blog.jim-nielsen.com/2026/bottlenecks/) — *Jim Nielsen’s Blog* `09-15`
 <!--BLOG_RADAR:end-->
 
 ---
