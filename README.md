@@ -208,11 +208,11 @@ Last Updated: Thursday, September 17th, 2026, 4:45:25 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Converting between cosine similarity and concentration ratio](https://www.johndcook.com/blog/2026/09/16/concentration-ratio/) — *John D. Cook* `09-16`
-- [Quoting Mustafa Suleyman](https://simonwillison.net/2026/Sep/16/mustafa-suleyman/) — *Simon Willison's Weblog* `09-16`
-- [Coffee + milk ≠ latte](https://www.johndcook.com/blog/2026/09/16/coffee-milk-latte/) — *John D. Cook* `09-16`
-- [AirPods 5 With Wireless Charging Case Works With MagSafe, But Not Magnetically](https://www.apple.com/airpods-5/specs/) — *Daring Fireball* `09-16`
-- [Fibonacci product](https://www.johndcook.com/blog/2026/09/16/fibonacci-product/) — *John D. Cook* `09-16`
+- [Flock cameras are riddled with security vulnerabilities and hard-coded credentials](https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/) — *micahflee* `09-16`
+- [The LLMs yearn for the spines](https://buttondown.com/hillelwayne/archive/the-llms-yearn-for-the-spines/) — *Computer Things* `09-16`
+- [Apple OS 27.2 Betas Are Out; Version 27.1 Is the Duo-Exclusive iOS Fork](https://www.macrumors.com/2026/09/16/heres-why-apple-released-ios-27-2-beta/) — *Daring Fireball* `09-16`
+- [Data Broker Radaris Loses Domains in Privacy Fight](https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/) — *Krebs on Security* `09-16`
+- [Claude Cowork and chat are now one Claude](https://simonwillison.net/2026/Sep/16/one-claude/) — *Simon Willison's Weblog* `09-16`
 <!--BLOG_RADAR:end-->
 
 ---

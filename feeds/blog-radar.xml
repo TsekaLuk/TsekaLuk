@@ -4,7 +4,42 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 16 Sep 2026 16:37:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 21:09:24 +0000</lastBuildDate>
+    <item>
+      <title>Flock cameras are riddled with security vulnerabilities and hard-coded credentials</title>
+      <link>https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/</link>
+      <guid isPermaLink="true">https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/</guid>
+      <pubDate>Wed, 16 Sep 2026 20:48:47 +0000</pubDate>
+      <description>micahflee</description>
+    </item>
+    <item>
+      <title>The LLMs yearn for the spines</title>
+      <link>https://buttondown.com/hillelwayne/archive/the-llms-yearn-for-the-spines/</link>
+      <guid isPermaLink="true">https://buttondown.com/hillelwayne/archive/the-llms-yearn-for-the-spines/</guid>
+      <pubDate>Wed, 16 Sep 2026 19:58:30 +0000</pubDate>
+      <description>Computer Things</description>
+    </item>
+    <item>
+      <title>Apple OS 27.2 Betas Are Out; Version 27.1 Is the Duo-Exclusive iOS Fork</title>
+      <link>https://www.macrumors.com/2026/09/16/heres-why-apple-released-ios-27-2-beta/</link>
+      <guid isPermaLink="true">https://www.macrumors.com/2026/09/16/heres-why-apple-released-ios-27-2-beta/</guid>
+      <pubDate>Wed, 16 Sep 2026 18:36:08 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Data Broker Radaris Loses Domains in Privacy Fight</title>
+      <link>https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/</link>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/</guid>
+      <pubDate>Wed, 16 Sep 2026 18:14:22 +0000</pubDate>
+      <description>Krebs on Security</description>
+    </item>
+    <item>
+      <title>Claude Cowork and chat are now one Claude</title>
+      <link>https://simonwillison.net/2026/Sep/16/one-claude/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/16/one-claude/</guid>
+      <pubDate>Wed, 16 Sep 2026 18:09:49 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Converting between cosine similarity and concentration ratio</title>
       <link>https://www.johndcook.com/blog/2026/09/16/concentration-ratio/</link>
@@ -809,41 +844,6 @@
       <guid isPermaLink="true">https://borretti.me/article/the-other-road</guid>
       <pubDate>Wed, 09 Sep 2026 14:00:00 +0000</pubDate>
       <description>Fernando Borretti</description>
-    </item>
-    <item>
-      <title>The part of Navier-Stokes no one is talking about</title>
-      <link>https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/</guid>
-      <pubDate>Wed, 09 Sep 2026 12:43:36 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Pluralistic: Anti-vax/anti-trust (09 Sep 2026)</title>
-      <link>https://pluralistic.net/2026/09/09/when-it-dont-rain/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/09/09/when-it-dont-rain/</guid>
-      <pubDate>Wed, 09 Sep 2026 10:28:57 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>★ The iPhone Air and iPhone 17 Pro</title>
-      <link>https://daringfireball.net/2026/09/the_iphone_air_and_iphone_17_pro</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/09/the_iphone_air_and_iphone_17_pro</guid>
-      <pubDate>Wed, 09 Sep 2026 00:55:53 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Quoting Terence Tao</title>
-      <link>https://simonwillison.net/2026/Sep/9/terence-tao/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/9/terence-tao/</guid>
-      <pubDate>Wed, 09 Sep 2026 00:20:17 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Why we should anthropomorphize AI agents</title>
-      <link>https://seangoedecke.com/why-we-should-anthropomorphize-ai-agents/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/why-we-should-anthropomorphize-ai-agents/</guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
     </item>
   </channel>
 </rss>
