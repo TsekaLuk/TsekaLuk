@@ -208,11 +208,11 @@ Last Updated: Thursday, September 17th, 2026, 10:58:01 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Flock cameras are riddled with security vulnerabilities and hard-coded credentials](https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/) — *micahflee* `09-16`
-- [The LLMs yearn for the spines](https://buttondown.com/hillelwayne/archive/the-llms-yearn-for-the-spines/) — *Computer Things* `09-16`
-- [Apple OS 27.2 Betas Are Out; Version 27.1 Is the Duo-Exclusive iOS Fork](https://www.macrumors.com/2026/09/16/heres-why-apple-released-ios-27-2-beta/) — *Daring Fireball* `09-16`
-- [Data Broker Radaris Loses Domains in Privacy Fight](https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/) — *Krebs on Security* `09-16`
-- [Claude Cowork and chat are now one Claude](https://simonwillison.net/2026/Sep/16/one-claude/) — *Simon Willison's Weblog* `09-16`
+- [datasette 1.0a40](https://simonwillison.net/2026/Sep/16/datasette/) — *Simon Willison's Weblog* `09-16`
+- [datasette 0.65.5](https://simonwillison.net/2026/Sep/16/datasette-2/) — *Simon Willison's Weblog* `09-16`
+- [Xcode 27.2 Is Out, but 27.1 Is Not, Which Means Developers Still Can’t Get Started on Duo-Adapted Apps](https://developer.apple.com/documentation/xcode-release-notes/xcode-27_2-release-notes) — *Daring Fireball* `09-16`
+- [Is That a Duo in Ternus’s Pocket or Was He Just Happy That Apple TV Shows Won 28 Emmys?](https://x.com/DEADLINE/status/2099645816361332775) — *Daring Fireball* `09-16`
+- [Woz Launches Merch Store](https://x.com/stevewoz/status/2100074363605397658) — *Daring Fireball* `09-16`
 <!--BLOG_RADAR:end-->
 
 ---

@@ -4,7 +4,42 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 16 Sep 2026 21:09:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 04:31:49 +0000</lastBuildDate>
+    <item>
+      <title>datasette 1.0a40</title>
+      <link>https://simonwillison.net/2026/Sep/16/datasette/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/16/datasette/</guid>
+      <pubDate>Wed, 16 Sep 2026 23:51:43 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>datasette 0.65.5</title>
+      <link>https://simonwillison.net/2026/Sep/16/datasette-2/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/16/datasette-2/</guid>
+      <pubDate>Wed, 16 Sep 2026 23:51:08 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Xcode 27.2 Is Out, but 27.1 Is Not, Which Means Developers Still Can’t Get Started on Duo-Adapted Apps</title>
+      <link>https://developer.apple.com/documentation/xcode-release-notes/xcode-27_2-release-notes</link>
+      <guid isPermaLink="true">https://developer.apple.com/documentation/xcode-release-notes/xcode-27_2-release-notes</guid>
+      <pubDate>Wed, 16 Sep 2026 22:40:41 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Is That a Duo in Ternus’s Pocket or Was He Just Happy That Apple TV Shows Won 28 Emmys?</title>
+      <link>https://x.com/DEADLINE/status/2099645816361332775</link>
+      <guid isPermaLink="true">https://x.com/DEADLINE/status/2099645816361332775</guid>
+      <pubDate>Wed, 16 Sep 2026 22:21:30 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Woz Launches Merch Store</title>
+      <link>https://x.com/stevewoz/status/2100074363605397658</link>
+      <guid isPermaLink="true">https://x.com/stevewoz/status/2100074363605397658</guid>
+      <pubDate>Wed, 16 Sep 2026 21:38:27 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Flock cameras are riddled with security vulnerabilities and hard-coded credentials</title>
       <link>https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/</link>
@@ -200,6 +235,13 @@
       <guid isPermaLink="true">https://seangoedecke.com/tell-agents-the-why/</guid>
       <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>You can run git on object storage if you re-make packfiles</title>
+      <link>https://www.tigrisdata.com/blog/objgit-packfiles/</link>
+      <guid isPermaLink="true">https://www.tigrisdata.com/blog/objgit-packfiles/</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>Tag index for Org mode blog</title>
@@ -503,18 +545,18 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>Everyone should slow down AI development except for me</title>
-      <link>https://xeiaso.net/notes/2026/everyone-slowdown-but-me/</link>
-      <guid isPermaLink="true">https://xeiaso.net/notes/2026/everyone-slowdown-but-me/</guid>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
       <title>P(doom)</title>
       <link>https://lucumr.pocoo.org/2026/9/12/pdoom/</link>
       <guid isPermaLink="true">https://lucumr.pocoo.org/2026/9/12/pdoom/</guid>
       <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
       <description>Armin Ronacher's Thoughts and Writings</description>
+    </item>
+    <item>
+      <title>Everyone should slow down AI development except for me</title>
+      <link>https://xeiaso.net/notes/2026/everyone-slowdown-but-me/</link>
+      <guid isPermaLink="true">https://xeiaso.net/notes/2026/everyone-slowdown-but-me/</guid>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>So you want to use OpenRouter?</title>
@@ -802,48 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Sep/9/blender-viewer/</guid>
       <pubDate>Wed, 09 Sep 2026 23:58:32 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>We own the Glass</title>
-      <link>https://idiallo.com/byte-size/</link>
-      <guid isPermaLink="true">https://idiallo.com/byte-size/</guid>
-      <pubDate>Wed, 09 Sep 2026 20:55:02 +0000</pubDate>
-      <description>Software and Tech stories from an Insider - iDiallo.com</description>
-    </item>
-    <item>
-      <title>Don’t Let Anyone Take Away Your Big Box of Cables</title>
-      <link>https://blog.jim-nielsen.com/2026/hands-off-my-cables/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/hands-off-my-cables/</guid>
-      <pubDate>Wed, 09 Sep 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
-      <title>A 50-year-old computer-assisted proof</title>
-      <link>https://www.johndcook.com/blog/2026/09/09/four-colors/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/09/09/four-colors/</guid>
-      <pubDate>Wed, 09 Sep 2026 14:59:48 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>AI is an intelligence multiplier</title>
-      <link>https://www.johndcook.com/blog/2026/09/09/ai-multiplier/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/09/09/ai-multiplier/</guid>
-      <pubDate>Wed, 09 Sep 2026 14:17:20 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>What algorithm did Windows XP use to choose your initial user picture?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683</guid>
-      <pubDate>Wed, 09 Sep 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>The Other Road</title>
-      <link>https://borretti.me/article/the-other-road</link>
-      <guid isPermaLink="true">https://borretti.me/article/the-other-road</guid>
-      <pubDate>Wed, 09 Sep 2026 14:00:00 +0000</pubDate>
-      <description>Fernando Borretti</description>
     </item>
   </channel>
 </rss>
