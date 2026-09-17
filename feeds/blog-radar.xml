@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 17 Sep 2026 16:44:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 21:11:46 +0000</lastBuildDate>
+    <item>
+      <title>Self-generated prompt injections in compaction summaries</title>
+      <link>https://simonwillison.net/2026/Sep/17/compaction-summaries/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/17/compaction-summaries/</guid>
+      <pubDate>Thu, 17 Sep 2026 20:57:55 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Empirical fractal</title>
+      <link>https://www.johndcook.com/blog/2026/09/17/empirical-fractal/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/09/17/empirical-fractal/</guid>
+      <pubDate>Thu, 17 Sep 2026 16:48:14 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
     <item>
       <title>Noam Brown – Agent swarms, alignment, &amp; recursive self-improvement</title>
       <link>https://www.dwarkesh.com/p/noam-brown</link>
@@ -32,6 +46,13 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/09/17/phone-words/</guid>
       <pubDate>Thu, 17 Sep 2026 14:03:51 +0000</pubDate>
       <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>std::call_once vs. std::async</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260917-00/?p=112706</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260917-00/?p=112706</guid>
+      <pubDate>Thu, 17 Sep 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>How SpaceX Streamlined the Raptor Engine</title>
@@ -601,18 +622,18 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>P(doom)</title>
-      <link>https://lucumr.pocoo.org/2026/9/12/pdoom/</link>
-      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/9/12/pdoom/</guid>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Armin Ronacher's Thoughts and Writings</description>
-    </item>
-    <item>
       <title>Everyone should slow down AI development except for me</title>
       <link>https://xeiaso.net/notes/2026/everyone-slowdown-but-me/</link>
       <guid isPermaLink="true">https://xeiaso.net/notes/2026/everyone-slowdown-but-me/</guid>
       <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>P(doom)</title>
+      <link>https://lucumr.pocoo.org/2026/9/12/pdoom/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/9/12/pdoom/</guid>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
       <title>So you want to use OpenRouter?</title>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/ode-to-links/</guid>
       <pubDate>Thu, 10 Sep 2026 19:00:00 +0000</pubDate>
       <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
-      <title>Extending Raschka's GPT-2: an MoE trained from scratch on an RTX 3090</title>
-      <link>https://www.gilesthomas.com/2026/09/gpt-2-to-moe</link>
-      <guid isPermaLink="true">https://www.gilesthomas.com/2026/09/gpt-2-to-moe</guid>
-      <pubDate>Thu, 10 Sep 2026 18:45:00 +0000</pubDate>
-      <description>Giles' blog</description>
-    </item>
-    <item>
-      <title>Joanna Stern on the iPhone Duo</title>
-      <link>https://youtu.be/VNzl-q0EGfg</link>
-      <guid isPermaLink="true">https://youtu.be/VNzl-q0EGfg</guid>
-      <pubDate>Thu, 10 Sep 2026 17:29:30 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>AI Is Breaking This Thing We Call Trust</title>
-      <link>https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/</link>
-      <guid isPermaLink="true">https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/</guid>
-      <pubDate>Thu, 10 Sep 2026 14:18:06 +0000</pubDate>
-      <description>Terrible Software</description>
     </item>
   </channel>
 </rss>

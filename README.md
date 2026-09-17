@@ -208,11 +208,11 @@ Last Updated: Friday, September 18th, 2026, 4:51:03 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Self-generated prompt injections in compaction summaries](https://simonwillison.net/2026/Sep/17/compaction-summaries/) — *Simon Willison's Weblog* `09-17`
+- [Empirical fractal](https://www.johndcook.com/blog/2026/09/17/empirical-fractal/) — *John D. Cook* `09-17`
 - [Noam Brown – Agent swarms, alignment, & recursive self-improvement](https://www.dwarkesh.com/p/noam-brown) — *Dwarkesh Podcast* `09-17`
 - [Corporate Sunset](https://feed.tedium.co/link/15204/17464641/cox-charter-spectrum-brand-retirement-analysis) — *Tedium: The Dull Side of the Internet.* `09-17`
 - [Why Do U.S. Models of the iPhone 18 Pro Max, and Only U.S. Models of the 18 Pro Max, Use Qualcomm Cellular Modems Instead of Apple’s Own Superior C2 Modem?](https://www.macrumors.com/2026/09/12/iphone-18-pro-max-us-model-difference/) — *Daring Fireball* `09-17`
-- [Phone words](https://www.johndcook.com/blog/2026/09/17/phone-words/) — *John D. Cook* `09-17`
-- [How SpaceX Streamlined the Raptor Engine](https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor) — *Construction Physics* `09-17`
 <!--BLOG_RADAR:end-->
 
 ---
