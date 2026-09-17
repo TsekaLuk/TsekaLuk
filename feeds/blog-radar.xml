@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 17 Sep 2026 04:31:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 11:25:39 +0000</lastBuildDate>
+    <item>
+      <title>Good Morning, Your Toaster Is Compromised</title>
+      <link>https://nesbitt.io/2026/09/17/good-morning-your-toaster-is-compromised.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/09/17/good-morning-your-toaster-is-compromised.html</guid>
+      <pubDate>Thu, 17 Sep 2026 09:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>Pluralistic: On the sincerity of AI bosses (17 Sep 2026)</title>
+      <link>https://pluralistic.net/2026/09/17/porque-no-los-dos/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/09/17/porque-no-los-dos/</guid>
+      <pubDate>Thu, 17 Sep 2026 07:35:12 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
     <item>
       <title>datasette 1.0a40</title>
       <link>https://simonwillison.net/2026/Sep/16/datasette/</link>
@@ -545,18 +559,18 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>P(doom)</title>
-      <link>https://lucumr.pocoo.org/2026/9/12/pdoom/</link>
-      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/9/12/pdoom/</guid>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Armin Ronacher's Thoughts and Writings</description>
-    </item>
-    <item>
       <title>Everyone should slow down AI development except for me</title>
       <link>https://xeiaso.net/notes/2026/everyone-slowdown-but-me/</link>
       <guid isPermaLink="true">https://xeiaso.net/notes/2026/everyone-slowdown-but-me/</guid>
       <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>P(doom)</title>
+      <link>https://lucumr.pocoo.org/2026/9/12/pdoom/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/9/12/pdoom/</guid>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
       <title>So you want to use OpenRouter?</title>
@@ -829,20 +843,6 @@
       <link>https://simonwillison.net/2026/Sep/10/calif-research/</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Sep/10/calif-research/</guid>
       <pubDate>Thu, 10 Sep 2026 00:56:41 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>They really do think AI might kill everyone</title>
-      <link>https://seangoedecke.com/they-really-do-think-ai-might-kill-everyone/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/they-really-do-think-ai-might-kill-everyone/</guid>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>.blend URL Viewer</title>
-      <link>https://simonwillison.net/2026/Sep/9/blender-viewer/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/9/blender-viewer/</guid>
-      <pubDate>Wed, 09 Sep 2026 23:58:32 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
     </item>
   </channel>

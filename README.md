@@ -208,11 +208,11 @@ Last Updated: Thursday, September 17th, 2026, 6:48:56 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Good Morning, Your Toaster Is Compromised](https://nesbitt.io/2026/09/17/good-morning-your-toaster-is-compromised.html) — *Andrew Nesbitt* `09-17`
+- [Pluralistic: On the sincerity of AI bosses (17 Sep 2026)](https://pluralistic.net/2026/09/17/porque-no-los-dos/) — *Pluralistic: Daily links from Cory Doctorow* `09-17`
 - [datasette 1.0a40](https://simonwillison.net/2026/Sep/16/datasette/) — *Simon Willison's Weblog* `09-16`
 - [datasette 0.65.5](https://simonwillison.net/2026/Sep/16/datasette-2/) — *Simon Willison's Weblog* `09-16`
 - [Xcode 27.2 Is Out, but 27.1 Is Not, Which Means Developers Still Can’t Get Started on Duo-Adapted Apps](https://developer.apple.com/documentation/xcode-release-notes/xcode-27_2-release-notes) — *Daring Fireball* `09-16`
-- [Is That a Duo in Ternus’s Pocket or Was He Just Happy That Apple TV Shows Won 28 Emmys?](https://x.com/DEADLINE/status/2099645816361332775) — *Daring Fireball* `09-16`
-- [Woz Launches Merch Store](https://x.com/stevewoz/status/2100074363605397658) — *Daring Fireball* `09-16`
 <!--BLOG_RADAR:end-->
 
 ---
