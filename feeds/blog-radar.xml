@@ -4,7 +4,42 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 17 Sep 2026 11:25:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 16:44:16 +0000</lastBuildDate>
+    <item>
+      <title>Noam Brown – Agent swarms, alignment, &amp; recursive self-improvement</title>
+      <link>https://www.dwarkesh.com/p/noam-brown</link>
+      <guid isPermaLink="true">https://www.dwarkesh.com/p/noam-brown</guid>
+      <pubDate>Thu, 17 Sep 2026 15:38:13 +0000</pubDate>
+      <description>Dwarkesh Podcast</description>
+    </item>
+    <item>
+      <title>Corporate Sunset</title>
+      <link>https://feed.tedium.co/link/15204/17464641/cox-charter-spectrum-brand-retirement-analysis</link>
+      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17464641/cox-charter-spectrum-brand-retirement-analysis</guid>
+      <pubDate>Thu, 17 Sep 2026 14:55:07 +0000</pubDate>
+      <description>Tedium: The Dull Side of the Internet.</description>
+    </item>
+    <item>
+      <title>Why Do U.S. Models of the iPhone 18 Pro Max, and Only U.S. Models of the 18 Pro Max, Use Qualcomm Cellular Modems Instead of Apple’s Own Superior C2 Modem?</title>
+      <link>https://www.macrumors.com/2026/09/12/iphone-18-pro-max-us-model-difference/</link>
+      <guid isPermaLink="true">https://www.macrumors.com/2026/09/12/iphone-18-pro-max-us-model-difference/</guid>
+      <pubDate>Thu, 17 Sep 2026 14:41:53 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Phone words</title>
+      <link>https://www.johndcook.com/blog/2026/09/17/phone-words/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/09/17/phone-words/</guid>
+      <pubDate>Thu, 17 Sep 2026 14:03:51 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>How SpaceX Streamlined the Raptor Engine</title>
+      <link>https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor</link>
+      <guid isPermaLink="true">https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor</guid>
+      <pubDate>Thu, 17 Sep 2026 12:02:08 +0000</pubDate>
+      <description>Construction Physics</description>
+    </item>
     <item>
       <title>Good Morning, Your Toaster Is Compromised</title>
       <link>https://nesbitt.io/2026/09/17/good-morning-your-toaster-is-compromised.html</link>
@@ -116,6 +151,13 @@
       <guid isPermaLink="true">https://www.apple.com/airpods-5/specs/</guid>
       <pubDate>Wed, 16 Sep 2026 14:35:49 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Magic statics vs. std::call_once</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260916-00/?p=112703</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260916-00/?p=112703</guid>
+      <pubDate>Wed, 16 Sep 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Fibonacci product</title>
@@ -559,18 +601,18 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>Everyone should slow down AI development except for me</title>
-      <link>https://xeiaso.net/notes/2026/everyone-slowdown-but-me/</link>
-      <guid isPermaLink="true">https://xeiaso.net/notes/2026/everyone-slowdown-but-me/</guid>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
       <title>P(doom)</title>
       <link>https://lucumr.pocoo.org/2026/9/12/pdoom/</link>
       <guid isPermaLink="true">https://lucumr.pocoo.org/2026/9/12/pdoom/</guid>
       <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
       <description>Armin Ronacher's Thoughts and Writings</description>
+    </item>
+    <item>
+      <title>Everyone should slow down AI development except for me</title>
+      <link>https://xeiaso.net/notes/2026/everyone-slowdown-but-me/</link>
+      <guid isPermaLink="true">https://xeiaso.net/notes/2026/everyone-slowdown-but-me/</guid>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>So you want to use OpenRouter?</title>
@@ -802,48 +844,6 @@
       <guid isPermaLink="true">https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/</guid>
       <pubDate>Thu, 10 Sep 2026 14:18:06 +0000</pubDate>
       <description>Terrible Software</description>
-    </item>
-    <item>
-      <title>Why is the x86 undefined instruction called ud2? Why 2?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689</guid>
-      <pubDate>Thu, 10 Sep 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Bayesian OCR</title>
-      <link>https://www.johndcook.com/blog/2026/09/10/bayesian-ocr/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/09/10/bayesian-ocr/</guid>
-      <pubDate>Thu, 10 Sep 2026 12:32:31 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Put an AV test at the start of your slides</title>
-      <link>https://shkspr.mobi/blog/2026/09/put-an-av-test-at-the-start-of-your-slides/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/09/put-an-av-test-at-the-start-of-your-slides/</guid>
-      <pubDate>Thu, 10 Sep 2026 11:34:10 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Package Manager Trends</title>
-      <link>https://nesbitt.io/2026/09/10/package-manager-trends.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/09/10/package-manager-trends.html</guid>
-      <pubDate>Thu, 10 Sep 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Automattic Minus Matt</title>
-      <link>https://feed.tedium.co/link/15204/17444080/matt-mullenweg-automattic-leave-absence</link>
-      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17444080/matt-mullenweg-automattic-leave-absence</guid>
-      <pubDate>Thu, 10 Sep 2026 05:29:30 +0000</pubDate>
-      <description>Tedium: The Dull Side of the Internet.</description>
-    </item>
-    <item>
-      <title>Quoting Calif Research</title>
-      <link>https://simonwillison.net/2026/Sep/10/calif-research/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/10/calif-research/</guid>
-      <pubDate>Thu, 10 Sep 2026 00:56:41 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>

@@ -208,11 +208,11 @@ Last Updated: Friday, September 18th, 2026, 12:03:04 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Good Morning, Your Toaster Is Compromised](https://nesbitt.io/2026/09/17/good-morning-your-toaster-is-compromised.html) — *Andrew Nesbitt* `09-17`
-- [Pluralistic: On the sincerity of AI bosses (17 Sep 2026)](https://pluralistic.net/2026/09/17/porque-no-los-dos/) — *Pluralistic: Daily links from Cory Doctorow* `09-17`
-- [datasette 1.0a40](https://simonwillison.net/2026/Sep/16/datasette/) — *Simon Willison's Weblog* `09-16`
-- [datasette 0.65.5](https://simonwillison.net/2026/Sep/16/datasette-2/) — *Simon Willison's Weblog* `09-16`
-- [Xcode 27.2 Is Out, but 27.1 Is Not, Which Means Developers Still Can’t Get Started on Duo-Adapted Apps](https://developer.apple.com/documentation/xcode-release-notes/xcode-27_2-release-notes) — *Daring Fireball* `09-16`
+- [Noam Brown – Agent swarms, alignment, & recursive self-improvement](https://www.dwarkesh.com/p/noam-brown) — *Dwarkesh Podcast* `09-17`
+- [Corporate Sunset](https://feed.tedium.co/link/15204/17464641/cox-charter-spectrum-brand-retirement-analysis) — *Tedium: The Dull Side of the Internet.* `09-17`
+- [Why Do U.S. Models of the iPhone 18 Pro Max, and Only U.S. Models of the 18 Pro Max, Use Qualcomm Cellular Modems Instead of Apple’s Own Superior C2 Modem?](https://www.macrumors.com/2026/09/12/iphone-18-pro-max-us-model-difference/) — *Daring Fireball* `09-17`
+- [Phone words](https://www.johndcook.com/blog/2026/09/17/phone-words/) — *John D. Cook* `09-17`
+- [How SpaceX Streamlined the Raptor Engine](https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor) — *Construction Physics* `09-17`
 <!--BLOG_RADAR:end-->
 
 ---
