@@ -4,7 +4,42 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 17 Sep 2026 21:11:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 04:16:43 +0000</lastBuildDate>
+    <item>
+      <title>★ The iPhones 18 Pro</title>
+      <link>https://daringfireball.net/2026/09/the_iphones_18_pro</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/09/the_iphones_18_pro</guid>
+      <pubDate>Fri, 18 Sep 2026 02:05:11 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Two techniques for working with System One models</title>
+      <link>https://seangoedecke.com/two-techniques-for-working-with-system-one-models/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/two-techniques-for-working-with-system-one-models/</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Be alert: targeted attacks on prominent Rustaceans</title>
+      <link>https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/</guid>
+      <pubDate>Thu, 17 Sep 2026 23:59:19 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>The Front Page of the Internet Is Up for Grabs</title>
+      <link>https://idiallo.com/byte-size/the-front-page-of-the-internet</link>
+      <guid isPermaLink="true">https://idiallo.com/byte-size/the-front-page-of-the-internet</guid>
+      <pubDate>Thu, 17 Sep 2026 23:43:19 +0000</pubDate>
+      <description>Software and Tech stories from an Insider - iDiallo.com</description>
+    </item>
+    <item>
+      <title>How To Write With An LLM</title>
+      <link>https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/</guid>
+      <pubDate>Thu, 17 Sep 2026 23:37:27 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Self-generated prompt injections in compaction summaries</title>
       <link>https://simonwillison.net/2026/Sep/17/compaction-summaries/</link>
@@ -622,18 +657,18 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>Everyone should slow down AI development except for me</title>
-      <link>https://xeiaso.net/notes/2026/everyone-slowdown-but-me/</link>
-      <guid isPermaLink="true">https://xeiaso.net/notes/2026/everyone-slowdown-but-me/</guid>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
       <title>P(doom)</title>
       <link>https://lucumr.pocoo.org/2026/9/12/pdoom/</link>
       <guid isPermaLink="true">https://lucumr.pocoo.org/2026/9/12/pdoom/</guid>
       <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
       <description>Armin Ronacher's Thoughts and Writings</description>
+    </item>
+    <item>
+      <title>Everyone should slow down AI development except for me</title>
+      <link>https://xeiaso.net/notes/2026/everyone-slowdown-but-me/</link>
+      <guid isPermaLink="true">https://xeiaso.net/notes/2026/everyone-slowdown-but-me/</guid>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>So you want to use OpenRouter?</title>
@@ -809,41 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Sep/11/datasette-2/</guid>
       <pubDate>Fri, 11 Sep 2026 00:05:54 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>At 25, we are all New Yorkers, again</title>
-      <link>https://anildash.com/2026/09/11/25-we-are-all-new-yorkers-again/</link>
-      <guid isPermaLink="true">https://anildash.com/2026/09/11/25-we-are-all-new-yorkers-again/</guid>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Anil Dash</description>
-    </item>
-    <item>
-      <title>Any Nix package, live in your browser</title>
-      <link>https://simonwillison.net/2026/Sep/10/trynix/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/10/trynix/</guid>
-      <pubDate>Thu, 10 Sep 2026 23:44:15 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Native is now the future of mobile at Shopify</title>
-      <link>https://simonwillison.net/2026/Sep/10/shopify-react-native/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/10/shopify-react-native/</guid>
-      <pubDate>Thu, 10 Sep 2026 21:11:15 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Apple’s OS 27 Updates Will Be Released on Monday, 14 September</title>
-      <link>https://9to5mac.com/2026/09/09/apple-confirms-macos-27-golden-gate-launch-date-september-14/</link>
-      <guid isPermaLink="true">https://9to5mac.com/2026/09/09/apple-confirms-macos-27-golden-gate-launch-date-september-14/</guid>
-      <pubDate>Thu, 10 Sep 2026 20:15:52 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>An Ode to Links</title>
-      <link>https://blog.jim-nielsen.com/2026/ode-to-links/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/ode-to-links/</guid>
-      <pubDate>Thu, 10 Sep 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
     </item>
   </channel>
 </rss>
