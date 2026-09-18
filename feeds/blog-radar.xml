@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 18 Sep 2026 04:16:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 10:58:53 +0000</lastBuildDate>
+    <item>
+      <title>Pluralistic: Textured (18 Sep 2026)</title>
+      <link>https://pluralistic.net/2026/09/18/surprise/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/09/18/surprise/</guid>
+      <pubDate>Fri, 18 Sep 2026 07:45:10 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
     <item>
       <title>★ The iPhones 18 Pro</title>
       <link>https://daringfireball.net/2026/09/the_iphones_18_pro</link>
@@ -657,18 +664,18 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>P(doom)</title>
-      <link>https://lucumr.pocoo.org/2026/9/12/pdoom/</link>
-      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/9/12/pdoom/</guid>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Armin Ronacher's Thoughts and Writings</description>
-    </item>
-    <item>
       <title>Everyone should slow down AI development except for me</title>
       <link>https://xeiaso.net/notes/2026/everyone-slowdown-but-me/</link>
       <guid isPermaLink="true">https://xeiaso.net/notes/2026/everyone-slowdown-but-me/</guid>
       <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>P(doom)</title>
+      <link>https://lucumr.pocoo.org/2026/9/12/pdoom/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/9/12/pdoom/</guid>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
       <title>So you want to use OpenRouter?</title>
@@ -836,13 +843,6 @@
       <link>https://simonwillison.net/2026/Sep/11/datasette/</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Sep/11/datasette/</guid>
       <pubDate>Fri, 11 Sep 2026 00:06:55 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>datasette 1.0a39</title>
-      <link>https://simonwillison.net/2026/Sep/11/datasette-2/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/11/datasette-2/</guid>
-      <pubDate>Fri, 11 Sep 2026 00:05:54 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
     </item>
   </channel>

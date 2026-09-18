@@ -208,11 +208,11 @@ Last Updated: Friday, September 18th, 2026, 6:24:24 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Pluralistic: Textured (18 Sep 2026)](https://pluralistic.net/2026/09/18/surprise/) — *Pluralistic: Daily links from Cory Doctorow* `09-18`
 - [★ The iPhones 18 Pro](https://daringfireball.net/2026/09/the_iphones_18_pro) — *Daring Fireball* `09-18`
 - [Two techniques for working with System One models](https://seangoedecke.com/two-techniques-for-working-with-system-one-models/) — *seangoedecke.com RSS feed* `09-18`
 - [Be alert: targeted attacks on prominent Rustaceans](https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/) — *Simon Willison's Weblog* `09-17`
 - [The Front Page of the Internet Is Up for Grabs](https://idiallo.com/byte-size/the-front-page-of-the-internet) — *Software and Tech stories from an Insider - iDiallo.com* `09-17`
-- [How To Write With An LLM](https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/) — *Simon Willison's Weblog* `09-17`
 <!--BLOG_RADAR:end-->
 
 ---
