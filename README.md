@@ -208,11 +208,11 @@ Last Updated: Saturday, September 19th, 2026, 4:16:42 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Premium: The Hater's Guide To AI Debt (Part 1)](https://www.wheresyoured.at/premium-the-haters-guide-to-ai-debt-part-1/) — *Ed Zitron's Where's Your Ed At* `09-18`
-- [The Lamentable Later Life of Lemmings](https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/) — *The Digital Antiquarian* `09-18`
-- [The Creative Spirit of Who Framed Roger Rabbit](https://simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit/) — *Simon Willison's Weblog* `09-18`
-- [NTP, an atomic clock, and having a great time at the world's largest VCF](https://www.jeffgeerling.com/blog/2026/vcf-midwest-21-ntp-time/) — *Jeff Geerling* `09-18`
-- [Theatre Review: The School for Wives - at Riverside Studios ★★★★★](https://shkspr.mobi/blog/2026/09/theatre-review-the-school-for-wives/) — *Terence Eden’s Blog* `09-18`
+- [Will Oremus Is a Duo Doubter](https://www.theatlantic.com/technology/2026/09/apple-folding-iphone/688562/?gift=aQyUJR7AIw1mJWdQ6Ed6yE6RbvpIGGpQGFPIX827p48) — *Daring Fireball* `09-18`
+- [Apple Releases Xcode 27.1, First SDK With Support for iPhone Duo](https://developer.apple.com/news/?id=nyuppv9r) — *Daring Fireball* `09-18`
+- [Warren Buffett, at 96, Steps Down as Chairman at Berkshire Hathaway](https://www.berkshirehathaway.com/news/sep1826.pdf) — *Daring Fireball* `09-18`
+- [Trump Says He’s Banning MS NOW, CNN, and Politico From White House](https://truthsocial.com/@realDonaldTrump/posts/117293599348325006) — *Daring Fireball* `09-18`
+- [Note on 18th September 2026](https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/) — *Simon Willison's Weblog* `09-18`
 <!--BLOG_RADAR:end-->
 
 ---
