@@ -4,7 +4,42 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 18 Sep 2026 10:58:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 16:13:29 +0000</lastBuildDate>
+    <item>
+      <title>Premium: The Hater's Guide To AI Debt (Part 1)</title>
+      <link>https://www.wheresyoured.at/premium-the-haters-guide-to-ai-debt-part-1/</link>
+      <guid isPermaLink="true">https://www.wheresyoured.at/premium-the-haters-guide-to-ai-debt-part-1/</guid>
+      <pubDate>Fri, 18 Sep 2026 15:45:13 +0000</pubDate>
+      <description>Ed Zitron's Where's Your Ed At</description>
+    </item>
+    <item>
+      <title>The Lamentable Later Life of Lemmings</title>
+      <link>https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/</link>
+      <guid isPermaLink="true">https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/</guid>
+      <pubDate>Fri, 18 Sep 2026 15:39:55 +0000</pubDate>
+      <description>The Digital Antiquarian</description>
+    </item>
+    <item>
+      <title>The Creative Spirit of Who Framed Roger Rabbit</title>
+      <link>https://simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit/</guid>
+      <pubDate>Fri, 18 Sep 2026 14:36:41 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>NTP, an atomic clock, and having a great time at the world's largest VCF</title>
+      <link>https://www.jeffgeerling.com/blog/2026/vcf-midwest-21-ntp-time/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/vcf-midwest-21-ntp-time/</guid>
+      <pubDate>Fri, 18 Sep 2026 14:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>Theatre Review: The School for Wives - at Riverside Studios ★★★★★</title>
+      <link>https://shkspr.mobi/blog/2026/09/theatre-review-the-school-for-wives/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/09/theatre-review-the-school-for-wives/</guid>
+      <pubDate>Fri, 18 Sep 2026 11:34:51 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
     <item>
       <title>Pluralistic: Textured (18 Sep 2026)</title>
       <link>https://pluralistic.net/2026/09/18/surprise/</link>
@@ -25,6 +60,13 @@
       <guid isPermaLink="true">https://seangoedecke.com/two-techniques-for-working-with-system-one-models/</guid>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>How I Vibed a Proof of Conway’s Conjecture</title>
+      <link>https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/</link>
+      <guid isPermaLink="true">https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <description>overreacted — A blog by Dan Abramov</description>
     </item>
     <item>
       <title>Be alert: targeted attacks on prominent Rustaceans</title>
@@ -802,48 +844,6 @@
       <guid isPermaLink="true">https://www.construction-physics.com/p/where-has-construction-automation</guid>
       <pubDate>Fri, 11 Sep 2026 12:04:09 +0000</pubDate>
       <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>I Am a Flat-Rate Monthly Responsibility Service</title>
-      <link>https://matduggan.com/i-am-a-flat-rate-monthly-responsibility-service/</link>
-      <guid isPermaLink="true">https://matduggan.com/i-am-a-flat-rate-monthly-responsibility-service/</guid>
-      <pubDate>Fri, 11 Sep 2026 12:00:18 +0000</pubDate>
-      <description>matduggan.com</description>
-    </item>
-    <item>
-      <title>[RSS Club] Sneak peek at new DOI functionality</title>
-      <link>https://shkspr.mobi/blog/2026/09/rss-club-sneak-peek-at-new-doi-functionality/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/09/rss-club-sneak-peek-at-new-doi-functionality/</guid>
-      <pubDate>Fri, 11 Sep 2026 11:34:12 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Datasette 1.0a39 and 0.65.4 security releases</title>
-      <link>https://simonwillison.net/2026/Sep/11/datasette-security/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/11/datasette-security/</guid>
-      <pubDate>Fri, 11 Sep 2026 03:27:16 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>datasette-publish-fly 1.4</title>
-      <link>https://simonwillison.net/2026/Sep/11/datasette-publish-fly/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/11/datasette-publish-fly/</guid>
-      <pubDate>Fri, 11 Sep 2026 02:58:52 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>github-to-sqlite 2.9.1</title>
-      <link>https://simonwillison.net/2026/Sep/11/github-to-sqlite/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/11/github-to-sqlite/</guid>
-      <pubDate>Fri, 11 Sep 2026 00:28:39 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>datasette 0.65.4</title>
-      <link>https://simonwillison.net/2026/Sep/11/datasette/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/11/datasette/</guid>
-      <pubDate>Fri, 11 Sep 2026 00:06:55 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>

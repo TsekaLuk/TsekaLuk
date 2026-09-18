@@ -208,11 +208,11 @@ Last Updated: Friday, September 18th, 2026, 11:38:52 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Pluralistic: Textured (18 Sep 2026)](https://pluralistic.net/2026/09/18/surprise/) — *Pluralistic: Daily links from Cory Doctorow* `09-18`
-- [★ The iPhones 18 Pro](https://daringfireball.net/2026/09/the_iphones_18_pro) — *Daring Fireball* `09-18`
-- [Two techniques for working with System One models](https://seangoedecke.com/two-techniques-for-working-with-system-one-models/) — *seangoedecke.com RSS feed* `09-18`
-- [Be alert: targeted attacks on prominent Rustaceans](https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/) — *Simon Willison's Weblog* `09-17`
-- [The Front Page of the Internet Is Up for Grabs](https://idiallo.com/byte-size/the-front-page-of-the-internet) — *Software and Tech stories from an Insider - iDiallo.com* `09-17`
+- [Premium: The Hater's Guide To AI Debt (Part 1)](https://www.wheresyoured.at/premium-the-haters-guide-to-ai-debt-part-1/) — *Ed Zitron's Where's Your Ed At* `09-18`
+- [The Lamentable Later Life of Lemmings](https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/) — *The Digital Antiquarian* `09-18`
+- [The Creative Spirit of Who Framed Roger Rabbit](https://simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit/) — *Simon Willison's Weblog* `09-18`
+- [NTP, an atomic clock, and having a great time at the world's largest VCF](https://www.jeffgeerling.com/blog/2026/vcf-midwest-21-ntp-time/) — *Jeff Geerling* `09-18`
+- [Theatre Review: The School for Wives - at Riverside Studios ★★★★★](https://shkspr.mobi/blog/2026/09/theatre-review-the-school-for-wives/) — *Terence Eden’s Blog* `09-18`
 <!--BLOG_RADAR:end-->
 
 ---
