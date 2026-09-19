@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 19 Sep 2026 04:13:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 10:42:54 +0000</lastBuildDate>
     <item>
       <title>Why fitting a logistic is nearly impossible from early data</title>
       <link>https://www.johndcook.com/blog/2026/09/18/logistic-fit-sensitivity/</link>
@@ -811,18 +811,18 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>Everyone should slow down AI development except for me</title>
-      <link>https://xeiaso.net/notes/2026/everyone-slowdown-but-me/</link>
-      <guid isPermaLink="true">https://xeiaso.net/notes/2026/everyone-slowdown-but-me/</guid>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
       <title>P(doom)</title>
       <link>https://lucumr.pocoo.org/2026/9/12/pdoom/</link>
       <guid isPermaLink="true">https://lucumr.pocoo.org/2026/9/12/pdoom/</guid>
       <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
       <description>Armin Ronacher's Thoughts and Writings</description>
+    </item>
+    <item>
+      <title>Everyone should slow down AI development except for me</title>
+      <link>https://xeiaso.net/notes/2026/everyone-slowdown-but-me/</link>
+      <guid isPermaLink="true">https://xeiaso.net/notes/2026/everyone-slowdown-but-me/</guid>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>So you want to use OpenRouter?</title>
