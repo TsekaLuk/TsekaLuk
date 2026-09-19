@@ -208,11 +208,11 @@ Last Updated: Saturday, September 19th, 2026, 10:43:40 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Why fitting a logistic is nearly impossible from early data](https://www.johndcook.com/blog/2026/09/18/logistic-fit-sensitivity/) — *John D. Cook* `09-19`
+- [Gemini Hacked Three Companies in First Known Breakout by Google’s AI](https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/) — *Simon Willison's Weblog* `09-18`
+- [Just Me or Does This Argument Not Add Up?](https://www.nytimes.com/2026/09/16/opinion/university-of-california-sat.html?unlocked_article_code=1.CFE.bXBA.V6BFzBn1jlKG) — *Daring Fireball* `09-18`
 - [Will Oremus Is a Duo Doubter](https://www.theatlantic.com/technology/2026/09/apple-folding-iphone/688562/?gift=aQyUJR7AIw1mJWdQ6Ed6yE6RbvpIGGpQGFPIX827p48) — *Daring Fireball* `09-18`
 - [Apple Releases Xcode 27.1, First SDK With Support for iPhone Duo](https://developer.apple.com/news/?id=nyuppv9r) — *Daring Fireball* `09-18`
-- [Warren Buffett, at 96, Steps Down as Chairman at Berkshire Hathaway](https://www.berkshirehathaway.com/news/sep1826.pdf) — *Daring Fireball* `09-18`
-- [Trump Says He’s Banning MS NOW, CNN, and Politico From White House](https://truthsocial.com/@realDonaldTrump/posts/117293599348325006) — *Daring Fireball* `09-18`
-- [Note on 18th September 2026](https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/) — *Simon Willison's Weblog* `09-18`
 <!--BLOG_RADAR:end-->
 
 ---

@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 18 Sep 2026 20:45:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 04:13:03 +0000</lastBuildDate>
+    <item>
+      <title>Why fitting a logistic is nearly impossible from early data</title>
+      <link>https://www.johndcook.com/blog/2026/09/18/logistic-fit-sensitivity/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/09/18/logistic-fit-sensitivity/</guid>
+      <pubDate>Sat, 19 Sep 2026 01:17:36 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Gemini Hacked Three Companies in First Known Breakout by Google’s AI</title>
+      <link>https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/</guid>
+      <pubDate>Fri, 18 Sep 2026 23:57:57 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Just Me or Does This Argument Not Add Up?</title>
+      <link>https://www.nytimes.com/2026/09/16/opinion/university-of-california-sat.html?unlocked_article_code=1.CFE.bXBA.V6BFzBn1jlKG</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/16/opinion/university-of-california-sat.html?unlocked_article_code=1.CFE.bXBA.V6BFzBn1jlKG</guid>
+      <pubDate>Fri, 18 Sep 2026 21:01:43 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Will Oremus Is a Duo Doubter</title>
       <link>https://www.theatlantic.com/technology/2026/09/apple-folding-iphone/688562/?gift=aQyUJR7AIw1mJWdQ6Ed6yE6RbvpIGGpQGFPIX827p48</link>
@@ -46,6 +67,13 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Sep/18/thariq-shihipar/</guid>
       <pubDate>Fri, 18 Sep 2026 19:09:27 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Do You Prefer Artificial?</title>
+      <link>https://blog.jim-nielsen.com/2026/who-wants-artificial/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/who-wants-artificial/</guid>
+      <pubDate>Fri, 18 Sep 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
     </item>
     <item>
       <title>My design bookshelves</title>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://9to5mac.com/2026/09/11/apple-hid-a-classic-mac-easter-egg-in-the-ios-27-settings-app/</guid>
       <pubDate>Fri, 11 Sep 2026 20:33:03 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>You Can Drop SEO</title>
-      <link>https://idiallo.com/blog/you-can-drop-the-seo</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/you-can-drop-the-seo</guid>
-      <pubDate>Fri, 11 Sep 2026 20:30:00 +0000</pubDate>
-      <description>Software and Tech stories from an Insider - iDiallo.com</description>
-    </item>
-    <item>
-      <title>XCancel Is Back</title>
-      <link>https://xcancel.com/cdclegal</link>
-      <guid isPermaLink="true">https://xcancel.com/cdclegal</guid>
-      <pubDate>Fri, 11 Sep 2026 19:15:19 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Quoting Boris Cherny</title>
-      <link>https://simonwillison.net/2026/Sep/11/boris-cherny/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/11/boris-cherny/</guid>
-      <pubDate>Fri, 11 Sep 2026 17:47:11 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Feeling sad about AI</title>
-      <link>https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/</guid>
-      <pubDate>Fri, 11 Sep 2026 17:28:37 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
