@@ -208,11 +208,11 @@ Last Updated: Saturday, September 19th, 2026, 11:11:36 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Austin Mann’s iPhone 18 Pro Camera Review, From Dunton, Colorado](https://www.austinmann.com/trek/iphone-18-pro-camera-review-dunton) — *Daring Fireball* `09-19`
+- [Reading List 09/19/2026](https://www.construction-physics.com/p/reading-list-09192026) — *Construction Physics* `09-19`
+- [This Week in Package Management: 19 September 2026](https://nesbitt.io/2026/09/19/this-week-in-package-management.html) — *Andrew Nesbitt* `09-19`
 - [Why fitting a logistic is nearly impossible from early data](https://www.johndcook.com/blog/2026/09/18/logistic-fit-sensitivity/) — *John D. Cook* `09-19`
 - [Gemini Hacked Three Companies in First Known Breakout by Google’s AI](https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/) — *Simon Willison's Weblog* `09-18`
-- [Just Me or Does This Argument Not Add Up?](https://www.nytimes.com/2026/09/16/opinion/university-of-california-sat.html?unlocked_article_code=1.CFE.bXBA.V6BFzBn1jlKG) — *Daring Fireball* `09-18`
-- [Will Oremus Is a Duo Doubter](https://www.theatlantic.com/technology/2026/09/apple-folding-iphone/688562/?gift=aQyUJR7AIw1mJWdQ6Ed6yE6RbvpIGGpQGFPIX827p48) — *Daring Fireball* `09-18`
-- [Apple Releases Xcode 27.1, First SDK With Support for iPhone Duo](https://developer.apple.com/news/?id=nyuppv9r) — *Daring Fireball* `09-18`
 <!--BLOG_RADAR:end-->
 
 ---
