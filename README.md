@@ -208,11 +208,11 @@ Last Updated: Sunday, September 20th, 2026, 3:54:38 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [California Sea Lion, Brandt's Cormorant](https://simonwillison.net/2026/Sep/19/sighting-401567341/) — *Simon Willison's Weblog* `09-19`
+- [Notes on discrete-time Fourier series and transform](https://eli.thegreenplace.net/2026/notes-on-discrete-time-fourier-series-and-transform/) — *Eli Bendersky's website* `09-19`
+- [Tyler Stalman’s iPhone 18 Pro Camera Review](https://www.youtube.com/watch?v=m6cDErtCKAc) — *Daring Fireball* `09-19`
 - [Austin Mann’s iPhone 18 Pro Camera Review, From Dunton, Colorado](https://www.austinmann.com/trek/iphone-18-pro-camera-review-dunton) — *Daring Fireball* `09-19`
 - [Reading List 09/19/2026](https://www.construction-physics.com/p/reading-list-09192026) — *Construction Physics* `09-19`
-- [This Week in Package Management: 19 September 2026](https://nesbitt.io/2026/09/19/this-week-in-package-management.html) — *Andrew Nesbitt* `09-19`
-- [Why fitting a logistic is nearly impossible from early data](https://www.johndcook.com/blog/2026/09/18/logistic-fit-sensitivity/) — *John D. Cook* `09-19`
-- [Gemini Hacked Three Companies in First Known Breakout by Google’s AI](https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/) — *Simon Willison's Weblog* `09-18`
 <!--BLOG_RADAR:end-->
 
 ---

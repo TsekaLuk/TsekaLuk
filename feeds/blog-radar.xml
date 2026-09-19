@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 19 Sep 2026 15:44:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 20:25:13 +0000</lastBuildDate>
+    <item>
+      <title>California Sea Lion, Brandt's Cormorant</title>
+      <link>https://simonwillison.net/2026/Sep/19/sighting-401567341/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/19/sighting-401567341/</guid>
+      <pubDate>Sat, 19 Sep 2026 17:10:08 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Notes on discrete-time Fourier series and transform</title>
+      <link>https://eli.thegreenplace.net/2026/notes-on-discrete-time-fourier-series-and-transform/</link>
+      <guid isPermaLink="true">https://eli.thegreenplace.net/2026/notes-on-discrete-time-fourier-series-and-transform/</guid>
+      <pubDate>Sat, 19 Sep 2026 16:39:00 +0000</pubDate>
+      <description>Eli Bendersky's website</description>
+    </item>
+    <item>
+      <title>Tyler Stalman’s iPhone 18 Pro Camera Review</title>
+      <link>https://www.youtube.com/watch?v=m6cDErtCKAc</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=m6cDErtCKAc</guid>
+      <pubDate>Sat, 19 Sep 2026 16:29:00 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Austin Mann’s iPhone 18 Pro Camera Review, From Dunton, Colorado</title>
       <link>https://www.austinmann.com/trek/iphone-18-pro-camera-review-dunton</link>
@@ -32,6 +53,13 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/09/18/logistic-fit-sensitivity/</guid>
       <pubDate>Sat, 19 Sep 2026 01:17:36 +0000</pubDate>
       <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Finding Bugs</title>
+      <link>https://matklad.github.io/2026/09/19/finding-bugs.html</link>
+      <guid isPermaLink="true">https://matklad.github.io/2026/09/19/finding-bugs.html</guid>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+      <description>matklad</description>
     </item>
     <item>
       <title>Gemini Hacked Three Companies in First Known Breakout by Google’s AI</title>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/</guid>
       <pubDate>Sat, 12 Sep 2026 00:42:25 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Last Year’s iPhone Share Amongst Users of Widgetsmith</title>
-      <link>https://mastodon.social/@_Davidsmith/117253170115740653</link>
-      <guid isPermaLink="true">https://mastodon.social/@_Davidsmith/117253170115740653</guid>
-      <pubDate>Sat, 12 Sep 2026 00:19:57 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Don't build tools for AI agents</title>
-      <link>https://seangoedecke.com/dont-build-tools-for-ai-agents/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/dont-build-tools-for-ai-agents/</guid>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>P(doom)</title>
-      <link>https://lucumr.pocoo.org/2026/9/12/pdoom/</link>
-      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/9/12/pdoom/</guid>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Armin Ronacher's Thoughts and Writings</description>
-    </item>
-    <item>
-      <title>Everyone should slow down AI development except for me</title>
-      <link>https://xeiaso.net/notes/2026/everyone-slowdown-but-me/</link>
-      <guid isPermaLink="true">https://xeiaso.net/notes/2026/everyone-slowdown-but-me/</guid>
-      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
     </item>
   </channel>
 </rss>
