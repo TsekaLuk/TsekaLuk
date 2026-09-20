@@ -208,11 +208,11 @@ Last Updated: Monday, September 21st, 2026, 4:09:30 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [This is why we play](https://xeiaso.net/blog/2026/this-is-why-we-play/) — *Xe Iaso's blog* `09-21`
+- [WorkOS: How SSO Works and the Fastest Way to Add It](https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026) — *Daring Fireball* `09-20`
+- [GM Revives CarPlay for 2027 Trucks](https://www.autoweek.com/news/a73761352/gm-revives-apple-carplay-for-2027-chevy-silverado-gmc-sierra/) — *Daring Fireball* `09-20`
 - [Marques Brownlee’s iPhone 18 Pro Review](https://www.youtube.com/watch?v=ohqxP8EEumo) — *Daring Fireball* `09-20`
 - [Book Review: How to Build a Space Station by Jonathan Morrison ★★★⯪☆](https://shkspr.mobi/blog/2026/09/book-review-how-to-build-a-space-station-by-jonathan-morrison/) — *Terence Eden’s Blog* `09-20`
-- [Grit your teeth and ship it](https://seangoedecke.com/grit-your-teeth-and-ship-it/) — *seangoedecke.com RSS feed* `09-20`
-- [System One models like Jev can train their own replacements](https://seangoedecke.com/system-one-models-can-train-their-own-replacements/) — *seangoedecke.com RSS feed* `09-20`
-- [datasette-auth-github 1.0](https://simonwillison.net/2026/Sep/19/datasette-auth-github/) — *Simon Willison's Weblog* `09-19`
 <!--BLOG_RADAR:end-->
 
 ---

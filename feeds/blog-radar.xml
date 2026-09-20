@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 20 Sep 2026 15:52:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 20:38:10 +0000</lastBuildDate>
+    <item>
+      <title>This is why we play</title>
+      <link>https://xeiaso.net/blog/2026/this-is-why-we-play/</link>
+      <guid isPermaLink="true">https://xeiaso.net/blog/2026/this-is-why-we-play/</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>WorkOS: How SSO Works and the Fastest Way to Add It</title>
+      <link>https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</link>
+      <guid isPermaLink="true">https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</guid>
+      <pubDate>Sun, 20 Sep 2026 17:35:31 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>GM Revives CarPlay for 2027 Trucks</title>
+      <link>https://www.autoweek.com/news/a73761352/gm-revives-apple-carplay-for-2027-chevy-silverado-gmc-sierra/</link>
+      <guid isPermaLink="true">https://www.autoweek.com/news/a73761352/gm-revives-apple-carplay-for-2027-chevy-silverado-gmc-sierra/</guid>
+      <pubDate>Sun, 20 Sep 2026 17:30:00 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Marques Brownlee’s iPhone 18 Pro Review</title>
       <link>https://www.youtube.com/watch?v=ohqxP8EEumo</link>
@@ -531,13 +552,6 @@
       <description>John D. Cook</description>
     </item>
     <item>
-      <title>[Sponsor] WorkOS: How SSO Works and the Fastest Way to Add It</title>
-      <link>https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</link>
-      <guid isPermaLink="true">https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</guid>
-      <pubDate>Tue, 15 Sep 2026 15:32:24 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
       <title>Why do Microsoft job levels start in the high 50’s instead of starting at a sane number like 1?</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260915-00/?p=112700</link>
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260915-00/?p=112700</guid>
@@ -829,20 +843,6 @@
       <link>https://www.t-mobile.com/news/devices/iphone-18-pro-iphone-duo-apple-watch-release</link>
       <guid isPermaLink="true">https://www.t-mobile.com/news/devices/iphone-18-pro-iphone-duo-apple-watch-release</guid>
       <pubDate>Sat, 12 Sep 2026 15:24:09 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Tristan Buckmaster’s Statement on Getting Scooped by OpenAI on the Navier–Stokes Problem</title>
-      <link>https://cims.nyu.edu/~tristanb/statement.pdf</link>
-      <guid isPermaLink="true">https://cims.nyu.edu/~tristanb/statement.pdf</guid>
-      <pubDate>Sat, 12 Sep 2026 14:55:12 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Gary Marcus on This Week in AI Drama</title>
-      <link>https://garymarcus.substack.com/p/two-dire-warnings-one-from-terence</link>
-      <guid isPermaLink="true">https://garymarcus.substack.com/p/two-dire-warnings-one-from-terence</guid>
-      <pubDate>Sat, 12 Sep 2026 14:25:07 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
   </channel>
