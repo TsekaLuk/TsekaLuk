@@ -208,11 +208,11 @@ Last Updated: Sunday, September 20th, 2026, 11:16:06 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Marques Brownlee’s iPhone 18 Pro Review](https://www.youtube.com/watch?v=ohqxP8EEumo) — *Daring Fireball* `09-20`
+- [Book Review: How to Build a Space Station by Jonathan Morrison ★★★⯪☆](https://shkspr.mobi/blog/2026/09/book-review-how-to-build-a-space-station-by-jonathan-morrison/) — *Terence Eden’s Blog* `09-20`
 - [Grit your teeth and ship it](https://seangoedecke.com/grit-your-teeth-and-ship-it/) — *seangoedecke.com RSS feed* `09-20`
+- [System One models like Jev can train their own replacements](https://seangoedecke.com/system-one-models-can-train-their-own-replacements/) — *seangoedecke.com RSS feed* `09-20`
 - [datasette-auth-github 1.0](https://simonwillison.net/2026/Sep/19/datasette-auth-github/) — *Simon Willison's Weblog* `09-19`
-- [California Sea Lion, Brandt's Cormorant](https://simonwillison.net/2026/Sep/19/sighting-401567341/) — *Simon Willison's Weblog* `09-19`
-- [Notes on discrete-time Fourier series and transform](https://eli.thegreenplace.net/2026/notes-on-discrete-time-fourier-series-and-transform/) — *Eli Bendersky's website* `09-19`
-- [Tyler Stalman’s iPhone 18 Pro Camera Review](https://www.youtube.com/watch?v=m6cDErtCKAc) — *Daring Fireball* `09-19`
 <!--BLOG_RADAR:end-->
 
 ---

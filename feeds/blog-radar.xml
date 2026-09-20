@@ -4,11 +4,32 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 20 Sep 2026 11:05:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 15:52:20 +0000</lastBuildDate>
+    <item>
+      <title>Marques Brownlee’s iPhone 18 Pro Review</title>
+      <link>https://www.youtube.com/watch?v=ohqxP8EEumo</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=ohqxP8EEumo</guid>
+      <pubDate>Sun, 20 Sep 2026 15:35:55 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Book Review: How to Build a Space Station by Jonathan Morrison ★★★⯪☆</title>
+      <link>https://shkspr.mobi/blog/2026/09/book-review-how-to-build-a-space-station-by-jonathan-morrison/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/09/book-review-how-to-build-a-space-station-by-jonathan-morrison/</guid>
+      <pubDate>Sun, 20 Sep 2026 11:34:30 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
     <item>
       <title>Grit your teeth and ship it</title>
       <link>https://seangoedecke.com/grit-your-teeth-and-ship-it/</link>
       <guid isPermaLink="true">https://seangoedecke.com/grit-your-teeth-and-ship-it/</guid>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>System One models like Jev can train their own replacements</title>
+      <link>https://seangoedecke.com/system-one-models-can-train-their-own-replacements/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/system-one-models-can-train-their-own-replacements/</guid>
       <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
     </item>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://garymarcus.substack.com/p/two-dire-warnings-one-from-terence</guid>
       <pubDate>Sat, 12 Sep 2026 14:25:07 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Reading List — 09/12/2026</title>
-      <link>https://www.construction-physics.com/p/reading-list-09122026</link>
-      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-09122026</guid>
-      <pubDate>Sat, 12 Sep 2026 12:32:46 +0000</pubDate>
-      <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>ActivityPub - How to send an updated user profile to Mastodon and the Fediverse</title>
-      <link>https://shkspr.mobi/blog/2026/09/activitypub-how-to-send-an-updated-user-profile-to-mastodon-and-the-fediverse/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/09/activitypub-how-to-send-an-updated-user-profile-to-mastodon-and-the-fediverse/</guid>
-      <pubDate>Sat, 12 Sep 2026 11:34:02 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Pluralistic: LLMs are real, AI is fake (12 Sep 2026)</title>
-      <link>https://pluralistic.net/2026/09/12/god-in-the-box/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/09/12/god-in-the-box/</guid>
-      <pubDate>Sat, 12 Sep 2026 11:14:10 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
     </item>
   </channel>
 </rss>
