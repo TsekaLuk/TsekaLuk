@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 20 Sep 2026 04:32:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 11:05:03 +0000</lastBuildDate>
     <item>
       <title>Grit your teeth and ship it</title>
       <link>https://seangoedecke.com/grit-your-teeth-and-ship-it/</link>
@@ -223,18 +223,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>How I Vibed a Proof of Conway’s Conjecture</title>
-      <link>https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/</link>
-      <guid isPermaLink="true">https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/</guid>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <description>overreacted — A blog by Dan Abramov</description>
-    </item>
-    <item>
       <title>Two techniques for working with System One models</title>
       <link>https://seangoedecke.com/two-techniques-for-working-with-system-one-models/</link>
       <guid isPermaLink="true">https://seangoedecke.com/two-techniques-for-working-with-system-one-models/</guid>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>How I Vibed a Proof of Conway’s Conjecture</title>
+      <link>https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/</link>
+      <guid isPermaLink="true">https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <description>overreacted — A blog by Dan Abramov</description>
     </item>
     <item>
       <title>Be alert: targeted attacks on prominent Rustaceans</title>
@@ -559,18 +559,18 @@
       <description>Tedium: The Dull Side of the Internet.</description>
     </item>
     <item>
-      <title>You can run git on object storage if you re-make packfiles</title>
-      <link>https://www.tigrisdata.com/blog/objgit-packfiles/</link>
-      <guid isPermaLink="true">https://www.tigrisdata.com/blog/objgit-packfiles/</guid>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
       <title>Tell agents the why, not just the how</title>
       <link>https://seangoedecke.com/tell-agents-the-why/</link>
       <guid isPermaLink="true">https://seangoedecke.com/tell-agents-the-why/</guid>
       <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>You can run git on object storage if you re-make packfiles</title>
+      <link>https://www.tigrisdata.com/blog/objgit-packfiles/</link>
+      <guid isPermaLink="true">https://www.tigrisdata.com/blog/objgit-packfiles/</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>Tag index for Org mode blog</title>
