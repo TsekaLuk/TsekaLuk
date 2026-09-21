@@ -208,11 +208,11 @@ Last Updated: Monday, September 21st, 2026, 10:53:06 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Apple TV to Finally Air ‘The Savant’ in Early 2027, Supposedly](https://deadline.com/2026/09/jessica-chastain-the-savant-new-release-date-apple-tv-1237108228/) — *Daring Fireball* `09-21`
+- [Yours Truly on CNBC’s ‘Squawk on the Street’ Friday](https://youtu.be/WrwY_jVaN-w) — *Daring Fireball* `09-21`
 - [This is why we play](https://xeiaso.net/blog/2026/this-is-why-we-play/) — *Xe Iaso's blog* `09-21`
-- [WorkOS: How SSO Works and the Fastest Way to Add It](https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026) — *Daring Fireball* `09-20`
-- [GM Revives CarPlay for 2027 Trucks](https://www.autoweek.com/news/a73761352/gm-revives-apple-carplay-for-2027-chevy-silverado-gmc-sierra/) — *Daring Fireball* `09-20`
-- [Marques Brownlee’s iPhone 18 Pro Review](https://www.youtube.com/watch?v=ohqxP8EEumo) — *Daring Fireball* `09-20`
-- [Book Review: How to Build a Space Station by Jonathan Morrison ★★★⯪☆](https://shkspr.mobi/blog/2026/09/book-review-how-to-build-a-space-station-by-jonathan-morrison/) — *Terence Eden’s Blog* `09-20`
+- [Quoting voxium](https://simonwillison.net/2026/Sep/20/voxium/) — *Simon Willison's Weblog* `09-20`
+- [llm-keys-ui 0.1](https://simonwillison.net/2026/Sep/20/llm-keys-ui/) — *Simon Willison's Weblog* `09-20`
 <!--BLOG_RADAR:end-->
 
 ---

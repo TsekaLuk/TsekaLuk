@@ -4,13 +4,48 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 20 Sep 2026 20:38:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 04:30:12 +0000</lastBuildDate>
+    <item>
+      <title>Apple TV to Finally Air ‘The Savant’ in Early 2027, Supposedly</title>
+      <link>https://deadline.com/2026/09/jessica-chastain-the-savant-new-release-date-apple-tv-1237108228/</link>
+      <guid isPermaLink="true">https://deadline.com/2026/09/jessica-chastain-the-savant-new-release-date-apple-tv-1237108228/</guid>
+      <pubDate>Mon, 21 Sep 2026 00:49:55 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Yours Truly on CNBC’s ‘Squawk on the Street’ Friday</title>
+      <link>https://youtu.be/WrwY_jVaN-w</link>
+      <guid isPermaLink="true">https://youtu.be/WrwY_jVaN-w</guid>
+      <pubDate>Mon, 21 Sep 2026 00:37:18 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>This is why we play</title>
       <link>https://xeiaso.net/blog/2026/this-is-why-we-play/</link>
       <guid isPermaLink="true">https://xeiaso.net/blog/2026/this-is-why-we-play/</guid>
       <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>Quoting voxium</title>
+      <link>https://simonwillison.net/2026/Sep/20/voxium/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/20/voxium/</guid>
+      <pubDate>Sun, 20 Sep 2026 21:06:43 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>llm-keys-ui 0.1</title>
+      <link>https://simonwillison.net/2026/Sep/20/llm-keys-ui/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/20/llm-keys-ui/</guid>
+      <pubDate>Sun, 20 Sep 2026 19:22:19 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>The iPhone Model Hall of Fame</title>
+      <link>https://blog.jim-nielsen.com/2026/iphone-hall-of-fame/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/iphone-hall-of-fame/</guid>
+      <pubDate>Sun, 20 Sep 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
     </item>
     <item>
       <title>WorkOS: How SSO Works and the Fastest Way to Add It</title>
@@ -41,11 +76,11 @@
       <description>Terence Eden’s Blog</description>
     </item>
     <item>
-      <title>Grit your teeth and ship it</title>
-      <link>https://seangoedecke.com/grit-your-teeth-and-ship-it/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/grit-your-teeth-and-ship-it/</guid>
-      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
+      <title>datasette-explain 0.2.2</title>
+      <link>https://simonwillison.net/2026/Sep/20/datasette-explain/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/20/datasette-explain/</guid>
+      <pubDate>Sun, 20 Sep 2026 00:22:04 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
     <item>
       <title>System One models like Jev can train their own replacements</title>
@@ -53,6 +88,20 @@
       <guid isPermaLink="true">https://seangoedecke.com/system-one-models-can-train-their-own-replacements/</guid>
       <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Grit your teeth and ship it</title>
+      <link>https://seangoedecke.com/grit-your-teeth-and-ship-it/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/grit-your-teeth-and-ship-it/</guid>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>a new world airport and its baggage</title>
+      <link>https://computer.rip/2026-09-20-denver-baggage.html</link>
+      <guid isPermaLink="true">https://computer.rip/2026-09-20-denver-baggage.html</guid>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
+      <description>computers are bad</description>
     </item>
     <item>
       <title>datasette-auth-github 1.0</title>
@@ -795,55 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Sep/12/sighting-399708714/</guid>
       <pubDate>Sat, 12 Sep 2026 21:16:09 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Unread 5.0</title>
-      <link>https://www.goldenhillsoftware.com/2026/09/unread-50/</link>
-      <guid isPermaLink="true">https://www.goldenhillsoftware.com/2026/09/unread-50/</guid>
-      <pubDate>Sat, 12 Sep 2026 19:27:37 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Post Peek — Litterbox-Inspired Tweet Viewing Extension for Chrome</title>
-      <link>https://github.com/tsvb/post-peek</link>
-      <guid isPermaLink="true">https://github.com/tsvb/post-peek</guid>
-      <pubDate>Sat, 12 Sep 2026 18:05:01 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Quoting Paul Ford</title>
-      <link>https://simonwillison.net/2026/Sep/12/paul-ford/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/12/paul-ford/</guid>
-      <pubDate>Sat, 12 Sep 2026 18:00:21 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Where Are the AI-Generated Killer Apps?</title>
-      <link>https://www.nytimes.com/2026/09/12/opinion/ai-software-coding-apps.html?unlocked_article_code=1.AlE.C9EE.H2j5a1eHFUbQ&amp;smid=nytcore-ios-share</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/12/opinion/ai-software-coding-apps.html?unlocked_article_code=1.AlE.C9EE.H2j5a1eHFUbQ&amp;smid=nytcore-ios-share</guid>
-      <pubDate>Sat, 12 Sep 2026 16:23:57 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Microcode in Intel's 8087 floating-point chip: the scale instruction</title>
-      <link>http://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html</link>
-      <guid isPermaLink="true">http://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html</guid>
-      <pubDate>Sat, 12 Sep 2026 15:45:16 +0000</pubDate>
-      <description>Ken Shirriff's blog</description>
-    </item>
-    <item>
-      <title>Yours Truly on Off Protocol With Jim Ray</title>
-      <link>https://atproto.com/off-protocol/2026-09-11-make-your-own-thing-john-gruber</link>
-      <guid isPermaLink="true">https://atproto.com/off-protocol/2026-09-11-make-your-own-thing-john-gruber</guid>
-      <pubDate>Sat, 12 Sep 2026 15:36:53 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>T-Mobile Is Charging $5/Month for iPhone Handoff</title>
-      <link>https://www.t-mobile.com/news/devices/iphone-18-pro-iphone-duo-apple-watch-release</link>
-      <guid isPermaLink="true">https://www.t-mobile.com/news/devices/iphone-18-pro-iphone-duo-apple-watch-release</guid>
-      <pubDate>Sat, 12 Sep 2026 15:24:09 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
