@@ -208,11 +208,11 @@ Last Updated: Monday, September 21st, 2026, 7:44:25 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Pluralistic: The Claude Delusion (21 Sep 2026)](https://pluralistic.net/2026/09/21/sunsetting/) — *Pluralistic: Daily links from Cory Doctorow* `09-21`
 - [Apple TV to Finally Air ‘The Savant’ in Early 2027, Supposedly](https://deadline.com/2026/09/jessica-chastain-the-savant-new-release-date-apple-tv-1237108228/) — *Daring Fireball* `09-21`
 - [Yours Truly on CNBC’s ‘Squawk on the Street’ Friday](https://youtu.be/WrwY_jVaN-w) — *Daring Fireball* `09-21`
 - [This is why we play](https://xeiaso.net/blog/2026/this-is-why-we-play/) — *Xe Iaso's blog* `09-21`
 - [Quoting voxium](https://simonwillison.net/2026/Sep/20/voxium/) — *Simon Willison's Weblog* `09-20`
-- [llm-keys-ui 0.1](https://simonwillison.net/2026/Sep/20/llm-keys-ui/) — *Simon Willison's Weblog* `09-20`
 <!--BLOG_RADAR:end-->
 
 ---
