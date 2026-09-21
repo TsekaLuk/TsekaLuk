@@ -4,7 +4,84 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 21 Sep 2026 12:33:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 21:53:28 +0000</lastBuildDate>
+    <item>
+      <title>GM Confirms They’re Still Smoking Crack</title>
+      <link>https://x.com/JoannaStern/status/2102105565195288859</link>
+      <guid isPermaLink="true">https://x.com/JoannaStern/status/2102105565195288859</guid>
+      <pubDate>Mon, 21 Sep 2026 21:52:50 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>America’s Decline Can Be Measured by the Names of Ballparks and Arenas</title>
+      <link>https://www.mlb.com/news/tigers-ballpark-name-changed-to-fifth-third-park</link>
+      <guid isPermaLink="true">https://www.mlb.com/news/tigers-ballpark-name-changed-to-fifth-third-park</guid>
+      <pubDate>Mon, 21 Sep 2026 21:23:01 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Ichiro, at 52, Throws 127-Pitch Shutout Against All-Star Girls Team in Japan</title>
+      <link>https://www.seattletimes.com/sports/mariners/ichiro-at-52-throws-127-pitch-shutout-against-all-star-girls-team-in-japan/</link>
+      <guid isPermaLink="true">https://www.seattletimes.com/sports/mariners/ichiro-at-52-throws-127-pitch-shutout-against-all-star-girls-team-in-japan/</guid>
+      <pubDate>Mon, 21 Sep 2026 17:37:16 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Glenn Fleishman on the Increasing Impracticality of Shipping From the U.S. to the E.U.</title>
+      <link>https://glog.glennf.com/blog/2026/09/17/u-s-small-biz-cant-ship-to-the-eu-anymore/</link>
+      <guid isPermaLink="true">https://glog.glennf.com/blog/2026/09/17/u-s-small-biz-cant-ship-to-the-eu-anymore/</guid>
+      <pubDate>Mon, 21 Sep 2026 17:31:58 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>David Pogue: ‘125 Tests of the New AI Siri’</title>
+      <link>https://pogueman.substack.com/p/125-tests-of-the-new-ai-siri</link>
+      <guid isPermaLink="true">https://pogueman.substack.com/p/125-tests-of-the-new-ai-siri</guid>
+      <pubDate>Mon, 21 Sep 2026 17:20:56 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Raspberry Pi locks down Pi 5 RAM upgrades in firmware</title>
+      <link>https://www.jeffgeerling.com/blog/2026/raspberry-pi-ram-lockdown/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/raspberry-pi-ram-lockdown/</guid>
+      <pubDate>Mon, 21 Sep 2026 17:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>Matthew Butterick: ‘Big AI to Humanity: Drop Dead’</title>
+      <link>https://matthewbutterick.com/chron/drop-dead.html</link>
+      <guid isPermaLink="true">https://matthewbutterick.com/chron/drop-dead.html</guid>
+      <pubDate>Mon, 21 Sep 2026 16:53:06 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Writing Rust code that's faster than state-of-the-art libraries by asking agents to make the code faster</title>
+      <link>https://minimaxir.com/2026/09/agentic-iteration/</link>
+      <guid isPermaLink="true">https://minimaxir.com/2026/09/agentic-iteration/</guid>
+      <pubDate>Mon, 21 Sep 2026 16:30:00 +0000</pubDate>
+      <description>Max Woolf's Blog</description>
+    </item>
+    <item>
+      <title>‘Measuring Nothing (With Great Accuracy)’</title>
+      <link>https://seths.blog/2014/01/measuring-nothing-with-great-accuracy/</link>
+      <guid isPermaLink="true">https://seths.blog/2014/01/measuring-nothing-with-great-accuracy/</guid>
+      <pubDate>Mon, 21 Sep 2026 14:57:12 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Cursed Napster</title>
+      <link>https://feed.tedium.co/link/15204/17468568/napster-ai-pivot</link>
+      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17468568/napster-ai-pivot</guid>
+      <pubDate>Mon, 21 Sep 2026 14:38:49 +0000</pubDate>
+      <description>Tedium: The Dull Side of the Internet.</description>
+    </item>
+    <item>
+      <title>What’s the highest legal FILETIME? Is it safe to use?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260921-00/?p=112711</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260921-00/?p=112711</guid>
+      <pubDate>Mon, 21 Sep 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
     <item>
       <title>Pluralistic: The Claude Delusion (21 Sep 2026)</title>
       <link>https://pluralistic.net/2026/09/21/sunsetting/</link>
@@ -41,6 +118,13 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
+      <title>MCP was always a bad idea?</title>
+      <link>https://simonwillison.net/2026/Sep/20/hn-49779718/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/20/hn-49779718/</guid>
+      <pubDate>Sun, 20 Sep 2026 20:24:41 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
       <title>llm-keys-ui 0.1</title>
       <link>https://simonwillison.net/2026/Sep/20/llm-keys-ui/</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Sep/20/llm-keys-ui/</guid>
@@ -74,6 +158,13 @@
       <guid isPermaLink="true">https://www.youtube.com/watch?v=ohqxP8EEumo</guid>
       <pubDate>Sun, 20 Sep 2026 15:35:55 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Book Review: How to Build a Space Station by Jonathan Morrison ★★★⯪☆</title>
+      <link>https://shkspr.mobi/blog/2026/09/book-review-how-to-build-a-space-station-by-jonathan-morrison/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/09/book-review-how-to-build-a-space-station-by-jonathan-morrison/</guid>
+      <pubDate>Sun, 20 Sep 2026 11:34:30 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>datasette-explain 0.2.2</title>
@@ -291,6 +382,20 @@
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/vcf-midwest-21-ntp-time/</guid>
       <pubDate>Fri, 18 Sep 2026 14:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>Comparing exception behavior of magic statics, std::call_once, and std::async</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260918-00/?p=112709</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260918-00/?p=112709</guid>
+      <pubDate>Fri, 18 Sep 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>Theatre Review: The School for Wives - at Riverside Studios ★★★★★</title>
+      <link>https://shkspr.mobi/blog/2026/09/theatre-review-the-school-for-wives/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/09/theatre-review-the-school-for-wives/</guid>
+      <pubDate>Fri, 18 Sep 2026 11:34:51 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Pluralistic: Textured (18 Sep 2026)</title>
@@ -524,6 +629,13 @@
       <description>John D. Cook</description>
     </item>
     <item>
+      <title>How to get a DOI for your blog posts</title>
+      <link>https://shkspr.mobi/blog/2026/09/how-to-get-a-doi-for-your-blog-posts/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/09/how-to-get-a-doi-for-your-blog-posts/</guid>
+      <pubDate>Wed, 16 Sep 2026 11:34:28 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>Pluralistic: How an AI moratorium can save AI bosses (16 Sep 2026)</title>
       <link>https://pluralistic.net/2026/09/16/beggar-thy-neighbor/</link>
       <guid isPermaLink="true">https://pluralistic.net/2026/09/16/beggar-thy-neighbor/</guid>
@@ -601,6 +713,13 @@
       <description>Experimental History</description>
     </item>
     <item>
+      <title>[RSS Club] Sorry for breaking your feed readers!</title>
+      <link>https://shkspr.mobi/blog/2026/09/rss-club-sorry-for-breaking-your-feed-readers/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/09/rss-club-sorry-for-breaking-your-feed-readers/</guid>
+      <pubDate>Tue, 15 Sep 2026 11:34:26 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>Shadowing the Standard Library</title>
       <link>https://nesbitt.io/2026/09/15/shadowing-the-standard-library.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/09/15/shadowing-the-standard-library.html</guid>
@@ -622,18 +741,18 @@
       <description>Tedium: The Dull Side of the Internet.</description>
     </item>
     <item>
-      <title>You can run git on object storage if you re-make packfiles</title>
-      <link>https://www.tigrisdata.com/blog/objgit-packfiles/</link>
-      <guid isPermaLink="true">https://www.tigrisdata.com/blog/objgit-packfiles/</guid>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
       <title>Tell agents the why, not just the how</title>
       <link>https://seangoedecke.com/tell-agents-the-why/</link>
       <guid isPermaLink="true">https://seangoedecke.com/tell-agents-the-why/</guid>
       <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>You can run git on object storage if you re-make packfiles</title>
+      <link>https://www.tigrisdata.com/blog/objgit-packfiles/</link>
+      <guid isPermaLink="true">https://www.tigrisdata.com/blog/objgit-packfiles/</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>Tag index for Org mode blog</title>
@@ -706,6 +825,13 @@
       <description>Bert Hubert's writings</description>
     </item>
     <item>
+      <title>Esoteric HTML - ismap vs CSS</title>
+      <link>https://shkspr.mobi/blog/2026/09/esoteric-html-ismap-vs-css/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/09/esoteric-html-ismap-vs-css/</guid>
+      <pubDate>Mon, 14 Sep 2026 11:34:53 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>Pluralistic: But do you use keyboard shortcuts? (14 Sep 2026)</title>
       <link>https://pluralistic.net/2026/09/14/cult-taylorism/</link>
       <guid isPermaLink="true">https://pluralistic.net/2026/09/14/cult-taylorism/</guid>
@@ -718,132 +844,6 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/09/14/guessing-the-meaning-of-a-number/</guid>
       <pubDate>Mon, 14 Sep 2026 10:44:45 +0000</pubDate>
       <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>commit-rewriter 0.1</title>
-      <link>https://simonwillison.net/2026/Sep/14/commit-rewriter/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/14/commit-rewriter/</guid>
-      <pubDate>Mon, 14 Sep 2026 00:28:10 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Slow developer experience will bottleneck fast models</title>
-      <link>https://seangoedecke.com/slow-devex-will-bottleneck-fast-models/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/slow-devex-will-bottleneck-fast-models/</guid>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>Interpreting Pangram</title>
-      <link>https://lucumr.pocoo.org/2026/9/14/interpreting-pangram/</link>
-      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/9/14/interpreting-pangram/</guid>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Armin Ronacher's Thoughts and Writings</description>
-    </item>
-    <item>
-      <title>shot-scraper 1.12</title>
-      <link>https://simonwillison.net/2026/Sep/13/shot-scraper/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/13/shot-scraper/</guid>
-      <pubDate>Sun, 13 Sep 2026 23:58:14 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Glyphs 4</title>
-      <link>https://glyphsapp.com/</link>
-      <guid isPermaLink="true">https://glyphsapp.com/</guid>
-      <pubDate>Sun, 13 Sep 2026 21:44:17 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Fixing an NZXT Signal 4K30 part 2: the green/pink video bug</title>
-      <link>https://www.downtowndougbrown.com/2026/09/fixing-an-nzxt-signal-4k30-part-2-the-green-pink-video-bug/</link>
-      <guid isPermaLink="true">https://www.downtowndougbrown.com/2026/09/fixing-an-nzxt-signal-4k30-part-2-the-green-pink-video-bug/</guid>
-      <pubDate>Sun, 13 Sep 2026 21:02:59 +0000</pubDate>
-      <description>Downtown Doug Brown</description>
-    </item>
-    <item>
-      <title>AI Forces You to Commit to Your Initial Belief</title>
-      <link>https://idiallo.com/blog/making-changes-mid-sentence</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/making-changes-mid-sentence</guid>
-      <pubDate>Sun, 13 Sep 2026 20:00:00 +0000</pubDate>
-      <description>Software and Tech stories from an Insider - iDiallo.com</description>
-    </item>
-    <item>
-      <title>Preserving Netlify Analytics Data Beyond 30 Days</title>
-      <link>https://blog.jim-nielsen.com/2026/preserving-netlify-analytics-data/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/preserving-netlify-analytics-data/</guid>
-      <pubDate>Sun, 13 Sep 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
-      <title>A Dick Smith VZ200 without the Dick Smith (but with a serial port)</title>
-      <link>https://oldvcr.blogspot.com/2026/09/a-dick-smith-vz200-without-dick-smith.html</link>
-      <guid isPermaLink="true">https://oldvcr.blogspot.com/2026/09/a-dick-smith-vz200-without-dick-smith.html</guid>
-      <pubDate>Sun, 13 Sep 2026 02:17:52 +0000</pubDate>
-      <description>Old Vintage Computing Research</description>
-    </item>
-    <item>
-      <title>AI is breaking our proxies for expertise</title>
-      <link>https://seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/</guid>
-      <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>Anecdotally, programmers dislike "reduce"</title>
-      <link>https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/</link>
-      <guid isPermaLink="true">https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/</guid>
-      <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Evan Hahn (dot com)</description>
-    </item>
-    <item>
-      <title>Generating running routes with GPT-6 Astra and ChatGPT Work</title>
-      <link>https://simonwillison.net/2026/Sep/12/astra-running-routes/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/12/astra-running-routes/</guid>
-      <pubDate>Sat, 12 Sep 2026 23:56:42 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>California Brown Pelican</title>
-      <link>https://simonwillison.net/2026/Sep/12/sighting-399708714/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/12/sighting-399708714/</guid>
-      <pubDate>Sat, 12 Sep 2026 21:16:09 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Unread 5.0</title>
-      <link>https://www.goldenhillsoftware.com/2026/09/unread-50/</link>
-      <guid isPermaLink="true">https://www.goldenhillsoftware.com/2026/09/unread-50/</guid>
-      <pubDate>Sat, 12 Sep 2026 19:27:37 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Post Peek — Litterbox-Inspired Tweet Viewing Extension for Chrome</title>
-      <link>https://github.com/tsvb/post-peek</link>
-      <guid isPermaLink="true">https://github.com/tsvb/post-peek</guid>
-      <pubDate>Sat, 12 Sep 2026 18:05:01 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Quoting Paul Ford</title>
-      <link>https://simonwillison.net/2026/Sep/12/paul-ford/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/12/paul-ford/</guid>
-      <pubDate>Sat, 12 Sep 2026 18:00:21 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Where Are the AI-Generated Killer Apps?</title>
-      <link>https://www.nytimes.com/2026/09/12/opinion/ai-software-coding-apps.html?unlocked_article_code=1.AlE.C9EE.H2j5a1eHFUbQ&amp;smid=nytcore-ios-share</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/12/opinion/ai-software-coding-apps.html?unlocked_article_code=1.AlE.C9EE.H2j5a1eHFUbQ&amp;smid=nytcore-ios-share</guid>
-      <pubDate>Sat, 12 Sep 2026 16:23:57 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Microcode in Intel's 8087 floating-point chip: the scale instruction</title>
-      <link>http://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html</link>
-      <guid isPermaLink="true">http://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html</guid>
-      <pubDate>Sat, 12 Sep 2026 15:45:16 +0000</pubDate>
-      <description>Ken Shirriff's blog</description>
     </item>
   </channel>
 </rss>

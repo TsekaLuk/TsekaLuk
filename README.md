@@ -208,11 +208,11 @@ Last Updated: Tuesday, September 22nd, 2026, 5:34:23 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Pluralistic: The Claude Delusion (21 Sep 2026)](https://pluralistic.net/2026/09/21/sunsetting/) — *Pluralistic: Daily links from Cory Doctorow* `09-21`
-- [Apple TV to Finally Air ‘The Savant’ in Early 2027, Supposedly](https://deadline.com/2026/09/jessica-chastain-the-savant-new-release-date-apple-tv-1237108228/) — *Daring Fireball* `09-21`
-- [Yours Truly on CNBC’s ‘Squawk on the Street’ Friday](https://youtu.be/WrwY_jVaN-w) — *Daring Fireball* `09-21`
-- [This is why we play](https://xeiaso.net/blog/2026/this-is-why-we-play/) — *Xe Iaso's blog* `09-21`
-- [Quoting voxium](https://simonwillison.net/2026/Sep/20/voxium/) — *Simon Willison's Weblog* `09-20`
+- [GM Confirms They’re Still Smoking Crack](https://x.com/JoannaStern/status/2102105565195288859) — *Daring Fireball* `09-21`
+- [America’s Decline Can Be Measured by the Names of Ballparks and Arenas](https://www.mlb.com/news/tigers-ballpark-name-changed-to-fifth-third-park) — *Daring Fireball* `09-21`
+- [Ichiro, at 52, Throws 127-Pitch Shutout Against All-Star Girls Team in Japan](https://www.seattletimes.com/sports/mariners/ichiro-at-52-throws-127-pitch-shutout-against-all-star-girls-team-in-japan/) — *Daring Fireball* `09-21`
+- [Glenn Fleishman on the Increasing Impracticality of Shipping From the U.S. to the E.U.](https://glog.glennf.com/blog/2026/09/17/u-s-small-biz-cant-ship-to-the-eu-anymore/) — *Daring Fireball* `09-21`
+- [David Pogue: ‘125 Tests of the New AI Siri’](https://pogueman.substack.com/p/125-tests-of-the-new-ai-siri) — *Daring Fireball* `09-21`
 <!--BLOG_RADAR:end-->
 
 ---
