@@ -4,7 +4,49 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 22 Sep 2026 16:43:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 21:08:37 +0000</lastBuildDate>
+    <item>
+      <title>Why Didn’t Google Build Muse?</title>
+      <link>https://spyglass.org/why-didnt-google-build-muse/</link>
+      <guid isPermaLink="true">https://spyglass.org/why-didnt-google-build-muse/</guid>
+      <pubDate>Tue, 22 Sep 2026 20:51:12 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Amazon Blocks Meta’s Muse AI Assistant</title>
+      <link>https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/</link>
+      <guid isPermaLink="true">https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/</guid>
+      <pubDate>Tue, 22 Sep 2026 20:43:32 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Meta’s New Muse AI Agent App Overtakes ChatGPT as Top iPhone App</title>
+      <link>https://9to5mac.com/2026/09/18/metas-new-muse-ai-agent-app-overtakes-chatgpt-as-top-iphone-app/</link>
+      <guid isPermaLink="true">https://9to5mac.com/2026/09/18/metas-new-muse-ai-agent-app-overtakes-chatgpt-as-top-iphone-app/</guid>
+      <pubDate>Tue, 22 Sep 2026 20:12:41 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Xcode 27.2 Now Supports a New JSON Project File Format</title>
+      <link>https://developer.apple.com/documentation/xcode-release-notes/xcode-27_2-release-notes</link>
+      <guid isPermaLink="true">https://developer.apple.com/documentation/xcode-release-notes/xcode-27_2-release-notes</guid>
+      <pubDate>Tue, 22 Sep 2026 19:25:52 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Quoting @therealcornpop</title>
+      <link>https://simonwillison.net/2026/Sep/22/therealcornpop/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/22/therealcornpop/</guid>
+      <pubDate>Tue, 22 Sep 2026 18:03:21 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>llm-typesafe 0.1a0</title>
+      <link>https://simonwillison.net/2026/Sep/22/llm-typesafe/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/22/llm-typesafe/</guid>
+      <pubDate>Tue, 22 Sep 2026 15:54:16 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Siri AI Class-Action Lawsuit Settlement Website Is Now Live</title>
       <link>https://www.macrumors.com/2026/09/20/siri-ai-settlement-website-now-live/</link>
@@ -650,13 +692,6 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>Xcode 27.2 Is Out, but 27.1 Is Not, Which Means Developers Still Can’t Get Started on Duo-Adapted Apps</title>
-      <link>https://developer.apple.com/documentation/xcode-release-notes/xcode-27_2-release-notes</link>
-      <guid isPermaLink="true">https://developer.apple.com/documentation/xcode-release-notes/xcode-27_2-release-notes</guid>
-      <pubDate>Wed, 16 Sep 2026 22:40:41 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
       <title>Is That a Duo in Ternus’s Pocket or Was He Just Happy That Apple TV Shows Won 28 Emmys?</title>
       <link>https://x.com/DEADLINE/status/2099645816361332775</link>
       <guid isPermaLink="true">https://x.com/DEADLINE/status/2099645816361332775</guid>
@@ -809,41 +844,6 @@
       <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/bottlenecks/</guid>
       <pubDate>Tue, 15 Sep 2026 19:00:00 +0000</pubDate>
       <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
-      <title>★ Thoughts and Observations on Apple’s ‘Surprise and Shine’ Event; the Announcements of the iPhones 18 Pro, AirPods 5, Apple Watches Series 12 and Ultra 4, and the iPhone Duo; and the Dawn of the Ternus, John Ternus Era at Apple</title>
-      <link>https://daringfireball.net/2026/09/thoughts_and_observations_on_apples_surprise_and_shine_event</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/09/thoughts_and_observations_on_apples_surprise_and_shine_event</guid>
-      <pubDate>Tue, 15 Sep 2026 17:54:09 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>What counts as a large cosine similarity?</title>
-      <link>https://www.johndcook.com/blog/2026/09/15/cosine-similarity/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/09/15/cosine-similarity/</guid>
-      <pubDate>Tue, 15 Sep 2026 16:06:02 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Why do Microsoft job levels start in the high 50’s instead of starting at a sane number like 1?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260915-00/?p=112700/</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260915-00/?p=112700/</guid>
-      <pubDate>Tue, 15 Sep 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>There is no epidemic of loneliness, but there is an epidemic of scurvy</title>
-      <link>https://www.experimental-history.com/p/there-is-no-epidemic-of-loneliness</link>
-      <guid isPermaLink="true">https://www.experimental-history.com/p/there-is-no-epidemic-of-loneliness</guid>
-      <pubDate>Tue, 15 Sep 2026 12:54:38 +0000</pubDate>
-      <description>Experimental History</description>
-    </item>
-    <item>
-      <title>[RSS Club] Sorry for breaking your feed readers!</title>
-      <link>https://shkspr.mobi/blog/2026/09/rss-club-sorry-for-breaking-your-feed-readers/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/09/rss-club-sorry-for-breaking-your-feed-readers/</guid>
-      <pubDate>Tue, 15 Sep 2026 11:34:26 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
   </channel>
 </rss>

@@ -208,11 +208,11 @@ Last Updated: Wednesday, September 23rd, 2026, 4:45:37 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Siri AI Class-Action Lawsuit Settlement Website Is Now Live](https://www.macrumors.com/2026/09/20/siri-ai-settlement-website-now-live/) — *Daring Fireball* `09-22`
-- [Where're All The AI Chips?](https://www.wheresyoured.at/wherere-all-the-ai-chips/) — *Ed Zitron's Where's Your Ed At* `09-22`
-- [Nathaniel Bowditch](https://www.johndcook.com/blog/2026/09/22/nathaniel-bowditch/) — *John D. Cook* `09-22`
-- [Are LLMs still surprisingly bad at some simple tasks?](https://shkspr.mobi/blog/2026/09/are-llms-still-surprisingly-bad-at-some-simple-tasks/) — *Terence Eden’s Blog* `09-22`
-- [On reading books](https://herman.bearblog.dev/on-reading-books/) — *Herman's blog* `09-22`
+- [Why Didn’t Google Build Muse?](https://spyglass.org/why-didnt-google-build-muse/) — *Daring Fireball* `09-22`
+- [Amazon Blocks Meta’s Muse AI Assistant](https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/) — *Daring Fireball* `09-22`
+- [Meta’s New Muse AI Agent App Overtakes ChatGPT as Top iPhone App](https://9to5mac.com/2026/09/18/metas-new-muse-ai-agent-app-overtakes-chatgpt-as-top-iphone-app/) — *Daring Fireball* `09-22`
+- [Xcode 27.2 Now Supports a New JSON Project File Format](https://developer.apple.com/documentation/xcode-release-notes/xcode-27_2-release-notes) — *Daring Fireball* `09-22`
+- [Quoting @therealcornpop](https://simonwillison.net/2026/Sep/22/therealcornpop/) — *Simon Willison's Weblog* `09-22`
 <!--BLOG_RADAR:end-->
 
 ---
