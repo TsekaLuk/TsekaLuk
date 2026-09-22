@@ -208,11 +208,11 @@ Last Updated: Wednesday, September 23rd, 2026, 12:06:17 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Siri AI Class-Action Lawsuit Settlement Website Is Now Live](https://www.macrumors.com/2026/09/20/siri-ai-settlement-website-now-live/) — *Daring Fireball* `09-22`
+- [Where're All The AI Chips?](https://www.wheresyoured.at/wherere-all-the-ai-chips/) — *Ed Zitron's Where's Your Ed At* `09-22`
+- [Nathaniel Bowditch](https://www.johndcook.com/blog/2026/09/22/nathaniel-bowditch/) — *John D. Cook* `09-22`
+- [Are LLMs still surprisingly bad at some simple tasks?](https://shkspr.mobi/blog/2026/09/are-llms-still-surprisingly-bad-at-some-simple-tasks/) — *Terence Eden’s Blog* `09-22`
 - [On reading books](https://herman.bearblog.dev/on-reading-books/) — *Herman's blog* `09-22`
-- [Package Manager Threat Model, Revisited](https://nesbitt.io/2026/09/22/package-manager-threat-model-revisited.html) — *Andrew Nesbitt* `09-22`
-- [Unfinished Work in Package Security](https://nesbitt.io/2026/09/22/unfinished-work-in-package-security.html) — *Andrew Nesbitt* `09-22`
-- [Pluralistic: Bonta sold us out to Trump's oligarchs (22 Sep 2026)](https://pluralistic.net/2026/09/22/happy-chudmas/) — *Pluralistic: Daily links from Cory Doctorow* `09-22`
-- [Apple’s Performa in-store demo software from 1993](https://www.downtowndougbrown.com/2026/09/apples-performa-in-store-demo-software-from-1993/) — *Downtown Doug Brown* `09-22`
 <!--BLOG_RADAR:end-->
 
 ---
