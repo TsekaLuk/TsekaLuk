@@ -208,11 +208,11 @@ Last Updated: Tuesday, September 22nd, 2026, 6:47:23 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [It's Not Just True, It's False](https://idiallo.com/byte-size/its-not-just-true-its-false) — *Software and Tech stories from an Insider - iDiallo.com* `09-22`
-- [Haversine law](https://www.johndcook.com/blog/2026/09/21/haversine-law/) — *John D. Cook* `09-21`
-- [Jev introduces a new shape of LLM - System One, aka Decision Models](https://simonwillison.net/2026/Sep/21/jev/) — *Simon Willison's Weblog* `09-21`
-- [[Sponsor] Mux: Turn Your Video Into Context](https://www.mux.com/?utm_campaign=fireball&utm_source=DF) — *Daring Fireball* `09-21`
-- [Lex Friedman Brings Back Strategery](https://lexontech.org/strategery-is-back-and-im-the-developer) — *Daring Fireball* `09-21`
+- [On reading books](https://herman.bearblog.dev/on-reading-books/) — *Herman's blog* `09-22`
+- [Package Manager Threat Model, Revisited](https://nesbitt.io/2026/09/22/package-manager-threat-model-revisited.html) — *Andrew Nesbitt* `09-22`
+- [Unfinished Work in Package Security](https://nesbitt.io/2026/09/22/unfinished-work-in-package-security.html) — *Andrew Nesbitt* `09-22`
+- [Pluralistic: Bonta sold us out to Trump's oligarchs (22 Sep 2026)](https://pluralistic.net/2026/09/22/happy-chudmas/) — *Pluralistic: Daily links from Cory Doctorow* `09-22`
+- [Apple’s Performa in-store demo software from 1993](https://www.downtowndougbrown.com/2026/09/apples-performa-in-store-demo-software-from-1993/) — *Downtown Doug Brown* `09-22`
 <!--BLOG_RADAR:end-->
 
 ---

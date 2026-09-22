@@ -4,7 +4,42 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 22 Sep 2026 04:25:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 11:21:14 +0000</lastBuildDate>
+    <item>
+      <title>On reading books</title>
+      <link>https://herman.bearblog.dev/on-reading-books/</link>
+      <guid isPermaLink="true">https://herman.bearblog.dev/on-reading-books/</guid>
+      <pubDate>Tue, 22 Sep 2026 09:20:00 +0000</pubDate>
+      <description>Herman's blog</description>
+    </item>
+    <item>
+      <title>Package Manager Threat Model, Revisited</title>
+      <link>https://nesbitt.io/2026/09/22/package-manager-threat-model-revisited.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/09/22/package-manager-threat-model-revisited.html</guid>
+      <pubDate>Tue, 22 Sep 2026 09:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>Unfinished Work in Package Security</title>
+      <link>https://nesbitt.io/2026/09/22/unfinished-work-in-package-security.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/09/22/unfinished-work-in-package-security.html</guid>
+      <pubDate>Tue, 22 Sep 2026 09:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>Pluralistic: Bonta sold us out to Trump's oligarchs (22 Sep 2026)</title>
+      <link>https://pluralistic.net/2026/09/22/happy-chudmas/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/09/22/happy-chudmas/</guid>
+      <pubDate>Tue, 22 Sep 2026 08:19:01 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Apple’s Performa in-store demo software from 1993</title>
+      <link>https://www.downtowndougbrown.com/2026/09/apples-performa-in-store-demo-software-from-1993/</link>
+      <guid isPermaLink="true">https://www.downtowndougbrown.com/2026/09/apples-performa-in-store-demo-software-from-1993/</guid>
+      <pubDate>Tue, 22 Sep 2026 06:12:01 +0000</pubDate>
+      <description>Downtown Doug Brown</description>
+    </item>
     <item>
       <title>It's Not Just True, It's False</title>
       <link>https://idiallo.com/byte-size/its-not-just-true-its-false</link>
@@ -60,6 +95,13 @@
       <guid isPermaLink="true">https://www.mlb.com/news/tigers-ballpark-name-changed-to-fifth-third-park</guid>
       <pubDate>Mon, 21 Sep 2026 21:23:01 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>A Great Story Capturing the Essence of Being Online in 2026</title>
+      <link>https://blog.jim-nielsen.com/2026/online-in-2026/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/online-in-2026/</guid>
+      <pubDate>Mon, 21 Sep 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
     </item>
     <item>
       <title>Ichiro, at 52, Throws 127-Pitch Shutout Against All-Star Girls Team in Japan</title>
@@ -119,8 +161,8 @@
     </item>
     <item>
       <title>What’s the highest legal FILETIME? Is it safe to use?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260921-00/?p=112711</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260921-00/?p=112711</guid>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260921-00/?p=112711/</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260921-00/?p=112711/</guid>
       <pubDate>Mon, 21 Sep 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
     </item>
@@ -427,8 +469,8 @@
     </item>
     <item>
       <title>Comparing exception behavior of magic statics, std::call_once, and std::async</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260918-00/?p=112709</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260918-00/?p=112709</guid>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260918-00/?p=112709/</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260918-00/?p=112709/</guid>
       <pubDate>Fri, 18 Sep 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
     </item>
@@ -532,8 +574,8 @@
     </item>
     <item>
       <title>std::call_once vs. std::async</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260917-00/?p=112706</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260917-00/?p=112706</guid>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260917-00/?p=112706/</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260917-00/?p=112706/</guid>
       <pubDate>Thu, 17 Sep 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
     </item>
@@ -658,8 +700,8 @@
     </item>
     <item>
       <title>Magic statics vs. std::call_once</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260916-00/?p=112703</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260916-00/?p=112703</guid>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260916-00/?p=112703/</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260916-00/?p=112703/</guid>
       <pubDate>Wed, 16 Sep 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
     </item>
@@ -742,8 +784,8 @@
     </item>
     <item>
       <title>Why do Microsoft job levels start in the high 50’s instead of starting at a sane number like 1?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260915-00/?p=112700</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260915-00/?p=112700</guid>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260915-00/?p=112700/</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260915-00/?p=112700/</guid>
       <pubDate>Tue, 15 Sep 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
     </item>
@@ -783,13 +825,6 @@
       <description>Tedium: The Dull Side of the Internet.</description>
     </item>
     <item>
-      <title>Tell agents the why, not just the how</title>
-      <link>https://seangoedecke.com/tell-agents-the-why/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/tell-agents-the-why/</guid>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
       <title>You can run git on object storage if you re-make packfiles</title>
       <link>https://www.tigrisdata.com/blog/objgit-packfiles/</link>
       <guid isPermaLink="true">https://www.tigrisdata.com/blog/objgit-packfiles/</guid>
@@ -797,53 +832,18 @@
       <description>Xe Iaso's blog</description>
     </item>
     <item>
+      <title>Tell agents the why, not just the how</title>
+      <link>https://seangoedecke.com/tell-agents-the-why/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/tell-agents-the-why/</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
       <title>Tag index for Org mode blog</title>
       <link>https://entropicthoughts.com/tag-index-for-org-mode-blog</link>
       <guid isPermaLink="true">https://entropicthoughts.com/tag-index-for-org-mode-blog</guid>
       <pubDate>Mon, 14 Sep 2026 22:00:00 +0000</pubDate>
       <description>Entropic Thoughts</description>
-    </item>
-    <item>
-      <title>The contagion of fear</title>
-      <link>https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/</guid>
-      <pubDate>Mon, 14 Sep 2026 21:18:13 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>What blog posts influenced your thinking the most?</title>
-      <link>https://simonwillison.net/2026/Sep/14/influences/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/14/influences/</guid>
-      <pubDate>Mon, 14 Sep 2026 20:21:48 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Apple’s 27.0 OS Updates</title>
-      <link>https://scriptingosx.com/2026/09/apple-27-platform-updates-september-2026/</link>
-      <guid isPermaLink="true">https://scriptingosx.com/2026/09/apple-27-platform-updates-september-2026/</guid>
-      <pubDate>Mon, 14 Sep 2026 19:41:41 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>AI Is Already In Dangerous Hands</title>
-      <link>https://www.wheresyoured.at/ai-is-already-in-dangerous-hands/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/ai-is-already-in-dangerous-hands/</guid>
-      <pubDate>Mon, 14 Sep 2026 16:23:50 +0000</pubDate>
-      <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>Dumpster Fire – Litterbox-Inspired Extension for Firefox</title>
-      <link>https://addons.mozilla.org/en-US/firefox/addon/dumpster-fire/</link>
-      <guid isPermaLink="true">https://addons.mozilla.org/en-US/firefox/addon/dumpster-fire/</guid>
-      <pubDate>Mon, 14 Sep 2026 14:47:43 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Quoting Laurie Voss</title>
-      <link>https://simonwillison.net/2026/Sep/14/laurie-voss/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/14/laurie-voss/</guid>
-      <pubDate>Mon, 14 Sep 2026 14:34:29 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
