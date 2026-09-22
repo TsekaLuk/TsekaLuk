@@ -208,11 +208,11 @@ Last Updated: Tuesday, September 22nd, 2026, 10:53:41 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [GM Confirms They’re Still Smoking Crack](https://x.com/JoannaStern/status/2102105565195288859) — *Daring Fireball* `09-21`
-- [America’s Decline Can Be Measured by the Names of Ballparks and Arenas](https://www.mlb.com/news/tigers-ballpark-name-changed-to-fifth-third-park) — *Daring Fireball* `09-21`
-- [Ichiro, at 52, Throws 127-Pitch Shutout Against All-Star Girls Team in Japan](https://www.seattletimes.com/sports/mariners/ichiro-at-52-throws-127-pitch-shutout-against-all-star-girls-team-in-japan/) — *Daring Fireball* `09-21`
-- [Glenn Fleishman on the Increasing Impracticality of Shipping From the U.S. to the E.U.](https://glog.glennf.com/blog/2026/09/17/u-s-small-biz-cant-ship-to-the-eu-anymore/) — *Daring Fireball* `09-21`
-- [David Pogue: ‘125 Tests of the New AI Siri’](https://pogueman.substack.com/p/125-tests-of-the-new-ai-siri) — *Daring Fireball* `09-21`
+- [It's Not Just True, It's False](https://idiallo.com/byte-size/its-not-just-true-its-false) — *Software and Tech stories from an Insider - iDiallo.com* `09-22`
+- [Haversine law](https://www.johndcook.com/blog/2026/09/21/haversine-law/) — *John D. Cook* `09-21`
+- [Jev introduces a new shape of LLM - System One, aka Decision Models](https://simonwillison.net/2026/Sep/21/jev/) — *Simon Willison's Weblog* `09-21`
+- [[Sponsor] Mux: Turn Your Video Into Context](https://www.mux.com/?utm_campaign=fireball&utm_source=DF) — *Daring Fireball* `09-21`
+- [Lex Friedman Brings Back Strategery](https://lexontech.org/strategery-is-back-and-im-the-developer) — *Daring Fireball* `09-21`
 <!--BLOG_RADAR:end-->
 
 ---

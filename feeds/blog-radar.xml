@@ -4,7 +4,49 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 21 Sep 2026 21:53:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 04:25:57 +0000</lastBuildDate>
+    <item>
+      <title>It's Not Just True, It's False</title>
+      <link>https://idiallo.com/byte-size/its-not-just-true-its-false</link>
+      <guid isPermaLink="true">https://idiallo.com/byte-size/its-not-just-true-its-false</guid>
+      <pubDate>Tue, 22 Sep 2026 01:49:51 +0000</pubDate>
+      <description>Software and Tech stories from an Insider - iDiallo.com</description>
+    </item>
+    <item>
+      <title>Haversine law</title>
+      <link>https://www.johndcook.com/blog/2026/09/21/haversine-law/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/09/21/haversine-law/</guid>
+      <pubDate>Mon, 21 Sep 2026 23:13:22 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Jev introduces a new shape of LLM - System One, aka Decision Models</title>
+      <link>https://simonwillison.net/2026/Sep/21/jev/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/21/jev/</guid>
+      <pubDate>Mon, 21 Sep 2026 23:09:20 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>[Sponsor] Mux: Turn Your Video Into Context</title>
+      <link>https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF</link>
+      <guid isPermaLink="true">https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF</guid>
+      <pubDate>Mon, 21 Sep 2026 23:04:15 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Lex Friedman Brings Back Strategery</title>
+      <link>https://lexontech.org/strategery-is-back-and-im-the-developer</link>
+      <guid isPermaLink="true">https://lexontech.org/strategery-is-back-and-im-the-developer</guid>
+      <pubDate>Mon, 21 Sep 2026 22:52:44 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Cloudflare Python Workers are now generally available</title>
+      <link>https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/</guid>
+      <pubDate>Mon, 21 Sep 2026 22:25:44 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>GM Confirms They’re Still Smoking Crack</title>
       <link>https://x.com/JoannaStern/status/2102105565195288859</link>
@@ -802,48 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Sep/14/laurie-voss/</guid>
       <pubDate>Mon, 14 Sep 2026 14:34:29 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Why didn’t Read­Directory­ChangesW provide a way to correlate the two sides of a rename operation?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260914-00/?p=112696</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260914-00/?p=112696</guid>
-      <pubDate>Mon, 14 Sep 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>XCancel Shuts Down Again</title>
-      <link>https://xcancel.com/</link>
-      <guid isPermaLink="true">https://xcancel.com/</guid>
-      <pubDate>Mon, 14 Sep 2026 13:24:10 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Hoe wordt de overheid weer 'van de IT'?</title>
-      <link>https://berthub.eu/articles/posts/hoe-word-je-weer-van-de-it/</link>
-      <guid isPermaLink="true">https://berthub.eu/articles/posts/hoe-word-je-weer-van-de-it/</guid>
-      <pubDate>Mon, 14 Sep 2026 12:45:00 +0000</pubDate>
-      <description>Bert Hubert's writings</description>
-    </item>
-    <item>
-      <title>Esoteric HTML - ismap vs CSS</title>
-      <link>https://shkspr.mobi/blog/2026/09/esoteric-html-ismap-vs-css/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/09/esoteric-html-ismap-vs-css/</guid>
-      <pubDate>Mon, 14 Sep 2026 11:34:53 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Pluralistic: But do you use keyboard shortcuts? (14 Sep 2026)</title>
-      <link>https://pluralistic.net/2026/09/14/cult-taylorism/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/09/14/cult-taylorism/</guid>
-      <pubDate>Mon, 14 Sep 2026 11:02:27 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Guessing the meaning of a number</title>
-      <link>https://www.johndcook.com/blog/2026/09/14/guessing-the-meaning-of-a-number/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/09/14/guessing-the-meaning-of-a-number/</guid>
-      <pubDate>Mon, 14 Sep 2026 10:44:45 +0000</pubDate>
-      <description>John D. Cook</description>
     </item>
   </channel>
 </rss>
