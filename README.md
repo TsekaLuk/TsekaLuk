@@ -208,11 +208,11 @@ Last Updated: Wednesday, September 23rd, 2026, 10:53:55 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [SF October 14th: A Birds of a Feather Session on Agentic Engineering](https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/) — *Simon Willison's Weblog* `09-23`
+- [Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war](https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/) — *Simon Willison's Weblog* `09-22`
+- [Meta’s Muse Logomark, Designed by Jessica Hische](https://thedieline.com/jessica-hische-metas-muse-and-the-ethical-landmines-of-design/) — *Daring Fireball* `09-22`
+- [Meta’s New Muse AI Agent Read Jason Aten’s Messages Database](https://www.inc.com/jason-aten/metas-new-muse-ai-agent-read-my-private-messages-i-never-asked-it-to/91408202) — *Daring Fireball* `09-22`
 - [Why Didn’t Google Build Muse?](https://spyglass.org/why-didnt-google-build-muse/) — *Daring Fireball* `09-22`
-- [Amazon Blocks Meta’s Muse AI Assistant](https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/) — *Daring Fireball* `09-22`
-- [Meta’s New Muse AI Agent App Overtakes ChatGPT as Top iPhone App](https://9to5mac.com/2026/09/18/metas-new-muse-ai-agent-app-overtakes-chatgpt-as-top-iphone-app/) — *Daring Fireball* `09-22`
-- [Xcode 27.2 Now Supports a New JSON Project File Format](https://developer.apple.com/documentation/xcode-release-notes/xcode-27_2-release-notes) — *Daring Fireball* `09-22`
-- [Quoting @therealcornpop](https://simonwillison.net/2026/Sep/22/therealcornpop/) — *Simon Willison's Weblog* `09-22`
 <!--BLOG_RADAR:end-->
 
 ---

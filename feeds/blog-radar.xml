@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 22 Sep 2026 21:08:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 04:22:51 +0000</lastBuildDate>
+    <item>
+      <title>SF October 14th: A Birds of a Feather Session on Agentic Engineering</title>
+      <link>https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/</guid>
+      <pubDate>Wed, 23 Sep 2026 02:53:19 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war</title>
+      <link>https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/</guid>
+      <pubDate>Tue, 22 Sep 2026 23:46:41 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Meta’s Muse Logomark, Designed by Jessica Hische</title>
+      <link>https://thedieline.com/jessica-hische-metas-muse-and-the-ethical-landmines-of-design/</link>
+      <guid isPermaLink="true">https://thedieline.com/jessica-hische-metas-muse-and-the-ethical-landmines-of-design/</guid>
+      <pubDate>Tue, 22 Sep 2026 22:51:09 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Meta’s New Muse AI Agent Read Jason Aten’s Messages Database</title>
+      <link>https://www.inc.com/jason-aten/metas-new-muse-ai-agent-read-my-private-messages-i-never-asked-it-to/91408202</link>
+      <guid isPermaLink="true">https://www.inc.com/jason-aten/metas-new-muse-ai-agent-read-my-private-messages-i-never-asked-it-to/91408202</guid>
+      <pubDate>Tue, 22 Sep 2026 21:26:24 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Why Didn’t Google Build Muse?</title>
       <link>https://spyglass.org/why-didnt-google-build-muse/</link>
@@ -34,10 +62,24 @@
       <description>Daring Fireball</description>
     </item>
     <item>
+      <title>llm 0.36</title>
+      <link>https://simonwillison.net/2026/Sep/22/llm/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/22/llm/</guid>
+      <pubDate>Tue, 22 Sep 2026 18:48:37 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
       <title>Quoting @therealcornpop</title>
       <link>https://simonwillison.net/2026/Sep/22/therealcornpop/</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Sep/22/therealcornpop/</guid>
       <pubDate>Tue, 22 Sep 2026 18:03:21 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>llm-anthropic 0.29</title>
+      <link>https://simonwillison.net/2026/Sep/22/llm-anthropic/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/22/llm-anthropic/</guid>
+      <pubDate>Tue, 22 Sep 2026 17:14:55 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
@@ -573,18 +615,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Two techniques for working with System One models</title>
-      <link>https://seangoedecke.com/two-techniques-for-working-with-system-one-models/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/two-techniques-for-working-with-system-one-models/</guid>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
       <title>How I Vibed a Proof of Conway’s Conjecture</title>
       <link>https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/</link>
       <guid isPermaLink="true">https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/</guid>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
       <description>overreacted — A blog by Dan Abramov</description>
+    </item>
+    <item>
+      <title>Two techniques for working with System One models</title>
+      <link>https://seangoedecke.com/two-techniques-for-working-with-system-one-models/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/two-techniques-for-working-with-system-one-models/</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>Be alert: targeted attacks on prominent Rustaceans</title>
@@ -802,48 +844,6 @@
       <guid isPermaLink="true">https://security.apple.com/blog/apple-reference-image/</guid>
       <pubDate>Wed, 16 Sep 2026 02:38:24 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Jev means structured output is interesting again</title>
-      <link>https://seangoedecke.com/jev-means-structured-output-is-interesting-again/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/jev-means-structured-output-is-interesting-again/</guid>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>tokens too cheap to meter</title>
-      <link>https://jyn.dev/tokens-too-cheap-to-meter/</link>
-      <guid isPermaLink="true">https://jyn.dev/tokens-too-cheap-to-meter/</guid>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <description>the website of jyn</description>
-    </item>
-    <item>
-      <title>Gemini Live audio</title>
-      <link>https://simonwillison.net/2026/Sep/15/gemini-live/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/15/gemini-live/</guid>
-      <pubDate>Tue, 15 Sep 2026 22:47:07 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Simple approximation for spherical cap area</title>
-      <link>https://www.johndcook.com/blog/2026/09/15/simple-approximation-for-spherical-cap-area/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/09/15/simple-approximation-for-spherical-cap-area/</guid>
-      <pubDate>Tue, 15 Sep 2026 22:00:44 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>FT: ‘Steve Bannon and Bernie Sanders Unite in AI Safety Call’</title>
-      <link>https://www.ft.com/content/bab5c4c5-5377-4dd0-8b46-d8c4ce9a36d5?syn-25a6b1a6=1</link>
-      <guid isPermaLink="true">https://www.ft.com/content/bab5c4c5-5377-4dd0-8b46-d8c4ce9a36d5?syn-25a6b1a6=1</guid>
-      <pubDate>Tue, 15 Sep 2026 19:01:30 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Bottlenecks Get a Bad Rap</title>
-      <link>https://blog.jim-nielsen.com/2026/bottlenecks/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/bottlenecks/</guid>
-      <pubDate>Tue, 15 Sep 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
     </item>
   </channel>
 </rss>
