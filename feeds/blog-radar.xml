@@ -4,7 +4,49 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 23 Sep 2026 16:38:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 21:22:27 +0000</lastBuildDate>
+    <item>
+      <title>‘Prepare to Ship’ Is a Clever Software Solution That Allows iPhone 18 Pro Max to Ship With a Battery That Would Otherwise Exceed International Shipping Regulations</title>
+      <link>https://support.apple.com/en-us/127848</link>
+      <guid isPermaLink="true">https://support.apple.com/en-us/127848</guid>
+      <pubDate>Wed, 23 Sep 2026 20:12:16 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Make Money to Make More Websites</title>
+      <link>https://blog.jim-nielsen.com/2026/make-money-to-make-more-websites/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/make-money-to-make-more-websites/</guid>
+      <pubDate>Wed, 23 Sep 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
+    </item>
+    <item>
+      <title>App Store Scam of the Week: ‘Update My Phone &amp; Apps: Guide’ by Tair Olzhasev</title>
+      <link>https://apps.apple.com/us/app/update-my-phone-apps-guide/id6753936837</link>
+      <guid isPermaLink="true">https://apps.apple.com/us/app/update-my-phone-apps-guide/id6753936837</guid>
+      <pubDate>Wed, 23 Sep 2026 18:38:58 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>★ AppZapper 3000</title>
+      <link>https://daringfireball.net/2026/09/appzapper_3000</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/09/appzapper_3000</guid>
+      <pubDate>Wed, 23 Sep 2026 17:31:23 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Gemini 3.8 TTS Playground</title>
+      <link>https://simonwillison.net/2026/Sep/23/gemini-tts-playground/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/23/gemini-tts-playground/</guid>
+      <pubDate>Wed, 23 Sep 2026 17:12:27 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Shadow roots, explained with live examples</title>
+      <link>https://simonwillison.net/2026/Sep/23/shadow-roots/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/23/shadow-roots/</guid>
+      <pubDate>Wed, 23 Sep 2026 16:37:18 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Super Intelligence, Indeed</title>
       <link>https://bsky.app/profile/atrupar.com/post/3mw4it5l5fd23</link>
@@ -137,6 +179,13 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/09/22/nathaniel-bowditch/</guid>
       <pubDate>Tue, 22 Sep 2026 14:01:30 +0000</pubDate>
       <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>A brief history of Windows scroll bar shortcuts</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/</guid>
+      <pubDate>Tue, 22 Sep 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Are LLMs still surprisingly bad at some simple tasks?</title>
@@ -795,55 +844,6 @@
       <guid isPermaLink="true">https://www.macrumors.com/2026/09/16/heres-why-apple-released-ios-27-2-beta/</guid>
       <pubDate>Wed, 16 Sep 2026 18:36:08 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Data Broker Radaris Loses Domains in Privacy Fight</title>
-      <link>https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/</link>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/</guid>
-      <pubDate>Wed, 16 Sep 2026 18:14:22 +0000</pubDate>
-      <description>Krebs on Security</description>
-    </item>
-    <item>
-      <title>Claude Cowork and chat are now one Claude</title>
-      <link>https://simonwillison.net/2026/Sep/16/one-claude/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/16/one-claude/</guid>
-      <pubDate>Wed, 16 Sep 2026 18:09:49 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Converting between cosine similarity and concentration ratio</title>
-      <link>https://www.johndcook.com/blog/2026/09/16/concentration-ratio/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/09/16/concentration-ratio/</guid>
-      <pubDate>Wed, 16 Sep 2026 16:05:11 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Quoting Mustafa Suleyman</title>
-      <link>https://simonwillison.net/2026/Sep/16/mustafa-suleyman/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/16/mustafa-suleyman/</guid>
-      <pubDate>Wed, 16 Sep 2026 16:00:54 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Coffee + milk ≠ latte</title>
-      <link>https://www.johndcook.com/blog/2026/09/16/coffee-milk-latte/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/09/16/coffee-milk-latte/</guid>
-      <pubDate>Wed, 16 Sep 2026 15:06:58 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>AirPods 5 With Wireless Charging Case Works With MagSafe, But Not Magnetically</title>
-      <link>https://www.apple.com/airpods-5/specs/</link>
-      <guid isPermaLink="true">https://www.apple.com/airpods-5/specs/</guid>
-      <pubDate>Wed, 16 Sep 2026 14:35:49 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Magic statics vs. std::call_once</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260916-00/?p=112703/</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260916-00/?p=112703/</guid>
-      <pubDate>Wed, 16 Sep 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
     </item>
   </channel>
 </rss>

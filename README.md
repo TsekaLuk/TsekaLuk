@@ -208,11 +208,11 @@ Last Updated: Thursday, September 24th, 2026, 4:57:25 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Super Intelligence, Indeed](https://bsky.app/profile/atrupar.com/post/3mw4it5l5fd23) — *Daring Fireball* `09-23`
-- [Navigation with only addition, subtraction, and tables](https://www.johndcook.com/blog/2026/09/23/navigation-minimum/) — *John D. Cook* `09-23`
-- [The Year AI Came For Us: Teaching Entrepreneurship Will Never Be The Same](https://steveblank.com/2026/09/23/the-year-ai-came-for-us-teaching-entrepreneurship-will-never-be-the-same/) — *Steve Blank* `09-23`
-- [Weekly Update 522: Live From Oslo with Scott Helme](https://www.troyhunt.com/weekly-update-522/) — *Troy Hunt* `09-23`
-- [SF October 14th: A Birds of a Feather Session on Agentic Engineering](https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/) — *Simon Willison's Weblog* `09-23`
+- [‘Prepare to Ship’ Is a Clever Software Solution That Allows iPhone 18 Pro Max to Ship With a Battery That Would Otherwise Exceed International Shipping Regulations](https://support.apple.com/en-us/127848) — *Daring Fireball* `09-23`
+- [Make Money to Make More Websites](https://blog.jim-nielsen.com/2026/make-money-to-make-more-websites/) — *Jim Nielsen’s Blog* `09-23`
+- [App Store Scam of the Week: ‘Update My Phone & Apps: Guide’ by Tair Olzhasev](https://apps.apple.com/us/app/update-my-phone-apps-guide/id6753936837) — *Daring Fireball* `09-23`
+- [★ AppZapper 3000](https://daringfireball.net/2026/09/appzapper_3000) — *Daring Fireball* `09-23`
+- [Gemini 3.8 TTS Playground](https://simonwillison.net/2026/Sep/23/gemini-tts-playground/) — *Simon Willison's Weblog* `09-23`
 <!--BLOG_RADAR:end-->
 
 ---
