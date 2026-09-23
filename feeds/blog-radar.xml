@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 23 Sep 2026 11:16:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 16:38:33 +0000</lastBuildDate>
+    <item>
+      <title>Super Intelligence, Indeed</title>
+      <link>https://bsky.app/profile/atrupar.com/post/3mw4it5l5fd23</link>
+      <guid isPermaLink="true">https://bsky.app/profile/atrupar.com/post/3mw4it5l5fd23</guid>
+      <pubDate>Wed, 23 Sep 2026 14:22:09 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Navigation with only addition, subtraction, and tables</title>
+      <link>https://www.johndcook.com/blog/2026/09/23/navigation-minimum/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/09/23/navigation-minimum/</guid>
+      <pubDate>Wed, 23 Sep 2026 14:11:52 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>The Year AI Came For Us: Teaching Entrepreneurship Will Never Be The Same</title>
+      <link>https://steveblank.com/2026/09/23/the-year-ai-came-for-us-teaching-entrepreneurship-will-never-be-the-same/</link>
+      <guid isPermaLink="true">https://steveblank.com/2026/09/23/the-year-ai-came-for-us-teaching-entrepreneurship-will-never-be-the-same/</guid>
+      <pubDate>Wed, 23 Sep 2026 13:00:12 +0000</pubDate>
+      <description>Steve Blank</description>
+    </item>
     <item>
       <title>Weekly Update 522: Live From Oslo with Scott Helme</title>
       <link>https://www.troyhunt.com/weekly-update-522/</link>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260916-00/?p=112703/</guid>
       <pubDate>Wed, 16 Sep 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Fibonacci product</title>
-      <link>https://www.johndcook.com/blog/2026/09/16/fibonacci-product/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/09/16/fibonacci-product/</guid>
-      <pubDate>Wed, 16 Sep 2026 12:04:09 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>How to get a DOI for your blog posts</title>
-      <link>https://shkspr.mobi/blog/2026/09/how-to-get-a-doi-for-your-blog-posts/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/09/how-to-get-a-doi-for-your-blog-posts/</guid>
-      <pubDate>Wed, 16 Sep 2026 11:34:28 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Pluralistic: How an AI moratorium can save AI bosses (16 Sep 2026)</title>
-      <link>https://pluralistic.net/2026/09/16/beggar-thy-neighbor/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/09/16/beggar-thy-neighbor/</guid>
-      <pubDate>Wed, 16 Sep 2026 07:52:58 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
     </item>
   </channel>
 </rss>

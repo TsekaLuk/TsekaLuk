@@ -208,11 +208,11 @@ Last Updated: Wednesday, September 23rd, 2026, 11:56:17 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Super Intelligence, Indeed](https://bsky.app/profile/atrupar.com/post/3mw4it5l5fd23) — *Daring Fireball* `09-23`
+- [Navigation with only addition, subtraction, and tables](https://www.johndcook.com/blog/2026/09/23/navigation-minimum/) — *John D. Cook* `09-23`
+- [The Year AI Came For Us: Teaching Entrepreneurship Will Never Be The Same](https://steveblank.com/2026/09/23/the-year-ai-came-for-us-teaching-entrepreneurship-will-never-be-the-same/) — *Steve Blank* `09-23`
 - [Weekly Update 522: Live From Oslo with Scott Helme](https://www.troyhunt.com/weekly-update-522/) — *Troy Hunt* `09-23`
 - [SF October 14th: A Birds of a Feather Session on Agentic Engineering](https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/) — *Simon Willison's Weblog* `09-23`
-- [Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war](https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/) — *Simon Willison's Weblog* `09-22`
-- [Meta’s Muse Logomark, Designed by Jessica Hische](https://thedieline.com/jessica-hische-metas-muse-and-the-ethical-landmines-of-design/) — *Daring Fireball* `09-22`
-- [Meta’s New Muse AI Agent Read Jason Aten’s Messages Database](https://www.inc.com/jason-aten/metas-new-muse-ai-agent-read-my-private-messages-i-never-asked-it-to/91408202) — *Daring Fireball* `09-22`
 <!--BLOG_RADAR:end-->
 
 ---
