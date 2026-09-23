@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 23 Sep 2026 04:22:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 11:16:25 +0000</lastBuildDate>
+    <item>
+      <title>Weekly Update 522: Live From Oslo with Scott Helme</title>
+      <link>https://www.troyhunt.com/weekly-update-522/</link>
+      <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-522/</guid>
+      <pubDate>Wed, 23 Sep 2026 05:18:34 +0000</pubDate>
+      <description>Troy Hunt</description>
+    </item>
     <item>
       <title>SF October 14th: A Birds of a Feather Session on Agentic Engineering</title>
       <link>https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/</link>
@@ -615,18 +622,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>How I Vibed a Proof of Conway’s Conjecture</title>
-      <link>https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/</link>
-      <guid isPermaLink="true">https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/</guid>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <description>overreacted — A blog by Dan Abramov</description>
-    </item>
-    <item>
       <title>Two techniques for working with System One models</title>
       <link>https://seangoedecke.com/two-techniques-for-working-with-system-one-models/</link>
       <guid isPermaLink="true">https://seangoedecke.com/two-techniques-for-working-with-system-one-models/</guid>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>How I Vibed a Proof of Conway’s Conjecture</title>
+      <link>https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/</link>
+      <guid isPermaLink="true">https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+      <description>overreacted — A blog by Dan Abramov</description>
     </item>
     <item>
       <title>Be alert: targeted attacks on prominent Rustaceans</title>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://pluralistic.net/2026/09/16/beggar-thy-neighbor/</guid>
       <pubDate>Wed, 16 Sep 2026 07:52:58 +0000</pubDate>
       <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>‘Apple Reference Image: A New Approach for Verified Photography’</title>
-      <link>https://security.apple.com/blog/apple-reference-image/</link>
-      <guid isPermaLink="true">https://security.apple.com/blog/apple-reference-image/</guid>
-      <pubDate>Wed, 16 Sep 2026 02:38:24 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
