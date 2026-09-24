@@ -185,20 +185,20 @@ As **Founder & CEO**, I operate **Nebutra Intelligence** as an **AI-Native OPC (
 ### 🕒 **Recent Activity**
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 24th, 2026, 10:44:06 AM
+Last Updated: Thursday, September 24th, 2026, 6:56:49 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+- ⭐ Starred [Nebutra/MinerU-Skill](https://github.com/Nebutra/MinerU-Skill)<br>
 - ⬆️ Pushed updates to [Nebutra/Nebutra-Sailor](https://github.com/Nebutra/Nebutra-Sailor)<br>
-- ⬆️ Pushed updates to [Nebutra/Nebutra-Sailor](https://github.com/Nebutra/Nebutra-Sailor)<br>
+- ⬆️ Pushed updates to [Nebutra/MinerU-Skill](https://github.com/Nebutra/MinerU-Skill)<br>
+- ⬆️ Pushed updates to [Nebutra/Sailor-Template](https://github.com/Nebutra/Sailor-Template)<br>
+- ⬆️ Pushed updates to [Nebutra/MinerU-Skill](https://github.com/Nebutra/MinerU-Skill)<br>
+- 💪 Opened PR [#627](undefined) in [Nebutra/Nebutra-Sailor](https://github.com/Nebutra/Nebutra-Sailor)<br>
 - ⬆️ Pushed updates to [Nebutra/Sailor-Template](https://github.com/Nebutra/Sailor-Template)<br>
 - ⬆️ Pushed updates to [Nebutra/Nebutra-Sailor](https://github.com/Nebutra/Nebutra-Sailor)<br>
+- 💪 Opened PR [#626](undefined) in [Nebutra/Nebutra-Sailor](https://github.com/Nebutra/Nebutra-Sailor)<br>
 - ⬆️ Pushed updates to [Nebutra/Nebutra-Sailor](https://github.com/Nebutra/Nebutra-Sailor)<br>
-- ⬆️ Pushed updates to [Nebutra/Nebutra-Sailor](https://github.com/Nebutra/Nebutra-Sailor)<br>
-- ⬆️ Pushed updates to [Nebutra/Nebutra-Sailor](https://github.com/Nebutra/Nebutra-Sailor)<br>
-- ⬆️ Pushed updates to [Nebutra/Sailor-Template](https://github.com/Nebutra/Sailor-Template)<br>
-- 💪 Opened PR [#624](undefined) in [Nebutra/Nebutra-Sailor](https://github.com/Nebutra/Nebutra-Sailor)<br>
-- 💪 Opened PR [#623](undefined) in [Nebutra/Nebutra-Sailor](https://github.com/Nebutra/Nebutra-Sailor)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
