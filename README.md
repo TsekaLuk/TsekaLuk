@@ -208,11 +208,11 @@ Last Updated: Friday, September 25th, 2026, 12:19:19 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Copland D11E4, Emulated in Your Browser](https://www.pagetable.com/300) — *Daring Fireball* `09-24`
+- [So yeah it was written using AI](https://berthub.eu/articles/posts/so-yeah-it-is-written-using-ai/) — *Bert Hubert's writings* `09-24`
+- [Some thoughts on HTML's proposed previewsrc attribute](https://shkspr.mobi/blog/2026/09/some-thoughts-on-htmls-proposed-previewsrc-attribute/) — *Terence Eden’s Blog* `09-24`
 - [Package Manager Sandboxing](https://nesbitt.io/2026/09/24/package-manager-sandboxing.html) — *Andrew Nesbitt* `09-24`
-- [Changes to App Tracking Transparency in the E.U.](https://developer.apple.com/app-store/user-privacy-and-data-use/) — *Daring Fireball* `09-23`
-- [★ The iPhone 4 ‘Antennagate’ Press Conference Q&A — Finally](https://daringfireball.net/2026/09/iphone_4_antennagate_q_and_a) — *Daring Fireball* `09-23`
-- [Shrinking a Fedora virtual disk](https://entropicthoughts.com/shrinking-fedora-virtual-disk) — *Entropic Thoughts* `09-23`
-- [‘Prepare to Ship’ Is a Clever Software Solution That Allows iPhone 18 Pro Max to Ship With a Battery That Would Otherwise Exceed International Shipping Regulations](https://support.apple.com/en-us/127848) — *Daring Fireball* `09-23`
+- [Why is the human body so crap except for the liver?](https://dynomight.net/liver/) — *DYNOMIGHT* `09-24`
 <!--BLOG_RADAR:end-->
 
 ---
