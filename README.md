@@ -208,11 +208,11 @@ Last Updated: Thursday, September 24th, 2026, 6:56:49 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Package Manager Sandboxing](https://nesbitt.io/2026/09/24/package-manager-sandboxing.html) — *Andrew Nesbitt* `09-24`
 - [Changes to App Tracking Transparency in the E.U.](https://developer.apple.com/app-store/user-privacy-and-data-use/) — *Daring Fireball* `09-23`
 - [★ The iPhone 4 ‘Antennagate’ Press Conference Q&A — Finally](https://daringfireball.net/2026/09/iphone_4_antennagate_q_and_a) — *Daring Fireball* `09-23`
+- [Shrinking a Fedora virtual disk](https://entropicthoughts.com/shrinking-fedora-virtual-disk) — *Entropic Thoughts* `09-23`
 - [‘Prepare to Ship’ Is a Clever Software Solution That Allows iPhone 18 Pro Max to Ship With a Battery That Would Otherwise Exceed International Shipping Regulations](https://support.apple.com/en-us/127848) — *Daring Fireball* `09-23`
-- [Make Money to Make More Websites](https://blog.jim-nielsen.com/2026/make-money-to-make-more-websites/) — *Jim Nielsen’s Blog* `09-23`
-- [App Store Scam of the Week: ‘Update My Phone & Apps: Guide’ by Tair Olzhasev](https://apps.apple.com/us/app/update-my-phone-apps-guide/id6753936837) — *Daring Fireball* `09-23`
 <!--BLOG_RADAR:end-->
 
 ---
