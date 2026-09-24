@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 23 Sep 2026 21:22:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 04:19:41 +0000</lastBuildDate>
+    <item>
+      <title>Changes to App Tracking Transparency in the E.U.</title>
+      <link>https://developer.apple.com/app-store/user-privacy-and-data-use/</link>
+      <guid isPermaLink="true">https://developer.apple.com/app-store/user-privacy-and-data-use/</guid>
+      <pubDate>Wed, 23 Sep 2026 23:41:46 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>★ The iPhone 4 ‘Antennagate’ Press Conference Q&amp;A — Finally</title>
+      <link>https://daringfireball.net/2026/09/iphone_4_antennagate_q_and_a</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/09/iphone_4_antennagate_q_and_a</guid>
+      <pubDate>Wed, 23 Sep 2026 22:15:05 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>‘Prepare to Ship’ Is a Clever Software Solution That Allows iPhone 18 Pro Max to Ship With a Battery That Would Otherwise Exceed International Shipping Regulations</title>
       <link>https://support.apple.com/en-us/127848</link>
@@ -60,6 +74,13 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/09/23/navigation-minimum/</guid>
       <pubDate>Wed, 23 Sep 2026 14:11:52 +0000</pubDate>
       <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>When working with Win32 FILETIME, don’t forget that you have std::chrono now</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260923-00/?p=112726/</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260923-00/?p=112726/</guid>
+      <pubDate>Wed, 23 Sep 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>The Year AI Came For Us: Teaching Entrepreneurship Will Never Be The Same</title>
@@ -822,27 +843,6 @@
       <link>https://x.com/stevewoz/status/2100074363605397658</link>
       <guid isPermaLink="true">https://x.com/stevewoz/status/2100074363605397658</guid>
       <pubDate>Wed, 16 Sep 2026 21:38:27 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Flock cameras are riddled with security vulnerabilities and hard-coded credentials</title>
-      <link>https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/</link>
-      <guid isPermaLink="true">https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/</guid>
-      <pubDate>Wed, 16 Sep 2026 20:48:47 +0000</pubDate>
-      <description>micahflee</description>
-    </item>
-    <item>
-      <title>The LLMs yearn for the spines</title>
-      <link>https://buttondown.com/hillelwayne/archive/the-llms-yearn-for-the-spines/</link>
-      <guid isPermaLink="true">https://buttondown.com/hillelwayne/archive/the-llms-yearn-for-the-spines/</guid>
-      <pubDate>Wed, 16 Sep 2026 19:58:30 +0000</pubDate>
-      <description>Computer Things</description>
-    </item>
-    <item>
-      <title>Apple OS 27.2 Betas Are Out; Version 27.1 Is the Duo-Exclusive iOS Fork</title>
-      <link>https://www.macrumors.com/2026/09/16/heres-why-apple-released-ios-27-2-beta/</link>
-      <guid isPermaLink="true">https://www.macrumors.com/2026/09/16/heres-why-apple-released-ios-27-2-beta/</guid>
-      <pubDate>Wed, 16 Sep 2026 18:36:08 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
   </channel>
