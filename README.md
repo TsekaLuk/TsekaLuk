@@ -208,11 +208,11 @@ Last Updated: Friday, September 25th, 2026, 5:02:00 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Copland D11E4, Emulated in Your Browser](https://www.pagetable.com/300) — *Daring Fireball* `09-24`
-- [So yeah it was written using AI](https://berthub.eu/articles/posts/so-yeah-it-is-written-using-ai/) — *Bert Hubert's writings* `09-24`
-- [Some thoughts on HTML's proposed previewsrc attribute](https://shkspr.mobi/blog/2026/09/some-thoughts-on-htmls-proposed-previewsrc-attribute/) — *Terence Eden’s Blog* `09-24`
-- [Package Manager Sandboxing](https://nesbitt.io/2026/09/24/package-manager-sandboxing.html) — *Andrew Nesbitt* `09-24`
-- [Why is the human body so crap except for the liver?](https://dynomight.net/liver/) — *DYNOMIGHT* `09-24`
+- [Joanna Stern Interviews Mark Zuckerberg](https://thenewthings.com/p/exclusive-mark-zuckerberg-interview) — *Daring Fireball* `09-24`
+- [Meta Connect Keynote 2026](https://www.youtube.com/watch?v=SdKFDIAGF24) — *Daring Fireball* `09-24`
+- [commit-rewriter 0.2](https://simonwillison.net/2026/Sep/24/commit-rewriter/) — *Simon Willison's Weblog* `09-24`
+- [datasette 1.0a41](https://simonwillison.net/2026/Sep/24/datasette/) — *Simon Willison's Weblog* `09-24`
+- [‘Apple Opens Apple Music Hall, a State-of-the-Art Live Music Venue in London’](https://www.apple.com/newsroom/2026/09/apple-opens-apple-music-hall-a-state-of-the-art-live-music-venue-in-london/) — *Daring Fireball* `09-24`
 <!--BLOG_RADAR:end-->
 
 ---
