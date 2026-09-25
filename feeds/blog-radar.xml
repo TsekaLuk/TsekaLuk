@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 25 Sep 2026 04:31:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 11:36:36 +0000</lastBuildDate>
+    <item>
+      <title>You should all be asking way more questions</title>
+      <link>https://seangoedecke.com/you-should-all-be-asking-way-more-questions/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/you-should-all-be-asking-way-more-questions/</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
+    </item>
     <item>
       <title>Victoria Song on Meta Muse’s Cuteness</title>
       <link>https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IkFlVU9GbXpuZFUiLCJwIjoiL2NvbHVtbi85OTk5OTkvb3B0aW1pemVyLW1ldGEtbXVzZS1haS1jdXRlIiwiZXhwIjoxNzkwNzAxNDAwLCJpYXQiOjE3OTAyNjk0MDB9.chaHCz3wgiI4jn9EzA11I7fHhqQkEmn17aCiXtOBPEU</link>
@@ -836,13 +843,6 @@
       <link>https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/</guid>
       <pubDate>Thu, 17 Sep 2026 23:37:27 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Self-generated prompt injections in compaction summaries</title>
-      <link>https://simonwillison.net/2026/Sep/17/compaction-summaries/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/17/compaction-summaries/</guid>
-      <pubDate>Thu, 17 Sep 2026 20:57:55 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
     </item>
   </channel>
