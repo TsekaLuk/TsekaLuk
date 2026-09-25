@@ -4,13 +4,83 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 25 Sep 2026 11:36:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 16:59:41 +0000</lastBuildDate>
+    <item>
+      <title>Muse Looks Cute, but Looks Are Deceiving</title>
+      <link>https://www.inc.com/jason-aten/meta-keeps-apologizing-for-muse-its-explanations-miss-the-point-entirely/91409363</link>
+      <guid isPermaLink="true">https://www.inc.com/jason-aten/meta-keeps-apologizing-for-muse-its-explanations-miss-the-point-entirely/91409363</guid>
+      <pubDate>Fri, 25 Sep 2026 16:38:39 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>I'm starting HomelabFest (in St. Louis, Sep 2027)</title>
+      <link>https://www.jeffgeerling.com/blog/2026/homelabfest-announcement/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/homelabfest-announcement/</guid>
+      <pubDate>Fri, 25 Sep 2026 15:16:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>I Was Not Blown Away by Eli Tan’s ‘I Was Blown Away’ Review of Meta Muse</title>
+      <link>https://www.nytimes.com/2026/09/22/technology/meta-muse-ai-agent.html?unlocked_article_code=1.D1E.Wram.T8Ww85vXKKYU</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/09/22/technology/meta-muse-ai-agent.html?unlocked_article_code=1.D1E.Wram.T8Ww85vXKKYU</guid>
+      <pubDate>Fri, 25 Sep 2026 14:41:29 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Premium: The Hater's Guide To AI Debt (Part 2)</title>
+      <link>https://www.wheresyoured.at/premium-the-haters-guide-to-ai-debt-part-2/</link>
+      <guid isPermaLink="true">https://www.wheresyoured.at/premium-the-haters-guide-to-ai-debt-part-2/</guid>
+      <pubDate>Fri, 25 Sep 2026 14:25:21 +0000</pubDate>
+      <description>Ed Zitron's Where's Your Ed At</description>
+    </item>
+    <item>
+      <title>This Week on The Analog Antiquarian</title>
+      <link>https://www.filfre.net/2026/09/this-week-on-the-analog-antiquarian/</link>
+      <guid isPermaLink="true">https://www.filfre.net/2026/09/this-week-on-the-analog-antiquarian/</guid>
+      <pubDate>Fri, 25 Sep 2026 14:02:16 +0000</pubDate>
+      <description>The Digital Antiquarian</description>
+    </item>
+    <item>
+      <title>AI Killed the MVP – Long Live the IUP</title>
+      <link>https://steveblank.com/2026/09/25/ai-killed-the-mvp-long-live-the-iup/</link>
+      <guid isPermaLink="true">https://steveblank.com/2026/09/25/ai-killed-the-mvp-long-live-the-iup/</guid>
+      <pubDate>Fri, 25 Sep 2026 13:00:16 +0000</pubDate>
+      <description>Steve Blank</description>
+    </item>
+    <item>
+      <title>I’m Tired of Being on the Network</title>
+      <link>https://matduggan.com/im-tired-of-being-on-the-network/</link>
+      <guid isPermaLink="true">https://matduggan.com/im-tired-of-being-on-the-network/</guid>
+      <pubDate>Fri, 25 Sep 2026 12:00:44 +0000</pubDate>
+      <description>matduggan.com</description>
+    </item>
+    <item>
+      <title>Servers in dawn-dusk orbit</title>
+      <link>https://www.johndcook.com/blog/2026/09/25/dawn-dusk-orbit/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/09/25/dawn-dusk-orbit/</guid>
+      <pubDate>Fri, 25 Sep 2026 11:45:31 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Northern Gannet, Great Blue Heron, California Brown Pelican</title>
+      <link>https://simonwillison.net/2026/Sep/25/sighting-403293902/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/25/sighting-403293902/</guid>
+      <pubDate>Fri, 25 Sep 2026 02:07:04 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>You should all be asking way more questions</title>
       <link>https://seangoedecke.com/you-should-all-be-asking-way-more-questions/</link>
       <guid isPermaLink="true">https://seangoedecke.com/you-should-all-be-asking-way-more-questions/</guid>
       <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Note on 24th September 2026</title>
+      <link>https://simonwillison.net/2026/Sep/24/harder/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/24/harder/</guid>
+      <pubDate>Thu, 24 Sep 2026 23:31:08 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
     <item>
       <title>Victoria Song on Meta Muse’s Cuteness</title>
@@ -741,20 +811,6 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Gauging Interest in the iPhone Duo</title>
-      <link>https://maxfrequency.net/2026/09/17/iphone-duo-mkbhd-popularity-or-curiosity/</link>
-      <guid isPermaLink="true">https://maxfrequency.net/2026/09/17/iphone-duo-mkbhd-popularity-or-curiosity/</guid>
-      <pubDate>Fri, 18 Sep 2026 16:58:25 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>One More Thing About the iPhones 18 Pro: the Bigger/Smaller Dynamic Island</title>
-      <link>https://daringfireball.net/2026/09/the_iphones_18_pro#:~:text=OR%20IS%20IT%20BIGGER</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/09/the_iphones_18_pro#:~:text=OR%20IS%20IT%20BIGGER</guid>
-      <pubDate>Fri, 18 Sep 2026 16:42:00 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
       <title>Premium: The Hater's Guide To AI Debt (Part 1)</title>
       <link>https://www.wheresyoured.at/premium-the-haters-guide-to-ai-debt-part-1/</link>
       <guid isPermaLink="true">https://www.wheresyoured.at/premium-the-haters-guide-to-ai-debt-part-1/</guid>
@@ -788,62 +844,6 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260918-00/?p=112709/</guid>
       <pubDate>Fri, 18 Sep 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Theatre Review: The School for Wives - at Riverside Studios ★★★★★</title>
-      <link>https://shkspr.mobi/blog/2026/09/theatre-review-the-school-for-wives/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/09/theatre-review-the-school-for-wives/</guid>
-      <pubDate>Fri, 18 Sep 2026 11:34:51 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Pluralistic: Textured (18 Sep 2026)</title>
-      <link>https://pluralistic.net/2026/09/18/surprise/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/09/18/surprise/</guid>
-      <pubDate>Fri, 18 Sep 2026 07:45:10 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>★ The iPhones 18 Pro</title>
-      <link>https://daringfireball.net/2026/09/the_iphones_18_pro</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/09/the_iphones_18_pro</guid>
-      <pubDate>Fri, 18 Sep 2026 02:05:11 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Two techniques for working with System One models</title>
-      <link>https://seangoedecke.com/two-techniques-for-working-with-system-one-models/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/two-techniques-for-working-with-system-one-models/</guid>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>How I Vibed a Proof of Conway’s Conjecture</title>
-      <link>https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/</link>
-      <guid isPermaLink="true">https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/</guid>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <description>overreacted — A blog by Dan Abramov</description>
-    </item>
-    <item>
-      <title>Be alert: targeted attacks on prominent Rustaceans</title>
-      <link>https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/</guid>
-      <pubDate>Thu, 17 Sep 2026 23:59:19 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>The Front Page of the Internet Is Up for Grabs</title>
-      <link>https://idiallo.com/byte-size/the-front-page-of-the-internet</link>
-      <guid isPermaLink="true">https://idiallo.com/byte-size/the-front-page-of-the-internet</guid>
-      <pubDate>Thu, 17 Sep 2026 23:43:19 +0000</pubDate>
-      <description>Software and Tech stories from an Insider - iDiallo.com</description>
-    </item>
-    <item>
-      <title>How To Write With An LLM</title>
-      <link>https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/</guid>
-      <pubDate>Thu, 17 Sep 2026 23:37:27 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>

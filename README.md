@@ -208,11 +208,11 @@ Last Updated: Saturday, September 26th, 2026, 12:19:37 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [You should all be asking way more questions](https://seangoedecke.com/you-should-all-be-asking-way-more-questions/) — *seangoedecke.com RSS feed* `09-25`
-- [Victoria Song on Meta Muse’s Cuteness](https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IkFlVU9GbXpuZFUiLCJwIjoiL2NvbHVtbi85OTk5OTkvb3B0aW1pemVyLW1ldGEtbXVzZS1haS1jdXRlIiwiZXhwIjoxNzkwNzAxNDAwLCJpYXQiOjE3OTAyNjk0MDB9.chaHCz3wgiI4jn9EzA11I7fHhqQkEmn17aCiXtOBPEU) — *Daring Fireball* `09-24`
-- [Joanna Stern Interviews Mark Zuckerberg](https://thenewthings.com/p/exclusive-mark-zuckerberg-interview) — *Daring Fireball* `09-24`
-- [Meta Connect Keynote 2026](https://www.youtube.com/watch?v=SdKFDIAGF24) — *Daring Fireball* `09-24`
-- [commit-rewriter 0.2](https://simonwillison.net/2026/Sep/24/commit-rewriter/) — *Simon Willison's Weblog* `09-24`
+- [Muse Looks Cute, but Looks Are Deceiving](https://www.inc.com/jason-aten/meta-keeps-apologizing-for-muse-its-explanations-miss-the-point-entirely/91409363) — *Daring Fireball* `09-25`
+- [I'm starting HomelabFest (in St. Louis, Sep 2027)](https://www.jeffgeerling.com/blog/2026/homelabfest-announcement/) — *Jeff Geerling* `09-25`
+- [I Was Not Blown Away by Eli Tan’s ‘I Was Blown Away’ Review of Meta Muse](https://www.nytimes.com/2026/09/22/technology/meta-muse-ai-agent.html?unlocked_article_code=1.D1E.Wram.T8Ww85vXKKYU) — *Daring Fireball* `09-25`
+- [Premium: The Hater's Guide To AI Debt (Part 2)](https://www.wheresyoured.at/premium-the-haters-guide-to-ai-debt-part-2/) — *Ed Zitron's Where's Your Ed At* `09-25`
+- [This Week on The Analog Antiquarian](https://www.filfre.net/2026/09/this-week-on-the-analog-antiquarian/) — *The Digital Antiquarian* `09-25`
 <!--BLOG_RADAR:end-->
 
 ---
