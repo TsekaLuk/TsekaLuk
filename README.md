@@ -208,11 +208,11 @@ Last Updated: Friday, September 25th, 2026, 11:00:27 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Victoria Song on Meta Muse’s Cuteness](https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IkFlVU9GbXpuZFUiLCJwIjoiL2NvbHVtbi85OTk5OTkvb3B0aW1pemVyLW1ldGEtbXVzZS1haS1jdXRlIiwiZXhwIjoxNzkwNzAxNDAwLCJpYXQiOjE3OTAyNjk0MDB9.chaHCz3wgiI4jn9EzA11I7fHhqQkEmn17aCiXtOBPEU) — *Daring Fireball* `09-24`
 - [Joanna Stern Interviews Mark Zuckerberg](https://thenewthings.com/p/exclusive-mark-zuckerberg-interview) — *Daring Fireball* `09-24`
 - [Meta Connect Keynote 2026](https://www.youtube.com/watch?v=SdKFDIAGF24) — *Daring Fireball* `09-24`
 - [commit-rewriter 0.2](https://simonwillison.net/2026/Sep/24/commit-rewriter/) — *Simon Willison's Weblog* `09-24`
 - [datasette 1.0a41](https://simonwillison.net/2026/Sep/24/datasette/) — *Simon Willison's Weblog* `09-24`
-- [‘Apple Opens Apple Music Hall, a State-of-the-Art Live Music Venue in London’](https://www.apple.com/newsroom/2026/09/apple-opens-apple-music-hall-a-state-of-the-art-live-music-venue-in-london/) — *Daring Fireball* `09-24`
 <!--BLOG_RADAR:end-->
 
 ---
