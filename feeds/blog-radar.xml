@@ -4,7 +4,49 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 26 Sep 2026 16:11:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 20:56:08 +0000</lastBuildDate>
+    <item>
+      <title>Alexandr Wang: ‘Why I’m Building Muse’</title>
+      <link>https://x.com/alexandr_wang/status/2103551714536439951</link>
+      <guid isPermaLink="true">https://x.com/alexandr_wang/status/2103551714536439951</guid>
+      <pubDate>Sat, 26 Sep 2026 20:34:54 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Apple’s Other Recent ‘Duo’</title>
+      <link>https://support.apple.com/en-us/111812</link>
+      <guid isPermaLink="true">https://support.apple.com/en-us/111812</guid>
+      <pubDate>Sat, 26 Sep 2026 19:41:39 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>International Standard Paper Sizes</title>
+      <link>https://www.cl.cam.ac.uk/~mgk25/iso-paper.html</link>
+      <guid isPermaLink="true">https://www.cl.cam.ac.uk/~mgk25/iso-paper.html</guid>
+      <pubDate>Sat, 26 Sep 2026 18:46:24 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Microsoft Took the ‘Copilot+ PC’ Brand Out Behind the Shed</title>
+      <link>https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding</link>
+      <guid isPermaLink="true">https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding</guid>
+      <pubDate>Sat, 26 Sep 2026 16:53:14 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>The Talk Show: ‘I’m Thinking X, Not X’</title>
+      <link>https://daringfireball.net/thetalkshow/2026/09/25/ep-455</link>
+      <guid isPermaLink="true">https://daringfireball.net/thetalkshow/2026/09/25/ep-455</guid>
+      <pubDate>Sat, 26 Sep 2026 16:21:38 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Reverse-engineering the vintage Intel 8087's tangent algorithm: more than CORDIC</title>
+      <link>http://www.righto.com/2026/09/8087-tangent-cordic.html</link>
+      <guid isPermaLink="true">http://www.righto.com/2026/09/8087-tangent-cordic.html</guid>
+      <pubDate>Sat, 26 Sep 2026 16:20:56 +0000</pubDate>
+      <description>Ken Shirriff's blog</description>
+    </item>
     <item>
       <title>Rusty thoughts on "Parse, don't validate"</title>
       <link>https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/</link>
@@ -734,13 +776,6 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Marques Brownlee’s iPhone 18 Pro Review</title>
-      <link>https://www.youtube.com/watch?v=ohqxP8EEumo</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=ohqxP8EEumo</guid>
-      <pubDate>Sun, 20 Sep 2026 15:35:55 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
       <title>Book Review: How to Build a Space Station by Jonathan Morrison ★★★⯪☆</title>
       <link>https://shkspr.mobi/blog/2026/09/book-review-how-to-build-a-space-station-by-jonathan-morrison/</link>
       <guid isPermaLink="true">https://shkspr.mobi/blog/2026/09/book-review-how-to-build-a-space-station-by-jonathan-morrison/</guid>
@@ -797,20 +832,6 @@
       <description>Eli Bendersky's website</description>
     </item>
     <item>
-      <title>Tyler Stalman’s iPhone 18 Pro Camera Review</title>
-      <link>https://www.youtube.com/watch?v=m6cDErtCKAc</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=m6cDErtCKAc</guid>
-      <pubDate>Sat, 19 Sep 2026 16:29:00 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Austin Mann’s iPhone 18 Pro Camera Review, From Dunton, Colorado</title>
-      <link>https://www.austinmann.com/trek/iphone-18-pro-camera-review-dunton</link>
-      <guid isPermaLink="true">https://www.austinmann.com/trek/iphone-18-pro-camera-review-dunton</guid>
-      <pubDate>Sat, 19 Sep 2026 15:37:39 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
       <title>Reading List 09/19/2026</title>
       <link>https://www.construction-physics.com/p/reading-list-09192026</link>
       <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-09192026</guid>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/09/19/this-week-in-package-management.html</guid>
       <pubDate>Sat, 19 Sep 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Why fitting a logistic is nearly impossible from early data</title>
-      <link>https://www.johndcook.com/blog/2026/09/18/logistic-fit-sensitivity/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/09/18/logistic-fit-sensitivity/</guid>
-      <pubDate>Sat, 19 Sep 2026 01:17:36 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Finding Bugs</title>
-      <link>https://matklad.github.io/2026/09/19/finding-bugs.html</link>
-      <guid isPermaLink="true">https://matklad.github.io/2026/09/19/finding-bugs.html</guid>
-      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
-      <description>matklad</description>
-    </item>
-    <item>
-      <title>Gemini Hacked Three Companies in First Known Breakout by Google’s AI</title>
-      <link>https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/</guid>
-      <pubDate>Fri, 18 Sep 2026 23:57:57 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>

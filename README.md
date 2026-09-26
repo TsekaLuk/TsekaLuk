@@ -208,11 +208,11 @@ Last Updated: Sunday, September 27th, 2026, 4:32:24 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Rusty thoughts on "Parse, don't validate"](https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/) — *Eli Bendersky's website* `09-26`
-- [No errors, no warnings, no gods, no masters - HTML Purity is a Fetish](https://shkspr.mobi/blog/2026/09/no-errors-no-warnings-no-gods-no-masters-html-purity-is-a-fetish/) — *Terence Eden’s Blog* `09-26`
-- [Reading List 2026-09-26](https://www.construction-physics.com/p/reading-list-2026-09-26) — *Construction Physics* `09-26`
-- [This Week in Package Management: 26 September 2026](https://nesbitt.io/2026/09/26/this-week-in-package-management.html) — *Andrew Nesbitt* `09-26`
-- [Advice to a beginning software engineer](https://seangoedecke.com/advice-to-a-beginning-software-engineer/) — *seangoedecke.com RSS feed* `09-26`
+- [Alexandr Wang: ‘Why I’m Building Muse’](https://x.com/alexandr_wang/status/2103551714536439951) — *Daring Fireball* `09-26`
+- [Apple’s Other Recent ‘Duo’](https://support.apple.com/en-us/111812) — *Daring Fireball* `09-26`
+- [International Standard Paper Sizes](https://www.cl.cam.ac.uk/~mgk25/iso-paper.html) — *Daring Fireball* `09-26`
+- [Microsoft Took the ‘Copilot+ PC’ Brand Out Behind the Shed](https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding) — *Daring Fireball* `09-26`
+- [The Talk Show: ‘I’m Thinking X, Not X’](https://daringfireball.net/thetalkshow/2026/09/25/ep-455) — *Daring Fireball* `09-26`
 <!--BLOG_RADAR:end-->
 
 ---
