@@ -185,20 +185,20 @@ As **Founder & CEO**, I operate **Nebutra Intelligence** as an **AI-Native OPC (
 ### 🕒 **Recent Activity**
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, September 26th, 2026, 11:34:02 PM
+Last Updated: Sunday, September 27th, 2026, 4:32:24 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-- ⬆️ Pushed updates to [Nebutra/sandbox-runtime](https://github.com/Nebutra/sandbox-runtime)<br>
-- ⬆️ Pushed updates to [Nebutra/Sailor-Template](https://github.com/Nebutra/Sailor-Template)<br>
-- ⬆️ Pushed updates to [Nebutra/webhooks](https://github.com/Nebutra/webhooks)<br>
-- ⬆️ Pushed updates to [Nebutra/icons](https://github.com/Nebutra/icons)<br>
-- ⬆️ Pushed updates to [Nebutra/email](https://github.com/Nebutra/email)<br>
-- ⬆️ Pushed updates to [Nebutra/Nebutra-Sailor](https://github.com/Nebutra/Nebutra-Sailor)<br>
+- ⬆️ Pushed updates to [Nebutra/provider-factory](https://github.com/Nebutra/provider-factory)<br>
+- ⬆️ Pushed updates to [Nebutra/mcp](https://github.com/Nebutra/mcp)<br>
+- ⬆️ Pushed updates to [Nebutra/tool-registry](https://github.com/Nebutra/tool-registry)<br>
+- 💪 Opened PR [#659](undefined) in [Nebutra/Nebutra-Sailor](https://github.com/Nebutra/Nebutra-Sailor)<br>
+- 💪 Opened PR [#658](undefined) in [Nebutra/Nebutra-Sailor](https://github.com/Nebutra/Nebutra-Sailor)<br>
 - ⬆️ Pushed updates to [Nebutra/webhooks](https://github.com/Nebutra/webhooks)<br>
 - ⬆️ Pushed updates to [Nebutra/cache](https://github.com/Nebutra/cache)<br>
-- ⬆️ Pushed updates to [Nebutra/webhooks](https://github.com/Nebutra/webhooks)<br>
-- ⬆️ Pushed updates to [Nebutra/errors](https://github.com/Nebutra/errors)<br>
+- ⬆️ Pushed updates to [Nebutra/provider-factory](https://github.com/Nebutra/provider-factory)<br>
+- ⬆️ Pushed updates to [Nebutra/logger](https://github.com/Nebutra/logger)<br>
+- ⬆️ Pushed updates to [Nebutra/icons](https://github.com/Nebutra/icons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
