@@ -208,11 +208,11 @@ Last Updated: Saturday, September 26th, 2026, 11:04:31 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Advice to a beginning software engineer](https://seangoedecke.com/advice-to-a-beginning-software-engineer/) — *seangoedecke.com RSS feed* `09-26`
+- [Mr. Choyka Is Apparently Doing Well](https://www.usatoday.com/story/sports/golf/2020/02/02/golf-amateur-gary-choyka-sinks-two-holes-one-same-round/4639969002/) — *Daring Fireball* `09-25`
+- [U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions](https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/) — *Krebs on Security* `09-25`
 - [Stock UI in MacOS 27 Eschews Clarity](https://mastodon.design/@thibault/117320401426286497) — *Daring Fireball* `09-25`
 - [Brent Simmons on ‘Stock’ Mac UI](https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html) — *Daring Fireball* `09-25`
-- [Using an LLM to Automate the Process of Archiving New macOS App Icons](https://blog.jim-nielsen.com/2026/faster-app-icon-retrieval/) — *Jim Nielsen’s Blog* `09-25`
-- [Pluralistic: Itch scratching (25 Sep 2026)](https://pluralistic.net/2026/09/25/other-people/) — *Pluralistic: Daily links from Cory Doctorow* `09-25`
-- [★ I’ll Wait](https://daringfireball.net/2026/09/ill_wait) — *Daring Fireball* `09-25`
 <!--BLOG_RADAR:end-->
 
 ---

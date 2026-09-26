@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 25 Sep 2026 21:24:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 04:35:38 +0000</lastBuildDate>
+    <item>
+      <title>Advice to a beginning software engineer</title>
+      <link>https://seangoedecke.com/advice-to-a-beginning-software-engineer/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/advice-to-a-beginning-software-engineer/</guid>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Mr. Choyka Is Apparently Doing Well</title>
+      <link>https://www.usatoday.com/story/sports/golf/2020/02/02/golf-amateur-gary-choyka-sinks-two-holes-one-same-round/4639969002/</link>
+      <guid isPermaLink="true">https://www.usatoday.com/story/sports/golf/2020/02/02/golf-amateur-gary-choyka-sinks-two-holes-one-same-round/4639969002/</guid>
+      <pubDate>Fri, 25 Sep 2026 23:50:45 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>U.S. Soldier Gets 70 Months in Prison for AT&amp;T, Verizon Extortions</title>
+      <link>https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/</link>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/</guid>
+      <pubDate>Fri, 25 Sep 2026 21:44:40 +0000</pubDate>
+      <description>Krebs on Security</description>
+    </item>
     <item>
       <title>Stock UI in MacOS 27 Eschews Clarity</title>
       <link>https://mastodon.design/@thibault/117320401426286497</link>
@@ -88,6 +109,13 @@
       <guid isPermaLink="true">https://www.filfre.net/2026/09/this-week-on-the-analog-antiquarian/</guid>
       <pubDate>Fri, 25 Sep 2026 14:02:16 +0000</pubDate>
       <description>The Digital Antiquarian</description>
+    </item>
+    <item>
+      <title>Debugging walkthrough: Access violation on nonsense instruction, episode 3</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260925-00/?p=112731/</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260925-00/?p=112731/</guid>
+      <pubDate>Fri, 25 Sep 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>AI Killed the MVP – Long Live the IUP</title>
@@ -804,13 +832,6 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Apple Releases Xcode 27.1, First SDK With Support for iPhone Duo</title>
-      <link>https://developer.apple.com/news/?id=nyuppv9r</link>
-      <guid isPermaLink="true">https://developer.apple.com/news/?id=nyuppv9r</guid>
-      <pubDate>Fri, 18 Sep 2026 19:58:22 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
       <title>Note on 18th September 2026</title>
       <link>https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/</guid>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Sep/18/thariq-shihipar/</guid>
       <pubDate>Fri, 18 Sep 2026 19:09:27 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Do You Prefer Artificial?</title>
-      <link>https://blog.jim-nielsen.com/2026/who-wants-artificial/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/who-wants-artificial/</guid>
-      <pubDate>Fri, 18 Sep 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
-      <title>My design bookshelves</title>
-      <link>https://aresluna.org/my-design-bookshelves</link>
-      <guid isPermaLink="true">https://aresluna.org/my-design-bookshelves</guid>
-      <pubDate>Fri, 18 Sep 2026 17:40:02 +0000</pubDate>
-      <description>Aresluna</description>
-    </item>
-    <item>
-      <title>Premium: The Hater's Guide To AI Debt (Part 1)</title>
-      <link>https://www.wheresyoured.at/premium-the-haters-guide-to-ai-debt-part-1/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/premium-the-haters-guide-to-ai-debt-part-1/</guid>
-      <pubDate>Fri, 18 Sep 2026 15:45:13 +0000</pubDate>
-      <description>Ed Zitron's Where's Your Ed At</description>
     </item>
   </channel>
 </rss>
