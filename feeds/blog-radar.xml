@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 26 Sep 2026 04:35:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 11:10:58 +0000</lastBuildDate>
+    <item>
+      <title>Reading List 2026-09-26</title>
+      <link>https://www.construction-physics.com/p/reading-list-2026-09-26</link>
+      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-2026-09-26</guid>
+      <pubDate>Sat, 26 Sep 2026 10:17:46 +0000</pubDate>
+      <description>Construction Physics</description>
+    </item>
+    <item>
+      <title>This Week in Package Management: 26 September 2026</title>
+      <link>https://nesbitt.io/2026/09/26/this-week-in-package-management.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/09/26/this-week-in-package-management.html</guid>
+      <pubDate>Sat, 26 Sep 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
     <item>
       <title>Advice to a beginning software engineer</title>
       <link>https://seangoedecke.com/advice-to-a-beginning-software-engineer/</link>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://www.theatlantic.com/technology/2026/09/apple-folding-iphone/688562/?gift=aQyUJR7AIw1mJWdQ6Ed6yE6RbvpIGGpQGFPIX827p48</guid>
       <pubDate>Fri, 18 Sep 2026 20:42:31 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Note on 18th September 2026</title>
-      <link>https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/</guid>
-      <pubDate>Fri, 18 Sep 2026 19:21:32 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Quoting Thariq Shihipar</title>
-      <link>https://simonwillison.net/2026/Sep/18/thariq-shihipar/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/18/thariq-shihipar/</guid>
-      <pubDate>Fri, 18 Sep 2026 19:09:27 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
