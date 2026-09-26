@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 26 Sep 2026 11:10:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 16:11:45 +0000</lastBuildDate>
+    <item>
+      <title>Rusty thoughts on "Parse, don't validate"</title>
+      <link>https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/</link>
+      <guid isPermaLink="true">https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/</guid>
+      <pubDate>Sat, 26 Sep 2026 15:25:00 +0000</pubDate>
+      <description>Eli Bendersky's website</description>
+    </item>
+    <item>
+      <title>No errors, no warnings, no gods, no masters - HTML Purity is a Fetish</title>
+      <link>https://shkspr.mobi/blog/2026/09/no-errors-no-warnings-no-gods-no-masters-html-purity-is-a-fetish/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/09/no-errors-no-warnings-no-gods-no-masters-html-purity-is-a-fetish/</guid>
+      <pubDate>Sat, 26 Sep 2026 11:34:02 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
     <item>
       <title>Reading List 2026-09-26</title>
       <link>https://www.construction-physics.com/p/reading-list-2026-09-26</link>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/</guid>
       <pubDate>Fri, 18 Sep 2026 23:57:57 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Just Me or Does This Argument Not Add Up?</title>
-      <link>https://www.nytimes.com/2026/09/16/opinion/university-of-california-sat.html?unlocked_article_code=1.CFE.bXBA.V6BFzBn1jlKG</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/16/opinion/university-of-california-sat.html?unlocked_article_code=1.CFE.bXBA.V6BFzBn1jlKG</guid>
-      <pubDate>Fri, 18 Sep 2026 21:01:43 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Will Oremus Is a Duo Doubter</title>
-      <link>https://www.theatlantic.com/technology/2026/09/apple-folding-iphone/688562/?gift=aQyUJR7AIw1mJWdQ6Ed6yE6RbvpIGGpQGFPIX827p48</link>
-      <guid isPermaLink="true">https://www.theatlantic.com/technology/2026/09/apple-folding-iphone/688562/?gift=aQyUJR7AIw1mJWdQ6Ed6yE6RbvpIGGpQGFPIX827p48</guid>
-      <pubDate>Fri, 18 Sep 2026 20:42:31 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>

@@ -208,11 +208,11 @@ Last Updated: Saturday, September 26th, 2026, 11:34:02 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Rusty thoughts on "Parse, don't validate"](https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/) — *Eli Bendersky's website* `09-26`
+- [No errors, no warnings, no gods, no masters - HTML Purity is a Fetish](https://shkspr.mobi/blog/2026/09/no-errors-no-warnings-no-gods-no-masters-html-purity-is-a-fetish/) — *Terence Eden’s Blog* `09-26`
 - [Reading List 2026-09-26](https://www.construction-physics.com/p/reading-list-2026-09-26) — *Construction Physics* `09-26`
 - [This Week in Package Management: 26 September 2026](https://nesbitt.io/2026/09/26/this-week-in-package-management.html) — *Andrew Nesbitt* `09-26`
 - [Advice to a beginning software engineer](https://seangoedecke.com/advice-to-a-beginning-software-engineer/) — *seangoedecke.com RSS feed* `09-26`
-- [Mr. Choyka Is Apparently Doing Well](https://www.usatoday.com/story/sports/golf/2020/02/02/golf-amateur-gary-choyka-sinks-two-holes-one-same-round/4639969002/) — *Daring Fireball* `09-25`
-- [U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions](https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/) — *Krebs on Security* `09-25`
 <!--BLOG_RADAR:end-->
 
 ---
