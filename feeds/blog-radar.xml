@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 27 Sep 2026 04:54:44 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 11:49:35 +0000</lastBuildDate>
+    <item>
+      <title>Gig Review: Public Service Broadcasting's Race For Space at Alexandra Palace ★★★★⯪</title>
+      <link>https://shkspr.mobi/blog/2026/09/gig-review-public-service-broadcastings-race-for-space-at-alexandra-palace/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/09/gig-review-public-service-broadcastings-race-for-space-at-alexandra-palace/</guid>
+      <pubDate>Sun, 27 Sep 2026 11:34:08 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Human-AI partnerships are for alignment, not capability</title>
+      <link>https://seangoedecke.com/human-ai-partnerships-are-for-alignment-not-capability/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/human-ai-partnerships-are-for-alignment-not-capability/</guid>
+      <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
+    </item>
     <item>
       <title>Kākāpō Party</title>
       <link>https://simonwillison.net/2026/Sep/26/kakapo-party/</link>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Sep/19/sighting-401567341/</guid>
       <pubDate>Sat, 19 Sep 2026 17:10:08 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Notes on discrete-time Fourier series and transform</title>
-      <link>https://eli.thegreenplace.net/2026/notes-on-discrete-time-fourier-series-and-transform/</link>
-      <guid isPermaLink="true">https://eli.thegreenplace.net/2026/notes-on-discrete-time-fourier-series-and-transform/</guid>
-      <pubDate>Sat, 19 Sep 2026 16:39:00 +0000</pubDate>
-      <description>Eli Bendersky's website</description>
-    </item>
-    <item>
-      <title>Reading List 09/19/2026</title>
-      <link>https://www.construction-physics.com/p/reading-list-09192026</link>
-      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-09192026</guid>
-      <pubDate>Sat, 19 Sep 2026 12:03:09 +0000</pubDate>
-      <description>Construction Physics</description>
     </item>
   </channel>
 </rss>

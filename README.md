@@ -208,11 +208,11 @@ Last Updated: Sunday, September 27th, 2026, 7:12:25 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Gig Review: Public Service Broadcasting's Race For Space at Alexandra Palace ★★★★⯪](https://shkspr.mobi/blog/2026/09/gig-review-public-service-broadcastings-race-for-space-at-alexandra-palace/) — *Terence Eden’s Blog* `09-27`
+- [Human-AI partnerships are for alignment, not capability](https://seangoedecke.com/human-ai-partnerships-are-for-alignment-not-capability/) — *seangoedecke.com RSS feed* `09-27`
 - [Kākāpō Party](https://simonwillison.net/2026/Sep/26/kakapo-party/) — *Simon Willison's Weblog* `09-26`
 - [Reelizer Returns](https://www.reelizer.com/) — *Daring Fireball* `09-26`
 - [Alexandr Wang: ‘Why I’m Building Muse’](https://x.com/alexandr_wang/status/2103551714536439951) — *Daring Fireball* `09-26`
-- [Apple’s Other Recent ‘Duo’](https://support.apple.com/en-us/111812) — *Daring Fireball* `09-26`
-- [International Standard Paper Sizes](https://www.cl.cam.ac.uk/~mgk25/iso-paper.html) — *Daring Fireball* `09-26`
 <!--BLOG_RADAR:end-->
 
 ---
