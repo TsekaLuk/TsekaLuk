@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 26 Sep 2026 20:56:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 04:54:44 +0000</lastBuildDate>
+    <item>
+      <title>Kākāpō Party</title>
+      <link>https://simonwillison.net/2026/Sep/26/kakapo-party/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/26/kakapo-party/</guid>
+      <pubDate>Sat, 26 Sep 2026 23:39:06 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Reelizer Returns</title>
+      <link>https://www.reelizer.com/</link>
+      <guid isPermaLink="true">https://www.reelizer.com/</guid>
+      <pubDate>Sat, 26 Sep 2026 21:08:08 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Alexandr Wang: ‘Why I’m Building Muse’</title>
       <link>https://x.com/alexandr_wang/status/2103551714536439951</link>
@@ -769,13 +783,6 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>GM Revives CarPlay for 2027 Trucks</title>
-      <link>https://www.autoweek.com/news/a73761352/gm-revives-apple-carplay-for-2027-chevy-silverado-gmc-sierra/</link>
-      <guid isPermaLink="true">https://www.autoweek.com/news/a73761352/gm-revives-apple-carplay-for-2027-chevy-silverado-gmc-sierra/</guid>
-      <pubDate>Sun, 20 Sep 2026 17:30:00 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
       <title>Book Review: How to Build a Space Station by Jonathan Morrison ★★★⯪☆</title>
       <link>https://shkspr.mobi/blog/2026/09/book-review-how-to-build-a-space-station-by-jonathan-morrison/</link>
       <guid isPermaLink="true">https://shkspr.mobi/blog/2026/09/book-review-how-to-build-a-space-station-by-jonathan-morrison/</guid>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-09192026</guid>
       <pubDate>Sat, 19 Sep 2026 12:03:09 +0000</pubDate>
       <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>This Week in Package Management: 19 September 2026</title>
-      <link>https://nesbitt.io/2026/09/19/this-week-in-package-management.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/09/19/this-week-in-package-management.html</guid>
-      <pubDate>Sat, 19 Sep 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
     </item>
   </channel>
 </rss>

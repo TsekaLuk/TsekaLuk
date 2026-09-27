@@ -208,11 +208,11 @@ Last Updated: Sunday, September 27th, 2026, 11:10:28 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Kākāpō Party](https://simonwillison.net/2026/Sep/26/kakapo-party/) — *Simon Willison's Weblog* `09-26`
+- [Reelizer Returns](https://www.reelizer.com/) — *Daring Fireball* `09-26`
 - [Alexandr Wang: ‘Why I’m Building Muse’](https://x.com/alexandr_wang/status/2103551714536439951) — *Daring Fireball* `09-26`
 - [Apple’s Other Recent ‘Duo’](https://support.apple.com/en-us/111812) — *Daring Fireball* `09-26`
 - [International Standard Paper Sizes](https://www.cl.cam.ac.uk/~mgk25/iso-paper.html) — *Daring Fireball* `09-26`
-- [Microsoft Took the ‘Copilot+ PC’ Brand Out Behind the Shed](https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding) — *Daring Fireball* `09-26`
-- [The Talk Show: ‘I’m Thinking X, Not X’](https://daringfireball.net/thetalkshow/2026/09/25/ep-455) — *Daring Fireball* `09-26`
 <!--BLOG_RADAR:end-->
 
 ---
