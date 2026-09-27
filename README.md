@@ -208,11 +208,11 @@ Last Updated: Monday, September 28th, 2026, 4:42:25 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Mux: Turn Your Video Into Context](https://www.mux.com/?utm_campaign=fireball&utm_source=DF) — *Daring Fireball* `09-27`
+- [Katie Notopoulos on Alexandr Wang’s ‘Faux-Hallmark Pap’](https://x.com/katienotopoulos/status/2103993429659386026) — *Daring Fireball* `09-27`
+- [Combo Platter](https://feed.tedium.co/link/15204/17475461/combos-snack-food-history) — *Tedium: The Dull Side of the Internet.* `09-27`
 - [Gig Review: Public Service Broadcasting's Race For Space at Alexandra Palace ★★★★⯪](https://shkspr.mobi/blog/2026/09/gig-review-public-service-broadcastings-race-for-space-at-alexandra-palace/) — *Terence Eden’s Blog* `09-27`
 - [Human-AI partnerships are for alignment, not capability](https://seangoedecke.com/human-ai-partnerships-are-for-alignment-not-capability/) — *seangoedecke.com RSS feed* `09-27`
-- [Kākāpō Party](https://simonwillison.net/2026/Sep/26/kakapo-party/) — *Simon Willison's Weblog* `09-26`
-- [Reelizer Returns](https://www.reelizer.com/) — *Daring Fireball* `09-26`
-- [Alexandr Wang: ‘Why I’m Building Muse’](https://x.com/alexandr_wang/status/2103551714536439951) — *Daring Fireball* `09-26`
 <!--BLOG_RADAR:end-->
 
 ---
