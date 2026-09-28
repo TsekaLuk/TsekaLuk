@@ -4,7 +4,63 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 28 Sep 2026 13:32:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 23:07:54 +0000</lastBuildDate>
+    <item>
+      <title>Jeremy Stern’s Profile of Mark Zuckerberg for Colossus</title>
+      <link>https://colossus.com/article/mark-zuckerberg-profile/</link>
+      <guid isPermaLink="true">https://colossus.com/article/mark-zuckerberg-profile/</guid>
+      <pubDate>Mon, 28 Sep 2026 22:41:40 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Claude Sonnet 5.5</title>
+      <link>https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/</guid>
+      <pubDate>Mon, 28 Sep 2026 22:07:38 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Muse, Instagram, and VLC Lookalike Rip-Offs in the Mac App Store</title>
+      <link>https://lapcatsoftware.com/articles/2026/9/8.html</link>
+      <guid isPermaLink="true">https://lapcatsoftware.com/articles/2026/9/8.html</guid>
+      <pubDate>Mon, 28 Sep 2026 19:50:19 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Quoting @joedaroo</title>
+      <link>https://simonwillison.net/2026/Sep/28/joedaroo/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/28/joedaroo/</guid>
+      <pubDate>Mon, 28 Sep 2026 19:11:42 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>★ Spitballing Predictions for Apple’s October</title>
+      <link>https://daringfireball.net/2026/09/spitballing_predictions_for_apples_october</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/09/spitballing_predictions_for_apples_october</guid>
+      <pubDate>Mon, 28 Sep 2026 18:43:48 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Pluralistic: Priceful (28 Sep 2026)</title>
+      <link>https://pluralistic.net/2026/09/28/cost-of-everything/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/09/28/cost-of-everything/</guid>
+      <pubDate>Mon, 28 Sep 2026 17:48:26 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Duo-Man</title>
+      <link>https://x.com/viditb/status/2104103592726765722</link>
+      <guid isPermaLink="true">https://x.com/viditb/status/2104103592726765722</guid>
+      <pubDate>Mon, 28 Sep 2026 16:35:02 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation</title>
+      <link>https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/</link>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/</guid>
+      <pubDate>Mon, 28 Sep 2026 15:08:57 +0000</pubDate>
+      <description>Krebs on Security</description>
+    </item>
     <item>
       <title>The World Outside the Classroom Changed, The Class Didn’t</title>
       <link>https://steveblank.com/2026/09/28/the-world-outside-the-classroom-changed-the-class-didnt/</link>
@@ -787,62 +843,6 @@
       <link>https://pogueman.substack.com/p/125-tests-of-the-new-ai-siri</link>
       <guid isPermaLink="true">https://pogueman.substack.com/p/125-tests-of-the-new-ai-siri</guid>
       <pubDate>Mon, 21 Sep 2026 17:20:56 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Raspberry Pi locks down Pi 5 RAM upgrades in firmware</title>
-      <link>https://www.jeffgeerling.com/blog/2026/raspberry-pi-ram-lockdown/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/raspberry-pi-ram-lockdown/</guid>
-      <pubDate>Mon, 21 Sep 2026 17:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
-      <title>Matthew Butterick: ‘Big AI to Humanity: Drop Dead’</title>
-      <link>https://matthewbutterick.com/chron/drop-dead.html</link>
-      <guid isPermaLink="true">https://matthewbutterick.com/chron/drop-dead.html</guid>
-      <pubDate>Mon, 21 Sep 2026 16:53:06 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Writing Rust code that's faster than state-of-the-art libraries by asking agents to make the code faster</title>
-      <link>https://minimaxir.com/2026/09/agentic-iteration/</link>
-      <guid isPermaLink="true">https://minimaxir.com/2026/09/agentic-iteration/</guid>
-      <pubDate>Mon, 21 Sep 2026 16:30:00 +0000</pubDate>
-      <description>Max Woolf's Blog</description>
-    </item>
-    <item>
-      <title>‘Measuring Nothing (With Great Accuracy)’</title>
-      <link>https://seths.blog/2014/01/measuring-nothing-with-great-accuracy/</link>
-      <guid isPermaLink="true">https://seths.blog/2014/01/measuring-nothing-with-great-accuracy/</guid>
-      <pubDate>Mon, 21 Sep 2026 14:57:12 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Cursed Napster</title>
-      <link>https://feed.tedium.co/link/15204/17468568/napster-ai-pivot</link>
-      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17468568/napster-ai-pivot</guid>
-      <pubDate>Mon, 21 Sep 2026 14:38:49 +0000</pubDate>
-      <description>Tedium: The Dull Side of the Internet.</description>
-    </item>
-    <item>
-      <title>What’s the highest legal FILETIME? Is it safe to use?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260921-00/?p=112711/</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260921-00/?p=112711/</guid>
-      <pubDate>Mon, 21 Sep 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Pluralistic: The Claude Delusion (21 Sep 2026)</title>
-      <link>https://pluralistic.net/2026/09/21/sunsetting/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/09/21/sunsetting/</guid>
-      <pubDate>Mon, 21 Sep 2026 11:24:31 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Apple TV to Finally Air ‘The Savant’ in Early 2027, Supposedly</title>
-      <link>https://deadline.com/2026/09/jessica-chastain-the-savant-new-release-date-apple-tv-1237108228/</link>
-      <guid isPermaLink="true">https://deadline.com/2026/09/jessica-chastain-the-savant-new-release-date-apple-tv-1237108228/</guid>
-      <pubDate>Mon, 21 Sep 2026 00:49:55 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
   </channel>

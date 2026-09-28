@@ -208,11 +208,11 @@ Last Updated: Tuesday, September 29th, 2026, 6:51:21 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [The World Outside the Classroom Changed, The Class Didn’t](https://steveblank.com/2026/09/28/the-world-outside-the-classroom-changed-the-class-didnt/) — *Steve Blank* `09-28`
-- [Open State praatje: zonder transparantie geen democratie](https://berthub.eu/articles/posts/openstate-zonder-transparantie-geen-democratie/) — *Bert Hubert's writings* `09-28`
-- [Book Review: Bobiverse Books 1-3 by Dennis E. Taylor ★★★☆☆](https://shkspr.mobi/blog/2026/09/book-review-bobiverse-books-1-3-by-dennis-e-taylor/) — *Terence Eden’s Blog* `09-28`
-- [SmartOS: The illumos Way of Thinking About Servers](https://it-notes.dragas.net/2026/09/28/smartos-the-illumos-way-of-thinking-about-servers/) — *IT Notes* `09-28`
-- [Edge Is Pretending to Be Chrome](https://idiallo.com/blog/edge-imitates-chrome) — *Software and Tech stories from an Insider - iDiallo.com* `09-28`
+- [Jeremy Stern’s Profile of Mark Zuckerberg for Colossus](https://colossus.com/article/mark-zuckerberg-profile/) — *Daring Fireball* `09-28`
+- [Claude Sonnet 5.5](https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/) — *Simon Willison's Weblog* `09-28`
+- [Muse, Instagram, and VLC Lookalike Rip-Offs in the Mac App Store](https://lapcatsoftware.com/articles/2026/9/8.html) — *Daring Fireball* `09-28`
+- [Quoting @joedaroo](https://simonwillison.net/2026/Sep/28/joedaroo/) — *Simon Willison's Weblog* `09-28`
+- [★ Spitballing Predictions for Apple’s October](https://daringfireball.net/2026/09/spitballing_predictions_for_apples_october) — *Daring Fireball* `09-28`
 <!--BLOG_RADAR:end-->
 
 ---
