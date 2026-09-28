@@ -208,11 +208,11 @@ Last Updated: Monday, September 28th, 2026, 8:39:42 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Quoting Muse AI Agent](https://simonwillison.net/2026/Sep/28/muse-ai-agent/) — *Simon Willison's Weblog* `09-28`
-- [2026 in LLMs (so far)](https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/) — *Simon Willison's Weblog* `09-27`
-- [S3 Is the Future, S3 Is the Past](https://simonwillison.net/2026/Sep/27/hn-49871741/) — *Simon Willison's Weblog* `09-27`
-- [Mux: Turn Your Video Into Context](https://www.mux.com/?utm_campaign=fireball&utm_source=DF) — *Daring Fireball* `09-27`
-- [Katie Notopoulos on Alexandr Wang’s ‘Faux-Hallmark Pap’](https://x.com/katienotopoulos/status/2103993429659386026) — *Daring Fireball* `09-27`
+- [The World Outside the Classroom Changed, The Class Didn’t](https://steveblank.com/2026/09/28/the-world-outside-the-classroom-changed-the-class-didnt/) — *Steve Blank* `09-28`
+- [Open State praatje: zonder transparantie geen democratie](https://berthub.eu/articles/posts/openstate-zonder-transparantie-geen-democratie/) — *Bert Hubert's writings* `09-28`
+- [Book Review: Bobiverse Books 1-3 by Dennis E. Taylor ★★★☆☆](https://shkspr.mobi/blog/2026/09/book-review-bobiverse-books-1-3-by-dennis-e-taylor/) — *Terence Eden’s Blog* `09-28`
+- [SmartOS: The illumos Way of Thinking About Servers](https://it-notes.dragas.net/2026/09/28/smartos-the-illumos-way-of-thinking-about-servers/) — *IT Notes* `09-28`
+- [Edge Is Pretending to Be Chrome](https://idiallo.com/blog/edge-imitates-chrome) — *Software and Tech stories from an Insider - iDiallo.com* `09-28`
 <!--BLOG_RADAR:end-->
 
 ---
