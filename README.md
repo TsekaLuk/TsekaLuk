@@ -208,11 +208,11 @@ Last Updated: Monday, September 28th, 2026, 11:06:50 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Quoting Muse AI Agent](https://simonwillison.net/2026/Sep/28/muse-ai-agent/) — *Simon Willison's Weblog* `09-28`
+- [2026 in LLMs (so far)](https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/) — *Simon Willison's Weblog* `09-27`
+- [S3 Is the Future, S3 Is the Past](https://simonwillison.net/2026/Sep/27/hn-49871741/) — *Simon Willison's Weblog* `09-27`
 - [Mux: Turn Your Video Into Context](https://www.mux.com/?utm_campaign=fireball&utm_source=DF) — *Daring Fireball* `09-27`
 - [Katie Notopoulos on Alexandr Wang’s ‘Faux-Hallmark Pap’](https://x.com/katienotopoulos/status/2103993429659386026) — *Daring Fireball* `09-27`
-- [Combo Platter](https://feed.tedium.co/link/15204/17475461/combos-snack-food-history) — *Tedium: The Dull Side of the Internet.* `09-27`
-- [Gig Review: Public Service Broadcasting's Race For Space at Alexandra Palace ★★★★⯪](https://shkspr.mobi/blog/2026/09/gig-review-public-service-broadcastings-race-for-space-at-alexandra-palace/) — *Terence Eden’s Blog* `09-27`
-- [Human-AI partnerships are for alignment, not capability](https://seangoedecke.com/human-ai-partnerships-are-for-alignment-not-capability/) — *seangoedecke.com RSS feed* `09-27`
 <!--BLOG_RADAR:end-->
 
 ---

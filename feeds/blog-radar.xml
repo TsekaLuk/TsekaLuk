@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 27 Sep 2026 21:12:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 04:56:48 +0000</lastBuildDate>
+    <item>
+      <title>Quoting Muse AI Agent</title>
+      <link>https://simonwillison.net/2026/Sep/28/muse-ai-agent/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/28/muse-ai-agent/</guid>
+      <pubDate>Mon, 28 Sep 2026 04:01:30 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>2026 in LLMs (so far)</title>
+      <link>https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/</guid>
+      <pubDate>Sun, 27 Sep 2026 23:54:15 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>S3 Is the Future, S3 Is the Past</title>
+      <link>https://simonwillison.net/2026/Sep/27/hn-49871741/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/27/hn-49871741/</guid>
+      <pubDate>Sun, 27 Sep 2026 23:09:19 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Mux: Turn Your Video Into Context</title>
       <link>https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF</link>
@@ -18,6 +39,20 @@
       <guid isPermaLink="true">https://x.com/katienotopoulos/status/2103993429659386026</guid>
       <pubDate>Sun, 27 Sep 2026 20:21:43 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Humane Interfaces</title>
+      <link>https://blog.jim-nielsen.com/2026/humane-interfaces/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/humane-interfaces/</guid>
+      <pubDate>Sun, 27 Sep 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
+    </item>
+    <item>
+      <title>Bluesky reply bot checker</title>
+      <link>https://simonwillison.net/2026/Sep/27/bluesky-bot-check/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/27/bluesky-bot-check/</guid>
+      <pubDate>Sun, 27 Sep 2026 18:41:44 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
     <item>
       <title>Combo Platter</title>
@@ -375,6 +410,13 @@
       <guid isPermaLink="true">https://developer.apple.com/app-store/user-privacy-and-data-use/</guid>
       <pubDate>Wed, 23 Sep 2026 23:41:46 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>We just shipped support for the ugliest part of HTTP: Vary</title>
+      <link>https://simonwillison.net/2026/Sep/23/hn-49823961/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/23/hn-49823961/</guid>
+      <pubDate>Wed, 23 Sep 2026 23:14:57 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
     <item>
       <title>★ The iPhone 4 ‘Antennagate’ Press Conference Q&amp;A — Finally</title>
@@ -802,48 +844,6 @@
       <guid isPermaLink="true">https://shkspr.mobi/blog/2026/09/book-review-how-to-build-a-space-station-by-jonathan-morrison/</guid>
       <pubDate>Sun, 20 Sep 2026 11:34:30 +0000</pubDate>
       <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>datasette-explain 0.2.2</title>
-      <link>https://simonwillison.net/2026/Sep/20/datasette-explain/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/20/datasette-explain/</guid>
-      <pubDate>Sun, 20 Sep 2026 00:22:04 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>System One models like Jev can train their own replacements</title>
-      <link>https://seangoedecke.com/system-one-models-can-train-their-own-replacements/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/system-one-models-can-train-their-own-replacements/</guid>
-      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>Grit your teeth and ship it</title>
-      <link>https://seangoedecke.com/grit-your-teeth-and-ship-it/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/grit-your-teeth-and-ship-it/</guid>
-      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>a new world airport and its baggage</title>
-      <link>https://computer.rip/2026-09-20-denver-baggage.html</link>
-      <guid isPermaLink="true">https://computer.rip/2026-09-20-denver-baggage.html</guid>
-      <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
-      <description>computers are bad</description>
-    </item>
-    <item>
-      <title>datasette-auth-github 1.0</title>
-      <link>https://simonwillison.net/2026/Sep/19/datasette-auth-github/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/19/datasette-auth-github/</guid>
-      <pubDate>Sat, 19 Sep 2026 19:52:02 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>California Sea Lion, Brandt's Cormorant</title>
-      <link>https://simonwillison.net/2026/Sep/19/sighting-401567341/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/19/sighting-401567341/</guid>
-      <pubDate>Sat, 19 Sep 2026 17:10:08 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
