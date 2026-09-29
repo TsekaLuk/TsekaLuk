@@ -4,7 +4,42 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 28 Sep 2026 23:07:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 05:21:30 +0000</lastBuildDate>
+    <item>
+      <title>Bastardica</title>
+      <link>https://bastardica.mitpit.com/</link>
+      <guid isPermaLink="true">https://bastardica.mitpit.com/</guid>
+      <pubDate>Tue, 29 Sep 2026 02:15:36 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>‘When Did Google Get So F-Ing Weird?’</title>
+      <link>https://sancho.bearblog.dev/google-weird/</link>
+      <guid isPermaLink="true">https://sancho.bearblog.dev/google-weird/</guid>
+      <pubDate>Tue, 29 Sep 2026 01:51:50 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Joanna Stern Pokes the Pickle</title>
+      <link>https://www.youtube.com/watch?v=YNqYEMuoQAI</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=YNqYEMuoQAI</guid>
+      <pubDate>Tue, 29 Sep 2026 01:42:00 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>‘Daniel Decodes’ Interview Craig Federighi Regarding the iPhone Duo</title>
+      <link>https://www.youtube.com/watch?v=y227RF0smAg</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=y227RF0smAg</guid>
+      <pubDate>Tue, 29 Sep 2026 01:10:48 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Why Stolen Device Protection Makes Passwords Safer</title>
+      <link>https://sixcolors.com/post/2026/09/stolen-device-protection-passwords-glenn/</link>
+      <guid isPermaLink="true">https://sixcolors.com/post/2026/09/stolen-device-protection-passwords-glenn/</guid>
+      <pubDate>Tue, 29 Sep 2026 00:43:51 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Jeremy Stern’s Profile of Mark Zuckerberg for Colossus</title>
       <link>https://colossus.com/article/mark-zuckerberg-profile/</link>
@@ -18,6 +53,13 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/</guid>
       <pubDate>Mon, 28 Sep 2026 22:07:38 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Donating to open source</title>
+      <link>https://entropicthoughts.com/open-source-donation</link>
+      <guid isPermaLink="true">https://entropicthoughts.com/open-source-donation</guid>
+      <pubDate>Mon, 28 Sep 2026 22:00:00 +0000</pubDate>
+      <description>Entropic Thoughts</description>
     </item>
     <item>
       <title>Muse, Instagram, and VLC Lookalike Rip-Offs in the Mac App Store</title>
@@ -60,6 +102,13 @@
       <guid isPermaLink="true">https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/</guid>
       <pubDate>Mon, 28 Sep 2026 15:08:57 +0000</pubDate>
       <description>Krebs on Security</description>
+    </item>
+    <item>
+      <title>C++ reminder: Function-local static variables are initialized only once, even if it looks like they get initialized multiple times</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260928-00/?p=112738/</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260928-00/?p=112738/</guid>
+      <pubDate>Mon, 28 Sep 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>The World Outside the Classroom Changed, The Class Didn’t</title>
@@ -354,13 +403,6 @@
       <guid isPermaLink="true">https://www.wheresyoured.at/premium-the-haters-guide-to-ai-debt-part-2/</guid>
       <pubDate>Fri, 25 Sep 2026 14:25:21 +0000</pubDate>
       <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>This Week on The Analog Antiquarian</title>
-      <link>https://www.filfre.net/2026/09/this-week-on-the-analog-antiquarian/</link>
-      <guid isPermaLink="true">https://www.filfre.net/2026/09/this-week-on-the-analog-antiquarian/</guid>
-      <pubDate>Fri, 25 Sep 2026 14:02:16 +0000</pubDate>
-      <description>The Digital Antiquarian</description>
     </item>
     <item>
       <title>Debugging walkthrough: Access violation on nonsense instruction, episode 3</title>
@@ -802,48 +844,6 @@
       <guid isPermaLink="true">https://entropicthoughts.com/cheaper-llm-labeling</guid>
       <pubDate>Mon, 21 Sep 2026 22:00:00 +0000</pubDate>
       <description>Entropic Thoughts</description>
-    </item>
-    <item>
-      <title>GM Confirms They’re Still Smoking Crack</title>
-      <link>https://x.com/JoannaStern/status/2102105565195288859</link>
-      <guid isPermaLink="true">https://x.com/JoannaStern/status/2102105565195288859</guid>
-      <pubDate>Mon, 21 Sep 2026 21:52:50 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>America’s Decline Can Be Measured by the Names of Ballparks and Arenas</title>
-      <link>https://www.mlb.com/news/tigers-ballpark-name-changed-to-fifth-third-park</link>
-      <guid isPermaLink="true">https://www.mlb.com/news/tigers-ballpark-name-changed-to-fifth-third-park</guid>
-      <pubDate>Mon, 21 Sep 2026 21:23:01 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>A Great Story Capturing the Essence of Being Online in 2026</title>
-      <link>https://blog.jim-nielsen.com/2026/online-in-2026/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/online-in-2026/</guid>
-      <pubDate>Mon, 21 Sep 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
-      <title>Ichiro, at 52, Throws 127-Pitch Shutout Against All-Star Girls Team in Japan</title>
-      <link>https://www.seattletimes.com/sports/mariners/ichiro-at-52-throws-127-pitch-shutout-against-all-star-girls-team-in-japan/</link>
-      <guid isPermaLink="true">https://www.seattletimes.com/sports/mariners/ichiro-at-52-throws-127-pitch-shutout-against-all-star-girls-team-in-japan/</guid>
-      <pubDate>Mon, 21 Sep 2026 17:37:16 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Glenn Fleishman on the Increasing Impracticality of Shipping From the U.S. to the E.U.</title>
-      <link>https://glog.glennf.com/blog/2026/09/17/u-s-small-biz-cant-ship-to-the-eu-anymore/</link>
-      <guid isPermaLink="true">https://glog.glennf.com/blog/2026/09/17/u-s-small-biz-cant-ship-to-the-eu-anymore/</guid>
-      <pubDate>Mon, 21 Sep 2026 17:31:58 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>David Pogue: ‘125 Tests of the New AI Siri’</title>
-      <link>https://pogueman.substack.com/p/125-tests-of-the-new-ai-siri</link>
-      <guid isPermaLink="true">https://pogueman.substack.com/p/125-tests-of-the-new-ai-siri</guid>
-      <pubDate>Mon, 21 Sep 2026 17:20:56 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>

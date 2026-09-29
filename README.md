@@ -208,11 +208,11 @@ Last Updated: Tuesday, September 29th, 2026, 11:45:46 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Jeremy Stern’s Profile of Mark Zuckerberg for Colossus](https://colossus.com/article/mark-zuckerberg-profile/) — *Daring Fireball* `09-28`
-- [Claude Sonnet 5.5](https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/) — *Simon Willison's Weblog* `09-28`
-- [Muse, Instagram, and VLC Lookalike Rip-Offs in the Mac App Store](https://lapcatsoftware.com/articles/2026/9/8.html) — *Daring Fireball* `09-28`
-- [Quoting @joedaroo](https://simonwillison.net/2026/Sep/28/joedaroo/) — *Simon Willison's Weblog* `09-28`
-- [★ Spitballing Predictions for Apple’s October](https://daringfireball.net/2026/09/spitballing_predictions_for_apples_october) — *Daring Fireball* `09-28`
+- [Bastardica](https://bastardica.mitpit.com/) — *Daring Fireball* `09-29`
+- [‘When Did Google Get So F-Ing Weird?’](https://sancho.bearblog.dev/google-weird/) — *Daring Fireball* `09-29`
+- [Joanna Stern Pokes the Pickle](https://www.youtube.com/watch?v=YNqYEMuoQAI) — *Daring Fireball* `09-29`
+- [‘Daniel Decodes’ Interview Craig Federighi Regarding the iPhone Duo](https://www.youtube.com/watch?v=y227RF0smAg) — *Daring Fireball* `09-29`
+- [Why Stolen Device Protection Makes Passwords Safer](https://sixcolors.com/post/2026/09/stolen-device-protection-passwords-glenn/) — *Daring Fireball* `09-29`
 <!--BLOG_RADAR:end-->
 
 ---
