@@ -208,11 +208,11 @@ Last Updated: Wednesday, September 30th, 2026, 5:45:28 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Bastardica](https://bastardica.mitpit.com/) — *Daring Fireball* `09-29`
-- [‘When Did Google Get So F-Ing Weird?’](https://sancho.bearblog.dev/google-weird/) — *Daring Fireball* `09-29`
-- [Joanna Stern Pokes the Pickle](https://www.youtube.com/watch?v=YNqYEMuoQAI) — *Daring Fireball* `09-29`
-- [‘Daniel Decodes’ Interview Craig Federighi Regarding the iPhone Duo](https://www.youtube.com/watch?v=y227RF0smAg) — *Daring Fireball* `09-29`
-- [Why Stolen Device Protection Makes Passwords Safer](https://sixcolors.com/post/2026/09/stolen-device-protection-passwords-glenn/) — *Daring Fireball* `09-29`
+- [VLM Enhanced Metadata For My Icon Galleries](https://blog.jim-nielsen.com/2026/icon-galleries-vlm/) — *Jim Nielsen’s Blog* `09-29`
+- [OpenAI DevDay 2026 live blog](https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/) — *Simon Willison's Weblog* `09-29`
+- [Dead Money](https://www.wheresyoured.at/dead-money/) — *Ed Zitron's Where's Your Ed At* `09-29`
+- [Follow-Up on my Spitballed Predictions for Apple’s October](https://daringfireball.net/2026/09/spitballing_predictions_for_apples_october) — *Daring Fireball* `09-29`
+- [Destroy Any Website](https://destroy.spritefusion.com/) — *Daring Fireball* `09-29`
 <!--BLOG_RADAR:end-->
 
 ---
