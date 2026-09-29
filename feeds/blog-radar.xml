@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 29 Sep 2026 05:21:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 12:34:14 +0000</lastBuildDate>
     <item>
       <title>Bastardica</title>
       <link>https://bastardica.mitpit.com/</link>
@@ -95,6 +95,13 @@
       <guid isPermaLink="true">https://x.com/viditb/status/2104103592726765722</guid>
       <pubDate>Mon, 28 Sep 2026 16:35:02 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Post Capitalism</title>
+      <link>https://geohot.github.io//blog/jekyll/update/2026/09/29/post-capitalism.html</link>
+      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/09/29/post-capitalism.html</guid>
+      <pubDate>Mon, 28 Sep 2026 16:00:00 +0000</pubDate>
+      <description>the singularity is nearer</description>
     </item>
     <item>
       <title>Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation</title>
@@ -403,6 +410,13 @@
       <guid isPermaLink="true">https://www.wheresyoured.at/premium-the-haters-guide-to-ai-debt-part-2/</guid>
       <pubDate>Fri, 25 Sep 2026 14:25:21 +0000</pubDate>
       <description>Ed Zitron's Where's Your Ed At</description>
+    </item>
+    <item>
+      <title>This Week on The Analog Antiquarian</title>
+      <link>https://www.filfre.net/2026/09/this-week-on-the-analog-antiquarian/</link>
+      <guid isPermaLink="true">https://www.filfre.net/2026/09/this-week-on-the-analog-antiquarian/</guid>
+      <pubDate>Fri, 25 Sep 2026 14:02:16 +0000</pubDate>
+      <description>The Digital Antiquarian</description>
     </item>
     <item>
       <title>Debugging walkthrough: Access violation on nonsense instruction, episode 3</title>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://lexontech.org/strategery-is-back-and-im-the-developer</guid>
       <pubDate>Mon, 21 Sep 2026 22:52:44 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Cloudflare Python Workers are now generally available</title>
-      <link>https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/</guid>
-      <pubDate>Mon, 21 Sep 2026 22:25:44 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Cheaper LLM labelling</title>
-      <link>https://entropicthoughts.com/cheaper-llm-labeling</link>
-      <guid isPermaLink="true">https://entropicthoughts.com/cheaper-llm-labeling</guid>
-      <pubDate>Mon, 21 Sep 2026 22:00:00 +0000</pubDate>
-      <description>Entropic Thoughts</description>
     </item>
   </channel>
 </rss>
