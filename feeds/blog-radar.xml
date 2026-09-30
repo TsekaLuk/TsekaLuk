@@ -4,7 +4,56 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 30 Sep 2026 12:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 22:06:32 +0000</lastBuildDate>
+    <item>
+      <title>He Built This City</title>
+      <link>https://simonwillison.net/2026/Sep/30/he-built-this-city/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/30/he-built-this-city/</guid>
+      <pubDate>Wed, 30 Sep 2026 21:54:19 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>[Sponsor] WorkOS: How SSO Works and the Fastest Way to Add It</title>
+      <link>https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</link>
+      <guid isPermaLink="true">https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</guid>
+      <pubDate>Wed, 30 Sep 2026 20:17:32 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Gurman Reports Apple Is Launching New ‘Smart Home’ Products on October 13</title>
+      <link>https://www.bloomberg.com/news/articles/2026-09-30/apple-is-finally-ready-to-enter-its-next-big-category-the-smart-home?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDc3MDk0MywiZXhwIjoxNzkxMzc1NzQzLCJhcnRpY2xlSWQiOiJUTTM0SDRUOTZPU0cwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.11wEtJfuMwCkznTkepXugZ2wuZTmxO9CdsNJLAcBd1M</link>
+      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-09-30/apple-is-finally-ready-to-enter-its-next-big-category-the-smart-home?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDc3MDk0MywiZXhwIjoxNzkxMzc1NzQzLCJhcnRpY2xlSWQiOiJUTTM0SDRUOTZPU0cwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.11wEtJfuMwCkznTkepXugZ2wuZTmxO9CdsNJLAcBd1M</guid>
+      <pubDate>Wed, 30 Sep 2026 20:14:31 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Anthropic’s IPO Prospectus Is a Fucking Doozy</title>
+      <link>https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/</link>
+      <guid isPermaLink="true">https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/</guid>
+      <pubDate>Wed, 30 Sep 2026 19:23:42 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Dear Software Makers</title>
+      <link>https://blog.jim-nielsen.com/2026/dear-software-makers/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/dear-software-makers/</guid>
+      <pubDate>Wed, 30 Sep 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
+    </item>
+    <item>
+      <title>What TLA+ can and can't check</title>
+      <link>https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/</link>
+      <guid isPermaLink="true">https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/</guid>
+      <pubDate>Wed, 30 Sep 2026 13:27:03 +0000</pubDate>
+      <description>Computer Things</description>
+    </item>
+    <item>
+      <title>Lean LaunchPad – The Next Generation</title>
+      <link>https://steveblank.com/2026/09/30/lean-launchpad-the-next-generation/</link>
+      <guid isPermaLink="true">https://steveblank.com/2026/09/30/lean-launchpad-the-next-generation/</guid>
+      <pubDate>Wed, 30 Sep 2026 13:00:28 +0000</pubDate>
+      <description>Steve Blank</description>
+    </item>
     <item>
       <title>Are you a smartwatch "power user"?</title>
       <link>https://shkspr.mobi/blog/2026/09/are-you-a-smartwatch-power-user/</link>
@@ -45,6 +94,13 @@
       <link>https://simonwillison.net/2026/Sep/29/hn-49898129/</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Sep/29/hn-49898129/</guid>
       <pubDate>Tue, 29 Sep 2026 18:27:48 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Photo Scrubber — local face blur &amp; metadata removal</title>
+      <link>https://simonwillison.net/2026/Sep/29/photo-scrubber/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/29/photo-scrubber/</guid>
+      <pubDate>Tue, 29 Sep 2026 16:45:27 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
@@ -788,62 +844,6 @@
       <guid isPermaLink="true">https://thedieline.com/jessica-hische-metas-muse-and-the-ethical-landmines-of-design/</guid>
       <pubDate>Tue, 22 Sep 2026 22:51:09 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Meta’s New Muse AI Agent Read Jason Aten’s Messages Database</title>
-      <link>https://www.inc.com/jason-aten/metas-new-muse-ai-agent-read-my-private-messages-i-never-asked-it-to/91408202</link>
-      <guid isPermaLink="true">https://www.inc.com/jason-aten/metas-new-muse-ai-agent-read-my-private-messages-i-never-asked-it-to/91408202</guid>
-      <pubDate>Tue, 22 Sep 2026 21:26:24 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Why Didn’t Google Build Muse?</title>
-      <link>https://spyglass.org/why-didnt-google-build-muse/</link>
-      <guid isPermaLink="true">https://spyglass.org/why-didnt-google-build-muse/</guid>
-      <pubDate>Tue, 22 Sep 2026 20:51:12 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Amazon Blocks Meta’s Muse AI Assistant</title>
-      <link>https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/</link>
-      <guid isPermaLink="true">https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-new-standoff-over-agentic-shopping/</guid>
-      <pubDate>Tue, 22 Sep 2026 20:43:32 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Meta’s New Muse AI Agent App Overtakes ChatGPT as Top iPhone App</title>
-      <link>https://9to5mac.com/2026/09/18/metas-new-muse-ai-agent-app-overtakes-chatgpt-as-top-iphone-app/</link>
-      <guid isPermaLink="true">https://9to5mac.com/2026/09/18/metas-new-muse-ai-agent-app-overtakes-chatgpt-as-top-iphone-app/</guid>
-      <pubDate>Tue, 22 Sep 2026 20:12:41 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Xcode 27.2 Now Supports a New JSON Project File Format</title>
-      <link>https://developer.apple.com/documentation/xcode-release-notes/xcode-27_2-release-notes</link>
-      <guid isPermaLink="true">https://developer.apple.com/documentation/xcode-release-notes/xcode-27_2-release-notes</guid>
-      <pubDate>Tue, 22 Sep 2026 19:25:52 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>llm 0.36</title>
-      <link>https://simonwillison.net/2026/Sep/22/llm/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/22/llm/</guid>
-      <pubDate>Tue, 22 Sep 2026 18:48:37 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Quoting @therealcornpop</title>
-      <link>https://simonwillison.net/2026/Sep/22/therealcornpop/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/22/therealcornpop/</guid>
-      <pubDate>Tue, 22 Sep 2026 18:03:21 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>llm-anthropic 0.29</title>
-      <link>https://simonwillison.net/2026/Sep/22/llm-anthropic/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/22/llm-anthropic/</guid>
-      <pubDate>Tue, 22 Sep 2026 17:14:55 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>

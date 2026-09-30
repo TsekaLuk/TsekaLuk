@@ -208,11 +208,11 @@ Last Updated: Thursday, October 1st, 2026, 5:46:02 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Are you a smartwatch "power user"?](https://shkspr.mobi/blog/2026/09/are-you-a-smartwatch-power-user/) — *Terence Eden’s Blog* `09-30`
-- [Gratis digitale autonomie, zonder digitale dienst: doe er wat aan!](https://berthub.eu/articles/posts/gratis-digitale-wendbaarheid-en-autonomie/) — *Bert Hubert's writings* `09-30`
-- [Notes from September 2026](https://evanhahn.com/notes-from-september-2026/) — *Evan Hahn (dot com)* `09-30`
-- [Quoting Anthropic Frontier Red Team](https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/) — *Simon Willison's Weblog* `09-29`
-- [VLM Enhanced Metadata For My Icon Galleries](https://blog.jim-nielsen.com/2026/icon-galleries-vlm/) — *Jim Nielsen’s Blog* `09-29`
+- [He Built This City](https://simonwillison.net/2026/Sep/30/he-built-this-city/) — *Simon Willison's Weblog* `09-30`
+- [[Sponsor] WorkOS: How SSO Works and the Fastest Way to Add It](https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026) — *Daring Fireball* `09-30`
+- [Gurman Reports Apple Is Launching New ‘Smart Home’ Products on October 13](https://www.bloomberg.com/news/articles/2026-09-30/apple-is-finally-ready-to-enter-its-next-big-category-the-smart-home?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDc3MDk0MywiZXhwIjoxNzkxMzc1NzQzLCJhcnRpY2xlSWQiOiJUTTM0SDRUOTZPU0cwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.11wEtJfuMwCkznTkepXugZ2wuZTmxO9CdsNJLAcBd1M) — *Daring Fireball* `09-30`
+- [Anthropic’s IPO Prospectus Is a Fucking Doozy](https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/) — *Daring Fireball* `09-30`
+- [Dear Software Makers](https://blog.jim-nielsen.com/2026/dear-software-makers/) — *Jim Nielsen’s Blog* `09-30`
 <!--BLOG_RADAR:end-->
 
 ---
