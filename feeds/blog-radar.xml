@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 30 Sep 2026 05:09:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 12:20:03 +0000</lastBuildDate>
+    <item>
+      <title>Are you a smartwatch "power user"?</title>
+      <link>https://shkspr.mobi/blog/2026/09/are-you-a-smartwatch-power-user/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/09/are-you-a-smartwatch-power-user/</guid>
+      <pubDate>Wed, 30 Sep 2026 11:34:26 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Gratis digitale autonomie, zonder digitale dienst: doe er wat aan!</title>
+      <link>https://berthub.eu/articles/posts/gratis-digitale-wendbaarheid-en-autonomie/</link>
+      <guid isPermaLink="true">https://berthub.eu/articles/posts/gratis-digitale-wendbaarheid-en-autonomie/</guid>
+      <pubDate>Wed, 30 Sep 2026 07:00:00 +0000</pubDate>
+      <description>Bert Hubert's writings</description>
+    </item>
+    <item>
+      <title>Notes from September 2026</title>
+      <link>https://evanhahn.com/notes-from-september-2026/</link>
+      <guid isPermaLink="true">https://evanhahn.com/notes-from-september-2026/</guid>
+      <pubDate>Wed, 30 Sep 2026 06:00:00 +0000</pubDate>
+      <description>Evan Hahn (dot com)</description>
+    </item>
     <item>
       <title>Quoting Anthropic Frontier Red Team</title>
       <link>https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/</link>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Sep/22/llm-anthropic/</guid>
       <pubDate>Tue, 22 Sep 2026 17:14:55 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>llm-typesafe 0.1a0</title>
-      <link>https://simonwillison.net/2026/Sep/22/llm-typesafe/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/22/llm-typesafe/</guid>
-      <pubDate>Tue, 22 Sep 2026 15:54:16 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Where're All The AI Chips?</title>
-      <link>https://www.wheresyoured.at/wherere-all-the-ai-chips/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/wherere-all-the-ai-chips/</guid>
-      <pubDate>Tue, 22 Sep 2026 14:35:46 +0000</pubDate>
-      <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>Nathaniel Bowditch</title>
-      <link>https://www.johndcook.com/blog/2026/09/22/nathaniel-bowditch/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/09/22/nathaniel-bowditch/</guid>
-      <pubDate>Tue, 22 Sep 2026 14:01:30 +0000</pubDate>
-      <description>John D. Cook</description>
     </item>
   </channel>
 </rss>

@@ -208,11 +208,11 @@ Last Updated: Wednesday, September 30th, 2026, 7:46:01 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Are you a smartwatch "power user"?](https://shkspr.mobi/blog/2026/09/are-you-a-smartwatch-power-user/) — *Terence Eden’s Blog* `09-30`
+- [Gratis digitale autonomie, zonder digitale dienst: doe er wat aan!](https://berthub.eu/articles/posts/gratis-digitale-wendbaarheid-en-autonomie/) — *Bert Hubert's writings* `09-30`
+- [Notes from September 2026](https://evanhahn.com/notes-from-september-2026/) — *Evan Hahn (dot com)* `09-30`
 - [Quoting Anthropic Frontier Red Team](https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/) — *Simon Willison's Weblog* `09-29`
 - [VLM Enhanced Metadata For My Icon Galleries](https://blog.jim-nielsen.com/2026/icon-galleries-vlm/) — *Jim Nielsen’s Blog* `09-29`
-- [GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price](https://simonwillison.net/2026/Sep/29/hn-49898129/) — *Simon Willison's Weblog* `09-29`
-- [OpenAI DevDay 2026 live blog](https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/) — *Simon Willison's Weblog* `09-29`
-- [Dead Money](https://www.wheresyoured.at/dead-money/) — *Ed Zitron's Where's Your Ed At* `09-29`
 <!--BLOG_RADAR:end-->
 
 ---
