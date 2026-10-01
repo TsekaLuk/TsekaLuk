@@ -4,7 +4,42 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 01 Oct 2026 05:24:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 12:54:56 +0000</lastBuildDate>
+    <item>
+      <title>Understanding the AI That Drives Robots</title>
+      <link>https://www.construction-physics.com/p/understanding-the-ai-that-drives</link>
+      <guid isPermaLink="true">https://www.construction-physics.com/p/understanding-the-ai-that-drives</guid>
+      <pubDate>Thu, 01 Oct 2026 12:04:36 +0000</pubDate>
+      <description>Construction Physics</description>
+    </item>
+    <item>
+      <title>Software Heritage Identifiers</title>
+      <link>https://nesbitt.io/2026/10/01/software-heritage-identifiers.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/10/01/software-heritage-identifiers.html</guid>
+      <pubDate>Thu, 01 Oct 2026 11:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>Death of the Dinner Party</title>
+      <link>https://www.theatlantic.com/ideas/2026/10/americans-socialization-dinner-decline-hosting/688846/?utm_source=feed</link>
+      <guid isPermaLink="true">https://www.theatlantic.com/ideas/2026/10/americans-socialization-dinner-decline-hosting/688846/?utm_source=feed</guid>
+      <pubDate>Thu, 01 Oct 2026 11:00:00 +0000</pubDate>
+      <description>Derek Thompson | The Atlantic</description>
+    </item>
+    <item>
+      <title>Quoting Matthew Green</title>
+      <link>https://simonwillison.net/2026/Oct/1/matthew-green/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/1/matthew-green/</guid>
+      <pubDate>Thu, 01 Oct 2026 06:29:01 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Summary of reading: July - September 2026</title>
+      <link>https://eli.thegreenplace.net/2026/summary-of-reading-july-september-2026/</link>
+      <guid isPermaLink="true">https://eli.thegreenplace.net/2026/summary-of-reading-july-september-2026/</guid>
+      <pubDate>Thu, 01 Oct 2026 00:05:00 +0000</pubDate>
+      <description>Eli Bendersky's website</description>
+    </item>
     <item>
       <title>He Built This City</title>
       <link>https://simonwillison.net/2026/Sep/30/he-built-this-city/</link>
@@ -809,41 +844,6 @@
       <guid isPermaLink="true">https://bsky.app/profile/atrupar.com/post/3mw4it5l5fd23</guid>
       <pubDate>Wed, 23 Sep 2026 14:22:09 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Navigation with only addition, subtraction, and tables</title>
-      <link>https://www.johndcook.com/blog/2026/09/23/navigation-minimum/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/09/23/navigation-minimum/</guid>
-      <pubDate>Wed, 23 Sep 2026 14:11:52 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>When working with Win32 FILETIME, don’t forget that you have std::chrono now</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260923-00/?p=112726/</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260923-00/?p=112726/</guid>
-      <pubDate>Wed, 23 Sep 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>The Year AI Came For Us: Teaching Entrepreneurship Will Never Be The Same</title>
-      <link>https://steveblank.com/2026/09/23/the-year-ai-came-for-us-teaching-entrepreneurship-will-never-be-the-same/</link>
-      <guid isPermaLink="true">https://steveblank.com/2026/09/23/the-year-ai-came-for-us-teaching-entrepreneurship-will-never-be-the-same/</guid>
-      <pubDate>Wed, 23 Sep 2026 13:00:12 +0000</pubDate>
-      <description>Steve Blank</description>
-    </item>
-    <item>
-      <title>Weekly Update 522: Live From Oslo with Scott Helme</title>
-      <link>https://www.troyhunt.com/weekly-update-522/</link>
-      <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-522/</guid>
-      <pubDate>Wed, 23 Sep 2026 05:18:34 +0000</pubDate>
-      <description>Troy Hunt</description>
-    </item>
-    <item>
-      <title>SF October 14th: A Birds of a Feather Session on Agentic Engineering</title>
-      <link>https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/</guid>
-      <pubDate>Wed, 23 Sep 2026 02:53:19 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
