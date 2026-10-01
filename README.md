@@ -208,11 +208,11 @@ Last Updated: Friday, October 2nd, 2026, 6:13:56 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Why do OpenAI's GPT-2 weights beat mine? Part five: data quality](https://www.gilesthomas.com/2026/10/why-do-openai-gpt2-weights-beat-mine-5-data-quality) — *Giles' blog* `10-01`
+- [Pluralistic: Voting is to politics as shopping is to boycotts (01 Oct 2026)](https://pluralistic.net/2026/10/01/data-centers/) — *Pluralistic: Daily links from Cory Doctorow* `10-01`
+- [Si Sheppard – How did a few hundred Spanish soldiers topple two empires?](https://www.dwarkesh.com/p/si-sheppard) — *Dwarkesh Podcast* `10-01`
 - [Understanding the AI That Drives Robots](https://www.construction-physics.com/p/understanding-the-ai-that-drives) — *Construction Physics* `10-01`
-- [Software Heritage Identifiers](https://nesbitt.io/2026/10/01/software-heritage-identifiers.html) — *Andrew Nesbitt* `10-01`
-- [Death of the Dinner Party](https://www.theatlantic.com/ideas/2026/10/americans-socialization-dinner-decline-hosting/688846/?utm_source=feed) — *Derek Thompson | The Atlantic* `10-01`
-- [Quoting Matthew Green](https://simonwillison.net/2026/Oct/1/matthew-green/) — *Simon Willison's Weblog* `10-01`
-- [Summary of reading: July - September 2026](https://eli.thegreenplace.net/2026/summary-of-reading-july-september-2026/) — *Eli Bendersky's website* `10-01`
+- [Why Americans Stopped Throwing Dinner Parties](https://www.theatlantic.com/ideas/2026/10/americans-socialization-dinner-decline-hosting/688846/?utm_source=feed) — *Derek Thompson | The Atlantic* `10-01`
 <!--BLOG_RADAR:end-->
 
 ---

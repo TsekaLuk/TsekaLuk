@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 01 Oct 2026 12:54:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 22:33:32 +0000</lastBuildDate>
+    <item>
+      <title>Why do OpenAI's GPT-2 weights beat mine? Part five: data quality</title>
+      <link>https://www.gilesthomas.com/2026/10/why-do-openai-gpt2-weights-beat-mine-5-data-quality</link>
+      <guid isPermaLink="true">https://www.gilesthomas.com/2026/10/why-do-openai-gpt2-weights-beat-mine-5-data-quality</guid>
+      <pubDate>Thu, 01 Oct 2026 17:30:00 +0000</pubDate>
+      <description>Giles' blog</description>
+    </item>
+    <item>
+      <title>Pluralistic: Voting is to politics as shopping is to boycotts (01 Oct 2026)</title>
+      <link>https://pluralistic.net/2026/10/01/data-centers/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/10/01/data-centers/</guid>
+      <pubDate>Thu, 01 Oct 2026 17:22:48 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Si Sheppard – How did a few hundred Spanish soldiers topple two empires?</title>
+      <link>https://www.dwarkesh.com/p/si-sheppard</link>
+      <guid isPermaLink="true">https://www.dwarkesh.com/p/si-sheppard</guid>
+      <pubDate>Thu, 01 Oct 2026 15:28:28 +0000</pubDate>
+      <description>Dwarkesh Podcast</description>
+    </item>
     <item>
       <title>Understanding the AI That Drives Robots</title>
       <link>https://www.construction-physics.com/p/understanding-the-ai-that-drives</link>
@@ -13,18 +34,18 @@
       <description>Construction Physics</description>
     </item>
     <item>
+      <title>Why Americans Stopped Throwing Dinner Parties</title>
+      <link>https://www.theatlantic.com/ideas/2026/10/americans-socialization-dinner-decline-hosting/688846/?utm_source=feed</link>
+      <guid isPermaLink="true">https://www.theatlantic.com/ideas/2026/10/americans-socialization-dinner-decline-hosting/688846/?utm_source=feed</guid>
+      <pubDate>Thu, 01 Oct 2026 11:00:00 +0000</pubDate>
+      <description>Derek Thompson | The Atlantic</description>
+    </item>
+    <item>
       <title>Software Heritage Identifiers</title>
       <link>https://nesbitt.io/2026/10/01/software-heritage-identifiers.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/10/01/software-heritage-identifiers.html</guid>
       <pubDate>Thu, 01 Oct 2026 11:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Death of the Dinner Party</title>
-      <link>https://www.theatlantic.com/ideas/2026/10/americans-socialization-dinner-decline-hosting/688846/?utm_source=feed</link>
-      <guid isPermaLink="true">https://www.theatlantic.com/ideas/2026/10/americans-socialization-dinner-decline-hosting/688846/?utm_source=feed</guid>
-      <pubDate>Thu, 01 Oct 2026 11:00:00 +0000</pubDate>
-      <description>Derek Thompson | The Atlantic</description>
     </item>
     <item>
       <title>Quoting Matthew Green</title>
@@ -244,18 +265,18 @@
       <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
-      <title>The Facebook Fake-out</title>
-      <link>https://anildash.com/2026/09/29/facebook-fake-out/</link>
-      <guid isPermaLink="true">https://anildash.com/2026/09/29/facebook-fake-out/</guid>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Anil Dash</description>
-    </item>
-    <item>
       <title>The AI margin collapse is gathering pace</title>
       <link>https://martinalderson.com/posts/ai-margin-collapse-gathering-pace/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
       <guid isPermaLink="true">https://martinalderson.com/posts/ai-margin-collapse-gathering-pace/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
       <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
       <description>Martin Alderson</description>
+    </item>
+    <item>
+      <title>The Facebook Fake-out</title>
+      <link>https://anildash.com/2026/09/29/facebook-fake-out/</link>
+      <guid isPermaLink="true">https://anildash.com/2026/09/29/facebook-fake-out/</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Anil Dash</description>
     </item>
     <item>
       <title>Jeremy Stern’s Profile of Mark Zuckerberg for Colossus</title>
@@ -822,27 +843,6 @@
       <link>https://daringfireball.net/2026/09/appzapper_3000</link>
       <guid isPermaLink="true">https://daringfireball.net/2026/09/appzapper_3000</guid>
       <pubDate>Wed, 23 Sep 2026 17:31:23 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Gemini 3.8 TTS Playground</title>
-      <link>https://simonwillison.net/2026/Sep/23/gemini-tts-playground/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/23/gemini-tts-playground/</guid>
-      <pubDate>Wed, 23 Sep 2026 17:12:27 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Shadow roots, explained with live examples</title>
-      <link>https://simonwillison.net/2026/Sep/23/shadow-roots/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/23/shadow-roots/</guid>
-      <pubDate>Wed, 23 Sep 2026 16:37:18 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Super Intelligence, Indeed</title>
-      <link>https://bsky.app/profile/atrupar.com/post/3mw4it5l5fd23</link>
-      <guid isPermaLink="true">https://bsky.app/profile/atrupar.com/post/3mw4it5l5fd23</guid>
-      <pubDate>Wed, 23 Sep 2026 14:22:09 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
   </channel>
