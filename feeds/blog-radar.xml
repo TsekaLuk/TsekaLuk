@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 30 Sep 2026 22:06:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 05:24:06 +0000</lastBuildDate>
     <item>
       <title>He Built This City</title>
       <link>https://simonwillison.net/2026/Sep/30/he-built-this-city/</link>
@@ -39,6 +39,20 @@
       <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/dear-software-makers/</guid>
       <pubDate>Wed, 30 Sep 2026 19:00:00 +0000</pubDate>
       <description>Jim Nielsen’s Blog</description>
+    </item>
+    <item>
+      <title>Why do you need freedom?</title>
+      <link>https://geohot.github.io//blog/jekyll/update/2026/10/01/why-do-you-need-freedom.html</link>
+      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/10/01/why-do-you-need-freedom.html</guid>
+      <pubDate>Wed, 30 Sep 2026 16:00:00 +0000</pubDate>
+      <description>the singularity is nearer</description>
+    </item>
+    <item>
+      <title>Windows on AArch64 also provides for hot-patching, but it’s much simpler than on x86</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260930-00/?p=112744/</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260930-00/?p=112744/</guid>
+      <pubDate>Wed, 30 Sep 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>What TLA+ can and can't check</title>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/</guid>
       <pubDate>Wed, 23 Sep 2026 02:53:19 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war</title>
-      <link>https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/</guid>
-      <pubDate>Tue, 22 Sep 2026 23:46:41 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Meta’s Muse Logomark, Designed by Jessica Hische</title>
-      <link>https://thedieline.com/jessica-hische-metas-muse-and-the-ethical-landmines-of-design/</link>
-      <guid isPermaLink="true">https://thedieline.com/jessica-hische-metas-muse-and-the-ethical-landmines-of-design/</guid>
-      <pubDate>Tue, 22 Sep 2026 22:51:09 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
