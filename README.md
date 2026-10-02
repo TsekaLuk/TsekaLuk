@@ -208,11 +208,11 @@ Last Updated: Saturday, October 3rd, 2026, 5:42:40 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [★ Apple Is Going to Further Tighten the Screws on Full Disk Access on MacOS, in Response to Agentic AI Apps Running Amok](https://daringfireball.net/2026/10/apple_full_disk_access) — *Daring Fireball* `10-02`
+- [Premium: How Has AI Changed The Economy?](https://www.wheresyoured.at/premium-how-has-ai-changed-the-economy/) — *Ed Zitron's Where's Your Ed At* `10-02`
+- [The Brain Sandwich](https://terriblesoftware.org/2026/10/02/the-brain-sandwich/) — *Terrible Software* `10-02`
 - [Gadget Review: Una Watch ★★★★☆](https://shkspr.mobi/blog/2026/10/gadget-review-una-watch/) — *Terence Eden’s Blog* `10-02`
 - [Make tmux the OS](https://matduggan.com/what-does-my-dream-os-ui-look-like/) — *matduggan.com* `10-02`
-- [Digitale autonomie in het kort bij KIVI, STT en NAE](https://berthub.eu/articles/posts/praatje-kivi-stt-nae/) — *Bert Hubert's writings* `10-02`
-- [Yankees Sweep Boston in Two Games, by Combined Score of 18-2](https://www.nytimes.com/athletic/7648172/2026/09/30/yankees-beat-red-sox-mlb-wild-card-series/) — *Daring Fireball* `10-02`
-- [Do not build the LLM torture factory](https://seangoedecke.com/do-not-build-the-llm-torture-factory/) — *seangoedecke.com RSS feed* `10-02`
 <!--BLOG_RADAR:end-->
 
 ---

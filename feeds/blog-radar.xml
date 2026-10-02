@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 02 Oct 2026 12:17:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 22:02:53 +0000</lastBuildDate>
+    <item>
+      <title>★ Apple Is Going to Further Tighten the Screws on Full Disk Access on MacOS, in Response to Agentic AI Apps Running Amok</title>
+      <link>https://daringfireball.net/2026/10/apple_full_disk_access</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/10/apple_full_disk_access</guid>
+      <pubDate>Fri, 02 Oct 2026 20:40:15 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Premium: How Has AI Changed The Economy?</title>
+      <link>https://www.wheresyoured.at/premium-how-has-ai-changed-the-economy/</link>
+      <guid isPermaLink="true">https://www.wheresyoured.at/premium-how-has-ai-changed-the-economy/</guid>
+      <pubDate>Fri, 02 Oct 2026 18:46:35 +0000</pubDate>
+      <description>Ed Zitron's Where's Your Ed At</description>
+    </item>
+    <item>
+      <title>The Brain Sandwich</title>
+      <link>https://terriblesoftware.org/2026/10/02/the-brain-sandwich/</link>
+      <guid isPermaLink="true">https://terriblesoftware.org/2026/10/02/the-brain-sandwich/</guid>
+      <pubDate>Fri, 02 Oct 2026 14:00:14 +0000</pubDate>
+      <description>Terrible Software</description>
+    </item>
     <item>
       <title>Gadget Review: Una Watch ★★★★☆</title>
       <link>https://shkspr.mobi/blog/2026/10/gadget-review-una-watch/</link>
@@ -76,18 +97,18 @@
       <description>Construction Physics</description>
     </item>
     <item>
-      <title>Software Heritage Identifiers</title>
-      <link>https://nesbitt.io/2026/10/01/software-heritage-identifiers.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/10/01/software-heritage-identifiers.html</guid>
-      <pubDate>Thu, 01 Oct 2026 11:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
       <title>Why Americans Stopped Throwing Dinner Parties</title>
       <link>https://www.theatlantic.com/ideas/2026/10/americans-socialization-dinner-decline-hosting/688846/?utm_source=feed</link>
       <guid isPermaLink="true">https://www.theatlantic.com/ideas/2026/10/americans-socialization-dinner-decline-hosting/688846/?utm_source=feed</guid>
       <pubDate>Thu, 01 Oct 2026 11:00:00 +0000</pubDate>
       <description>Derek Thompson | The Atlantic</description>
+    </item>
+    <item>
+      <title>Software Heritage Identifiers</title>
+      <link>https://nesbitt.io/2026/10/01/software-heritage-identifiers.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/10/01/software-heritage-identifiers.html</guid>
+      <pubDate>Thu, 01 Oct 2026 11:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
     </item>
     <item>
       <title>Quoting Matthew Green</title>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/09/24/package-manager-sandboxing.html</guid>
       <pubDate>Thu, 24 Sep 2026 09:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Why is the human body so crap except for the liver?</title>
-      <link>https://dynomight.net/liver/</link>
-      <guid isPermaLink="true">https://dynomight.net/liver/</guid>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
-    </item>
-    <item>
-      <title>Changes to App Tracking Transparency in the E.U.</title>
-      <link>https://developer.apple.com/app-store/user-privacy-and-data-use/</link>
-      <guid isPermaLink="true">https://developer.apple.com/app-store/user-privacy-and-data-use/</guid>
-      <pubDate>Wed, 23 Sep 2026 23:41:46 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>We just shipped support for the ugliest part of HTTP: Vary</title>
-      <link>https://simonwillison.net/2026/Sep/23/hn-49823961/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/23/hn-49823961/</guid>
-      <pubDate>Wed, 23 Sep 2026 23:14:57 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
