@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 01 Oct 2026 22:33:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 05:12:03 +0000</lastBuildDate>
+    <item>
+      <title>Yankees Sweep Boston in Two Games, by Combined Score of 18-2</title>
+      <link>https://www.nytimes.com/athletic/7648172/2026/09/30/yankees-beat-red-sox-mlb-wild-card-series/</link>
+      <guid isPermaLink="true">https://www.nytimes.com/athletic/7648172/2026/09/30/yankees-beat-red-sox-mlb-wild-card-series/</guid>
+      <pubDate>Fri, 02 Oct 2026 00:06:56 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Do not build the LLM torture factory</title>
+      <link>https://seangoedecke.com/do-not-build-the-llm-torture-factory/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/do-not-build-the-llm-torture-factory/</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
+    </item>
     <item>
       <title>Why do OpenAI's GPT-2 weights beat mine? Part five: data quality</title>
       <link>https://www.gilesthomas.com/2026/10/why-do-openai-gpt2-weights-beat-mine-5-data-quality</link>
@@ -25,6 +39,13 @@
       <guid isPermaLink="true">https://www.dwarkesh.com/p/si-sheppard</guid>
       <pubDate>Thu, 01 Oct 2026 15:28:28 +0000</pubDate>
       <description>Dwarkesh Podcast</description>
+    </item>
+    <item>
+      <title>Windows on Itanium also provided for hot-patching, in an even simpler way</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20261001-57/?p=112747/</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261001-57/?p=112747/</guid>
+      <pubDate>Thu, 01 Oct 2026 14:00:57 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Understanding the AI That Drives Robots</title>
@@ -265,18 +286,18 @@
       <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
-      <title>The AI margin collapse is gathering pace</title>
-      <link>https://martinalderson.com/posts/ai-margin-collapse-gathering-pace/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
-      <guid isPermaLink="true">https://martinalderson.com/posts/ai-margin-collapse-gathering-pace/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Martin Alderson</description>
-    </item>
-    <item>
       <title>The Facebook Fake-out</title>
       <link>https://anildash.com/2026/09/29/facebook-fake-out/</link>
       <guid isPermaLink="true">https://anildash.com/2026/09/29/facebook-fake-out/</guid>
       <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
       <description>Anil Dash</description>
+    </item>
+    <item>
+      <title>The AI margin collapse is gathering pace</title>
+      <link>https://martinalderson.com/posts/ai-margin-collapse-gathering-pace/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
+      <guid isPermaLink="true">https://martinalderson.com/posts/ai-margin-collapse-gathering-pace/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Martin Alderson</description>
     </item>
     <item>
       <title>Jeremy Stern’s Profile of Mark Zuckerberg for Colossus</title>
@@ -822,27 +843,6 @@
       <link>https://support.apple.com/en-us/127848</link>
       <guid isPermaLink="true">https://support.apple.com/en-us/127848</guid>
       <pubDate>Wed, 23 Sep 2026 20:12:16 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Make Money to Make More Websites</title>
-      <link>https://blog.jim-nielsen.com/2026/make-money-to-make-more-websites/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/make-money-to-make-more-websites/</guid>
-      <pubDate>Wed, 23 Sep 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
-      <title>App Store Scam of the Week: ‘Update My Phone &amp; Apps: Guide’ by Tair Olzhasev</title>
-      <link>https://apps.apple.com/us/app/update-my-phone-apps-guide/id6753936837</link>
-      <guid isPermaLink="true">https://apps.apple.com/us/app/update-my-phone-apps-guide/id6753936837</guid>
-      <pubDate>Wed, 23 Sep 2026 18:38:58 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>★ AppZapper 3000</title>
-      <link>https://daringfireball.net/2026/09/appzapper_3000</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/09/appzapper_3000</guid>
-      <pubDate>Wed, 23 Sep 2026 17:31:23 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
   </channel>
