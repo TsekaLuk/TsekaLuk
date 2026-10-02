@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 02 Oct 2026 05:12:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 12:17:35 +0000</lastBuildDate>
+    <item>
+      <title>Gadget Review: Una Watch ★★★★☆</title>
+      <link>https://shkspr.mobi/blog/2026/10/gadget-review-una-watch/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/10/gadget-review-una-watch/</guid>
+      <pubDate>Fri, 02 Oct 2026 11:34:48 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Make tmux the OS</title>
+      <link>https://matduggan.com/what-does-my-dream-os-ui-look-like/</link>
+      <guid isPermaLink="true">https://matduggan.com/what-does-my-dream-os-ui-look-like/</guid>
+      <pubDate>Fri, 02 Oct 2026 10:30:51 +0000</pubDate>
+      <description>matduggan.com</description>
+    </item>
+    <item>
+      <title>Digitale autonomie in het kort bij KIVI, STT en NAE</title>
+      <link>https://berthub.eu/articles/posts/praatje-kivi-stt-nae/</link>
+      <guid isPermaLink="true">https://berthub.eu/articles/posts/praatje-kivi-stt-nae/</guid>
+      <pubDate>Fri, 02 Oct 2026 09:30:00 +0000</pubDate>
+      <description>Bert Hubert's writings</description>
+    </item>
     <item>
       <title>Yankees Sweep Boston in Two Games, by Combined Score of 18-2</title>
       <link>https://www.nytimes.com/athletic/7648172/2026/09/30/yankees-beat-red-sox-mlb-wild-card-series/</link>
@@ -55,18 +76,18 @@
       <description>Construction Physics</description>
     </item>
     <item>
-      <title>Why Americans Stopped Throwing Dinner Parties</title>
-      <link>https://www.theatlantic.com/ideas/2026/10/americans-socialization-dinner-decline-hosting/688846/?utm_source=feed</link>
-      <guid isPermaLink="true">https://www.theatlantic.com/ideas/2026/10/americans-socialization-dinner-decline-hosting/688846/?utm_source=feed</guid>
-      <pubDate>Thu, 01 Oct 2026 11:00:00 +0000</pubDate>
-      <description>Derek Thompson | The Atlantic</description>
-    </item>
-    <item>
       <title>Software Heritage Identifiers</title>
       <link>https://nesbitt.io/2026/10/01/software-heritage-identifiers.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/10/01/software-heritage-identifiers.html</guid>
       <pubDate>Thu, 01 Oct 2026 11:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>Why Americans Stopped Throwing Dinner Parties</title>
+      <link>https://www.theatlantic.com/ideas/2026/10/americans-socialization-dinner-decline-hosting/688846/?utm_source=feed</link>
+      <guid isPermaLink="true">https://www.theatlantic.com/ideas/2026/10/americans-socialization-dinner-decline-hosting/688846/?utm_source=feed</guid>
+      <pubDate>Thu, 01 Oct 2026 11:00:00 +0000</pubDate>
+      <description>Derek Thompson | The Atlantic</description>
     </item>
     <item>
       <title>Quoting Matthew Green</title>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Sep/23/hn-49823961/</guid>
       <pubDate>Wed, 23 Sep 2026 23:14:57 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>★ The iPhone 4 ‘Antennagate’ Press Conference Q&amp;A — Finally</title>
-      <link>https://daringfireball.net/2026/09/iphone_4_antennagate_q_and_a</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/09/iphone_4_antennagate_q_and_a</guid>
-      <pubDate>Wed, 23 Sep 2026 22:15:05 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Shrinking a Fedora virtual disk</title>
-      <link>https://entropicthoughts.com/shrinking-fedora-virtual-disk</link>
-      <guid isPermaLink="true">https://entropicthoughts.com/shrinking-fedora-virtual-disk</guid>
-      <pubDate>Wed, 23 Sep 2026 22:00:00 +0000</pubDate>
-      <description>Entropic Thoughts</description>
-    </item>
-    <item>
-      <title>‘Prepare to Ship’ Is a Clever Software Solution That Allows iPhone 18 Pro Max to Ship With a Battery That Would Otherwise Exceed International Shipping Regulations</title>
-      <link>https://support.apple.com/en-us/127848</link>
-      <guid isPermaLink="true">https://support.apple.com/en-us/127848</guid>
-      <pubDate>Wed, 23 Sep 2026 20:12:16 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>

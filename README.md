@@ -208,11 +208,11 @@ Last Updated: Friday, October 2nd, 2026, 7:44:12 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Gadget Review: Una Watch ★★★★☆](https://shkspr.mobi/blog/2026/10/gadget-review-una-watch/) — *Terence Eden’s Blog* `10-02`
+- [Make tmux the OS](https://matduggan.com/what-does-my-dream-os-ui-look-like/) — *matduggan.com* `10-02`
+- [Digitale autonomie in het kort bij KIVI, STT en NAE](https://berthub.eu/articles/posts/praatje-kivi-stt-nae/) — *Bert Hubert's writings* `10-02`
 - [Yankees Sweep Boston in Two Games, by Combined Score of 18-2](https://www.nytimes.com/athletic/7648172/2026/09/30/yankees-beat-red-sox-mlb-wild-card-series/) — *Daring Fireball* `10-02`
 - [Do not build the LLM torture factory](https://seangoedecke.com/do-not-build-the-llm-torture-factory/) — *seangoedecke.com RSS feed* `10-02`
-- [Why do OpenAI's GPT-2 weights beat mine? Part five: data quality](https://www.gilesthomas.com/2026/10/why-do-openai-gpt2-weights-beat-mine-5-data-quality) — *Giles' blog* `10-01`
-- [Pluralistic: Voting is to politics as shopping is to boycotts (01 Oct 2026)](https://pluralistic.net/2026/10/01/data-centers/) — *Pluralistic: Daily links from Cory Doctorow* `10-01`
-- [Si Sheppard – How did a few hundred Spanish soldiers topple two empires?](https://www.dwarkesh.com/p/si-sheppard) — *Dwarkesh Podcast* `10-01`
 <!--BLOG_RADAR:end-->
 
 ---
