@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 02 Oct 2026 22:02:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 04:54:36 +0000</lastBuildDate>
+    <item>
+      <title>Superpersuasion will look like bribery</title>
+      <link>https://seangoedecke.com/superpersuasion-will-look-like-bribery/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/superpersuasion-will-look-like-bribery/</guid>
+      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
+    </item>
     <item>
       <title>★ Apple Is Going to Further Tighten the Screws on Full Disk Access on MacOS, in Response to Agentic AI Apps Running Amok</title>
       <link>https://daringfireball.net/2026/10/apple_full_disk_access</link>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://shkspr.mobi/blog/2026/09/some-thoughts-on-htmls-proposed-previewsrc-attribute/</guid>
       <pubDate>Thu, 24 Sep 2026 11:34:54 +0000</pubDate>
       <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Package Manager Sandboxing</title>
-      <link>https://nesbitt.io/2026/09/24/package-manager-sandboxing.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/09/24/package-manager-sandboxing.html</guid>
-      <pubDate>Thu, 24 Sep 2026 09:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
     </item>
   </channel>
 </rss>

@@ -208,11 +208,11 @@ Last Updated: Saturday, October 3rd, 2026, 11:22:59 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Superpersuasion will look like bribery](https://seangoedecke.com/superpersuasion-will-look-like-bribery/) — *seangoedecke.com RSS feed* `10-03`
 - [★ Apple Is Going to Further Tighten the Screws on Full Disk Access on MacOS, in Response to Agentic AI Apps Running Amok](https://daringfireball.net/2026/10/apple_full_disk_access) — *Daring Fireball* `10-02`
 - [Premium: How Has AI Changed The Economy?](https://www.wheresyoured.at/premium-how-has-ai-changed-the-economy/) — *Ed Zitron's Where's Your Ed At* `10-02`
 - [The Brain Sandwich](https://terriblesoftware.org/2026/10/02/the-brain-sandwich/) — *Terrible Software* `10-02`
 - [Gadget Review: Una Watch ★★★★☆](https://shkspr.mobi/blog/2026/10/gadget-review-una-watch/) — *Terence Eden’s Blog* `10-02`
-- [Make tmux the OS](https://matduggan.com/what-does-my-dream-os-ui-look-like/) — *matduggan.com* `10-02`
 <!--BLOG_RADAR:end-->
 
 ---
