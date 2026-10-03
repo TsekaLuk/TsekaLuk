@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 03 Oct 2026 04:54:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 11:27:47 +0000</lastBuildDate>
+    <item>
+      <title>This Week in Package Management: 3 October 2026</title>
+      <link>https://nesbitt.io/2026/10/03/this-week-in-package-management.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/10/03/this-week-in-package-management.html</guid>
+      <pubDate>Sat, 03 Oct 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>Altera Quartus Linux jtagd bug fixes</title>
+      <link>https://www.downtowndougbrown.com/2026/10/altera-quartus-linux-jtagd-bug-fixes/</link>
+      <guid isPermaLink="true">https://www.downtowndougbrown.com/2026/10/altera-quartus-linux-jtagd-bug-fixes/</guid>
+      <pubDate>Sat, 03 Oct 2026 05:50:45 +0000</pubDate>
+      <description>Downtown Doug Brown</description>
+    </item>
     <item>
       <title>Superpersuasion will look like bribery</title>
       <link>https://seangoedecke.com/superpersuasion-will-look-like-bribery/</link>
@@ -104,18 +118,18 @@
       <description>Construction Physics</description>
     </item>
     <item>
-      <title>Why Americans Stopped Throwing Dinner Parties</title>
-      <link>https://www.theatlantic.com/ideas/2026/10/americans-socialization-dinner-decline-hosting/688846/?utm_source=feed</link>
-      <guid isPermaLink="true">https://www.theatlantic.com/ideas/2026/10/americans-socialization-dinner-decline-hosting/688846/?utm_source=feed</guid>
-      <pubDate>Thu, 01 Oct 2026 11:00:00 +0000</pubDate>
-      <description>Derek Thompson | The Atlantic</description>
-    </item>
-    <item>
       <title>Software Heritage Identifiers</title>
       <link>https://nesbitt.io/2026/10/01/software-heritage-identifiers.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/10/01/software-heritage-identifiers.html</guid>
       <pubDate>Thu, 01 Oct 2026 11:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>Why Americans Stopped Throwing Dinner Parties</title>
+      <link>https://www.theatlantic.com/ideas/2026/10/americans-socialization-dinner-decline-hosting/688846/?utm_source=feed</link>
+      <guid isPermaLink="true">https://www.theatlantic.com/ideas/2026/10/americans-socialization-dinner-decline-hosting/688846/?utm_source=feed</guid>
+      <pubDate>Thu, 01 Oct 2026 11:00:00 +0000</pubDate>
+      <description>Derek Thompson | The Atlantic</description>
     </item>
     <item>
       <title>Quoting Matthew Green</title>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://berthub.eu/articles/posts/so-yeah-it-is-written-using-ai/</guid>
       <pubDate>Thu, 24 Sep 2026 15:45:00 +0000</pubDate>
       <description>Bert Hubert's writings</description>
-    </item>
-    <item>
-      <title>No, really, you need to pass all unhandled messages to DefWindowProc, part 2</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260924-00/?p=112728/</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260924-00/?p=112728/</guid>
-      <pubDate>Thu, 24 Sep 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Some thoughts on HTML's proposed previewsrc attribute</title>
-      <link>https://shkspr.mobi/blog/2026/09/some-thoughts-on-htmls-proposed-previewsrc-attribute/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/09/some-thoughts-on-htmls-proposed-previewsrc-attribute/</guid>
-      <pubDate>Thu, 24 Sep 2026 11:34:54 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
   </channel>
 </rss>
