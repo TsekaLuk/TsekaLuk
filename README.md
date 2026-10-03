@@ -208,11 +208,11 @@ Last Updated: Sunday, October 4th, 2026, 4:27:58 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Apple Confirms iPhone 18 Pro Max AT&T Cellular Issues, Affected Devices Require Hardware Replacement](https://9to5mac.com/2026/10/02/apple-confirms-iphone-18-pro-max-att-cellular-issues-affected-devices-require-hardware-replacement/) — *Daring Fireball* `10-03`
 - [Reading List 2026-10-03](https://www.construction-physics.com/p/reading-list-2026-10-03) — *Construction Physics* `10-03`
 - [Pluralistic: Economic probabilities for our grandchildren (03 Oct 2026)](https://pluralistic.net/2026/10/03/full-employment/) — *Pluralistic: Daily links from Cory Doctorow* `10-03`
 - [This Week in Package Management: 3 October 2026](https://nesbitt.io/2026/10/03/this-week-in-package-management.html) — *Andrew Nesbitt* `10-03`
 - [Connect Sony WH-1000XM3 on Arch Linux and a buggy UGREEN Bluetooth adapter](https://jayd.ml/2026/10/03/sony-headphones-action-bluetooth-adapter.html) — *Jayden’s Blog* `10-03`
-- [Altera Quartus Linux jtagd bug fixes](https://www.downtowndougbrown.com/2026/10/altera-quartus-linux-jtagd-bug-fixes/) — *Downtown Doug Brown* `10-03`
 <!--BLOG_RADAR:end-->
 
 ---

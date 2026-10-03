@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 03 Oct 2026 16:04:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 20:54:31 +0000</lastBuildDate>
+    <item>
+      <title>Apple Confirms iPhone 18 Pro Max AT&amp;T Cellular Issues, Affected Devices Require Hardware Replacement</title>
+      <link>https://9to5mac.com/2026/10/02/apple-confirms-iphone-18-pro-max-att-cellular-issues-affected-devices-require-hardware-replacement/</link>
+      <guid isPermaLink="true">https://9to5mac.com/2026/10/02/apple-confirms-iphone-18-pro-max-att-cellular-issues-affected-devices-require-hardware-replacement/</guid>
+      <pubDate>Sat, 03 Oct 2026 18:21:14 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Reading List 2026-10-03</title>
       <link>https://www.construction-physics.com/p/reading-list-2026-10-03</link>
@@ -53,6 +60,13 @@
       <guid isPermaLink="true">https://seangoedecke.com/shipping-is-the-foundation/</guid>
       <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Rex's Dino Store</title>
+      <link>https://simonwillison.net/2026/Oct/2/rex-s-dino-store/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/2/rex-s-dino-store/</guid>
+      <pubDate>Fri, 02 Oct 2026 22:57:38 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
     <item>
       <title>★ Apple Is Going to Further Tighten the Screws on Full Disk Access on MacOS, in Response to Agentic AI Apps Running Amok</title>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://www.youtube.com/watch?v=SdKFDIAGF24</guid>
       <pubDate>Thu, 24 Sep 2026 20:30:01 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>commit-rewriter 0.2</title>
-      <link>https://simonwillison.net/2026/Sep/24/commit-rewriter/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/24/commit-rewriter/</guid>
-      <pubDate>Thu, 24 Sep 2026 20:06:53 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>datasette 1.0a41</title>
-      <link>https://simonwillison.net/2026/Sep/24/datasette/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/24/datasette/</guid>
-      <pubDate>Thu, 24 Sep 2026 19:15:23 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
