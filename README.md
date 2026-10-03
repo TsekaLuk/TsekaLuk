@@ -208,11 +208,11 @@ Last Updated: Saturday, October 3rd, 2026, 11:34:26 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Reading List 2026-10-03](https://www.construction-physics.com/p/reading-list-2026-10-03) — *Construction Physics* `10-03`
+- [Pluralistic: Economic probabilities for our grandchildren (03 Oct 2026)](https://pluralistic.net/2026/10/03/full-employment/) — *Pluralistic: Daily links from Cory Doctorow* `10-03`
 - [This Week in Package Management: 3 October 2026](https://nesbitt.io/2026/10/03/this-week-in-package-management.html) — *Andrew Nesbitt* `10-03`
+- [Connect Sony WH-1000XM3 on Arch Linux and a buggy UGREEN Bluetooth adapter](https://jayd.ml/2026/10/03/sony-headphones-action-bluetooth-adapter.html) — *Jayden’s Blog* `10-03`
 - [Altera Quartus Linux jtagd bug fixes](https://www.downtowndougbrown.com/2026/10/altera-quartus-linux-jtagd-bug-fixes/) — *Downtown Doug Brown* `10-03`
-- [Superpersuasion will look like bribery](https://seangoedecke.com/superpersuasion-will-look-like-bribery/) — *seangoedecke.com RSS feed* `10-03`
-- [★ Apple Is Going to Further Tighten the Screws on Full Disk Access on MacOS, in Response to Agentic AI Apps Running Amok](https://daringfireball.net/2026/10/apple_full_disk_access) — *Daring Fireball* `10-02`
-- [Premium: How Has AI Changed The Economy?](https://www.wheresyoured.at/premium-how-has-ai-changed-the-economy/) — *Ed Zitron's Where's Your Ed At* `10-02`
 <!--BLOG_RADAR:end-->
 
 ---

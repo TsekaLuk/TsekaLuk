@@ -4,13 +4,34 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 03 Oct 2026 11:27:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 16:04:27 +0000</lastBuildDate>
+    <item>
+      <title>Reading List 2026-10-03</title>
+      <link>https://www.construction-physics.com/p/reading-list-2026-10-03</link>
+      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-2026-10-03</guid>
+      <pubDate>Sat, 03 Oct 2026 13:14:44 +0000</pubDate>
+      <description>Construction Physics</description>
+    </item>
+    <item>
+      <title>Pluralistic: Economic probabilities for our grandchildren (03 Oct 2026)</title>
+      <link>https://pluralistic.net/2026/10/03/full-employment/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/10/03/full-employment/</guid>
+      <pubDate>Sat, 03 Oct 2026 12:07:59 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
     <item>
       <title>This Week in Package Management: 3 October 2026</title>
       <link>https://nesbitt.io/2026/10/03/this-week-in-package-management.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/10/03/this-week-in-package-management.html</guid>
       <pubDate>Sat, 03 Oct 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>Connect Sony WH-1000XM3 on Arch Linux and a buggy UGREEN Bluetooth adapter</title>
+      <link>https://jayd.ml/2026/10/03/sony-headphones-action-bluetooth-adapter.html</link>
+      <guid isPermaLink="true">https://jayd.ml/2026/10/03/sony-headphones-action-bluetooth-adapter.html</guid>
+      <pubDate>Sat, 03 Oct 2026 09:25:00 +0000</pubDate>
+      <description>Jayden’s Blog</description>
     </item>
     <item>
       <title>Altera Quartus Linux jtagd bug fixes</title>
@@ -23,6 +44,13 @@
       <title>Superpersuasion will look like bribery</title>
       <link>https://seangoedecke.com/superpersuasion-will-look-like-bribery/</link>
       <guid isPermaLink="true">https://seangoedecke.com/superpersuasion-will-look-like-bribery/</guid>
+      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Shipping is the foundation</title>
+      <link>https://seangoedecke.com/shipping-is-the-foundation/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/shipping-is-the-foundation/</guid>
       <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
     </item>
@@ -118,18 +146,18 @@
       <description>Construction Physics</description>
     </item>
     <item>
-      <title>Software Heritage Identifiers</title>
-      <link>https://nesbitt.io/2026/10/01/software-heritage-identifiers.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/10/01/software-heritage-identifiers.html</guid>
-      <pubDate>Thu, 01 Oct 2026 11:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
       <title>Why Americans Stopped Throwing Dinner Parties</title>
       <link>https://www.theatlantic.com/ideas/2026/10/americans-socialization-dinner-decline-hosting/688846/?utm_source=feed</link>
       <guid isPermaLink="true">https://www.theatlantic.com/ideas/2026/10/americans-socialization-dinner-decline-hosting/688846/?utm_source=feed</guid>
       <pubDate>Thu, 01 Oct 2026 11:00:00 +0000</pubDate>
       <description>Derek Thompson | The Atlantic</description>
+    </item>
+    <item>
+      <title>Software Heritage Identifiers</title>
+      <link>https://nesbitt.io/2026/10/01/software-heritage-identifiers.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/10/01/software-heritage-identifiers.html</guid>
+      <pubDate>Thu, 01 Oct 2026 11:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
     </item>
     <item>
       <title>Quoting Matthew Green</title>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Sep/24/datasette/</guid>
       <pubDate>Thu, 24 Sep 2026 19:15:23 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>‘Apple Opens Apple Music Hall, a State-of-the-Art Live Music Venue in London’</title>
-      <link>https://www.apple.com/newsroom/2026/09/apple-opens-apple-music-hall-a-state-of-the-art-live-music-venue-in-london/</link>
-      <guid isPermaLink="true">https://www.apple.com/newsroom/2026/09/apple-opens-apple-music-hall-a-state-of-the-art-live-music-venue-in-london/</guid>
-      <pubDate>Thu, 24 Sep 2026 17:29:49 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Ed Zitron’s AI Prediction Track Record</title>
-      <link>https://danluu.com/zitron/</link>
-      <guid isPermaLink="true">https://danluu.com/zitron/</guid>
-      <pubDate>Thu, 24 Sep 2026 17:10:56 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Copland D11E4, Emulated in Your Browser</title>
-      <link>https://www.pagetable.com/300</link>
-      <guid isPermaLink="true">https://www.pagetable.com/300</guid>
-      <pubDate>Thu, 24 Sep 2026 16:47:16 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>So yeah it was written using AI</title>
-      <link>https://berthub.eu/articles/posts/so-yeah-it-is-written-using-ai/</link>
-      <guid isPermaLink="true">https://berthub.eu/articles/posts/so-yeah-it-is-written-using-ai/</guid>
-      <pubDate>Thu, 24 Sep 2026 15:45:00 +0000</pubDate>
-      <description>Bert Hubert's writings</description>
     </item>
   </channel>
 </rss>
