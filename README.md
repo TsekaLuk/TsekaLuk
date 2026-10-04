@@ -208,11 +208,11 @@ Last Updated: Monday, October 5th, 2026, 4:46:11 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Miquel’s pentagon theorem](https://www.johndcook.com/blog/2026/10/04/miquels-pentagon-theorem/) — *John D. Cook* `10-04`
+- [Topological models of modal logic](https://www.johndcook.com/blog/2026/10/04/topological-models-of-modal-logic/) — *John D. Cook* `10-04`
+- [Modal logic and topology](https://www.johndcook.com/blog/2026/10/04/modal-topology/) — *John D. Cook* `10-04`
 - [Weekly Update 524: Live From Copenhagen](https://www.troyhunt.com/weekly-update-524/) — *Troy Hunt* `10-04`
 - [My Pitch for the New Season of Doctor Who](https://shkspr.mobi/blog/2026/10/my-pitch-for-the-new-season-of-doctor-who/) — *Terence Eden’s Blog* `10-04`
-- [Why My Asus Laptop Kept Rebooting After Sleep and How to Fix it](https://idiallo.com/blog/asus-laptop-keeps-rebooting-after-sleep) — *Software and Tech stories from an Insider - iDiallo.com* `10-04`
-- [We're going to need default hard budget caps on pretty much everything](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/) — *Simon Willison's Weblog* `10-03`
-- [Miquel’s pivot theorem](https://www.johndcook.com/blog/2026/10/03/miquels-pivot-theorem/) — *John D. Cook* `10-03`
 <!--BLOG_RADAR:end-->
 
 ---

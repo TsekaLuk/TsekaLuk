@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 04 Oct 2026 12:09:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 21:10:04 +0000</lastBuildDate>
+    <item>
+      <title>Miquel’s pentagon theorem</title>
+      <link>https://www.johndcook.com/blog/2026/10/04/miquels-pentagon-theorem/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/10/04/miquels-pentagon-theorem/</guid>
+      <pubDate>Sun, 04 Oct 2026 12:34:22 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Topological models of modal logic</title>
+      <link>https://www.johndcook.com/blog/2026/10/04/topological-models-of-modal-logic/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/10/04/topological-models-of-modal-logic/</guid>
+      <pubDate>Sun, 04 Oct 2026 12:25:19 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Modal logic and topology</title>
+      <link>https://www.johndcook.com/blog/2026/10/04/modal-topology/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/10/04/modal-topology/</guid>
+      <pubDate>Sun, 04 Oct 2026 12:24:33 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
     <item>
       <title>Weekly Update 524: Live From Copenhagen</title>
       <link>https://www.troyhunt.com/weekly-update-524/</link>
@@ -223,18 +244,18 @@
       <description>Construction Physics</description>
     </item>
     <item>
-      <title>Why Americans Stopped Throwing Dinner Parties</title>
-      <link>https://www.theatlantic.com/ideas/2026/10/americans-socialization-dinner-decline-hosting/688846/?utm_source=feed</link>
-      <guid isPermaLink="true">https://www.theatlantic.com/ideas/2026/10/americans-socialization-dinner-decline-hosting/688846/?utm_source=feed</guid>
-      <pubDate>Thu, 01 Oct 2026 11:00:00 +0000</pubDate>
-      <description>Derek Thompson | The Atlantic</description>
-    </item>
-    <item>
       <title>Software Heritage Identifiers</title>
       <link>https://nesbitt.io/2026/10/01/software-heritage-identifiers.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/10/01/software-heritage-identifiers.html</guid>
       <pubDate>Thu, 01 Oct 2026 11:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>Why Americans Stopped Throwing Dinner Parties</title>
+      <link>https://www.theatlantic.com/ideas/2026/10/americans-socialization-dinner-decline-hosting/688846/?utm_source=feed</link>
+      <guid isPermaLink="true">https://www.theatlantic.com/ideas/2026/10/americans-socialization-dinner-decline-hosting/688846/?utm_source=feed</guid>
+      <pubDate>Thu, 01 Oct 2026 11:00:00 +0000</pubDate>
+      <description>Derek Thompson | The Atlantic</description>
     </item>
     <item>
       <title>Quoting Matthew Green</title>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://www.wheresyoured.at/premium-the-haters-guide-to-ai-debt-part-2/</guid>
       <pubDate>Fri, 25 Sep 2026 14:25:21 +0000</pubDate>
       <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>This Week on The Analog Antiquarian</title>
-      <link>https://www.filfre.net/2026/09/this-week-on-the-analog-antiquarian/</link>
-      <guid isPermaLink="true">https://www.filfre.net/2026/09/this-week-on-the-analog-antiquarian/</guid>
-      <pubDate>Fri, 25 Sep 2026 14:02:16 +0000</pubDate>
-      <description>The Digital Antiquarian</description>
-    </item>
-    <item>
-      <title>Debugging walkthrough: Access violation on nonsense instruction, episode 3</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260925-00/?p=112731/</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260925-00/?p=112731/</guid>
-      <pubDate>Fri, 25 Sep 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>AI Killed the MVP – Long Live the IUP</title>
-      <link>https://steveblank.com/2026/09/25/ai-killed-the-mvp-long-live-the-iup/</link>
-      <guid isPermaLink="true">https://steveblank.com/2026/09/25/ai-killed-the-mvp-long-live-the-iup/</guid>
-      <pubDate>Fri, 25 Sep 2026 13:00:16 +0000</pubDate>
-      <description>Steve Blank</description>
     </item>
   </channel>
 </rss>
