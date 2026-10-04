@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 04 Oct 2026 05:27:44 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 12:09:15 +0000</lastBuildDate>
+    <item>
+      <title>Weekly Update 524: Live From Copenhagen</title>
+      <link>https://www.troyhunt.com/weekly-update-524/</link>
+      <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-524/</guid>
+      <pubDate>Sun, 04 Oct 2026 11:52:23 +0000</pubDate>
+      <description>Troy Hunt</description>
+    </item>
+    <item>
+      <title>My Pitch for the New Season of Doctor Who</title>
+      <link>https://shkspr.mobi/blog/2026/10/my-pitch-for-the-new-season-of-doctor-who/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/10/my-pitch-for-the-new-season-of-doctor-who/</guid>
+      <pubDate>Sun, 04 Oct 2026 11:34:50 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
     <item>
       <title>Why My Asus Laptop Kept Rebooting After Sleep and How to Fix it</title>
       <link>https://idiallo.com/blog/asus-laptop-keeps-rebooting-after-sleep</link>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://steveblank.com/2026/09/25/ai-killed-the-mvp-long-live-the-iup/</guid>
       <pubDate>Fri, 25 Sep 2026 13:00:16 +0000</pubDate>
       <description>Steve Blank</description>
-    </item>
-    <item>
-      <title>I’m Tired of Being on the Network</title>
-      <link>https://matduggan.com/im-tired-of-being-on-the-network/</link>
-      <guid isPermaLink="true">https://matduggan.com/im-tired-of-being-on-the-network/</guid>
-      <pubDate>Fri, 25 Sep 2026 12:00:44 +0000</pubDate>
-      <description>matduggan.com</description>
-    </item>
-    <item>
-      <title>Servers in dawn-dusk orbit</title>
-      <link>https://www.johndcook.com/blog/2026/09/25/dawn-dusk-orbit/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/09/25/dawn-dusk-orbit/</guid>
-      <pubDate>Fri, 25 Sep 2026 11:45:31 +0000</pubDate>
-      <description>John D. Cook</description>
     </item>
   </channel>
 </rss>
