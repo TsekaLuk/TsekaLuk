@@ -4,7 +4,42 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 03 Oct 2026 20:54:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 05:27:44 +0000</lastBuildDate>
+    <item>
+      <title>Why My Asus Laptop Kept Rebooting After Sleep and How to Fix it</title>
+      <link>https://idiallo.com/blog/asus-laptop-keeps-rebooting-after-sleep</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/asus-laptop-keeps-rebooting-after-sleep</guid>
+      <pubDate>Sun, 04 Oct 2026 02:30:00 +0000</pubDate>
+      <description>Software and Tech stories from an Insider - iDiallo.com</description>
+    </item>
+    <item>
+      <title>We're going to need default hard budget caps on pretty much everything</title>
+      <link>https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/</guid>
+      <pubDate>Sat, 03 Oct 2026 23:34:02 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Miquel’s pivot theorem</title>
+      <link>https://www.johndcook.com/blog/2026/10/03/miquels-pivot-theorem/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/10/03/miquels-pivot-theorem/</guid>
+      <pubDate>Sat, 03 Oct 2026 22:53:41 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>September sponsors-only newsletter</title>
+      <link>https://simonwillison.net/2026/Oct/3/newsletter/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/3/newsletter/</guid>
+      <pubDate>Sat, 03 Oct 2026 22:00:31 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>WorkOS</title>
+      <link>https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</link>
+      <guid isPermaLink="true">https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</guid>
+      <pubDate>Sat, 03 Oct 2026 21:23:10 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Apple Confirms iPhone 18 Pro Max AT&amp;T Cellular Issues, Affected Devices Require Hardware Replacement</title>
       <link>https://9to5mac.com/2026/10/02/apple-confirms-iphone-18-pro-max-att-cellular-issues-affected-devices-require-hardware-replacement/</link>
@@ -83,11 +118,25 @@
       <description>Ed Zitron's Where's Your Ed At</description>
     </item>
     <item>
+      <title>Dyson CameraJet</title>
+      <link>https://geohot.github.io//blog/jekyll/update/2026/10/03/dyson-camerajet.html</link>
+      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/10/03/dyson-camerajet.html</guid>
+      <pubDate>Fri, 02 Oct 2026 16:00:00 +0000</pubDate>
+      <description>the singularity is nearer</description>
+    </item>
+    <item>
       <title>The Brain Sandwich</title>
       <link>https://terriblesoftware.org/2026/10/02/the-brain-sandwich/</link>
       <guid isPermaLink="true">https://terriblesoftware.org/2026/10/02/the-brain-sandwich/</guid>
       <pubDate>Fri, 02 Oct 2026 14:00:14 +0000</pubDate>
       <description>Terrible Software</description>
+    </item>
+    <item>
+      <title>Why is there no Windows hot-patching support for other architectures like 32-bit ARM and MIPS?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20261002-00/?p=112753/</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261002-00/?p=112753/</guid>
+      <pubDate>Fri, 02 Oct 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Gadget Review: Una Watch ★★★★☆</title>
@@ -193,13 +242,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Sep/30/he-built-this-city/</guid>
       <pubDate>Wed, 30 Sep 2026 21:54:19 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>[Sponsor] WorkOS: How SSO Works and the Fastest Way to Add It</title>
-      <link>https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</link>
-      <guid isPermaLink="true">https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</guid>
-      <pubDate>Wed, 30 Sep 2026 20:17:32 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
     <item>
       <title>Gurman Reports Apple Is Launching New ‘Smart Home’ Products on October 13</title>
@@ -802,48 +844,6 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/09/25/dawn-dusk-orbit/</guid>
       <pubDate>Fri, 25 Sep 2026 11:45:31 +0000</pubDate>
       <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Northern Gannet, Great Blue Heron, California Brown Pelican</title>
-      <link>https://simonwillison.net/2026/Sep/25/sighting-403293902/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/25/sighting-403293902/</guid>
-      <pubDate>Fri, 25 Sep 2026 02:07:04 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>You should all be asking way more questions</title>
-      <link>https://seangoedecke.com/you-should-all-be-asking-way-more-questions/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/you-should-all-be-asking-way-more-questions/</guid>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>Note on 24th September 2026</title>
-      <link>https://simonwillison.net/2026/Sep/24/harder/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/24/harder/</guid>
-      <pubDate>Thu, 24 Sep 2026 23:31:08 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Victoria Song on Meta Muse’s Cuteness</title>
-      <link>https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IkFlVU9GbXpuZFUiLCJwIjoiL2NvbHVtbi85OTk5OTkvb3B0aW1pemVyLW1ldGEtbXVzZS1haS1jdXRlIiwiZXhwIjoxNzkwNzAxNDAwLCJpYXQiOjE3OTAyNjk0MDB9.chaHCz3wgiI4jn9EzA11I7fHhqQkEmn17aCiXtOBPEU</link>
-      <guid isPermaLink="true">https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IkFlVU9GbXpuZFUiLCJwIjoiL2NvbHVtbi85OTk5OTkvb3B0aW1pemVyLW1ldGEtbXVzZS1haS1jdXRlIiwiZXhwIjoxNzkwNzAxNDAwLCJpYXQiOjE3OTAyNjk0MDB9.chaHCz3wgiI4jn9EzA11I7fHhqQkEmn17aCiXtOBPEU</guid>
-      <pubDate>Thu, 24 Sep 2026 22:30:24 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Joanna Stern Interviews Mark Zuckerberg</title>
-      <link>https://thenewthings.com/p/exclusive-mark-zuckerberg-interview</link>
-      <guid isPermaLink="true">https://thenewthings.com/p/exclusive-mark-zuckerberg-interview</guid>
-      <pubDate>Thu, 24 Sep 2026 20:53:03 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Meta Connect Keynote 2026</title>
-      <link>https://www.youtube.com/watch?v=SdKFDIAGF24</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=SdKFDIAGF24</guid>
-      <pubDate>Thu, 24 Sep 2026 20:30:01 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>

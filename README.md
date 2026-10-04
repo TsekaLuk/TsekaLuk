@@ -208,11 +208,11 @@ Last Updated: Sunday, October 4th, 2026, 11:50:42 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Apple Confirms iPhone 18 Pro Max AT&T Cellular Issues, Affected Devices Require Hardware Replacement](https://9to5mac.com/2026/10/02/apple-confirms-iphone-18-pro-max-att-cellular-issues-affected-devices-require-hardware-replacement/) — *Daring Fireball* `10-03`
-- [Reading List 2026-10-03](https://www.construction-physics.com/p/reading-list-2026-10-03) — *Construction Physics* `10-03`
-- [Pluralistic: Economic probabilities for our grandchildren (03 Oct 2026)](https://pluralistic.net/2026/10/03/full-employment/) — *Pluralistic: Daily links from Cory Doctorow* `10-03`
-- [This Week in Package Management: 3 October 2026](https://nesbitt.io/2026/10/03/this-week-in-package-management.html) — *Andrew Nesbitt* `10-03`
-- [Connect Sony WH-1000XM3 on Arch Linux and a buggy UGREEN Bluetooth adapter](https://jayd.ml/2026/10/03/sony-headphones-action-bluetooth-adapter.html) — *Jayden’s Blog* `10-03`
+- [Why My Asus Laptop Kept Rebooting After Sleep and How to Fix it](https://idiallo.com/blog/asus-laptop-keeps-rebooting-after-sleep) — *Software and Tech stories from an Insider - iDiallo.com* `10-04`
+- [We're going to need default hard budget caps on pretty much everything](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/) — *Simon Willison's Weblog* `10-03`
+- [Miquel’s pivot theorem](https://www.johndcook.com/blog/2026/10/03/miquels-pivot-theorem/) — *John D. Cook* `10-03`
+- [September sponsors-only newsletter](https://simonwillison.net/2026/Oct/3/newsletter/) — *Simon Willison's Weblog* `10-03`
+- [WorkOS](https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026) — *Daring Fireball* `10-03`
 <!--BLOG_RADAR:end-->
 
 ---
