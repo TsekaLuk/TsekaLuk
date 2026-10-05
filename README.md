@@ -208,11 +208,11 @@ Last Updated: Monday, October 5th, 2026, 9:20:22 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [[RSS Club] Changes to the RSS and Atom feeds](https://shkspr.mobi/blog/2026/10/rss-club-changes-to-the-rss-and-atom-feeds/) — *Terence Eden’s Blog* `10-05`
+- [How fast is Python 3.15?](https://blog.miguelgrinberg.com/post/how-fast-is-python-3-15) — *Miguel Grinberg's Blog* `10-05`
 - [Zenith Data Systems, Part I](https://www.abortretry.fail/p/zenith-data-systems-part-i) — *Abort Retry Fail* `10-04`
 - [“I’m Embarrassed on Behalf of the Tech Industry”](https://blog.jim-nielsen.com/2026/embarrassed-by-tech/) — *Jim Nielsen’s Blog* `10-04`
 - [Miquel’s pentagon theorem](https://www.johndcook.com/blog/2026/10/04/miquels-pentagon-theorem/) — *John D. Cook* `10-04`
-- [Topological models of modal logic](https://www.johndcook.com/blog/2026/10/04/topological-models-of-modal-logic/) — *John D. Cook* `10-04`
-- [Modal logic and topology](https://www.johndcook.com/blog/2026/10/04/modal-topology/) — *John D. Cook* `10-04`
 <!--BLOG_RADAR:end-->
 
 ---

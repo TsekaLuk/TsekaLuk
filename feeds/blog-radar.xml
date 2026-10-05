@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 05 Oct 2026 05:10:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 14:16:38 +0000</lastBuildDate>
+    <item>
+      <title>[RSS Club] Changes to the RSS and Atom feeds</title>
+      <link>https://shkspr.mobi/blog/2026/10/rss-club-changes-to-the-rss-and-atom-feeds/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/10/rss-club-changes-to-the-rss-and-atom-feeds/</guid>
+      <pubDate>Mon, 05 Oct 2026 11:34:03 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>How fast is Python 3.15?</title>
+      <link>https://blog.miguelgrinberg.com/post/how-fast-is-python-3-15</link>
+      <guid isPermaLink="true">https://blog.miguelgrinberg.com/post/how-fast-is-python-3-15</guid>
+      <pubDate>Mon, 05 Oct 2026 10:13:17 +0000</pubDate>
+      <description>Miguel Grinberg's Blog</description>
+    </item>
     <item>
       <title>Zenith Data Systems, Part I</title>
       <link>https://www.abortretry.fail/p/zenith-data-systems-part-i</link>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Sep/25/john-gruber/</guid>
       <pubDate>Fri, 25 Sep 2026 17:22:01 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Regarding the Provenance of Charm Within Meta</title>
-      <link>https://www.bloomberg.com/news/articles/2026-09-23/meta-debuts-a-dedicated-palm-sized-muse-charm-device-to-use-ai-on-the-go?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDIwNzg4MCwiZXhwIjoxNzkwODEyNjgwLCJhcnRpY2xlSWQiOiJUTFRUVUxUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.k7amXXn8zTVQuiTpQIE0Q_IJY9ny_TINEpSrguxIva8&amp;leadSource=article-gifting</link>
-      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-09-23/meta-debuts-a-dedicated-palm-sized-muse-charm-device-to-use-ai-on-the-go?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDIwNzg4MCwiZXhwIjoxNzkwODEyNjgwLCJhcnRpY2xlSWQiOiJUTFRUVUxUOU5KTFMwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.k7amXXn8zTVQuiTpQIE0Q_IJY9ny_TINEpSrguxIva8&amp;leadSource=article-gifting</guid>
-      <pubDate>Fri, 25 Sep 2026 17:07:33 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Muse Looks Cute, but Looks Are Deceiving</title>
-      <link>https://www.inc.com/jason-aten/meta-keeps-apologizing-for-muse-its-explanations-miss-the-point-entirely/91409363</link>
-      <guid isPermaLink="true">https://www.inc.com/jason-aten/meta-keeps-apologizing-for-muse-its-explanations-miss-the-point-entirely/91409363</guid>
-      <pubDate>Fri, 25 Sep 2026 16:38:39 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
