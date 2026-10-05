@@ -208,11 +208,11 @@ Last Updated: Tuesday, October 6th, 2026, 7:35:41 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [[Sponsor] Sunnny](https://sunnny.com/) — *Daring Fireball* `10-05`
+- [OpenAI Announces Their Text Watermarking Plans](https://openai.com/index/eu-text-provenance/) — *Daring Fireball* `10-05`
+- [Ternus and Cook Tweet Brief Remembrances on the 15th Anniversary of Steve Jobs’s Death](https://x.com/johnternus/status/2107093462118199562) — *Daring Fireball* `10-05`
+- [Pluralistic: Scrutinized (05 Oct 2026)](https://pluralistic.net/2026/10/05/pervert-glasses/) — *Pluralistic: Daily links from Cory Doctorow* `10-05`
 - [[RSS Club] Changes to the RSS and Atom feeds](https://shkspr.mobi/blog/2026/10/rss-club-changes-to-the-rss-and-atom-feeds/) — *Terence Eden’s Blog* `10-05`
-- [How fast is Python 3.15?](https://blog.miguelgrinberg.com/post/how-fast-is-python-3-15) — *Miguel Grinberg's Blog* `10-05`
-- [Zenith Data Systems, Part I](https://www.abortretry.fail/p/zenith-data-systems-part-i) — *Abort Retry Fail* `10-04`
-- [“I’m Embarrassed on Behalf of the Tech Industry”](https://blog.jim-nielsen.com/2026/embarrassed-by-tech/) — *Jim Nielsen’s Blog* `10-04`
-- [Miquel’s pentagon theorem](https://www.johndcook.com/blog/2026/10/04/miquels-pentagon-theorem/) — *John D. Cook* `10-04`
 <!--BLOG_RADAR:end-->
 
 ---
