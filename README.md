@@ -208,11 +208,11 @@ Last Updated: Monday, October 5th, 2026, 11:35:24 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Zenith Data Systems, Part I](https://www.abortretry.fail/p/zenith-data-systems-part-i) — *Abort Retry Fail* `10-04`
+- [“I’m Embarrassed on Behalf of the Tech Industry”](https://blog.jim-nielsen.com/2026/embarrassed-by-tech/) — *Jim Nielsen’s Blog* `10-04`
 - [Miquel’s pentagon theorem](https://www.johndcook.com/blog/2026/10/04/miquels-pentagon-theorem/) — *John D. Cook* `10-04`
 - [Topological models of modal logic](https://www.johndcook.com/blog/2026/10/04/topological-models-of-modal-logic/) — *John D. Cook* `10-04`
 - [Modal logic and topology](https://www.johndcook.com/blog/2026/10/04/modal-topology/) — *John D. Cook* `10-04`
-- [Weekly Update 524: Live From Copenhagen](https://www.troyhunt.com/weekly-update-524/) — *Troy Hunt* `10-04`
-- [My Pitch for the New Season of Doctor Who](https://shkspr.mobi/blog/2026/10/my-pitch-for-the-new-season-of-doctor-who/) — *Terence Eden’s Blog* `10-04`
 <!--BLOG_RADAR:end-->
 
 ---

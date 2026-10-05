@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 04 Oct 2026 21:10:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 05:10:26 +0000</lastBuildDate>
+    <item>
+      <title>Zenith Data Systems, Part I</title>
+      <link>https://www.abortretry.fail/p/zenith-data-systems-part-i</link>
+      <guid isPermaLink="true">https://www.abortretry.fail/p/zenith-data-systems-part-i</guid>
+      <pubDate>Sun, 04 Oct 2026 22:09:15 +0000</pubDate>
+      <description>Abort Retry Fail</description>
+    </item>
+    <item>
+      <title>“I’m Embarrassed on Behalf of the Tech Industry”</title>
+      <link>https://blog.jim-nielsen.com/2026/embarrassed-by-tech/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/embarrassed-by-tech/</guid>
+      <pubDate>Sun, 04 Oct 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
+    </item>
     <item>
       <title>Miquel’s pentagon theorem</title>
       <link>https://www.johndcook.com/blog/2026/10/04/miquels-pentagon-theorem/</link>
@@ -46,6 +60,13 @@
       <guid isPermaLink="true">https://idiallo.com/blog/asus-laptop-keeps-rebooting-after-sleep</guid>
       <pubDate>Sun, 04 Oct 2026 02:30:00 +0000</pubDate>
       <description>Software and Tech stories from an Insider - iDiallo.com</description>
+    </item>
+    <item>
+      <title>How to Solve: AAC Heavyweight M1 (Savage)</title>
+      <link>https://xeiaso.net/blog/2026/m9s/</link>
+      <guid isPermaLink="true">https://xeiaso.net/blog/2026/m9s/</guid>
+      <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>We're going to need default hard budget caps on pretty much everything</title>
@@ -244,18 +265,18 @@
       <description>Construction Physics</description>
     </item>
     <item>
-      <title>Software Heritage Identifiers</title>
-      <link>https://nesbitt.io/2026/10/01/software-heritage-identifiers.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/10/01/software-heritage-identifiers.html</guid>
-      <pubDate>Thu, 01 Oct 2026 11:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
       <title>Why Americans Stopped Throwing Dinner Parties</title>
       <link>https://www.theatlantic.com/ideas/2026/10/americans-socialization-dinner-decline-hosting/688846/?utm_source=feed</link>
       <guid isPermaLink="true">https://www.theatlantic.com/ideas/2026/10/americans-socialization-dinner-decline-hosting/688846/?utm_source=feed</guid>
       <pubDate>Thu, 01 Oct 2026 11:00:00 +0000</pubDate>
       <description>Derek Thompson | The Atlantic</description>
+    </item>
+    <item>
+      <title>Software Heritage Identifiers</title>
+      <link>https://nesbitt.io/2026/10/01/software-heritage-identifiers.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/10/01/software-heritage-identifiers.html</guid>
+      <pubDate>Thu, 01 Oct 2026 11:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
     </item>
     <item>
       <title>Quoting Matthew Green</title>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://www.inc.com/jason-aten/meta-keeps-apologizing-for-muse-its-explanations-miss-the-point-entirely/91409363</guid>
       <pubDate>Fri, 25 Sep 2026 16:38:39 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>I'm starting HomelabFest (in St. Louis, Sep 2027)</title>
-      <link>https://www.jeffgeerling.com/blog/2026/homelabfest-announcement/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/homelabfest-announcement/</guid>
-      <pubDate>Fri, 25 Sep 2026 15:16:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
-      <title>I Was Not Blown Away by Eli Tan’s ‘I Was Blown Away’ Review of Meta Muse</title>
-      <link>https://www.nytimes.com/2026/09/22/technology/meta-muse-ai-agent.html?unlocked_article_code=1.D1E.Wram.T8Ww85vXKKYU</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/09/22/technology/meta-muse-ai-agent.html?unlocked_article_code=1.D1E.Wram.T8Ww85vXKKYU</guid>
-      <pubDate>Fri, 25 Sep 2026 14:41:29 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Premium: The Hater's Guide To AI Debt (Part 2)</title>
-      <link>https://www.wheresyoured.at/premium-the-haters-guide-to-ai-debt-part-2/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/premium-the-haters-guide-to-ai-debt-part-2/</guid>
-      <pubDate>Fri, 25 Sep 2026 14:25:21 +0000</pubDate>
-      <description>Ed Zitron's Where's Your Ed At</description>
     </item>
   </channel>
 </rss>
