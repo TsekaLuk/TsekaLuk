@@ -208,11 +208,11 @@ Last Updated: Tuesday, October 6th, 2026, 8:35:59 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Missing Link](https://feed.tedium.co/link/15204/17490109/link-newspaper-virginian-pilot-remembrance) — *Tedium: The Dull Side of the Internet.* `10-06`
-- [Steve Jobs, Walking Through a Mockup for Apple Park in 2010](https://book.stevejobsarchive.com/#photo-37) — *Daring Fireball* `10-06`
-- [Quoting Felix Rieseberg](https://simonwillison.net/2026/Oct/5/felix-rieseberg/) — *Simon Willison's Weblog* `10-05`
-- [[Sponsor] Sunnny](https://sunnny.com/) — *Daring Fireball* `10-05`
-- [OpenAI Announces Their Text Watermarking Plans](https://openai.com/index/eu-text-provenance/) — *Daring Fireball* `10-05`
+- [Apple’s App Icon HOA](https://blog.jim-nielsen.com/2026/app-icon-hoa/) — *Jim Nielsen’s Blog* `10-06`
+- [Scrimshaw Jukebox](https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/) — *Simon Willison's Weblog* `10-06`
+- [Credit Crunch](https://www.wheresyoured.at/credit-crunch/) — *Ed Zitron's Where's Your Ed At* `10-06`
+- [Pluralistic: Swapping money for expertise (06 Oct 2026)](https://pluralistic.net/2026/10/06/nonfungible/) — *Pluralistic: Daily links from Cory Doctorow* `10-06`
+- [Una Watch - SDK and Writing Your First App](https://shkspr.mobi/blog/2026/10/una-watch-sdk-and-writing-your-first-app/) — *Terence Eden’s Blog* `10-06`
 <!--BLOG_RADAR:end-->
 
 ---

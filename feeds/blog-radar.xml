@@ -4,7 +4,42 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 06 Oct 2026 06:06:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 18:12:51 +0000</lastBuildDate>
+    <item>
+      <title>Apple’s App Icon HOA</title>
+      <link>https://blog.jim-nielsen.com/2026/app-icon-hoa/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/app-icon-hoa/</guid>
+      <pubDate>Tue, 06 Oct 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
+    </item>
+    <item>
+      <title>Scrimshaw Jukebox</title>
+      <link>https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/</guid>
+      <pubDate>Tue, 06 Oct 2026 15:17:39 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Credit Crunch</title>
+      <link>https://www.wheresyoured.at/credit-crunch/</link>
+      <guid isPermaLink="true">https://www.wheresyoured.at/credit-crunch/</guid>
+      <pubDate>Tue, 06 Oct 2026 14:54:08 +0000</pubDate>
+      <description>Ed Zitron's Where's Your Ed At</description>
+    </item>
+    <item>
+      <title>Pluralistic: Swapping money for expertise (06 Oct 2026)</title>
+      <link>https://pluralistic.net/2026/10/06/nonfungible/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/10/06/nonfungible/</guid>
+      <pubDate>Tue, 06 Oct 2026 12:58:26 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Una Watch - SDK and Writing Your First App</title>
+      <link>https://shkspr.mobi/blog/2026/10/una-watch-sdk-and-writing-your-first-app/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/10/una-watch-sdk-and-writing-your-first-app/</guid>
+      <pubDate>Tue, 06 Oct 2026 11:34:25 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
     <item>
       <title>Missing Link</title>
       <link>https://feed.tedium.co/link/15204/17490109/link-newspaper-virginian-pilot-remembrance</link>
@@ -18,6 +53,20 @@
       <guid isPermaLink="true">https://book.stevejobsarchive.com/#photo-37</guid>
       <pubDate>Tue, 06 Oct 2026 02:49:44 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>What is Codemode</title>
+      <link>https://lucumr.pocoo.org/2026/10/6/codemode/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/10/6/codemode/</guid>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Armin Ronacher's Thoughts and Writings</description>
+    </item>
+    <item>
+      <title>We are going to kill “unalive”</title>
+      <link>https://anildash.com/2026/10/06/kill-unalive/</link>
+      <guid isPermaLink="true">https://anildash.com/2026/10/06/kill-unalive/</guid>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Anil Dash</description>
     </item>
     <item>
       <title>Quoting Felix Rieseberg</title>
@@ -39,6 +88,13 @@
       <guid isPermaLink="true">https://openai.com/index/eu-text-provenance/</guid>
       <pubDate>Mon, 05 Oct 2026 22:59:14 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Predicting Peace</title>
+      <link>https://entropicthoughts.com/forecasting-peace</link>
+      <guid isPermaLink="true">https://entropicthoughts.com/forecasting-peace</guid>
+      <pubDate>Mon, 05 Oct 2026 22:00:00 +0000</pubDate>
+      <description>Entropic Thoughts</description>
     </item>
     <item>
       <title>Ternus and Cook Tweet Brief Remembrances on the 15th Anniversary of Steve Jobs’s Death</title>
@@ -788,62 +844,6 @@
       <guid isPermaLink="true">https://seangoedecke.com/human-ai-partnerships-are-for-alignment-not-capability/</guid>
       <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>Kākāpō Party</title>
-      <link>https://simonwillison.net/2026/Sep/26/kakapo-party/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/26/kakapo-party/</guid>
-      <pubDate>Sat, 26 Sep 2026 23:39:06 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Reelizer Returns</title>
-      <link>https://www.reelizer.com/</link>
-      <guid isPermaLink="true">https://www.reelizer.com/</guid>
-      <pubDate>Sat, 26 Sep 2026 21:08:08 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Alexandr Wang: ‘Why I’m Building Muse’</title>
-      <link>https://x.com/alexandr_wang/status/2103551714536439951</link>
-      <guid isPermaLink="true">https://x.com/alexandr_wang/status/2103551714536439951</guid>
-      <pubDate>Sat, 26 Sep 2026 20:34:54 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Apple’s Other Recent ‘Duo’</title>
-      <link>https://support.apple.com/en-us/111812</link>
-      <guid isPermaLink="true">https://support.apple.com/en-us/111812</guid>
-      <pubDate>Sat, 26 Sep 2026 19:41:39 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>International Standard Paper Sizes</title>
-      <link>https://www.cl.cam.ac.uk/~mgk25/iso-paper.html</link>
-      <guid isPermaLink="true">https://www.cl.cam.ac.uk/~mgk25/iso-paper.html</guid>
-      <pubDate>Sat, 26 Sep 2026 18:46:24 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Microsoft Took the ‘Copilot+ PC’ Brand Out Behind the Shed</title>
-      <link>https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding</link>
-      <guid isPermaLink="true">https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding</guid>
-      <pubDate>Sat, 26 Sep 2026 16:53:14 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The Talk Show: ‘I’m Thinking X, Not X’</title>
-      <link>https://daringfireball.net/thetalkshow/2026/09/25/ep-455</link>
-      <guid isPermaLink="true">https://daringfireball.net/thetalkshow/2026/09/25/ep-455</guid>
-      <pubDate>Sat, 26 Sep 2026 16:21:38 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Reverse-engineering the vintage Intel 8087's tangent algorithm: more than CORDIC</title>
-      <link>http://www.righto.com/2026/09/8087-tangent-cordic.html</link>
-      <guid isPermaLink="true">http://www.righto.com/2026/09/8087-tangent-cordic.html</guid>
-      <pubDate>Sat, 26 Sep 2026 16:20:56 +0000</pubDate>
-      <description>Ken Shirriff's blog</description>
     </item>
   </channel>
 </rss>
