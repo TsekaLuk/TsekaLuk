@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 05 Oct 2026 23:56:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 06:06:39 +0000</lastBuildDate>
+    <item>
+      <title>Missing Link</title>
+      <link>https://feed.tedium.co/link/15204/17490109/link-newspaper-virginian-pilot-remembrance</link>
+      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17490109/link-newspaper-virginian-pilot-remembrance</guid>
+      <pubDate>Tue, 06 Oct 2026 02:59:08 +0000</pubDate>
+      <description>Tedium: The Dull Side of the Internet.</description>
+    </item>
+    <item>
+      <title>Steve Jobs, Walking Through a Mockup for Apple Park in 2010</title>
+      <link>https://book.stevejobsarchive.com/#photo-37</link>
+      <guid isPermaLink="true">https://book.stevejobsarchive.com/#photo-37</guid>
+      <pubDate>Tue, 06 Oct 2026 02:49:44 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Quoting Felix Rieseberg</title>
+      <link>https://simonwillison.net/2026/Oct/5/felix-rieseberg/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/5/felix-rieseberg/</guid>
+      <pubDate>Mon, 05 Oct 2026 23:56:47 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>[Sponsor] Sunnny</title>
       <link>https://sunnny.com/</link>
@@ -32,6 +53,13 @@
       <guid isPermaLink="true">https://pluralistic.net/2026/10/05/pervert-glasses/</guid>
       <pubDate>Mon, 05 Oct 2026 18:58:11 +0000</pubDate>
       <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>If somebody tries to hot-patch an already-hot-patched function, how do they avoid conflicts?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20261005-00/?p=112755/</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261005-00/?p=112755/</guid>
+      <pubDate>Mon, 05 Oct 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>[RSS Club] Changes to the RSS and Atom feeds</title>
@@ -335,18 +363,18 @@
       <description>Construction Physics</description>
     </item>
     <item>
-      <title>Software Heritage Identifiers</title>
-      <link>https://nesbitt.io/2026/10/01/software-heritage-identifiers.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/10/01/software-heritage-identifiers.html</guid>
-      <pubDate>Thu, 01 Oct 2026 11:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
       <title>Why Americans Stopped Throwing Dinner Parties</title>
       <link>https://www.theatlantic.com/ideas/2026/10/americans-socialization-dinner-decline-hosting/688846/?utm_source=feed</link>
       <guid isPermaLink="true">https://www.theatlantic.com/ideas/2026/10/americans-socialization-dinner-decline-hosting/688846/?utm_source=feed</guid>
       <pubDate>Thu, 01 Oct 2026 11:00:00 +0000</pubDate>
       <description>Derek Thompson | The Atlantic</description>
+    </item>
+    <item>
+      <title>Software Heritage Identifiers</title>
+      <link>https://nesbitt.io/2026/10/01/software-heritage-identifiers.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/10/01/software-heritage-identifiers.html</guid>
+      <pubDate>Thu, 01 Oct 2026 11:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
     </item>
     <item>
       <title>Quoting Matthew Green</title>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">http://www.righto.com/2026/09/8087-tangent-cordic.html</guid>
       <pubDate>Sat, 26 Sep 2026 16:20:56 +0000</pubDate>
       <description>Ken Shirriff's blog</description>
-    </item>
-    <item>
-      <title>Rusty thoughts on "Parse, don't validate"</title>
-      <link>https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/</link>
-      <guid isPermaLink="true">https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/</guid>
-      <pubDate>Sat, 26 Sep 2026 15:25:00 +0000</pubDate>
-      <description>Eli Bendersky's website</description>
-    </item>
-    <item>
-      <title>No errors, no warnings, no gods, no masters - HTML Purity is a Fetish</title>
-      <link>https://shkspr.mobi/blog/2026/09/no-errors-no-warnings-no-gods-no-masters-html-purity-is-a-fetish/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/09/no-errors-no-warnings-no-gods-no-masters-html-purity-is-a-fetish/</guid>
-      <pubDate>Sat, 26 Sep 2026 11:34:02 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Reading List 2026-09-26</title>
-      <link>https://www.construction-physics.com/p/reading-list-2026-09-26</link>
-      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-2026-09-26</guid>
-      <pubDate>Sat, 26 Sep 2026 10:17:46 +0000</pubDate>
-      <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>This Week in Package Management: 26 September 2026</title>
-      <link>https://nesbitt.io/2026/09/26/this-week-in-package-management.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/09/26/this-week-in-package-management.html</guid>
-      <pubDate>Sat, 26 Sep 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
     </item>
   </channel>
 </rss>

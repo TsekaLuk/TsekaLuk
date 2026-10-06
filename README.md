@@ -208,11 +208,11 @@ Last Updated: Tuesday, October 6th, 2026, 12:23:39 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Missing Link](https://feed.tedium.co/link/15204/17490109/link-newspaper-virginian-pilot-remembrance) — *Tedium: The Dull Side of the Internet.* `10-06`
+- [Steve Jobs, Walking Through a Mockup for Apple Park in 2010](https://book.stevejobsarchive.com/#photo-37) — *Daring Fireball* `10-06`
+- [Quoting Felix Rieseberg](https://simonwillison.net/2026/Oct/5/felix-rieseberg/) — *Simon Willison's Weblog* `10-05`
 - [[Sponsor] Sunnny](https://sunnny.com/) — *Daring Fireball* `10-05`
 - [OpenAI Announces Their Text Watermarking Plans](https://openai.com/index/eu-text-provenance/) — *Daring Fireball* `10-05`
-- [Ternus and Cook Tweet Brief Remembrances on the 15th Anniversary of Steve Jobs’s Death](https://x.com/johnternus/status/2107093462118199562) — *Daring Fireball* `10-05`
-- [Pluralistic: Scrutinized (05 Oct 2026)](https://pluralistic.net/2026/10/05/pervert-glasses/) — *Pluralistic: Daily links from Cory Doctorow* `10-05`
-- [[RSS Club] Changes to the RSS and Atom feeds](https://shkspr.mobi/blog/2026/10/rss-club-changes-to-the-rss-and-atom-feeds/) — *Terence Eden’s Blog* `10-05`
 <!--BLOG_RADAR:end-->
 
 ---
