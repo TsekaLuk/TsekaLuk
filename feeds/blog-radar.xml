@@ -4,13 +4,111 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 06 Oct 2026 18:12:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 05:30:11 +0000</lastBuildDate>
+    <item>
+      <title>Quoting Jake Boggan</title>
+      <link>https://simonwillison.net/2026/Oct/7/jake-boggan/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/7/jake-boggan/</guid>
+      <pubDate>Wed, 07 Oct 2026 04:47:55 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Lissajous and Bowditch</title>
+      <link>https://www.johndcook.com/blog/2026/10/06/lissajous-and-bowditch/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/10/06/lissajous-and-bowditch/</guid>
+      <pubDate>Wed, 07 Oct 2026 00:21:52 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>OpenAI “rogue” agent activities found on Wikimedia projects</title>
+      <link>https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/</guid>
+      <pubDate>Wed, 07 Oct 2026 00:16:45 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>How to read code</title>
+      <link>https://seangoedecke.com/how-to-read-code/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/how-to-read-code/</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Quoting Victoria Kim</title>
+      <link>https://simonwillison.net/2026/Oct/6/victoria-kim/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/6/victoria-kim/</guid>
+      <pubDate>Tue, 06 Oct 2026 23:58:56 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>llm-openai-decisions 0.1a0</title>
+      <link>https://simonwillison.net/2026/Oct/6/llm-openai-decisions/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/6/llm-openai-decisions/</guid>
+      <pubDate>Tue, 06 Oct 2026 23:04:13 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>llm-mistral 0.16</title>
+      <link>https://simonwillison.net/2026/Oct/6/llm-mistral/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/6/llm-mistral/</guid>
+      <pubDate>Tue, 06 Oct 2026 21:32:34 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>EmbeddingGemma 2</title>
+      <link>https://simonwillison.net/2026/Oct/6/hn-49983751/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/6/hn-49983751/</guid>
+      <pubDate>Tue, 06 Oct 2026 20:37:53 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Introducing Mistral Large 4: Le chonk</title>
+      <link>https://simonwillison.net/2026/Oct/6/le-chonk/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/6/le-chonk/</guid>
+      <pubDate>Tue, 06 Oct 2026 20:18:19 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>A topological model for provability logic</title>
+      <link>https://www.johndcook.com/blog/2026/10/06/godel-lob/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/10/06/godel-lob/</guid>
+      <pubDate>Tue, 06 Oct 2026 19:46:28 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Using Parseable with Datasette for OpenTelemetry traces</title>
+      <link>https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/</guid>
+      <pubDate>Tue, 06 Oct 2026 19:07:31 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Apple’s App Icon HOA</title>
       <link>https://blog.jim-nielsen.com/2026/app-icon-hoa/</link>
       <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/app-icon-hoa/</guid>
       <pubDate>Tue, 06 Oct 2026 19:00:00 +0000</pubDate>
       <description>Jim Nielsen’s Blog</description>
+    </item>
+    <item>
+      <title>Mistral Large 4</title>
+      <link>https://simonwillison.net/2026/Oct/6/hn-49982139/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/6/hn-49982139/</guid>
+      <pubDate>Tue, 06 Oct 2026 18:20:58 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Unofficial Command-Line Tool Removes Apple Intelligence From MacOS 27</title>
+      <link>https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/</link>
+      <guid isPermaLink="true">https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/</guid>
+      <pubDate>Tue, 06 Oct 2026 18:17:43 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>datasette-atom 0.11a0</title>
+      <link>https://simonwillison.net/2026/Oct/6/datasette-atom/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/6/datasette-atom/</guid>
+      <pubDate>Tue, 06 Oct 2026 17:35:39 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
     <item>
       <title>Scrimshaw Jukebox</title>
@@ -25,6 +123,13 @@
       <guid isPermaLink="true">https://www.wheresyoured.at/credit-crunch/</guid>
       <pubDate>Tue, 06 Oct 2026 14:54:08 +0000</pubDate>
       <description>Ed Zitron's Where's Your Ed At</description>
+    </item>
+    <item>
+      <title>Why does the compiler sometimes use ud2 and sometimes int 3 for code that shouldn’t execute?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20261006-00/?p=112757/</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261006-00/?p=112757/</guid>
+      <pubDate>Tue, 06 Oct 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Pluralistic: Swapping money for expertise (06 Oct 2026)</title>
@@ -53,6 +158,13 @@
       <guid isPermaLink="true">https://book.stevejobsarchive.com/#photo-37</guid>
       <pubDate>Tue, 06 Oct 2026 02:49:44 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>A Terminal Protocol for Program Status (OSC 7501)</title>
+      <link>https://mitchellh.com/writing/program-status-osc7501</link>
+      <guid isPermaLink="true">https://mitchellh.com/writing/program-status-osc7501</guid>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Mitchell Hashimoto</description>
     </item>
     <item>
       <title>What is Codemode</title>
@@ -732,118 +844,6 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260928-00/?p=112738/</guid>
       <pubDate>Mon, 28 Sep 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>The World Outside the Classroom Changed, The Class Didn’t</title>
-      <link>https://steveblank.com/2026/09/28/the-world-outside-the-classroom-changed-the-class-didnt/</link>
-      <guid isPermaLink="true">https://steveblank.com/2026/09/28/the-world-outside-the-classroom-changed-the-class-didnt/</guid>
-      <pubDate>Mon, 28 Sep 2026 13:00:57 +0000</pubDate>
-      <description>Steve Blank</description>
-    </item>
-    <item>
-      <title>Open State praatje: zonder transparantie geen democratie</title>
-      <link>https://berthub.eu/articles/posts/openstate-zonder-transparantie-geen-democratie/</link>
-      <guid isPermaLink="true">https://berthub.eu/articles/posts/openstate-zonder-transparantie-geen-democratie/</guid>
-      <pubDate>Mon, 28 Sep 2026 11:40:00 +0000</pubDate>
-      <description>Bert Hubert's writings</description>
-    </item>
-    <item>
-      <title>Book Review: Bobiverse Books 1-3 by Dennis E. Taylor ★★★☆☆</title>
-      <link>https://shkspr.mobi/blog/2026/09/book-review-bobiverse-books-1-3-by-dennis-e-taylor/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/09/book-review-bobiverse-books-1-3-by-dennis-e-taylor/</guid>
-      <pubDate>Mon, 28 Sep 2026 11:34:52 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>SmartOS: The illumos Way of Thinking About Servers</title>
-      <link>https://it-notes.dragas.net/2026/09/28/smartos-the-illumos-way-of-thinking-about-servers/</link>
-      <guid isPermaLink="true">https://it-notes.dragas.net/2026/09/28/smartos-the-illumos-way-of-thinking-about-servers/</guid>
-      <pubDate>Mon, 28 Sep 2026 08:45:00 +0000</pubDate>
-      <description>IT Notes</description>
-    </item>
-    <item>
-      <title>Edge Is Pretending to Be Chrome</title>
-      <link>https://idiallo.com/blog/edge-imitates-chrome</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/edge-imitates-chrome</guid>
-      <pubDate>Mon, 28 Sep 2026 07:30:00 +0000</pubDate>
-      <description>Software and Tech stories from an Insider - iDiallo.com</description>
-    </item>
-    <item>
-      <title>Weekly Update 523: Live From a Norwegian Fjord</title>
-      <link>https://www.troyhunt.com/weekly-update-523/</link>
-      <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-523/</guid>
-      <pubDate>Mon, 28 Sep 2026 07:24:49 +0000</pubDate>
-      <description>Troy Hunt</description>
-    </item>
-    <item>
-      <title>Quoting Muse AI Agent</title>
-      <link>https://simonwillison.net/2026/Sep/28/muse-ai-agent/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/28/muse-ai-agent/</guid>
-      <pubDate>Mon, 28 Sep 2026 04:01:30 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>2026 in LLMs (so far)</title>
-      <link>https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/</guid>
-      <pubDate>Sun, 27 Sep 2026 23:54:15 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>S3 Is the Future, S3 Is the Past</title>
-      <link>https://simonwillison.net/2026/Sep/27/hn-49871741/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/27/hn-49871741/</guid>
-      <pubDate>Sun, 27 Sep 2026 23:09:19 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Mux: Turn Your Video Into Context</title>
-      <link>https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF</link>
-      <guid isPermaLink="true">https://www.mux.com/?utm_campaign=fireball&amp;utm_source=DF</guid>
-      <pubDate>Sun, 27 Sep 2026 20:22:00 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Katie Notopoulos on Alexandr Wang’s ‘Faux-Hallmark Pap’</title>
-      <link>https://x.com/katienotopoulos/status/2103993429659386026</link>
-      <guid isPermaLink="true">https://x.com/katienotopoulos/status/2103993429659386026</guid>
-      <pubDate>Sun, 27 Sep 2026 20:21:43 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Humane Interfaces</title>
-      <link>https://blog.jim-nielsen.com/2026/humane-interfaces/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/humane-interfaces/</guid>
-      <pubDate>Sun, 27 Sep 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
-      <title>Bluesky reply bot checker</title>
-      <link>https://simonwillison.net/2026/Sep/27/bluesky-bot-check/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/27/bluesky-bot-check/</guid>
-      <pubDate>Sun, 27 Sep 2026 18:41:44 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Combo Platter</title>
-      <link>https://feed.tedium.co/link/15204/17475461/combos-snack-food-history</link>
-      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17475461/combos-snack-food-history</guid>
-      <pubDate>Sun, 27 Sep 2026 16:05:10 +0000</pubDate>
-      <description>Tedium: The Dull Side of the Internet.</description>
-    </item>
-    <item>
-      <title>Gig Review: Public Service Broadcasting's Race For Space at Alexandra Palace ★★★★⯪</title>
-      <link>https://shkspr.mobi/blog/2026/09/gig-review-public-service-broadcastings-race-for-space-at-alexandra-palace/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/09/gig-review-public-service-broadcastings-race-for-space-at-alexandra-palace/</guid>
-      <pubDate>Sun, 27 Sep 2026 11:34:08 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Human-AI partnerships are for alignment, not capability</title>
-      <link>https://seangoedecke.com/human-ai-partnerships-are-for-alignment-not-capability/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/human-ai-partnerships-are-for-alignment-not-capability/</guid>
-      <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
     </item>
   </channel>
 </rss>

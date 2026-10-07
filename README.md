@@ -208,11 +208,11 @@ Last Updated: Wednesday, October 7th, 2026, 11:49:45 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Apple’s App Icon HOA](https://blog.jim-nielsen.com/2026/app-icon-hoa/) — *Jim Nielsen’s Blog* `10-06`
-- [Scrimshaw Jukebox](https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/) — *Simon Willison's Weblog* `10-06`
-- [Credit Crunch](https://www.wheresyoured.at/credit-crunch/) — *Ed Zitron's Where's Your Ed At* `10-06`
-- [Pluralistic: Swapping money for expertise (06 Oct 2026)](https://pluralistic.net/2026/10/06/nonfungible/) — *Pluralistic: Daily links from Cory Doctorow* `10-06`
-- [Una Watch - SDK and Writing Your First App](https://shkspr.mobi/blog/2026/10/una-watch-sdk-and-writing-your-first-app/) — *Terence Eden’s Blog* `10-06`
+- [Quoting Jake Boggan](https://simonwillison.net/2026/Oct/7/jake-boggan/) — *Simon Willison's Weblog* `10-07`
+- [Lissajous and Bowditch](https://www.johndcook.com/blog/2026/10/06/lissajous-and-bowditch/) — *John D. Cook* `10-07`
+- [OpenAI “rogue” agent activities found on Wikimedia projects](https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/) — *Simon Willison's Weblog* `10-07`
+- [How to read code](https://seangoedecke.com/how-to-read-code/) — *seangoedecke.com RSS feed* `10-07`
+- [Quoting Victoria Kim](https://simonwillison.net/2026/Oct/6/victoria-kim/) — *Simon Willison's Weblog* `10-06`
 <!--BLOG_RADAR:end-->
 
 ---
