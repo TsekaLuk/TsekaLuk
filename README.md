@@ -208,11 +208,11 @@ Last Updated: Wednesday, October 7th, 2026, 8:28:58 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Package Management RFCs](https://nesbitt.io/2026/10/07/package-management-rfcs.html) — *Andrew Nesbitt* `10-07`
 - [Quoting Jake Boggan](https://simonwillison.net/2026/Oct/7/jake-boggan/) — *Simon Willison's Weblog* `10-07`
 - [Lissajous and Bowditch](https://www.johndcook.com/blog/2026/10/06/lissajous-and-bowditch/) — *John D. Cook* `10-07`
 - [OpenAI “rogue” agent activities found on Wikimedia projects](https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/) — *Simon Willison's Weblog* `10-07`
 - [How to read code](https://seangoedecke.com/how-to-read-code/) — *seangoedecke.com RSS feed* `10-07`
-- [Quoting Victoria Kim](https://simonwillison.net/2026/Oct/6/victoria-kim/) — *Simon Willison's Weblog* `10-06`
 <!--BLOG_RADAR:end-->
 
 ---

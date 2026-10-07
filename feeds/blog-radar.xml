@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 07 Oct 2026 05:30:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 13:05:15 +0000</lastBuildDate>
+    <item>
+      <title>Package Management RFCs</title>
+      <link>https://nesbitt.io/2026/10/07/package-management-rfcs.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/10/07/package-management-rfcs.html</guid>
+      <pubDate>Wed, 07 Oct 2026 11:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
     <item>
       <title>Quoting Jake Boggan</title>
       <link>https://simonwillison.net/2026/Oct/7/jake-boggan/</link>
@@ -32,6 +39,13 @@
       <guid isPermaLink="true">https://seangoedecke.com/how-to-read-code/</guid>
       <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Anti-Patterns in Software Blogging</title>
+      <link>https://refactoringenglish.com/blog/anti-patterns-software-blogging/</link>
+      <guid isPermaLink="true">https://refactoringenglish.com/blog/anti-patterns-software-blogging/</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Refactoring English</description>
     </item>
     <item>
       <title>Quoting Victoria Kim</title>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/09/29/post-capitalism.html</guid>
       <pubDate>Mon, 28 Sep 2026 16:00:00 +0000</pubDate>
       <description>the singularity is nearer</description>
-    </item>
-    <item>
-      <title>Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation</title>
-      <link>https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/</link>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/</guid>
-      <pubDate>Mon, 28 Sep 2026 15:08:57 +0000</pubDate>
-      <description>Krebs on Security</description>
-    </item>
-    <item>
-      <title>C++ reminder: Function-local static variables are initialized only once, even if it looks like they get initialized multiple times</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260928-00/?p=112738/</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260928-00/?p=112738/</guid>
-      <pubDate>Mon, 28 Sep 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
     </item>
   </channel>
 </rss>
