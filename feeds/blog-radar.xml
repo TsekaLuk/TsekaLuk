@@ -4,7 +4,63 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 07 Oct 2026 13:05:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 22:57:52 +0000</lastBuildDate>
+    <item>
+      <title>Consequences of progress toward the Riemann Hypothesis</title>
+      <link>https://www.johndcook.com/blog/2026/10/07/consequences-of-qrh/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/10/07/consequences-of-qrh/</guid>
+      <pubDate>Wed, 07 Oct 2026 22:29:28 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Gurman Strikes Again: ‘Apple’s Smart Home Push Includes Doorbell, Lock, Thermostat Codeveloped With LG’</title>
+      <link>https://www.bloomberg.com/news/articles/2026-10-06/apple-s-smart-home-push-includes-doorbell-lock-thermostat-codeveloped-with-lg?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTMyMDkxNiwiZXhwIjoxNzkxOTI1NzE2LCJhcnRpY2xlSWQiOiJUTUdDN0lLSkg2VjUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.LSK9jlXYPFHac9EpcJCErTgJNAwqmpV6qFoORcKffVo</link>
+      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-10-06/apple-s-smart-home-push-includes-doorbell-lock-thermostat-codeveloped-with-lg?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTMyMDkxNiwiZXhwIjoxNzkxOTI1NzE2LCJhcnRpY2xlSWQiOiJUTUdDN0lLSkg2VjUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.LSK9jlXYPFHac9EpcJCErTgJNAwqmpV6qFoORcKffVo</guid>
+      <pubDate>Wed, 07 Oct 2026 22:02:43 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Faster Fourier Transform</title>
+      <link>https://www.johndcook.com/blog/2026/10/07/faster-fourier-transform/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/10/07/faster-fourier-transform/</guid>
+      <pubDate>Wed, 07 Oct 2026 21:41:47 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Irrationality exponent of π</title>
+      <link>https://www.johndcook.com/blog/2026/10/07/irrationality-exponent-of-pi/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/10/07/irrationality-exponent-of-pi/</guid>
+      <pubDate>Wed, 07 Oct 2026 21:19:20 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Claude Haiku 5.5</title>
+      <link>https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/</guid>
+      <pubDate>Wed, 07 Oct 2026 20:56:21 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Anti-Patterns in Software Blogging</title>
+      <link>https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/</guid>
+      <pubDate>Wed, 07 Oct 2026 14:53:51 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Pluralistic: Disloyalty (07 Oct 2026)</title>
+      <link>https://pluralistic.net/2026/10/07/gouged/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/10/07/gouged/</guid>
+      <pubDate>Wed, 07 Oct 2026 13:58:46 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>ShinyHunters Extorted Boeing Spin-off Prior to Arrests</title>
+      <link>https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/</link>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/</guid>
+      <pubDate>Wed, 07 Oct 2026 13:48:45 +0000</pubDate>
+      <description>Krebs on Security</description>
+    </item>
     <item>
       <title>Package Management RFCs</title>
       <link>https://nesbitt.io/2026/10/07/package-management-rfcs.html</link>
@@ -39,6 +95,13 @@
       <guid isPermaLink="true">https://seangoedecke.com/how-to-read-code/</guid>
       <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>On Git Refs</title>
+      <link>https://matklad.github.io/2026/10/07/git-ref.html</link>
+      <guid isPermaLink="true">https://matklad.github.io/2026/10/07/git-ref.html</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+      <description>matklad</description>
     </item>
     <item>
       <title>Anti-Patterns in Software Blogging</title>
@@ -781,69 +844,6 @@
       <guid isPermaLink="true">https://martinalderson.com/posts/ai-margin-collapse-gathering-pace/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
       <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
       <description>Martin Alderson</description>
-    </item>
-    <item>
-      <title>llm-anthropic 0.30</title>
-      <link>https://simonwillison.net/2026/Sep/28/llm-anthropic/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/28/llm-anthropic/</guid>
-      <pubDate>Mon, 28 Sep 2026 23:06:21 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Jeremy Stern’s Profile of Mark Zuckerberg for Colossus</title>
-      <link>https://colossus.com/article/mark-zuckerberg-profile/</link>
-      <guid isPermaLink="true">https://colossus.com/article/mark-zuckerberg-profile/</guid>
-      <pubDate>Mon, 28 Sep 2026 22:41:40 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Claude Sonnet 5.5</title>
-      <link>https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/</guid>
-      <pubDate>Mon, 28 Sep 2026 22:07:38 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Donating to open source</title>
-      <link>https://entropicthoughts.com/open-source-donation</link>
-      <guid isPermaLink="true">https://entropicthoughts.com/open-source-donation</guid>
-      <pubDate>Mon, 28 Sep 2026 22:00:00 +0000</pubDate>
-      <description>Entropic Thoughts</description>
-    </item>
-    <item>
-      <title>Muse, Instagram, and VLC Lookalike Rip-Offs in the Mac App Store</title>
-      <link>https://lapcatsoftware.com/articles/2026/9/8.html</link>
-      <guid isPermaLink="true">https://lapcatsoftware.com/articles/2026/9/8.html</guid>
-      <pubDate>Mon, 28 Sep 2026 19:50:19 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Quoting @joedaroo</title>
-      <link>https://simonwillison.net/2026/Sep/28/joedaroo/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/28/joedaroo/</guid>
-      <pubDate>Mon, 28 Sep 2026 19:11:42 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Pluralistic: Priceful (28 Sep 2026)</title>
-      <link>https://pluralistic.net/2026/09/28/cost-of-everything/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/09/28/cost-of-everything/</guid>
-      <pubDate>Mon, 28 Sep 2026 17:48:26 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Duo-Man</title>
-      <link>https://x.com/viditb/status/2104103592726765722</link>
-      <guid isPermaLink="true">https://x.com/viditb/status/2104103592726765722</guid>
-      <pubDate>Mon, 28 Sep 2026 16:35:02 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Post Capitalism</title>
-      <link>https://geohot.github.io//blog/jekyll/update/2026/09/29/post-capitalism.html</link>
-      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/09/29/post-capitalism.html</guid>
-      <pubDate>Mon, 28 Sep 2026 16:00:00 +0000</pubDate>
-      <description>the singularity is nearer</description>
     </item>
   </channel>
 </rss>

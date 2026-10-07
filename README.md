@@ -208,11 +208,11 @@ Last Updated: Thursday, October 8th, 2026, 6:32:01 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Package Management RFCs](https://nesbitt.io/2026/10/07/package-management-rfcs.html) — *Andrew Nesbitt* `10-07`
-- [Quoting Jake Boggan](https://simonwillison.net/2026/Oct/7/jake-boggan/) — *Simon Willison's Weblog* `10-07`
-- [Lissajous and Bowditch](https://www.johndcook.com/blog/2026/10/06/lissajous-and-bowditch/) — *John D. Cook* `10-07`
-- [OpenAI “rogue” agent activities found on Wikimedia projects](https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/) — *Simon Willison's Weblog* `10-07`
-- [How to read code](https://seangoedecke.com/how-to-read-code/) — *seangoedecke.com RSS feed* `10-07`
+- [Consequences of progress toward the Riemann Hypothesis](https://www.johndcook.com/blog/2026/10/07/consequences-of-qrh/) — *John D. Cook* `10-07`
+- [Gurman Strikes Again: ‘Apple’s Smart Home Push Includes Doorbell, Lock, Thermostat Codeveloped With LG’](https://www.bloomberg.com/news/articles/2026-10-06/apple-s-smart-home-push-includes-doorbell-lock-thermostat-codeveloped-with-lg?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTMyMDkxNiwiZXhwIjoxNzkxOTI1NzE2LCJhcnRpY2xlSWQiOiJUTUdDN0lLSkg2VjUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.LSK9jlXYPFHac9EpcJCErTgJNAwqmpV6qFoORcKffVo) — *Daring Fireball* `10-07`
+- [Faster Fourier Transform](https://www.johndcook.com/blog/2026/10/07/faster-fourier-transform/) — *John D. Cook* `10-07`
+- [Irrationality exponent of π](https://www.johndcook.com/blog/2026/10/07/irrationality-exponent-of-pi/) — *John D. Cook* `10-07`
+- [Claude Haiku 5.5](https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/) — *Simon Willison's Weblog* `10-07`
 <!--BLOG_RADAR:end-->
 
 ---
