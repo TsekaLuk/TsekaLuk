@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 07 Oct 2026 22:57:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 05:38:26 +0000</lastBuildDate>
+    <item>
+      <title>Monte-Carlo simulations</title>
+      <link>https://eli.thegreenplace.net/2026/monte-carlo-simulations/</link>
+      <guid isPermaLink="true">https://eli.thegreenplace.net/2026/monte-carlo-simulations/</guid>
+      <pubDate>Thu, 08 Oct 2026 02:34:00 +0000</pubDate>
+      <description>Eli Bendersky's website</description>
+    </item>
+    <item>
+      <title>Jaguar Type 01</title>
+      <link>https://insideevs.com/news/810839/jaguar-type-01-launch-ev/</link>
+      <guid isPermaLink="true">https://insideevs.com/news/810839/jaguar-type-01-launch-ev/</guid>
+      <pubDate>Wed, 07 Oct 2026 23:22:28 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Quoting Ben Affleck</title>
+      <link>https://simonwillison.net/2026/Oct/7/ben-affleck/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/7/ben-affleck/</guid>
+      <pubDate>Wed, 07 Oct 2026 23:14:58 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Consequences of progress toward the Riemann Hypothesis</title>
       <link>https://www.johndcook.com/blog/2026/10/07/consequences-of-qrh/</link>
@@ -46,6 +67,13 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/</guid>
       <pubDate>Wed, 07 Oct 2026 14:53:51 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>How can undefined opcodes ud0 and ud1 have parameters? How undefined were they?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20261007-00/?p=112759/</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261007-00/?p=112759/</guid>
+      <pubDate>Wed, 07 Oct 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Pluralistic: Disloyalty (07 Oct 2026)</title>
@@ -109,6 +137,13 @@
       <guid isPermaLink="true">https://refactoringenglish.com/blog/anti-patterns-software-blogging/</guid>
       <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
       <description>Refactoring English</description>
+    </item>
+    <item>
+      <title>Shopify went back to native. I think the bigger shift is formal verification</title>
+      <link>https://martinalderson.com/posts/shopify-native-formal-verification/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
+      <guid isPermaLink="true">https://martinalderson.com/posts/shopify-native-formal-verification/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Martin Alderson</description>
     </item>
     <item>
       <title>Quoting Victoria Kim</title>
@@ -809,41 +844,6 @@
       <guid isPermaLink="true">https://www.youtube.com/watch?v=YNqYEMuoQAI</guid>
       <pubDate>Tue, 29 Sep 2026 01:42:00 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>‘Donald Decodes’ Interview Craig Federighi Regarding the iPhone Duo</title>
-      <link>https://www.youtube.com/watch?v=y227RF0smAg</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=y227RF0smAg</guid>
-      <pubDate>Tue, 29 Sep 2026 01:10:48 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Why Stolen Device Protection Makes Passwords Safer</title>
-      <link>https://sixcolors.com/post/2026/09/stolen-device-protection-passwords-glenn/</link>
-      <guid isPermaLink="true">https://sixcolors.com/post/2026/09/stolen-device-protection-passwords-glenn/</guid>
-      <pubDate>Tue, 29 Sep 2026 00:43:51 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Deser: Rethinking Rust Serialization</title>
-      <link>https://lucumr.pocoo.org/2026/9/29/deser/</link>
-      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/9/29/deser/</guid>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Armin Ronacher's Thoughts and Writings</description>
-    </item>
-    <item>
-      <title>The Facebook Fake-out</title>
-      <link>https://anildash.com/2026/09/29/facebook-fake-out/</link>
-      <guid isPermaLink="true">https://anildash.com/2026/09/29/facebook-fake-out/</guid>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Anil Dash</description>
-    </item>
-    <item>
-      <title>The AI margin collapse is gathering pace</title>
-      <link>https://martinalderson.com/posts/ai-margin-collapse-gathering-pace/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
-      <guid isPermaLink="true">https://martinalderson.com/posts/ai-margin-collapse-gathering-pace/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Martin Alderson</description>
     </item>
   </channel>
 </rss>
