@@ -208,11 +208,11 @@ Last Updated: Thursday, October 8th, 2026, 8:38:43 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [The Rise and Fall of the Plasma Screen](https://www.construction-physics.com/p/the-rise-and-fall-of-the-plasma-screen) — *Construction Physics* `10-08`
+- [Theatre Review: Hay Fever at Wyndham's Theatre ★★★★⯪](https://shkspr.mobi/blog/2026/10/theatre-review-hay-fever-at-wyndhams-theatre/) — *Terence Eden’s Blog* `10-08`
 - [Monte-Carlo simulations](https://eli.thegreenplace.net/2026/monte-carlo-simulations/) — *Eli Bendersky's website* `10-08`
 - [Jaguar Type 01](https://insideevs.com/news/810839/jaguar-type-01-launch-ev/) — *Daring Fireball* `10-07`
 - [Quoting Ben Affleck](https://simonwillison.net/2026/Oct/7/ben-affleck/) — *Simon Willison's Weblog* `10-07`
-- [Consequences of progress toward the Riemann Hypothesis](https://www.johndcook.com/blog/2026/10/07/consequences-of-qrh/) — *John D. Cook* `10-07`
-- [Gurman Strikes Again: ‘Apple’s Smart Home Push Includes Doorbell, Lock, Thermostat Codeveloped With LG’](https://www.bloomberg.com/news/articles/2026-10-06/apple-s-smart-home-push-includes-doorbell-lock-thermostat-codeveloped-with-lg?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTMyMDkxNiwiZXhwIjoxNzkxOTI1NzE2LCJhcnRpY2xlSWQiOiJUTUdDN0lLSkg2VjUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.LSK9jlXYPFHac9EpcJCErTgJNAwqmpV6qFoORcKffVo) — *Daring Fireball* `10-07`
 <!--BLOG_RADAR:end-->
 
 ---
