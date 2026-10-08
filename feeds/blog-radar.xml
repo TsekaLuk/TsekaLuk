@@ -4,7 +4,56 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 08 Oct 2026 13:12:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 23:11:26 +0000</lastBuildDate>
+    <item>
+      <title>Let’s Check In on Trump’s Blog</title>
+      <link>https://truthsocial.com/@realDonaldTrump/posts/117406176604364910</link>
+      <guid isPermaLink="true">https://truthsocial.com/@realDonaldTrump/posts/117406176604364910</guid>
+      <pubDate>Thu, 08 Oct 2026 22:52:35 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Quoting Carson Gross</title>
+      <link>https://simonwillison.net/2026/Oct/8/carson-gross/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/8/carson-gross/</guid>
+      <pubDate>Thu, 08 Oct 2026 21:05:44 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Apple Is Slow-Rolling iOS 27 Adoption, So Far</title>
+      <link>https://mastodon.social/@_Davidsmith/117355154519434137</link>
+      <guid isPermaLink="true">https://mastodon.social/@_Davidsmith/117355154519434137</guid>
+      <pubDate>Thu, 08 Oct 2026 19:30:36 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Joz Announces ‘Welcome Home’ Keynote Coming Tuesday, 13 October</title>
+      <link>https://x.com/gregjoz/status/2108226096407994858</link>
+      <guid isPermaLink="true">https://x.com/gregjoz/status/2108226096407994858</guid>
+      <pubDate>Thu, 08 Oct 2026 19:00:09 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>“Getting off the Modernization Treadmill”</title>
+      <link>https://blog.jim-nielsen.com/2026/talk-notes-modernization-treadmill/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/talk-notes-modernization-treadmill/</guid>
+      <pubDate>Thu, 08 Oct 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
+    </item>
+    <item>
+      <title>Let’s Deconstruct Photoshop</title>
+      <link>https://feed.tedium.co/link/15204/17492299/artcraft-vibe-coding-creative-cloud-remake</link>
+      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17492299/artcraft-vibe-coding-creative-cloud-remake</guid>
+      <pubDate>Thu, 08 Oct 2026 16:54:14 +0000</pubDate>
+      <description>Tedium: The Dull Side of the Internet.</description>
+    </item>
+    <item>
+      <title>Privacy policies and modal logic</title>
+      <link>https://www.johndcook.com/blog/2026/10/08/privacy-policies-and-modal-logic/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/10/08/privacy-policies-and-modal-logic/</guid>
+      <pubDate>Thu, 08 Oct 2026 13:43:02 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
     <item>
       <title>The Rise and Fall of the Plasma Screen</title>
       <link>https://www.construction-physics.com/p/the-rise-and-fall-of-the-plasma-screen</link>
@@ -664,18 +713,18 @@
       <description>Construction Physics</description>
     </item>
     <item>
-      <title>Software Heritage Identifiers</title>
-      <link>https://nesbitt.io/2026/10/01/software-heritage-identifiers.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/10/01/software-heritage-identifiers.html</guid>
-      <pubDate>Thu, 01 Oct 2026 11:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
       <title>Why Americans Stopped Throwing Dinner Parties</title>
       <link>https://www.theatlantic.com/ideas/2026/10/americans-socialization-dinner-decline-hosting/688846/?utm_source=feed</link>
       <guid isPermaLink="true">https://www.theatlantic.com/ideas/2026/10/americans-socialization-dinner-decline-hosting/688846/?utm_source=feed</guid>
       <pubDate>Thu, 01 Oct 2026 11:00:00 +0000</pubDate>
       <description>Derek Thompson | The Atlantic</description>
+    </item>
+    <item>
+      <title>Software Heritage Identifiers</title>
+      <link>https://nesbitt.io/2026/10/01/software-heritage-identifiers.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/10/01/software-heritage-identifiers.html</guid>
+      <pubDate>Thu, 01 Oct 2026 11:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
     </item>
     <item>
       <title>Quoting Matthew Green</title>
@@ -795,55 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Sep/29/photo-scrubber/</guid>
       <pubDate>Tue, 29 Sep 2026 16:45:27 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>OpenAI DevDay 2026 live blog</title>
-      <link>https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/</guid>
-      <pubDate>Tue, 29 Sep 2026 15:55:13 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Dead Money</title>
-      <link>https://www.wheresyoured.at/dead-money/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/dead-money/</guid>
-      <pubDate>Tue, 29 Sep 2026 15:45:09 +0000</pubDate>
-      <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>Follow-Up on my Spitballed Predictions for Apple’s October</title>
-      <link>https://daringfireball.net/2026/09/spitballing_predictions_for_apples_october</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/09/spitballing_predictions_for_apples_october</guid>
-      <pubDate>Tue, 29 Sep 2026 15:08:19 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Destroy Any Website</title>
-      <link>https://destroy.spritefusion.com/</link>
-      <guid isPermaLink="true">https://destroy.spritefusion.com/</guid>
-      <pubDate>Tue, 29 Sep 2026 14:29:28 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The Strangest Idea in the World</title>
-      <link>https://www.experimental-history.com/p/the-strangest-idea-in-the-world</link>
-      <guid isPermaLink="true">https://www.experimental-history.com/p/the-strangest-idea-in-the-world</guid>
-      <pubDate>Tue, 29 Sep 2026 14:29:26 +0000</pubDate>
-      <description>Experimental History</description>
-    </item>
-    <item>
-      <title>As a general rule, calling product support while drunk is not recommended</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260929-00/?p=112740/</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260929-00/?p=112740/</guid>
-      <pubDate>Tue, 29 Sep 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Pluralistic: Lindsay Owens's "Gouged" (29 Sep 2026)</title>
-      <link>https://pluralistic.net/2026/09/29/algorithmic-wage-theft/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/09/29/algorithmic-wage-theft/</guid>
-      <pubDate>Tue, 29 Sep 2026 13:40:37 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
     </item>
   </channel>
 </rss>

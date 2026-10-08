@@ -208,11 +208,11 @@ Last Updated: Friday, October 9th, 2026, 6:44:56 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [The Rise and Fall of the Plasma Screen](https://www.construction-physics.com/p/the-rise-and-fall-of-the-plasma-screen) — *Construction Physics* `10-08`
-- [Theatre Review: Hay Fever at Wyndham's Theatre ★★★★⯪](https://shkspr.mobi/blog/2026/10/theatre-review-hay-fever-at-wyndhams-theatre/) — *Terence Eden’s Blog* `10-08`
-- [Monte-Carlo simulations](https://eli.thegreenplace.net/2026/monte-carlo-simulations/) — *Eli Bendersky's website* `10-08`
-- [Jaguar Type 01](https://insideevs.com/news/810839/jaguar-type-01-launch-ev/) — *Daring Fireball* `10-07`
-- [Quoting Ben Affleck](https://simonwillison.net/2026/Oct/7/ben-affleck/) — *Simon Willison's Weblog* `10-07`
+- [Let’s Check In on Trump’s Blog](https://truthsocial.com/@realDonaldTrump/posts/117406176604364910) — *Daring Fireball* `10-08`
+- [Quoting Carson Gross](https://simonwillison.net/2026/Oct/8/carson-gross/) — *Simon Willison's Weblog* `10-08`
+- [Apple Is Slow-Rolling iOS 27 Adoption, So Far](https://mastodon.social/@_Davidsmith/117355154519434137) — *Daring Fireball* `10-08`
+- [Joz Announces ‘Welcome Home’ Keynote Coming Tuesday, 13 October](https://x.com/gregjoz/status/2108226096407994858) — *Daring Fireball* `10-08`
+- [“Getting off the Modernization Treadmill”](https://blog.jim-nielsen.com/2026/talk-notes-modernization-treadmill/) — *Jim Nielsen’s Blog* `10-08`
 <!--BLOG_RADAR:end-->
 
 ---
