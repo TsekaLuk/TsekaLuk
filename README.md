@@ -208,11 +208,11 @@ Last Updated: Friday, October 9th, 2026, 12:08:23 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [20 Minutes of Political Debate, Brought to You by Commercial Breaks](https://idiallo.com/byte-size/20-minutes-of-political-debate) — *Software and Tech stories from an Insider - iDiallo.com* `10-09`
+- [ttok 1.0](https://simonwillison.net/2026/Oct/9/ttok/) — *Simon Willison's Weblog* `10-09`
+- [ttok 0.4](https://simonwillison.net/2026/Oct/8/ttok/) — *Simon Willison's Weblog* `10-08`
 - [Let’s Check In on Trump’s Blog](https://truthsocial.com/@realDonaldTrump/posts/117406176604364910) — *Daring Fireball* `10-08`
 - [Quoting Carson Gross](https://simonwillison.net/2026/Oct/8/carson-gross/) — *Simon Willison's Weblog* `10-08`
-- [Apple Is Slow-Rolling iOS 27 Adoption, So Far](https://mastodon.social/@_Davidsmith/117355154519434137) — *Daring Fireball* `10-08`
-- [Joz Announces ‘Welcome Home’ Keynote Coming Tuesday, 13 October](https://x.com/gregjoz/status/2108226096407994858) — *Daring Fireball* `10-08`
-- [“Getting off the Modernization Treadmill”](https://blog.jim-nielsen.com/2026/talk-notes-modernization-treadmill/) — *Jim Nielsen’s Blog* `10-08`
 <!--BLOG_RADAR:end-->
 
 ---

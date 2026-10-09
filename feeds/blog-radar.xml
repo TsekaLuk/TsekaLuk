@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 08 Oct 2026 23:11:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 05:42:49 +0000</lastBuildDate>
+    <item>
+      <title>20 Minutes of Political Debate, Brought to You by Commercial Breaks</title>
+      <link>https://idiallo.com/byte-size/20-minutes-of-political-debate</link>
+      <guid isPermaLink="true">https://idiallo.com/byte-size/20-minutes-of-political-debate</guid>
+      <pubDate>Fri, 09 Oct 2026 04:59:23 +0000</pubDate>
+      <description>Software and Tech stories from an Insider - iDiallo.com</description>
+    </item>
+    <item>
+      <title>ttok 1.0</title>
+      <link>https://simonwillison.net/2026/Oct/9/ttok/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/9/ttok/</guid>
+      <pubDate>Fri, 09 Oct 2026 00:34:43 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>ttok 0.4</title>
+      <link>https://simonwillison.net/2026/Oct/8/ttok/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/8/ttok/</guid>
+      <pubDate>Thu, 08 Oct 2026 23:34:28 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Let’s Check In on Trump’s Blog</title>
       <link>https://truthsocial.com/@realDonaldTrump/posts/117406176604364910</link>
@@ -41,11 +62,32 @@
       <description>Jim Nielsen’s Blog</description>
     </item>
     <item>
+      <title>iFlac: Sync your FLAC files to your iPhone from Linux</title>
+      <link>https://jayd.ml/2026/10/08/iflac-sync-flacs-to-iphone.html</link>
+      <guid isPermaLink="true">https://jayd.ml/2026/10/08/iflac-sync-flacs-to-iphone.html</guid>
+      <pubDate>Thu, 08 Oct 2026 18:33:00 +0000</pubDate>
+      <description>Jayden’s Blog</description>
+    </item>
+    <item>
+      <title>Get Player Stats From Your Minecraft Server Logs</title>
+      <link>https://jayd.ml/2026/10/08/minecraft-log-analyzer.html</link>
+      <guid isPermaLink="true">https://jayd.ml/2026/10/08/minecraft-log-analyzer.html</guid>
+      <pubDate>Thu, 08 Oct 2026 18:26:00 +0000</pubDate>
+      <description>Jayden’s Blog</description>
+    </item>
+    <item>
       <title>Let’s Deconstruct Photoshop</title>
       <link>https://feed.tedium.co/link/15204/17492299/artcraft-vibe-coding-creative-cloud-remake</link>
       <guid isPermaLink="true">https://feed.tedium.co/link/15204/17492299/artcraft-vibe-coding-creative-cloud-remake</guid>
       <pubDate>Thu, 08 Oct 2026 16:54:14 +0000</pubDate>
       <description>Tedium: The Dull Side of the Internet.</description>
+    </item>
+    <item>
+      <title>If one anti-malware software is good, does that make two better?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20261008-00/?p=112762/</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261008-00/?p=112762/</guid>
+      <pubDate>Thu, 08 Oct 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Privacy policies and modal logic</title>
@@ -496,18 +538,18 @@
       <description>Software and Tech stories from an Insider - iDiallo.com</description>
     </item>
     <item>
-      <title>The indicators of a quality website (somewhat silly)</title>
-      <link>https://maurycyz.com/misc/quality/indicators.html</link>
-      <guid isPermaLink="true">https://maurycyz.com/misc/quality/indicators.html</guid>
-      <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
-    </item>
-    <item>
       <title>How to Solve: AAC Heavyweight M1 (Savage)</title>
       <link>https://xeiaso.net/blog/2026/m9s/</link>
       <guid isPermaLink="true">https://xeiaso.net/blog/2026/m9s/</guid>
       <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>The indicators of a quality website (somewhat silly)</title>
+      <link>https://maurycyz.com/misc/quality/indicators.html</link>
+      <guid isPermaLink="true">https://maurycyz.com/misc/quality/indicators.html</guid>
+      <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
     </item>
     <item>
       <title>We're going to need default hard budget caps on pretty much everything</title>
@@ -802,48 +844,6 @@
       <guid isPermaLink="true">https://shkspr.mobi/blog/2026/09/are-you-a-smartwatch-power-user/</guid>
       <pubDate>Wed, 30 Sep 2026 11:34:26 +0000</pubDate>
       <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Gratis digitale autonomie, zonder digitale dienst: doe er wat aan!</title>
-      <link>https://berthub.eu/articles/posts/gratis-digitale-wendbaarheid-en-autonomie/</link>
-      <guid isPermaLink="true">https://berthub.eu/articles/posts/gratis-digitale-wendbaarheid-en-autonomie/</guid>
-      <pubDate>Wed, 30 Sep 2026 07:00:00 +0000</pubDate>
-      <description>Bert Hubert's writings</description>
-    </item>
-    <item>
-      <title>Notes from September 2026</title>
-      <link>https://evanhahn.com/notes-from-september-2026/</link>
-      <guid isPermaLink="true">https://evanhahn.com/notes-from-september-2026/</guid>
-      <pubDate>Wed, 30 Sep 2026 06:00:00 +0000</pubDate>
-      <description>Evan Hahn (dot com)</description>
-    </item>
-    <item>
-      <title>Quoting Anthropic Frontier Red Team</title>
-      <link>https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/</guid>
-      <pubDate>Tue, 29 Sep 2026 22:20:28 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>VLM Enhanced Metadata For My Icon Galleries</title>
-      <link>https://blog.jim-nielsen.com/2026/icon-galleries-vlm/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/icon-galleries-vlm/</guid>
-      <pubDate>Tue, 29 Sep 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
-      <title>GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price</title>
-      <link>https://simonwillison.net/2026/Sep/29/hn-49898129/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/29/hn-49898129/</guid>
-      <pubDate>Tue, 29 Sep 2026 18:27:48 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Photo Scrubber — local face blur &amp; metadata removal</title>
-      <link>https://simonwillison.net/2026/Sep/29/photo-scrubber/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/29/photo-scrubber/</guid>
-      <pubDate>Tue, 29 Sep 2026 16:45:27 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
