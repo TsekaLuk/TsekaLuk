@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 09 Oct 2026 05:42:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 12:59:17 +0000</lastBuildDate>
+    <item>
+      <title>A new feature for my, blog built using my voice</title>
+      <link>https://simonwillison.net/2026/Oct/9/built-using-my-voice/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/9/built-using-my-voice/</guid>
+      <pubDate>Fri, 09 Oct 2026 12:54:06 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Concert Review: London Voices - Video Games Go Choral ★★★★☆</title>
+      <link>https://shkspr.mobi/blog/2026/10/concert-review-london-voices-video-games-go-choral/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/10/concert-review-london-voices-video-games-go-choral/</guid>
+      <pubDate>Fri, 09 Oct 2026 11:34:09 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
     <item>
       <title>20 Minutes of Political Debate, Brought to You by Commercial Breaks</title>
       <link>https://idiallo.com/byte-size/20-minutes-of-political-debate</link>
@@ -538,18 +552,18 @@
       <description>Software and Tech stories from an Insider - iDiallo.com</description>
     </item>
     <item>
-      <title>How to Solve: AAC Heavyweight M1 (Savage)</title>
-      <link>https://xeiaso.net/blog/2026/m9s/</link>
-      <guid isPermaLink="true">https://xeiaso.net/blog/2026/m9s/</guid>
-      <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
       <title>The indicators of a quality website (somewhat silly)</title>
       <link>https://maurycyz.com/misc/quality/indicators.html</link>
       <guid isPermaLink="true">https://maurycyz.com/misc/quality/indicators.html</guid>
       <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
       <description>Maurycy's Blog</description>
+    </item>
+    <item>
+      <title>How to Solve: AAC Heavyweight M1 (Savage)</title>
+      <link>https://xeiaso.net/blog/2026/m9s/</link>
+      <guid isPermaLink="true">https://xeiaso.net/blog/2026/m9s/</guid>
+      <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>We're going to need default hard budget caps on pretty much everything</title>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/</guid>
       <pubDate>Wed, 30 Sep 2026 13:27:03 +0000</pubDate>
       <description>Computer Things</description>
-    </item>
-    <item>
-      <title>Lean LaunchPad – The Next Generation</title>
-      <link>https://steveblank.com/2026/09/30/lean-launchpad-the-next-generation/</link>
-      <guid isPermaLink="true">https://steveblank.com/2026/09/30/lean-launchpad-the-next-generation/</guid>
-      <pubDate>Wed, 30 Sep 2026 13:00:28 +0000</pubDate>
-      <description>Steve Blank</description>
-    </item>
-    <item>
-      <title>Are you a smartwatch "power user"?</title>
-      <link>https://shkspr.mobi/blog/2026/09/are-you-a-smartwatch-power-user/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/09/are-you-a-smartwatch-power-user/</guid>
-      <pubDate>Wed, 30 Sep 2026 11:34:26 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
   </channel>
 </rss>
