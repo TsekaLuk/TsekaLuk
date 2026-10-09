@@ -208,11 +208,11 @@ Last Updated: Saturday, October 10th, 2026, 6:07:29 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [A new feature for my, blog built using my voice](https://simonwillison.net/2026/Oct/9/built-using-my-voice/) — *Simon Willison's Weblog* `10-09`
-- [Concert Review: London Voices - Video Games Go Choral ★★★★☆](https://shkspr.mobi/blog/2026/10/concert-review-london-voices-video-games-go-choral/) — *Terence Eden’s Blog* `10-09`
-- [20 Minutes of Political Debate, Brought to You by Commercial Breaks](https://idiallo.com/byte-size/20-minutes-of-political-debate) — *Software and Tech stories from an Insider - iDiallo.com* `10-09`
-- [ttok 1.0](https://simonwillison.net/2026/Oct/9/ttok/) — *Simon Willison's Weblog* `10-09`
-- [ttok 0.4](https://simonwillison.net/2026/Oct/8/ttok/) — *Simon Willison's Weblog* `10-08`
+- [Radxa's Q8B has 2x the performance and expansion of the Pi 5](https://www.jeffgeerling.com/blog/2026/radxa-q8b-double-pi-5/) — *Jeff Geerling* `10-09`
+- [Pluralistic: Thwarted (09 Oct 2026)](https://pluralistic.net/2026/10/09/impunitism/) — *Pluralistic: Daily links from Cory Doctorow* `10-09`
+- [Name Shame](https://feed.tedium.co/link/15204/17493045/nominative-antideterminism-history) — *Tedium: The Dull Side of the Internet.* `10-09`
+- [An Ion Storm!, Part 1: The Ascent to Gamer Paradise](https://www.filfre.net/2026/10/an-ion-storm-part-1-the-gamers-penthouse/) — *The Digital Antiquarian* `10-09`
+- [Fun with low-rank vocab matrices (and a bonus test loss reduction?)](https://www.gilesthomas.com/2026/10/low-rank-vocab-matrices) — *Giles' blog* `10-09`
 <!--BLOG_RADAR:end-->
 
 ---

@@ -4,9 +4,58 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 09 Oct 2026 12:59:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 22:30:18 +0000</lastBuildDate>
     <item>
-      <title>A new feature for my, blog built using my voice</title>
+      <title>Radxa's Q8B has 2x the performance and expansion of the Pi 5</title>
+      <link>https://www.jeffgeerling.com/blog/2026/radxa-q8b-double-pi-5/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/radxa-q8b-double-pi-5/</guid>
+      <pubDate>Fri, 09 Oct 2026 20:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>Pluralistic: Thwarted (09 Oct 2026)</title>
+      <link>https://pluralistic.net/2026/10/09/impunitism/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/10/09/impunitism/</guid>
+      <pubDate>Fri, 09 Oct 2026 19:48:39 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Name Shame</title>
+      <link>https://feed.tedium.co/link/15204/17493045/nominative-antideterminism-history</link>
+      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17493045/nominative-antideterminism-history</guid>
+      <pubDate>Fri, 09 Oct 2026 18:53:35 +0000</pubDate>
+      <description>Tedium: The Dull Side of the Internet.</description>
+    </item>
+    <item>
+      <title>An Ion Storm!, Part 1: The Ascent to Gamer Paradise</title>
+      <link>https://www.filfre.net/2026/10/an-ion-storm-part-1-the-gamers-penthouse/</link>
+      <guid isPermaLink="true">https://www.filfre.net/2026/10/an-ion-storm-part-1-the-gamers-penthouse/</guid>
+      <pubDate>Fri, 09 Oct 2026 16:10:11 +0000</pubDate>
+      <description>The Digital Antiquarian</description>
+    </item>
+    <item>
+      <title>Fun with low-rank vocab matrices (and a bonus test loss reduction?)</title>
+      <link>https://www.gilesthomas.com/2026/10/low-rank-vocab-matrices</link>
+      <guid isPermaLink="true">https://www.gilesthomas.com/2026/10/low-rank-vocab-matrices</guid>
+      <pubDate>Fri, 09 Oct 2026 16:00:00 +0000</pubDate>
+      <description>Giles' blog</description>
+    </item>
+    <item>
+      <title>Premium: The Hater's Guide To Junk</title>
+      <link>https://www.wheresyoured.at/premium-the-haters-guide-to-junk/</link>
+      <guid isPermaLink="true">https://www.wheresyoured.at/premium-the-haters-guide-to-junk/</guid>
+      <pubDate>Fri, 09 Oct 2026 15:53:00 +0000</pubDate>
+      <description>Ed Zitron's Where's Your Ed At</description>
+    </item>
+    <item>
+      <title>Quoting Matthew Green</title>
+      <link>https://simonwillison.net/2026/Oct/9/matthew-green/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/9/matthew-green/</guid>
+      <pubDate>Fri, 09 Oct 2026 15:02:29 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>A new feature for my blog, built using my voice</title>
       <link>https://simonwillison.net/2026/Oct/9/built-using-my-voice/</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Oct/9/built-using-my-voice/</guid>
       <pubDate>Fri, 09 Oct 2026 12:54:06 +0000</pubDate>
@@ -109,6 +158,13 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/10/08/privacy-policies-and-modal-logic/</guid>
       <pubDate>Thu, 08 Oct 2026 13:43:02 +0000</pubDate>
       <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>No Man Is an Island</title>
+      <link>https://borretti.me/article/no-man-is-an-island</link>
+      <guid isPermaLink="true">https://borretti.me/article/no-man-is-an-island</guid>
+      <pubDate>Thu, 08 Oct 2026 13:00:00 +0000</pubDate>
+      <description>Fernando Borretti</description>
     </item>
     <item>
       <title>The Rise and Fall of the Plasma Screen</title>
@@ -769,13 +825,6 @@
       <description>Construction Physics</description>
     </item>
     <item>
-      <title>Why Americans Stopped Throwing Dinner Parties</title>
-      <link>https://www.theatlantic.com/ideas/2026/10/americans-socialization-dinner-decline-hosting/688846/?utm_source=feed</link>
-      <guid isPermaLink="true">https://www.theatlantic.com/ideas/2026/10/americans-socialization-dinner-decline-hosting/688846/?utm_source=feed</guid>
-      <pubDate>Thu, 01 Oct 2026 11:00:00 +0000</pubDate>
-      <description>Derek Thompson | The Atlantic</description>
-    </item>
-    <item>
       <title>Software Heritage Identifiers</title>
       <link>https://nesbitt.io/2026/10/01/software-heritage-identifiers.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/10/01/software-heritage-identifiers.html</guid>
@@ -783,67 +832,18 @@
       <description>Andrew Nesbitt</description>
     </item>
     <item>
+      <title>Why Americans Stopped Throwing Dinner Parties</title>
+      <link>https://www.theatlantic.com/ideas/2026/10/americans-socialization-dinner-decline-hosting/688846/?utm_source=feed</link>
+      <guid isPermaLink="true">https://www.theatlantic.com/ideas/2026/10/americans-socialization-dinner-decline-hosting/688846/?utm_source=feed</guid>
+      <pubDate>Thu, 01 Oct 2026 11:00:00 +0000</pubDate>
+      <description>Derek Thompson | The Atlantic</description>
+    </item>
+    <item>
       <title>Quoting Matthew Green</title>
       <link>https://simonwillison.net/2026/Oct/1/matthew-green/</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Oct/1/matthew-green/</guid>
       <pubDate>Thu, 01 Oct 2026 06:29:01 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Summary of reading: July - September 2026</title>
-      <link>https://eli.thegreenplace.net/2026/summary-of-reading-july-september-2026/</link>
-      <guid isPermaLink="true">https://eli.thegreenplace.net/2026/summary-of-reading-july-september-2026/</guid>
-      <pubDate>Thu, 01 Oct 2026 00:05:00 +0000</pubDate>
-      <description>Eli Bendersky's website</description>
-    </item>
-    <item>
-      <title>He Built This City</title>
-      <link>https://simonwillison.net/2026/Sep/30/he-built-this-city/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Sep/30/he-built-this-city/</guid>
-      <pubDate>Wed, 30 Sep 2026 21:54:19 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Gurman Reports Apple Is Launching New ‘Smart Home’ Products on October 13</title>
-      <link>https://www.bloomberg.com/news/articles/2026-09-30/apple-is-finally-ready-to-enter-its-next-big-category-the-smart-home?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDc3MDk0MywiZXhwIjoxNzkxMzc1NzQzLCJhcnRpY2xlSWQiOiJUTTM0SDRUOTZPU0cwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.11wEtJfuMwCkznTkepXugZ2wuZTmxO9CdsNJLAcBd1M</link>
-      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-09-30/apple-is-finally-ready-to-enter-its-next-big-category-the-smart-home?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDc3MDk0MywiZXhwIjoxNzkxMzc1NzQzLCJhcnRpY2xlSWQiOiJUTTM0SDRUOTZPU0cwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.11wEtJfuMwCkznTkepXugZ2wuZTmxO9CdsNJLAcBd1M</guid>
-      <pubDate>Wed, 30 Sep 2026 20:14:31 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Anthropic’s IPO Prospectus Is a Fucking Doozy</title>
-      <link>https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/</link>
-      <guid isPermaLink="true">https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/</guid>
-      <pubDate>Wed, 30 Sep 2026 19:23:42 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Dear Software Makers</title>
-      <link>https://blog.jim-nielsen.com/2026/dear-software-makers/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/dear-software-makers/</guid>
-      <pubDate>Wed, 30 Sep 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
-      <title>Why do you need freedom?</title>
-      <link>https://geohot.github.io//blog/jekyll/update/2026/10/01/why-do-you-need-freedom.html</link>
-      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/10/01/why-do-you-need-freedom.html</guid>
-      <pubDate>Wed, 30 Sep 2026 16:00:00 +0000</pubDate>
-      <description>the singularity is nearer</description>
-    </item>
-    <item>
-      <title>Windows on AArch64 also provides for hot-patching, but it’s much simpler than on x86</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260930-00/?p=112744/</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20260930-00/?p=112744/</guid>
-      <pubDate>Wed, 30 Sep 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>What TLA+ can and can't check</title>
-      <link>https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/</link>
-      <guid isPermaLink="true">https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/</guid>
-      <pubDate>Wed, 30 Sep 2026 13:27:03 +0000</pubDate>
-      <description>Computer Things</description>
     </item>
   </channel>
 </rss>
