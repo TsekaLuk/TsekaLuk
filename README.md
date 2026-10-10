@@ -208,11 +208,11 @@ Last Updated: Sunday, October 11th, 2026, 5:01:00 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Inside a 1980s filter chip that uses switched capacitors](http://www.righto.com/2026/10/ML10-switched-capacitor-filter.html) — *Ken Shirriff's blog* `10-10`
+- [Sunnny](https://sunnny.com/) — *Daring Fireball* `10-10`
+- [‘Proof-of-Human’](https://x.com/bzamayo/status/2108498107184934914) — *Daring Fireball* `10-10`
+- [Reading List 10/10/26](https://www.construction-physics.com/p/reading-list-101026) — *Construction Physics* `10-10`
 - [Some quick thoughts on Unit Testing ActivityPub](https://shkspr.mobi/blog/2026/10/some-thoughts-on-unit-testing-activitypub/) — *Terence Eden’s Blog* `10-10`
-- [This Week in Package Management: 10 October 2026](https://nesbitt.io/2026/10/10/this-week-in-package-management.html) — *Andrew Nesbitt* `10-10`
-- [Quoting The New York Times](https://simonwillison.net/2026/Oct/10/the-new-york-times/) — *Simon Willison's Weblog* `10-10`
-- [FBI Arrests Founder of Ransomware Negotiation Firm](https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/) — *Krebs on Security* `10-10`
-- [Software's centaur age may last decades](https://seangoedecke.com/softwares-centaur-age-may-last-decades/) — *seangoedecke.com RSS feed* `10-10`
 <!--BLOG_RADAR:end-->
 
 ---

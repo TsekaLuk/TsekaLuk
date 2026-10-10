@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 10 Oct 2026 12:16:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 21:27:23 +0000</lastBuildDate>
+    <item>
+      <title>Inside a 1980s filter chip that uses switched capacitors</title>
+      <link>http://www.righto.com/2026/10/ML10-switched-capacitor-filter.html</link>
+      <guid isPermaLink="true">http://www.righto.com/2026/10/ML10-switched-capacitor-filter.html</guid>
+      <pubDate>Sat, 10 Oct 2026 16:40:25 +0000</pubDate>
+      <description>Ken Shirriff's blog</description>
+    </item>
+    <item>
+      <title>Sunnny</title>
+      <link>https://sunnny.com/</link>
+      <guid isPermaLink="true">https://sunnny.com/</guid>
+      <pubDate>Sat, 10 Oct 2026 16:11:45 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>‘Proof-of-Human’</title>
+      <link>https://x.com/bzamayo/status/2108498107184934914</link>
+      <guid isPermaLink="true">https://x.com/bzamayo/status/2108498107184934914</guid>
+      <pubDate>Sat, 10 Oct 2026 16:06:17 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Reading List 10/10/26</title>
+      <link>https://www.construction-physics.com/p/reading-list-101026</link>
+      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-101026</guid>
+      <pubDate>Sat, 10 Oct 2026 14:55:48 +0000</pubDate>
+      <description>Construction Physics</description>
+    </item>
     <item>
       <title>Some quick thoughts on Unit Testing ActivityPub</title>
       <link>https://shkspr.mobi/blog/2026/10/some-thoughts-on-unit-testing-activitypub/</link>
@@ -27,7 +55,7 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>FBI Arrests Founder of Ransomware Negotiation Firm</title>
+      <title>FBI Arrests Executive at Ransomware Negotiation Firm</title>
       <link>https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/</link>
       <guid isPermaLink="true">https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/</guid>
       <pubDate>Sat, 10 Oct 2026 00:17:42 +0000</pubDate>
@@ -531,13 +559,6 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>[Sponsor] Sunnny</title>
-      <link>https://sunnny.com/</link>
-      <guid isPermaLink="true">https://sunnny.com/</guid>
-      <pubDate>Mon, 05 Oct 2026 23:49:05 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
       <title>OpenAI Announces Their Text Watermarking Plans</title>
       <link>https://openai.com/index/eu-text-provenance/</link>
       <guid isPermaLink="true">https://openai.com/index/eu-text-provenance/</guid>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://www.nytimes.com/athletic/7648172/2026/09/30/yankees-beat-red-sox-mlb-wild-card-series/</guid>
       <pubDate>Fri, 02 Oct 2026 00:06:56 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Do not build the LLM torture factory</title>
-      <link>https://seangoedecke.com/do-not-build-the-llm-torture-factory/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/do-not-build-the-llm-torture-factory/</guid>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>Why do OpenAI's GPT-2 weights beat mine? Part five: data quality</title>
-      <link>https://www.gilesthomas.com/2026/10/why-do-openai-gpt2-weights-beat-mine-5-data-quality</link>
-      <guid isPermaLink="true">https://www.gilesthomas.com/2026/10/why-do-openai-gpt2-weights-beat-mine-5-data-quality</guid>
-      <pubDate>Thu, 01 Oct 2026 17:30:00 +0000</pubDate>
-      <description>Giles' blog</description>
-    </item>
-    <item>
-      <title>Pluralistic: Voting is to politics as shopping is to boycotts (01 Oct 2026)</title>
-      <link>https://pluralistic.net/2026/10/01/data-centers/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/10/01/data-centers/</guid>
-      <pubDate>Thu, 01 Oct 2026 17:22:48 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
     </item>
   </channel>
 </rss>
