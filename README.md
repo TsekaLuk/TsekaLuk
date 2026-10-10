@@ -208,11 +208,11 @@ Last Updated: Saturday, October 10th, 2026, 11:53:49 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Quoting The New York Times](https://simonwillison.net/2026/Oct/10/the-new-york-times/) — *Simon Willison's Weblog* `10-10`
+- [FBI Arrests Founder of Ransomware Negotiation Firm](https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/) — *Krebs on Security* `10-10`
+- [Software's centaur age may last decades](https://seangoedecke.com/softwares-centaur-age-may-last-decades/) — *seangoedecke.com RSS feed* `10-10`
+- [Deno is joining Cloudflare](https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/) — *Simon Willison's Weblog* `10-09`
 - [Radxa's Q8B has 2x the performance and expansion of the Pi 5](https://www.jeffgeerling.com/blog/2026/radxa-q8b-double-pi-5/) — *Jeff Geerling* `10-09`
-- [Pluralistic: Thwarted (09 Oct 2026)](https://pluralistic.net/2026/10/09/impunitism/) — *Pluralistic: Daily links from Cory Doctorow* `10-09`
-- [Name Shame](https://feed.tedium.co/link/15204/17493045/nominative-antideterminism-history) — *Tedium: The Dull Side of the Internet.* `10-09`
-- [An Ion Storm!, Part 1: The Ascent to Gamer Paradise](https://www.filfre.net/2026/10/an-ion-storm-part-1-the-gamers-penthouse/) — *The Digital Antiquarian* `10-09`
-- [Fun with low-rank vocab matrices (and a bonus test loss reduction?)](https://www.gilesthomas.com/2026/10/low-rank-vocab-matrices) — *Giles' blog* `10-09`
 <!--BLOG_RADAR:end-->
 
 ---

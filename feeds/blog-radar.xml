@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 09 Oct 2026 22:30:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 05:26:10 +0000</lastBuildDate>
+    <item>
+      <title>Quoting The New York Times</title>
+      <link>https://simonwillison.net/2026/Oct/10/the-new-york-times/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/10/the-new-york-times/</guid>
+      <pubDate>Sat, 10 Oct 2026 02:04:12 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>FBI Arrests Founder of Ransomware Negotiation Firm</title>
+      <link>https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/</link>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/</guid>
+      <pubDate>Sat, 10 Oct 2026 00:17:42 +0000</pubDate>
+      <description>Krebs on Security</description>
+    </item>
+    <item>
+      <title>Software's centaur age may last decades</title>
+      <link>https://seangoedecke.com/softwares-centaur-age-may-last-decades/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/softwares-centaur-age-may-last-decades/</guid>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Deno is joining Cloudflare</title>
+      <link>https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/</guid>
+      <pubDate>Fri, 09 Oct 2026 22:48:37 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Radxa's Q8B has 2x the performance and expansion of the Pi 5</title>
       <link>https://www.jeffgeerling.com/blog/2026/radxa-q8b-double-pi-5/</link>
@@ -27,11 +55,11 @@
       <description>Tedium: The Dull Side of the Internet.</description>
     </item>
     <item>
-      <title>An Ion Storm!, Part 1: The Ascent to Gamer Paradise</title>
-      <link>https://www.filfre.net/2026/10/an-ion-storm-part-1-the-gamers-penthouse/</link>
-      <guid isPermaLink="true">https://www.filfre.net/2026/10/an-ion-storm-part-1-the-gamers-penthouse/</guid>
-      <pubDate>Fri, 09 Oct 2026 16:10:11 +0000</pubDate>
-      <description>The Digital Antiquarian</description>
+      <title>Lobbying</title>
+      <link>https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html</link>
+      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html</guid>
+      <pubDate>Fri, 09 Oct 2026 16:00:00 +0000</pubDate>
+      <description>the singularity is nearer</description>
     </item>
     <item>
       <title>Fun with low-rank vocab matrices (and a bonus test loss reduction?)</title>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261001-57/?p=112747/</guid>
       <pubDate>Thu, 01 Oct 2026 14:00:57 +0000</pubDate>
       <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Understanding the AI That Drives Robots</title>
-      <link>https://www.construction-physics.com/p/understanding-the-ai-that-drives</link>
-      <guid isPermaLink="true">https://www.construction-physics.com/p/understanding-the-ai-that-drives</guid>
-      <pubDate>Thu, 01 Oct 2026 12:04:36 +0000</pubDate>
-      <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>Software Heritage Identifiers</title>
-      <link>https://nesbitt.io/2026/10/01/software-heritage-identifiers.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/10/01/software-heritage-identifiers.html</guid>
-      <pubDate>Thu, 01 Oct 2026 11:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Why Americans Stopped Throwing Dinner Parties</title>
-      <link>https://www.theatlantic.com/ideas/2026/10/americans-socialization-dinner-decline-hosting/688846/?utm_source=feed</link>
-      <guid isPermaLink="true">https://www.theatlantic.com/ideas/2026/10/americans-socialization-dinner-decline-hosting/688846/?utm_source=feed</guid>
-      <pubDate>Thu, 01 Oct 2026 11:00:00 +0000</pubDate>
-      <description>Derek Thompson | The Atlantic</description>
-    </item>
-    <item>
-      <title>Quoting Matthew Green</title>
-      <link>https://simonwillison.net/2026/Oct/1/matthew-green/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/1/matthew-green/</guid>
-      <pubDate>Thu, 01 Oct 2026 06:29:01 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
