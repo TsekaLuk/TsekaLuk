@@ -208,11 +208,11 @@ Last Updated: Saturday, October 10th, 2026, 7:45:02 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Some quick thoughts on Unit Testing ActivityPub](https://shkspr.mobi/blog/2026/10/some-thoughts-on-unit-testing-activitypub/) — *Terence Eden’s Blog* `10-10`
+- [This Week in Package Management: 10 October 2026](https://nesbitt.io/2026/10/10/this-week-in-package-management.html) — *Andrew Nesbitt* `10-10`
 - [Quoting The New York Times](https://simonwillison.net/2026/Oct/10/the-new-york-times/) — *Simon Willison's Weblog* `10-10`
 - [FBI Arrests Founder of Ransomware Negotiation Firm](https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/) — *Krebs on Security* `10-10`
 - [Software's centaur age may last decades](https://seangoedecke.com/softwares-centaur-age-may-last-decades/) — *seangoedecke.com RSS feed* `10-10`
-- [Deno is joining Cloudflare](https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/) — *Simon Willison's Weblog* `10-09`
-- [Radxa's Q8B has 2x the performance and expansion of the Pi 5](https://www.jeffgeerling.com/blog/2026/radxa-q8b-double-pi-5/) — *Jeff Geerling* `10-09`
 <!--BLOG_RADAR:end-->
 
 ---
