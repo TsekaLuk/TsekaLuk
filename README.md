@@ -208,11 +208,11 @@ Last Updated: Monday, October 12th, 2026, 5:21:59 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [★ X Once Again Marks the Spot](https://daringfireball.net/2026/10/x_once_again_marks_the_spot) — *Daring Fireball* `10-11`
+- [Apple Only Started Suggesting iOS 26 Users Upgrade to 27 Three Days Ago](https://www.macrumors.com/2026/10/08/apple-now-pushing-ios-27/) — *Daring Fireball* `10-11`
+- [Why I Get Bored](https://idiallo.com/byte-size/why-i-get-bored) — *Software and Tech stories from an Insider - iDiallo.com* `10-11`
 - [I paid people to try and follow my README](https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/) — *Terence Eden’s Blog* `10-11`
 - [Dwarf Fortress uses version control now](https://simonwillison.net/2026/Oct/11/dwarf-fortress/) — *Simon Willison's Weblog* `10-11`
-- [Don't diagnose your opponents](https://seangoedecke.com/dont-diagnose-your-opponents/) — *seangoedecke.com RSS feed* `10-11`
-- [Python 3.15.0 added to actions/python-versions](https://simonwillison.net/2026/Oct/10/python-actions/) — *Simon Willison's Weblog* `10-10`
-- [Inside a 1980s filter chip that uses switched capacitors](http://www.righto.com/2026/10/ML10-switched-capacitor-filter.html) — *Ken Shirriff's blog* `10-10`
 <!--BLOG_RADAR:end-->
 
 ---

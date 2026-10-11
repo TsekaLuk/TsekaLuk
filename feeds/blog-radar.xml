@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 11 Oct 2026 12:32:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 21:43:49 +0000</lastBuildDate>
+    <item>
+      <title>★ X Once Again Marks the Spot</title>
+      <link>https://daringfireball.net/2026/10/x_once_again_marks_the_spot</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/10/x_once_again_marks_the_spot</guid>
+      <pubDate>Sun, 11 Oct 2026 21:05:33 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Apple Only Started Suggesting iOS 26 Users Upgrade to 27 Three Days Ago</title>
+      <link>https://www.macrumors.com/2026/10/08/apple-now-pushing-ios-27/</link>
+      <guid isPermaLink="true">https://www.macrumors.com/2026/10/08/apple-now-pushing-ios-27/</guid>
+      <pubDate>Sun, 11 Oct 2026 19:02:38 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Why I Get Bored</title>
+      <link>https://idiallo.com/byte-size/why-i-get-bored</link>
+      <guid isPermaLink="true">https://idiallo.com/byte-size/why-i-get-bored</guid>
+      <pubDate>Sun, 11 Oct 2026 16:00:00 +0000</pubDate>
+      <description>Software and Tech stories from an Insider - iDiallo.com</description>
+    </item>
     <item>
       <title>I paid people to try and follow my README</title>
       <link>https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/</link>
@@ -132,18 +153,18 @@
       <description>The Digital Antiquarian</description>
     </item>
     <item>
-      <title>Lobbying</title>
-      <link>https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html</link>
-      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html</guid>
-      <pubDate>Fri, 09 Oct 2026 16:00:00 +0000</pubDate>
-      <description>the singularity is nearer</description>
-    </item>
-    <item>
       <title>Fun with low-rank vocab matrices (and a bonus test loss reduction?)</title>
       <link>https://www.gilesthomas.com/2026/10/low-rank-vocab-matrices</link>
       <guid isPermaLink="true">https://www.gilesthomas.com/2026/10/low-rank-vocab-matrices</guid>
       <pubDate>Fri, 09 Oct 2026 16:00:00 +0000</pubDate>
       <description>Giles' blog</description>
+    </item>
+    <item>
+      <title>Lobbying</title>
+      <link>https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html</link>
+      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html</guid>
+      <pubDate>Fri, 09 Oct 2026 16:00:00 +0000</pubDate>
+      <description>the singularity is nearer</description>
     </item>
     <item>
       <title>Premium: The Hater's Guide To Junk</title>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://www.wheresyoured.at/premium-how-has-ai-changed-the-economy/</guid>
       <pubDate>Fri, 02 Oct 2026 18:46:35 +0000</pubDate>
       <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>Dyson CameraJet</title>
-      <link>https://geohot.github.io//blog/jekyll/update/2026/10/03/dyson-camerajet.html</link>
-      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/10/03/dyson-camerajet.html</guid>
-      <pubDate>Fri, 02 Oct 2026 16:00:00 +0000</pubDate>
-      <description>the singularity is nearer</description>
-    </item>
-    <item>
-      <title>The Brain Sandwich</title>
-      <link>https://terriblesoftware.org/2026/10/02/the-brain-sandwich/</link>
-      <guid isPermaLink="true">https://terriblesoftware.org/2026/10/02/the-brain-sandwich/</guid>
-      <pubDate>Fri, 02 Oct 2026 14:00:14 +0000</pubDate>
-      <description>Terrible Software</description>
-    </item>
-    <item>
-      <title>Why is there no Windows hot-patching support for other architectures like 32-bit ARM and MIPS?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20261002-00/?p=112753/</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261002-00/?p=112753/</guid>
-      <pubDate>Fri, 02 Oct 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
     </item>
   </channel>
 </rss>
