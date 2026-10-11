@@ -4,13 +4,27 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 11 Oct 2026 05:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 12:32:16 +0000</lastBuildDate>
+    <item>
+      <title>I paid people to try and follow my README</title>
+      <link>https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/</guid>
+      <pubDate>Sun, 11 Oct 2026 11:34:39 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
     <item>
       <title>Dwarf Fortress uses version control now</title>
       <link>https://simonwillison.net/2026/Oct/11/dwarf-fortress/</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Oct/11/dwarf-fortress/</guid>
       <pubDate>Sun, 11 Oct 2026 00:52:37 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Don't diagnose your opponents</title>
+      <link>https://seangoedecke.com/dont-diagnose-your-opponents/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/dont-diagnose-your-opponents/</guid>
+      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>Python 3.15.0 added to actions/python-versions</title>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261002-00/?p=112753/</guid>
       <pubDate>Fri, 02 Oct 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Gadget Review: Una Watch ★★★★☆</title>
-      <link>https://shkspr.mobi/blog/2026/10/gadget-review-una-watch/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/10/gadget-review-una-watch/</guid>
-      <pubDate>Fri, 02 Oct 2026 11:34:48 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Make tmux the OS</title>
-      <link>https://matduggan.com/what-does-my-dream-os-ui-look-like/</link>
-      <guid isPermaLink="true">https://matduggan.com/what-does-my-dream-os-ui-look-like/</guid>
-      <pubDate>Fri, 02 Oct 2026 10:30:51 +0000</pubDate>
-      <description>matduggan.com</description>
     </item>
   </channel>
 </rss>
