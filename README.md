@@ -208,11 +208,11 @@ Last Updated: Sunday, October 11th, 2026, 11:28:04 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Dwarf Fortress uses version control now](https://simonwillison.net/2026/Oct/11/dwarf-fortress/) — *Simon Willison's Weblog* `10-11`
+- [Python 3.15.0 added to actions/python-versions](https://simonwillison.net/2026/Oct/10/python-actions/) — *Simon Willison's Weblog* `10-10`
 - [Inside a 1980s filter chip that uses switched capacitors](http://www.righto.com/2026/10/ML10-switched-capacitor-filter.html) — *Ken Shirriff's blog* `10-10`
 - [Sunnny](https://sunnny.com/) — *Daring Fireball* `10-10`
 - [‘Proof-of-Human’](https://x.com/bzamayo/status/2108498107184934914) — *Daring Fireball* `10-10`
-- [Reading List 10/10/26](https://www.construction-physics.com/p/reading-list-101026) — *Construction Physics* `10-10`
-- [Some quick thoughts on Unit Testing ActivityPub](https://shkspr.mobi/blog/2026/10/some-thoughts-on-unit-testing-activitypub/) — *Terence Eden’s Blog* `10-10`
 <!--BLOG_RADAR:end-->
 
 ---

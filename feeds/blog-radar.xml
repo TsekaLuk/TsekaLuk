@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 10 Oct 2026 21:27:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 05:20:02 +0000</lastBuildDate>
+    <item>
+      <title>Dwarf Fortress uses version control now</title>
+      <link>https://simonwillison.net/2026/Oct/11/dwarf-fortress/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/11/dwarf-fortress/</guid>
+      <pubDate>Sun, 11 Oct 2026 00:52:37 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Python 3.15.0 added to actions/python-versions</title>
+      <link>https://simonwillison.net/2026/Oct/10/python-actions/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/10/python-actions/</guid>
+      <pubDate>Sat, 10 Oct 2026 23:58:04 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Inside a 1980s filter chip that uses switched capacitors</title>
       <link>http://www.righto.com/2026/10/ML10-switched-capacitor-filter.html</link>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://matduggan.com/what-does-my-dream-os-ui-look-like/</guid>
       <pubDate>Fri, 02 Oct 2026 10:30:51 +0000</pubDate>
       <description>matduggan.com</description>
-    </item>
-    <item>
-      <title>Digitale autonomie in het kort bij KIVI, STT en NAE</title>
-      <link>https://berthub.eu/articles/posts/praatje-kivi-stt-nae/</link>
-      <guid isPermaLink="true">https://berthub.eu/articles/posts/praatje-kivi-stt-nae/</guid>
-      <pubDate>Fri, 02 Oct 2026 09:30:00 +0000</pubDate>
-      <description>Bert Hubert's writings</description>
-    </item>
-    <item>
-      <title>Yankees Sweep Boston in Two Games, by Combined Score of 18-2</title>
-      <link>https://www.nytimes.com/athletic/7648172/2026/09/30/yankees-beat-red-sox-mlb-wild-card-series/</link>
-      <guid isPermaLink="true">https://www.nytimes.com/athletic/7648172/2026/09/30/yankees-beat-red-sox-mlb-wild-card-series/</guid>
-      <pubDate>Fri, 02 Oct 2026 00:06:56 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
