@@ -208,11 +208,11 @@ Last Updated: Monday, October 12th, 2026, 10:10:05 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Categorical models of logics](https://www.johndcook.com/blog/2026/10/12/categorical-models-of-logics/) — *John D. Cook* `10-12`
+- [Pluralistic: How labor rights rescued Ultima from a monopolist (12 Oct 2026)](https://pluralistic.net/2026/10/12/termination-of-transfer/) — *Pluralistic: Daily links from Cory Doctorow* `10-12`
 - [Refurb weekend II: Alpha Micro Eagle 300 and friends](https://oldvcr.blogspot.com/2026/10/refurb-weekend-ii-alpha-micro-eagle-300.html) — *Old Vintage Computing Research* `10-12`
+- [Software engineers don't get to be Luddites about AI](https://seangoedecke.com/software-engineers-dont-get-to-be-luddites-about-ai/) — *seangoedecke.com RSS feed* `10-12`
 - [Just say no to OpenAI and Anthropic](https://micahflee.com/just-say-no-to-openai-and-anthropic/) — *micahflee* `10-11`
-- [★ X Once Again Marks the Spot](https://daringfireball.net/2026/10/x_once_again_marks_the_spot) — *Daring Fireball* `10-11`
-- [Apple Only Started Suggesting iOS 26 Users Upgrade to 27 Three Days Ago](https://www.macrumors.com/2026/10/08/apple-now-pushing-ios-27/) — *Daring Fireball* `10-11`
-- [The Fascinating World of Domains](https://blog.jim-nielsen.com/2026/domains-article-on-wired/) — *Jim Nielsen’s Blog* `10-11`
 <!--BLOG_RADAR:end-->
 
 ---
