@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 11 Oct 2026 21:43:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 05:32:10 +0000</lastBuildDate>
+    <item>
+      <title>Refurb weekend II: Alpha Micro Eagle 300 and friends</title>
+      <link>https://oldvcr.blogspot.com/2026/10/refurb-weekend-ii-alpha-micro-eagle-300.html</link>
+      <guid isPermaLink="true">https://oldvcr.blogspot.com/2026/10/refurb-weekend-ii-alpha-micro-eagle-300.html</guid>
+      <pubDate>Mon, 12 Oct 2026 01:47:19 +0000</pubDate>
+      <description>Old Vintage Computing Research</description>
+    </item>
+    <item>
+      <title>Just say no to OpenAI and Anthropic</title>
+      <link>https://micahflee.com/just-say-no-to-openai-and-anthropic/</link>
+      <guid isPermaLink="true">https://micahflee.com/just-say-no-to-openai-and-anthropic/</guid>
+      <pubDate>Sun, 11 Oct 2026 23:03:05 +0000</pubDate>
+      <description>micahflee</description>
+    </item>
     <item>
       <title>★ X Once Again Marks the Spot</title>
       <link>https://daringfireball.net/2026/10/x_once_again_marks_the_spot</link>
@@ -18,6 +32,13 @@
       <guid isPermaLink="true">https://www.macrumors.com/2026/10/08/apple-now-pushing-ios-27/</guid>
       <pubDate>Sun, 11 Oct 2026 19:02:38 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>The Fascinating World of Domains</title>
+      <link>https://blog.jim-nielsen.com/2026/domains-article-on-wired/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/domains-article-on-wired/</guid>
+      <pubDate>Sun, 11 Oct 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
     </item>
     <item>
       <title>Why I Get Bored</title>
@@ -179,6 +200,13 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Oct/9/matthew-green/</guid>
       <pubDate>Fri, 09 Oct 2026 15:02:29 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>One way of thinking about access specifiers in C++/WinRT implementation types</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20261009-00/?p=112764/</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261009-00/?p=112764/</guid>
+      <pubDate>Fri, 09 Oct 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>A new feature for my blog, built using my voice</title>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://seangoedecke.com/superpersuasion-will-look-like-bribery/</guid>
       <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>Shipping is the foundation</title>
-      <link>https://seangoedecke.com/shipping-is-the-foundation/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/shipping-is-the-foundation/</guid>
-      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>Rex's Dino Store</title>
-      <link>https://simonwillison.net/2026/Oct/2/rex-s-dino-store/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/2/rex-s-dino-store/</guid>
-      <pubDate>Fri, 02 Oct 2026 22:57:38 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>★ Apple Is Going to Further Tighten the Screws on Full Disk Access on MacOS, in Response to Agentic AI Apps Running Amok</title>
-      <link>https://daringfireball.net/2026/10/apple_full_disk_access</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/10/apple_full_disk_access</guid>
-      <pubDate>Fri, 02 Oct 2026 20:40:15 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Premium: How Has AI Changed The Economy?</title>
-      <link>https://www.wheresyoured.at/premium-how-has-ai-changed-the-economy/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/premium-how-has-ai-changed-the-economy/</guid>
-      <pubDate>Fri, 02 Oct 2026 18:46:35 +0000</pubDate>
-      <description>Ed Zitron's Where's Your Ed At</description>
     </item>
   </channel>
 </rss>

@@ -208,11 +208,11 @@ Last Updated: Monday, October 12th, 2026, 11:51:36 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Refurb weekend II: Alpha Micro Eagle 300 and friends](https://oldvcr.blogspot.com/2026/10/refurb-weekend-ii-alpha-micro-eagle-300.html) — *Old Vintage Computing Research* `10-12`
+- [Just say no to OpenAI and Anthropic](https://micahflee.com/just-say-no-to-openai-and-anthropic/) — *micahflee* `10-11`
 - [★ X Once Again Marks the Spot](https://daringfireball.net/2026/10/x_once_again_marks_the_spot) — *Daring Fireball* `10-11`
 - [Apple Only Started Suggesting iOS 26 Users Upgrade to 27 Three Days Ago](https://www.macrumors.com/2026/10/08/apple-now-pushing-ios-27/) — *Daring Fireball* `10-11`
-- [Why I Get Bored](https://idiallo.com/byte-size/why-i-get-bored) — *Software and Tech stories from an Insider - iDiallo.com* `10-11`
-- [I paid people to try and follow my README](https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/) — *Terence Eden’s Blog* `10-11`
-- [Dwarf Fortress uses version control now](https://simonwillison.net/2026/Oct/11/dwarf-fortress/) — *Simon Willison's Weblog* `10-11`
+- [The Fascinating World of Domains](https://blog.jim-nielsen.com/2026/domains-article-on-wired/) — *Jim Nielsen’s Blog* `10-11`
 <!--BLOG_RADAR:end-->
 
 ---
