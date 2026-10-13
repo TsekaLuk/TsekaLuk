@@ -208,11 +208,11 @@ Last Updated: Tuesday, October 13th, 2026, 8:02:06 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [The Dock on Mac, From OS 10 to macOS 27](https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/) — *Jim Nielsen’s Blog* `10-12`
+- [Hello Python 3.15, goodbye 3.10, and now I can use 3.11](https://simonwillison.net/2026/Oct/12/python-3-15/) — *Simon Willison's Weblog* `10-12`
+- [Mark Stephens, a.k.a. Robert X. Cringely, Died at 73](https://www.facebook.com/story.php?story_fbid=pfbid0YbCLrAJfBirAWuPBy4a7pauaQ6gHkAPUwtbzyg2wAjeMcruFC7dWUZKQJKkNChP9l&id=536506060&_rdr) — *Daring Fireball* `10-12`
+- [The X is Off-Target](https://feed.tedium.co/link/15204/17494770/x-social-media-monoliths-critique) — *Tedium: The Dull Side of the Internet.* `10-12`
 - [Categorical models of logics](https://www.johndcook.com/blog/2026/10/12/categorical-models-of-logics/) — *John D. Cook* `10-12`
-- [Pluralistic: How labor rights rescued Ultima from a monopolist (12 Oct 2026)](https://pluralistic.net/2026/10/12/termination-of-transfer/) — *Pluralistic: Daily links from Cory Doctorow* `10-12`
-- [Refurb weekend II: Alpha Micro Eagle 300 and friends](https://oldvcr.blogspot.com/2026/10/refurb-weekend-ii-alpha-micro-eagle-300.html) — *Old Vintage Computing Research* `10-12`
-- [Software engineers don't get to be Luddites about AI](https://seangoedecke.com/software-engineers-dont-get-to-be-luddites-about-ai/) — *seangoedecke.com RSS feed* `10-12`
-- [Just say no to OpenAI and Anthropic](https://micahflee.com/just-say-no-to-openai-and-anthropic/) — *micahflee* `10-11`
 <!--BLOG_RADAR:end-->
 
 ---

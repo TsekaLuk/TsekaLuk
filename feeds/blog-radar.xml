@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 12 Oct 2026 15:04:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 00:27:49 +0000</lastBuildDate>
+    <item>
+      <title>The Dock on Mac, From OS 10 to macOS 27</title>
+      <link>https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/</guid>
+      <pubDate>Mon, 12 Oct 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
+    </item>
+    <item>
+      <title>Hello Python 3.15, goodbye 3.10, and now I can use 3.11</title>
+      <link>https://simonwillison.net/2026/Oct/12/python-3-15/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/12/python-3-15/</guid>
+      <pubDate>Mon, 12 Oct 2026 18:15:38 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Mark Stephens, a.k.a. Robert X. Cringely, Died at 73</title>
+      <link>https://www.facebook.com/story.php?story_fbid=pfbid0YbCLrAJfBirAWuPBy4a7pauaQ6gHkAPUwtbzyg2wAjeMcruFC7dWUZKQJKkNChP9l&amp;id=536506060&amp;_rdr</link>
+      <guid isPermaLink="true">https://www.facebook.com/story.php?story_fbid=pfbid0YbCLrAJfBirAWuPBy4a7pauaQ6gHkAPUwtbzyg2wAjeMcruFC7dWUZKQJKkNChP9l&amp;id=536506060&amp;_rdr</guid>
+      <pubDate>Mon, 12 Oct 2026 16:43:46 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>The X is Off-Target</title>
+      <link>https://feed.tedium.co/link/15204/17494770/x-social-media-monoliths-critique</link>
+      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17494770/x-social-media-monoliths-critique</guid>
+      <pubDate>Mon, 12 Oct 2026 15:53:18 +0000</pubDate>
+      <description>Tedium: The Dull Side of the Internet.</description>
+    </item>
     <item>
       <title>Categorical models of logics</title>
       <link>https://www.johndcook.com/blog/2026/10/12/categorical-models-of-logics/</link>
@@ -18,6 +46,20 @@
       <guid isPermaLink="true">https://pluralistic.net/2026/10/12/termination-of-transfer/</guid>
       <pubDate>Mon, 12 Oct 2026 11:40:39 +0000</pubDate>
       <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Now That’s What I Call Technical Debt!</title>
+      <link>https://nesbitt.io/2026/10/12/now-thats-what-i-call-technical-debt.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/10/12/now-thats-what-i-call-technical-debt.html</guid>
+      <pubDate>Mon, 12 Oct 2026 09:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>datasette-ports 0.4</title>
+      <link>https://simonwillison.net/2026/Oct/12/datasette-ports/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/12/datasette-ports/</guid>
+      <pubDate>Mon, 12 Oct 2026 04:57:07 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
     <item>
       <title>Refurb weekend II: Alpha Micro Eagle 300 and friends</title>
@@ -34,11 +76,18 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
+      <title>from plesiochronous to synchronous</title>
+      <link>https://computer.rip/2026-10-12-plesiochronous.html</link>
+      <guid isPermaLink="true">https://computer.rip/2026-10-12-plesiochronous.html</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+      <description>computers are bad</description>
+    </item>
+    <item>
       <title>Just say no to OpenAI and Anthropic</title>
       <link>https://micahflee.com/just-say-no-to-openai-and-anthropic/</link>
       <guid isPermaLink="true">https://micahflee.com/just-say-no-to-openai-and-anthropic/</guid>
       <pubDate>Sun, 11 Oct 2026 23:03:05 +0000</pubDate>
-      <description>micahflee</description>
+      <description>Micah Lee</description>
     </item>
     <item>
       <title>★ X Once Again Marks the Spot</title>
@@ -795,55 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/</guid>
       <pubDate>Sat, 03 Oct 2026 23:34:02 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Miquel’s pivot theorem</title>
-      <link>https://www.johndcook.com/blog/2026/10/03/miquels-pivot-theorem/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/10/03/miquels-pivot-theorem/</guid>
-      <pubDate>Sat, 03 Oct 2026 22:53:41 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>September sponsors-only newsletter</title>
-      <link>https://simonwillison.net/2026/Oct/3/newsletter/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/3/newsletter/</guid>
-      <pubDate>Sat, 03 Oct 2026 22:00:31 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>WorkOS</title>
-      <link>https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</link>
-      <guid isPermaLink="true">https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q32026</guid>
-      <pubDate>Sat, 03 Oct 2026 21:23:10 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Apple Confirms iPhone 18 Pro Max AT&amp;T Cellular Issues, Affected Devices Require Hardware Replacement</title>
-      <link>https://9to5mac.com/2026/10/02/apple-confirms-iphone-18-pro-max-att-cellular-issues-affected-devices-require-hardware-replacement/</link>
-      <guid isPermaLink="true">https://9to5mac.com/2026/10/02/apple-confirms-iphone-18-pro-max-att-cellular-issues-affected-devices-require-hardware-replacement/</guid>
-      <pubDate>Sat, 03 Oct 2026 18:21:14 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Reading List 2026-10-03</title>
-      <link>https://www.construction-physics.com/p/reading-list-2026-10-03</link>
-      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-2026-10-03</guid>
-      <pubDate>Sat, 03 Oct 2026 13:14:44 +0000</pubDate>
-      <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>Pluralistic: Economic probabilities for our grandchildren (03 Oct 2026)</title>
-      <link>https://pluralistic.net/2026/10/03/full-employment/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/10/03/full-employment/</guid>
-      <pubDate>Sat, 03 Oct 2026 12:07:59 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>This Week in Package Management: 3 October 2026</title>
-      <link>https://nesbitt.io/2026/10/03/this-week-in-package-management.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/10/03/this-week-in-package-management.html</guid>
-      <pubDate>Sat, 03 Oct 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
     </item>
   </channel>
 </rss>
