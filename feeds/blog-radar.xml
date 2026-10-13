@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 13 Oct 2026 13:58:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 22:32:03 +0000</lastBuildDate>
+    <item>
+      <title>Claude, don’t touch my lump</title>
+      <link>https://www.experimental-history.com/p/claude-dont-touch-my-lump</link>
+      <guid isPermaLink="true">https://www.experimental-history.com/p/claude-dont-touch-my-lump</guid>
+      <pubDate>Tue, 13 Oct 2026 21:04:46 +0000</pubDate>
+      <description>Experimental History</description>
+    </item>
+    <item>
+      <title>Annualized Enron Rate</title>
+      <link>https://www.wheresyoured.at/annualized-enron-rate/</link>
+      <guid isPermaLink="true">https://www.wheresyoured.at/annualized-enron-rate/</guid>
+      <pubDate>Tue, 13 Oct 2026 16:03:00 +0000</pubDate>
+      <description>Ed Zitron's Where's Your Ed At</description>
+    </item>
+    <item>
+      <title>Apple HomeView</title>
+      <link>https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/</link>
+      <guid isPermaLink="true">https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/</guid>
+      <pubDate>Tue, 13 Oct 2026 14:52:24 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>C++ futures part 2: The mental model for std::promise, std::packaged_task</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20261013-00/?p=112769/</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261013-00/?p=112769/</guid>
+      <pubDate>Tue, 13 Oct 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
     <item>
       <title>Harmonic triangle</title>
       <link>https://www.johndcook.com/blog/2026/10/13/harmonic-triangle/</link>
@@ -55,6 +83,13 @@
       <description>Software and Tech stories from an Insider - iDiallo.com</description>
     </item>
     <item>
+      <title>The geometric model of maintenance</title>
+      <link>https://entropicthoughts.com/geometric-model-of-maintenance</link>
+      <guid isPermaLink="true">https://entropicthoughts.com/geometric-model-of-maintenance</guid>
+      <pubDate>Mon, 12 Oct 2026 22:00:00 +0000</pubDate>
+      <description>Entropic Thoughts</description>
+    </item>
+    <item>
       <title>The Dock on Mac, From OS 10 to macOS 27</title>
       <link>https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/</link>
       <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/</guid>
@@ -66,6 +101,13 @@
       <link>https://simonwillison.net/2026/Oct/12/python-3-15/</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Oct/12/python-3-15/</guid>
       <pubDate>Mon, 12 Oct 2026 18:15:38 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Profiling web-edit with Python 3.15: flame graphs and source heatmaps</title>
+      <link>https://simonwillison.net/2026/Oct/12/python-3-15-web-edit-profiling/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/12/python-3-15-web-edit-profiling/</guid>
+      <pubDate>Mon, 12 Oct 2026 16:58:00 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
@@ -802,48 +844,6 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261005-00/?p=112755/</guid>
       <pubDate>Mon, 05 Oct 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>[RSS Club] Changes to the RSS and Atom feeds</title>
-      <link>https://shkspr.mobi/blog/2026/10/rss-club-changes-to-the-rss-and-atom-feeds/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/10/rss-club-changes-to-the-rss-and-atom-feeds/</guid>
-      <pubDate>Mon, 05 Oct 2026 11:34:03 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>How fast is Python 3.15?</title>
-      <link>https://blog.miguelgrinberg.com/post/how-fast-is-python-3-15</link>
-      <guid isPermaLink="true">https://blog.miguelgrinberg.com/post/how-fast-is-python-3-15</guid>
-      <pubDate>Mon, 05 Oct 2026 10:13:17 +0000</pubDate>
-      <description>Miguel Grinberg's Blog</description>
-    </item>
-    <item>
-      <title>Benchmark In Milliseconds</title>
-      <link>https://matklad.github.io/2026/10/05/benchmark-milliseconds.html</link>
-      <guid isPermaLink="true">https://matklad.github.io/2026/10/05/benchmark-milliseconds.html</guid>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-      <description>matklad</description>
-    </item>
-    <item>
-      <title>Qwen3.8 27B addition in words</title>
-      <link>https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/</guid>
-      <pubDate>Sun, 04 Oct 2026 23:34:00 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Zenith Data Systems, Part I</title>
-      <link>https://www.abortretry.fail/p/zenith-data-systems-part-i</link>
-      <guid isPermaLink="true">https://www.abortretry.fail/p/zenith-data-systems-part-i</guid>
-      <pubDate>Sun, 04 Oct 2026 22:09:15 +0000</pubDate>
-      <description>Abort Retry Fail</description>
-    </item>
-    <item>
-      <title>“I’m Embarrassed on Behalf of the Tech Industry”</title>
-      <link>https://blog.jim-nielsen.com/2026/embarrassed-by-tech/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/embarrassed-by-tech/</guid>
-      <pubDate>Sun, 04 Oct 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
     </item>
   </channel>
 </rss>
