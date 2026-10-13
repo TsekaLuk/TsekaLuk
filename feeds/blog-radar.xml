@@ -4,7 +4,56 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 13 Oct 2026 00:27:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 13:58:48 +0000</lastBuildDate>
+    <item>
+      <title>Harmonic triangle</title>
+      <link>https://www.johndcook.com/blog/2026/10/13/harmonic-triangle/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/10/13/harmonic-triangle/</guid>
+      <pubDate>Tue, 13 Oct 2026 13:45:18 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Quoting Geoffrey Huntley</title>
+      <link>https://simonwillison.net/2026/Oct/13/geoffrey-huntley/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/13/geoffrey-huntley/</guid>
+      <pubDate>Tue, 13 Oct 2026 13:32:00 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Subterranean Warfare – An Urgent DoW Need Without An Owner</title>
+      <link>https://steveblank.com/2026/10/13/subterranean-warfare-an-urgent-dow-need-without-an-owner/</link>
+      <guid isPermaLink="true">https://steveblank.com/2026/10/13/subterranean-warfare-an-urgent-dow-need-without-an-owner/</guid>
+      <pubDate>Tue, 13 Oct 2026 13:00:19 +0000</pubDate>
+      <description>Steve Blank</description>
+    </item>
+    <item>
+      <title>Pluralistic: Bundestrojaner (13 Oct 2026)</title>
+      <link>https://pluralistic.net/2026/10/13/petards-r-us/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/10/13/petards-r-us/</guid>
+      <pubDate>Tue, 13 Oct 2026 11:50:19 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Book Review: The Thousand Deaths of Romeo and Juliet - Caroline Finch ★★★★★</title>
+      <link>https://shkspr.mobi/blog/2026/10/book-review-the-thousand-deaths-of-romeo-and-juliet-caroline-finch/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/10/book-review-the-thousand-deaths-of-romeo-and-juliet-caroline-finch/</guid>
+      <pubDate>Tue, 13 Oct 2026 11:34:37 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Weekly Update 525: AI Data Breach Hyperbole</title>
+      <link>https://www.troyhunt.com/weekly-update-525/</link>
+      <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-525/</guid>
+      <pubDate>Tue, 13 Oct 2026 10:47:27 +0000</pubDate>
+      <description>Troy Hunt</description>
+    </item>
+    <item>
+      <title>The Last Answer</title>
+      <link>https://idiallo.com/blog/the-last-answer</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/the-last-answer</guid>
+      <pubDate>Tue, 13 Oct 2026 10:00:00 +0000</pubDate>
+      <description>Software and Tech stories from an Insider - iDiallo.com</description>
+    </item>
     <item>
       <title>The Dock on Mac, From OS 10 to macOS 27</title>
       <link>https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/</link>
@@ -27,11 +76,25 @@
       <description>Daring Fireball</description>
     </item>
     <item>
+      <title>web-edit 0.1a0</title>
+      <link>https://simonwillison.net/2026/Oct/12/web-edit/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/12/web-edit/</guid>
+      <pubDate>Mon, 12 Oct 2026 15:54:36 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
       <title>The X is Off-Target</title>
       <link>https://feed.tedium.co/link/15204/17494770/x-social-media-monoliths-critique</link>
       <guid isPermaLink="true">https://feed.tedium.co/link/15204/17494770/x-social-media-monoliths-critique</guid>
       <pubDate>Mon, 12 Oct 2026 15:53:18 +0000</pubDate>
       <description>Tedium: The Dull Side of the Internet.</description>
+    </item>
+    <item>
+      <title>C++ futures part 1: The mental model</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20261012-00/?p=112767/</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261012-00/?p=112767/</guid>
+      <pubDate>Mon, 12 Oct 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Categorical models of logics</title>
@@ -781,69 +844,6 @@
       <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/embarrassed-by-tech/</guid>
       <pubDate>Sun, 04 Oct 2026 19:00:00 +0000</pubDate>
       <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
-      <title>Miquel’s pentagon theorem</title>
-      <link>https://www.johndcook.com/blog/2026/10/04/miquels-pentagon-theorem/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/10/04/miquels-pentagon-theorem/</guid>
-      <pubDate>Sun, 04 Oct 2026 12:34:22 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Topological models of modal logic</title>
-      <link>https://www.johndcook.com/blog/2026/10/04/topological-models-of-modal-logic/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/10/04/topological-models-of-modal-logic/</guid>
-      <pubDate>Sun, 04 Oct 2026 12:25:19 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Modal logic and topology</title>
-      <link>https://www.johndcook.com/blog/2026/10/04/modal-topology/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/10/04/modal-topology/</guid>
-      <pubDate>Sun, 04 Oct 2026 12:24:33 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Weekly Update 524: Live From Copenhagen</title>
-      <link>https://www.troyhunt.com/weekly-update-524/</link>
-      <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-524/</guid>
-      <pubDate>Sun, 04 Oct 2026 11:52:23 +0000</pubDate>
-      <description>Troy Hunt</description>
-    </item>
-    <item>
-      <title>My Pitch for the New Season of Doctor Who</title>
-      <link>https://shkspr.mobi/blog/2026/10/my-pitch-for-the-new-season-of-doctor-who/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/10/my-pitch-for-the-new-season-of-doctor-who/</guid>
-      <pubDate>Sun, 04 Oct 2026 11:34:50 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Why My Asus Laptop Kept Rebooting After Sleep and How to Fix it</title>
-      <link>https://idiallo.com/blog/asus-laptop-keeps-rebooting-after-sleep</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/asus-laptop-keeps-rebooting-after-sleep</guid>
-      <pubDate>Sun, 04 Oct 2026 02:30:00 +0000</pubDate>
-      <description>Software and Tech stories from an Insider - iDiallo.com</description>
-    </item>
-    <item>
-      <title>The indicators of a quality website (somewhat silly)</title>
-      <link>https://maurycyz.com/misc/quality/indicators.html</link>
-      <guid isPermaLink="true">https://maurycyz.com/misc/quality/indicators.html</guid>
-      <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
-    </item>
-    <item>
-      <title>How to Solve: AAC Heavyweight M1 (Savage)</title>
-      <link>https://xeiaso.net/blog/2026/m9s/</link>
-      <guid isPermaLink="true">https://xeiaso.net/blog/2026/m9s/</guid>
-      <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
-      <title>We're going to need default hard budget caps on pretty much everything</title>
-      <link>https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/</guid>
-      <pubDate>Sat, 03 Oct 2026 23:34:02 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>

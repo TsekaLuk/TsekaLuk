@@ -208,11 +208,11 @@ Last Updated: Tuesday, October 13th, 2026, 9:21:16 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [The Dock on Mac, From OS 10 to macOS 27](https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/) — *Jim Nielsen’s Blog* `10-12`
-- [Hello Python 3.15, goodbye 3.10, and now I can use 3.11](https://simonwillison.net/2026/Oct/12/python-3-15/) — *Simon Willison's Weblog* `10-12`
-- [Mark Stephens, a.k.a. Robert X. Cringely, Died at 73](https://www.facebook.com/story.php?story_fbid=pfbid0YbCLrAJfBirAWuPBy4a7pauaQ6gHkAPUwtbzyg2wAjeMcruFC7dWUZKQJKkNChP9l&id=536506060&_rdr) — *Daring Fireball* `10-12`
-- [The X is Off-Target](https://feed.tedium.co/link/15204/17494770/x-social-media-monoliths-critique) — *Tedium: The Dull Side of the Internet.* `10-12`
-- [Categorical models of logics](https://www.johndcook.com/blog/2026/10/12/categorical-models-of-logics/) — *John D. Cook* `10-12`
+- [Harmonic triangle](https://www.johndcook.com/blog/2026/10/13/harmonic-triangle/) — *John D. Cook* `10-13`
+- [Quoting Geoffrey Huntley](https://simonwillison.net/2026/Oct/13/geoffrey-huntley/) — *Simon Willison's Weblog* `10-13`
+- [Subterranean Warfare – An Urgent DoW Need Without An Owner](https://steveblank.com/2026/10/13/subterranean-warfare-an-urgent-dow-need-without-an-owner/) — *Steve Blank* `10-13`
+- [Pluralistic: Bundestrojaner (13 Oct 2026)](https://pluralistic.net/2026/10/13/petards-r-us/) — *Pluralistic: Daily links from Cory Doctorow* `10-13`
+- [Book Review: The Thousand Deaths of Romeo and Juliet - Caroline Finch ★★★★★](https://shkspr.mobi/blog/2026/10/book-review-the-thousand-deaths-of-romeo-and-juliet-caroline-finch/) — *Terence Eden’s Blog* `10-13`
 <!--BLOG_RADAR:end-->
 
 ---
