@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 14 Oct 2026 16:57:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 21:30:09 +0000</lastBuildDate>
+    <item>
+      <title>[Sponsor] WorkOS AuthKit: Auth for Your App, Free Up to 1M Monthly Active Users</title>
+      <link>https://workos.com/?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q42026</link>
+      <guid isPermaLink="true">https://workos.com/?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q42026</guid>
+      <pubDate>Wed, 14 Oct 2026 21:03:43 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>The FBI Arrested a Saudi National OpenAI Employee for Planting a Recording Device in the Company’s Executive Conference Room</title>
+      <link>https://www.justice.gov/opa/pr/saudi-national-arrested-installing-surreptitious-audio-recording-device-openai</link>
+      <guid isPermaLink="true">https://www.justice.gov/opa/pr/saudi-national-arrested-installing-surreptitious-audio-recording-device-openai</guid>
+      <pubDate>Wed, 14 Oct 2026 20:58:01 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>LaTeX package for Pascal-like triangles</title>
+      <link>https://www.johndcook.com/blog/2026/10/14/latex-package-for-pascal-like-triangles/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/10/14/latex-package-for-pascal-like-triangles/</guid>
+      <pubDate>Wed, 14 Oct 2026 17:58:07 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
     <item>
       <title>AI is mass decompiling games. That's both awesome and scary.</title>
       <link>https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/</link>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261006-00/?p=112757/</guid>
       <pubDate>Tue, 06 Oct 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Pluralistic: Swapping money for expertise (06 Oct 2026)</title>
-      <link>https://pluralistic.net/2026/10/06/nonfungible/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/10/06/nonfungible/</guid>
-      <pubDate>Tue, 06 Oct 2026 12:58:26 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Una Watch - SDK and Writing Your First App</title>
-      <link>https://shkspr.mobi/blog/2026/10/una-watch-sdk-and-writing-your-first-app/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/10/una-watch-sdk-and-writing-your-first-app/</guid>
-      <pubDate>Tue, 06 Oct 2026 11:34:25 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Missing Link</title>
-      <link>https://feed.tedium.co/link/15204/17490109/link-newspaper-virginian-pilot-remembrance</link>
-      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17490109/link-newspaper-virginian-pilot-remembrance</guid>
-      <pubDate>Tue, 06 Oct 2026 02:59:08 +0000</pubDate>
-      <description>Tedium: The Dull Side of the Internet.</description>
     </item>
   </channel>
 </rss>
