@@ -208,11 +208,11 @@ Last Updated: Wednesday, October 14th, 2026, 7:00:07 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [The Internet of Very Cheap Things](https://shkspr.mobi/blog/2026/10/the-internet-of-very-cheap-things/) — *Terence Eden’s Blog* `10-14`
+- [A generalization of the Pythagorean theorem](https://www.johndcook.com/blog/2026/10/14/pythagorean-variation/) — *John D. Cook* `10-14`
+- [Poe, Bessel, and Drones](https://www.johndcook.com/blog/2026/10/14/poe-bessel-and-drones/) — *John D. Cook* `10-14`
 - [Microsoft Patches More Than 1,400 Security Flaws](https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/) — *Krebs on Security* `10-13`
 - [Redesigning source control at Anthropic](https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/) — *Simon Willison's Weblog* `10-13`
-- [llm-gemini 0.35](https://simonwillison.net/2026/Oct/13/llm-gemini/) — *Simon Willison's Weblog* `10-13`
-- [Claude, don’t touch my lump](https://www.experimental-history.com/p/claude-dont-touch-my-lump) — *Experimental History* `10-13`
-- [Annualized Enron Rate](https://www.wheresyoured.at/annualized-enron-rate/) — *Ed Zitron's Where's Your Ed At* `10-13`
 <!--BLOG_RADAR:end-->
 
 ---
