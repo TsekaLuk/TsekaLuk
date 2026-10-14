@@ -208,11 +208,11 @@ Last Updated: Thursday, October 15th, 2026, 12:20:11 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [AI is mass decompiling games. That's both awesome and scary.](https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/) — *Simon Willison's Weblog* `10-14`
+- [U.K. Sanctions Cryptomus for RU Money Laundering](https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/) — *Krebs on Security* `10-14`
+- [The still unregulated solar power clouds: notes from 9th E.DSO – EE-ISAC - ENCS – ENISA Cybersecurity Forum](https://berthub.eu/articles/posts/solar-nightmare-at-the-conference/) — *Bert Hubert's writings* `10-14`
+- [Formlabs dropped the Raspberry Pi on the way to a $699 SLA printer](https://www.jeffgeerling.com/blog/2026/formlabs-form-studio-1-resin-printer/) — *Jeff Geerling* `10-14`
 - [The Internet of Very Cheap Things](https://shkspr.mobi/blog/2026/10/the-internet-of-very-cheap-things/) — *Terence Eden’s Blog* `10-14`
-- [A generalization of the Pythagorean theorem](https://www.johndcook.com/blog/2026/10/14/pythagorean-variation/) — *John D. Cook* `10-14`
-- [Poe, Bessel, and Drones](https://www.johndcook.com/blog/2026/10/14/poe-bessel-and-drones/) — *John D. Cook* `10-14`
-- [Microsoft Patches More Than 1,400 Security Flaws](https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/) — *Krebs on Security* `10-13`
-- [Redesigning source control at Anthropic](https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/) — *Simon Willison's Weblog* `10-13`
 <!--BLOG_RADAR:end-->
 
 ---

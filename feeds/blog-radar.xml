@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 14 Oct 2026 11:35:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 16:57:51 +0000</lastBuildDate>
+    <item>
+      <title>AI is mass decompiling games. That's both awesome and scary.</title>
+      <link>https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/</guid>
+      <pubDate>Wed, 14 Oct 2026 16:26:53 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>U.K. Sanctions Cryptomus for RU Money Laundering</title>
+      <link>https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/</link>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/</guid>
+      <pubDate>Wed, 14 Oct 2026 14:22:49 +0000</pubDate>
+      <description>Krebs on Security</description>
+    </item>
+    <item>
+      <title>The still unregulated solar power clouds: notes from 9th E.DSO – EE-ISAC - ENCS – ENISA Cybersecurity Forum</title>
+      <link>https://berthub.eu/articles/posts/solar-nightmare-at-the-conference/</link>
+      <guid isPermaLink="true">https://berthub.eu/articles/posts/solar-nightmare-at-the-conference/</guid>
+      <pubDate>Wed, 14 Oct 2026 13:30:00 +0000</pubDate>
+      <description>Bert Hubert's writings</description>
+    </item>
+    <item>
+      <title>Formlabs dropped the Raspberry Pi on the way to a $699 SLA printer</title>
+      <link>https://www.jeffgeerling.com/blog/2026/formlabs-form-studio-1-resin-printer/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/formlabs-form-studio-1-resin-printer/</guid>
+      <pubDate>Wed, 14 Oct 2026 13:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
+    </item>
     <item>
       <title>The Internet of Very Cheap Things</title>
       <link>https://shkspr.mobi/blog/2026/10/the-internet-of-very-cheap-things/</link>
@@ -25,6 +53,13 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/10/14/poe-bessel-and-drones/</guid>
       <pubDate>Wed, 14 Oct 2026 10:00:22 +0000</pubDate>
       <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>"No way to prevent this" say users of only language where this regularly happens</title>
+      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-92392/</link>
+      <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-92392/</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>Microsoft Patches More Than 1,400 Security Flaws</title>
@@ -769,13 +804,6 @@
       <description>Jim Nielsen’s Blog</description>
     </item>
     <item>
-      <title>Mistral Large 4</title>
-      <link>https://simonwillison.net/2026/Oct/6/hn-49982139/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/6/hn-49982139/</guid>
-      <pubDate>Tue, 06 Oct 2026 18:20:58 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
       <title>Unofficial Command-Line Tool Removes Apple Intelligence From MacOS 27</title>
       <link>https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/</link>
       <guid isPermaLink="true">https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/</guid>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://feed.tedium.co/link/15204/17490109/link-newspaper-virginian-pilot-remembrance</guid>
       <pubDate>Tue, 06 Oct 2026 02:59:08 +0000</pubDate>
       <description>Tedium: The Dull Side of the Internet.</description>
-    </item>
-    <item>
-      <title>Steve Jobs, Walking Through a Mockup for Apple Park in 2010</title>
-      <link>https://book.stevejobsarchive.com/#photo-37</link>
-      <guid isPermaLink="true">https://book.stevejobsarchive.com/#photo-37</guid>
-      <pubDate>Tue, 06 Oct 2026 02:49:44 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>A Terminal Protocol for Program Status (OSC 7501)</title>
-      <link>https://mitchellh.com/writing/program-status-osc7501</link>
-      <guid isPermaLink="true">https://mitchellh.com/writing/program-status-osc7501</guid>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Mitchell Hashimoto</description>
-    </item>
-    <item>
-      <title>What is Codemode</title>
-      <link>https://lucumr.pocoo.org/2026/10/6/codemode/</link>
-      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/10/6/codemode/</guid>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Armin Ronacher's Thoughts and Writings</description>
-    </item>
-    <item>
-      <title>We are going to kill “unalive”</title>
-      <link>https://anildash.com/2026/10/06/kill-unalive/</link>
-      <guid isPermaLink="true">https://anildash.com/2026/10/06/kill-unalive/</guid>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Anil Dash</description>
     </item>
   </channel>
 </rss>
