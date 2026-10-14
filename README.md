@@ -208,11 +208,11 @@ Last Updated: Wednesday, October 14th, 2026, 11:08:43 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Microsoft Patches More Than 1,400 Security Flaws](https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/) — *Krebs on Security* `10-13`
+- [Redesigning source control at Anthropic](https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/) — *Simon Willison's Weblog* `10-13`
+- [llm-gemini 0.35](https://simonwillison.net/2026/Oct/13/llm-gemini/) — *Simon Willison's Weblog* `10-13`
 - [Claude, don’t touch my lump](https://www.experimental-history.com/p/claude-dont-touch-my-lump) — *Experimental History* `10-13`
 - [Annualized Enron Rate](https://www.wheresyoured.at/annualized-enron-rate/) — *Ed Zitron's Where's Your Ed At* `10-13`
-- [Apple HomeView](https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/) — *Daring Fireball* `10-13`
-- [C++ futures part 2: The mental model for std::promise, std::packaged_task](https://devblogs.microsoft.com/oldnewthing/20261013-00/?p=112769/) — *The Old New Thing* `10-13`
-- [Harmonic triangle](https://www.johndcook.com/blog/2026/10/13/harmonic-triangle/) — *John D. Cook* `10-13`
 <!--BLOG_RADAR:end-->
 
 ---
