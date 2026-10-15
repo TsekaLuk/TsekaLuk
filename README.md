@@ -208,11 +208,11 @@ Last Updated: Friday, October 16th, 2026, 4:49:55 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Chirp Pong](https://simonwillison.net/2026/Oct/15/chirp-pong/) — *Simon Willison's Weblog* `10-15`
+- [We Need All the Disciplines](https://blog.jim-nielsen.com/2026/we-need-all-disciplines/) — *Jim Nielsen’s Blog* `10-15`
 - [Secret Documents Reveal Donors Behind $330 Million for Trump’s Ballroom — Apple and Nvidia Top the List at $25 Million Each](https://www.washingtonpost.com/investigations/2026/10/15/secret-documents-reveal-donors-behind-330-million-trumps-ballroom/) — *Daring Fireball* `10-15`
 - [How to Train Your Robot](https://www.construction-physics.com/p/how-to-train-your-robot) — *Construction Physics* `10-15`
-- [Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO](https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/) — *Simon Willison's Weblog* `10-15`
-- [Pluralistic: Expedia amazoned hotel rooms (15 Oct 2026)](https://pluralistic.net/2026/10/15/enshittipedia/) — *Pluralistic: Daily links from Cory Doctorow* `10-15`
-- [Tree Appreciator](https://simonwillison.net/2026/Oct/14/tree-appreciator/) — *Simon Willison's Weblog* `10-14`
+- [C++ futures part 4: What if I want an immediate on-thread std::async?](https://devblogs.microsoft.com/oldnewthing/20261015-00/?p=112776/) — *The Old New Thing* `10-15`
 <!--BLOG_RADAR:end-->
 
 ---

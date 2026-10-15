@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 15 Oct 2026 16:44:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 21:11:56 +0000</lastBuildDate>
+    <item>
+      <title>Chirp Pong</title>
+      <link>https://simonwillison.net/2026/Oct/15/chirp-pong/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/15/chirp-pong/</guid>
+      <pubDate>Thu, 15 Oct 2026 19:47:52 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>We Need All the Disciplines</title>
+      <link>https://blog.jim-nielsen.com/2026/we-need-all-disciplines/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/we-need-all-disciplines/</guid>
+      <pubDate>Thu, 15 Oct 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
+    </item>
     <item>
       <title>Secret Documents Reveal Donors Behind $330 Million for Trump’s Ballroom — Apple and Nvidia Top the List at $25 Million Each</title>
       <link>https://www.washingtonpost.com/investigations/2026/10/15/secret-documents-reveal-donors-behind-330-million-trumps-ballroom/</link>
@@ -18,6 +32,13 @@
       <guid isPermaLink="true">https://www.construction-physics.com/p/how-to-train-your-robot</guid>
       <pubDate>Thu, 15 Oct 2026 14:23:58 +0000</pubDate>
       <description>Construction Physics</description>
+    </item>
+    <item>
+      <title>C++ futures part 4: What if I want an immediate on-thread std::async?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20261015-00/?p=112776/</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261015-00/?p=112776/</guid>
+      <pubDate>Thu, 15 Oct 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO</title>
@@ -74,6 +95,13 @@
       <guid isPermaLink="true">https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/</guid>
       <pubDate>Wed, 14 Oct 2026 14:22:49 +0000</pubDate>
       <description>Krebs on Security</description>
+    </item>
+    <item>
+      <title>C++ futures part 3: The mental model for std::async</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20261014-00/?p=112774/</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261014-00/?p=112774/</guid>
+      <pubDate>Wed, 14 Oct 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>The still unregulated solar power clouds: notes from 9th E.DSO – EE-ISAC - ENCS – ENISA Cybersecurity Forum</title>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Oct/6/llm-openai-decisions/</guid>
       <pubDate>Tue, 06 Oct 2026 23:04:13 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>llm-mistral 0.16</title>
-      <link>https://simonwillison.net/2026/Oct/6/llm-mistral/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/6/llm-mistral/</guid>
-      <pubDate>Tue, 06 Oct 2026 21:32:34 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>EmbeddingGemma 2</title>
-      <link>https://simonwillison.net/2026/Oct/6/hn-49983751/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/6/hn-49983751/</guid>
-      <pubDate>Tue, 06 Oct 2026 20:37:53 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>A topological model for provability logic</title>
-      <link>https://www.johndcook.com/blog/2026/10/06/godel-lob/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/10/06/godel-lob/</guid>
-      <pubDate>Tue, 06 Oct 2026 19:46:28 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Apple’s App Icon HOA</title>
-      <link>https://blog.jim-nielsen.com/2026/app-icon-hoa/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/app-icon-hoa/</guid>
-      <pubDate>Tue, 06 Oct 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
     </item>
   </channel>
 </rss>
