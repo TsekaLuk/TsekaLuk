@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 14 Oct 2026 21:30:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 04:12:30 +0000</lastBuildDate>
+    <item>
+      <title>Tree Appreciator</title>
+      <link>https://simonwillison.net/2026/Oct/14/tree-appreciator/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/14/tree-appreciator/</guid>
+      <pubDate>Wed, 14 Oct 2026 21:23:01 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>[Sponsor] WorkOS AuthKit: Auth for Your App, Free Up to 1M Monthly Active Users</title>
       <link>https://workos.com/?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q42026</link>
@@ -809,13 +816,6 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/10/06/godel-lob/</guid>
       <pubDate>Tue, 06 Oct 2026 19:46:28 +0000</pubDate>
       <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Using Parseable with Datasette for OpenTelemetry traces</title>
-      <link>https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/</guid>
-      <pubDate>Tue, 06 Oct 2026 19:07:31 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
     <item>
       <title>Apple’s App Icon HOA</title>
