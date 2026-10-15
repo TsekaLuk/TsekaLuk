@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 15 Oct 2026 04:12:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 11:13:49 +0000</lastBuildDate>
+    <item>
+      <title>Pluralistic: Expedia amazoned hotel rooms (15 Oct 2026)</title>
+      <link>https://pluralistic.net/2026/10/15/enshittipedia/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/10/15/enshittipedia/</guid>
+      <pubDate>Thu, 15 Oct 2026 11:03:29 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
     <item>
       <title>Tree Appreciator</title>
       <link>https://simonwillison.net/2026/Oct/14/tree-appreciator/</link>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://www.wheresyoured.at/credit-crunch/</guid>
       <pubDate>Tue, 06 Oct 2026 14:54:08 +0000</pubDate>
       <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>Why does the compiler sometimes use ud2 and sometimes int 3 for code that shouldn’t execute?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20261006-00/?p=112757/</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261006-00/?p=112757/</guid>
-      <pubDate>Tue, 06 Oct 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
     </item>
   </channel>
 </rss>

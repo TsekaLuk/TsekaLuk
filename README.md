@@ -208,11 +208,11 @@ Last Updated: Thursday, October 15th, 2026, 6:42:57 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Pluralistic: Expedia amazoned hotel rooms (15 Oct 2026)](https://pluralistic.net/2026/10/15/enshittipedia/) — *Pluralistic: Daily links from Cory Doctorow* `10-15`
 - [Tree Appreciator](https://simonwillison.net/2026/Oct/14/tree-appreciator/) — *Simon Willison's Weblog* `10-14`
 - [[Sponsor] WorkOS AuthKit: Auth for Your App, Free Up to 1M Monthly Active Users](https://workos.com/?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026) — *Daring Fireball* `10-14`
 - [The FBI Arrested a Saudi National OpenAI Employee for Planting a Recording Device in the Company’s Executive Conference Room](https://www.justice.gov/opa/pr/saudi-national-arrested-installing-surreptitious-audio-recording-device-openai) — *Daring Fireball* `10-14`
 - [LaTeX package for Pascal-like triangles](https://www.johndcook.com/blog/2026/10/14/latex-package-for-pascal-like-triangles/) — *John D. Cook* `10-14`
-- [AI is mass decompiling games. That's both awesome and scary.](https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/) — *Simon Willison's Weblog* `10-14`
 <!--BLOG_RADAR:end-->
 
 ---
