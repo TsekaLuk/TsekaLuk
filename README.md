@@ -208,11 +208,11 @@ Last Updated: Friday, October 16th, 2026, 11:55:47 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Pluralistic: Load-bearing (16 Oct 2026)](https://pluralistic.net/2026/10/15/sovereign-it/) — *Pluralistic: Daily links from Cory Doctorow* `10-16`
-- [This video is 2 minutes long](https://idiallo.com/byte-size/two-minutes-long-video) — *Software and Tech stories from an Insider - iDiallo.com* `10-16`
-- [★ Initial Thoughts on This Week’s New Apple TV 4K (4th Generation) and HomePod Mini 2](https://daringfireball.net/2026/10/thoughts_on_new_apple_tv_4k_and_homepod_mini_2) — *Daring Fireball* `10-16`
-- [AI is driving a boom in modestly successful software projects](https://seangoedecke.com/ai-is-driving-a-boom-in-modestly-successful-software/) — *seangoedecke.com RSS feed* `10-16`
-- [Chirp Pong](https://simonwillison.net/2026/Oct/15/chirp-pong/) — *Simon Willison's Weblog* `10-15`
+- [This Week on The Analog Antiquarian](https://www.filfre.net/2026/10/this-week-on-the-analog-antiquarian/) — *The Digital Antiquarian* `10-16`
+- [Premium: Venture Capital Is Killing Itself](https://www.wheresyoured.at/premium-venture-capital-is-killing-itself/) — *Ed Zitron's Where's Your Ed At* `10-16`
+- [Movie password](https://www.johndcook.com/blog/2026/10/16/movie-password/) — *John D. Cook* `10-16`
+- [iPhone Duo Pre-Orders Launched, and Three Hours Later It’s Sold Out Through the End of January](https://www.macrumors.com/2026/10/16/iphone-duo-sold-out-for-christmas/) — *Daring Fireball* `10-16`
+- [Monoliths and Lagrange Points](https://www.johndcook.com/blog/2026/10/16/monoliths-and-lagrange-points/) — *John D. Cook* `10-16`
 <!--BLOG_RADAR:end-->
 
 ---
