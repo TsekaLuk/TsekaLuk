@@ -208,11 +208,11 @@ Last Updated: Saturday, October 17th, 2026, 4:23:15 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [★ Real Artists Ship, Tesla Edition](https://daringfireball.net/2026/10/real_artists_ship_tesla_edition) — *Daring Fireball* `10-16`
+- [Shyam Sankar, CTO of Palantir, Says AI Researchers Have Started Smoking Because They’re Convinced AI (Claude, Probably) Is Going to Cure Cancer](https://www.cbsnews.com/news/shyam-sankar-chief-technology-officer-palantir-face-the-nation-transcript-10-11-2026/) — *Daring Fireball* `10-16`
 - [This Week on The Analog Antiquarian](https://www.filfre.net/2026/10/this-week-on-the-analog-antiquarian/) — *The Digital Antiquarian* `10-16`
 - [Premium: Venture Capital Is Killing Itself](https://www.wheresyoured.at/premium-venture-capital-is-killing-itself/) — *Ed Zitron's Where's Your Ed At* `10-16`
 - [Movie password](https://www.johndcook.com/blog/2026/10/16/movie-password/) — *John D. Cook* `10-16`
-- [iPhone Duo Pre-Orders Launched, and Three Hours Later It’s Sold Out Through the End of January](https://www.macrumors.com/2026/10/16/iphone-duo-sold-out-for-christmas/) — *Daring Fireball* `10-16`
-- [Monoliths and Lagrange Points](https://www.johndcook.com/blog/2026/10/16/monoliths-and-lagrange-points/) — *John D. Cook* `10-16`
 <!--BLOG_RADAR:end-->
 
 ---

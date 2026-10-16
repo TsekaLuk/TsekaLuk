@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 16 Oct 2026 16:27:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 20:50:14 +0000</lastBuildDate>
+    <item>
+      <title>★ Real Artists Ship, Tesla Edition</title>
+      <link>https://daringfireball.net/2026/10/real_artists_ship_tesla_edition</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/10/real_artists_ship_tesla_edition</guid>
+      <pubDate>Fri, 16 Oct 2026 20:11:23 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Shyam Sankar, CTO of Palantir, Says AI Researchers Have Started Smoking Because They’re Convinced AI (Claude, Probably) Is Going to Cure Cancer</title>
+      <link>https://www.cbsnews.com/news/shyam-sankar-chief-technology-officer-palantir-face-the-nation-transcript-10-11-2026/</link>
+      <guid isPermaLink="true">https://www.cbsnews.com/news/shyam-sankar-chief-technology-officer-palantir-face-the-nation-transcript-10-11-2026/</guid>
+      <pubDate>Fri, 16 Oct 2026 17:01:22 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>This Week on The Analog Antiquarian</title>
       <link>https://www.filfre.net/2026/10/this-week-on-the-analog-antiquarian/</link>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/</guid>
       <pubDate>Wed, 07 Oct 2026 14:53:51 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>How can undefined opcodes ud0 and ud1 have parameters? How undefined were they?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20261007-00/?p=112759/</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261007-00/?p=112759/</guid>
-      <pubDate>Wed, 07 Oct 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Pluralistic: Disloyalty (07 Oct 2026)</title>
-      <link>https://pluralistic.net/2026/10/07/gouged/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/10/07/gouged/</guid>
-      <pubDate>Wed, 07 Oct 2026 13:58:46 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
     </item>
   </channel>
 </rss>
