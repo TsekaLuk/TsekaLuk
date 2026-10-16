@@ -208,11 +208,11 @@ Last Updated: Friday, October 16th, 2026, 6:30:13 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Pluralistic: Load-bearing (16 Oct 2026)](https://pluralistic.net/2026/10/15/sovereign-it/) — *Pluralistic: Daily links from Cory Doctorow* `10-16`
+- [This video is 2 minutes long](https://idiallo.com/byte-size/two-minutes-long-video) — *Software and Tech stories from an Insider - iDiallo.com* `10-16`
 - [★ Initial Thoughts on This Week’s New Apple TV 4K (4th Generation) and HomePod Mini 2](https://daringfireball.net/2026/10/thoughts_on_new_apple_tv_4k_and_homepod_mini_2) — *Daring Fireball* `10-16`
+- [AI is driving a boom in modestly successful software projects](https://seangoedecke.com/ai-is-driving-a-boom-in-modestly-successful-software/) — *seangoedecke.com RSS feed* `10-16`
 - [Chirp Pong](https://simonwillison.net/2026/Oct/15/chirp-pong/) — *Simon Willison's Weblog* `10-15`
-- [We Need All the Disciplines](https://blog.jim-nielsen.com/2026/we-need-all-disciplines/) — *Jim Nielsen’s Blog* `10-15`
-- [Secret Documents Reveal Donors Behind $330 Million for Trump’s Ballroom — Apple and Nvidia Top the List at $25 Million Each](https://www.washingtonpost.com/investigations/2026/10/15/secret-documents-reveal-donors-behind-330-million-trumps-ballroom/) — *Daring Fireball* `10-15`
-- [How to Train Your Robot](https://www.construction-physics.com/p/how-to-train-your-robot) — *Construction Physics* `10-15`
 <!--BLOG_RADAR:end-->
 
 ---

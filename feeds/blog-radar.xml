@@ -4,13 +4,34 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 16 Oct 2026 04:08:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 11:08:26 +0000</lastBuildDate>
+    <item>
+      <title>Pluralistic: Load-bearing (16 Oct 2026)</title>
+      <link>https://pluralistic.net/2026/10/15/sovereign-it/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/10/15/sovereign-it/</guid>
+      <pubDate>Fri, 16 Oct 2026 06:40:02 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>This video is 2 minutes long</title>
+      <link>https://idiallo.com/byte-size/two-minutes-long-video</link>
+      <guid isPermaLink="true">https://idiallo.com/byte-size/two-minutes-long-video</guid>
+      <pubDate>Fri, 16 Oct 2026 05:28:42 +0000</pubDate>
+      <description>Software and Tech stories from an Insider - iDiallo.com</description>
+    </item>
     <item>
       <title>★ Initial Thoughts on This Week’s New Apple TV 4K (4th Generation) and HomePod Mini 2</title>
       <link>https://daringfireball.net/2026/10/thoughts_on_new_apple_tv_4k_and_homepod_mini_2</link>
       <guid isPermaLink="true">https://daringfireball.net/2026/10/thoughts_on_new_apple_tv_4k_and_homepod_mini_2</guid>
       <pubDate>Fri, 16 Oct 2026 01:18:29 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>AI is driving a boom in modestly successful software projects</title>
+      <link>https://seangoedecke.com/ai-is-driving-a-boom-in-modestly-successful-software/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/ai-is-driving-a-boom-in-modestly-successful-software/</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>Chirp Pong</title>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://matklad.github.io/2026/10/07/git-ref.html</guid>
       <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
       <description>matklad</description>
-    </item>
-    <item>
-      <title>Anti-Patterns in Software Blogging</title>
-      <link>https://refactoringenglish.com/blog/anti-patterns-software-blogging/</link>
-      <guid isPermaLink="true">https://refactoringenglish.com/blog/anti-patterns-software-blogging/</guid>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Refactoring English</description>
-    </item>
-    <item>
-      <title>Shopify went back to native. I think the bigger shift is formal verification</title>
-      <link>https://martinalderson.com/posts/shopify-native-formal-verification/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
-      <guid isPermaLink="true">https://martinalderson.com/posts/shopify-native-formal-verification/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Martin Alderson</description>
-    </item>
-    <item>
-      <title>Quoting Victoria Kim</title>
-      <link>https://simonwillison.net/2026/Oct/6/victoria-kim/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/6/victoria-kim/</guid>
-      <pubDate>Tue, 06 Oct 2026 23:58:56 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
