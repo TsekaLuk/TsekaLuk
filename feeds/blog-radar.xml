@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 15 Oct 2026 21:11:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 04:08:23 +0000</lastBuildDate>
+    <item>
+      <title>★ Initial Thoughts on This Week’s New Apple TV 4K (4th Generation) and HomePod Mini 2</title>
+      <link>https://daringfireball.net/2026/10/thoughts_on_new_apple_tv_4k_and_homepod_mini_2</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/10/thoughts_on_new_apple_tv_4k_and_homepod_mini_2</guid>
+      <pubDate>Fri, 16 Oct 2026 01:18:29 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Chirp Pong</title>
       <link>https://simonwillison.net/2026/Oct/15/chirp-pong/</link>
@@ -836,13 +843,6 @@
       <link>https://simonwillison.net/2026/Oct/6/victoria-kim/</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Oct/6/victoria-kim/</guid>
       <pubDate>Tue, 06 Oct 2026 23:58:56 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>llm-openai-decisions 0.1a0</title>
-      <link>https://simonwillison.net/2026/Oct/6/llm-openai-decisions/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/6/llm-openai-decisions/</guid>
-      <pubDate>Tue, 06 Oct 2026 23:04:13 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
     </item>
   </channel>
