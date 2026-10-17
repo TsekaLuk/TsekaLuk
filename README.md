@@ -208,11 +208,11 @@ Last Updated: Sunday, October 18th, 2026, 3:58:07 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [★ HomeView Thoughts and Observations](https://daringfireball.net/2026/10/homeview_thoughts_and_observations) — *Daring Fireball* `10-17`
+- [Cloud of suspicion lifted from NIST curves](https://www.johndcook.com/blog/2026/10/17/nist-curves-exonorated/) — *John D. Cook* `10-17`
 - [Apple TV Price History, Charted](https://glog.glennf.com/blog/2026/10/17/apple-tv-price-history/) — *Daring Fireball* `10-17`
 - [Reading List 10/17/26](https://www.construction-physics.com/p/reading-list-101726) — *Construction Physics* `10-17`
 - [Book Review: Are You *Really* The Doctor? by Matthew Hutchinson ★★★⯪☆](https://shkspr.mobi/blog/2026/10/book-review-are-you-really-the-doctor-by-matthew-hutchinson/) — *Terence Eden’s Blog* `10-17`
-- [Pluralistic: Israeli ad-tech company was a delivery system for "mercenary spyware" (17 Oct 2026)](https://pluralistic.net/2026/10/17/mercenary-spyware/) — *Pluralistic: Daily links from Cory Doctorow* `10-17`
-- [This Week in Package Management: 17 October 2026](https://nesbitt.io/2026/10/17/this-week-in-package-management.html) — *Andrew Nesbitt* `10-17`
 <!--BLOG_RADAR:end-->
 
 ---

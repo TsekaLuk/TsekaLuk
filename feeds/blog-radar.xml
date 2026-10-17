@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 17 Oct 2026 15:21:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 20:24:34 +0000</lastBuildDate>
+    <item>
+      <title>★ HomeView Thoughts and Observations</title>
+      <link>https://daringfireball.net/2026/10/homeview_thoughts_and_observations</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/10/homeview_thoughts_and_observations</guid>
+      <pubDate>Sat, 17 Oct 2026 17:25:13 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Cloud of suspicion lifted from NIST curves</title>
+      <link>https://www.johndcook.com/blog/2026/10/17/nist-curves-exonorated/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/10/17/nist-curves-exonorated/</guid>
+      <pubDate>Sat, 17 Oct 2026 15:39:06 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
     <item>
       <title>Apple TV Price History, Charted</title>
       <link>https://glog.glennf.com/blog/2026/10/17/apple-tv-price-history/</link>
@@ -692,18 +706,18 @@
       <description>The Digital Antiquarian</description>
     </item>
     <item>
-      <title>Fun with low-rank vocab matrices (and a bonus test loss reduction?)</title>
-      <link>https://www.gilesthomas.com/2026/10/low-rank-vocab-matrices</link>
-      <guid isPermaLink="true">https://www.gilesthomas.com/2026/10/low-rank-vocab-matrices</guid>
-      <pubDate>Fri, 09 Oct 2026 16:00:00 +0000</pubDate>
-      <description>Giles' blog</description>
-    </item>
-    <item>
       <title>Lobbying</title>
       <link>https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html</link>
       <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html</guid>
       <pubDate>Fri, 09 Oct 2026 16:00:00 +0000</pubDate>
       <description>the singularity is nearer</description>
+    </item>
+    <item>
+      <title>Fun with low-rank vocab matrices (and a bonus test loss reduction?)</title>
+      <link>https://www.gilesthomas.com/2026/10/low-rank-vocab-matrices</link>
+      <guid isPermaLink="true">https://www.gilesthomas.com/2026/10/low-rank-vocab-matrices</guid>
+      <pubDate>Fri, 09 Oct 2026 16:00:00 +0000</pubDate>
+      <description>Giles' blog</description>
     </item>
     <item>
       <title>Premium: The Hater's Guide To Junk</title>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/10/08/privacy-policies-and-modal-logic/</guid>
       <pubDate>Thu, 08 Oct 2026 13:43:02 +0000</pubDate>
       <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>No Man Is an Island</title>
-      <link>https://borretti.me/article/no-man-is-an-island</link>
-      <guid isPermaLink="true">https://borretti.me/article/no-man-is-an-island</guid>
-      <pubDate>Thu, 08 Oct 2026 13:00:00 +0000</pubDate>
-      <description>Fernando Borretti</description>
-    </item>
-    <item>
-      <title>The Rise and Fall of the Plasma Screen</title>
-      <link>https://www.construction-physics.com/p/the-rise-and-fall-of-the-plasma-screen</link>
-      <guid isPermaLink="true">https://www.construction-physics.com/p/the-rise-and-fall-of-the-plasma-screen</guid>
-      <pubDate>Thu, 08 Oct 2026 12:02:36 +0000</pubDate>
-      <description>Construction Physics</description>
     </item>
   </channel>
 </rss>
