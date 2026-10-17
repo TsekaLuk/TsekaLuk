@@ -208,11 +208,11 @@ Last Updated: Saturday, October 17th, 2026, 10:48:36 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [The Late Charlie Munger on Elon Musk and Tesla](https://www.cnbc.com/make-it/2020/02/14/charlie-munger-shares-opinion-of-tesla-ceo-elon-musk.html) — *Daring Fireball* `10-17`
-- [Apple: ‘Strengthening App Review Guidelines Against Nonconsensual Intimate Imagery and Bait-And-Switch Apps’](https://developer.apple.com/news/?id=vvzx6cul) — *Daring Fireball* `10-17`
-- [Apple TV Started at $69 in 2015](https://www.macrumors.com/2015/03/09/tim-cook-apple-tv-now-costs-69/) — *Daring Fireball* `10-17`
-- [Strange Times Make for Strange Bedfellows](https://x.com/finkd/status/2110778025629347999) — *Daring Fireball* `10-16`
-- [Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang](https://simonwillison.net/2026/Oct/16/code-review/) — *Simon Willison's Weblog* `10-16`
+- [Apple TV Price History, Charted](https://glog.glennf.com/blog/2026/10/17/apple-tv-price-history/) — *Daring Fireball* `10-17`
+- [Reading List 10/17/26](https://www.construction-physics.com/p/reading-list-101726) — *Construction Physics* `10-17`
+- [Book Review: Are You *Really* The Doctor? by Matthew Hutchinson ★★★⯪☆](https://shkspr.mobi/blog/2026/10/book-review-are-you-really-the-doctor-by-matthew-hutchinson/) — *Terence Eden’s Blog* `10-17`
+- [Pluralistic: Israeli ad-tech company was a delivery system for "mercenary spyware" (17 Oct 2026)](https://pluralistic.net/2026/10/17/mercenary-spyware/) — *Pluralistic: Daily links from Cory Doctorow* `10-17`
+- [This Week in Package Management: 17 October 2026](https://nesbitt.io/2026/10/17/this-week-in-package-management.html) — *Andrew Nesbitt* `10-17`
 <!--BLOG_RADAR:end-->
 
 ---
