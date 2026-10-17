@@ -208,11 +208,11 @@ Last Updated: Saturday, October 17th, 2026, 10:36:25 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [★ Real Artists Ship, Tesla Edition](https://daringfireball.net/2026/10/real_artists_ship_tesla_edition) — *Daring Fireball* `10-16`
-- [Shyam Sankar, CTO of Palantir, Says AI Researchers Have Started Smoking Because They’re Convinced AI (Claude, Probably) Is Going to Cure Cancer](https://www.cbsnews.com/news/shyam-sankar-chief-technology-officer-palantir-face-the-nation-transcript-10-11-2026/) — *Daring Fireball* `10-16`
-- [This Week on The Analog Antiquarian](https://www.filfre.net/2026/10/this-week-on-the-analog-antiquarian/) — *The Digital Antiquarian* `10-16`
-- [Premium: Venture Capital Is Killing Itself](https://www.wheresyoured.at/premium-venture-capital-is-killing-itself/) — *Ed Zitron's Where's Your Ed At* `10-16`
-- [Movie password](https://www.johndcook.com/blog/2026/10/16/movie-password/) — *John D. Cook* `10-16`
+- [The Late Charlie Munger on Elon Musk and Tesla](https://www.cnbc.com/make-it/2020/02/14/charlie-munger-shares-opinion-of-tesla-ceo-elon-musk.html) — *Daring Fireball* `10-17`
+- [Apple: ‘Strengthening App Review Guidelines Against Nonconsensual Intimate Imagery and Bait-And-Switch Apps’](https://developer.apple.com/news/?id=vvzx6cul) — *Daring Fireball* `10-17`
+- [Apple TV Started at $69 in 2015](https://www.macrumors.com/2015/03/09/tim-cook-apple-tv-now-costs-69/) — *Daring Fireball* `10-17`
+- [Strange Times Make for Strange Bedfellows](https://x.com/finkd/status/2110778025629347999) — *Daring Fireball* `10-16`
+- [Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang](https://simonwillison.net/2026/Oct/16/code-review/) — *Simon Willison's Weblog* `10-16`
 <!--BLOG_RADAR:end-->
 
 ---

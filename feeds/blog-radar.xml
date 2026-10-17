@@ -4,7 +4,49 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 16 Oct 2026 20:50:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 03:58:32 +0000</lastBuildDate>
+    <item>
+      <title>The Late Charlie Munger on Elon Musk and Tesla</title>
+      <link>https://www.cnbc.com/make-it/2020/02/14/charlie-munger-shares-opinion-of-tesla-ceo-elon-musk.html</link>
+      <guid isPermaLink="true">https://www.cnbc.com/make-it/2020/02/14/charlie-munger-shares-opinion-of-tesla-ceo-elon-musk.html</guid>
+      <pubDate>Sat, 17 Oct 2026 01:22:34 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Apple: ‘Strengthening App Review Guidelines Against Nonconsensual Intimate Imagery and Bait-And-Switch Apps’</title>
+      <link>https://developer.apple.com/news/?id=vvzx6cul</link>
+      <guid isPermaLink="true">https://developer.apple.com/news/?id=vvzx6cul</guid>
+      <pubDate>Sat, 17 Oct 2026 01:00:00 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Apple TV Started at $69 in 2015</title>
+      <link>https://www.macrumors.com/2015/03/09/tim-cook-apple-tv-now-costs-69/</link>
+      <guid isPermaLink="true">https://www.macrumors.com/2015/03/09/tim-cook-apple-tv-now-costs-69/</guid>
+      <pubDate>Sat, 17 Oct 2026 00:37:01 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Strange Times Make for Strange Bedfellows</title>
+      <link>https://x.com/finkd/status/2110778025629347999</link>
+      <guid isPermaLink="true">https://x.com/finkd/status/2110778025629347999</guid>
+      <pubDate>Fri, 16 Oct 2026 23:34:03 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang</title>
+      <link>https://simonwillison.net/2026/Oct/16/code-review/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/16/code-review/</guid>
+      <pubDate>Fri, 16 Oct 2026 22:06:37 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>How They Got Duo Support in NetNewsWire</title>
+      <link>https://netnewswire.blog/2026/10/16/how-we-got-duo-support.html</link>
+      <guid isPermaLink="true">https://netnewswire.blog/2026/10/16/how-we-got-duo-support.html</guid>
+      <pubDate>Fri, 16 Oct 2026 20:53:42 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>★ Real Artists Ship, Tesla Edition</title>
       <link>https://daringfireball.net/2026/10/real_artists_ship_tesla_edition</link>
@@ -32,13 +74,6 @@
       <guid isPermaLink="true">https://www.wheresyoured.at/premium-venture-capital-is-killing-itself/</guid>
       <pubDate>Fri, 16 Oct 2026 16:11:45 +0000</pubDate>
       <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>Movie password</title>
-      <link>https://www.johndcook.com/blog/2026/10/16/movie-password/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/10/16/movie-password/</guid>
-      <pubDate>Fri, 16 Oct 2026 15:37:09 +0000</pubDate>
-      <description>John D. Cook</description>
     </item>
     <item>
       <title>iPhone Duo Pre-Orders Launched, and Three Hours Later It’s Sold Out Through the End of January</title>
@@ -144,6 +179,13 @@
       <guid isPermaLink="true">https://pluralistic.net/2026/10/15/enshittipedia/</guid>
       <pubDate>Thu, 15 Oct 2026 11:03:29 +0000</pubDate>
       <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>LaTeX renderer</title>
+      <link>https://simonwillison.net/2026/Oct/15/latex/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/15/latex/</guid>
+      <pubDate>Thu, 15 Oct 2026 02:07:28 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
     <item>
       <title>Tree Appreciator</title>
@@ -802,48 +844,6 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/10/07/consequences-of-qrh/</guid>
       <pubDate>Wed, 07 Oct 2026 22:29:28 +0000</pubDate>
       <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Gurman Strikes Again: ‘Apple’s Smart Home Push Includes Doorbell, Lock, Thermostat Codeveloped With LG’</title>
-      <link>https://www.bloomberg.com/news/articles/2026-10-06/apple-s-smart-home-push-includes-doorbell-lock-thermostat-codeveloped-with-lg?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTMyMDkxNiwiZXhwIjoxNzkxOTI1NzE2LCJhcnRpY2xlSWQiOiJUTUdDN0lLSkg2VjUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.LSK9jlXYPFHac9EpcJCErTgJNAwqmpV6qFoORcKffVo</link>
-      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-10-06/apple-s-smart-home-push-includes-doorbell-lock-thermostat-codeveloped-with-lg?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTMyMDkxNiwiZXhwIjoxNzkxOTI1NzE2LCJhcnRpY2xlSWQiOiJUTUdDN0lLSkg2VjUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.LSK9jlXYPFHac9EpcJCErTgJNAwqmpV6qFoORcKffVo</guid>
-      <pubDate>Wed, 07 Oct 2026 22:02:43 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Swemak: Colemak for Swedish</title>
-      <link>https://entropicthoughts.com/swemak</link>
-      <guid isPermaLink="true">https://entropicthoughts.com/swemak</guid>
-      <pubDate>Wed, 07 Oct 2026 22:00:00 +0000</pubDate>
-      <description>Entropic Thoughts</description>
-    </item>
-    <item>
-      <title>Faster Fourier Transform</title>
-      <link>https://www.johndcook.com/blog/2026/10/07/faster-fourier-transform/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/10/07/faster-fourier-transform/</guid>
-      <pubDate>Wed, 07 Oct 2026 21:41:47 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Irrationality exponent of π</title>
-      <link>https://www.johndcook.com/blog/2026/10/07/irrationality-exponent-of-pi/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/10/07/irrationality-exponent-of-pi/</guid>
-      <pubDate>Wed, 07 Oct 2026 21:19:20 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Claude Haiku 5.5</title>
-      <link>https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/</guid>
-      <pubDate>Wed, 07 Oct 2026 20:56:21 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Anti-Patterns in Software Blogging</title>
-      <link>https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/</guid>
-      <pubDate>Wed, 07 Oct 2026 14:53:51 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
