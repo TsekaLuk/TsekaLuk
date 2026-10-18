@@ -208,11 +208,11 @@ Last Updated: Sunday, October 18th, 2026, 11:14:00 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Una Watch TOTP - MFA on your wrist!](https://shkspr.mobi/blog/2026/10/una-watch-totp-mfa-on-your-wrist/) — *Terence Eden’s Blog* `10-18`
 - [Notes on the complex roots of unity](https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/) — *Eli Bendersky's website* `10-18`
 - [Whatever You Say Bounces Off Me and Sticks to You](https://www.reuters.com/business/retail-consumer/openai-employee-who-left-apple-took-files-about-unreleased-device-openai-alleges-2026-10-14/) — *Daring Fireball* `10-18`
 - [Writing is no longer proof of work](https://seangoedecke.com/writing-is-no-longer-proof-of-work/) — *seangoedecke.com RSS feed* `10-18`
 - [How the AI boom might really end: 5 scenarios](https://martinalderson.com/posts/how-the-ai-boom-might-really-end/?utm_source=rss&utm_medium=rss&utm_campaign=feed) — *Martin Alderson* `10-18`
-- [Inline rendering with document​.currentScript](https://simonwillison.net/2026/Oct/17/document-currentscript/) — *Simon Willison's Weblog* `10-17`
 <!--BLOG_RADAR:end-->
 
 ---

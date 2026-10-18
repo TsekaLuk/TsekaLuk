@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 18 Oct 2026 10:46:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 15:43:06 +0000</lastBuildDate>
+    <item>
+      <title>Una Watch TOTP - MFA on your wrist!</title>
+      <link>https://shkspr.mobi/blog/2026/10/una-watch-totp-mfa-on-your-wrist/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/10/una-watch-totp-mfa-on-your-wrist/</guid>
+      <pubDate>Sun, 18 Oct 2026 11:34:08 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
     <item>
       <title>Notes on the complex roots of unity</title>
       <link>https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/</link>
@@ -151,13 +158,6 @@
       <guid isPermaLink="true">https://www.cbsnews.com/news/shyam-sankar-chief-technology-officer-palantir-face-the-nation-transcript-10-11-2026/</guid>
       <pubDate>Fri, 16 Oct 2026 17:01:22 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>This Week on The Analog Antiquarian</title>
-      <link>https://www.filfre.net/2026/10/this-week-on-the-analog-antiquarian/</link>
-      <guid isPermaLink="true">https://www.filfre.net/2026/10/this-week-on-the-analog-antiquarian/</guid>
-      <pubDate>Fri, 16 Oct 2026 16:14:39 +0000</pubDate>
-      <description>The Digital Antiquarian</description>
     </item>
     <item>
       <title>Premium: Venture Capital Is Killing Itself</title>
@@ -741,13 +741,6 @@
       <description>Tedium: The Dull Side of the Internet.</description>
     </item>
     <item>
-      <title>An Ion Storm!, Part 1: The Ascent to Gamer Paradise</title>
-      <link>https://www.filfre.net/2026/10/an-ion-storm-part-1-the-gamers-penthouse/</link>
-      <guid isPermaLink="true">https://www.filfre.net/2026/10/an-ion-storm-part-1-the-gamers-penthouse/</guid>
-      <pubDate>Fri, 09 Oct 2026 16:10:11 +0000</pubDate>
-      <description>The Digital Antiquarian</description>
-    </item>
-    <item>
       <title>Lobbying</title>
       <link>https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html</link>
       <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html</guid>
@@ -844,6 +837,13 @@
       <guid isPermaLink="true">https://x.com/gregjoz/status/2108226096407994858</guid>
       <pubDate>Thu, 08 Oct 2026 19:00:09 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>“Getting off the Modernization Treadmill”</title>
+      <link>https://blog.jim-nielsen.com/2026/talk-notes-modernization-treadmill/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/talk-notes-modernization-treadmill/</guid>
+      <pubDate>Thu, 08 Oct 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
     </item>
   </channel>
 </rss>
