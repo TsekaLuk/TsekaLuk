@@ -208,11 +208,11 @@ Last Updated: Sunday, October 18th, 2026, 10:38:23 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [★ HomeView Thoughts and Observations](https://daringfireball.net/2026/10/homeview_thoughts_and_observations) — *Daring Fireball* `10-17`
-- [Cloud of suspicion lifted from NIST curves](https://www.johndcook.com/blog/2026/10/17/nist-curves-exonorated/) — *John D. Cook* `10-17`
-- [Apple TV Price History, Charted](https://glog.glennf.com/blog/2026/10/17/apple-tv-price-history/) — *Daring Fireball* `10-17`
-- [Reading List 10/17/26](https://www.construction-physics.com/p/reading-list-101726) — *Construction Physics* `10-17`
-- [Book Review: Are You *Really* The Doctor? by Matthew Hutchinson ★★★⯪☆](https://shkspr.mobi/blog/2026/10/book-review-are-you-really-the-doctor-by-matthew-hutchinson/) — *Terence Eden’s Blog* `10-17`
+- [Notes on the complex roots of unity](https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/) — *Eli Bendersky's website* `10-18`
+- [Whatever You Say Bounces Off Me and Sticks to You](https://www.reuters.com/business/retail-consumer/openai-employee-who-left-apple-took-files-about-unreleased-device-openai-alleges-2026-10-14/) — *Daring Fireball* `10-18`
+- [Writing is no longer proof of work](https://seangoedecke.com/writing-is-no-longer-proof-of-work/) — *seangoedecke.com RSS feed* `10-18`
+- [How the AI boom might really end: 5 scenarios](https://martinalderson.com/posts/how-the-ai-boom-might-really-end/?utm_source=rss&utm_medium=rss&utm_campaign=feed) — *Martin Alderson* `10-18`
+- [Inline rendering with document​.currentScript](https://simonwillison.net/2026/Oct/17/document-currentscript/) — *Simon Willison's Weblog* `10-17`
 <!--BLOG_RADAR:end-->
 
 ---
