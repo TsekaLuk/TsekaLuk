@@ -208,11 +208,11 @@ Last Updated: Monday, October 19th, 2026, 3:57:09 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Apple Issues Statement on Duo Demand Far Outstripping Supply](https://www.ft.com/content/7b236286-ca1d-4063-a728-7f968a638b8f) — *Daring Fireball* `10-18`
+- [Manton Reece’s Spitball Theory on Why the Wall-Mounted HomeView Costs the Same as the Version With the Subwoofer Base](https://www.manton.org/2026/10/17/in-john-grubers-initial-thoughts.html) — *Daring Fireball* `10-18`
+- [Michigan Democratic Senate Candidate Abdul El-Sayed on His Allegiances](https://x.com/AbdulElSayed/status/2111627277578731885) — *Daring Fireball* `10-18`
+- [Inside the Intel 8087 chip: floating-point addition and subtraction](http://www.righto.com/2026/10/8087-addition-subtraction-microcode.html) — *Ken Shirriff's blog* `10-18`
 - [Una Watch TOTP - MFA on your wrist!](https://shkspr.mobi/blog/2026/10/una-watch-totp-mfa-on-your-wrist/) — *Terence Eden’s Blog* `10-18`
-- [Notes on the complex roots of unity](https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/) — *Eli Bendersky's website* `10-18`
-- [Whatever You Say Bounces Off Me and Sticks to You](https://www.reuters.com/business/retail-consumer/openai-employee-who-left-apple-took-files-about-unreleased-device-openai-alleges-2026-10-14/) — *Daring Fireball* `10-18`
-- [Writing is no longer proof of work](https://seangoedecke.com/writing-is-no-longer-proof-of-work/) — *seangoedecke.com RSS feed* `10-18`
-- [How the AI boom might really end: 5 scenarios](https://martinalderson.com/posts/how-the-ai-boom-might-really-end/?utm_source=rss&utm_medium=rss&utm_campaign=feed) — *Martin Alderson* `10-18`
 <!--BLOG_RADAR:end-->
 
 ---
