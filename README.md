@@ -208,11 +208,11 @@ Last Updated: Monday, October 19th, 2026, 10:51:22 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Apple Issues Statement on Duo Demand Far Outstripping Supply](https://www.ft.com/content/7b236286-ca1d-4063-a728-7f968a638b8f) — *Daring Fireball* `10-18`
-- [Manton Reece’s Spitball Theory on Why the Wall-Mounted HomeView Costs the Same as the Version With the Subwoofer Base](https://www.manton.org/2026/10/17/in-john-grubers-initial-thoughts.html) — *Daring Fireball* `10-18`
-- [Michigan Democratic Senate Candidate Abdul El-Sayed on His Allegiances](https://x.com/AbdulElSayed/status/2111627277578731885) — *Daring Fireball* `10-18`
-- [Inside the Intel 8087 chip: floating-point addition and subtraction](http://www.righto.com/2026/10/8087-addition-subtraction-microcode.html) — *Ken Shirriff's blog* `10-18`
-- [Una Watch TOTP - MFA on your wrist!](https://shkspr.mobi/blog/2026/10/una-watch-totp-mfa-on-your-wrist/) — *Terence Eden’s Blog* `10-18`
+- [What requirements don't you have?](https://seangoedecke.com/what-requirements-dont-you-have/) — *seangoedecke.com RSS feed* `10-19`
+- [llm-tools-datasette 0.1.1](https://simonwillison.net/2026/Oct/18/llm-tools-datasette/) — *Simon Willison's Weblog* `10-18`
+- [llm-echo 0.5](https://simonwillison.net/2026/Oct/18/llm-echo/) — *Simon Willison's Weblog* `10-18`
+- [Tom the Dancing Bug’s Inner Hive, and Harvey Richards, the Greatest Lawyer in the History of Fiction](https://tomthedancingbug.com/the-inner-hive/) — *Daring Fireball* `10-18`
+- [WorkOS AuthKit](https://workos.com/?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026) — *Daring Fireball* `10-18`
 <!--BLOG_RADAR:end-->
 
 ---

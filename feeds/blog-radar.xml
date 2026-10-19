@@ -4,7 +4,63 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 18 Oct 2026 20:25:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 04:14:45 +0000</lastBuildDate>
+    <item>
+      <title>What requirements don't you have?</title>
+      <link>https://seangoedecke.com/what-requirements-dont-you-have/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/what-requirements-dont-you-have/</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>llm-tools-datasette 0.1.1</title>
+      <link>https://simonwillison.net/2026/Oct/18/llm-tools-datasette/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/18/llm-tools-datasette/</guid>
+      <pubDate>Sun, 18 Oct 2026 23:43:09 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>llm-echo 0.5</title>
+      <link>https://simonwillison.net/2026/Oct/18/llm-echo/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/18/llm-echo/</guid>
+      <pubDate>Sun, 18 Oct 2026 23:16:16 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Tom the Dancing Bug’s Inner Hive, and Harvey Richards, the Greatest Lawyer in the History of Fiction</title>
+      <link>https://tomthedancingbug.com/the-inner-hive/</link>
+      <guid isPermaLink="true">https://tomthedancingbug.com/the-inner-hive/</guid>
+      <pubDate>Sun, 18 Oct 2026 22:53:00 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>WorkOS AuthKit</title>
+      <link>https://workos.com/?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q42026</link>
+      <guid isPermaLink="true">https://workos.com/?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q42026</guid>
+      <pubDate>Sun, 18 Oct 2026 22:45:00 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Verizon Is Going to Charge $10/Month for iPhone Handoff</title>
+      <link>https://www.verizon.com/about/news/iphone-duo-verizon-offers</link>
+      <guid isPermaLink="true">https://www.verizon.com/about/news/iphone-duo-verizon-offers</guid>
+      <pubDate>Sun, 18 Oct 2026 22:20:06 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Gurman on HomeView: ‘Finished Units Have Been Sitting Boxed Up in Warehouses for the Better Part of a Year’</title>
+      <link>https://www.bloomberg.com/news/newsletters/2026-10-18/apple-homeview-with-robotic-arm-new-mac-ipad-mini-nov-6-release-iphone-duo?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjMzMjQwNiwiZXhwIjoxNzkyOTM3MjA2LCJhcnRpY2xlSWQiOiJUTjNXODFLR1pBSjQwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.eu94lgz5qU35YdXhWFRwjbVBeJEKzpwFqF-pzh_GPJU&amp;leadSource=article-gifting</link>
+      <guid isPermaLink="true">https://www.bloomberg.com/news/newsletters/2026-10-18/apple-homeview-with-robotic-arm-new-mac-ipad-mini-nov-6-release-iphone-duo?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjMzMjQwNiwiZXhwIjoxNzkyOTM3MjA2LCJhcnRpY2xlSWQiOiJUTjNXODFLR1pBSjQwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.eu94lgz5qU35YdXhWFRwjbVBeJEKzpwFqF-pzh_GPJU&amp;leadSource=article-gifting</guid>
+      <pubDate>Sun, 18 Oct 2026 21:58:33 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Claim Chowder: The Information on HomeView Having a ‘Robotic Swiveling Base’</title>
+      <link>https://www.theinformation.com/articles/apple-developing-ai-wearable-pin</link>
+      <guid isPermaLink="true">https://www.theinformation.com/articles/apple-developing-ai-wearable-pin</guid>
+      <pubDate>Sun, 18 Oct 2026 21:26:32 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Apple Issues Statement on Duo Demand Far Outstripping Supply</title>
       <link>https://www.ft.com/content/7b236286-ca1d-4063-a728-7f968a638b8f</link>
@@ -319,13 +375,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Oct/14/tree-appreciator/</guid>
       <pubDate>Wed, 14 Oct 2026 21:23:01 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>[Sponsor] WorkOS AuthKit: Auth for Your App, Free Up to 1M Monthly Active Users</title>
-      <link>https://workos.com/?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q42026</link>
-      <guid isPermaLink="true">https://workos.com/?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q42026</guid>
-      <pubDate>Wed, 14 Oct 2026 21:03:43 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
     <item>
       <title>The FBI Arrested a Saudi National OpenAI Employee for Planting a Recording Device in the Company’s Executive Conference Room</title>
@@ -795,55 +844,6 @@
       <guid isPermaLink="true">https://www.gilesthomas.com/2026/10/low-rank-vocab-matrices</guid>
       <pubDate>Fri, 09 Oct 2026 16:00:00 +0000</pubDate>
       <description>Giles' blog</description>
-    </item>
-    <item>
-      <title>Premium: The Hater's Guide To Junk</title>
-      <link>https://www.wheresyoured.at/premium-the-haters-guide-to-junk/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/premium-the-haters-guide-to-junk/</guid>
-      <pubDate>Fri, 09 Oct 2026 15:53:00 +0000</pubDate>
-      <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>Quoting Matthew Green</title>
-      <link>https://simonwillison.net/2026/Oct/9/matthew-green/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/9/matthew-green/</guid>
-      <pubDate>Fri, 09 Oct 2026 15:02:29 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>One way of thinking about access specifiers in C++/WinRT implementation types</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20261009-00/?p=112764/</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261009-00/?p=112764/</guid>
-      <pubDate>Fri, 09 Oct 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>A new feature for my blog, built using my voice</title>
-      <link>https://simonwillison.net/2026/Oct/9/built-using-my-voice/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/9/built-using-my-voice/</guid>
-      <pubDate>Fri, 09 Oct 2026 12:54:06 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Concert Review: London Voices - Video Games Go Choral ★★★★☆</title>
-      <link>https://shkspr.mobi/blog/2026/10/concert-review-london-voices-video-games-go-choral/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/10/concert-review-london-voices-video-games-go-choral/</guid>
-      <pubDate>Fri, 09 Oct 2026 11:34:09 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>20 Minutes of Political Debate, Brought to You by Commercial Breaks</title>
-      <link>https://idiallo.com/byte-size/20-minutes-of-political-debate</link>
-      <guid isPermaLink="true">https://idiallo.com/byte-size/20-minutes-of-political-debate</guid>
-      <pubDate>Fri, 09 Oct 2026 04:59:23 +0000</pubDate>
-      <description>Software and Tech stories from an Insider - iDiallo.com</description>
-    </item>
-    <item>
-      <title>ttok 1.0</title>
-      <link>https://simonwillison.net/2026/Oct/9/ttok/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/9/ttok/</guid>
-      <pubDate>Fri, 09 Oct 2026 00:34:43 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
