@@ -208,11 +208,11 @@ Last Updated: Monday, October 19th, 2026, 7:50:59 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [A frivolous problem with a deeper lesson](https://www.johndcook.com/blog/2026/10/19/regex-backtracking/) — *John D. Cook* `10-19`
+- [Pluralistic: The technopolitics of ad-tech (19 Oct 2026)](https://pluralistic.net/2026/10/19/spying-v-context/) — *Pluralistic: Daily links from Cory Doctorow* `10-19`
+- [Weekly Update 526: Building HIBP AI/SI First](https://www.troyhunt.com/weekly-update-526/) — *Troy Hunt* `10-19`
 - [What requirements don't you have?](https://seangoedecke.com/what-requirements-dont-you-have/) — *seangoedecke.com RSS feed* `10-19`
 - [llm-tools-datasette 0.1.1](https://simonwillison.net/2026/Oct/18/llm-tools-datasette/) — *Simon Willison's Weblog* `10-18`
-- [llm-echo 0.5](https://simonwillison.net/2026/Oct/18/llm-echo/) — *Simon Willison's Weblog* `10-18`
-- [Tom the Dancing Bug’s Inner Hive, and Harvey Richards, the Greatest Lawyer in the History of Fiction](https://tomthedancingbug.com/the-inner-hive/) — *Daring Fireball* `10-18`
-- [WorkOS AuthKit](https://workos.com/?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026) — *Daring Fireball* `10-18`
 <!--BLOG_RADAR:end-->
 
 ---
