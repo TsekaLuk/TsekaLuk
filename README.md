@@ -208,11 +208,11 @@ Last Updated: Tuesday, October 20th, 2026, 2:10:47 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [A frivolous problem with a deeper lesson](https://www.johndcook.com/blog/2026/10/19/regex-backtracking/) — *John D. Cook* `10-19`
-- [Pluralistic: The technopolitics of ad-tech (19 Oct 2026)](https://pluralistic.net/2026/10/19/spying-v-context/) — *Pluralistic: Daily links from Cory Doctorow* `10-19`
-- [Weekly Update 526: Building HIBP AI/SI First](https://www.troyhunt.com/weekly-update-526/) — *Troy Hunt* `10-19`
-- [What requirements don't you have?](https://seangoedecke.com/what-requirements-dont-you-have/) — *seangoedecke.com RSS feed* `10-19`
-- [llm-tools-datasette 0.1.1](https://simonwillison.net/2026/Oct/18/llm-tools-datasette/) — *Simon Willison's Weblog* `10-18`
+- [★ Estimated Arrival Dates for DF Readers’ Pre-Ordered iPhone Duos](https://daringfireball.net/2026/10/estimated_arrival_dates_for_preordered_iphone_duos) — *Daring Fireball* `10-19`
+- [Netflix Shitcanned Film Chief Dan Lin Too](https://deadline.com/2026/10/netflix-dan-lin-out-1237167562/) — *Daring Fireball* `10-19`
+- [Ex-Apple Employee Fred Potter on HomeView](https://www.linkedin.com/posts/frpotter_tonight-im-looking-back-through-the-photo-share-7515791565718454272-ue-R/) — *Daring Fireball* `10-19`
+- [Netflix Lays Off 6 Percent of Staff](https://www.wsj.com/business/media/netflix-eliminates-about-6-of-staff-in-biggest-cuts-since-2022-0a2d8ec3?st=NtEg5v&reflink=desktopwebshare_permalink) — *Daring Fireball* `10-19`
+- [Time Magazine Profiles John Ternus](https://time.com/collection/best-inventions/2026/apple-iphone-duo/) — *Daring Fireball* `10-19`
 <!--BLOG_RADAR:end-->
 
 ---
