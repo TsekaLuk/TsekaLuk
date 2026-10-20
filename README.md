@@ -208,11 +208,11 @@ Last Updated: Tuesday, October 20th, 2026, 11:01:13 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [★ Estimated Arrival Dates for DF Readers’ Pre-Ordered iPhone Duos](https://daringfireball.net/2026/10/estimated_arrival_dates_for_preordered_iphone_duos) — *Daring Fireball* `10-19`
-- [Netflix Shitcanned Film Chief Dan Lin Too](https://deadline.com/2026/10/netflix-dan-lin-out-1237167562/) — *Daring Fireball* `10-19`
-- [Ex-Apple Employee Fred Potter on HomeView](https://www.linkedin.com/posts/frpotter_tonight-im-looking-back-through-the-photo-share-7515791565718454272-ue-R/) — *Daring Fireball* `10-19`
-- [Netflix Lays Off 6 Percent of Staff](https://www.wsj.com/business/media/netflix-eliminates-about-6-of-staff-in-biggest-cuts-since-2022-0a2d8ec3?st=NtEg5v&reflink=desktopwebshare_permalink) — *Daring Fireball* `10-19`
-- [Time Magazine Profiles John Ternus](https://time.com/collection/best-inventions/2026/apple-iphone-duo/) — *Daring Fireball* `10-19`
+- [Barack Obama on the Trump Administration’s Intimidation Campaign Against Congresswoman Ilhan Omar](https://x.com/BarackObama/status/2111819687524774170) — *Daring Fireball* `10-20`
+- [Laypeople support technical fields for technology, not art](https://seangoedecke.com/laypeople-support-technical-fields-for-technology-not-art/) — *seangoedecke.com RSS feed* `10-20`
+- [My obituary for programming](https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/) — *Simon Willison's Weblog* `10-19`
+- [From the DF Archive: Should a CEO Be a Nerd About Their Company’s Products?](https://daringfireball.net/linked/2022/10/11/ceos-as-nerds) — *Daring Fireball* `10-19`
+- [Apple Event, in Los Angeles, Next Week: ‘Pro and Tell’](https://x.com/gregjoz/status/2112212372182249831) — *Daring Fireball* `10-19`
 <!--BLOG_RADAR:end-->
 
 ---

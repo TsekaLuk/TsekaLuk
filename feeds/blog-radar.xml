@@ -4,7 +4,42 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 19 Oct 2026 22:13:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 04:26:27 +0000</lastBuildDate>
+    <item>
+      <title>Barack Obama on the Trump Administration’s Intimidation Campaign Against Congresswoman Ilhan Omar</title>
+      <link>https://x.com/BarackObama/status/2111819687524774170</link>
+      <guid isPermaLink="true">https://x.com/BarackObama/status/2111819687524774170</guid>
+      <pubDate>Tue, 20 Oct 2026 01:12:26 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Laypeople support technical fields for technology, not art</title>
+      <link>https://seangoedecke.com/laypeople-support-technical-fields-for-technology-not-art/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/laypeople-support-technical-fields-for-technology-not-art/</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>My obituary for programming</title>
+      <link>https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/</guid>
+      <pubDate>Mon, 19 Oct 2026 23:58:25 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>From the DF Archive: Should a CEO Be a Nerd About Their Company’s Products?</title>
+      <link>https://daringfireball.net/linked/2022/10/11/ceos-as-nerds</link>
+      <guid isPermaLink="true">https://daringfireball.net/linked/2022/10/11/ceos-as-nerds</guid>
+      <pubDate>Mon, 19 Oct 2026 22:36:15 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Apple Event, in Los Angeles, Next Week: ‘Pro and Tell’</title>
+      <link>https://x.com/gregjoz/status/2112212372182249831</link>
+      <guid isPermaLink="true">https://x.com/gregjoz/status/2112212372182249831</guid>
+      <pubDate>Mon, 19 Oct 2026 22:27:21 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>★ Estimated Arrival Dates for DF Readers’ Pre-Ordered iPhone Duos</title>
       <link>https://daringfireball.net/2026/10/estimated_arrival_dates_for_preordered_iphone_duos</link>
@@ -18,6 +53,13 @@
       <guid isPermaLink="true">https://deadline.com/2026/10/netflix-dan-lin-out-1237167562/</guid>
       <pubDate>Mon, 19 Oct 2026 21:15:57 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>No More Icons In Every Menu By Default</title>
+      <link>https://blog.jim-nielsen.com/2026/icons-in-every-menu/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/icons-in-every-menu/</guid>
+      <pubDate>Mon, 19 Oct 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
     </item>
     <item>
       <title>Ex-Apple Employee Fred Potter on HomeView</title>
@@ -802,48 +844,6 @@
       <guid isPermaLink="true">https://seangoedecke.com/dont-diagnose-your-opponents/</guid>
       <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>Python 3.15.0 added to actions/python-versions</title>
-      <link>https://simonwillison.net/2026/Oct/10/python-actions/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/10/python-actions/</guid>
-      <pubDate>Sat, 10 Oct 2026 23:58:04 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Inside a 1980s filter chip that uses switched capacitors</title>
-      <link>http://www.righto.com/2026/10/ML10-switched-capacitor-filter.html</link>
-      <guid isPermaLink="true">http://www.righto.com/2026/10/ML10-switched-capacitor-filter.html</guid>
-      <pubDate>Sat, 10 Oct 2026 16:40:25 +0000</pubDate>
-      <description>Ken Shirriff's blog</description>
-    </item>
-    <item>
-      <title>Sunnny</title>
-      <link>https://sunnny.com/</link>
-      <guid isPermaLink="true">https://sunnny.com/</guid>
-      <pubDate>Sat, 10 Oct 2026 16:11:45 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>‘Proof-of-Human’</title>
-      <link>https://x.com/bzamayo/status/2108498107184934914</link>
-      <guid isPermaLink="true">https://x.com/bzamayo/status/2108498107184934914</guid>
-      <pubDate>Sat, 10 Oct 2026 16:06:17 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Reading List 10/10/26</title>
-      <link>https://www.construction-physics.com/p/reading-list-101026</link>
-      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-101026</guid>
-      <pubDate>Sat, 10 Oct 2026 14:55:48 +0000</pubDate>
-      <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>Some quick thoughts on Unit Testing ActivityPub</title>
-      <link>https://shkspr.mobi/blog/2026/10/some-thoughts-on-unit-testing-activitypub/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/10/some-thoughts-on-unit-testing-activitypub/</guid>
-      <pubDate>Sat, 10 Oct 2026 11:34:15 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
   </channel>
 </rss>
