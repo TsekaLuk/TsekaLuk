@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 20 Oct 2026 04:26:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 11:17:40 +0000</lastBuildDate>
     <item>
       <title>Barack Obama on the Trump Administration’s Intimidation Campaign Against Congresswoman Ilhan Omar</title>
       <link>https://x.com/BarackObama/status/2111819687524774170</link>
@@ -48,6 +48,13 @@
       <description>Daring Fireball</description>
     </item>
     <item>
+      <title>NixOS Is Making Me Less Afraid</title>
+      <link>https://entropicthoughts.com/nixos-is-making-me-less-afraid</link>
+      <guid isPermaLink="true">https://entropicthoughts.com/nixos-is-making-me-less-afraid</guid>
+      <pubDate>Mon, 19 Oct 2026 22:00:00 +0000</pubDate>
+      <description>Entropic Thoughts</description>
+    </item>
+    <item>
       <title>Netflix Shitcanned Film Chief Dan Lin Too</title>
       <link>https://deadline.com/2026/10/netflix-dan-lin-out-1237167562/</link>
       <guid isPermaLink="true">https://deadline.com/2026/10/netflix-dan-lin-out-1237167562/</guid>
@@ -88,6 +95,13 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/10/19/refactoring-factorials/</guid>
       <pubDate>Mon, 19 Oct 2026 14:55:22 +0000</pubDate>
       <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Why do we need ud2 when int 6 is right there?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20261019-00/?p=112781/</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261019-00/?p=112781/</guid>
+      <pubDate>Mon, 19 Oct 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site</title>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/</guid>
       <pubDate>Sun, 11 Oct 2026 11:34:39 +0000</pubDate>
       <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Dwarf Fortress uses version control now</title>
-      <link>https://simonwillison.net/2026/Oct/11/dwarf-fortress/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/11/dwarf-fortress/</guid>
-      <pubDate>Sun, 11 Oct 2026 00:52:37 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Don't diagnose your opponents</title>
-      <link>https://seangoedecke.com/dont-diagnose-your-opponents/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/dont-diagnose-your-opponents/</guid>
-      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
     </item>
   </channel>
 </rss>
