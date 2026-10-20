@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 20 Oct 2026 11:17:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 16:42:30 +0000</lastBuildDate>
+    <item>
+      <title>AI Had Better Work Out</title>
+      <link>https://www.wheresyoured.at/ai-had-better-work-out/</link>
+      <guid isPermaLink="true">https://www.wheresyoured.at/ai-had-better-work-out/</guid>
+      <pubDate>Tue, 20 Oct 2026 16:12:06 +0000</pubDate>
+      <description>Ed Zitron's Where's Your Ed At</description>
+    </item>
+    <item>
+      <title>ClickHouse Will Let You Be Wrong at Scale</title>
+      <link>https://matduggan.com/clickhouse-will-let-you-be-wrong-at-scale/</link>
+      <guid isPermaLink="true">https://matduggan.com/clickhouse-will-let-you-be-wrong-at-scale/</guid>
+      <pubDate>Tue, 20 Oct 2026 14:01:12 +0000</pubDate>
+      <description>matduggan.com</description>
+    </item>
+    <item>
+      <title>[Sponsor] Sunnny</title>
+      <link>https://sunnny.com/</link>
+      <guid isPermaLink="true">https://sunnny.com/</guid>
+      <pubDate>Tue, 20 Oct 2026 13:09:38 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Book Review: Quackery - A Brief History of the Worst Ways to Cure Everything by Lydia Kang ★★★⯪☆</title>
+      <link>https://shkspr.mobi/blog/2026/10/book-review-quackery-a-brief-history-of-the-worst-ways-to-cure-everything-by-lydia-kang/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/10/book-review-quackery-a-brief-history-of-the-worst-ways-to-cure-everything-by-lydia-kang/</guid>
+      <pubDate>Tue, 20 Oct 2026 11:34:35 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
     <item>
       <title>Barack Obama on the Trump Administration’s Intimidation Campaign Against Congresswoman Ilhan Omar</title>
       <link>https://x.com/BarackObama/status/2111819687524774170</link>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://daringfireball.net/2026/10/x_once_again_marks_the_spot</guid>
       <pubDate>Sun, 11 Oct 2026 21:05:33 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Apple Only Started Suggesting iOS 26 Users Upgrade to 27 Three Days Ago</title>
-      <link>https://www.macrumors.com/2026/10/08/apple-now-pushing-ios-27/</link>
-      <guid isPermaLink="true">https://www.macrumors.com/2026/10/08/apple-now-pushing-ios-27/</guid>
-      <pubDate>Sun, 11 Oct 2026 19:02:38 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The Fascinating World of Domains</title>
-      <link>https://blog.jim-nielsen.com/2026/domains-article-on-wired/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/domains-article-on-wired/</guid>
-      <pubDate>Sun, 11 Oct 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
-      <title>Why I Get Bored</title>
-      <link>https://idiallo.com/byte-size/why-i-get-bored</link>
-      <guid isPermaLink="true">https://idiallo.com/byte-size/why-i-get-bored</guid>
-      <pubDate>Sun, 11 Oct 2026 16:00:00 +0000</pubDate>
-      <description>Software and Tech stories from an Insider - iDiallo.com</description>
-    </item>
-    <item>
-      <title>I paid people to try and follow my README</title>
-      <link>https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/</guid>
-      <pubDate>Sun, 11 Oct 2026 11:34:39 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
   </channel>
 </rss>

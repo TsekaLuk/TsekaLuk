@@ -208,11 +208,11 @@ Last Updated: Wednesday, October 21st, 2026, 12:11:40 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [AI Had Better Work Out](https://www.wheresyoured.at/ai-had-better-work-out/) — *Ed Zitron's Where's Your Ed At* `10-20`
+- [ClickHouse Will Let You Be Wrong at Scale](https://matduggan.com/clickhouse-will-let-you-be-wrong-at-scale/) — *matduggan.com* `10-20`
+- [[Sponsor] Sunnny](https://sunnny.com/) — *Daring Fireball* `10-20`
+- [Book Review: Quackery - A Brief History of the Worst Ways to Cure Everything by Lydia Kang ★★★⯪☆](https://shkspr.mobi/blog/2026/10/book-review-quackery-a-brief-history-of-the-worst-ways-to-cure-everything-by-lydia-kang/) — *Terence Eden’s Blog* `10-20`
 - [Barack Obama on the Trump Administration’s Intimidation Campaign Against Congresswoman Ilhan Omar](https://x.com/BarackObama/status/2111819687524774170) — *Daring Fireball* `10-20`
-- [Laypeople support technical fields for technology, not art](https://seangoedecke.com/laypeople-support-technical-fields-for-technology-not-art/) — *seangoedecke.com RSS feed* `10-20`
-- [My obituary for programming](https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/) — *Simon Willison's Weblog* `10-19`
-- [From the DF Archive: Should a CEO Be a Nerd About Their Company’s Products?](https://daringfireball.net/linked/2022/10/11/ceos-as-nerds) — *Daring Fireball* `10-19`
-- [Apple Event, in Los Angeles, Next Week: ‘Pro and Tell’](https://x.com/gregjoz/status/2112212372182249831) — *Daring Fireball* `10-19`
 <!--BLOG_RADAR:end-->
 
 ---
