@@ -208,11 +208,11 @@ Last Updated: Wednesday, October 21st, 2026, 5:08:00 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Battle Drones - a vibe coded RTS with audio-based multiplayer](https://simonwillison.net/2026/Oct/20/battledrones/) — *Simon Willison's Weblog* `10-20`
+- [How to install an app on your Commodore 64](https://anildash.com/2026/10/08/install-an-app-commodore-64/) — *Anil Dash* `10-20`
+- [Death & Domains](https://feed.tedium.co/link/15204/17501584/death-domains-commentary) — *Tedium: The Dull Side of the Internet.* `10-20`
+- [Pluralistic: The death of history's most successful publisher (20 Oct 2026)](https://pluralistic.net/2026/10/20/main-character-syndrome/) — *Pluralistic: Daily links from Cory Doctorow* `10-20`
 - [AI Had Better Work Out](https://www.wheresyoured.at/ai-had-better-work-out/) — *Ed Zitron's Where's Your Ed At* `10-20`
-- [ClickHouse Will Let You Be Wrong at Scale](https://matduggan.com/clickhouse-will-let-you-be-wrong-at-scale/) — *matduggan.com* `10-20`
-- [[Sponsor] Sunnny](https://sunnny.com/) — *Daring Fireball* `10-20`
-- [Book Review: Quackery - A Brief History of the Worst Ways to Cure Everything by Lydia Kang ★★★⯪☆](https://shkspr.mobi/blog/2026/10/book-review-quackery-a-brief-history-of-the-worst-ways-to-cure-everything-by-lydia-kang/) — *Terence Eden’s Blog* `10-20`
-- [Barack Obama on the Trump Administration’s Intimidation Campaign Against Congresswoman Ilhan Omar](https://x.com/BarackObama/status/2111819687524774170) — *Daring Fireball* `10-20`
 <!--BLOG_RADAR:end-->
 
 ---
