@@ -208,11 +208,11 @@ Last Updated: Thursday, October 22nd, 2026, 12:27:08 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [eMudhra Intermediate CA Compromise](https://simonwillison.net/2026/Oct/20/emudhra-certificates/) — *Simon Willison's Weblog* `10-20`
-- [Battle Drones - a vibe coded RTS with audio-based multiplayer](https://simonwillison.net/2026/Oct/20/battledrones/) — *Simon Willison's Weblog* `10-20`
-- [How to install an app on your Commodore 64](https://anildash.com/2026/10/08/install-an-app-commodore-64/) — *Anil Dash* `10-20`
-- [Death & Domains](https://feed.tedium.co/link/15204/17501584/death-domains-commentary) — *Tedium: The Dull Side of the Internet.* `10-20`
-- [Pluralistic: The death of history's most successful publisher (20 Oct 2026)](https://pluralistic.net/2026/10/20/main-character-syndrome/) — *Pluralistic: Daily links from Cory Doctorow* `10-20`
+- [No Need for Retirement When Utopia Is Around the Corner](https://blog.jim-nielsen.com/2026/skip-retirement-for-utopia/) — *Jim Nielsen’s Blog* `10-21`
+- [Panache — RTS Belle Époque pour mobile](https://simonwillison.net/2026/Oct/21/panache/) — *Simon Willison's Weblog* `10-21`
+- [Going Somewhere](https://simone.org/somewhere/) — *Simone Salis* `10-21`
+- [Widespread PHP Flaw May Cause Many Site Outages Today](https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/) — *Krebs on Security* `10-21`
+- [Backdoors, Incompetence, and Elliptic Curves](https://www.johndcook.com/blog/2026/10/21/emudhra/) — *John D. Cook* `10-21`
 <!--BLOG_RADAR:end-->
 
 ---

@@ -4,7 +4,63 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 21 Oct 2026 11:33:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 17:00:16 +0000</lastBuildDate>
+    <item>
+      <title>No Need for Retirement When Utopia Is Around the Corner</title>
+      <link>https://blog.jim-nielsen.com/2026/skip-retirement-for-utopia/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/skip-retirement-for-utopia/</guid>
+      <pubDate>Wed, 21 Oct 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
+    </item>
+    <item>
+      <title>Panache — RTS Belle Époque pour mobile</title>
+      <link>https://simonwillison.net/2026/Oct/21/panache/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/21/panache/</guid>
+      <pubDate>Wed, 21 Oct 2026 16:25:16 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Going Somewhere</title>
+      <link>https://simone.org/somewhere/</link>
+      <guid isPermaLink="true">https://simone.org/somewhere/</guid>
+      <pubDate>Wed, 21 Oct 2026 16:14:51 +0000</pubDate>
+      <description>Simone Salis</description>
+    </item>
+    <item>
+      <title>Widespread PHP Flaw May Cause Many Site Outages Today</title>
+      <link>https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/</link>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/</guid>
+      <pubDate>Wed, 21 Oct 2026 15:26:07 +0000</pubDate>
+      <description>Krebs on Security</description>
+    </item>
+    <item>
+      <title>Backdoors, Incompetence, and Elliptic Curves</title>
+      <link>https://www.johndcook.com/blog/2026/10/21/emudhra/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/10/21/emudhra/</guid>
+      <pubDate>Wed, 21 Oct 2026 15:16:51 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Upgrade your PHP installs immediately to protect against php2shell</title>
+      <link>https://www.jeffgeerling.com/blog/2026/php-vulnerability-php2shell/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/php-vulnerability-php2shell/</guid>
+      <pubDate>Wed, 21 Oct 2026 14:10:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>Deliberate imperfection</title>
+      <link>https://www.johndcook.com/blog/2026/10/21/deliberate-imperfection/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/10/21/deliberate-imperfection/</guid>
+      <pubDate>Wed, 21 Oct 2026 12:04:06 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Jesus Christ patch your shit now</title>
+      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-109618/</link>
+      <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-109618/</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
+    </item>
     <item>
       <title>eMudhra Intermediate CA Compromise</title>
       <link>https://simonwillison.net/2026/Oct/20/emudhra-certificates/</link>
@@ -496,6 +552,13 @@
       <description>Software and Tech stories from an Insider - iDiallo.com</description>
     </item>
     <item>
+      <title>sparqlite: SPARQL 1.1 inside SQLite, written in Rust</title>
+      <link>https://simonwillison.net/2026/Oct/16/sqlite-sparql-rust/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/16/sqlite-sparql-rust/</guid>
+      <pubDate>Fri, 16 Oct 2026 01:58:00 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
       <title>★ Initial Thoughts on This Week’s New Apple TV 4K (4th Generation) and HomePod Mini 2</title>
       <link>https://daringfireball.net/2026/10/thoughts_on_new_apple_tv_4k_and_homepod_mini_2</link>
       <guid isPermaLink="true">https://daringfireball.net/2026/10/thoughts_on_new_apple_tv_4k_and_homepod_mini_2</guid>
@@ -780,69 +843,6 @@
       <link>https://simonwillison.net/2026/Oct/12/python-3-15/</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Oct/12/python-3-15/</guid>
       <pubDate>Mon, 12 Oct 2026 18:15:38 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Profiling web-edit with Python 3.15: flame graphs and source heatmaps</title>
-      <link>https://simonwillison.net/2026/Oct/12/python-3-15-web-edit-profiling/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/12/python-3-15-web-edit-profiling/</guid>
-      <pubDate>Mon, 12 Oct 2026 16:58:00 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Mark Stephens, a.k.a. Robert X. Cringely, Died at 73</title>
-      <link>https://www.facebook.com/story.php?story_fbid=pfbid0YbCLrAJfBirAWuPBy4a7pauaQ6gHkAPUwtbzyg2wAjeMcruFC7dWUZKQJKkNChP9l&amp;id=536506060&amp;_rdr</link>
-      <guid isPermaLink="true">https://www.facebook.com/story.php?story_fbid=pfbid0YbCLrAJfBirAWuPBy4a7pauaQ6gHkAPUwtbzyg2wAjeMcruFC7dWUZKQJKkNChP9l&amp;id=536506060&amp;_rdr</guid>
-      <pubDate>Mon, 12 Oct 2026 16:43:46 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>web-edit 0.1a0</title>
-      <link>https://simonwillison.net/2026/Oct/12/web-edit/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/12/web-edit/</guid>
-      <pubDate>Mon, 12 Oct 2026 15:54:36 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>The X is Off-Target</title>
-      <link>https://feed.tedium.co/link/15204/17494770/x-social-media-monoliths-critique</link>
-      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17494770/x-social-media-monoliths-critique</guid>
-      <pubDate>Mon, 12 Oct 2026 15:53:18 +0000</pubDate>
-      <description>Tedium: The Dull Side of the Internet.</description>
-    </item>
-    <item>
-      <title>C++ futures part 1: The mental model</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20261012-00/?p=112767/</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261012-00/?p=112767/</guid>
-      <pubDate>Mon, 12 Oct 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Categorical models of logics</title>
-      <link>https://www.johndcook.com/blog/2026/10/12/categorical-models-of-logics/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/10/12/categorical-models-of-logics/</guid>
-      <pubDate>Mon, 12 Oct 2026 13:04:09 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Pluralistic: How labor rights rescued Ultima from a monopolist (12 Oct 2026)</title>
-      <link>https://pluralistic.net/2026/10/12/termination-of-transfer/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/10/12/termination-of-transfer/</guid>
-      <pubDate>Mon, 12 Oct 2026 11:40:39 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Now That’s What I Call Technical Debt!</title>
-      <link>https://nesbitt.io/2026/10/12/now-thats-what-i-call-technical-debt.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/10/12/now-thats-what-i-call-technical-debt.html</guid>
-      <pubDate>Mon, 12 Oct 2026 09:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>datasette-ports 0.4</title>
-      <link>https://simonwillison.net/2026/Oct/12/datasette-ports/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/12/datasette-ports/</guid>
-      <pubDate>Mon, 12 Oct 2026 04:57:07 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
     </item>
   </channel>
