@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 20 Oct 2026 21:27:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 04:17:00 +0000</lastBuildDate>
+    <item>
+      <title>eMudhra Intermediate CA Compromise</title>
+      <link>https://simonwillison.net/2026/Oct/20/emudhra-certificates/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/20/emudhra-certificates/</guid>
+      <pubDate>Tue, 20 Oct 2026 23:50:25 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Battle Drones - a vibe coded RTS with audio-based multiplayer</title>
       <link>https://simonwillison.net/2026/Oct/20/battledrones/</link>
@@ -53,13 +60,6 @@
       <guid isPermaLink="true">https://sunnny.com/</guid>
       <pubDate>Tue, 20 Oct 2026 13:09:38 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Book Review: Quackery - A Brief History of the Worst Ways to Cure Everything by Lydia Kang ★★★⯪☆</title>
-      <link>https://shkspr.mobi/blog/2026/10/book-review-quackery-a-brief-history-of-the-worst-ways-to-cure-everything-by-lydia-kang/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/10/book-review-quackery-a-brief-history-of-the-worst-ways-to-cure-everything-by-lydia-kang/</guid>
-      <pubDate>Tue, 20 Oct 2026 11:34:35 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Barack Obama on the Trump Administration’s Intimidation Campaign Against Congresswoman Ilhan Omar</title>
@@ -279,13 +279,6 @@
       <description>Ken Shirriff's blog</description>
     </item>
     <item>
-      <title>Una Watch TOTP - MFA on your wrist!</title>
-      <link>https://shkspr.mobi/blog/2026/10/una-watch-totp-mfa-on-your-wrist/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/10/una-watch-totp-mfa-on-your-wrist/</guid>
-      <pubDate>Sun, 18 Oct 2026 11:34:08 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>Notes on the complex roots of unity</title>
       <link>https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/</link>
       <guid isPermaLink="true">https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/</guid>
@@ -354,13 +347,6 @@
       <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-101726</guid>
       <pubDate>Sat, 17 Oct 2026 12:03:37 +0000</pubDate>
       <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>Book Review: Are You *Really* The Doctor? by Matthew Hutchinson ★★★⯪☆</title>
-      <link>https://shkspr.mobi/blog/2026/10/book-review-are-you-really-the-doctor-by-matthew-hutchinson/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/10/book-review-are-you-really-the-doctor-by-matthew-hutchinson/</guid>
-      <pubDate>Sat, 17 Oct 2026 11:34:57 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Pluralistic: Israeli ad-tech company was a delivery system for "mercenary spyware" (17 Oct 2026)</title>
@@ -466,13 +452,6 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261016-00/?p=112778/</guid>
       <pubDate>Fri, 16 Oct 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Book Review: Africa Is Not A Country - Breaking Stereotypes of Modern Africa by Dipo Faloyin ★★★★⯪</title>
-      <link>https://shkspr.mobi/blog/2026/10/book-review-africa-is-not-a-country-breaking-stereotypes-of-modern-africa-by-dipo-faloyin/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/10/book-review-africa-is-not-a-country-breaking-stereotypes-of-modern-africa-by-dipo-faloyin/</guid>
-      <pubDate>Fri, 16 Oct 2026 11:34:14 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Pluralistic: Load-bearing (16 Oct 2026)</title>
@@ -615,13 +594,6 @@
       <description>Jeff Geerling</description>
     </item>
     <item>
-      <title>The Internet of Very Cheap Things</title>
-      <link>https://shkspr.mobi/blog/2026/10/the-internet-of-very-cheap-things/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/10/the-internet-of-very-cheap-things/</guid>
-      <pubDate>Wed, 14 Oct 2026 11:34:08 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
       <title>A generalization of the Pythagorean theorem</title>
       <link>https://www.johndcook.com/blog/2026/10/14/pythagorean-variation/</link>
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/10/14/pythagorean-variation/</guid>
@@ -718,13 +690,6 @@
       <guid isPermaLink="true">https://pluralistic.net/2026/10/13/petards-r-us/</guid>
       <pubDate>Tue, 13 Oct 2026 11:50:19 +0000</pubDate>
       <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Book Review: The Thousand Deaths of Romeo and Juliet - Caroline Finch ★★★★★</title>
-      <link>https://shkspr.mobi/blog/2026/10/book-review-the-thousand-deaths-of-romeo-and-juliet-caroline-finch/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/10/book-review-the-thousand-deaths-of-romeo-and-juliet-caroline-finch/</guid>
-      <pubDate>Tue, 13 Oct 2026 11:34:37 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Weekly Update 525: AI Data Breach Hyperbole</title>
@@ -844,6 +809,41 @@
       <guid isPermaLink="true">https://oldvcr.blogspot.com/2026/10/refurb-weekend-ii-alpha-micro-eagle-300.html</guid>
       <pubDate>Mon, 12 Oct 2026 01:47:19 +0000</pubDate>
       <description>Old Vintage Computing Research</description>
+    </item>
+    <item>
+      <title>Software engineers don't get to be Luddites about AI</title>
+      <link>https://seangoedecke.com/software-engineers-dont-get-to-be-luddites-about-ai/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/software-engineers-dont-get-to-be-luddites-about-ai/</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>from plesiochronous to synchronous</title>
+      <link>https://computer.rip/2026-10-12-plesiochronous.html</link>
+      <guid isPermaLink="true">https://computer.rip/2026-10-12-plesiochronous.html</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+      <description>computers are bad</description>
+    </item>
+    <item>
+      <title>Just say no to OpenAI and Anthropic</title>
+      <link>https://micahflee.com/just-say-no-to-openai-and-anthropic/</link>
+      <guid isPermaLink="true">https://micahflee.com/just-say-no-to-openai-and-anthropic/</guid>
+      <pubDate>Sun, 11 Oct 2026 23:03:05 +0000</pubDate>
+      <description>Micah Lee</description>
+    </item>
+    <item>
+      <title>★ X Once Again Marks the Spot</title>
+      <link>https://daringfireball.net/2026/10/x_once_again_marks_the_spot</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/10/x_once_again_marks_the_spot</guid>
+      <pubDate>Sun, 11 Oct 2026 21:05:33 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Apple Only Started Suggesting iOS 26 Users Upgrade to 27 Three Days Ago</title>
+      <link>https://www.macrumors.com/2026/10/08/apple-now-pushing-ios-27/</link>
+      <guid isPermaLink="true">https://www.macrumors.com/2026/10/08/apple-now-pushing-ios-27/</guid>
+      <pubDate>Sun, 11 Oct 2026 19:02:38 +0000</pubDate>
+      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
