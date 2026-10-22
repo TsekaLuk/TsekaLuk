@@ -208,11 +208,11 @@ Last Updated: Friday, October 23rd, 2026, 5:05:58 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Productivity](https://idiallo.com/byte-size/productivity-video) — *Software and Tech stories from an Insider - iDiallo.com* `10-22`
-- [Quoting Armin Ronacher](https://simonwillison.net/2026/Oct/22/armin-ronacher/) — *Simon Willison's Weblog* `10-22`
-- [NYC, New Webinar, Differential Testing](https://buttondown.com/hillelwayne/archive/nyc-new-webinar-differential-testing/) — *Computer Things* `10-22`
-- [Working around a strange Python problem](https://www.johndcook.com/blog/2026/10/22/pep-723/) — *John D. Cook* `10-22`
-- [What will computer chips look like in 2045?](https://www.dwarkesh.com/p/intel-tour) — *Dwarkesh Podcast* `10-22`
+- [Software is slow because of bad design, not slow languages](https://seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/) — *seangoedecke.com RSS feed* `10-23`
+- [DE STAAT - FREEDOM (Official Music Video)](https://simonwillison.net/2026/Oct/22/de-staat-freedom/) — *Simon Willison's Weblog* `10-22`
+- [Apple Highlights 50+ iPhone Apps That Have Already Been Optimized for the Duo](https://www.apple.com/newsroom/2026/10/developers-bring-incredible-new-app-experiences-to-iphone-duo/) — *Daring Fireball* `10-22`
+- [Updates to My iPhone Duo Review](https://daringfireball.net/2026/10/the_iphone_duo) — *Daring Fireball* `10-22`
+- [Donating Agent Skills to the Agentic AI Foundation](https://simonwillison.net/2026/Oct/22/donating-agent-skills/) — *Simon Willison's Weblog* `10-22`
 <!--BLOG_RADAR:end-->
 
 ---
