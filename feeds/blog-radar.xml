@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 21 Oct 2026 21:29:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 04:17:14 +0000</lastBuildDate>
+    <item>
+      <title>★ The iPhone Duo</title>
+      <link>https://daringfireball.net/2026/10/the_iphone_duo</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/10/the_iphone_duo</guid>
+      <pubDate>Wed, 21 Oct 2026 22:59:14 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)</title>
       <link>https://pluralistic.net/2026/10/21/brittle-individualism/</link>
@@ -91,6 +98,20 @@
     </item>
     <item>
       <title>"No way to prevent this" say users of only language where this regularly happens</title>
+      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-94300/</link>
+      <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-94300/</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>"No way to prevent this" say users of only language where this regularly happens</title>
+      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-111813/</link>
+      <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-111813/</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>"No way to prevent this" say users of only language where this regularly happens</title>
       <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-111497/</link>
       <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-111497/</guid>
       <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
@@ -109,6 +130,20 @@
       <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-109618/</guid>
       <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>Rails is a JIT compiler</title>
+      <link>https://bernsteinbear.com/blog/rails-is-a-jit-compiler/?utm_source=rss</link>
+      <guid isPermaLink="true">https://bernsteinbear.com/blog/rails-is-a-jit-compiler/?utm_source=rss</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Max Bernstein's Blog</description>
+    </item>
+    <item>
+      <title>Objects, attributes, maps, oh my!</title>
+      <link>https://bernsteinbear.com/blog/object-shapes/?utm_source=rss</link>
+      <guid isPermaLink="true">https://bernsteinbear.com/blog/object-shapes/?utm_source=rss</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Max Bernstein's Blog</description>
     </item>
     <item>
       <title>eMudhra Intermediate CA Compromise</title>
@@ -809,41 +844,6 @@
       <guid isPermaLink="true">https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/</guid>
       <pubDate>Tue, 13 Oct 2026 14:52:24 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>C++ futures part 2: The mental model for std::promise, std::packaged_task</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20261013-00/?p=112769/</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261013-00/?p=112769/</guid>
-      <pubDate>Tue, 13 Oct 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Harmonic triangle</title>
-      <link>https://www.johndcook.com/blog/2026/10/13/harmonic-triangle/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/10/13/harmonic-triangle/</guid>
-      <pubDate>Tue, 13 Oct 2026 13:45:18 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Quoting Geoffrey Huntley</title>
-      <link>https://simonwillison.net/2026/Oct/13/geoffrey-huntley/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/13/geoffrey-huntley/</guid>
-      <pubDate>Tue, 13 Oct 2026 13:32:00 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Subterranean Warfare – An Urgent DoW Need Without An Owner</title>
-      <link>https://steveblank.com/2026/10/13/subterranean-warfare-an-urgent-dow-need-without-an-owner/</link>
-      <guid isPermaLink="true">https://steveblank.com/2026/10/13/subterranean-warfare-an-urgent-dow-need-without-an-owner/</guid>
-      <pubDate>Tue, 13 Oct 2026 13:00:19 +0000</pubDate>
-      <description>Steve Blank</description>
-    </item>
-    <item>
-      <title>Pluralistic: Bundestrojaner (13 Oct 2026)</title>
-      <link>https://pluralistic.net/2026/10/13/petards-r-us/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/10/13/petards-r-us/</guid>
-      <pubDate>Tue, 13 Oct 2026 11:50:19 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
     </item>
   </channel>
 </rss>

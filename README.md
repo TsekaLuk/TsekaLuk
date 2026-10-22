@@ -208,11 +208,11 @@ Last Updated: Thursday, October 22nd, 2026, 10:54:52 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [★ The iPhone Duo](https://daringfireball.net/2026/10/the_iphone_duo) — *Daring Fireball* `10-21`
 - [Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)](https://pluralistic.net/2026/10/21/brittle-individualism/) — *Pluralistic: Daily links from Cory Doctorow* `10-21`
 - [Can they write a function?](https://idiallo.com/blog/can-they-write-a-function) — *Software and Tech stories from an Insider - iDiallo.com* `10-21`
 - [No Need for Retirement When Utopia Is Around the Corner](https://blog.jim-nielsen.com/2026/skip-retirement-for-utopia/) — *Jim Nielsen’s Blog* `10-21`
 - [Today's PHP Security Release, and How We're Strengthening PHP Security](https://simonwillison.net/2026/Oct/21/php-security-release/) — *Simon Willison's Weblog* `10-21`
-- [Panache — RTS Belle Époque pour mobile](https://simonwillison.net/2026/Oct/21/panache/) — *Simon Willison's Weblog* `10-21`
 <!--BLOG_RADAR:end-->
 
 ---
