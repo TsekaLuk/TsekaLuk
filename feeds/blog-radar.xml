@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 22 Oct 2026 04:17:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 11:33:35 +0000</lastBuildDate>
+    <item>
+      <title>The number of points on an elliptic curve</title>
+      <link>https://www.johndcook.com/blog/2026/10/22/the-number-of-points-on-an-elliptic-curve/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/10/22/the-number-of-points-on-an-elliptic-curve/</guid>
+      <pubDate>Thu, 22 Oct 2026 11:08:51 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>How to install an app on your Commodore 64</title>
+      <link>https://anildash.com/2026/10/08/install-an-app-commodore-64/</link>
+      <guid isPermaLink="true">https://anildash.com/2026/10/08/install-an-app-commodore-64/</guid>
+      <pubDate>Thu, 22 Oct 2026 06:34:24 +0000</pubDate>
+      <description>Anil Dash</description>
+    </item>
     <item>
       <title>★ The iPhone Duo</title>
       <link>https://daringfireball.net/2026/10/the_iphone_duo</link>
@@ -158,13 +172,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Oct/20/battledrones/</guid>
       <pubDate>Tue, 20 Oct 2026 19:34:19 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>How to install an app on your Commodore 64</title>
-      <link>https://anildash.com/2026/10/08/install-an-app-commodore-64/</link>
-      <guid isPermaLink="true">https://anildash.com/2026/10/08/install-an-app-commodore-64/</guid>
-      <pubDate>Tue, 20 Oct 2026 17:36:24 +0000</pubDate>
-      <description>Anil Dash</description>
     </item>
     <item>
       <title>Death &amp; Domains</title>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://www.wheresyoured.at/annualized-enron-rate/</guid>
       <pubDate>Tue, 13 Oct 2026 16:03:00 +0000</pubDate>
       <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>Apple HomeView</title>
-      <link>https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/</link>
-      <guid isPermaLink="true">https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/</guid>
-      <pubDate>Tue, 13 Oct 2026 14:52:24 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
