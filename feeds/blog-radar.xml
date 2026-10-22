@@ -4,7 +4,63 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 22 Oct 2026 11:33:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 16:59:26 +0000</lastBuildDate>
+    <item>
+      <title>Productivity</title>
+      <link>https://idiallo.com/byte-size/productivity-video</link>
+      <guid isPermaLink="true">https://idiallo.com/byte-size/productivity-video</guid>
+      <pubDate>Thu, 22 Oct 2026 16:56:14 +0000</pubDate>
+      <description>Software and Tech stories from an Insider - iDiallo.com</description>
+    </item>
+    <item>
+      <title>Quoting Armin Ronacher</title>
+      <link>https://simonwillison.net/2026/Oct/22/armin-ronacher/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/22/armin-ronacher/</guid>
+      <pubDate>Thu, 22 Oct 2026 15:34:13 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>NYC, New Webinar, Differential Testing</title>
+      <link>https://buttondown.com/hillelwayne/archive/nyc-new-webinar-differential-testing/</link>
+      <guid isPermaLink="true">https://buttondown.com/hillelwayne/archive/nyc-new-webinar-differential-testing/</guid>
+      <pubDate>Thu, 22 Oct 2026 15:14:05 +0000</pubDate>
+      <description>Computer Things</description>
+    </item>
+    <item>
+      <title>Working around a strange Python problem</title>
+      <link>https://www.johndcook.com/blog/2026/10/22/pep-723/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/10/22/pep-723/</guid>
+      <pubDate>Thu, 22 Oct 2026 15:12:10 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>What will computer chips look like in 2045?</title>
+      <link>https://www.dwarkesh.com/p/intel-tour</link>
+      <guid isPermaLink="true">https://www.dwarkesh.com/p/intel-tour</guid>
+      <pubDate>Thu, 22 Oct 2026 15:02:21 +0000</pubDate>
+      <description>Dwarkesh Podcast</description>
+    </item>
+    <item>
+      <title>How the eMudrha certificate debacle might have happened</title>
+      <link>https://www.johndcook.com/blog/2026/10/22/certificate-debacle/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/10/22/certificate-debacle/</guid>
+      <pubDate>Thu, 22 Oct 2026 14:01:55 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>If people would just</title>
+      <link>https://herman.bearblog.dev/if-people-would-just/</link>
+      <guid isPermaLink="true">https://herman.bearblog.dev/if-people-would-just/</guid>
+      <pubDate>Thu, 22 Oct 2026 12:19:00 +0000</pubDate>
+      <description>Herman's blog</description>
+    </item>
+    <item>
+      <title>Gadget Review: Mokin 17 Port USB-C Tower ★★☆☆☆</title>
+      <link>https://shkspr.mobi/blog/2026/10/gadget-review-mokin-17-port-usb-c-tower/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/10/gadget-review-mokin-17-port-usb-c-tower/</guid>
+      <pubDate>Thu, 22 Oct 2026 11:34:36 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
     <item>
       <title>The number of points on an elliptic curve</title>
       <link>https://www.johndcook.com/blog/2026/10/22/the-number-of-points-on-an-elliptic-curve/</link>
@@ -20,11 +76,25 @@
       <description>Anil Dash</description>
     </item>
     <item>
+      <title>"No way to prevent this" say users of only language where this regularly happens</title>
+      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-93479/</link>
+      <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-93479/</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
+    </item>
+    <item>
       <title>★ The iPhone Duo</title>
       <link>https://daringfireball.net/2026/10/the_iphone_duo</link>
       <guid isPermaLink="true">https://daringfireball.net/2026/10/the_iphone_duo</guid>
       <pubDate>Wed, 21 Oct 2026 22:59:14 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Script dependencies with Nix</title>
+      <link>https://entropicthoughts.com/python-dependencies-with-nix</link>
+      <guid isPermaLink="true">https://entropicthoughts.com/python-dependencies-with-nix</guid>
+      <pubDate>Wed, 21 Oct 2026 22:00:00 +0000</pubDate>
+      <description>Entropic Thoughts</description>
     </item>
     <item>
       <title>Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)</title>
@@ -265,7 +335,7 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>NixOS Is Making Me Less Afraid</title>
+      <title>NixOS is making me less afraid</title>
       <link>https://entropicthoughts.com/nixos-is-making-me-less-afraid</link>
       <guid isPermaLink="true">https://entropicthoughts.com/nixos-is-making-me-less-afraid</guid>
       <pubDate>Mon, 19 Oct 2026 22:00:00 +0000</pubDate>
@@ -774,76 +844,6 @@
       <guid isPermaLink="true">https://berthub.eu/articles/posts/solar-nightmare-at-the-conference/</guid>
       <pubDate>Wed, 14 Oct 2026 13:30:00 +0000</pubDate>
       <description>Bert Hubert's writings</description>
-    </item>
-    <item>
-      <title>Formlabs dropped the Raspberry Pi on the way to a $699 SLA printer</title>
-      <link>https://www.jeffgeerling.com/blog/2026/formlabs-form-studio-1-resin-printer/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/formlabs-form-studio-1-resin-printer/</guid>
-      <pubDate>Wed, 14 Oct 2026 13:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
-      <title>The Internet of Very Cheap Things</title>
-      <link>https://shkspr.mobi/blog/2026/10/the-internet-of-very-cheap-things/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/10/the-internet-of-very-cheap-things/</guid>
-      <pubDate>Wed, 14 Oct 2026 11:34:08 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>A generalization of the Pythagorean theorem</title>
-      <link>https://www.johndcook.com/blog/2026/10/14/pythagorean-variation/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/10/14/pythagorean-variation/</guid>
-      <pubDate>Wed, 14 Oct 2026 11:11:11 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Poe, Bessel, and Drones</title>
-      <link>https://www.johndcook.com/blog/2026/10/14/poe-bessel-and-drones/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/10/14/poe-bessel-and-drones/</guid>
-      <pubDate>Wed, 14 Oct 2026 10:00:22 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>"No way to prevent this" say users of only language where this regularly happens</title>
-      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-92392/</link>
-      <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-92392/</guid>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
-      <title>Microsoft Patches More Than 1,400 Security Flaws</title>
-      <link>https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/</link>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/</guid>
-      <pubDate>Tue, 13 Oct 2026 23:24:53 +0000</pubDate>
-      <description>Krebs on Security</description>
-    </item>
-    <item>
-      <title>Redesigning source control at Anthropic</title>
-      <link>https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/</guid>
-      <pubDate>Tue, 13 Oct 2026 23:00:06 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>llm-gemini 0.35</title>
-      <link>https://simonwillison.net/2026/Oct/13/llm-gemini/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/13/llm-gemini/</guid>
-      <pubDate>Tue, 13 Oct 2026 22:28:54 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Claude, don’t touch my lump</title>
-      <link>https://www.experimental-history.com/p/claude-dont-touch-my-lump</link>
-      <guid isPermaLink="true">https://www.experimental-history.com/p/claude-dont-touch-my-lump</guid>
-      <pubDate>Tue, 13 Oct 2026 21:04:46 +0000</pubDate>
-      <description>Experimental History</description>
-    </item>
-    <item>
-      <title>Annualized Enron Rate</title>
-      <link>https://www.wheresyoured.at/annualized-enron-rate/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/annualized-enron-rate/</guid>
-      <pubDate>Tue, 13 Oct 2026 16:03:00 +0000</pubDate>
-      <description>Ed Zitron's Where's Your Ed At</description>
     </item>
   </channel>
 </rss>
