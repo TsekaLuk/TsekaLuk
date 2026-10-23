@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 23 Oct 2026 04:21:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 11:22:46 +0000</lastBuildDate>
+    <item>
+      <title>One Small Bug</title>
+      <link>https://nesbitt.io/2026/10/23/one-small-bug.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/10/23/one-small-bug.html</guid>
+      <pubDate>Fri, 23 Oct 2026 09:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
     <item>
       <title>Software is slow because of bad design, not slow languages</title>
       <link>https://seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/</link>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://www.justice.gov/opa/pr/saudi-national-arrested-installing-surreptitious-audio-recording-device-openai</guid>
       <pubDate>Wed, 14 Oct 2026 20:58:01 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>LaTeX package for Pascal-like triangles</title>
-      <link>https://www.johndcook.com/blog/2026/10/14/latex-package-for-pascal-like-triangles/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/10/14/latex-package-for-pascal-like-triangles/</guid>
-      <pubDate>Wed, 14 Oct 2026 17:58:07 +0000</pubDate>
-      <description>John D. Cook</description>
     </item>
   </channel>
 </rss>

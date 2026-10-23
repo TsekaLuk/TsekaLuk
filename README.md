@@ -208,11 +208,11 @@ Last Updated: Friday, October 23rd, 2026, 6:52:29 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [One Small Bug](https://nesbitt.io/2026/10/23/one-small-bug.html) — *Andrew Nesbitt* `10-23`
 - [Software is slow because of bad design, not slow languages](https://seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/) — *seangoedecke.com RSS feed* `10-23`
 - [DE STAAT - FREEDOM (Official Music Video)](https://simonwillison.net/2026/Oct/22/de-staat-freedom/) — *Simon Willison's Weblog* `10-22`
 - [Apple Highlights 50+ iPhone Apps That Have Already Been Optimized for the Duo](https://www.apple.com/newsroom/2026/10/developers-bring-incredible-new-app-experiences-to-iphone-duo/) — *Daring Fireball* `10-22`
 - [Updates to My iPhone Duo Review](https://daringfireball.net/2026/10/the_iphone_duo) — *Daring Fireball* `10-22`
-- [Donating Agent Skills to the Agentic AI Foundation](https://simonwillison.net/2026/Oct/22/donating-agent-skills/) — *Simon Willison's Weblog* `10-22`
 <!--BLOG_RADAR:end-->
 
 ---
