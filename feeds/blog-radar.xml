@@ -4,13 +4,41 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 23 Oct 2026 16:51:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 21:16:04 +0000</lastBuildDate>
     <item>
       <title>How to install an app on your Commodore 64</title>
       <link>https://anildash.com/2026/10/08/install-an-app-commodore-64/</link>
       <guid isPermaLink="true">https://anildash.com/2026/10/08/install-an-app-commodore-64/</guid>
-      <pubDate>Fri, 23 Oct 2026 16:29:52 +0000</pubDate>
+      <pubDate>Fri, 23 Oct 2026 20:54:26 +0000</pubDate>
       <description>Anil Dash</description>
+    </item>
+    <item>
+      <title>Pluralistic: Critique and writing (23 Oct 2026)</title>
+      <link>https://pluralistic.net/2026/10/23/better-to-give/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/10/23/better-to-give/</guid>
+      <pubDate>Fri, 23 Oct 2026 20:44:02 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Introducing Kimi K3.1 Pro</title>
+      <link>https://simonwillison.net/2026/Oct/23/kimi-k31-pro/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/23/kimi-k31-pro/</guid>
+      <pubDate>Fri, 23 Oct 2026 19:40:54 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>RMSNorm</title>
+      <link>https://www.gilesthomas.com/2026/10/rmsnorm</link>
+      <guid isPermaLink="true">https://www.gilesthomas.com/2026/10/rmsnorm</guid>
+      <pubDate>Fri, 23 Oct 2026 18:40:00 +0000</pubDate>
+      <description>Giles' blog</description>
+    </item>
+    <item>
+      <title>The Verge’s Duo Review: ‘Apple’s Folding Phone Is a Messy, Expensive Good Time’</title>
+      <link>https://www.theverge.com/tech/1015028/iphone-duo-review</link>
+      <guid isPermaLink="true">https://www.theverge.com/tech/1015028/iphone-duo-review</guid>
+      <pubDate>Fri, 23 Oct 2026 16:52:56 +0000</pubDate>
+      <description>Daring Fireball</description>
     </item>
     <item>
       <title>Premium: The Hater's Guide To Blackstone</title>
@@ -34,6 +62,13 @@
       <description>Daring Fireball</description>
     </item>
     <item>
+      <title>Why didn’t we use the COM static store to clean up the unmarshalable delegate?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20261023-00/?p=112793/</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261023-00/?p=112793/</guid>
+      <pubDate>Fri, 23 Oct 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
+    <item>
       <title>Ubiquiti's $99 Vape Detector is actually pretty good</title>
       <link>https://www.jeffgeerling.com/blog/2026/ubiquiti-vape-detector-teardown/</link>
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/ubiquiti-vape-detector-teardown/</guid>
@@ -55,18 +90,18 @@
       <description>Andrew Nesbitt</description>
     </item>
     <item>
-      <title>"No way to prevent this" say users of only language where this regularly happens</title>
-      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-89078/</link>
-      <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-89078/</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
       <title>Software is slow because of bad design, not slow languages</title>
       <link>https://seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/</link>
       <guid isPermaLink="true">https://seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/</guid>
       <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>"No way to prevent this" say users of only language where this regularly happens</title>
+      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-89078/</link>
+      <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-89078/</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>DE STAAT - FREEDOM (Official Music Video)</title>
@@ -137,6 +172,13 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/10/22/certificate-debacle/</guid>
       <pubDate>Thu, 22 Oct 2026 14:01:55 +0000</pubDate>
       <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Why didn’t we use Co­Register­Initialize­Spy to clean up the unmarshalable delegate?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20261022-00/?p=112791/</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261022-00/?p=112791/</guid>
+      <pubDate>Thu, 22 Oct 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>If people would just</title>
@@ -802,48 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Oct/16/sqlite-sparql-rust/</guid>
       <pubDate>Fri, 16 Oct 2026 01:58:00 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>★ Initial Thoughts on This Week’s New Apple TV 4K (4th Generation) and HomePod Mini 2</title>
-      <link>https://daringfireball.net/2026/10/thoughts_on_new_apple_tv_4k_and_homepod_mini_2</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/10/thoughts_on_new_apple_tv_4k_and_homepod_mini_2</guid>
-      <pubDate>Fri, 16 Oct 2026 01:18:29 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>AI is driving a boom in modestly successful software projects</title>
-      <link>https://seangoedecke.com/ai-is-driving-a-boom-in-modestly-successful-software/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/ai-is-driving-a-boom-in-modestly-successful-software/</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>Chirp Pong</title>
-      <link>https://simonwillison.net/2026/Oct/15/chirp-pong/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/15/chirp-pong/</guid>
-      <pubDate>Thu, 15 Oct 2026 19:47:52 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>We Need All the Disciplines</title>
-      <link>https://blog.jim-nielsen.com/2026/we-need-all-disciplines/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/we-need-all-disciplines/</guid>
-      <pubDate>Thu, 15 Oct 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
-      <title>Secret Documents Reveal Donors Behind $330 Million for Trump’s Ballroom — Apple and Nvidia Top the List at $25 Million Each</title>
-      <link>https://www.washingtonpost.com/investigations/2026/10/15/secret-documents-reveal-donors-behind-330-million-trumps-ballroom/</link>
-      <guid isPermaLink="true">https://www.washingtonpost.com/investigations/2026/10/15/secret-documents-reveal-donors-behind-330-million-trumps-ballroom/</guid>
-      <pubDate>Thu, 15 Oct 2026 16:11:12 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>How to Train Your Robot</title>
-      <link>https://www.construction-physics.com/p/how-to-train-your-robot</link>
-      <guid isPermaLink="true">https://www.construction-physics.com/p/how-to-train-your-robot</guid>
-      <pubDate>Thu, 15 Oct 2026 14:23:58 +0000</pubDate>
-      <description>Construction Physics</description>
     </item>
   </channel>
 </rss>

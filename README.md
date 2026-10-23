@@ -209,10 +209,10 @@ Last Updated: Saturday, October 24th, 2026, 4:52:24 AM
 
 <!--BLOG_RADAR:start-->
 - [How to install an app on your Commodore 64](https://anildash.com/2026/10/08/install-an-app-commodore-64/) — *Anil Dash* `10-23`
-- [Premium: The Hater's Guide To Blackstone](https://www.wheresyoured.at/premium-the-haters-guide-to-blackstone/) — *Ed Zitron's Where's Your Ed At* `10-23`
-- [An Ion Storm!, Part 2: The Return to Ground Level](https://www.filfre.net/2026/10/an-ion-storm-part-2-the-return-to-ground-level/) — *The Digital Antiquarian* `10-23`
-- [Joanna Stern Reviews the Duo: ‘The Good, the Bad, and the Buggy’](https://www.youtube.com/watch?v=bxDTWuL9GxY) — *Daring Fireball* `10-23`
-- [Ubiquiti's $99 Vape Detector is actually pretty good](https://www.jeffgeerling.com/blog/2026/ubiquiti-vape-detector-teardown/) — *Jeff Geerling* `10-23`
+- [Pluralistic: Critique and writing (23 Oct 2026)](https://pluralistic.net/2026/10/23/better-to-give/) — *Pluralistic: Daily links from Cory Doctorow* `10-23`
+- [Introducing Kimi K3.1 Pro](https://simonwillison.net/2026/Oct/23/kimi-k31-pro/) — *Simon Willison's Weblog* `10-23`
+- [RMSNorm](https://www.gilesthomas.com/2026/10/rmsnorm) — *Giles' blog* `10-23`
+- [The Verge’s Duo Review: ‘Apple’s Folding Phone Is a Messy, Expensive Good Time’](https://www.theverge.com/tech/1015028/iphone-duo-review) — *Daring Fireball* `10-23`
 <!--BLOG_RADAR:end-->
 
 ---
