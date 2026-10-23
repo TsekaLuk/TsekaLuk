@@ -208,11 +208,11 @@ Last Updated: Saturday, October 24th, 2026, 12:16:47 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [One Small Bug](https://nesbitt.io/2026/10/23/one-small-bug.html) — *Andrew Nesbitt* `10-23`
-- [Software is slow because of bad design, not slow languages](https://seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/) — *seangoedecke.com RSS feed* `10-23`
-- [DE STAAT - FREEDOM (Official Music Video)](https://simonwillison.net/2026/Oct/22/de-staat-freedom/) — *Simon Willison's Weblog* `10-22`
-- [Apple Highlights 50+ iPhone Apps That Have Already Been Optimized for the Duo](https://www.apple.com/newsroom/2026/10/developers-bring-incredible-new-app-experiences-to-iphone-duo/) — *Daring Fireball* `10-22`
-- [Updates to My iPhone Duo Review](https://daringfireball.net/2026/10/the_iphone_duo) — *Daring Fireball* `10-22`
+- [How to install an app on your Commodore 64](https://anildash.com/2026/10/08/install-an-app-commodore-64/) — *Anil Dash* `10-23`
+- [Premium: The Hater's Guide To Blackstone](https://www.wheresyoured.at/premium-the-haters-guide-to-blackstone/) — *Ed Zitron's Where's Your Ed At* `10-23`
+- [An Ion Storm!, Part 2: The Return to Ground Level](https://www.filfre.net/2026/10/an-ion-storm-part-2-the-return-to-ground-level/) — *The Digital Antiquarian* `10-23`
+- [Joanna Stern Reviews the Duo: ‘The Good, the Bad, and the Buggy’](https://www.youtube.com/watch?v=bxDTWuL9GxY) — *Daring Fireball* `10-23`
+- [Ubiquiti's $99 Vape Detector is actually pretty good](https://www.jeffgeerling.com/blog/2026/ubiquiti-vape-detector-teardown/) — *Jeff Geerling* `10-23`
 <!--BLOG_RADAR:end-->
 
 ---
