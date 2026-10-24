@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 23 Oct 2026 21:16:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 04:11:59 +0000</lastBuildDate>
+    <item>
+      <title>Quick Study</title>
+      <link>https://simonwillison.net/2026/Oct/23/quick-study-painter/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/23/quick-study-painter/</guid>
+      <pubDate>Fri, 23 Oct 2026 21:35:13 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>How to install an app on your Commodore 64</title>
       <link>https://anildash.com/2026/10/08/install-an-app-commodore-64/</link>
@@ -90,18 +97,18 @@
       <description>Andrew Nesbitt</description>
     </item>
     <item>
-      <title>Software is slow because of bad design, not slow languages</title>
-      <link>https://seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
       <title>"No way to prevent this" say users of only language where this regularly happens</title>
       <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-89078/</link>
       <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-89078/</guid>
       <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>Software is slow because of bad design, not slow languages</title>
+      <link>https://seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>DE STAAT - FREEDOM (Official Music Video)</title>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://idiallo.com/byte-size/two-minutes-long-video</guid>
       <pubDate>Fri, 16 Oct 2026 05:28:42 +0000</pubDate>
       <description>Software and Tech stories from an Insider - iDiallo.com</description>
-    </item>
-    <item>
-      <title>sparqlite: SPARQL 1.1 inside SQLite, written in Rust</title>
-      <link>https://simonwillison.net/2026/Oct/16/sqlite-sparql-rust/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/16/sqlite-sparql-rust/</guid>
-      <pubDate>Fri, 16 Oct 2026 01:58:00 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>

@@ -208,11 +208,11 @@ Last Updated: Saturday, October 24th, 2026, 10:55:18 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Quick Study](https://simonwillison.net/2026/Oct/23/quick-study-painter/) — *Simon Willison's Weblog* `10-23`
 - [How to install an app on your Commodore 64](https://anildash.com/2026/10/08/install-an-app-commodore-64/) — *Anil Dash* `10-23`
 - [Pluralistic: Critique and writing (23 Oct 2026)](https://pluralistic.net/2026/10/23/better-to-give/) — *Pluralistic: Daily links from Cory Doctorow* `10-23`
 - [Introducing Kimi K3.1 Pro](https://simonwillison.net/2026/Oct/23/kimi-k31-pro/) — *Simon Willison's Weblog* `10-23`
 - [RMSNorm](https://www.gilesthomas.com/2026/10/rmsnorm) — *Giles' blog* `10-23`
-- [The Verge’s Duo Review: ‘Apple’s Folding Phone Is a Messy, Expensive Good Time’](https://www.theverge.com/tech/1015028/iphone-duo-review) — *Daring Fireball* `10-23`
 <!--BLOG_RADAR:end-->
 
 ---
