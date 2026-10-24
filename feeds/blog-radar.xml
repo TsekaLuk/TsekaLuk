@@ -4,13 +4,55 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 24 Oct 2026 10:42:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 15:44:21 +0000</lastBuildDate>
+    <item>
+      <title>Chan Karunamuni on the Duo’s Open/Close Translucent Transition</title>
+      <link>https://x.com/chan_k/status/2113622379050246243</link>
+      <guid isPermaLink="true">https://x.com/chan_k/status/2113622379050246243</guid>
+      <pubDate>Sat, 24 Oct 2026 15:03:44 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Elon Musk Just Gave Europe a Reason to Replace American Technology</title>
+      <link>https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/</link>
+      <guid isPermaLink="true">https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/</guid>
+      <pubDate>Sat, 24 Oct 2026 13:00:33 +0000</pubDate>
+      <description>Steve Blank</description>
+    </item>
+    <item>
+      <title>Reading List 10/24/26</title>
+      <link>https://www.construction-physics.com/p/reading-list-102426</link>
+      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-102426</guid>
+      <pubDate>Sat, 24 Oct 2026 12:01:24 +0000</pubDate>
+      <description>Construction Physics</description>
+    </item>
+    <item>
+      <title>Book Review: Get Ahead of Being Dead by Evie King ★★★★☆</title>
+      <link>https://shkspr.mobi/blog/2026/10/book-review-get-ahead-of-being-dead-by-evie-king/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/10/book-review-get-ahead-of-being-dead-by-evie-king/</guid>
+      <pubDate>Sat, 24 Oct 2026 11:34:25 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
     <item>
       <title>This Week in Package Management: 24 October 2026</title>
       <link>https://nesbitt.io/2026/10/24/this-week-in-package-management.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/10/24/this-week-in-package-management.html</guid>
       <pubDate>Sat, 24 Oct 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>battledrones v14: Compass Rose, a four player map</title>
+      <link>https://simonwillison.net/2026/Oct/24/battledrones/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/24/battledrones/</guid>
+      <pubDate>Sat, 24 Oct 2026 03:59:57 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Interesting systemd features you may not know about</title>
+      <link>https://martinalderson.com/posts/interesting-systemd-features/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
+      <guid isPermaLink="true">https://martinalderson.com/posts/interesting-systemd-features/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Martin Alderson</description>
     </item>
     <item>
       <title>Quick Study</title>
@@ -802,48 +844,6 @@
       <guid isPermaLink="true">https://www.filfre.net/2026/10/this-week-on-the-analog-antiquarian/</guid>
       <pubDate>Fri, 16 Oct 2026 16:14:39 +0000</pubDate>
       <description>The Digital Antiquarian</description>
-    </item>
-    <item>
-      <title>Premium: Venture Capital Is Killing Itself</title>
-      <link>https://www.wheresyoured.at/premium-venture-capital-is-killing-itself/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/premium-venture-capital-is-killing-itself/</guid>
-      <pubDate>Fri, 16 Oct 2026 16:11:45 +0000</pubDate>
-      <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>iPhone Duo Pre-Orders Launched, and Three Hours Later It’s Sold Out Through the End of January</title>
-      <link>https://www.macrumors.com/2026/10/16/iphone-duo-sold-out-for-christmas/</link>
-      <guid isPermaLink="true">https://www.macrumors.com/2026/10/16/iphone-duo-sold-out-for-christmas/</guid>
-      <pubDate>Fri, 16 Oct 2026 15:19:28 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Monoliths and Lagrange Points</title>
-      <link>https://www.johndcook.com/blog/2026/10/16/monoliths-and-lagrange-points/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/10/16/monoliths-and-lagrange-points/</guid>
-      <pubDate>Fri, 16 Oct 2026 14:37:07 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>C++ futures part 5: std::future and std::shared_future</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20261016-00/?p=112778/</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261016-00/?p=112778/</guid>
-      <pubDate>Fri, 16 Oct 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Book Review: Africa Is Not A Country - Breaking Stereotypes of Modern Africa by Dipo Faloyin ★★★★⯪</title>
-      <link>https://shkspr.mobi/blog/2026/10/book-review-africa-is-not-a-country-breaking-stereotypes-of-modern-africa-by-dipo-faloyin/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/10/book-review-africa-is-not-a-country-breaking-stereotypes-of-modern-africa-by-dipo-faloyin/</guid>
-      <pubDate>Fri, 16 Oct 2026 11:34:14 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Pluralistic: Load-bearing (16 Oct 2026)</title>
-      <link>https://pluralistic.net/2026/10/15/sovereign-it/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/10/15/sovereign-it/</guid>
-      <pubDate>Fri, 16 Oct 2026 06:40:02 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
     </item>
   </channel>
 </rss>

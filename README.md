@@ -208,11 +208,11 @@ Last Updated: Saturday, October 24th, 2026, 11:14:17 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Chan Karunamuni on the Duo’s Open/Close Translucent Transition](https://x.com/chan_k/status/2113622379050246243) — *Daring Fireball* `10-24`
+- [Elon Musk Just Gave Europe a Reason to Replace American Technology](https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/) — *Steve Blank* `10-24`
+- [Reading List 10/24/26](https://www.construction-physics.com/p/reading-list-102426) — *Construction Physics* `10-24`
+- [Book Review: Get Ahead of Being Dead by Evie King ★★★★☆](https://shkspr.mobi/blog/2026/10/book-review-get-ahead-of-being-dead-by-evie-king/) — *Terence Eden’s Blog* `10-24`
 - [This Week in Package Management: 24 October 2026](https://nesbitt.io/2026/10/24/this-week-in-package-management.html) — *Andrew Nesbitt* `10-24`
-- [Quick Study](https://simonwillison.net/2026/Oct/23/quick-study-painter/) — *Simon Willison's Weblog* `10-23`
-- [How to install an app on your Commodore 64](https://anildash.com/2026/10/08/install-an-app-commodore-64/) — *Anil Dash* `10-23`
-- [Pluralistic: Critique and writing (23 Oct 2026)](https://pluralistic.net/2026/10/23/better-to-give/) — *Pluralistic: Daily links from Cory Doctorow* `10-23`
-- [Introducing Kimi K3.1 Pro](https://simonwillison.net/2026/Oct/23/kimi-k31-pro/) — *Simon Willison's Weblog* `10-23`
 <!--BLOG_RADAR:end-->
 
 ---
