@@ -208,11 +208,11 @@ Last Updated: Sunday, October 25th, 2026, 4:04:11 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Tim Pan’s iPhone Duo Review](https://www.youtube.com/watch?v=8pCccpKjjos) — *Daring Fireball* `10-24`
+- [List of Vim forks](https://evanhahn.com/list-of-vim-forks/) — *Evan Hahn (dot com)* `10-24`
+- [Apple Built a Photo-Realistic Functional Original iPod for Apple Music’s 404 Page](https://music.apple.com/404) — *Daring Fireball* `10-24`
 - [Chan Karunamuni on the Duo’s Open/Close Translucent Transition](https://x.com/chan_k/status/2113622379050246243) — *Daring Fireball* `10-24`
 - [Elon Musk Just Gave Europe a Reason to Replace American Technology](https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/) — *Steve Blank* `10-24`
-- [Reading List 10/24/26](https://www.construction-physics.com/p/reading-list-102426) — *Construction Physics* `10-24`
-- [Book Review: Get Ahead of Being Dead by Evie King ★★★★☆](https://shkspr.mobi/blog/2026/10/book-review-get-ahead-of-being-dead-by-evie-king/) — *Terence Eden’s Blog* `10-24`
-- [This Week in Package Management: 24 October 2026](https://nesbitt.io/2026/10/24/this-week-in-package-management.html) — *Andrew Nesbitt* `10-24`
 <!--BLOG_RADAR:end-->
 
 ---

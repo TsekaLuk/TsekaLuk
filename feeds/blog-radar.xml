@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 24 Oct 2026 15:44:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 20:32:55 +0000</lastBuildDate>
+    <item>
+      <title>Tim Pan’s iPhone Duo Review</title>
+      <link>https://www.youtube.com/watch?v=8pCccpKjjos</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=8pCccpKjjos</guid>
+      <pubDate>Sat, 24 Oct 2026 19:15:45 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>List of Vim forks</title>
+      <link>https://evanhahn.com/list-of-vim-forks/</link>
+      <guid isPermaLink="true">https://evanhahn.com/list-of-vim-forks/</guid>
+      <pubDate>Sat, 24 Oct 2026 17:00:00 +0000</pubDate>
+      <description>Evan Hahn (dot com)</description>
+    </item>
+    <item>
+      <title>Apple Built a Photo-Realistic Functional Original iPod for Apple Music’s 404 Page</title>
+      <link>https://music.apple.com/404</link>
+      <guid isPermaLink="true">https://music.apple.com/404</guid>
+      <pubDate>Sat, 24 Oct 2026 15:50:02 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Chan Karunamuni on the Duo’s Open/Close Translucent Transition</title>
       <link>https://x.com/chan_k/status/2113622379050246243</link>
@@ -146,18 +167,18 @@
       <description>Andrew Nesbitt</description>
     </item>
     <item>
-      <title>"No way to prevent this" say users of only language where this regularly happens</title>
-      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-89078/</link>
-      <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-89078/</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
       <title>Software is slow because of bad design, not slow languages</title>
       <link>https://seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/</link>
       <guid isPermaLink="true">https://seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/</guid>
       <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>"No way to prevent this" say users of only language where this regularly happens</title>
+      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-89078/</link>
+      <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-89078/</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>DE STAAT - FREEDOM (Official Music Video)</title>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://netnewswire.blog/2026/10/16/how-we-got-duo-support.html</guid>
       <pubDate>Fri, 16 Oct 2026 20:53:42 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>★ Real Artists Ship, Tesla Edition</title>
-      <link>https://daringfireball.net/2026/10/real_artists_ship_tesla_edition</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/10/real_artists_ship_tesla_edition</guid>
-      <pubDate>Fri, 16 Oct 2026 20:11:23 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Shyam Sankar, CTO of Palantir, Says AI Researchers Have Started Smoking Because They’re Convinced AI (Claude, Probably) Is Going to Cure Cancer</title>
-      <link>https://www.cbsnews.com/news/shyam-sankar-chief-technology-officer-palantir-face-the-nation-transcript-10-11-2026/</link>
-      <guid isPermaLink="true">https://www.cbsnews.com/news/shyam-sankar-chief-technology-officer-palantir-face-the-nation-transcript-10-11-2026/</guid>
-      <pubDate>Fri, 16 Oct 2026 17:01:22 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>This Week on The Analog Antiquarian</title>
-      <link>https://www.filfre.net/2026/10/this-week-on-the-analog-antiquarian/</link>
-      <guid isPermaLink="true">https://www.filfre.net/2026/10/this-week-on-the-analog-antiquarian/</guid>
-      <pubDate>Fri, 16 Oct 2026 16:14:39 +0000</pubDate>
-      <description>The Digital Antiquarian</description>
     </item>
   </channel>
 </rss>
