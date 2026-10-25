@@ -208,11 +208,11 @@ Last Updated: Monday, October 26th, 2026, 4:16:39 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Poles and polars](https://www.johndcook.com/blog/2026/10/25/poles-and-polars/) — *John D. Cook* `10-25`
+- [Sunnny](https://sunnny.com/) — *Daring Fireball* `10-25`
+- [The Talk Show: ‘Lubricate the Inside of the Hinge’](https://daringfireball.net/thetalkshow/2026/10/25/ep-456) — *Daring Fireball* `10-25`
+- [iPhone Portrait Mode, 10 Years In](https://x.com/johnnie/status/2114007844605612167) — *Daring Fireball* `10-25`
 - [Gadget Review: LiberNovo Omni - the USB-C powered office chair ★★★★⯪](https://shkspr.mobi/blog/2026/10/gadget-review-libernovo-omni-chair/) — *Terence Eden’s Blog* `10-25`
-- [MacOS Extensions pack for the Apple Network Server v1.0](https://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html) — *Old Vintage Computing Research* `10-25`
-- [Computing polar triangles with linear algebra](https://www.johndcook.com/blog/2026/10/24/computing-polar-triangles/) — *John D. Cook* `10-25`
-- [Duality in spherical trigonometry](https://www.johndcook.com/blog/2026/10/24/polar-triangle/) — *John D. Cook* `10-25`
-- [Don't anthropomorphize big tech companies](https://seangoedecke.com/dont-anthropomorphize-big-tech-companies/) — *seangoedecke.com RSS feed* `10-25`
 <!--BLOG_RADAR:end-->
 
 ---

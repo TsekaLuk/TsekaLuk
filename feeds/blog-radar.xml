@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 25 Oct 2026 15:55:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 20:40:25 +0000</lastBuildDate>
+    <item>
+      <title>Poles and polars</title>
+      <link>https://www.johndcook.com/blog/2026/10/25/poles-and-polars/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/10/25/poles-and-polars/</guid>
+      <pubDate>Sun, 25 Oct 2026 19:45:05 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Sunnny</title>
+      <link>https://sunnny.com/</link>
+      <guid isPermaLink="true">https://sunnny.com/</guid>
+      <pubDate>Sun, 25 Oct 2026 19:08:05 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>The Talk Show: ‘Lubricate the Inside of the Hinge’</title>
+      <link>https://daringfireball.net/thetalkshow/2026/10/25/ep-456</link>
+      <guid isPermaLink="true">https://daringfireball.net/thetalkshow/2026/10/25/ep-456</guid>
+      <pubDate>Sun, 25 Oct 2026 19:03:13 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>iPhone Portrait Mode, 10 Years In</title>
+      <link>https://x.com/johnnie/status/2114007844605612167</link>
+      <guid isPermaLink="true">https://x.com/johnnie/status/2114007844605612167</guid>
+      <pubDate>Sun, 25 Oct 2026 18:09:19 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Gadget Review: LiberNovo Omni - the USB-C powered office chair ★★★★⯪</title>
       <link>https://shkspr.mobi/blog/2026/10/gadget-review-libernovo-omni-chair/</link>
@@ -39,6 +67,13 @@
       <guid isPermaLink="true">https://seangoedecke.com/dont-anthropomorphize-big-tech-companies/</guid>
       <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>A rising tide raises all rents</title>
+      <link>https://jyn.dev/rising-tide-raises-rents/</link>
+      <guid isPermaLink="true">https://jyn.dev/rising-tide-raises-rents/</guid>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+      <description>the website of jyn</description>
     </item>
     <item>
       <title>Nicole Nguyen’s Duo Review for the WSJ</title>
@@ -538,13 +573,6 @@
       <description>The Old New Thing</description>
     </item>
     <item>
-      <title>[Sponsor] Sunnny</title>
-      <link>https://sunnny.com/</link>
-      <guid isPermaLink="true">https://sunnny.com/</guid>
-      <pubDate>Tue, 20 Oct 2026 13:09:38 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
       <title>Book Review: Quackery - A Brief History of the Worst Ways to Cure Everything by Lydia Kang ★★★⯪☆</title>
       <link>https://shkspr.mobi/blog/2026/10/book-review-quackery-a-brief-history-of-the-worst-ways-to-cure-everything-by-lydia-kang/</link>
       <guid isPermaLink="true">https://shkspr.mobi/blog/2026/10/book-review-quackery-a-brief-history-of-the-worst-ways-to-cure-everything-by-lydia-kang/</guid>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://daringfireball.net/2026/10/homeview_thoughts_and_observations</guid>
       <pubDate>Sat, 17 Oct 2026 17:25:13 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Cloud of suspicion lifted from NIST curves</title>
-      <link>https://www.johndcook.com/blog/2026/10/17/nist-curves-exonorated/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/10/17/nist-curves-exonorated/</guid>
-      <pubDate>Sat, 17 Oct 2026 15:39:06 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Apple TV Price History, Charted</title>
-      <link>https://glog.glennf.com/blog/2026/10/17/apple-tv-price-history/</link>
-      <guid isPermaLink="true">https://glog.glennf.com/blog/2026/10/17/apple-tv-price-history/</guid>
-      <pubDate>Sat, 17 Oct 2026 14:06:18 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>web-edit 0.1a2</title>
-      <link>https://simonwillison.net/2026/Oct/17/web-edit/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/17/web-edit/</guid>
-      <pubDate>Sat, 17 Oct 2026 13:16:49 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Reading List 10/17/26</title>
-      <link>https://www.construction-physics.com/p/reading-list-101726</link>
-      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-101726</guid>
-      <pubDate>Sat, 17 Oct 2026 12:03:37 +0000</pubDate>
-      <description>Construction Physics</description>
     </item>
   </channel>
 </rss>
