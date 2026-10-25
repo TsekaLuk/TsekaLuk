@@ -208,11 +208,11 @@ Last Updated: Sunday, October 25th, 2026, 11:24:24 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Gadget Review: LiberNovo Omni - the USB-C powered office chair ★★★★⯪](https://shkspr.mobi/blog/2026/10/gadget-review-libernovo-omni-chair/) — *Terence Eden’s Blog* `10-25`
 - [MacOS Extensions pack for the Apple Network Server v1.0](https://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html) — *Old Vintage Computing Research* `10-25`
 - [Computing polar triangles with linear algebra](https://www.johndcook.com/blog/2026/10/24/computing-polar-triangles/) — *John D. Cook* `10-25`
 - [Duality in spherical trigonometry](https://www.johndcook.com/blog/2026/10/24/polar-triangle/) — *John D. Cook* `10-25`
 - [Don't anthropomorphize big tech companies](https://seangoedecke.com/dont-anthropomorphize-big-tech-companies/) — *seangoedecke.com RSS feed* `10-25`
-- [Nicole Nguyen’s Duo Review for the WSJ](https://www.wsj.com/tech/personal-tech/iphone-duo-review-cafcbbe7?st=GaYVMf) — *Daring Fireball* `10-24`
 <!--BLOG_RADAR:end-->
 
 ---
