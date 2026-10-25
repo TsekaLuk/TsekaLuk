@@ -208,11 +208,11 @@ Last Updated: Sunday, October 25th, 2026, 10:48:07 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Tim Pan’s iPhone Duo Review](https://www.youtube.com/watch?v=8pCccpKjjos) — *Daring Fireball* `10-24`
-- [List of Vim forks](https://evanhahn.com/list-of-vim-forks/) — *Evan Hahn (dot com)* `10-24`
-- [Apple Built a Photo-Realistic Functional Original iPod for Apple Music’s 404 Page](https://music.apple.com/404) — *Daring Fireball* `10-24`
-- [Chan Karunamuni on the Duo’s Open/Close Translucent Transition](https://x.com/chan_k/status/2113622379050246243) — *Daring Fireball* `10-24`
-- [Elon Musk Just Gave Europe a Reason to Replace American Technology](https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/) — *Steve Blank* `10-24`
+- [MacOS Extensions pack for the Apple Network Server v1.0](https://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html) — *Old Vintage Computing Research* `10-25`
+- [Computing polar triangles with linear algebra](https://www.johndcook.com/blog/2026/10/24/computing-polar-triangles/) — *John D. Cook* `10-25`
+- [Duality in spherical trigonometry](https://www.johndcook.com/blog/2026/10/24/polar-triangle/) — *John D. Cook* `10-25`
+- [Don't anthropomorphize big tech companies](https://seangoedecke.com/dont-anthropomorphize-big-tech-companies/) — *seangoedecke.com RSS feed* `10-25`
+- [Nicole Nguyen’s Duo Review for the WSJ](https://www.wsj.com/tech/personal-tech/iphone-duo-review-cafcbbe7?st=GaYVMf) — *Daring Fireball* `10-24`
 <!--BLOG_RADAR:end-->
 
 ---
