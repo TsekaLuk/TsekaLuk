@@ -4,7 +4,7 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 25 Oct 2026 04:14:44 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 11:07:19 +0000</lastBuildDate>
     <item>
       <title>MacOS Extensions pack for the Apple Network Server v1.0</title>
       <link>https://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html</link>
@@ -179,13 +179,6 @@
       <guid isPermaLink="true">https://www.wheresyoured.at/premium-the-haters-guide-to-blackstone/</guid>
       <pubDate>Fri, 23 Oct 2026 16:28:34 +0000</pubDate>
       <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>An Ion Storm!, Part 2: The Return to Ground Level</title>
-      <link>https://www.filfre.net/2026/10/an-ion-storm-part-2-the-return-to-ground-level/</link>
-      <guid isPermaLink="true">https://www.filfre.net/2026/10/an-ion-storm-part-2-the-return-to-ground-level/</guid>
-      <pubDate>Fri, 23 Oct 2026 16:19:26 +0000</pubDate>
-      <description>The Digital Antiquarian</description>
     </item>
     <item>
       <title>Joanna Stern Reviews the Duo: ‘The Good, the Bad, and the Buggy’</title>
@@ -844,6 +837,13 @@
       <guid isPermaLink="true">https://shkspr.mobi/blog/2026/10/book-review-are-you-really-the-doctor-by-matthew-hutchinson/</guid>
       <pubDate>Sat, 17 Oct 2026 11:34:57 +0000</pubDate>
       <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Pluralistic: Israeli ad-tech company was a delivery system for "mercenary spyware" (17 Oct 2026)</title>
+      <link>https://pluralistic.net/2026/10/17/mercenary-spyware/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/10/17/mercenary-spyware/</guid>
+      <pubDate>Sat, 17 Oct 2026 10:47:35 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
     </item>
   </channel>
 </rss>
