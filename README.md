@@ -208,11 +208,11 @@ Last Updated: Monday, October 26th, 2026, 8:05:27 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Theatre Review: Opera UnTouched's "The Telephone" ★★★★★](https://shkspr.mobi/blog/2026/10/theatre-review-opera-untoucheds-the-telephone/) — *Terence Eden’s Blog* `10-26`
+- [Where else to find me](https://www.johndcook.com/blog/2026/10/26/where-to-find-me/) — *John D. Cook* `10-26`
+- [Package Management Devroom at FOSDEM 2027: Call for Participation](https://nesbitt.io/2026/10/26/package-management-devroom-at-fosdem-2027-call-for-participation.html) — *Andrew Nesbitt* `10-26`
 - [Sunnny](https://sunnny.com/) — *Daring Fireball* `10-25`
 - [Duo Users Are Registering the Base of Their Index Finger as a Touch ID Coping Strategy](https://www.reddit.com/r/iPhoneDuo/comments/1xehtcj/best_fingerprint_method/) — *Daring Fireball* `10-25`
-- [OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?](https://minimaxir.com/2026/10/cheap-llms/) — *Max Woolf's Blog* `10-25`
-- [Poles and polars](https://www.johndcook.com/blog/2026/10/25/poles-and-polars/) — *John D. Cook* `10-25`
-- [The Talk Show: ‘Lubricate the Inside of the Hinge’](https://daringfireball.net/thetalkshow/2026/10/25/ep-456) — *Daring Fireball* `10-25`
 <!--BLOG_RADAR:end-->
 
 ---
