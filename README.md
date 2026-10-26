@@ -208,11 +208,11 @@ Last Updated: Monday, October 26th, 2026, 10:46:03 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Poles and polars](https://www.johndcook.com/blog/2026/10/25/poles-and-polars/) — *John D. Cook* `10-25`
 - [Sunnny](https://sunnny.com/) — *Daring Fireball* `10-25`
+- [Duo Users Are Registering the Base of Their Index Finger as a Touch ID Coping Strategy](https://www.reddit.com/r/iPhoneDuo/comments/1xehtcj/best_fingerprint_method/) — *Daring Fireball* `10-25`
+- [OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?](https://minimaxir.com/2026/10/cheap-llms/) — *Max Woolf's Blog* `10-25`
+- [Poles and polars](https://www.johndcook.com/blog/2026/10/25/poles-and-polars/) — *John D. Cook* `10-25`
 - [The Talk Show: ‘Lubricate the Inside of the Hinge’](https://daringfireball.net/thetalkshow/2026/10/25/ep-456) — *Daring Fireball* `10-25`
-- [iPhone Portrait Mode, 10 Years In](https://x.com/johnnie/status/2114007844605612167) — *Daring Fireball* `10-25`
-- [Gadget Review: LiberNovo Omni - the USB-C powered office chair ★★★★⯪](https://shkspr.mobi/blog/2026/10/gadget-review-libernovo-omni-chair/) — *Terence Eden’s Blog* `10-25`
 <!--BLOG_RADAR:end-->
 
 ---

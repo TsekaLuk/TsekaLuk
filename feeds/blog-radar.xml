@@ -4,20 +4,34 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 25 Oct 2026 20:40:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 04:18:35 +0000</lastBuildDate>
+    <item>
+      <title>Sunnny</title>
+      <link>https://sunnny.com/</link>
+      <guid isPermaLink="true">https://sunnny.com/</guid>
+      <pubDate>Sun, 25 Oct 2026 21:50:00 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Duo Users Are Registering the Base of Their Index Finger as a Touch ID Coping Strategy</title>
+      <link>https://www.reddit.com/r/iPhoneDuo/comments/1xehtcj/best_fingerprint_method/</link>
+      <guid isPermaLink="true">https://www.reddit.com/r/iPhoneDuo/comments/1xehtcj/best_fingerprint_method/</guid>
+      <pubDate>Sun, 25 Oct 2026 21:47:57 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?</title>
+      <link>https://minimaxir.com/2026/10/cheap-llms/</link>
+      <guid isPermaLink="true">https://minimaxir.com/2026/10/cheap-llms/</guid>
+      <pubDate>Sun, 25 Oct 2026 21:00:00 +0000</pubDate>
+      <description>Max Woolf's Blog</description>
+    </item>
     <item>
       <title>Poles and polars</title>
       <link>https://www.johndcook.com/blog/2026/10/25/poles-and-polars/</link>
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/10/25/poles-and-polars/</guid>
       <pubDate>Sun, 25 Oct 2026 19:45:05 +0000</pubDate>
       <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Sunnny</title>
-      <link>https://sunnny.com/</link>
-      <guid isPermaLink="true">https://sunnny.com/</guid>
-      <pubDate>Sun, 25 Oct 2026 19:08:05 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
     <item>
       <title>The Talk Show: ‘Lubricate the Inside of the Hinge’</title>
@@ -74,6 +88,13 @@
       <guid isPermaLink="true">https://jyn.dev/rising-tide-raises-rents/</guid>
       <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
       <description>the website of jyn</description>
+    </item>
+    <item>
+      <title>lighting the skies</title>
+      <link>https://computer.rip/2026-10-25-searchlights.html</link>
+      <guid isPermaLink="true">https://computer.rip/2026-10-25-searchlights.html</guid>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+      <description>computers are bad</description>
     </item>
     <item>
       <title>Nicole Nguyen’s Duo Review for the WSJ</title>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://seangoedecke.com/writing-is-no-longer-proof-of-work/</guid>
       <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>How the AI boom might really end: 5 scenarios</title>
-      <link>https://martinalderson.com/posts/how-the-ai-boom-might-really-end/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
-      <guid isPermaLink="true">https://martinalderson.com/posts/how-the-ai-boom-might-really-end/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Martin Alderson</description>
-    </item>
-    <item>
-      <title>Inline rendering with document​.currentScript</title>
-      <link>https://simonwillison.net/2026/Oct/17/document-currentscript/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/17/document-currentscript/</guid>
-      <pubDate>Sat, 17 Oct 2026 21:11:12 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>★ HomeView Thoughts and Observations</title>
-      <link>https://daringfireball.net/2026/10/homeview_thoughts_and_observations</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/10/homeview_thoughts_and_observations</guid>
-      <pubDate>Sat, 17 Oct 2026 17:25:13 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
