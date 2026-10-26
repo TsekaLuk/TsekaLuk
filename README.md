@@ -208,11 +208,11 @@ Last Updated: Tuesday, October 27th, 2026, 6:10:40 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Theatre Review: Opera UnTouched's "The Telephone" ★★★★★](https://shkspr.mobi/blog/2026/10/theatre-review-opera-untoucheds-the-telephone/) — *Terence Eden’s Blog* `10-26`
-- [Where else to find me](https://www.johndcook.com/blog/2026/10/26/where-to-find-me/) — *John D. Cook* `10-26`
-- [Package Management Devroom at FOSDEM 2027: Call for Participation](https://nesbitt.io/2026/10/26/package-management-devroom-at-fosdem-2027-call-for-participation.html) — *Andrew Nesbitt* `10-26`
-- [Sunnny](https://sunnny.com/) — *Daring Fireball* `10-25`
-- [Duo Users Are Registering the Base of Their Index Finger as a Touch ID Coping Strategy](https://www.reddit.com/r/iPhoneDuo/comments/1xehtcj/best_fingerprint_method/) — *Daring Fireball* `10-25`
+- [Glenn Fleishman on Apple Notes and Markdown](https://sixcolors.com/post/2026/10/why-notes-will-never-let-us-edit-markdown/) — *Daring Fireball* `10-26`
+- [Quoting Jason Koebler](https://simonwillison.net/2026/Oct/26/jason-koebler/) — *Simon Willison's Weblog* `10-26`
+- [Inversion in an ellipse](https://www.johndcook.com/blog/2026/10/26/inversion-in-an-ellipse/) — *John D. Cook* `10-26`
+- [★ Apple Announces New A20 Pro iPad Mini](https://daringfireball.net/2026/10/apple_announces_new_a20_pro_ipad_mini) — *Daring Fireball* `10-26`
+- [A Simple Two-Step Shortcuts Shortcut Lets You Lock the iPhone Duo When You Close It](https://x.com/viticci/status/2113888099784638932) — *Daring Fireball* `10-26`
 <!--BLOG_RADAR:end-->
 
 ---

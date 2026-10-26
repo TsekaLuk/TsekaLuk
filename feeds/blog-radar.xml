@@ -4,7 +4,70 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 26 Oct 2026 12:40:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 22:32:15 +0000</lastBuildDate>
+    <item>
+      <title>Glenn Fleishman on Apple Notes and Markdown</title>
+      <link>https://sixcolors.com/post/2026/10/why-notes-will-never-let-us-edit-markdown/</link>
+      <guid isPermaLink="true">https://sixcolors.com/post/2026/10/why-notes-will-never-let-us-edit-markdown/</guid>
+      <pubDate>Mon, 26 Oct 2026 20:03:53 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Quoting Jason Koebler</title>
+      <link>https://simonwillison.net/2026/Oct/26/jason-koebler/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/26/jason-koebler/</guid>
+      <pubDate>Mon, 26 Oct 2026 19:00:25 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Inversion in an ellipse</title>
+      <link>https://www.johndcook.com/blog/2026/10/26/inversion-in-an-ellipse/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/10/26/inversion-in-an-ellipse/</guid>
+      <pubDate>Mon, 26 Oct 2026 18:39:32 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>★ Apple Announces New A20 Pro iPad Mini</title>
+      <link>https://daringfireball.net/2026/10/apple_announces_new_a20_pro_ipad_mini</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/10/apple_announces_new_a20_pro_ipad_mini</guid>
+      <pubDate>Mon, 26 Oct 2026 18:04:34 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>A Simple Two-Step Shortcuts Shortcut Lets You Lock the iPhone Duo When You Close It</title>
+      <link>https://x.com/viticci/status/2113888099784638932</link>
+      <guid isPermaLink="true">https://x.com/viticci/status/2113888099784638932</guid>
+      <pubDate>Mon, 26 Oct 2026 17:00:11 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Pluralistic: Sovereign citizens, but for news (26 Oct 2026)</title>
+      <link>https://pluralistic.net/2026/10/26/abandon-hope/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/10/26/abandon-hope/</guid>
+      <pubDate>Mon, 26 Oct 2026 15:47:10 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Tiny Computers for iPhone Duo</title>
+      <link>https://www.fountaininteractive.com/TinyComputers/</link>
+      <guid isPermaLink="true">https://www.fountaininteractive.com/TinyComputers/</guid>
+      <pubDate>Mon, 26 Oct 2026 15:04:10 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>De IT-onmacht van de Nederlandse overheid</title>
+      <link>https://berthub.eu/articles/posts/de-it-onmacht-van-de-nederlands-overheid/</link>
+      <guid isPermaLink="true">https://berthub.eu/articles/posts/de-it-onmacht-van-de-nederlands-overheid/</guid>
+      <pubDate>Mon, 26 Oct 2026 14:25:00 +0000</pubDate>
+      <description>Bert Hubert's writings</description>
+    </item>
+    <item>
+      <title>Puzzling out why a program doesn’t work when run from a batch file, but works when double-clicked from Explorer</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20261026-00/?p=112797/</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261026-00/?p=112797/</guid>
+      <pubDate>Mon, 26 Oct 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
     <item>
       <title>Theatre Review: Opera UnTouched's "The Telephone" ★★★★★</title>
       <link>https://shkspr.mobi/blog/2026/10/theatre-review-opera-untoucheds-the-telephone/</link>
@@ -25,6 +88,13 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/10/26/package-management-devroom-at-fosdem-2027-call-for-participation.html</guid>
       <pubDate>Mon, 26 Oct 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>Scattered thoughts on how doing math feels these days</title>
+      <link>https://dynomight.net/math/</link>
+      <guid isPermaLink="true">https://dynomight.net/math/</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>Sunnny</title>
@@ -774,76 +844,6 @@
       <guid isPermaLink="true">https://seangoedecke.com/what-requirements-dont-you-have/</guid>
       <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>llm-tools-datasette 0.1.1</title>
-      <link>https://simonwillison.net/2026/Oct/18/llm-tools-datasette/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/18/llm-tools-datasette/</guid>
-      <pubDate>Sun, 18 Oct 2026 23:43:09 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>llm-echo 0.5</title>
-      <link>https://simonwillison.net/2026/Oct/18/llm-echo/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/18/llm-echo/</guid>
-      <pubDate>Sun, 18 Oct 2026 23:16:16 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Tom the Dancing Bug’s Inner Hive, and Harvey Richards, the Greatest Lawyer in the History of Fiction</title>
-      <link>https://tomthedancingbug.com/the-inner-hive/</link>
-      <guid isPermaLink="true">https://tomthedancingbug.com/the-inner-hive/</guid>
-      <pubDate>Sun, 18 Oct 2026 22:53:00 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>WorkOS AuthKit</title>
-      <link>https://workos.com/?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q42026</link>
-      <guid isPermaLink="true">https://workos.com/?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q42026</guid>
-      <pubDate>Sun, 18 Oct 2026 22:45:00 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Verizon Is Going to Charge $10/Month for iPhone Handoff</title>
-      <link>https://www.verizon.com/about/news/iphone-duo-verizon-offers</link>
-      <guid isPermaLink="true">https://www.verizon.com/about/news/iphone-duo-verizon-offers</guid>
-      <pubDate>Sun, 18 Oct 2026 22:20:06 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Gurman on HomeView: ‘Finished Units Have Been Sitting Boxed Up in Warehouses for the Better Part of a Year’</title>
-      <link>https://www.bloomberg.com/news/newsletters/2026-10-18/apple-homeview-with-robotic-arm-new-mac-ipad-mini-nov-6-release-iphone-duo?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjMzMjQwNiwiZXhwIjoxNzkyOTM3MjA2LCJhcnRpY2xlSWQiOiJUTjNXODFLR1pBSjQwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.eu94lgz5qU35YdXhWFRwjbVBeJEKzpwFqF-pzh_GPJU&amp;leadSource=article-gifting</link>
-      <guid isPermaLink="true">https://www.bloomberg.com/news/newsletters/2026-10-18/apple-homeview-with-robotic-arm-new-mac-ipad-mini-nov-6-release-iphone-duo?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjMzMjQwNiwiZXhwIjoxNzkyOTM3MjA2LCJhcnRpY2xlSWQiOiJUTjNXODFLR1pBSjQwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.eu94lgz5qU35YdXhWFRwjbVBeJEKzpwFqF-pzh_GPJU&amp;leadSource=article-gifting</guid>
-      <pubDate>Sun, 18 Oct 2026 21:58:33 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Claim Chowder: The Information on HomeView Having a ‘Robotic Swiveling Base’</title>
-      <link>https://www.theinformation.com/articles/apple-developing-ai-wearable-pin</link>
-      <guid isPermaLink="true">https://www.theinformation.com/articles/apple-developing-ai-wearable-pin</guid>
-      <pubDate>Sun, 18 Oct 2026 21:26:32 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Apple Issues Statement on Duo Demand Far Outstripping Supply</title>
-      <link>https://www.ft.com/content/7b236286-ca1d-4063-a728-7f968a638b8f</link>
-      <guid isPermaLink="true">https://www.ft.com/content/7b236286-ca1d-4063-a728-7f968a638b8f</guid>
-      <pubDate>Sun, 18 Oct 2026 20:04:44 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Manton Reece’s Spitball Theory on Why the Wall-Mounted HomeView Costs the Same as the Version With the Subwoofer Base</title>
-      <link>https://www.manton.org/2026/10/17/in-john-grubers-initial-thoughts.html</link>
-      <guid isPermaLink="true">https://www.manton.org/2026/10/17/in-john-grubers-initial-thoughts.html</guid>
-      <pubDate>Sun, 18 Oct 2026 19:34:45 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Michigan Democratic Senate Candidate Abdul El-Sayed on His Allegiances</title>
-      <link>https://x.com/AbdulElSayed/status/2111627277578731885</link>
-      <guid isPermaLink="true">https://x.com/AbdulElSayed/status/2111627277578731885</guid>
-      <pubDate>Sun, 18 Oct 2026 19:17:01 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
