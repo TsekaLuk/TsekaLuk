@@ -208,11 +208,11 @@ Last Updated: Tuesday, October 27th, 2026, 7:25:47 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Pluralistic: History is something you do (27 Oct 2026)](https://pluralistic.net/2026/10/27/tied-to-the-tracks/) — *Pluralistic: Daily links from Cory Doctorow* `10-27`
+- [Weekly Update 527: Cybergeddon News v. Reality](https://www.troyhunt.com/weekly-update-527/) — *Troy Hunt* `10-27`
 - [The NYT Seemingly Does Marissa Mayer Dirty](https://www.nytimes.com/2026/10/25/style/marissa-mayer-ai-assistants-women.html?unlocked_article_code=1.L1E.xBwx.X_EjBGNsRNqr) — *Daring Fireball* `10-27`
 - [Apple Issues Statement on iPhone Duo’s Crack Problem](https://9to5mac.com/2026/10/26/apple-responds-to-reports-of-iphone-duos-inner-display-cracking/) — *Daring Fireball* `10-26`
 - [GPT-6.1 Terra](https://simonwillison.net/2026/Oct/26/gpt-61-terra/) — *Simon Willison's Weblog* `10-26`
-- [Glenn Fleishman on Apple Notes and Markdown](https://sixcolors.com/post/2026/10/why-notes-will-never-let-us-edit-markdown/) — *Daring Fireball* `10-26`
-- [Quoting Jason Koebler](https://simonwillison.net/2026/Oct/26/jason-koebler/) — *Simon Willison's Weblog* `10-26`
 <!--BLOG_RADAR:end-->
 
 ---

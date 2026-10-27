@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 27 Oct 2026 04:37:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 11:56:01 +0000</lastBuildDate>
+    <item>
+      <title>Pluralistic: History is something you do (27 Oct 2026)</title>
+      <link>https://pluralistic.net/2026/10/27/tied-to-the-tracks/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/10/27/tied-to-the-tracks/</guid>
+      <pubDate>Tue, 27 Oct 2026 09:08:25 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Weekly Update 527: Cybergeddon News v. Reality</title>
+      <link>https://www.troyhunt.com/weekly-update-527/</link>
+      <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-527/</guid>
+      <pubDate>Tue, 27 Oct 2026 07:59:09 +0000</pubDate>
+      <description>Troy Hunt</description>
+    </item>
     <item>
       <title>The NYT Seemingly Does Marissa Mayer Dirty</title>
       <link>https://www.nytimes.com/2026/10/25/style/marissa-mayer-ai-assistants-women.html?unlocked_article_code=1.L1E.xBwx.X_EjBGNsRNqr</link>
@@ -216,18 +230,18 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>lighting the skies</title>
-      <link>https://computer.rip/2026-10-25-searchlights.html</link>
-      <guid isPermaLink="true">https://computer.rip/2026-10-25-searchlights.html</guid>
-      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
-      <description>computers are bad</description>
-    </item>
-    <item>
       <title>A rising tide raises all rents</title>
       <link>https://jyn.dev/rising-tide-raises-rents/</link>
       <guid isPermaLink="true">https://jyn.dev/rising-tide-raises-rents/</guid>
       <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
       <description>the website of jyn</description>
+    </item>
+    <item>
+      <title>lighting the skies</title>
+      <link>https://computer.rip/2026-10-25-searchlights.html</link>
+      <guid isPermaLink="true">https://computer.rip/2026-10-25-searchlights.html</guid>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+      <description>computers are bad</description>
     </item>
     <item>
       <title>Nicole Nguyen’s Duo Review for the WSJ</title>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261019-00/?p=112781/</guid>
       <pubDate>Mon, 19 Oct 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site</title>
-      <link>https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/</link>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/</guid>
-      <pubDate>Mon, 19 Oct 2026 13:48:56 +0000</pubDate>
-      <description>Krebs on Security</description>
-    </item>
-    <item>
-      <title>The Lean Educator Conference</title>
-      <link>https://steveblank.com/2026/10/19/the-lean-educator-conference/</link>
-      <guid isPermaLink="true">https://steveblank.com/2026/10/19/the-lean-educator-conference/</guid>
-      <pubDate>Mon, 19 Oct 2026 13:00:20 +0000</pubDate>
-      <description>Steve Blank</description>
     </item>
   </channel>
 </rss>
