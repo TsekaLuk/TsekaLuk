@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 27 Oct 2026 17:52:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 22:01:33 +0000</lastBuildDate>
+    <item>
+      <title>Apple Creator Studio Updated With a Slew of AI Features, Along With a New Open JSON File Format for Keynote</title>
+      <link>https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/</link>
+      <guid isPermaLink="true">https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/</guid>
+      <pubDate>Tue, 27 Oct 2026 22:00:04 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>★ Prestructured WYSIWYG</title>
+      <link>https://daringfireball.net/2026/10/prestructured_wysiwyg</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/10/prestructured_wysiwyg</guid>
+      <pubDate>Tue, 27 Oct 2026 21:24:20 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Game Boy Color on My Conference Badge</title>
+      <link>https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/</guid>
+      <pubDate>Tue, 27 Oct 2026 19:34:18 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>What’s Left for ‘Pro and Tell’ Week: Touch-Enabled OLED MacBooks</title>
+      <link>https://www.macrumors.com/2026/10/27/macbook-pro-with-touchscreen-tomorrow/</link>
+      <guid isPermaLink="true">https://www.macrumors.com/2026/10/27/macbook-pro-with-touchscreen-tomorrow/</guid>
+      <pubDate>Tue, 27 Oct 2026 17:59:47 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Apple Also Announces iMac With M6</title>
       <link>https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/</link>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://shkspr.mobi/blog/2026/10/book-review-quackery-a-brief-history-of-the-worst-ways-to-cure-everything-by-lydia-kang/</guid>
       <pubDate>Tue, 20 Oct 2026 11:34:35 +0000</pubDate>
       <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Barack Obama on the Trump Administration’s Intimidation Campaign Against Congresswoman Ilhan Omar</title>
-      <link>https://x.com/BarackObama/status/2111819687524774170</link>
-      <guid isPermaLink="true">https://x.com/BarackObama/status/2111819687524774170</guid>
-      <pubDate>Tue, 20 Oct 2026 01:12:26 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Laypeople support technical fields for technology, not art</title>
-      <link>https://seangoedecke.com/laypeople-support-technical-fields-for-technology-not-art/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/laypeople-support-technical-fields-for-technology-not-art/</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>My obituary for programming</title>
-      <link>https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/</guid>
-      <pubDate>Mon, 19 Oct 2026 23:58:25 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>From the DF Archive: Should a CEO Be a Nerd About Their Company’s Products?</title>
-      <link>https://daringfireball.net/linked/2022/10/11/ceos-as-nerds</link>
-      <guid isPermaLink="true">https://daringfireball.net/linked/2022/10/11/ceos-as-nerds</guid>
-      <pubDate>Mon, 19 Oct 2026 22:36:15 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>

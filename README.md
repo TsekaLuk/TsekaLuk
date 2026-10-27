@@ -208,11 +208,11 @@ Last Updated: Wednesday, October 28th, 2026, 5:42:06 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Apple Creator Studio Updated With a Slew of AI Features, Along With a New Open JSON File Format for Keynote](https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/) — *Daring Fireball* `10-27`
+- [★ Prestructured WYSIWYG](https://daringfireball.net/2026/10/prestructured_wysiwyg) — *Daring Fireball* `10-27`
+- [Game Boy Color on My Conference Badge](https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/) — *Simon Willison's Weblog* `10-27`
+- [What’s Left for ‘Pro and Tell’ Week: Touch-Enabled OLED MacBooks](https://www.macrumors.com/2026/10/27/macbook-pro-with-touchscreen-tomorrow/) — *Daring Fireball* `10-27`
 - [Apple Also Announces iMac With M6](https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/) — *Daring Fireball* `10-27`
-- [Noctua Fan Swap on a Calnex Rb/GPS Frequency Reference](https://www.jeffgeerling.com/blog/2026/noctua-fan-swap-calnex-rb-gps-frequency-reference/) — *Jeff Geerling* `10-27`
-- [[Sponsor] WorkOS: Let Agents Sign Up for Your App Without a Browser](https://workos.com/auth-md?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026) — *Daring Fireball* `10-27`
-- [Apple Introduces New Base MacBook Pro With M6, 14-Inch-Only](https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/) — *Daring Fireball* `10-27`
-- [I'm Full-Time Open Source Developer Now](https://blog.miguelgrinberg.com/post/i-m-full-time-open-source-developer-now) — *Miguel Grinberg's Blog* `10-27`
 <!--BLOG_RADAR:end-->
 
 ---
