@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 26 Oct 2026 22:32:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 04:37:23 +0000</lastBuildDate>
+    <item>
+      <title>The NYT Seemingly Does Marissa Mayer Dirty</title>
+      <link>https://www.nytimes.com/2026/10/25/style/marissa-mayer-ai-assistants-women.html?unlocked_article_code=1.L1E.xBwx.X_EjBGNsRNqr</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/10/25/style/marissa-mayer-ai-assistants-women.html?unlocked_article_code=1.L1E.xBwx.X_EjBGNsRNqr</guid>
+      <pubDate>Tue, 27 Oct 2026 00:30:08 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Apple Issues Statement on iPhone Duo’s Crack Problem</title>
+      <link>https://9to5mac.com/2026/10/26/apple-responds-to-reports-of-iphone-duos-inner-display-cracking/</link>
+      <guid isPermaLink="true">https://9to5mac.com/2026/10/26/apple-responds-to-reports-of-iphone-duos-inner-display-cracking/</guid>
+      <pubDate>Mon, 26 Oct 2026 23:54:26 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>GPT-6.1 Terra</title>
+      <link>https://simonwillison.net/2026/Oct/26/gpt-61-terra/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/26/gpt-61-terra/</guid>
+      <pubDate>Mon, 26 Oct 2026 23:53:07 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Glenn Fleishman on Apple Notes and Markdown</title>
       <link>https://sixcolors.com/post/2026/10/why-notes-will-never-let-us-edit-markdown/</link>
@@ -39,6 +60,13 @@
       <guid isPermaLink="true">https://x.com/viticci/status/2113888099784638932</guid>
       <pubDate>Mon, 26 Oct 2026 17:00:11 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>webframe: evaluated as a scraper and a sandbox</title>
+      <link>https://simonwillison.net/2026/Oct/26/webframe-evaluation/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/26/webframe-evaluation/</guid>
+      <pubDate>Mon, 26 Oct 2026 16:15:00 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
     <item>
       <title>Pluralistic: Sovereign citizens, but for news (26 Oct 2026)</title>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://steveblank.com/2026/10/19/the-lean-educator-conference/</guid>
       <pubDate>Mon, 19 Oct 2026 13:00:20 +0000</pubDate>
       <description>Steve Blank</description>
-    </item>
-    <item>
-      <title>A frivolous problem with a deeper lesson</title>
-      <link>https://www.johndcook.com/blog/2026/10/19/regex-backtracking/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/10/19/regex-backtracking/</guid>
-      <pubDate>Mon, 19 Oct 2026 12:00:43 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Pluralistic: The technopolitics of ad-tech (19 Oct 2026)</title>
-      <link>https://pluralistic.net/2026/10/19/spying-v-context/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/10/19/spying-v-context/</guid>
-      <pubDate>Mon, 19 Oct 2026 07:08:31 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Weekly Update 526: Building HIBP AI/SI First</title>
-      <link>https://www.troyhunt.com/weekly-update-526/</link>
-      <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-526/</guid>
-      <pubDate>Mon, 19 Oct 2026 06:47:58 +0000</pubDate>
-      <description>Troy Hunt</description>
-    </item>
-    <item>
-      <title>What requirements don't you have?</title>
-      <link>https://seangoedecke.com/what-requirements-dont-you-have/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/what-requirements-dont-you-have/</guid>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
     </item>
   </channel>
 </rss>

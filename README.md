@@ -208,11 +208,11 @@ Last Updated: Tuesday, October 27th, 2026, 11:20:14 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [The NYT Seemingly Does Marissa Mayer Dirty](https://www.nytimes.com/2026/10/25/style/marissa-mayer-ai-assistants-women.html?unlocked_article_code=1.L1E.xBwx.X_EjBGNsRNqr) — *Daring Fireball* `10-27`
+- [Apple Issues Statement on iPhone Duo’s Crack Problem](https://9to5mac.com/2026/10/26/apple-responds-to-reports-of-iphone-duos-inner-display-cracking/) — *Daring Fireball* `10-26`
+- [GPT-6.1 Terra](https://simonwillison.net/2026/Oct/26/gpt-61-terra/) — *Simon Willison's Weblog* `10-26`
 - [Glenn Fleishman on Apple Notes and Markdown](https://sixcolors.com/post/2026/10/why-notes-will-never-let-us-edit-markdown/) — *Daring Fireball* `10-26`
 - [Quoting Jason Koebler](https://simonwillison.net/2026/Oct/26/jason-koebler/) — *Simon Willison's Weblog* `10-26`
-- [Inversion in an ellipse](https://www.johndcook.com/blog/2026/10/26/inversion-in-an-ellipse/) — *John D. Cook* `10-26`
-- [★ Apple Announces New A20 Pro iPad Mini](https://daringfireball.net/2026/10/apple_announces_new_a20_pro_ipad_mini) — *Daring Fireball* `10-26`
-- [A Simple Two-Step Shortcuts Shortcut Lets You Lock the iPhone Duo When You Close It](https://x.com/viticci/status/2113888099784638932) — *Daring Fireball* `10-26`
 <!--BLOG_RADAR:end-->
 
 ---
