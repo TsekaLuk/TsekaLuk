@@ -208,11 +208,11 @@ Last Updated: Wednesday, October 28th, 2026, 1:14:47 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Pluralistic: History is something you do (27 Oct 2026)](https://pluralistic.net/2026/10/27/tied-to-the-tracks/) — *Pluralistic: Daily links from Cory Doctorow* `10-27`
-- [Weekly Update 527: Cybergeddon News v. Reality](https://www.troyhunt.com/weekly-update-527/) — *Troy Hunt* `10-27`
-- [The NYT Seemingly Does Marissa Mayer Dirty](https://www.nytimes.com/2026/10/25/style/marissa-mayer-ai-assistants-women.html?unlocked_article_code=1.L1E.xBwx.X_EjBGNsRNqr) — *Daring Fireball* `10-27`
-- [Apple Issues Statement on iPhone Duo’s Crack Problem](https://9to5mac.com/2026/10/26/apple-responds-to-reports-of-iphone-duos-inner-display-cracking/) — *Daring Fireball* `10-26`
-- [GPT-6.1 Terra](https://simonwillison.net/2026/Oct/26/gpt-61-terra/) — *Simon Willison's Weblog* `10-26`
+- [Apple Also Announces iMac With M6](https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/) — *Daring Fireball* `10-27`
+- [Noctua Fan Swap on a Calnex Rb/GPS Frequency Reference](https://www.jeffgeerling.com/blog/2026/noctua-fan-swap-calnex-rb-gps-frequency-reference/) — *Jeff Geerling* `10-27`
+- [[Sponsor] WorkOS: Let Agents Sign Up for Your App Without a Browser](https://workos.com/auth-md?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026) — *Daring Fireball* `10-27`
+- [Apple Introduces New Base MacBook Pro With M6, 14-Inch-Only](https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/) — *Daring Fireball* `10-27`
+- [I'm Full-Time Open Source Developer Now](https://blog.miguelgrinberg.com/post/i-m-full-time-open-source-developer-now) — *Miguel Grinberg's Blog* `10-27`
 <!--BLOG_RADAR:end-->
 
 ---
