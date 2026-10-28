@@ -208,11 +208,11 @@ Last Updated: Wednesday, October 28th, 2026, 7:57:37 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Siri AI Expands to More Languages in OS 27.2](https://nr.apple.com/Du9G9W8Nq1) — *Daring Fireball* `10-27`
-- [Apple Creator Studio Updated With a Slew of AI Features, Along With a New Open JSON File Format for Keynote](https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/) — *Daring Fireball* `10-27`
-- [★ Prestructured WYSIWYG](https://daringfireball.net/2026/10/prestructured_wysiwyg) — *Daring Fireball* `10-27`
-- [Game Boy Color on My Conference Badge](https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/) — *Simon Willison's Weblog* `10-27`
-- [What’s Left for ‘Pro and Tell’ Week: Touch-Enabled OLED MacBooks](https://www.macrumors.com/2026/10/27/macbook-pro-with-touchscreen-tomorrow/) — *Daring Fireball* `10-27`
+- [The Unbalanced Group Theorem](https://www.johndcook.com/blog/2026/10/28/the-unbalanced-group-theorem/) — *John D. Cook* `10-28`
+- [Pluralistic: Agents vs ecommerce (28 Oct 2026)](https://pluralistic.net/2026/10/28/principle-agent-problem/) — *Pluralistic: Daily links from Cory Doctorow* `10-28`
+- [Quoting Terk Terkowitz](https://simonwillison.net/2026/Oct/28/terk-terkowitz/) — *Simon Willison's Weblog* `10-28`
+- [This Week in Source Control: 28 October 2026](https://nesbitt.io/2026/10/28/this-week-in-source-control.html) — *Andrew Nesbitt* `10-28`
+- [Getting good at AI takes time and practice](https://seangoedecke.com/getting-good-at-ai-takes-time-and-practice/) — *seangoedecke.com RSS feed* `10-28`
 <!--BLOG_RADAR:end-->
 
 ---
