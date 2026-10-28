@@ -4,7 +4,56 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 28 Oct 2026 12:33:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 22:26:31 +0000</lastBuildDate>
+    <item>
+      <title>Exit Liquidity</title>
+      <link>https://www.wheresyoured.at/exit-liquidity/</link>
+      <guid isPermaLink="true">https://www.wheresyoured.at/exit-liquidity/</guid>
+      <pubDate>Wed, 28 Oct 2026 17:51:00 +0000</pubDate>
+      <description>Ed Zitron's Where's Your Ed At</description>
+    </item>
+    <item>
+      <title>GitHub Octoverse 2026</title>
+      <link>https://simonwillison.net/2026/Oct/28/github-octoverse-2026/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/28/github-octoverse-2026/</guid>
+      <pubDate>Wed, 28 Oct 2026 16:45:23 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Fake it ‘til you make it (and then keep faking it)</title>
+      <link>https://www.experimental-history.com/p/fake-it-til-you-make-it-and-then</link>
+      <guid isPermaLink="true">https://www.experimental-history.com/p/fake-it-til-you-make-it-and-then</guid>
+      <pubDate>Wed, 28 Oct 2026 15:36:04 +0000</pubDate>
+      <description>Experimental History</description>
+    </item>
+    <item>
+      <title>Guessing the Name: MacBook Studio?</title>
+      <link>https://www.macrumors.com/2026/10/28/macbook-studio/</link>
+      <guid isPermaLink="true">https://www.macrumors.com/2026/10/28/macbook-studio/</guid>
+      <pubDate>Wed, 28 Oct 2026 14:58:45 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>C++/WinRT overcorrection: Using make_self and immediately converting it to the projected interface</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20261028-00/?p=112803/</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261028-00/?p=112803/</guid>
+      <pubDate>Wed, 28 Oct 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>The October inflection point for vibe game development</title>
+      <link>https://simonwillison.net/2026/Oct/28/vibe-game-development/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/28/vibe-game-development/</guid>
+      <pubDate>Wed, 28 Oct 2026 13:55:15 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Gadget Review: SoundPEATS CC3 Pro Bluetooth Headphones ★★★★⯪</title>
+      <link>https://shkspr.mobi/blog/2026/10/gadget-review-soundpeats-cc3-pro-bluetooth-headphones/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/10/gadget-review-soundpeats-cc3-pro-bluetooth-headphones/</guid>
+      <pubDate>Wed, 28 Oct 2026 12:34:54 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
     <item>
       <title>The Unbalanced Group Theorem</title>
       <link>https://www.johndcook.com/blog/2026/10/28/the-unbalanced-group-theorem/</link>
@@ -39,6 +88,13 @@
       <guid isPermaLink="true">https://seangoedecke.com/getting-good-at-ai-takes-time-and-practice/</guid>
       <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Psychometrics, vaccines, meat, Kowloon, luggage destruction</title>
+      <link>https://dynomight.net/shorts-8/</link>
+      <guid isPermaLink="true">https://dynomight.net/shorts-8/</guid>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>Siri AI Expands to More Languages in OS 27.2</title>
@@ -104,7 +160,7 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>I'm Full-Time Open Source Developer Now</title>
+      <title>I'm a Full-Time Open Source Developer Now</title>
       <link>https://blog.miguelgrinberg.com/post/i-m-full-time-open-source-developer-now</link>
       <guid isPermaLink="true">https://blog.miguelgrinberg.com/post/i-m-full-time-open-source-developer-now</guid>
       <pubDate>Tue, 27 Oct 2026 16:00:42 +0000</pubDate>
@@ -128,7 +184,7 @@
       <title>The upvote dilemma</title>
       <link>https://herman.bearblog.dev/the-upvote-dilemma/</link>
       <guid isPermaLink="true">https://herman.bearblog.dev/the-upvote-dilemma/</guid>
-      <pubDate>Tue, 27 Oct 2026 13:05:30 +0000</pubDate>
+      <pubDate>Tue, 27 Oct 2026 13:05:00 +0000</pubDate>
       <description>Herman's blog</description>
     </item>
     <item>
@@ -788,62 +844,6 @@
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/php-vulnerability-php2shell/</guid>
       <pubDate>Wed, 21 Oct 2026 14:10:00 +0000</pubDate>
       <description>Jeff Geerling</description>
-    </item>
-    <item>
-      <title>Why didn’t we use Ro­Register­For­Apartment­Shutdown to clean up the unmarshalable delegate?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20261021-00/?p=112786/</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261021-00/?p=112786/</guid>
-      <pubDate>Wed, 21 Oct 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Deliberate imperfection</title>
-      <link>https://www.johndcook.com/blog/2026/10/21/deliberate-imperfection/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/10/21/deliberate-imperfection/</guid>
-      <pubDate>Wed, 21 Oct 2026 12:04:06 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>"No way to prevent this" say users of only language where this regularly happens</title>
-      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-94300/</link>
-      <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-94300/</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
-      <title>"No way to prevent this" say users of only language where this regularly happens</title>
-      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-111813/</link>
-      <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-111813/</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
-      <title>"No way to prevent this" say users of only language where this regularly happens</title>
-      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-111497/</link>
-      <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-111497/</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
-      <title>"No way to prevent this" say users of only language where this regularly happens</title>
-      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-107891/</link>
-      <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-107891/</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
-      <title>Jesus Christ patch your shit now</title>
-      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-109618/</link>
-      <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-109618/</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
-      <title>Rails is a JIT compiler</title>
-      <link>https://bernsteinbear.com/blog/rails-is-a-jit-compiler/?utm_source=rss</link>
-      <guid isPermaLink="true">https://bernsteinbear.com/blog/rails-is-a-jit-compiler/?utm_source=rss</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Max Bernstein's Blog</description>
     </item>
   </channel>
 </rss>

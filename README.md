@@ -208,11 +208,11 @@ Last Updated: Thursday, October 29th, 2026, 6:20:51 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [The Unbalanced Group Theorem](https://www.johndcook.com/blog/2026/10/28/the-unbalanced-group-theorem/) — *John D. Cook* `10-28`
-- [Pluralistic: Agents vs ecommerce (28 Oct 2026)](https://pluralistic.net/2026/10/28/principle-agent-problem/) — *Pluralistic: Daily links from Cory Doctorow* `10-28`
-- [Quoting Terk Terkowitz](https://simonwillison.net/2026/Oct/28/terk-terkowitz/) — *Simon Willison's Weblog* `10-28`
-- [This Week in Source Control: 28 October 2026](https://nesbitt.io/2026/10/28/this-week-in-source-control.html) — *Andrew Nesbitt* `10-28`
-- [Getting good at AI takes time and practice](https://seangoedecke.com/getting-good-at-ai-takes-time-and-practice/) — *seangoedecke.com RSS feed* `10-28`
+- [Exit Liquidity](https://www.wheresyoured.at/exit-liquidity/) — *Ed Zitron's Where's Your Ed At* `10-28`
+- [GitHub Octoverse 2026](https://simonwillison.net/2026/Oct/28/github-octoverse-2026/) — *Simon Willison's Weblog* `10-28`
+- [Fake it ‘til you make it (and then keep faking it)](https://www.experimental-history.com/p/fake-it-til-you-make-it-and-then) — *Experimental History* `10-28`
+- [Guessing the Name: MacBook Studio?](https://www.macrumors.com/2026/10/28/macbook-studio/) — *Daring Fireball* `10-28`
+- [C++/WinRT overcorrection: Using make_self and immediately converting it to the projected interface](https://devblogs.microsoft.com/oldnewthing/20261028-00/?p=112803/) — *The Old New Thing* `10-28`
 <!--BLOG_RADAR:end-->
 
 ---
