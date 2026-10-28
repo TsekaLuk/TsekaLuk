@@ -208,11 +208,11 @@ Last Updated: Wednesday, October 28th, 2026, 11:36:09 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Siri AI Expands to More Languages in OS 27.2](https://nr.apple.com/Du9G9W8Nq1) — *Daring Fireball* `10-27`
 - [Apple Creator Studio Updated With a Slew of AI Features, Along With a New Open JSON File Format for Keynote](https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/) — *Daring Fireball* `10-27`
 - [★ Prestructured WYSIWYG](https://daringfireball.net/2026/10/prestructured_wysiwyg) — *Daring Fireball* `10-27`
 - [Game Boy Color on My Conference Badge](https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/) — *Simon Willison's Weblog* `10-27`
 - [What’s Left for ‘Pro and Tell’ Week: Touch-Enabled OLED MacBooks](https://www.macrumors.com/2026/10/27/macbook-pro-with-touchscreen-tomorrow/) — *Daring Fireball* `10-27`
-- [Apple Also Announces iMac With M6](https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/) — *Daring Fireball* `10-27`
 <!--BLOG_RADAR:end-->
 
 ---
