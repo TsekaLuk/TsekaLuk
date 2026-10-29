@@ -4,7 +4,70 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 29 Oct 2026 12:43:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 22:38:43 +0000</lastBuildDate>
+    <item>
+      <title>Apple Drops App Store Commission by a Whopping 4 Percentage Points in Taiwan</title>
+      <link>https://developer.apple.com/news/?id=w9mxlhek</link>
+      <guid isPermaLink="true">https://developer.apple.com/news/?id=w9mxlhek</guid>
+      <pubDate>Thu, 29 Oct 2026 21:03:42 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>A Health Update From Craig Hockenberry</title>
+      <link>https://furbo.org/2026/10/28/a-health-update/</link>
+      <guid isPermaLink="true">https://furbo.org/2026/10/28/a-health-update/</guid>
+      <pubDate>Thu, 29 Oct 2026 19:57:21 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Rolfe Winkler at The WSJ: ‘The Beleaguered Chip Sellers Getting Their Revenge on Apple’</title>
+      <link>https://www.wsj.com/tech/apple-iphone-memory-chips-ai-c0084cc9?st=FNAyaT</link>
+      <guid isPermaLink="true">https://www.wsj.com/tech/apple-iphone-memory-chips-ai-c0084cc9?st=FNAyaT</guid>
+      <pubDate>Thu, 29 Oct 2026 19:44:11 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Celebrating SIM Cards</title>
+      <link>https://blog.jim-nielsen.com/2026/celebrating-sim-cards/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/celebrating-sim-cards/</guid>
+      <pubDate>Thu, 29 Oct 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
+    </item>
+    <item>
+      <title>Building a multiplayer game world with autonomous Fable-class models</title>
+      <link>https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/</guid>
+      <pubDate>Thu, 29 Oct 2026 17:00:26 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>What I learned about power from LBJ and Robert Moses</title>
+      <link>https://www.dwarkesh.com/p/lessons-in-power</link>
+      <guid isPermaLink="true">https://www.dwarkesh.com/p/lessons-in-power</guid>
+      <pubDate>Thu, 29 Oct 2026 16:48:39 +0000</pubDate>
+      <description>Dwarkesh Podcast</description>
+    </item>
+    <item>
+      <title>A New Kind of Chemistry</title>
+      <link>https://www.construction-physics.com/p/a-new-kind-of-chemistry</link>
+      <guid isPermaLink="true">https://www.construction-physics.com/p/a-new-kind-of-chemistry</guid>
+      <pubDate>Thu, 29 Oct 2026 15:45:10 +0000</pubDate>
+      <description>Construction Physics</description>
+    </item>
+    <item>
+      <title>The Space Shuttle Discovery’s Starboard Side ‘s’ Is Upside Down</title>
+      <link>https://www.theautopian.com/a-typography-geek-pointed-out-something-about-the-space-shuttle-discovery-and-now-i-cant-unsee-it/</link>
+      <guid isPermaLink="true">https://www.theautopian.com/a-typography-geek-pointed-out-something-about-the-space-shuttle-discovery-and-now-i-cant-unsee-it/</guid>
+      <pubDate>Thu, 29 Oct 2026 15:06:56 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Quoting Ben Hylak</title>
+      <link>https://simonwillison.net/2026/Oct/29/ben-hylak/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/29/ben-hylak/</guid>
+      <pubDate>Thu, 29 Oct 2026 14:06:27 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Steven Levy on the New MacBook Pro, With, Yes, a Touchscreen</title>
       <link>https://www.wired.com/story/the-inside-story-of-why-apple-finally-brought-a-touch-display-to-the-mac/</link>
@@ -18,6 +81,27 @@
       <guid isPermaLink="true">https://seangoedecke.com/you-can-just-ask-ai-to-do-things/</guid>
       <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Avoid Public Functions Calling Other Public Functions</title>
+      <link>https://matklad.github.io/2026/10/29/pub-calls-pub.html</link>
+      <guid isPermaLink="true">https://matklad.github.io/2026/10/29/pub-calls-pub.html</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <description>matklad</description>
+    </item>
+    <item>
+      <title>Custom Voices With Qwen3-TTS</title>
+      <link>https://lucumr.pocoo.org/2026/10/29/qwen3-custom-voices/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/10/29/qwen3-custom-voices/</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Armin Ronacher's Thoughts and Writings</description>
+    </item>
+    <item>
+      <title>Making agents fast - what I've learnt over the last 12 months</title>
+      <link>https://martinalderson.com/posts/making-agents-fast/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
+      <guid isPermaLink="true">https://martinalderson.com/posts/making-agents-fast/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Martin Alderson</description>
     </item>
     <item>
       <title>Quoting Ted Sanders</title>
@@ -760,90 +844,6 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/10/22/certificate-debacle/</guid>
       <pubDate>Thu, 22 Oct 2026 14:01:55 +0000</pubDate>
       <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Why didn’t we use Co­Register­Initialize­Spy to clean up the unmarshalable delegate?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20261022-00/?p=112791/</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261022-00/?p=112791/</guid>
-      <pubDate>Thu, 22 Oct 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>If people would just</title>
-      <link>https://herman.bearblog.dev/if-people-would-just/</link>
-      <guid isPermaLink="true">https://herman.bearblog.dev/if-people-would-just/</guid>
-      <pubDate>Thu, 22 Oct 2026 12:19:00 +0000</pubDate>
-      <description>Herman's blog</description>
-    </item>
-    <item>
-      <title>Gadget Review: Mokin 17 Port USB-C Tower ★★☆☆☆</title>
-      <link>https://shkspr.mobi/blog/2026/10/gadget-review-mokin-17-port-usb-c-tower/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/10/gadget-review-mokin-17-port-usb-c-tower/</guid>
-      <pubDate>Thu, 22 Oct 2026 11:34:36 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>The number of points on an elliptic curve</title>
-      <link>https://www.johndcook.com/blog/2026/10/22/the-number-of-points-on-an-elliptic-curve/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/10/22/the-number-of-points-on-an-elliptic-curve/</guid>
-      <pubDate>Thu, 22 Oct 2026 11:08:51 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>"No way to prevent this" say users of only language where this regularly happens</title>
-      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-93479/</link>
-      <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-93479/</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
-      <title>Script dependencies with Nix</title>
-      <link>https://entropicthoughts.com/python-dependencies-with-nix</link>
-      <guid isPermaLink="true">https://entropicthoughts.com/python-dependencies-with-nix</guid>
-      <pubDate>Wed, 21 Oct 2026 22:00:00 +0000</pubDate>
-      <description>Entropic Thoughts</description>
-    </item>
-    <item>
-      <title>Pluralistic: Adversarial interoperability is a team sport (21 Oct 2026)</title>
-      <link>https://pluralistic.net/2026/10/21/brittle-individualism/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/10/21/brittle-individualism/</guid>
-      <pubDate>Wed, 21 Oct 2026 20:05:21 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Can they write a function?</title>
-      <link>https://idiallo.com/blog/can-they-write-a-function</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/can-they-write-a-function</guid>
-      <pubDate>Wed, 21 Oct 2026 19:00:40 +0000</pubDate>
-      <description>Software and Tech stories from an Insider - iDiallo.com</description>
-    </item>
-    <item>
-      <title>No Need for Retirement When Utopia Is Around the Corner</title>
-      <link>https://blog.jim-nielsen.com/2026/skip-retirement-for-utopia/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/skip-retirement-for-utopia/</guid>
-      <pubDate>Wed, 21 Oct 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
-      <title>Today's PHP Security Release, and How We're Strengthening PHP Security</title>
-      <link>https://simonwillison.net/2026/Oct/21/php-security-release/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/21/php-security-release/</guid>
-      <pubDate>Wed, 21 Oct 2026 18:41:53 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Panache — RTS Belle Époque pour mobile</title>
-      <link>https://simonwillison.net/2026/Oct/21/panache/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/21/panache/</guid>
-      <pubDate>Wed, 21 Oct 2026 16:25:16 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Going Somewhere</title>
-      <link>https://simone.org/somewhere/</link>
-      <guid isPermaLink="true">https://simone.org/somewhere/</guid>
-      <pubDate>Wed, 21 Oct 2026 16:14:51 +0000</pubDate>
-      <description>Simone Salis</description>
     </item>
   </channel>
 </rss>

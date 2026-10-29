@@ -208,11 +208,11 @@ Last Updated: Friday, October 30th, 2026, 6:19:16 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Steven Levy on the New MacBook Pro, With, Yes, a Touchscreen](https://www.wired.com/story/the-inside-story-of-why-apple-finally-brought-a-touch-display-to-the-mac/) — *Daring Fireball* `10-29`
-- [You can just ask AI to do things](https://seangoedecke.com/you-can-just-ask-ai-to-do-things/) — *seangoedecke.com RSS feed* `10-29`
-- [Quoting Ted Sanders](https://simonwillison.net/2026/Oct/28/ted-sanders/) — *Simon Willison's Weblog* `10-28`
-- [Extremely brief history of PDP computers](https://entropicthoughts.com/history-of-pdp-computers) — *Entropic Thoughts* `10-28`
-- [Exit Liquidity](https://www.wheresyoured.at/exit-liquidity/) — *Ed Zitron's Where's Your Ed At* `10-28`
+- [Apple Drops App Store Commission by a Whopping 4 Percentage Points in Taiwan](https://developer.apple.com/news/?id=w9mxlhek) — *Daring Fireball* `10-29`
+- [A Health Update From Craig Hockenberry](https://furbo.org/2026/10/28/a-health-update/) — *Daring Fireball* `10-29`
+- [Rolfe Winkler at The WSJ: ‘The Beleaguered Chip Sellers Getting Their Revenge on Apple’](https://www.wsj.com/tech/apple-iphone-memory-chips-ai-c0084cc9?st=FNAyaT) — *Daring Fireball* `10-29`
+- [Celebrating SIM Cards](https://blog.jim-nielsen.com/2026/celebrating-sim-cards/) — *Jim Nielsen’s Blog* `10-29`
+- [Building a multiplayer game world with autonomous Fable-class models](https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/) — *Simon Willison's Weblog* `10-29`
 <!--BLOG_RADAR:end-->
 
 ---
