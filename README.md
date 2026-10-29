@@ -208,11 +208,11 @@ Last Updated: Thursday, October 29th, 2026, 11:56:47 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Steven Levy on the New MacBook Pro, With, Yes, a Touchscreen](https://www.wired.com/story/the-inside-story-of-why-apple-finally-brought-a-touch-display-to-the-mac/) — *Daring Fireball* `10-29`
+- [Quoting Ted Sanders](https://simonwillison.net/2026/Oct/28/ted-sanders/) — *Simon Willison's Weblog* `10-28`
 - [Exit Liquidity](https://www.wheresyoured.at/exit-liquidity/) — *Ed Zitron's Where's Your Ed At* `10-28`
 - [GitHub Octoverse 2026](https://simonwillison.net/2026/Oct/28/github-octoverse-2026/) — *Simon Willison's Weblog* `10-28`
 - [Fake it ‘til you make it (and then keep faking it)](https://www.experimental-history.com/p/fake-it-til-you-make-it-and-then) — *Experimental History* `10-28`
-- [Guessing the Name: MacBook Studio?](https://www.macrumors.com/2026/10/28/macbook-studio/) — *Daring Fireball* `10-28`
-- [C++/WinRT overcorrection: Using make_self and immediately converting it to the projected interface](https://devblogs.microsoft.com/oldnewthing/20261028-00/?p=112803/) — *The Old New Thing* `10-28`
 <!--BLOG_RADAR:end-->
 
 ---

@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 28 Oct 2026 22:26:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 05:22:17 +0000</lastBuildDate>
+    <item>
+      <title>Steven Levy on the New MacBook Pro, With, Yes, a Touchscreen</title>
+      <link>https://www.wired.com/story/the-inside-story-of-why-apple-finally-brought-a-touch-display-to-the-mac/</link>
+      <guid isPermaLink="true">https://www.wired.com/story/the-inside-story-of-why-apple-finally-brought-a-touch-display-to-the-mac/</guid>
+      <pubDate>Thu, 29 Oct 2026 04:06:15 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Quoting Ted Sanders</title>
+      <link>https://simonwillison.net/2026/Oct/28/ted-sanders/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/28/ted-sanders/</guid>
+      <pubDate>Wed, 28 Oct 2026 23:23:21 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Exit Liquidity</title>
       <link>https://www.wheresyoured.at/exit-liquidity/</link>
@@ -447,18 +461,18 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>lighting the skies</title>
-      <link>https://computer.rip/2026-10-25-searchlights.html</link>
-      <guid isPermaLink="true">https://computer.rip/2026-10-25-searchlights.html</guid>
-      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
-      <description>computers are bad</description>
-    </item>
-    <item>
       <title>A rising tide raises all rents</title>
       <link>https://jyn.dev/rising-tide-raises-rents/</link>
       <guid isPermaLink="true">https://jyn.dev/rising-tide-raises-rents/</guid>
       <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
       <description>the website of jyn</description>
+    </item>
+    <item>
+      <title>lighting the skies</title>
+      <link>https://computer.rip/2026-10-25-searchlights.html</link>
+      <guid isPermaLink="true">https://computer.rip/2026-10-25-searchlights.html</guid>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+      <description>computers are bad</description>
     </item>
     <item>
       <title>Nicole Nguyen’s Duo Review for the WSJ</title>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/</guid>
       <pubDate>Wed, 21 Oct 2026 15:26:07 +0000</pubDate>
       <description>Krebs on Security</description>
-    </item>
-    <item>
-      <title>Backdoors, Incompetence, and Elliptic Curves</title>
-      <link>https://www.johndcook.com/blog/2026/10/21/emudhra/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/10/21/emudhra/</guid>
-      <pubDate>Wed, 21 Oct 2026 15:16:51 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Upgrade your PHP installs immediately to protect against php2shell</title>
-      <link>https://www.jeffgeerling.com/blog/2026/php-vulnerability-php2shell/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/php-vulnerability-php2shell/</guid>
-      <pubDate>Wed, 21 Oct 2026 14:10:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
     </item>
   </channel>
 </rss>
