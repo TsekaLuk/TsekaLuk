@@ -209,10 +209,10 @@ Last Updated: Thursday, October 29th, 2026, 8:06:56 PM
 
 <!--BLOG_RADAR:start-->
 - [Steven Levy on the New MacBook Pro, With, Yes, a Touchscreen](https://www.wired.com/story/the-inside-story-of-why-apple-finally-brought-a-touch-display-to-the-mac/) — *Daring Fireball* `10-29`
+- [You can just ask AI to do things](https://seangoedecke.com/you-can-just-ask-ai-to-do-things/) — *seangoedecke.com RSS feed* `10-29`
 - [Quoting Ted Sanders](https://simonwillison.net/2026/Oct/28/ted-sanders/) — *Simon Willison's Weblog* `10-28`
+- [Extremely brief history of PDP computers](https://entropicthoughts.com/history-of-pdp-computers) — *Entropic Thoughts* `10-28`
 - [Exit Liquidity](https://www.wheresyoured.at/exit-liquidity/) — *Ed Zitron's Where's Your Ed At* `10-28`
-- [GitHub Octoverse 2026](https://simonwillison.net/2026/Oct/28/github-octoverse-2026/) — *Simon Willison's Weblog* `10-28`
-- [Fake it ‘til you make it (and then keep faking it)](https://www.experimental-history.com/p/fake-it-til-you-make-it-and-then) — *Experimental History* `10-28`
 <!--BLOG_RADAR:end-->
 
 ---
