@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 29 Oct 2026 22:38:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 05:22:00 +0000</lastBuildDate>
+    <item>
+      <title>API credits benefit for eligible ChatGPT subscriptions</title>
+      <link>https://simonwillison.net/2026/Oct/29/api-credits/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/29/api-credits/</guid>
+      <pubDate>Thu, 29 Oct 2026 22:48:29 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Apple Drops App Store Commission by a Whopping 4 Percentage Points in Taiwan</title>
       <link>https://developer.apple.com/news/?id=w9mxlhek</link>
@@ -69,11 +76,25 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
+      <title>The support case of a customer who said that all they could see was a black screen</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20261029-00/?p=112808/</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261029-00/?p=112808/</guid>
+      <pubDate>Thu, 29 Oct 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
+    <item>
       <title>Steven Levy on the New MacBook Pro, With, Yes, a Touchscreen</title>
       <link>https://www.wired.com/story/the-inside-story-of-why-apple-finally-brought-a-touch-display-to-the-mac/</link>
       <guid isPermaLink="true">https://www.wired.com/story/the-inside-story-of-why-apple-finally-brought-a-touch-display-to-the-mac/</guid>
       <pubDate>Thu, 29 Oct 2026 04:06:15 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>"No way to prevent this" say users of only language where this regularly happens</title>
+      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-98432/</link>
+      <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-98432/</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>You can just ask AI to do things</title>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://buttondown.com/hillelwayne/archive/nyc-new-webinar-differential-testing/</guid>
       <pubDate>Thu, 22 Oct 2026 15:14:05 +0000</pubDate>
       <description>Computer Things</description>
-    </item>
-    <item>
-      <title>Working around a strange Python problem</title>
-      <link>https://www.johndcook.com/blog/2026/10/22/pep-723/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/10/22/pep-723/</guid>
-      <pubDate>Thu, 22 Oct 2026 15:12:10 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>What will computer chips look like in 2045?</title>
-      <link>https://www.dwarkesh.com/p/intel-tour</link>
-      <guid isPermaLink="true">https://www.dwarkesh.com/p/intel-tour</guid>
-      <pubDate>Thu, 22 Oct 2026 15:02:21 +0000</pubDate>
-      <description>Dwarkesh Podcast</description>
-    </item>
-    <item>
-      <title>How the eMudrha certificate debacle might have happened</title>
-      <link>https://www.johndcook.com/blog/2026/10/22/certificate-debacle/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/10/22/certificate-debacle/</guid>
-      <pubDate>Thu, 22 Oct 2026 14:01:55 +0000</pubDate>
-      <description>John D. Cook</description>
     </item>
   </channel>
 </rss>

@@ -208,11 +208,11 @@ Last Updated: Friday, October 30th, 2026, 11:58:05 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [API credits benefit for eligible ChatGPT subscriptions](https://simonwillison.net/2026/Oct/29/api-credits/) — *Simon Willison's Weblog* `10-29`
 - [Apple Drops App Store Commission by a Whopping 4 Percentage Points in Taiwan](https://developer.apple.com/news/?id=w9mxlhek) — *Daring Fireball* `10-29`
 - [A Health Update From Craig Hockenberry](https://furbo.org/2026/10/28/a-health-update/) — *Daring Fireball* `10-29`
 - [Rolfe Winkler at The WSJ: ‘The Beleaguered Chip Sellers Getting Their Revenge on Apple’](https://www.wsj.com/tech/apple-iphone-memory-chips-ai-c0084cc9?st=FNAyaT) — *Daring Fireball* `10-29`
 - [Celebrating SIM Cards](https://blog.jim-nielsen.com/2026/celebrating-sim-cards/) — *Jim Nielsen’s Blog* `10-29`
-- [Building a multiplayer game world with autonomous Fable-class models](https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/) — *Simon Willison's Weblog* `10-29`
 <!--BLOG_RADAR:end-->
 
 ---
