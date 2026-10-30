@@ -4,7 +4,63 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 30 Oct 2026 12:35:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 22:09:04 +0000</lastBuildDate>
+    <item>
+      <title>dbreunig/nesformer</title>
+      <link>https://simonwillison.net/2026/Oct/30/nesformer/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/30/nesformer/</guid>
+      <pubDate>Fri, 30 Oct 2026 21:59:22 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>★ MacBook Pro Pricing and Configurations for M6, M5 Pro, and M5 Max</title>
+      <link>https://daringfireball.net/2026/10/macbook_pro_pricing_and_configurations_for_m6_m5_pro_and_m5_max</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/10/macbook_pro_pricing_and_configurations_for_m6_m5_pro_and_m5_max</guid>
+      <pubDate>Fri, 30 Oct 2026 21:56:10 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>The Only Good Easter Eggs Are Whole-Assed Easter Eggs</title>
+      <link>https://unsung.aresluna.org/apples-ipod-recreation/</link>
+      <guid isPermaLink="true">https://unsung.aresluna.org/apples-ipod-recreation/</guid>
+      <pubDate>Fri, 30 Oct 2026 17:53:41 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>GM to Pay $220 Million After Betraying Their Own Drivers’ Privacy</title>
+      <link>https://www.reuters.com/business/autos-transportation/gm-pay-220-million-settle-allegations-it-violated-consumers-privacy-2026-10-29/</link>
+      <guid isPermaLink="true">https://www.reuters.com/business/autos-transportation/gm-pay-220-million-settle-allegations-it-violated-consumers-privacy-2026-10-29/</guid>
+      <pubDate>Fri, 30 Oct 2026 17:18:56 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>This Week on The Analog Antiquarian</title>
+      <link>https://www.filfre.net/2026/10/this-week-on-the-analog-antiquarian/</link>
+      <guid isPermaLink="true">https://www.filfre.net/2026/10/this-week-on-the-analog-antiquarian/</guid>
+      <pubDate>Fri, 30 Oct 2026 17:03:04 +0000</pubDate>
+      <description>The Digital Antiquarian</description>
+    </item>
+    <item>
+      <title>Robert Caro – The master biographer reflects at 91</title>
+      <link>https://www.dwarkesh.com/p/robert-caro</link>
+      <guid isPermaLink="true">https://www.dwarkesh.com/p/robert-caro</guid>
+      <pubDate>Fri, 30 Oct 2026 16:56:02 +0000</pubDate>
+      <description>Dwarkesh Podcast</description>
+    </item>
+    <item>
+      <title>Patrick Stewart Dies at 86</title>
+      <link>https://www.hollywoodreporter.com/movies/movie-news/patrick-stewart-dead-star-trek-x-men-1236742932/</link>
+      <guid isPermaLink="true">https://www.hollywoodreporter.com/movies/movie-news/patrick-stewart-dead-star-trek-x-men-1236742932/</guid>
+      <pubDate>Fri, 30 Oct 2026 16:53:09 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Rejoice, leap seconds are dead!</title>
+      <link>https://www.jeffgeerling.com/blog/2026/rejoice-the-utc-leap-second-is-dead/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/rejoice-the-utc-leap-second-is-dead/</guid>
+      <pubDate>Fri, 30 Oct 2026 14:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
+    </item>
     <item>
       <title>Book Review: The God of Small Things by Arundhati Roy ★★☆☆☆</title>
       <link>https://shkspr.mobi/blog/2026/10/book-review-the-god-of-small-things-by-arundhati-roy/</link>
@@ -125,6 +181,13 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
+      <title>Custom Voices With Qwen3-TTS</title>
+      <link>https://lucumr.pocoo.org/2026/10/29/qwen3-custom-voices/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/10/29/qwen3-custom-voices/</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Armin Ronacher's Thoughts and Writings</description>
+    </item>
+    <item>
       <title>Avoid Public Functions Calling Other Public Functions</title>
       <link>https://matklad.github.io/2026/10/29/pub-calls-pub.html</link>
       <guid isPermaLink="true">https://matklad.github.io/2026/10/29/pub-calls-pub.html</guid>
@@ -137,13 +200,6 @@
       <guid isPermaLink="true">https://martinalderson.com/posts/making-agents-fast/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
       <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
       <description>Martin Alderson</description>
-    </item>
-    <item>
-      <title>Custom Voices With Qwen3-TTS</title>
-      <link>https://lucumr.pocoo.org/2026/10/29/qwen3-custom-voices/</link>
-      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/10/29/qwen3-custom-voices/</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
       <title>Quoting Ted Sanders</title>
@@ -601,18 +657,18 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>A rising tide raises all rents</title>
-      <link>https://jyn.dev/rising-tide-raises-rents/</link>
-      <guid isPermaLink="true">https://jyn.dev/rising-tide-raises-rents/</guid>
-      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
-      <description>the website of jyn</description>
-    </item>
-    <item>
       <title>lighting the skies</title>
       <link>https://computer.rip/2026-10-25-searchlights.html</link>
       <guid isPermaLink="true">https://computer.rip/2026-10-25-searchlights.html</guid>
       <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
       <description>computers are bad</description>
+    </item>
+    <item>
+      <title>A rising tide raises all rents</title>
+      <link>https://jyn.dev/rising-tide-raises-rents/</link>
+      <guid isPermaLink="true">https://jyn.dev/rising-tide-raises-rents/</guid>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+      <description>the website of jyn</description>
     </item>
     <item>
       <title>Nicole Nguyen’s Duo Review for the WSJ</title>
@@ -762,6 +818,13 @@
       <description>Ed Zitron's Where's Your Ed At</description>
     </item>
     <item>
+      <title>An Ion Storm!, Part 2: The Return to Ground Level</title>
+      <link>https://www.filfre.net/2026/10/an-ion-storm-part-2-the-return-to-ground-level/</link>
+      <guid isPermaLink="true">https://www.filfre.net/2026/10/an-ion-storm-part-2-the-return-to-ground-level/</guid>
+      <pubDate>Fri, 23 Oct 2026 16:19:26 +0000</pubDate>
+      <description>The Digital Antiquarian</description>
+    </item>
+    <item>
       <title>Joanna Stern Reviews the Duo: ‘The Good, the Bad, and the Buggy’</title>
       <link>https://www.youtube.com/watch?v=bxDTWuL9GxY</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=bxDTWuL9GxY</guid>
@@ -781,69 +844,6 @@
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/ubiquiti-vape-detector-teardown/</guid>
       <pubDate>Fri, 23 Oct 2026 13:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
-    </item>
-    <item>
-      <title>More phishing messages via Booking.com and Novotel</title>
-      <link>https://shkspr.mobi/blog/2026/10/more-phishing-messages-via-booking-com-and-novotel/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/10/more-phishing-messages-via-booking-com-and-novotel/</guid>
-      <pubDate>Fri, 23 Oct 2026 11:34:15 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>One Small Bug</title>
-      <link>https://nesbitt.io/2026/10/23/one-small-bug.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/10/23/one-small-bug.html</guid>
-      <pubDate>Fri, 23 Oct 2026 09:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>"No way to prevent this" say users of only language where this regularly happens</title>
-      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-89078/</link>
-      <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-89078/</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
-      <title>Software is slow because of bad design, not slow languages</title>
-      <link>https://seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>DE STAAT - FREEDOM (Official Music Video)</title>
-      <link>https://simonwillison.net/2026/Oct/22/de-staat-freedom/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/22/de-staat-freedom/</guid>
-      <pubDate>Thu, 22 Oct 2026 19:42:26 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Apple Highlights 50+ iPhone Apps That Have Already Been Optimized for the Duo</title>
-      <link>https://www.apple.com/newsroom/2026/10/developers-bring-incredible-new-app-experiences-to-iphone-duo/</link>
-      <guid isPermaLink="true">https://www.apple.com/newsroom/2026/10/developers-bring-incredible-new-app-experiences-to-iphone-duo/</guid>
-      <pubDate>Thu, 22 Oct 2026 19:10:10 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Updates to My iPhone Duo Review</title>
-      <link>https://daringfireball.net/2026/10/the_iphone_duo</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/10/the_iphone_duo</guid>
-      <pubDate>Thu, 22 Oct 2026 18:49:38 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Donating Agent Skills to the Agentic AI Foundation</title>
-      <link>https://simonwillison.net/2026/Oct/22/donating-agent-skills/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/22/donating-agent-skills/</guid>
-      <pubDate>Thu, 22 Oct 2026 18:09:56 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Productivity</title>
-      <link>https://idiallo.com/byte-size/productivity-video</link>
-      <guid isPermaLink="true">https://idiallo.com/byte-size/productivity-video</guid>
-      <pubDate>Thu, 22 Oct 2026 16:56:14 +0000</pubDate>
-      <description>Software and Tech stories from an Insider - iDiallo.com</description>
     </item>
   </channel>
 </rss>

@@ -208,11 +208,11 @@ Last Updated: Saturday, October 31st, 2026, 5:52:09 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Book Review: The God of Small Things by Arundhati Roy ★★☆☆☆](https://shkspr.mobi/blog/2026/10/book-review-the-god-of-small-things-by-arundhati-roy/) — *Terence Eden’s Blog* `10-30`
-- [Signing and Attestations Across Package Registries](https://nesbitt.io/2026/10/30/signing-and-attestations-across-package-registries.html) — *Andrew Nesbitt* `10-30`
-- [Elegance and intelligence are anticorrelated](https://seangoedecke.com/elegance-and-intelligence-are-anticorrelated/) — *seangoedecke.com RSS feed* `10-30`
-- [API credits benefit for eligible ChatGPT subscriptions](https://simonwillison.net/2026/Oct/29/api-credits/) — *Simon Willison's Weblog* `10-29`
-- [Apple Drops App Store Commission by a Whopping 4 Percentage Points in Taiwan](https://developer.apple.com/news/?id=w9mxlhek) — *Daring Fireball* `10-29`
+- [dbreunig/nesformer](https://simonwillison.net/2026/Oct/30/nesformer/) — *Simon Willison's Weblog* `10-30`
+- [★ MacBook Pro Pricing and Configurations for M6, M5 Pro, and M5 Max](https://daringfireball.net/2026/10/macbook_pro_pricing_and_configurations_for_m6_m5_pro_and_m5_max) — *Daring Fireball* `10-30`
+- [The Only Good Easter Eggs Are Whole-Assed Easter Eggs](https://unsung.aresluna.org/apples-ipod-recreation/) — *Daring Fireball* `10-30`
+- [GM to Pay $220 Million After Betraying Their Own Drivers’ Privacy](https://www.reuters.com/business/autos-transportation/gm-pay-220-million-settle-allegations-it-violated-consumers-privacy-2026-10-29/) — *Daring Fireball* `10-30`
+- [This Week on The Analog Antiquarian](https://www.filfre.net/2026/10/this-week-on-the-analog-antiquarian/) — *The Digital Antiquarian* `10-30`
 <!--BLOG_RADAR:end-->
 
 ---
