@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 30 Oct 2026 05:22:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 12:35:46 +0000</lastBuildDate>
+    <item>
+      <title>Book Review: The God of Small Things by Arundhati Roy ★★☆☆☆</title>
+      <link>https://shkspr.mobi/blog/2026/10/book-review-the-god-of-small-things-by-arundhati-roy/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/10/book-review-the-god-of-small-things-by-arundhati-roy/</guid>
+      <pubDate>Fri, 30 Oct 2026 12:34:22 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Signing and Attestations Across Package Registries</title>
+      <link>https://nesbitt.io/2026/10/30/signing-and-attestations-across-package-registries.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/10/30/signing-and-attestations-across-package-registries.html</guid>
+      <pubDate>Fri, 30 Oct 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>Elegance and intelligence are anticorrelated</title>
+      <link>https://seangoedecke.com/elegance-and-intelligence-are-anticorrelated/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/elegance-and-intelligence-are-anticorrelated/</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
+    </item>
     <item>
       <title>API credits benefit for eligible ChatGPT subscriptions</title>
       <link>https://simonwillison.net/2026/Oct/29/api-credits/</link>
@@ -111,18 +132,18 @@
       <description>matklad</description>
     </item>
     <item>
-      <title>Custom Voices With Qwen3-TTS</title>
-      <link>https://lucumr.pocoo.org/2026/10/29/qwen3-custom-voices/</link>
-      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/10/29/qwen3-custom-voices/</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Armin Ronacher's Thoughts and Writings</description>
-    </item>
-    <item>
       <title>Making agents fast - what I've learnt over the last 12 months</title>
       <link>https://martinalderson.com/posts/making-agents-fast/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
       <guid isPermaLink="true">https://martinalderson.com/posts/making-agents-fast/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
       <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
       <description>Martin Alderson</description>
+    </item>
+    <item>
+      <title>Custom Voices With Qwen3-TTS</title>
+      <link>https://lucumr.pocoo.org/2026/10/29/qwen3-custom-voices/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/10/29/qwen3-custom-voices/</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
       <title>Quoting Ted Sanders</title>
@@ -580,18 +601,18 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>lighting the skies</title>
-      <link>https://computer.rip/2026-10-25-searchlights.html</link>
-      <guid isPermaLink="true">https://computer.rip/2026-10-25-searchlights.html</guid>
-      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
-      <description>computers are bad</description>
-    </item>
-    <item>
       <title>A rising tide raises all rents</title>
       <link>https://jyn.dev/rising-tide-raises-rents/</link>
       <guid isPermaLink="true">https://jyn.dev/rising-tide-raises-rents/</guid>
       <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
       <description>the website of jyn</description>
+    </item>
+    <item>
+      <title>lighting the skies</title>
+      <link>https://computer.rip/2026-10-25-searchlights.html</link>
+      <guid isPermaLink="true">https://computer.rip/2026-10-25-searchlights.html</guid>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+      <description>computers are bad</description>
     </item>
     <item>
       <title>Nicole Nguyen’s Duo Review for the WSJ</title>
@@ -741,13 +762,6 @@
       <description>Ed Zitron's Where's Your Ed At</description>
     </item>
     <item>
-      <title>An Ion Storm!, Part 2: The Return to Ground Level</title>
-      <link>https://www.filfre.net/2026/10/an-ion-storm-part-2-the-return-to-ground-level/</link>
-      <guid isPermaLink="true">https://www.filfre.net/2026/10/an-ion-storm-part-2-the-return-to-ground-level/</guid>
-      <pubDate>Fri, 23 Oct 2026 16:19:26 +0000</pubDate>
-      <description>The Digital Antiquarian</description>
-    </item>
-    <item>
       <title>Joanna Stern Reviews the Duo: ‘The Good, the Bad, and the Buggy’</title>
       <link>https://www.youtube.com/watch?v=bxDTWuL9GxY</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=bxDTWuL9GxY</guid>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://idiallo.com/byte-size/productivity-video</guid>
       <pubDate>Thu, 22 Oct 2026 16:56:14 +0000</pubDate>
       <description>Software and Tech stories from an Insider - iDiallo.com</description>
-    </item>
-    <item>
-      <title>Quoting Armin Ronacher</title>
-      <link>https://simonwillison.net/2026/Oct/22/armin-ronacher/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/22/armin-ronacher/</guid>
-      <pubDate>Thu, 22 Oct 2026 15:34:13 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>NYC, New Webinar, Differential Testing</title>
-      <link>https://buttondown.com/hillelwayne/archive/nyc-new-webinar-differential-testing/</link>
-      <guid isPermaLink="true">https://buttondown.com/hillelwayne/archive/nyc-new-webinar-differential-testing/</guid>
-      <pubDate>Thu, 22 Oct 2026 15:14:05 +0000</pubDate>
-      <description>Computer Things</description>
     </item>
   </channel>
 </rss>

@@ -208,11 +208,11 @@ Last Updated: Friday, October 30th, 2026, 7:58:40 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Book Review: The God of Small Things by Arundhati Roy ★★☆☆☆](https://shkspr.mobi/blog/2026/10/book-review-the-god-of-small-things-by-arundhati-roy/) — *Terence Eden’s Blog* `10-30`
+- [Signing and Attestations Across Package Registries](https://nesbitt.io/2026/10/30/signing-and-attestations-across-package-registries.html) — *Andrew Nesbitt* `10-30`
+- [Elegance and intelligence are anticorrelated](https://seangoedecke.com/elegance-and-intelligence-are-anticorrelated/) — *seangoedecke.com RSS feed* `10-30`
 - [API credits benefit for eligible ChatGPT subscriptions](https://simonwillison.net/2026/Oct/29/api-credits/) — *Simon Willison's Weblog* `10-29`
 - [Apple Drops App Store Commission by a Whopping 4 Percentage Points in Taiwan](https://developer.apple.com/news/?id=w9mxlhek) — *Daring Fireball* `10-29`
-- [A Health Update From Craig Hockenberry](https://furbo.org/2026/10/28/a-health-update/) — *Daring Fireball* `10-29`
-- [Rolfe Winkler at The WSJ: ‘The Beleaguered Chip Sellers Getting Their Revenge on Apple’](https://www.wsj.com/tech/apple-iphone-memory-chips-ai-c0084cc9?st=FNAyaT) — *Daring Fireball* `10-29`
-- [Celebrating SIM Cards](https://blog.jim-nielsen.com/2026/celebrating-sim-cards/) — *Jim Nielsen’s Blog* `10-29`
 <!--BLOG_RADAR:end-->
 
 ---
