@@ -4,13 +4,48 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 31 Oct 2026 12:01:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 21:17:55 +0000</lastBuildDate>
+    <item>
+      <title>Report from the Vatican</title>
+      <link>https://garymarcus.substack.com/p/report-from-the-vatican</link>
+      <guid isPermaLink="true">https://garymarcus.substack.com/p/report-from-the-vatican</guid>
+      <pubDate>Sat, 31 Oct 2026 15:17:33 +0000</pubDate>
+      <description>Marcus on AI</description>
+    </item>
+    <item>
+      <title>Pluralistic: Formalities (31 Oct 2026)</title>
+      <link>https://pluralistic.net/2026/10/31/burn-berne/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/10/31/burn-berne/</guid>
+      <pubDate>Sat, 31 Oct 2026 15:15:59 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Reading List 10/31/26</title>
+      <link>https://www.construction-physics.com/p/reading-list-103126</link>
+      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-103126</guid>
+      <pubDate>Sat, 31 Oct 2026 12:34:23 +0000</pubDate>
+      <description>Construction Physics</description>
+    </item>
+    <item>
+      <title>Gig Review: The Witcher in Concert ★★★★☆</title>
+      <link>https://shkspr.mobi/blog/2026/10/gig-review-the-witcher-in-concert/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/10/gig-review-the-witcher-in-concert/</guid>
+      <pubDate>Sat, 31 Oct 2026 12:34:18 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
     <item>
       <title>This Week in Package Management: 31 October 2026</title>
       <link>https://nesbitt.io/2026/10/31/this-week-in-package-management.html</link>
       <guid isPermaLink="true">https://nesbitt.io/2026/10/31/this-week-in-package-management.html</guid>
       <pubDate>Sat, 31 Oct 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>Notes from October 2026</title>
+      <link>https://evanhahn.com/notes-from-october-2026/</link>
+      <guid isPermaLink="true">https://evanhahn.com/notes-from-october-2026/</guid>
+      <pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
+      <description>Evan Hahn (dot com)</description>
     </item>
     <item>
       <title>College will only cost $20 a month</title>
@@ -195,13 +230,6 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>"No way to prevent this" say users of only language where this regularly happens</title>
-      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-98432/</link>
-      <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-98432/</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
       <title>You can just ask AI to do things</title>
       <link>https://seangoedecke.com/you-can-just-ask-ai-to-do-things/</link>
       <guid isPermaLink="true">https://seangoedecke.com/you-can-just-ask-ai-to-do-things/</guid>
@@ -209,11 +237,11 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>Avoid Public Functions Calling Other Public Functions</title>
-      <link>https://matklad.github.io/2026/10/29/pub-calls-pub.html</link>
-      <guid isPermaLink="true">https://matklad.github.io/2026/10/29/pub-calls-pub.html</guid>
+      <title>"No way to prevent this" say users of only language where this regularly happens</title>
+      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-98432/</link>
+      <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-98432/</guid>
       <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-      <description>matklad</description>
+      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>Custom Voices With Qwen3-TTS</title>
@@ -221,6 +249,13 @@
       <guid isPermaLink="true">https://lucumr.pocoo.org/2026/10/29/qwen3-custom-voices/</guid>
       <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
       <description>Armin Ronacher's Thoughts and Writings</description>
+    </item>
+    <item>
+      <title>Avoid Public Functions Calling Other Public Functions</title>
+      <link>https://matklad.github.io/2026/10/29/pub-calls-pub.html</link>
+      <guid isPermaLink="true">https://matklad.github.io/2026/10/29/pub-calls-pub.html</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <description>matklad</description>
     </item>
     <item>
       <title>Making agents fast - what I've learnt over the last 12 months</title>
@@ -242,6 +277,13 @@
       <guid isPermaLink="true">https://entropicthoughts.com/history-of-pdp-computers</guid>
       <pubDate>Wed, 28 Oct 2026 23:00:00 +0000</pubDate>
       <description>Entropic Thoughts</description>
+    </item>
+    <item>
+      <title>Deus ex machina</title>
+      <link>https://blog.coredump.cx/p/deus-ex-machina</link>
+      <guid isPermaLink="true">https://blog.coredump.cx/p/deus-ex-machina</guid>
+      <pubDate>Wed, 28 Oct 2026 22:26:42 +0000</pubDate>
+      <description>lcamtuf’s thing</description>
     </item>
     <item>
       <title>Exit Liquidity</title>
@@ -517,6 +559,13 @@
       <description>Daring Fireball</description>
     </item>
     <item>
+      <title>What Anthropic left out of their draft S-1</title>
+      <link>https://garymarcus.substack.com/p/what-anthropic-left-out-of-their</link>
+      <guid isPermaLink="true">https://garymarcus.substack.com/p/what-anthropic-left-out-of-their</guid>
+      <pubDate>Mon, 26 Oct 2026 17:57:52 +0000</pubDate>
+      <description>Marcus on AI</description>
+    </item>
+    <item>
       <title>A Simple Two-Step Shortcuts Shortcut Lets You Lock the iPhone Duo When You Close It</title>
       <link>https://x.com/viticci/status/2113888099784638932</link>
       <guid isPermaLink="true">https://x.com/viticci/status/2113888099784638932</guid>
@@ -557,6 +606,13 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261026-00/?p=112797/</guid>
       <pubDate>Mon, 26 Oct 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>Generative AI’s make-or-break week?</title>
+      <link>https://garymarcus.substack.com/p/ais-make-or-break-week</link>
+      <guid isPermaLink="true">https://garymarcus.substack.com/p/ais-make-or-break-week</guid>
+      <pubDate>Mon, 26 Oct 2026 13:21:14 +0000</pubDate>
+      <description>Marcus on AI</description>
     </item>
     <item>
       <title>Theatre Review: Opera UnTouched's "The Telephone" ★★★★★</title>
@@ -734,11 +790,25 @@
       <description>Daring Fireball</description>
     </item>
     <item>
+      <title>Will Generative AI do more harm than good?</title>
+      <link>https://garymarcus.substack.com/p/will-generative-ai-do-more-harm-than</link>
+      <guid isPermaLink="true">https://garymarcus.substack.com/p/will-generative-ai-do-more-harm-than</guid>
+      <pubDate>Sat, 24 Oct 2026 19:32:01 +0000</pubDate>
+      <description>Marcus on AI</description>
+    </item>
+    <item>
       <title>Tim Pan’s iPhone Duo Review</title>
       <link>https://www.youtube.com/watch?v=8pCccpKjjos</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=8pCccpKjjos</guid>
       <pubDate>Sat, 24 Oct 2026 19:15:45 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Stop! Ontology time!</title>
+      <link>https://blog.coredump.cx/p/stop-ontology-time</link>
+      <guid isPermaLink="true">https://blog.coredump.cx/p/stop-ontology-time</guid>
+      <pubDate>Sat, 24 Oct 2026 16:25:38 +0000</pubDate>
+      <description>lcamtuf’s thing</description>
     </item>
     <item>
       <title>Apple Built a Photo-Realistic Functional Original iPod for Apple Music’s 404 Page</title>
@@ -774,76 +844,6 @@
       <guid isPermaLink="true">https://shkspr.mobi/blog/2026/10/book-review-get-ahead-of-being-dead-by-evie-king/</guid>
       <pubDate>Sat, 24 Oct 2026 11:34:25 +0000</pubDate>
       <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>This Week in Package Management: 24 October 2026</title>
-      <link>https://nesbitt.io/2026/10/24/this-week-in-package-management.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/10/24/this-week-in-package-management.html</guid>
-      <pubDate>Sat, 24 Oct 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>battledrones v14: Compass Rose, a four player map</title>
-      <link>https://simonwillison.net/2026/Oct/24/battledrones/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/24/battledrones/</guid>
-      <pubDate>Sat, 24 Oct 2026 03:59:57 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Interesting systemd features you may not know about</title>
-      <link>https://martinalderson.com/posts/interesting-systemd-features/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
-      <guid isPermaLink="true">https://martinalderson.com/posts/interesting-systemd-features/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
-      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Martin Alderson</description>
-    </item>
-    <item>
-      <title>Quick Study</title>
-      <link>https://simonwillison.net/2026/Oct/23/quick-study-painter/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/23/quick-study-painter/</guid>
-      <pubDate>Fri, 23 Oct 2026 21:35:13 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>How to install an app on your Commodore 64</title>
-      <link>https://anildash.com/2026/10/08/install-an-app-commodore-64/</link>
-      <guid isPermaLink="true">https://anildash.com/2026/10/08/install-an-app-commodore-64/</guid>
-      <pubDate>Fri, 23 Oct 2026 20:54:26 +0000</pubDate>
-      <description>Anil Dash</description>
-    </item>
-    <item>
-      <title>Pluralistic: Critique and writing (23 Oct 2026)</title>
-      <link>https://pluralistic.net/2026/10/23/better-to-give/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/10/23/better-to-give/</guid>
-      <pubDate>Fri, 23 Oct 2026 20:44:02 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Introducing Kimi K3.1 Pro</title>
-      <link>https://simonwillison.net/2026/Oct/23/kimi-k31-pro/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/23/kimi-k31-pro/</guid>
-      <pubDate>Fri, 23 Oct 2026 19:40:54 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>RMSNorm</title>
-      <link>https://www.gilesthomas.com/2026/10/rmsnorm</link>
-      <guid isPermaLink="true">https://www.gilesthomas.com/2026/10/rmsnorm</guid>
-      <pubDate>Fri, 23 Oct 2026 18:40:00 +0000</pubDate>
-      <description>Giles' blog</description>
-    </item>
-    <item>
-      <title>The Verge’s Duo Review: ‘Apple’s Folding Phone Is a Messy, Expensive Good Time’</title>
-      <link>https://www.theverge.com/tech/1015028/iphone-duo-review</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1015028/iphone-duo-review</guid>
-      <pubDate>Fri, 23 Oct 2026 16:52:56 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Premium: The Hater's Guide To Blackstone</title>
-      <link>https://www.wheresyoured.at/premium-the-haters-guide-to-blackstone/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/premium-the-haters-guide-to-blackstone/</guid>
-      <pubDate>Fri, 23 Oct 2026 16:28:34 +0000</pubDate>
-      <description>Ed Zitron's Where's Your Ed At</description>
     </item>
   </channel>
 </rss>
