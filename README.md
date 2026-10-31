@@ -208,11 +208,11 @@ Last Updated: Saturday, October 31st, 2026, 7:32:51 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [This Week in Package Management: 31 October 2026](https://nesbitt.io/2026/10/31/this-week-in-package-management.html) — *Andrew Nesbitt* `10-31`
 - [College will only cost $20 a month](https://idiallo.com/blog/college-will-cost-20-dollars) — *Software and Tech stories from an Insider - iDiallo.com* `10-30`
 - [Sponsorship Openings for Daring Fireball (Including The Talk Show)](https://daringfireball.net/feeds/sponsors/) — *Daring Fireball* `10-30`
 - [dbreunig/nesformer](https://simonwillison.net/2026/Oct/30/nesformer/) — *Simon Willison's Weblog* `10-30`
 - [★ MacBook Pro Pricing and Configurations for M6, M5 Pro, and M5 Max](https://daringfireball.net/2026/10/macbook_pro_pricing_and_configurations_for_m6_m5_pro_and_m5_max) — *Daring Fireball* `10-30`
-- [The Only Good Easter Eggs Are Whole-Assed Easter Eggs](https://unsung.aresluna.org/apples-ipod-recreation/) — *Daring Fireball* `10-30`
 <!--BLOG_RADAR:end-->
 
 ---

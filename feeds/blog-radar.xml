@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 31 Oct 2026 05:05:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 12:01:41 +0000</lastBuildDate>
+    <item>
+      <title>This Week in Package Management: 31 October 2026</title>
+      <link>https://nesbitt.io/2026/10/31/this-week-in-package-management.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/10/31/this-week-in-package-management.html</guid>
+      <pubDate>Sat, 31 Oct 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
     <item>
       <title>College will only cost $20 a month</title>
       <link>https://idiallo.com/blog/college-will-cost-20-dollars</link>
@@ -74,6 +81,13 @@
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/rejoice-the-utc-leap-second-is-dead/</guid>
       <pubDate>Fri, 30 Oct 2026 14:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>The Microsoft building that was reportedly haunted</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20261030-00/?p=112815/</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261030-00/?p=112815/</guid>
+      <pubDate>Fri, 30 Oct 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Book Review: The God of Small Things by Arundhati Roy ★★☆☆☆</title>
@@ -195,18 +209,18 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>Custom Voices With Qwen3-TTS</title>
-      <link>https://lucumr.pocoo.org/2026/10/29/qwen3-custom-voices/</link>
-      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/10/29/qwen3-custom-voices/</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Armin Ronacher's Thoughts and Writings</description>
-    </item>
-    <item>
       <title>Avoid Public Functions Calling Other Public Functions</title>
       <link>https://matklad.github.io/2026/10/29/pub-calls-pub.html</link>
       <guid isPermaLink="true">https://matklad.github.io/2026/10/29/pub-calls-pub.html</guid>
       <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
       <description>matklad</description>
+    </item>
+    <item>
+      <title>Custom Voices With Qwen3-TTS</title>
+      <link>https://lucumr.pocoo.org/2026/10/29/qwen3-custom-voices/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/10/29/qwen3-custom-voices/</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
       <title>Making agents fast - what I've learnt over the last 12 months</title>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://www.wheresyoured.at/premium-the-haters-guide-to-blackstone/</guid>
       <pubDate>Fri, 23 Oct 2026 16:28:34 +0000</pubDate>
       <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>An Ion Storm!, Part 2: The Return to Ground Level</title>
-      <link>https://www.filfre.net/2026/10/an-ion-storm-part-2-the-return-to-ground-level/</link>
-      <guid isPermaLink="true">https://www.filfre.net/2026/10/an-ion-storm-part-2-the-return-to-ground-level/</guid>
-      <pubDate>Fri, 23 Oct 2026 16:19:26 +0000</pubDate>
-      <description>The Digital Antiquarian</description>
-    </item>
-    <item>
-      <title>Joanna Stern Reviews the Duo: ‘The Good, the Bad, and the Buggy’</title>
-      <link>https://www.youtube.com/watch?v=bxDTWuL9GxY</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=bxDTWuL9GxY</guid>
-      <pubDate>Fri, 23 Oct 2026 14:42:06 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
