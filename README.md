@@ -208,11 +208,11 @@ Last Updated: Saturday, October 31st, 2026, 11:42:31 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [College will only cost $20 a month](https://idiallo.com/blog/college-will-cost-20-dollars) — *Software and Tech stories from an Insider - iDiallo.com* `10-30`
+- [Sponsorship Openings for Daring Fireball (Including The Talk Show)](https://daringfireball.net/feeds/sponsors/) — *Daring Fireball* `10-30`
 - [dbreunig/nesformer](https://simonwillison.net/2026/Oct/30/nesformer/) — *Simon Willison's Weblog* `10-30`
 - [★ MacBook Pro Pricing and Configurations for M6, M5 Pro, and M5 Max](https://daringfireball.net/2026/10/macbook_pro_pricing_and_configurations_for_m6_m5_pro_and_m5_max) — *Daring Fireball* `10-30`
 - [The Only Good Easter Eggs Are Whole-Assed Easter Eggs](https://unsung.aresluna.org/apples-ipod-recreation/) — *Daring Fireball* `10-30`
-- [GM to Pay $220 Million After Betraying Their Own Drivers’ Privacy](https://www.reuters.com/business/autos-transportation/gm-pay-220-million-settle-allegations-it-violated-consumers-privacy-2026-10-29/) — *Daring Fireball* `10-30`
-- [This Week on The Analog Antiquarian](https://www.filfre.net/2026/10/this-week-on-the-analog-antiquarian/) — *The Digital Antiquarian* `10-30`
 <!--BLOG_RADAR:end-->
 
 ---

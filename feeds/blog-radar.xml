@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 30 Oct 2026 22:09:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 05:05:40 +0000</lastBuildDate>
+    <item>
+      <title>College will only cost $20 a month</title>
+      <link>https://idiallo.com/blog/college-will-cost-20-dollars</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/college-will-cost-20-dollars</guid>
+      <pubDate>Fri, 30 Oct 2026 23:35:13 +0000</pubDate>
+      <description>Software and Tech stories from an Insider - iDiallo.com</description>
+    </item>
+    <item>
+      <title>Sponsorship Openings for Daring Fireball (Including The Talk Show)</title>
+      <link>https://daringfireball.net/feeds/sponsors/</link>
+      <guid isPermaLink="true">https://daringfireball.net/feeds/sponsors/</guid>
+      <pubDate>Fri, 30 Oct 2026 22:30:54 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>dbreunig/nesformer</title>
       <link>https://simonwillison.net/2026/Oct/30/nesformer/</link>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://www.youtube.com/watch?v=bxDTWuL9GxY</guid>
       <pubDate>Fri, 23 Oct 2026 14:42:06 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Why didn’t we use the COM static store to clean up the unmarshalable delegate?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20261023-00/?p=112793/</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261023-00/?p=112793/</guid>
-      <pubDate>Fri, 23 Oct 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Ubiquiti's $99 Vape Detector is actually pretty good</title>
-      <link>https://www.jeffgeerling.com/blog/2026/ubiquiti-vape-detector-teardown/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/ubiquiti-vape-detector-teardown/</guid>
-      <pubDate>Fri, 23 Oct 2026 13:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
     </item>
   </channel>
 </rss>
