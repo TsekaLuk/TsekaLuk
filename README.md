@@ -208,11 +208,11 @@ Last Updated: Sunday, November 1st, 2026, 11:51:11 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Report from the Vatican](https://garymarcus.substack.com/p/report-from-the-vatican) — *Marcus on AI* `10-31`
+- [Fast and slow ways to improve your reputation](https://seangoedecke.com/how-to-get-assigned-interesting-work/) — *seangoedecke.com RSS feed* `11-01`
+- [How We Took Over ChatGPT Accounts](https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/) — *Simon Willison's Weblog* `10-31`
+- [datasette-llm 0.1a9](https://simonwillison.net/2026/Oct/31/datasette-llm/) — *Simon Willison's Weblog* `10-31`
 - [Pluralistic: Formalities (31 Oct 2026)](https://pluralistic.net/2026/10/31/burn-berne/) — *Pluralistic: Daily links from Cory Doctorow* `10-31`
 - [Reading List 10/31/26](https://www.construction-physics.com/p/reading-list-103126) — *Construction Physics* `10-31`
-- [Gig Review: The Witcher in Concert ★★★★☆](https://shkspr.mobi/blog/2026/10/gig-review-the-witcher-in-concert/) — *Terence Eden’s Blog* `10-31`
-- [This Week in Package Management: 31 October 2026](https://nesbitt.io/2026/10/31/this-week-in-package-management.html) — *Andrew Nesbitt* `10-31`
 <!--BLOG_RADAR:end-->
 
 ---

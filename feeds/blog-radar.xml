@@ -4,13 +4,27 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 31 Oct 2026 21:17:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 05:36:45 +0000</lastBuildDate>
     <item>
-      <title>Report from the Vatican</title>
-      <link>https://garymarcus.substack.com/p/report-from-the-vatican</link>
-      <guid isPermaLink="true">https://garymarcus.substack.com/p/report-from-the-vatican</guid>
-      <pubDate>Sat, 31 Oct 2026 15:17:33 +0000</pubDate>
-      <description>Marcus on AI</description>
+      <title>Fast and slow ways to improve your reputation</title>
+      <link>https://seangoedecke.com/how-to-get-assigned-interesting-work/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/how-to-get-assigned-interesting-work/</guid>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>How We Took Over ChatGPT Accounts</title>
+      <link>https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/</guid>
+      <pubDate>Sat, 31 Oct 2026 23:15:22 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>datasette-llm 0.1a9</title>
+      <link>https://simonwillison.net/2026/Oct/31/datasette-llm/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/31/datasette-llm/</guid>
+      <pubDate>Sat, 31 Oct 2026 22:10:01 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
     <item>
       <title>Pluralistic: Formalities (31 Oct 2026)</title>
@@ -230,18 +244,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>You can just ask AI to do things</title>
-      <link>https://seangoedecke.com/you-can-just-ask-ai-to-do-things/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/you-can-just-ask-ai-to-do-things/</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
       <title>"No way to prevent this" say users of only language where this regularly happens</title>
       <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-98432/</link>
       <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-98432/</guid>
       <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
       <description>Xe Iaso's blog</description>
+    </item>
+    <item>
+      <title>You can just ask AI to do things</title>
+      <link>https://seangoedecke.com/you-can-just-ask-ai-to-do-things/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/you-can-just-ask-ai-to-do-things/</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
       <title>Custom Voices With Qwen3-TTS</title>
@@ -277,13 +291,6 @@
       <guid isPermaLink="true">https://entropicthoughts.com/history-of-pdp-computers</guid>
       <pubDate>Wed, 28 Oct 2026 23:00:00 +0000</pubDate>
       <description>Entropic Thoughts</description>
-    </item>
-    <item>
-      <title>Deus ex machina</title>
-      <link>https://blog.coredump.cx/p/deus-ex-machina</link>
-      <guid isPermaLink="true">https://blog.coredump.cx/p/deus-ex-machina</guid>
-      <pubDate>Wed, 28 Oct 2026 22:26:42 +0000</pubDate>
-      <description>lcamtuf’s thing</description>
     </item>
     <item>
       <title>Exit Liquidity</title>
@@ -559,13 +566,6 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>What Anthropic left out of their draft S-1</title>
-      <link>https://garymarcus.substack.com/p/what-anthropic-left-out-of-their</link>
-      <guid isPermaLink="true">https://garymarcus.substack.com/p/what-anthropic-left-out-of-their</guid>
-      <pubDate>Mon, 26 Oct 2026 17:57:52 +0000</pubDate>
-      <description>Marcus on AI</description>
-    </item>
-    <item>
       <title>A Simple Two-Step Shortcuts Shortcut Lets You Lock the iPhone Duo When You Close It</title>
       <link>https://x.com/viticci/status/2113888099784638932</link>
       <guid isPermaLink="true">https://x.com/viticci/status/2113888099784638932</guid>
@@ -606,13 +606,6 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261026-00/?p=112797/</guid>
       <pubDate>Mon, 26 Oct 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Generative AI’s make-or-break week?</title>
-      <link>https://garymarcus.substack.com/p/ais-make-or-break-week</link>
-      <guid isPermaLink="true">https://garymarcus.substack.com/p/ais-make-or-break-week</guid>
-      <pubDate>Mon, 26 Oct 2026 13:21:14 +0000</pubDate>
-      <description>Marcus on AI</description>
     </item>
     <item>
       <title>Theatre Review: Opera UnTouched's "The Telephone" ★★★★★</title>
@@ -790,25 +783,11 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Will Generative AI do more harm than good?</title>
-      <link>https://garymarcus.substack.com/p/will-generative-ai-do-more-harm-than</link>
-      <guid isPermaLink="true">https://garymarcus.substack.com/p/will-generative-ai-do-more-harm-than</guid>
-      <pubDate>Sat, 24 Oct 2026 19:32:01 +0000</pubDate>
-      <description>Marcus on AI</description>
-    </item>
-    <item>
       <title>Tim Pan’s iPhone Duo Review</title>
       <link>https://www.youtube.com/watch?v=8pCccpKjjos</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=8pCccpKjjos</guid>
       <pubDate>Sat, 24 Oct 2026 19:15:45 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Stop! Ontology time!</title>
-      <link>https://blog.coredump.cx/p/stop-ontology-time</link>
-      <guid isPermaLink="true">https://blog.coredump.cx/p/stop-ontology-time</guid>
-      <pubDate>Sat, 24 Oct 2026 16:25:38 +0000</pubDate>
-      <description>lcamtuf’s thing</description>
     </item>
     <item>
       <title>Apple Built a Photo-Realistic Functional Original iPod for Apple Music’s 404 Page</title>
@@ -844,6 +823,27 @@
       <guid isPermaLink="true">https://shkspr.mobi/blog/2026/10/book-review-get-ahead-of-being-dead-by-evie-king/</guid>
       <pubDate>Sat, 24 Oct 2026 11:34:25 +0000</pubDate>
       <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>This Week in Package Management: 24 October 2026</title>
+      <link>https://nesbitt.io/2026/10/24/this-week-in-package-management.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/10/24/this-week-in-package-management.html</guid>
+      <pubDate>Sat, 24 Oct 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>battledrones v14: Compass Rose, a four player map</title>
+      <link>https://simonwillison.net/2026/Oct/24/battledrones/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/24/battledrones/</guid>
+      <pubDate>Sat, 24 Oct 2026 03:59:57 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Interesting systemd features you may not know about</title>
+      <link>https://martinalderson.com/posts/interesting-systemd-features/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
+      <guid isPermaLink="true">https://martinalderson.com/posts/interesting-systemd-features/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Martin Alderson</description>
     </item>
   </channel>
 </rss>
