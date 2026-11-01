@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 01 Nov 2026 05:36:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 13:02:02 +0000</lastBuildDate>
+    <item>
+      <title>10 Years on Mastodon</title>
+      <link>https://shkspr.mobi/blog/2026/11/10-years-on-mastodon/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/11/10-years-on-mastodon/</guid>
+      <pubDate>Sun, 01 Nov 2026 12:34:18 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Weekly Update 528: Reading AI-generated Code &amp; the Economics of Solar</title>
+      <link>https://www.troyhunt.com/weekly-update-528/</link>
+      <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-528/</guid>
+      <pubDate>Sun, 01 Nov 2026 07:35:23 +0000</pubDate>
+      <description>Troy Hunt</description>
+    </item>
     <item>
       <title>Fast and slow ways to improve your reputation</title>
       <link>https://seangoedecke.com/how-to-get-assigned-interesting-work/</link>
@@ -258,18 +272,18 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>Custom Voices With Qwen3-TTS</title>
-      <link>https://lucumr.pocoo.org/2026/10/29/qwen3-custom-voices/</link>
-      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/10/29/qwen3-custom-voices/</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Armin Ronacher's Thoughts and Writings</description>
-    </item>
-    <item>
       <title>Avoid Public Functions Calling Other Public Functions</title>
       <link>https://matklad.github.io/2026/10/29/pub-calls-pub.html</link>
       <guid isPermaLink="true">https://matklad.github.io/2026/10/29/pub-calls-pub.html</guid>
       <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
       <description>matklad</description>
+    </item>
+    <item>
+      <title>Custom Voices With Qwen3-TTS</title>
+      <link>https://lucumr.pocoo.org/2026/10/29/qwen3-custom-voices/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/10/29/qwen3-custom-voices/</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
       <title>Making agents fast - what I've learnt over the last 12 months</title>
@@ -830,20 +844,6 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/10/24/this-week-in-package-management.html</guid>
       <pubDate>Sat, 24 Oct 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>battledrones v14: Compass Rose, a four player map</title>
-      <link>https://simonwillison.net/2026/Oct/24/battledrones/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/24/battledrones/</guid>
-      <pubDate>Sat, 24 Oct 2026 03:59:57 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Interesting systemd features you may not know about</title>
-      <link>https://martinalderson.com/posts/interesting-systemd-features/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
-      <guid isPermaLink="true">https://martinalderson.com/posts/interesting-systemd-features/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
-      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Martin Alderson</description>
     </item>
   </channel>
 </rss>

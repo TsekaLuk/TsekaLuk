@@ -208,11 +208,11 @@ Last Updated: Sunday, November 1st, 2026, 8:30:36 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [10 Years on Mastodon](https://shkspr.mobi/blog/2026/11/10-years-on-mastodon/) — *Terence Eden’s Blog* `11-01`
+- [Weekly Update 528: Reading AI-generated Code & the Economics of Solar](https://www.troyhunt.com/weekly-update-528/) — *Troy Hunt* `11-01`
 - [Fast and slow ways to improve your reputation](https://seangoedecke.com/how-to-get-assigned-interesting-work/) — *seangoedecke.com RSS feed* `11-01`
 - [How We Took Over ChatGPT Accounts](https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/) — *Simon Willison's Weblog* `10-31`
 - [datasette-llm 0.1a9](https://simonwillison.net/2026/Oct/31/datasette-llm/) — *Simon Willison's Weblog* `10-31`
-- [Pluralistic: Formalities (31 Oct 2026)](https://pluralistic.net/2026/10/31/burn-berne/) — *Pluralistic: Daily links from Cory Doctorow* `10-31`
-- [Reading List 10/31/26](https://www.construction-physics.com/p/reading-list-103126) — *Construction Physics* `10-31`
 <!--BLOG_RADAR:end-->
 
 ---
