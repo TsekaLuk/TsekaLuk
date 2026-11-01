@@ -208,11 +208,11 @@ Last Updated: Monday, November 2nd, 2026, 5:35:26 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [A unified view of poles and polars](https://www.johndcook.com/blog/2026/11/01/projective-poles-and-polars/) — *John D. Cook* `11-01`
+- [WorkOS: Let Agents Sign Up for Your App Without a Browser](https://workos.com/auth-md?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026) — *Daring Fireball* `11-01`
+- [Quoting Kyle Kingsbury](https://simonwillison.net/2026/Nov/1/kyle-kingsbury/) — *Simon Willison's Weblog* `11-01`
 - [10 Years on Mastodon](https://shkspr.mobi/blog/2026/11/10-years-on-mastodon/) — *Terence Eden’s Blog* `11-01`
-- [Weekly Update 528: Reading AI-generated Code & the Economics of Solar](https://www.troyhunt.com/weekly-update-528/) — *Troy Hunt* `11-01`
-- [Fast and slow ways to improve your reputation](https://seangoedecke.com/how-to-get-assigned-interesting-work/) — *seangoedecke.com RSS feed* `11-01`
-- [How We Took Over ChatGPT Accounts](https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/) — *Simon Willison's Weblog* `10-31`
-- [datasette-llm 0.1a9](https://simonwillison.net/2026/Oct/31/datasette-llm/) — *Simon Willison's Weblog* `10-31`
+- [A Mastodon bot powered by iOS Shortcuts](https://evanhahn.com/mastodon-bot-with-ios-shortcuts/) — *Evan Hahn (dot com)* `11-01`
 <!--BLOG_RADAR:end-->
 
 ---

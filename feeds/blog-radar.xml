@@ -4,13 +4,41 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 01 Nov 2026 13:02:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 21:54:49 +0000</lastBuildDate>
+    <item>
+      <title>A unified view of poles and polars</title>
+      <link>https://www.johndcook.com/blog/2026/11/01/projective-poles-and-polars/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/11/01/projective-poles-and-polars/</guid>
+      <pubDate>Sun, 01 Nov 2026 20:29:54 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>WorkOS: Let Agents Sign Up for Your App Without a Browser</title>
+      <link>https://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q42026</link>
+      <guid isPermaLink="true">https://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q42026</guid>
+      <pubDate>Sun, 01 Nov 2026 20:22:56 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Quoting Kyle Kingsbury</title>
+      <link>https://simonwillison.net/2026/Nov/1/kyle-kingsbury/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/1/kyle-kingsbury/</guid>
+      <pubDate>Sun, 01 Nov 2026 16:49:04 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>10 Years on Mastodon</title>
       <link>https://shkspr.mobi/blog/2026/11/10-years-on-mastodon/</link>
       <guid isPermaLink="true">https://shkspr.mobi/blog/2026/11/10-years-on-mastodon/</guid>
       <pubDate>Sun, 01 Nov 2026 12:34:18 +0000</pubDate>
       <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>A Mastodon bot powered by iOS Shortcuts</title>
+      <link>https://evanhahn.com/mastodon-bot-with-ios-shortcuts/</link>
+      <guid isPermaLink="true">https://evanhahn.com/mastodon-bot-with-ios-shortcuts/</guid>
+      <pubDate>Sun, 01 Nov 2026 11:00:00 +0000</pubDate>
+      <description>Evan Hahn (dot com)</description>
     </item>
     <item>
       <title>Weekly Update 528: Reading AI-generated Code &amp; the Economics of Solar</title>
@@ -447,13 +475,6 @@
       <description>Jeff Geerling</description>
     </item>
     <item>
-      <title>[Sponsor] WorkOS: Let Agents Sign Up for Your App Without a Browser</title>
-      <link>https://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q42026</link>
-      <guid isPermaLink="true">https://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q42026</guid>
-      <pubDate>Tue, 27 Oct 2026 16:03:08 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
       <title>Apple Introduces New Base MacBook Pro With M6, 14-Inch-Only</title>
       <link>https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/</link>
       <guid isPermaLink="true">https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/</guid>
@@ -748,18 +769,18 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>lighting the skies</title>
-      <link>https://computer.rip/2026-10-25-searchlights.html</link>
-      <guid isPermaLink="true">https://computer.rip/2026-10-25-searchlights.html</guid>
-      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
-      <description>computers are bad</description>
-    </item>
-    <item>
       <title>A rising tide raises all rents</title>
       <link>https://jyn.dev/rising-tide-raises-rents/</link>
       <guid isPermaLink="true">https://jyn.dev/rising-tide-raises-rents/</guid>
       <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
       <description>the website of jyn</description>
+    </item>
+    <item>
+      <title>lighting the skies</title>
+      <link>https://computer.rip/2026-10-25-searchlights.html</link>
+      <guid isPermaLink="true">https://computer.rip/2026-10-25-searchlights.html</guid>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+      <description>computers are bad</description>
     </item>
     <item>
       <title>Nicole Nguyen’s Duo Review for the WSJ</title>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/</guid>
       <pubDate>Sat, 24 Oct 2026 13:00:33 +0000</pubDate>
       <description>Steve Blank</description>
-    </item>
-    <item>
-      <title>Reading List 10/24/26</title>
-      <link>https://www.construction-physics.com/p/reading-list-102426</link>
-      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-102426</guid>
-      <pubDate>Sat, 24 Oct 2026 12:01:24 +0000</pubDate>
-      <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>Book Review: Get Ahead of Being Dead by Evie King ★★★★☆</title>
-      <link>https://shkspr.mobi/blog/2026/10/book-review-get-ahead-of-being-dead-by-evie-king/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/10/book-review-get-ahead-of-being-dead-by-evie-king/</guid>
-      <pubDate>Sat, 24 Oct 2026 11:34:25 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>This Week in Package Management: 24 October 2026</title>
-      <link>https://nesbitt.io/2026/10/24/this-week-in-package-management.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/10/24/this-week-in-package-management.html</guid>
-      <pubDate>Sat, 24 Oct 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
     </item>
   </channel>
 </rss>
