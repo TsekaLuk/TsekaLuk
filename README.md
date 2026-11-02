@@ -208,11 +208,11 @@ Last Updated: Monday, November 2nd, 2026, 10:31:15 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [If in doubt, delete the uv.lock file](https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/) — *Simon Willison's Weblog* `11-01`
-- [A unified view of poles and polars](https://www.johndcook.com/blog/2026/11/01/projective-poles-and-polars/) — *John D. Cook* `11-01`
-- [WorkOS: Let Agents Sign Up for Your App Without a Browser](https://workos.com/auth-md?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026) — *Daring Fireball* `11-01`
-- [Quoting Kyle Kingsbury](https://simonwillison.net/2026/Nov/1/kyle-kingsbury/) — *Simon Willison's Weblog* `11-01`
-- [10 Years on Mastodon](https://shkspr.mobi/blog/2026/11/10-years-on-mastodon/) — *Terence Eden’s Blog* `11-01`
+- [Sneaking into the auditorium for the Windows 2000 launch rehearsal](https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/) — *The Old New Thing* `11-02`
+- [Making peace with the projective plane](https://www.johndcook.com/blog/2026/11/02/projective-plane/) — *John D. Cook* `11-02`
+- [The U.S. Census Bureau and “Super Intelligence”](https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/) — *Simon Willison's Weblog* `11-02`
+- [Lorem Ipsum Dot Gov Dot UK](https://shkspr.mobi/blog/2026/11/lorem-ipsum-dot-gov-dot-uk/) — *Terence Eden’s Blog* `11-02`
+- [Pluralistic: Autodoxing (02 Nov 2026)](https://pluralistic.net/2026/11/02/agony-verification/) — *Pluralistic: Daily links from Cory Doctorow* `11-02`
 <!--BLOG_RADAR:end-->
 
 ---
