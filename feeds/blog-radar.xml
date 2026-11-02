@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 01 Nov 2026 21:54:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 05:33:44 +0000</lastBuildDate>
+    <item>
+      <title>If in doubt, delete the uv.lock file</title>
+      <link>https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/</guid>
+      <pubDate>Sun, 01 Nov 2026 23:24:22 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>A unified view of poles and polars</title>
       <link>https://www.johndcook.com/blog/2026/11/01/projective-poles-and-polars/</link>
@@ -286,18 +293,18 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>"No way to prevent this" say users of only language where this regularly happens</title>
-      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-98432/</link>
-      <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-98432/</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
-    </item>
-    <item>
       <title>You can just ask AI to do things</title>
       <link>https://seangoedecke.com/you-can-just-ask-ai-to-do-things/</link>
       <guid isPermaLink="true">https://seangoedecke.com/you-can-just-ask-ai-to-do-things/</guid>
       <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>"No way to prevent this" say users of only language where this regularly happens</title>
+      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-98432/</link>
+      <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-98432/</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>Avoid Public Functions Calling Other Public Functions</title>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://x.com/chan_k/status/2113622379050246243</guid>
       <pubDate>Sat, 24 Oct 2026 15:03:44 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Elon Musk Just Gave Europe a Reason to Replace American Technology</title>
-      <link>https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/</link>
-      <guid isPermaLink="true">https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/</guid>
-      <pubDate>Sat, 24 Oct 2026 13:00:33 +0000</pubDate>
-      <description>Steve Blank</description>
     </item>
   </channel>
 </rss>
