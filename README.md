@@ -208,11 +208,11 @@ Last Updated: Tuesday, November 3rd, 2026, 9:27:37 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Apple Announces Record $114.5B Fourth-Quarter Results](https://sixcolors.com/post/2026/11/apple-announces-record-114-5b-fourth-quarter-results/) — *Daring Fireball* `11-03`
-- [Prove you are not a child](https://idiallo.com/blog/prove-you-are-not-a-child) — *Software and Tech stories from an Insider - iDiallo.com* `11-03`
-- [LLMs are not superhuman at reading and writing neural network weights](https://seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/) — *seangoedecke.com RSS feed* `11-03`
-- [Audience capture](https://seangoedecke.com/audience-capture/) — *seangoedecke.com RSS feed* `11-03`
-- [llm 0.37](https://simonwillison.net/2026/Nov/2/llm/) — *Simon Willison's Weblog* `11-02`
+- [Just a little AI resistance, as a treat](https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/) — *Terence Eden’s Blog* `11-03`
+- [Euclidean, Spherical, and Projective Geometry](https://www.johndcook.com/blog/2026/11/03/spherical-and-projective-geometry/) — *John D. Cook* `11-03`
+- [How a programming might reinvent the projective plane](https://www.johndcook.com/blog/2026/11/03/hack-to-rigor/) — *John D. Cook* `11-03`
+- [I discovered a sound that leaks your exact location (and it's everywhere) - YouTube](https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/) — *Simon Willison's Weblog* `11-03`
+- [October sponsors-only newsletter](https://simonwillison.net/2026/Nov/3/october-newsletter/) — *Simon Willison's Weblog* `11-03`
 <!--BLOG_RADAR:end-->
 
 ---
