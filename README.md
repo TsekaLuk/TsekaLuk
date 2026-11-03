@@ -208,11 +208,11 @@ Last Updated: Wednesday, November 4th, 2026, 6:46:26 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Just a little AI resistance, as a treat](https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/) — *Terence Eden’s Blog* `11-03`
-- [Euclidean, Spherical, and Projective Geometry](https://www.johndcook.com/blog/2026/11/03/spherical-and-projective-geometry/) — *John D. Cook* `11-03`
-- [How a programming might reinvent the projective plane](https://www.johndcook.com/blog/2026/11/03/hack-to-rigor/) — *John D. Cook* `11-03`
-- [I discovered a sound that leaks your exact location (and it's everywhere) - YouTube](https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/) — *Simon Willison's Weblog* `11-03`
-- [October sponsors-only newsletter](https://simonwillison.net/2026/Nov/3/october-newsletter/) — *Simon Willison's Weblog* `11-03`
+- [Safari 27.3 Beta Adds Vertical Tabs and Adaptive Dark Mode](https://www.macrumors.com/2026/11/03/ios-27-3-safari/) — *Daring Fireball* `11-03`
+- [New Article, Annual LFP Charity Discount](https://buttondown.com/hillelwayne/archive/new-article-annual-lfp-charity-discount/) — *Computer Things* `11-03`
+- [Running Dry](https://www.wheresyoured.at/running-dry/) — *Ed Zitron's Where's Your Ed At* `11-03`
+- [Qwen 3.8 27B on my laptop can interpret model weights, too](https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/) — *Simon Willison's Weblog* `11-03`
+- [The New York Times (et al.) Sues Brave for Copyright Infringement, Selling Scraped Content to AI Companies for Model Training](https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times) — *Daring Fireball* `11-03`
 <!--BLOG_RADAR:end-->
 
 ---
