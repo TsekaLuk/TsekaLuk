@@ -4,7 +4,49 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 02 Nov 2026 15:25:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 00:49:31 +0000</lastBuildDate>
+    <item>
+      <title>Apple Announces Record $114.5B Fourth-Quarter Results</title>
+      <link>https://sixcolors.com/post/2026/11/apple-announces-record-114-5b-fourth-quarter-results/</link>
+      <guid isPermaLink="true">https://sixcolors.com/post/2026/11/apple-announces-record-114-5b-fourth-quarter-results/</guid>
+      <pubDate>Tue, 03 Nov 2026 00:10:53 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Prove you are not a child</title>
+      <link>https://idiallo.com/blog/prove-you-are-not-a-child</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/prove-you-are-not-a-child</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Software and Tech stories from an Insider - iDiallo.com</description>
+    </item>
+    <item>
+      <title>LLMs are not superhuman at reading and writing neural network weights</title>
+      <link>https://seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Audience capture</title>
+      <link>https://seangoedecke.com/audience-capture/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/audience-capture/</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>llm 0.37</title>
+      <link>https://simonwillison.net/2026/Nov/2/llm/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/2/llm/</guid>
+      <pubDate>Mon, 02 Nov 2026 23:49:30 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>[Sponsor] OurCal</title>
+      <link>https://ourcal.com/?utm_source=daringfireball&amp;utm_medium=sponsorship&amp;utm_content=rssitem</link>
+      <guid isPermaLink="true">https://ourcal.com/?utm_source=daringfireball&amp;utm_medium=sponsorship&amp;utm_content=rssitem</guid>
+      <pubDate>Mon, 02 Nov 2026 22:43:59 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Sneaking into the auditorium for the Windows 2000 launch rehearsal</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/</link>
@@ -55,18 +97,18 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
+      <title>WorkOS: Let Agents Sign Up for Your App Without a Browser</title>
+      <link>https://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q42026</link>
+      <guid isPermaLink="true">https://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q42026</guid>
+      <pubDate>Sun, 01 Nov 2026 21:22:56 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
       <title>A unified view of poles and polars</title>
       <link>https://www.johndcook.com/blog/2026/11/01/projective-poles-and-polars/</link>
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/11/01/projective-poles-and-polars/</guid>
       <pubDate>Sun, 01 Nov 2026 20:29:54 +0000</pubDate>
       <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>WorkOS: Let Agents Sign Up for Your App Without a Browser</title>
-      <link>https://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q42026</link>
-      <guid isPermaLink="true">https://workos.com/auth-md?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q42026</guid>
-      <pubDate>Sun, 01 Nov 2026 20:22:56 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
     <item>
       <title>Quoting Kyle Kingsbury</title>
@@ -170,7 +212,7 @@
       <title>Sponsorship Openings for Daring Fireball (Including The Talk Show)</title>
       <link>https://daringfireball.net/feeds/sponsors/</link>
       <guid isPermaLink="true">https://daringfireball.net/feeds/sponsors/</guid>
-      <pubDate>Fri, 30 Oct 2026 22:30:54 +0000</pubDate>
+      <pubDate>Fri, 30 Oct 2026 23:30:54 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
     <item>
@@ -191,14 +233,21 @@
       <title>The Only Good Easter Eggs Are Whole-Assed Easter Eggs</title>
       <link>https://unsung.aresluna.org/apples-ipod-recreation/</link>
       <guid isPermaLink="true">https://unsung.aresluna.org/apples-ipod-recreation/</guid>
-      <pubDate>Fri, 30 Oct 2026 17:53:41 +0000</pubDate>
+      <pubDate>Fri, 30 Oct 2026 18:53:41 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
     <item>
       <title>GM to Pay $220 Million After Betraying Their Own Drivers’ Privacy</title>
       <link>https://www.reuters.com/business/autos-transportation/gm-pay-220-million-settle-allegations-it-violated-consumers-privacy-2026-10-29/</link>
       <guid isPermaLink="true">https://www.reuters.com/business/autos-transportation/gm-pay-220-million-settle-allegations-it-violated-consumers-privacy-2026-10-29/</guid>
-      <pubDate>Fri, 30 Oct 2026 17:18:56 +0000</pubDate>
+      <pubDate>Fri, 30 Oct 2026 18:18:56 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Patrick Stewart Dies at 86</title>
+      <link>https://www.hollywoodreporter.com/movies/movie-news/patrick-stewart-dead-star-trek-x-men-1236742932/</link>
+      <guid isPermaLink="true">https://www.hollywoodreporter.com/movies/movie-news/patrick-stewart-dead-star-trek-x-men-1236742932/</guid>
+      <pubDate>Fri, 30 Oct 2026 17:53:09 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
     <item>
@@ -209,18 +258,11 @@
       <description>The Digital Antiquarian</description>
     </item>
     <item>
-      <title>Robert Caro – The master biographer reflects at 91</title>
+      <title>What Robert Caro learned about power after studying it for 50 years</title>
       <link>https://www.dwarkesh.com/p/robert-caro</link>
       <guid isPermaLink="true">https://www.dwarkesh.com/p/robert-caro</guid>
       <pubDate>Fri, 30 Oct 2026 16:56:02 +0000</pubDate>
       <description>Dwarkesh Podcast</description>
-    </item>
-    <item>
-      <title>Patrick Stewart Dies at 86</title>
-      <link>https://www.hollywoodreporter.com/movies/movie-news/patrick-stewart-dead-star-trek-x-men-1236742932/</link>
-      <guid isPermaLink="true">https://www.hollywoodreporter.com/movies/movie-news/patrick-stewart-dead-star-trek-x-men-1236742932/</guid>
-      <pubDate>Fri, 30 Oct 2026 16:53:09 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
     <item>
       <title>Rejoice, leap seconds are dead!</title>
@@ -268,21 +310,21 @@
       <title>Apple Drops App Store Commission by a Whopping 4 Percentage Points in Taiwan</title>
       <link>https://developer.apple.com/news/?id=w9mxlhek</link>
       <guid isPermaLink="true">https://developer.apple.com/news/?id=w9mxlhek</guid>
-      <pubDate>Thu, 29 Oct 2026 21:03:42 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 22:03:42 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
     <item>
       <title>A Health Update From Craig Hockenberry</title>
       <link>https://furbo.org/2026/10/28/a-health-update/</link>
       <guid isPermaLink="true">https://furbo.org/2026/10/28/a-health-update/</guid>
-      <pubDate>Thu, 29 Oct 2026 19:57:21 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 20:57:21 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
     <item>
       <title>Rolfe Winkler at The WSJ: ‘The Beleaguered Chip Sellers Getting Their Revenge on Apple’</title>
       <link>https://www.wsj.com/tech/apple-iphone-memory-chips-ai-c0084cc9?st=FNAyaT</link>
       <guid isPermaLink="true">https://www.wsj.com/tech/apple-iphone-memory-chips-ai-c0084cc9?st=FNAyaT</guid>
-      <pubDate>Thu, 29 Oct 2026 19:44:11 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 20:44:11 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
     <item>
@@ -307,18 +349,18 @@
       <description>Dwarkesh Podcast</description>
     </item>
     <item>
+      <title>The Space Shuttle Discovery’s Starboard Side ‘s’ Is Upside Down</title>
+      <link>https://www.theautopian.com/a-typography-geek-pointed-out-something-about-the-space-shuttle-discovery-and-now-i-cant-unsee-it/</link>
+      <guid isPermaLink="true">https://www.theautopian.com/a-typography-geek-pointed-out-something-about-the-space-shuttle-discovery-and-now-i-cant-unsee-it/</guid>
+      <pubDate>Thu, 29 Oct 2026 16:06:56 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
       <title>A New Kind of Chemistry</title>
       <link>https://www.construction-physics.com/p/a-new-kind-of-chemistry</link>
       <guid isPermaLink="true">https://www.construction-physics.com/p/a-new-kind-of-chemistry</guid>
       <pubDate>Thu, 29 Oct 2026 15:45:10 +0000</pubDate>
       <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>The Space Shuttle Discovery’s Starboard Side ‘s’ Is Upside Down</title>
-      <link>https://www.theautopian.com/a-typography-geek-pointed-out-something-about-the-space-shuttle-discovery-and-now-i-cant-unsee-it/</link>
-      <guid isPermaLink="true">https://www.theautopian.com/a-typography-geek-pointed-out-something-about-the-space-shuttle-discovery-and-now-i-cant-unsee-it/</guid>
-      <pubDate>Thu, 29 Oct 2026 15:06:56 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
     <item>
       <title>Quoting Ben Hylak</title>
@@ -338,7 +380,7 @@
       <title>Steven Levy on the New MacBook Pro, With, Yes, a Touchscreen</title>
       <link>https://www.wired.com/story/the-inside-story-of-why-apple-finally-brought-a-touch-display-to-the-mac/</link>
       <guid isPermaLink="true">https://www.wired.com/story/the-inside-story-of-why-apple-finally-brought-a-touch-display-to-the-mac/</guid>
-      <pubDate>Thu, 29 Oct 2026 04:06:15 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 05:06:15 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
     <item>
@@ -405,18 +447,18 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
+      <title>Guessing the Name: MacBook Studio?</title>
+      <link>https://www.macrumors.com/2026/10/28/macbook-studio/</link>
+      <guid isPermaLink="true">https://www.macrumors.com/2026/10/28/macbook-studio/</guid>
+      <pubDate>Wed, 28 Oct 2026 15:58:45 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
       <title>Fake it ‘til you make it (and then keep faking it)</title>
       <link>https://www.experimental-history.com/p/fake-it-til-you-make-it-and-then</link>
       <guid isPermaLink="true">https://www.experimental-history.com/p/fake-it-til-you-make-it-and-then</guid>
       <pubDate>Wed, 28 Oct 2026 15:36:04 +0000</pubDate>
       <description>Experimental History</description>
-    </item>
-    <item>
-      <title>Guessing the Name: MacBook Studio?</title>
-      <link>https://www.macrumors.com/2026/10/28/macbook-studio/</link>
-      <guid isPermaLink="true">https://www.macrumors.com/2026/10/28/macbook-studio/</guid>
-      <pubDate>Wed, 28 Oct 2026 14:58:45 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
     <item>
       <title>C++/WinRT overcorrection: Using make_self and immediately converting it to the projected interface</title>
@@ -485,14 +527,14 @@
       <title>Siri AI Expands to More Languages in OS 27.2</title>
       <link>https://nr.apple.com/Du9G9W8Nq1</link>
       <guid isPermaLink="true">https://nr.apple.com/Du9G9W8Nq1</guid>
-      <pubDate>Tue, 27 Oct 2026 22:19:39 +0000</pubDate>
+      <pubDate>Tue, 27 Oct 2026 23:19:39 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
     <item>
       <title>Apple Creator Studio Updated With a Slew of AI Features, Along With a New Open JSON File Format for Keynote</title>
       <link>https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/</link>
       <guid isPermaLink="true">https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/</guid>
-      <pubDate>Tue, 27 Oct 2026 22:00:04 +0000</pubDate>
+      <pubDate>Tue, 27 Oct 2026 23:00:04 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
     <item>
@@ -513,14 +555,21 @@
       <title>What’s Left for ‘Pro and Tell’ Week: Touch-Enabled OLED MacBooks</title>
       <link>https://www.macrumors.com/2026/10/27/macbook-pro-with-touchscreen-tomorrow/</link>
       <guid isPermaLink="true">https://www.macrumors.com/2026/10/27/macbook-pro-with-touchscreen-tomorrow/</guid>
-      <pubDate>Tue, 27 Oct 2026 17:59:47 +0000</pubDate>
+      <pubDate>Tue, 27 Oct 2026 18:59:47 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
     <item>
       <title>Apple Also Announces iMac With M6</title>
       <link>https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/</link>
       <guid isPermaLink="true">https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/</guid>
-      <pubDate>Tue, 27 Oct 2026 16:44:10 +0000</pubDate>
+      <pubDate>Tue, 27 Oct 2026 17:44:10 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Apple Introduces New Base MacBook Pro With M6, 14-Inch-Only</title>
+      <link>https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/</link>
+      <guid isPermaLink="true">https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/</guid>
+      <pubDate>Tue, 27 Oct 2026 17:00:46 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
     <item>
@@ -529,13 +578,6 @@
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/noctua-fan-swap-calnex-rb-gps-frequency-reference/</guid>
       <pubDate>Tue, 27 Oct 2026 16:37:00 +0000</pubDate>
       <description>Jeff Geerling</description>
-    </item>
-    <item>
-      <title>Apple Introduces New Base MacBook Pro With M6, 14-Inch-Only</title>
-      <link>https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/</link>
-      <guid isPermaLink="true">https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/</guid>
-      <pubDate>Tue, 27 Oct 2026 16:00:46 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
     <item>
       <title>I'm a Full-Time Open Source Developer Now</title>
@@ -604,14 +646,14 @@
       <title>The NYT Seemingly Does Marissa Mayer Dirty</title>
       <link>https://www.nytimes.com/2026/10/25/style/marissa-mayer-ai-assistants-women.html?unlocked_article_code=1.L1E.xBwx.X_EjBGNsRNqr</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/10/25/style/marissa-mayer-ai-assistants-women.html?unlocked_article_code=1.L1E.xBwx.X_EjBGNsRNqr</guid>
-      <pubDate>Tue, 27 Oct 2026 00:30:08 +0000</pubDate>
+      <pubDate>Tue, 27 Oct 2026 01:30:08 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
     <item>
       <title>Apple Issues Statement on iPhone Duo’s Crack Problem</title>
       <link>https://9to5mac.com/2026/10/26/apple-responds-to-reports-of-iphone-duos-inner-display-cracking/</link>
       <guid isPermaLink="true">https://9to5mac.com/2026/10/26/apple-responds-to-reports-of-iphone-duos-inner-display-cracking/</guid>
-      <pubDate>Mon, 26 Oct 2026 23:54:26 +0000</pubDate>
+      <pubDate>Tue, 27 Oct 2026 00:54:26 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
     <item>
@@ -632,7 +674,7 @@
       <title>Glenn Fleishman on Apple Notes and Markdown</title>
       <link>https://sixcolors.com/post/2026/10/why-notes-will-never-let-us-edit-markdown/</link>
       <guid isPermaLink="true">https://sixcolors.com/post/2026/10/why-notes-will-never-let-us-edit-markdown/</guid>
-      <pubDate>Mon, 26 Oct 2026 20:03:53 +0000</pubDate>
+      <pubDate>Mon, 26 Oct 2026 21:03:53 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
     <item>
@@ -660,7 +702,7 @@
       <title>A Simple Two-Step Shortcuts Shortcut Lets You Lock the iPhone Duo When You Close It</title>
       <link>https://x.com/viticci/status/2113888099784638932</link>
       <guid isPermaLink="true">https://x.com/viticci/status/2113888099784638932</guid>
-      <pubDate>Mon, 26 Oct 2026 17:00:11 +0000</pubDate>
+      <pubDate>Mon, 26 Oct 2026 18:00:11 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
     <item>
@@ -671,18 +713,18 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
+      <title>Tiny Computers for iPhone Duo</title>
+      <link>https://www.fountaininteractive.com/TinyComputers/</link>
+      <guid isPermaLink="true">https://www.fountaininteractive.com/TinyComputers/</guid>
+      <pubDate>Mon, 26 Oct 2026 16:04:10 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
       <title>Pluralistic: Sovereign citizens, but for news (26 Oct 2026)</title>
       <link>https://pluralistic.net/2026/10/26/abandon-hope/</link>
       <guid isPermaLink="true">https://pluralistic.net/2026/10/26/abandon-hope/</guid>
       <pubDate>Mon, 26 Oct 2026 15:47:10 +0000</pubDate>
       <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Tiny Computers for iPhone Duo</title>
-      <link>https://www.fountaininteractive.com/TinyComputers/</link>
-      <guid isPermaLink="true">https://www.fountaininteractive.com/TinyComputers/</guid>
-      <pubDate>Mon, 26 Oct 2026 15:04:10 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
     <item>
       <title>De IT-onmacht van de Nederlandse overheid</title>
@@ -737,14 +779,14 @@
       <title>Sunnny</title>
       <link>https://sunnny.com/</link>
       <guid isPermaLink="true">https://sunnny.com/</guid>
-      <pubDate>Sun, 25 Oct 2026 21:50:00 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 22:50:00 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
     <item>
       <title>Duo Users Are Registering the Base of Their Index Finger as a Touch ID Coping Strategy</title>
       <link>https://www.reddit.com/r/iPhoneDuo/comments/1xehtcj/best_fingerprint_method/</link>
       <guid isPermaLink="true">https://www.reddit.com/r/iPhoneDuo/comments/1xehtcj/best_fingerprint_method/</guid>
-      <pubDate>Sun, 25 Oct 2026 21:47:57 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 22:47:57 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
     <item>
@@ -755,6 +797,13 @@
       <description>Max Woolf's Blog</description>
     </item>
     <item>
+      <title>The Talk Show: ‘Lubricate the Inside of the Hinge’</title>
+      <link>https://daringfireball.net/thetalkshow/2026/10/25/ep-456</link>
+      <guid isPermaLink="true">https://daringfireball.net/thetalkshow/2026/10/25/ep-456</guid>
+      <pubDate>Sun, 25 Oct 2026 20:03:13 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
       <title>Poles and polars</title>
       <link>https://www.johndcook.com/blog/2026/10/25/poles-and-polars/</link>
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/10/25/poles-and-polars/</guid>
@@ -762,10 +811,10 @@
       <description>John D. Cook</description>
     </item>
     <item>
-      <title>The Talk Show: ‘Lubricate the Inside of the Hinge’</title>
-      <link>https://daringfireball.net/thetalkshow/2026/10/25/ep-456</link>
-      <guid isPermaLink="true">https://daringfireball.net/thetalkshow/2026/10/25/ep-456</guid>
-      <pubDate>Sun, 25 Oct 2026 19:03:13 +0000</pubDate>
+      <title>iPhone Portrait Mode, 10 Years In</title>
+      <link>https://x.com/johnnie/status/2114007844605612167</link>
+      <guid isPermaLink="true">https://x.com/johnnie/status/2114007844605612167</guid>
+      <pubDate>Sun, 25 Oct 2026 19:09:19 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
     <item>
@@ -774,13 +823,6 @@
       <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/why-dad-didnt-have-cellphone/</guid>
       <pubDate>Sun, 25 Oct 2026 19:00:00 +0000</pubDate>
       <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
-      <title>iPhone Portrait Mode, 10 Years In</title>
-      <link>https://x.com/johnnie/status/2114007844605612167</link>
-      <guid isPermaLink="true">https://x.com/johnnie/status/2114007844605612167</guid>
-      <pubDate>Sun, 25 Oct 2026 18:09:19 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
     <item>
       <title>Seam Cutter</title>
@@ -802,48 +844,6 @@
       <guid isPermaLink="true">https://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html</guid>
       <pubDate>Sun, 25 Oct 2026 01:21:15 +0000</pubDate>
       <description>Old Vintage Computing Research</description>
-    </item>
-    <item>
-      <title>Computing polar triangles with linear algebra</title>
-      <link>https://www.johndcook.com/blog/2026/10/24/computing-polar-triangles/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/10/24/computing-polar-triangles/</guid>
-      <pubDate>Sun, 25 Oct 2026 01:01:55 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Duality in spherical trigonometry</title>
-      <link>https://www.johndcook.com/blog/2026/10/24/polar-triangle/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/10/24/polar-triangle/</guid>
-      <pubDate>Sun, 25 Oct 2026 00:28:20 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Don't anthropomorphize big tech companies</title>
-      <link>https://seangoedecke.com/dont-anthropomorphize-big-tech-companies/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/dont-anthropomorphize-big-tech-companies/</guid>
-      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>lighting the skies</title>
-      <link>https://computer.rip/2026-10-25-searchlights.html</link>
-      <guid isPermaLink="true">https://computer.rip/2026-10-25-searchlights.html</guid>
-      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
-      <description>computers are bad</description>
-    </item>
-    <item>
-      <title>A rising tide raises all rents</title>
-      <link>https://jyn.dev/rising-tide-raises-rents/</link>
-      <guid isPermaLink="true">https://jyn.dev/rising-tide-raises-rents/</guid>
-      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
-      <description>the website of jyn</description>
-    </item>
-    <item>
-      <title>Nicole Nguyen’s Duo Review for the WSJ</title>
-      <link>https://www.wsj.com/tech/personal-tech/iphone-duo-review-cafcbbe7?st=GaYVMf</link>
-      <guid isPermaLink="true">https://www.wsj.com/tech/personal-tech/iphone-duo-review-cafcbbe7?st=GaYVMf</guid>
-      <pubDate>Sat, 24 Oct 2026 22:15:00 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>

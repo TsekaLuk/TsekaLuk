@@ -208,11 +208,11 @@ Last Updated: Tuesday, November 3rd, 2026, 8:20:43 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Sneaking into the auditorium for the Windows 2000 launch rehearsal](https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/) — *The Old New Thing* `11-02`
-- [Making peace with the projective plane](https://www.johndcook.com/blog/2026/11/02/projective-plane/) — *John D. Cook* `11-02`
-- [The U.S. Census Bureau and “Super Intelligence”](https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/) — *Simon Willison's Weblog* `11-02`
-- [Lorem Ipsum Dot Gov Dot UK](https://shkspr.mobi/blog/2026/11/lorem-ipsum-dot-gov-dot-uk/) — *Terence Eden’s Blog* `11-02`
-- [Pluralistic: Autodoxing (02 Nov 2026)](https://pluralistic.net/2026/11/02/agony-verification/) — *Pluralistic: Daily links from Cory Doctorow* `11-02`
+- [Apple Announces Record $114.5B Fourth-Quarter Results](https://sixcolors.com/post/2026/11/apple-announces-record-114-5b-fourth-quarter-results/) — *Daring Fireball* `11-03`
+- [Prove you are not a child](https://idiallo.com/blog/prove-you-are-not-a-child) — *Software and Tech stories from an Insider - iDiallo.com* `11-03`
+- [LLMs are not superhuman at reading and writing neural network weights](https://seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/) — *seangoedecke.com RSS feed* `11-03`
+- [Audience capture](https://seangoedecke.com/audience-capture/) — *seangoedecke.com RSS feed* `11-03`
+- [llm 0.37](https://simonwillison.net/2026/Nov/2/llm/) — *Simon Willison's Weblog* `11-02`
 <!--BLOG_RADAR:end-->
 
 ---
