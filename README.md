@@ -208,11 +208,11 @@ Last Updated: Wednesday, November 4th, 2026, 9:38:41 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Book Review: Practice by Rosalind Brown ★★★★☆](https://shkspr.mobi/blog/2026/11/book-review-practice-by-rosalind-brown/) — *Terence Eden’s Blog* `11-04`
+- [Pluralistic: The AI fatfinger economy has come for my receipts app (04 Nov 2026)](https://pluralistic.net/2026/11/04/genius-scan-is-neither/) — *Pluralistic: Daily links from Cory Doctorow* `11-04`
+- [This Week in Source Control: 4 November 2026](https://nesbitt.io/2026/11/04/this-week-in-source-control.html) — *Andrew Nesbitt* `11-04`
+- [Goodhart's Law, but We Already Spent All Our Money](https://idiallo.com/blog/we-spent-all-our-money-goodharts-law) — *Software and Tech stories from an Insider - iDiallo.com* `11-04`
 - [Apple Begins Opening Siri AI to Developers](https://developer.apple.com/news/?id=gdk2umrf) — *Daring Fireball* `11-03`
-- [iPad Mini (A20 Pro) Review Roundup](https://www.techmeme.com/261103/p15#a261103p15) — *Daring Fireball* `11-03`
-- [MKBHD on the New A20 Pro iPad Mini](https://www.youtube.com/watch?v=g6Die8gVFn0) — *Daring Fireball* `11-03`
-- [Safari 27.3 Beta Adds Vertical Tabs and Adaptive Dark Mode](https://www.macrumors.com/2026/11/03/ios-27-3-safari/) — *Daring Fireball* `11-03`
-- [New Article, Annual LFP Charity Discount](https://buttondown.com/hillelwayne/archive/new-article-annual-lfp-charity-discount/) — *Computer Things* `11-03`
 <!--BLOG_RADAR:end-->
 
 ---

@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 04 Nov 2026 05:50:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 14:11:37 +0000</lastBuildDate>
+    <item>
+      <title>Book Review: Practice by Rosalind Brown ★★★★☆</title>
+      <link>https://shkspr.mobi/blog/2026/11/book-review-practice-by-rosalind-brown/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/11/book-review-practice-by-rosalind-brown/</guid>
+      <pubDate>Wed, 04 Nov 2026 12:34:07 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Pluralistic: The AI fatfinger economy has come for my receipts app (04 Nov 2026)</title>
+      <link>https://pluralistic.net/2026/11/04/genius-scan-is-neither/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/11/04/genius-scan-is-neither/</guid>
+      <pubDate>Wed, 04 Nov 2026 11:45:02 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>This Week in Source Control: 4 November 2026</title>
+      <link>https://nesbitt.io/2026/11/04/this-week-in-source-control.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/11/04/this-week-in-source-control.html</guid>
+      <pubDate>Wed, 04 Nov 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>Goodhart's Law, but We Already Spent All Our Money</title>
+      <link>https://idiallo.com/blog/we-spent-all-our-money-goodharts-law</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/we-spent-all-our-money-goodharts-law</guid>
+      <pubDate>Wed, 04 Nov 2026 08:00:00 +0000</pubDate>
+      <description>Software and Tech stories from an Insider - iDiallo.com</description>
+    </item>
     <item>
       <title>Apple Begins Opening Siri AI to Developers</title>
       <link>https://developer.apple.com/news/?id=gdk2umrf</link>
@@ -109,6 +137,13 @@
       <guid isPermaLink="true">https://pluralistic.net/2026/11/03/nobody-is-home/</guid>
       <pubDate>Tue, 03 Nov 2026 14:19:29 +0000</pubDate>
       <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Just a little AI resistance, as a treat</title>
+      <link>https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/</guid>
+      <pubDate>Tue, 03 Nov 2026 12:34:31 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Euclidean, Spherical, and Projective Geometry</title>
@@ -237,6 +272,13 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
+      <title>Lorem Ipsum Dot Gov Dot UK</title>
+      <link>https://shkspr.mobi/blog/2026/11/lorem-ipsum-dot-gov-dot-uk/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/11/lorem-ipsum-dot-gov-dot-uk/</guid>
+      <pubDate>Mon, 02 Nov 2026 12:34:00 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>Pluralistic: Autodoxing (02 Nov 2026)</title>
       <link>https://pluralistic.net/2026/11/02/agony-verification/</link>
       <guid isPermaLink="true">https://pluralistic.net/2026/11/02/agony-verification/</guid>
@@ -277,6 +319,13 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Nov/1/kyle-kingsbury/</guid>
       <pubDate>Sun, 01 Nov 2026 16:49:04 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>10 Years on Mastodon</title>
+      <link>https://shkspr.mobi/blog/2026/11/10-years-on-mastodon/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/11/10-years-on-mastodon/</guid>
+      <pubDate>Sun, 01 Nov 2026 12:34:18 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>A Mastodon bot powered by iOS Shortcuts</title>
@@ -333,6 +382,13 @@
       <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-103126</guid>
       <pubDate>Sat, 31 Oct 2026 12:34:23 +0000</pubDate>
       <description>Construction Physics</description>
+    </item>
+    <item>
+      <title>Gig Review: The Witcher in Concert ★★★★☆</title>
+      <link>https://shkspr.mobi/blog/2026/10/gig-review-the-witcher-in-concert/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/10/gig-review-the-witcher-in-concert/</guid>
+      <pubDate>Sat, 31 Oct 2026 12:34:18 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>This Week in Package Management: 31 October 2026</title>
@@ -424,6 +480,13 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261030-00/?p=112815/</guid>
       <pubDate>Fri, 30 Oct 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>Book Review: The God of Small Things by Arundhati Roy ★★☆☆☆</title>
+      <link>https://shkspr.mobi/blog/2026/10/book-review-the-god-of-small-things-by-arundhati-roy/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/10/book-review-the-god-of-small-things-by-arundhati-roy/</guid>
+      <pubDate>Fri, 30 Oct 2026 12:34:22 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Signing and Attestations Across Package Registries</title>
@@ -615,6 +678,13 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
+      <title>Gadget Review: SoundPEATS CC3 Pro Bluetooth Headphones ★★★★⯪</title>
+      <link>https://shkspr.mobi/blog/2026/10/gadget-review-soundpeats-cc3-pro-bluetooth-headphones/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/10/gadget-review-soundpeats-cc3-pro-bluetooth-headphones/</guid>
+      <pubDate>Wed, 28 Oct 2026 12:34:54 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>The Unbalanced Group Theorem</title>
       <link>https://www.johndcook.com/blog/2026/10/28/the-unbalanced-group-theorem/</link>
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/10/28/the-unbalanced-group-theorem/</guid>
@@ -748,6 +818,13 @@
       <description>Fernando Borretti</description>
     </item>
     <item>
+      <title>Book Review: You Could Do Something Amazing with Your Life [You Are Raoul Moat] - Andrew Hankinson ★★★★☆</title>
+      <link>https://shkspr.mobi/blog/2026/10/book-review-you-could-do-something-amazing-with-your-life-you-are-raoul-moat-andrew-hankinson/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/10/book-review-you-could-do-something-amazing-with-your-life-you-are-raoul-moat-andrew-hankinson/</guid>
+      <pubDate>Tue, 27 Oct 2026 12:34:53 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>The Exponential Time Hypothesis is False</title>
       <link>https://www.johndcook.com/blog/2026/10/27/eth-false/</link>
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/10/27/eth-false/</guid>
@@ -767,83 +844,6 @@
       <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-527/</guid>
       <pubDate>Tue, 27 Oct 2026 07:59:09 +0000</pubDate>
       <description>Troy Hunt</description>
-    </item>
-    <item>
-      <title>The NYT Seemingly Does Marissa Mayer Dirty</title>
-      <link>https://www.nytimes.com/2026/10/25/style/marissa-mayer-ai-assistants-women.html?unlocked_article_code=1.L1E.xBwx.X_EjBGNsRNqr</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/10/25/style/marissa-mayer-ai-assistants-women.html?unlocked_article_code=1.L1E.xBwx.X_EjBGNsRNqr</guid>
-      <pubDate>Tue, 27 Oct 2026 01:30:08 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Apple Issues Statement on iPhone Duo’s Crack Problem</title>
-      <link>https://9to5mac.com/2026/10/26/apple-responds-to-reports-of-iphone-duos-inner-display-cracking/</link>
-      <guid isPermaLink="true">https://9to5mac.com/2026/10/26/apple-responds-to-reports-of-iphone-duos-inner-display-cracking/</guid>
-      <pubDate>Tue, 27 Oct 2026 00:54:26 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>GPT-6.1 Terra</title>
-      <link>https://simonwillison.net/2026/Oct/26/gpt-61-terra/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/26/gpt-61-terra/</guid>
-      <pubDate>Mon, 26 Oct 2026 23:53:07 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>MTL-style circuit simulator</title>
-      <link>https://entropicthoughts.com/mtl-style-circuit-simulator</link>
-      <guid isPermaLink="true">https://entropicthoughts.com/mtl-style-circuit-simulator</guid>
-      <pubDate>Mon, 26 Oct 2026 23:00:00 +0000</pubDate>
-      <description>Entropic Thoughts</description>
-    </item>
-    <item>
-      <title>Glenn Fleishman on Apple Notes and Markdown</title>
-      <link>https://sixcolors.com/post/2026/10/why-notes-will-never-let-us-edit-markdown/</link>
-      <guid isPermaLink="true">https://sixcolors.com/post/2026/10/why-notes-will-never-let-us-edit-markdown/</guid>
-      <pubDate>Mon, 26 Oct 2026 21:03:53 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Quoting Jason Koebler</title>
-      <link>https://simonwillison.net/2026/Oct/26/jason-koebler/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/26/jason-koebler/</guid>
-      <pubDate>Mon, 26 Oct 2026 19:00:25 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Inversion in an ellipse</title>
-      <link>https://www.johndcook.com/blog/2026/10/26/inversion-in-an-ellipse/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/10/26/inversion-in-an-ellipse/</guid>
-      <pubDate>Mon, 26 Oct 2026 18:39:32 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>★ Apple Announces New A20 Pro iPad Mini</title>
-      <link>https://daringfireball.net/2026/10/apple_announces_new_a20_pro_ipad_mini</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/10/apple_announces_new_a20_pro_ipad_mini</guid>
-      <pubDate>Mon, 26 Oct 2026 18:04:34 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>A Simple Two-Step Shortcuts Shortcut Lets You Lock the iPhone Duo When You Close It</title>
-      <link>https://x.com/viticci/status/2113888099784638932</link>
-      <guid isPermaLink="true">https://x.com/viticci/status/2113888099784638932</guid>
-      <pubDate>Mon, 26 Oct 2026 18:00:11 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>webframe: evaluated as a scraper and a sandbox</title>
-      <link>https://simonwillison.net/2026/Oct/26/webframe-evaluation/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/26/webframe-evaluation/</guid>
-      <pubDate>Mon, 26 Oct 2026 16:15:00 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Tiny Computers for iPhone Duo</title>
-      <link>https://www.fountaininteractive.com/TinyComputers/</link>
-      <guid isPermaLink="true">https://www.fountaininteractive.com/TinyComputers/</guid>
-      <pubDate>Mon, 26 Oct 2026 16:04:10 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
