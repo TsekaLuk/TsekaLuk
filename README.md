@@ -208,11 +208,11 @@ Last Updated: Wednesday, November 4th, 2026, 12:28:30 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Apple Begins Opening Siri AI to Developers](https://developer.apple.com/news/?id=gdk2umrf) — *Daring Fireball* `11-03`
+- [iPad Mini (A20 Pro) Review Roundup](https://www.techmeme.com/261103/p15#a261103p15) — *Daring Fireball* `11-03`
+- [MKBHD on the New A20 Pro iPad Mini](https://www.youtube.com/watch?v=g6Die8gVFn0) — *Daring Fireball* `11-03`
 - [Safari 27.3 Beta Adds Vertical Tabs and Adaptive Dark Mode](https://www.macrumors.com/2026/11/03/ios-27-3-safari/) — *Daring Fireball* `11-03`
 - [New Article, Annual LFP Charity Discount](https://buttondown.com/hillelwayne/archive/new-article-annual-lfp-charity-discount/) — *Computer Things* `11-03`
-- [Running Dry](https://www.wheresyoured.at/running-dry/) — *Ed Zitron's Where's Your Ed At* `11-03`
-- [Qwen 3.8 27B on my laptop can interpret model weights, too](https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/) — *Simon Willison's Weblog* `11-03`
-- [The New York Times (et al.) Sues Brave for Copyright Infringement, Selling Scraped Content to AI Companies for Model Training](https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times) — *Daring Fireball* `11-03`
 <!--BLOG_RADAR:end-->
 
 ---
