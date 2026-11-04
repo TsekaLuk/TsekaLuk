@@ -208,11 +208,11 @@ Last Updated: Thursday, November 5th, 2026, 7:04:59 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Book Review: Practice by Rosalind Brown ★★★★☆](https://shkspr.mobi/blog/2026/11/book-review-practice-by-rosalind-brown/) — *Terence Eden’s Blog* `11-04`
-- [Pluralistic: The AI fatfinger economy has come for my receipts app (04 Nov 2026)](https://pluralistic.net/2026/11/04/genius-scan-is-neither/) — *Pluralistic: Daily links from Cory Doctorow* `11-04`
-- [This Week in Source Control: 4 November 2026](https://nesbitt.io/2026/11/04/this-week-in-source-control.html) — *Andrew Nesbitt* `11-04`
-- [Goodhart's Law, but We Already Spent All Our Money](https://idiallo.com/blog/we-spent-all-our-money-goodharts-law) — *Software and Tech stories from an Insider - iDiallo.com* `11-04`
-- [Apple Begins Opening Siri AI to Developers](https://developer.apple.com/news/?id=gdk2umrf) — *Daring Fireball* `11-03`
+- [“It Gives Great Demo”](https://blog.jim-nielsen.com/2026/it-gives-great-demo/) — *Jim Nielsen’s Blog* `11-04`
+- [datasette-llm 0.1a10](https://simonwillison.net/2026/Nov/4/datasette-llm/) — *Simon Willison's Weblog* `11-04`
+- [This Election Will Not Look Surprising in History](https://apple.news/Afq6SKrYkTcCEHrCEQmxm5A?web_embed_link=aHR0cHM6Ly9uZXdzLWFzc2V0cy5hcHBsZS5jb20vZW1iZWRzLzY2ZDQzYzg0LTMyMWYtNGQ0Ny05Mzk4LWE3NjE3NDgwZWE2Yi9pbmRleC5odG1sI2NvbnRleHQ9TU9EQUwmc3RpY2t5PWZhbHNlJmVmZmVjdD1ub25lJmxpZ2h0X2JnX2NvbG9yPWU5ZWNmMiZkYXJrX2JnX2NvbG9yPTJkM2Q1NCZzY29wZT11cyZvcmlnaW49c2hhcnJvdyZsaXZlYWN0aXZpdGllcz10cnVlJm5mZl9jaWQ9NTZjMjQ1OTQtNDIxNC00NDM0LTlhNTgtNWE1YTIxM2ZkMTBi) — *Daring Fireball* `11-04`
+- [There are things with ranks, but it’s not always clear what the ranks mean](https://devblogs.microsoft.com/oldnewthing/20261104-00/?p=112830/) — *The Old New Thing* `11-04`
+- [‘Political Reckoning Shatters Trump’s Grip on Washington’](https://www.wsj.com/politics/elections/a-political-reckoning-shatters-trumps-grip-on-washington-bd3c7705?st=xABDit) — *Daring Fireball* `11-04`
 <!--BLOG_RADAR:end-->
 
 ---
