@@ -208,11 +208,11 @@ Last Updated: Thursday, November 5th, 2026, 9:51:09 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Quoting Paul Ford](https://simonwillison.net/2026/Nov/5/paul-ford/) — *Simon Willison's Weblog* `11-05`
+- [Gadget Review: Tozo NC9 Pro Bluetooth Headphones ★★★★⯪](https://shkspr.mobi/blog/2026/11/gadget-review-tozo-nc9-pro-bluetooth-headphones/) — *Terence Eden’s Blog* `11-05`
+- [Pluralistic: Without CDA 230, Facebook will own the internet forever (05 Nov 2026)](https://pluralistic.net/2026/11/05/see-you-in-court/) — *Pluralistic: Daily links from Cory Doctorow* `11-05`
 - [Want to Rent an Internet Address at the White House?](https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/) — *Krebs on Security* `11-05`
 - [How to install an app on your Commodore 64](https://anildash.com/2026/10/08/install-an-app-commodore-64/) — *Anil Dash* `11-04`
-- [“It Gives Great Demo”](https://blog.jim-nielsen.com/2026/it-gives-great-demo/) — *Jim Nielsen’s Blog* `11-04`
-- [datasette-llm 0.1a10](https://simonwillison.net/2026/Nov/4/datasette-llm/) — *Simon Willison's Weblog* `11-04`
-- [This Election Will Not Look Surprising in History](https://apple.news/Afq6SKrYkTcCEHrCEQmxm5A?web_embed_link=aHR0cHM6Ly9uZXdzLWFzc2V0cy5hcHBsZS5jb20vZW1iZWRzLzY2ZDQzYzg0LTMyMWYtNGQ0Ny05Mzk4LWE3NjE3NDgwZWE2Yi9pbmRleC5odG1sI2NvbnRleHQ9TU9EQUwmc3RpY2t5PWZhbHNlJmVmZmVjdD1ub25lJmxpZ2h0X2JnX2NvbG9yPWU5ZWNmMiZkYXJrX2JnX2NvbG9yPTJkM2Q1NCZzY29wZT11cyZvcmlnaW49c2hhcnJvdyZsaXZlYWN0aXZpdGllcz10cnVlJm5mZl9jaWQ9NTZjMjQ1OTQtNDIxNC00NDM0LTlhNTgtNWE1YTIxM2ZkMTBi) — *Daring Fireball* `11-04`
 <!--BLOG_RADAR:end-->
 
 ---
