@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 04 Nov 2026 23:29:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 06:10:27 +0000</lastBuildDate>
+    <item>
+      <title>Want to Rent an Internet Address at the White House?</title>
+      <link>https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/</link>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/</guid>
+      <pubDate>Thu, 05 Nov 2026 04:36:17 +0000</pubDate>
+      <description>Krebs on Security</description>
+    </item>
+    <item>
+      <title>How to install an app on your Commodore 64</title>
+      <link>https://anildash.com/2026/10/08/install-an-app-commodore-64/</link>
+      <guid isPermaLink="true">https://anildash.com/2026/10/08/install-an-app-commodore-64/</guid>
+      <pubDate>Wed, 04 Nov 2026 23:37:35 +0000</pubDate>
+      <description>Anil Dash</description>
+    </item>
     <item>
       <title>“It Gives Great Demo”</title>
       <link>https://blog.jim-nielsen.com/2026/it-gives-great-demo/</link>
@@ -242,13 +256,6 @@
       <guid isPermaLink="true">https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/</guid>
       <pubDate>Tue, 03 Nov 2026 02:24:31 +0000</pubDate>
       <description>Krebs on Security</description>
-    </item>
-    <item>
-      <title>How to install an app on your Commodore 64</title>
-      <link>https://anildash.com/2026/10/08/install-an-app-commodore-64/</link>
-      <guid isPermaLink="true">https://anildash.com/2026/10/08/install-an-app-commodore-64/</guid>
-      <pubDate>Tue, 03 Nov 2026 01:13:06 +0000</pubDate>
-      <description>Anil Dash</description>
     </item>
     <item>
       <title>Apple Announces Record $114.5B Fourth-Quarter Results</title>
@@ -769,18 +776,18 @@
       <description>Andrew Nesbitt</description>
     </item>
     <item>
-      <title>Psychometrics, vaccines, meat, Kowloon, luggage destruction</title>
-      <link>https://dynomight.net/shorts-8/</link>
-      <guid isPermaLink="true">https://dynomight.net/shorts-8/</guid>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
-    </item>
-    <item>
       <title>Getting good at AI takes time and practice</title>
       <link>https://seangoedecke.com/getting-good-at-ai-takes-time-and-practice/</link>
       <guid isPermaLink="true">https://seangoedecke.com/getting-good-at-ai-takes-time-and-practice/</guid>
       <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Psychometrics, vaccines, meat, Kowloon, luggage destruction</title>
+      <link>https://dynomight.net/shorts-8/</link>
+      <guid isPermaLink="true">https://dynomight.net/shorts-8/</guid>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>Siri AI Expands to More Languages in OS 27.2</title>
@@ -837,13 +844,6 @@
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/noctua-fan-swap-calnex-rb-gps-frequency-reference/</guid>
       <pubDate>Tue, 27 Oct 2026 16:37:00 +0000</pubDate>
       <description>Jeff Geerling</description>
-    </item>
-    <item>
-      <title>I'm a Full-Time Open Source Developer Now</title>
-      <link>https://blog.miguelgrinberg.com/post/i-m-full-time-open-source-developer-now</link>
-      <guid isPermaLink="true">https://blog.miguelgrinberg.com/post/i-m-full-time-open-source-developer-now</guid>
-      <pubDate>Tue, 27 Oct 2026 16:00:42 +0000</pubDate>
-      <description>Miguel Grinberg's Blog</description>
     </item>
   </channel>
 </rss>

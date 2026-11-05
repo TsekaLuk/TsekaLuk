@@ -208,11 +208,11 @@ Last Updated: Thursday, November 5th, 2026, 12:44:09 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Want to Rent an Internet Address at the White House?](https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/) — *Krebs on Security* `11-05`
+- [How to install an app on your Commodore 64](https://anildash.com/2026/10/08/install-an-app-commodore-64/) — *Anil Dash* `11-04`
 - [“It Gives Great Demo”](https://blog.jim-nielsen.com/2026/it-gives-great-demo/) — *Jim Nielsen’s Blog* `11-04`
 - [datasette-llm 0.1a10](https://simonwillison.net/2026/Nov/4/datasette-llm/) — *Simon Willison's Weblog* `11-04`
 - [This Election Will Not Look Surprising in History](https://apple.news/Afq6SKrYkTcCEHrCEQmxm5A?web_embed_link=aHR0cHM6Ly9uZXdzLWFzc2V0cy5hcHBsZS5jb20vZW1iZWRzLzY2ZDQzYzg0LTMyMWYtNGQ0Ny05Mzk4LWE3NjE3NDgwZWE2Yi9pbmRleC5odG1sI2NvbnRleHQ9TU9EQUwmc3RpY2t5PWZhbHNlJmVmZmVjdD1ub25lJmxpZ2h0X2JnX2NvbG9yPWU5ZWNmMiZkYXJrX2JnX2NvbG9yPTJkM2Q1NCZzY29wZT11cyZvcmlnaW49c2hhcnJvdyZsaXZlYWN0aXZpdGllcz10cnVlJm5mZl9jaWQ9NTZjMjQ1OTQtNDIxNC00NDM0LTlhNTgtNWE1YTIxM2ZkMTBi) — *Daring Fireball* `11-04`
-- [There are things with ranks, but it’s not always clear what the ranks mean](https://devblogs.microsoft.com/oldnewthing/20261104-00/?p=112830/) — *The Old New Thing* `11-04`
-- [‘Political Reckoning Shatters Trump’s Grip on Washington’](https://www.wsj.com/politics/elections/a-political-reckoning-shatters-trumps-grip-on-washington-bd3c7705?st=xABDit) — *Daring Fireball* `11-04`
 <!--BLOG_RADAR:end-->
 
 ---
