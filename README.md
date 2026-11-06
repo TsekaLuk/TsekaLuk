@@ -208,11 +208,11 @@ Last Updated: Friday, November 6th, 2026, 12:43:19 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Quoting Paul Ford](https://simonwillison.net/2026/Nov/5/paul-ford/) — *Simon Willison's Weblog* `11-05`
-- [Gadget Review: Tozo NC9 Pro Bluetooth Headphones ★★★★⯪](https://shkspr.mobi/blog/2026/11/gadget-review-tozo-nc9-pro-bluetooth-headphones/) — *Terence Eden’s Blog* `11-05`
-- [Pluralistic: Without CDA 230, Facebook will own the internet forever (05 Nov 2026)](https://pluralistic.net/2026/11/05/see-you-in-court/) — *Pluralistic: Daily links from Cory Doctorow* `11-05`
-- [Want to Rent an Internet Address at the White House?](https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/) — *Krebs on Security* `11-05`
-- [How to install an app on your Commodore 64](https://anildash.com/2026/10/08/install-an-app-commodore-64/) — *Anil Dash* `11-04`
+- [How to install an app on your Commodore 64](https://anildash.com/2026/10/08/install-an-app-commodore-64/) — *Anil Dash* `11-06`
+- [A database is a store for global variables](https://seangoedecke.com/a-database-is-a-store-for-global-variables/) — *seangoedecke.com RSS feed* `11-06`
+- [Salon Ceases Publication](https://www.salon.com/2026/11/05/goodbye-from-salon/) — *Daring Fireball* `11-05`
+- [The benchmark where AIs have to lie to win](https://www.dwarkesh.com/p/clocktower) — *Dwarkesh Podcast* `11-05`
+- [Meta Releases Mac Version of Edits](https://edits.instagram.com/blog/edits-desktop-video-editor/) — *Daring Fireball* `11-05`
 <!--BLOG_RADAR:end-->
 
 ---

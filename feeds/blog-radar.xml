@@ -4,13 +4,62 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 05 Nov 2026 19:47:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 06:04:47 +0000</lastBuildDate>
+    <item>
+      <title>How to install an app on your Commodore 64</title>
+      <link>https://anildash.com/2026/10/08/install-an-app-commodore-64/</link>
+      <guid isPermaLink="true">https://anildash.com/2026/10/08/install-an-app-commodore-64/</guid>
+      <pubDate>Fri, 06 Nov 2026 02:32:14 +0000</pubDate>
+      <description>Anil Dash</description>
+    </item>
+    <item>
+      <title>A database is a store for global variables</title>
+      <link>https://seangoedecke.com/a-database-is-a-store-for-global-variables/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/a-database-is-a-store-for-global-variables/</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Salon Ceases Publication</title>
+      <link>https://www.salon.com/2026/11/05/goodbye-from-salon/</link>
+      <guid isPermaLink="true">https://www.salon.com/2026/11/05/goodbye-from-salon/</guid>
+      <pubDate>Thu, 05 Nov 2026 21:31:04 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>The benchmark where AIs have to lie to win</title>
+      <link>https://www.dwarkesh.com/p/clocktower</link>
+      <guid isPermaLink="true">https://www.dwarkesh.com/p/clocktower</guid>
+      <pubDate>Thu, 05 Nov 2026 21:05:50 +0000</pubDate>
+      <description>Dwarkesh Podcast</description>
+    </item>
+    <item>
+      <title>Meta Releases Mac Version of Edits</title>
+      <link>https://edits.instagram.com/blog/edits-desktop-video-editor/</link>
+      <guid isPermaLink="true">https://edits.instagram.com/blog/edits-desktop-video-editor/</guid>
+      <pubDate>Thu, 05 Nov 2026 20:27:05 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>It's unbreakable in theory</title>
+      <link>https://idiallo.com/byte-size/unbreakable-in-theory</link>
+      <guid isPermaLink="true">https://idiallo.com/byte-size/unbreakable-in-theory</guid>
+      <pubDate>Thu, 05 Nov 2026 20:20:10 +0000</pubDate>
+      <description>Software and Tech stories from an Insider - iDiallo.com</description>
+    </item>
     <item>
       <title>Quoting Paul Ford</title>
       <link>https://simonwillison.net/2026/Nov/5/paul-ford/</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Nov/5/paul-ford/</guid>
       <pubDate>Thu, 05 Nov 2026 17:34:03 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>You shouldn’t change the style of a Win32 static control after it has been created</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20261105-00/?p=112835/</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261105-00/?p=112835/</guid>
+      <pubDate>Thu, 05 Nov 2026 15:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Gadget Review: Tozo NC9 Pro Bluetooth Headphones ★★★★⯪</title>
@@ -32,13 +81,6 @@
       <guid isPermaLink="true">https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/</guid>
       <pubDate>Thu, 05 Nov 2026 04:36:17 +0000</pubDate>
       <description>Krebs on Security</description>
-    </item>
-    <item>
-      <title>How to install an app on your Commodore 64</title>
-      <link>https://anildash.com/2026/10/08/install-an-app-commodore-64/</link>
-      <guid isPermaLink="true">https://anildash.com/2026/10/08/install-an-app-commodore-64/</guid>
-      <pubDate>Wed, 04 Nov 2026 23:37:35 +0000</pubDate>
-      <description>Anil Dash</description>
     </item>
     <item>
       <title>“It Gives Great Demo”</title>
@@ -552,18 +594,18 @@
       <description>Dwarkesh Podcast</description>
     </item>
     <item>
-      <title>The Microsoft building that was reportedly haunted</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20261030-00/?p=112815/</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261030-00/?p=112815/</guid>
-      <pubDate>Fri, 30 Oct 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
       <title>Rejoice, leap seconds are dead!</title>
       <link>https://www.jeffgeerling.com/blog/2026/rejoice-the-utc-leap-second-is-dead/</link>
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/rejoice-the-utc-leap-second-is-dead/</guid>
       <pubDate>Fri, 30 Oct 2026 14:00:00 +0000</pubDate>
       <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>The Microsoft building that was reportedly haunted</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20261030-00/?p=112815/</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261030-00/?p=112815/</guid>
+      <pubDate>Fri, 30 Oct 2026 14:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Book Review: The God of Small Things by Arundhati Roy ★★☆☆☆</title>
@@ -802,48 +844,6 @@
       <guid isPermaLink="true">https://seangoedecke.com/getting-good-at-ai-takes-time-and-practice/</guid>
       <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>Psychometrics, vaccines, meat, Kowloon, luggage destruction</title>
-      <link>https://dynomight.net/shorts-8/</link>
-      <guid isPermaLink="true">https://dynomight.net/shorts-8/</guid>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
-    </item>
-    <item>
-      <title>Siri AI Expands to More Languages in OS 27.2</title>
-      <link>https://nr.apple.com/Du9G9W8Nq1</link>
-      <guid isPermaLink="true">https://nr.apple.com/Du9G9W8Nq1</guid>
-      <pubDate>Tue, 27 Oct 2026 23:19:39 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Apple Creator Studio Updated With a Slew of AI Features, Along With a New Open JSON File Format for Keynote</title>
-      <link>https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/</link>
-      <guid isPermaLink="true">https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/</guid>
-      <pubDate>Tue, 27 Oct 2026 23:00:04 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>★ Prestructured WYSIWYG</title>
-      <link>https://daringfireball.net/2026/10/prestructured_wysiwyg</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/10/prestructured_wysiwyg</guid>
-      <pubDate>Tue, 27 Oct 2026 22:24:20 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Game Boy Color on My Conference Badge</title>
-      <link>https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/</guid>
-      <pubDate>Tue, 27 Oct 2026 19:34:18 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>What’s Left for ‘Pro and Tell’ Week: Touch-Enabled OLED MacBooks</title>
-      <link>https://www.macrumors.com/2026/10/27/macbook-pro-with-touchscreen-tomorrow/</link>
-      <guid isPermaLink="true">https://www.macrumors.com/2026/10/27/macbook-pro-with-touchscreen-tomorrow/</guid>
-      <pubDate>Tue, 27 Oct 2026 18:59:47 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
