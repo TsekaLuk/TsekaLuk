@@ -208,11 +208,11 @@ Last Updated: Friday, November 6th, 2026, 9:36:51 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [How to install an app on your Commodore 64](https://anildash.com/2026/10/08/install-an-app-commodore-64/) — *Anil Dash* `11-06`
-- [A database is a store for global variables](https://seangoedecke.com/a-database-is-a-store-for-global-variables/) — *seangoedecke.com RSS feed* `11-06`
-- [Salon Ceases Publication](https://www.salon.com/2026/11/05/goodbye-from-salon/) — *Daring Fireball* `11-05`
-- [The benchmark where AIs have to lie to win](https://www.dwarkesh.com/p/clocktower) — *Dwarkesh Podcast* `11-05`
-- [Meta Releases Mac Version of Edits](https://edits.instagram.com/blog/edits-desktop-video-editor/) — *Daring Fireball* `11-05`
+- [Quoting Nilay Patel](https://simonwillison.net/2026/Nov/6/nilay-patel/) — *Simon Willison's Weblog* `11-06`
+- [Static site generators are weird](https://evanhahn.com/static-site-generators-are-weird/) — *Evan Hahn (dot com)* `11-06`
+- [Premium: Fault Lines](https://www.wheresyoured.at/premium-fault-lines/) — *Ed Zitron's Where's Your Ed At* `11-06`
+- [Deus Ex](https://www.filfre.net/2026/11/deus-ex/) — *The Digital Antiquarian* `11-06`
+- [Apple Support: ‘About the Illuminated Apple Logo on MacBook Pro With PROLED XDR Display’](https://support.apple.com/en-us/149248) — *Daring Fireball* `11-06`
 <!--BLOG_RADAR:end-->
 
 ---
