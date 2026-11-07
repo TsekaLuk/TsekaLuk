@@ -208,11 +208,11 @@ Last Updated: Sunday, November 8th, 2026, 5:19:39 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Yours Truly on Full Stack Creator, Talking About the New MacBook Pros With PROLED XDR Displays](https://www.youtube.com/watch?v=f2GZtWuUPl0) — *Daring Fireball* `11-07`
+- [Reading List 11/7/2026](https://www.construction-physics.com/p/reading-list-1172026) — *Construction Physics* `11-07`
+- [Pluralistic: JS Tan and Clarissa Redwine's "Against Tech Oligarchy" (07 Nov 2026)](https://pluralistic.net/2026/11/07/aeiou-but-sometimes-why/) — *Pluralistic: Daily links from Cory Doctorow* `11-07`
 - [Book Review: When the Dust Settles - Stories of Love, Loss and Hope from an Expert in Disaster by Lucy Easthope ★★★★★](https://shkspr.mobi/blog/2026/11/book-review-when-the-dust-settles-stories-of-love-loss-and-hope-from-an-expert-in-disaster-by-lucy-easthope/) — *Terence Eden’s Blog* `11-07`
 - [This Week in Package Management: 7 November 2026](https://nesbitt.io/2026/11/07/this-week-in-package-management.html) — *Andrew Nesbitt* `11-07`
-- [Working with designers](https://seangoedecke.com/working-with-designers/) — *seangoedecke.com RSS feed* `11-07`
-- [★ Touch and Glow](https://daringfireball.net/2026/11/touch_and_glow) — *Daring Fireball* `11-06`
-- [Quoting Nilay Patel](https://simonwillison.net/2026/Nov/6/nilay-patel/) — *Simon Willison's Weblog* `11-06`
 <!--BLOG_RADAR:end-->
 
 ---
