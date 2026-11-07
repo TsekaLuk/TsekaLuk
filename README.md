@@ -208,11 +208,11 @@ Last Updated: Saturday, November 7th, 2026, 12:11:23 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Working with designers](https://seangoedecke.com/working-with-designers/) — *seangoedecke.com RSS feed* `11-07`
+- [★ Touch and Glow](https://daringfireball.net/2026/11/touch_and_glow) — *Daring Fireball* `11-06`
 - [Quoting Nilay Patel](https://simonwillison.net/2026/Nov/6/nilay-patel/) — *Simon Willison's Weblog* `11-06`
 - [Static site generators are weird](https://evanhahn.com/static-site-generators-are-weird/) — *Evan Hahn (dot com)* `11-06`
 - [Premium: Fault Lines](https://www.wheresyoured.at/premium-fault-lines/) — *Ed Zitron's Where's Your Ed At* `11-06`
-- [Deus Ex](https://www.filfre.net/2026/11/deus-ex/) — *The Digital Antiquarian* `11-06`
-- [Apple Support: ‘About the Illuminated Apple Logo on MacBook Pro With PROLED XDR Display’](https://support.apple.com/en-us/149248) — *Daring Fireball* `11-06`
 <!--BLOG_RADAR:end-->
 
 ---

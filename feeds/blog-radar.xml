@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 06 Nov 2026 19:11:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 05:36:40 +0000</lastBuildDate>
+    <item>
+      <title>Working with designers</title>
+      <link>https://seangoedecke.com/working-with-designers/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/working-with-designers/</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>★ Touch and Glow</title>
+      <link>https://daringfireball.net/2026/11/touch_and_glow</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/11/touch_and_glow</guid>
+      <pubDate>Fri, 06 Nov 2026 19:50:46 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Quoting Nilay Patel</title>
       <link>https://simonwillison.net/2026/Nov/6/nilay-patel/</link>
@@ -48,6 +62,13 @@
       <description>Daring Fireball</description>
     </item>
     <item>
+      <title>Why are we all worked up about atomicity when applying hot-patches if we can just suspend all the threads?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20261106-00/?p=112838/</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261106-00/?p=112838/</guid>
+      <pubDate>Fri, 06 Nov 2026 15:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
+    <item>
       <title>How Do Building Codes Affect the Price of Housing?</title>
       <link>https://www.construction-physics.com/p/how-do-building-codes-affect-the</link>
       <guid isPermaLink="true">https://www.construction-physics.com/p/how-do-building-codes-affect-the</guid>
@@ -81,6 +102,13 @@
       <guid isPermaLink="true">https://anildash.com/2026/10/08/install-an-app-commodore-64/</guid>
       <pubDate>Fri, 06 Nov 2026 02:32:14 +0000</pubDate>
       <description>Anil Dash</description>
+    </item>
+    <item>
+      <title>Libghostty 1.0</title>
+      <link>https://mitchellh.com/writing/libghostty-1-0</link>
+      <guid isPermaLink="true">https://mitchellh.com/writing/libghostty-1-0</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Mitchell Hashimoto</description>
     </item>
     <item>
       <title>A database is a store for global variables</title>
@@ -797,13 +825,6 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
-      <title>Avoid Public Functions Calling Other Public Functions</title>
-      <link>https://matklad.github.io/2026/10/29/pub-calls-pub.html</link>
-      <guid isPermaLink="true">https://matklad.github.io/2026/10/29/pub-calls-pub.html</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-      <description>matklad</description>
-    </item>
-    <item>
       <title>Custom Voices With Qwen3-TTS</title>
       <link>https://lucumr.pocoo.org/2026/10/29/qwen3-custom-voices/</link>
       <guid isPermaLink="true">https://lucumr.pocoo.org/2026/10/29/qwen3-custom-voices/</guid>
@@ -811,39 +832,18 @@
       <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
+      <title>Avoid Public Functions Calling Other Public Functions</title>
+      <link>https://matklad.github.io/2026/10/29/pub-calls-pub.html</link>
+      <guid isPermaLink="true">https://matklad.github.io/2026/10/29/pub-calls-pub.html</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <description>matklad</description>
+    </item>
+    <item>
       <title>Making agents fast - what I've learnt over the last 12 months</title>
       <link>https://martinalderson.com/posts/making-agents-fast/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
       <guid isPermaLink="true">https://martinalderson.com/posts/making-agents-fast/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
       <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
       <description>Martin Alderson</description>
-    </item>
-    <item>
-      <title>Quoting Ted Sanders</title>
-      <link>https://simonwillison.net/2026/Oct/28/ted-sanders/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/28/ted-sanders/</guid>
-      <pubDate>Wed, 28 Oct 2026 23:23:21 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Extremely brief history of PDP computers</title>
-      <link>https://entropicthoughts.com/history-of-pdp-computers</link>
-      <guid isPermaLink="true">https://entropicthoughts.com/history-of-pdp-computers</guid>
-      <pubDate>Wed, 28 Oct 2026 23:00:00 +0000</pubDate>
-      <description>Entropic Thoughts</description>
-    </item>
-    <item>
-      <title>Exit Liquidity</title>
-      <link>https://www.wheresyoured.at/exit-liquidity/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/exit-liquidity/</guid>
-      <pubDate>Wed, 28 Oct 2026 17:51:00 +0000</pubDate>
-      <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>GitHub Octoverse 2026</title>
-      <link>https://simonwillison.net/2026/Oct/28/github-octoverse-2026/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/28/github-octoverse-2026/</guid>
-      <pubDate>Wed, 28 Oct 2026 16:45:23 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
