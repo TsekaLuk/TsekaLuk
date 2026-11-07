@@ -208,11 +208,11 @@ Last Updated: Saturday, November 7th, 2026, 8:16:13 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Book Review: When the Dust Settles - Stories of Love, Loss and Hope from an Expert in Disaster by Lucy Easthope ★★★★★](https://shkspr.mobi/blog/2026/11/book-review-when-the-dust-settles-stories-of-love-loss-and-hope-from-an-expert-in-disaster-by-lucy-easthope/) — *Terence Eden’s Blog* `11-07`
+- [This Week in Package Management: 7 November 2026](https://nesbitt.io/2026/11/07/this-week-in-package-management.html) — *Andrew Nesbitt* `11-07`
 - [Working with designers](https://seangoedecke.com/working-with-designers/) — *seangoedecke.com RSS feed* `11-07`
 - [★ Touch and Glow](https://daringfireball.net/2026/11/touch_and_glow) — *Daring Fireball* `11-06`
 - [Quoting Nilay Patel](https://simonwillison.net/2026/Nov/6/nilay-patel/) — *Simon Willison's Weblog* `11-06`
-- [Static site generators are weird](https://evanhahn.com/static-site-generators-are-weird/) — *Evan Hahn (dot com)* `11-06`
-- [Premium: Fault Lines](https://www.wheresyoured.at/premium-fault-lines/) — *Ed Zitron's Where's Your Ed At* `11-06`
 <!--BLOG_RADAR:end-->
 
 ---

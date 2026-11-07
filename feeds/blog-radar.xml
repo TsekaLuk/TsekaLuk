@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 07 Nov 2026 05:36:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 12:47:19 +0000</lastBuildDate>
+    <item>
+      <title>Book Review: When the Dust Settles - Stories of Love, Loss and Hope from an Expert in Disaster by Lucy Easthope ★★★★★</title>
+      <link>https://shkspr.mobi/blog/2026/11/book-review-when-the-dust-settles-stories-of-love-loss-and-hope-from-an-expert-in-disaster-by-lucy-easthope/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/11/book-review-when-the-dust-settles-stories-of-love-loss-and-hope-from-an-expert-in-disaster-by-lucy-easthope/</guid>
+      <pubDate>Sat, 07 Nov 2026 12:34:34 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>This Week in Package Management: 7 November 2026</title>
+      <link>https://nesbitt.io/2026/11/07/this-week-in-package-management.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/11/07/this-week-in-package-management.html</guid>
+      <pubDate>Sat, 07 Nov 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
     <item>
       <title>Working with designers</title>
       <link>https://seangoedecke.com/working-with-designers/</link>
@@ -116,6 +130,13 @@
       <guid isPermaLink="true">https://seangoedecke.com/a-database-is-a-store-for-global-variables/</guid>
       <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>A bit about email</title>
+      <link>https://maurycyz.com/misc/email/</link>
+      <guid isPermaLink="true">https://maurycyz.com/misc/email/</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
     </item>
     <item>
       <title>Salon Ceases Publication</title>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://seangoedecke.com/you-can-just-ask-ai-to-do-things/</guid>
       <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>Custom Voices With Qwen3-TTS</title>
-      <link>https://lucumr.pocoo.org/2026/10/29/qwen3-custom-voices/</link>
-      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/10/29/qwen3-custom-voices/</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Armin Ronacher's Thoughts and Writings</description>
-    </item>
-    <item>
-      <title>Avoid Public Functions Calling Other Public Functions</title>
-      <link>https://matklad.github.io/2026/10/29/pub-calls-pub.html</link>
-      <guid isPermaLink="true">https://matklad.github.io/2026/10/29/pub-calls-pub.html</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-      <description>matklad</description>
-    </item>
-    <item>
-      <title>Making agents fast - what I've learnt over the last 12 months</title>
-      <link>https://martinalderson.com/posts/making-agents-fast/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
-      <guid isPermaLink="true">https://martinalderson.com/posts/making-agents-fast/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Martin Alderson</description>
     </item>
   </channel>
 </rss>
