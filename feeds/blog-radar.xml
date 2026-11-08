@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 07 Nov 2026 21:40:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 05:38:36 +0000</lastBuildDate>
+    <item>
+      <title>datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages</title>
+      <link>https://simonwillison.net/2026/Nov/7/link-rel-next/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/7/link-rel-next/</guid>
+      <pubDate>Sat, 07 Nov 2026 23:57:46 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Yours Truly on Full Stack Creator, Talking About the New MacBook Pros With PROLED XDR Displays</title>
       <link>https://www.youtube.com/watch?v=f2GZtWuUPl0</link>
@@ -165,13 +172,6 @@
       <guid isPermaLink="true">https://www.salon.com/2026/11/05/goodbye-from-salon/</guid>
       <pubDate>Thu, 05 Nov 2026 21:31:04 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The benchmark where AIs have to lie to win</title>
-      <link>https://www.dwarkesh.com/p/clocktower</link>
-      <guid isPermaLink="true">https://www.dwarkesh.com/p/clocktower</guid>
-      <pubDate>Thu, 05 Nov 2026 21:05:50 +0000</pubDate>
-      <description>Dwarkesh Podcast</description>
     </item>
     <item>
       <title>Meta Releases Mac Version of Edits</title>
@@ -468,13 +468,6 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Prove you are not a child</title>
-      <link>https://idiallo.com/blog/prove-you-are-not-a-child</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/prove-you-are-not-a-child</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Software and Tech stories from an Insider - iDiallo.com</description>
-    </item>
-    <item>
       <title>LLMs are not superhuman at reading and writing neural network weights</title>
       <link>https://seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/</link>
       <guid isPermaLink="true">https://seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/</guid>
@@ -487,6 +480,13 @@
       <guid isPermaLink="true">https://seangoedecke.com/audience-capture/</guid>
       <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Prove you are not a child</title>
+      <link>https://idiallo.com/blog/prove-you-are-not-a-child</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/prove-you-are-not-a-child</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Software and Tech stories from an Insider - iDiallo.com</description>
     </item>
     <item>
       <title>I wish tech companies knew more about me</title>
@@ -727,13 +727,6 @@
       <description>The Digital Antiquarian</description>
     </item>
     <item>
-      <title>What Robert Caro learned about power after studying it for 50 years</title>
-      <link>https://www.dwarkesh.com/p/robert-caro</link>
-      <guid isPermaLink="true">https://www.dwarkesh.com/p/robert-caro</guid>
-      <pubDate>Fri, 30 Oct 2026 16:56:02 +0000</pubDate>
-      <description>Dwarkesh Podcast</description>
-    </item>
-    <item>
       <title>Rejoice, leap seconds are dead!</title>
       <link>https://www.jeffgeerling.com/blog/2026/rejoice-the-utc-leap-second-is-dead/</link>
       <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/rejoice-the-utc-leap-second-is-dead/</guid>
@@ -811,13 +804,6 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
-      <title>What I learned about power from LBJ and Robert Moses</title>
-      <link>https://www.dwarkesh.com/p/lessons-in-power</link>
-      <guid isPermaLink="true">https://www.dwarkesh.com/p/lessons-in-power</guid>
-      <pubDate>Thu, 29 Oct 2026 16:48:39 +0000</pubDate>
-      <description>Dwarkesh Podcast</description>
-    </item>
-    <item>
       <title>The Space Shuttle Discovery’s Starboard Side ‘s’ Is Upside Down</title>
       <link>https://www.theautopian.com/a-typography-geek-pointed-out-something-about-the-space-shuttle-discovery-and-now-i-cant-unsee-it/</link>
       <guid isPermaLink="true">https://www.theautopian.com/a-typography-geek-pointed-out-something-about-the-space-shuttle-discovery-and-now-i-cant-unsee-it/</guid>
@@ -844,6 +830,20 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261029-00/?p=112808/</guid>
       <pubDate>Thu, 29 Oct 2026 14:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>Steven Levy on the New MacBook Pro, With, Yes, a Touchscreen</title>
+      <link>https://www.wired.com/story/the-inside-story-of-why-apple-finally-brought-a-touch-display-to-the-mac/</link>
+      <guid isPermaLink="true">https://www.wired.com/story/the-inside-story-of-why-apple-finally-brought-a-touch-display-to-the-mac/</guid>
+      <pubDate>Thu, 29 Oct 2026 05:06:15 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>You can just ask AI to do things</title>
+      <link>https://seangoedecke.com/you-can-just-ask-ai-to-do-things/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/you-can-just-ask-ai-to-do-things/</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
     </item>
   </channel>
 </rss>

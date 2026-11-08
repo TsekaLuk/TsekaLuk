@@ -208,11 +208,11 @@ Last Updated: Sunday, November 8th, 2026, 11:54:47 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages](https://simonwillison.net/2026/Nov/7/link-rel-next/) — *Simon Willison's Weblog* `11-07`
 - [Yours Truly on Full Stack Creator, Talking About the New MacBook Pros With PROLED XDR Displays](https://www.youtube.com/watch?v=f2GZtWuUPl0) — *Daring Fireball* `11-07`
 - [Reading List 11/7/2026](https://www.construction-physics.com/p/reading-list-1172026) — *Construction Physics* `11-07`
 - [Pluralistic: JS Tan and Clarissa Redwine's "Against Tech Oligarchy" (07 Nov 2026)](https://pluralistic.net/2026/11/07/aeiou-but-sometimes-why/) — *Pluralistic: Daily links from Cory Doctorow* `11-07`
 - [Book Review: When the Dust Settles - Stories of Love, Loss and Hope from an Expert in Disaster by Lucy Easthope ★★★★★](https://shkspr.mobi/blog/2026/11/book-review-when-the-dust-settles-stories-of-love-loss-and-hope-from-an-expert-in-disaster-by-lucy-easthope/) — *Terence Eden’s Blog* `11-07`
-- [This Week in Package Management: 7 November 2026](https://nesbitt.io/2026/11/07/this-week-in-package-management.html) — *Andrew Nesbitt* `11-07`
 <!--BLOG_RADAR:end-->
 
 ---
