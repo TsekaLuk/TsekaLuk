@@ -208,11 +208,11 @@ Last Updated: Monday, November 9th, 2026, 5:33:58 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Nvidia CEO Jensen Huang Was Banging a Chinese Spy, Who Was Feeding Information Back to Beijing](https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html?unlocked_article_code=1.O1E.Soow.6UjrM7Ch-C8L) — *Daring Fireball* `11-08`
+- [Reverse engineering a vintage diode-transistor logic chip](http://www.righto.com/2026/11/signetics-st680a-dtl-nand.html) — *Ken Shirriff's blog* `11-08`
 - [Some thoughts on restaurant menu QR codes](https://shkspr.mobi/blog/2026/11/some-thoughts-on-restaurant-menu-qr-codes/) — *Terence Eden’s Blog* `11-08`
 - [LLMs are terrible at designing AI systems](https://seangoedecke.com/llms-are-terrible-at-designing-ai-systems/) — *seangoedecke.com RSS feed* `11-08`
-- [datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages](https://simonwillison.net/2026/Nov/7/link-rel-next/) — *Simon Willison's Weblog* `11-07`
-- [Yours Truly on Full Stack Creator, Talking About the New MacBook Pros With PROLED XDR Displays](https://www.youtube.com/watch?v=f2GZtWuUPl0) — *Daring Fireball* `11-07`
-- [Reading List 11/7/2026](https://www.construction-physics.com/p/reading-list-1172026) — *Construction Physics* `11-07`
+- [The great software IP writedown](https://martinalderson.com/posts/the-great-software-ip-writedown/?utm_source=rss&utm_medium=rss&utm_campaign=feed) — *Martin Alderson* `11-08`
 <!--BLOG_RADAR:end-->
 
 ---
