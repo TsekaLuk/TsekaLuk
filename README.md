@@ -208,11 +208,11 @@ Last Updated: Monday, November 9th, 2026, 12:09:09 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Nvidia CEO Jensen Huang Was Banging a Chinese Spy, Who Was Feeding Information Back to Beijing](https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html?unlocked_article_code=1.O1E.Soow.6UjrM7Ch-C8L) — *Daring Fireball* `11-08`
-- [Reverse engineering a vintage diode-transistor logic chip](http://www.righto.com/2026/11/signetics-st680a-dtl-nand.html) — *Ken Shirriff's blog* `11-08`
-- [Some thoughts on restaurant menu QR codes](https://shkspr.mobi/blog/2026/11/some-thoughts-on-restaurant-menu-qr-codes/) — *Terence Eden’s Blog* `11-08`
-- [LLMs are terrible at designing AI systems](https://seangoedecke.com/llms-are-terrible-at-designing-ai-systems/) — *seangoedecke.com RSS feed* `11-08`
-- [The great software IP writedown](https://martinalderson.com/posts/the-great-software-ip-writedown/?utm_source=rss&utm_medium=rss&utm_campaign=feed) — *Martin Alderson* `11-08`
+- [The Web Is More Than Enough, by Paul Ford](https://simonwillison.net/2026/Nov/9/hn-50421091/) — *Simon Willison's Weblog* `11-09`
+- [Hide your slop PR descriptions behind <details><summary>](https://simonwillison.net/2026/Nov/9/details-summary/) — *Simon Willison's Weblog* `11-09`
+- [Yak-Shaving Overload](https://feed.tedium.co/link/15204/17518143/yak-shaving-ai-mental-health-effects) — *Tedium: The Dull Side of the Internet.* `11-09`
+- [Jensen Huang Betrayed Nvidia, Not Just His Family](https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html?unlocked_article_code=1.O1E.DRyO.9mNcxhaxhtlI) — *Daring Fireball* `11-08`
+- [Finite Projective Planes](https://www.johndcook.com/blog/2026/11/08/finite-geometries/) — *John D. Cook* `11-08`
 <!--BLOG_RADAR:end-->
 
 ---

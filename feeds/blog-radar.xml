@@ -4,13 +4,62 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 08 Nov 2026 21:54:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 05:47:47 +0000</lastBuildDate>
+    <item>
+      <title>The Web Is More Than Enough, by Paul Ford</title>
+      <link>https://simonwillison.net/2026/Nov/9/hn-50421091/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/9/hn-50421091/</guid>
+      <pubDate>Mon, 09 Nov 2026 04:32:33 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Hide your slop PR descriptions behind &lt;details&gt;&lt;summary&gt;</title>
+      <link>https://simonwillison.net/2026/Nov/9/details-summary/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/9/details-summary/</guid>
+      <pubDate>Mon, 09 Nov 2026 04:25:05 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Yak-Shaving Overload</title>
+      <link>https://feed.tedium.co/link/15204/17518143/yak-shaving-ai-mental-health-effects</link>
+      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17518143/yak-shaving-ai-mental-health-effects</guid>
+      <pubDate>Mon, 09 Nov 2026 02:50:32 +0000</pubDate>
+      <description>Tedium: The Dull Side of the Internet.</description>
+    </item>
+    <item>
+      <title>Jensen Huang Betrayed Nvidia, Not Just His Family</title>
+      <link>https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html?unlocked_article_code=1.O1E.DRyO.9mNcxhaxhtlI</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html?unlocked_article_code=1.O1E.DRyO.9mNcxhaxhtlI</guid>
+      <pubDate>Sun, 08 Nov 2026 23:56:32 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Finite Projective Planes</title>
+      <link>https://www.johndcook.com/blog/2026/11/08/finite-geometries/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/11/08/finite-geometries/</guid>
+      <pubDate>Sun, 08 Nov 2026 23:23:49 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>parse_number() as a SQLite extension: C vs Rust</title>
+      <link>https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/</guid>
+      <pubDate>Sun, 08 Nov 2026 22:26:00 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Nvidia CEO Jensen Huang Was Banging a Chinese Spy, Who Was Feeding Information Back to Beijing</title>
       <link>https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html?unlocked_article_code=1.O1E.Soow.6UjrM7Ch-C8L</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html?unlocked_article_code=1.O1E.Soow.6UjrM7Ch-C8L</guid>
       <pubDate>Sun, 08 Nov 2026 21:50:31 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Addition By Subtraction</title>
+      <link>https://blog.jim-nielsen.com/2026/addition-by-subtraction/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/addition-by-subtraction/</guid>
+      <pubDate>Sun, 08 Nov 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
     </item>
     <item>
       <title>Reverse engineering a vintage diode-transistor logic chip</title>
@@ -34,6 +83,13 @@
       <description>seangoedecke.com RSS feed</description>
     </item>
     <item>
+      <title>Horible public key tricks:</title>
+      <link>https://maurycyz.com/projects/badcert/</link>
+      <guid isPermaLink="true">https://maurycyz.com/projects/badcert/</guid>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
+    </item>
+    <item>
       <title>The great software IP writedown</title>
       <link>https://martinalderson.com/posts/the-great-software-ip-writedown/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
       <guid isPermaLink="true">https://martinalderson.com/posts/the-great-software-ip-writedown/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
@@ -53,6 +109,13 @@
       <guid isPermaLink="true">https://www.youtube.com/watch?v=f2GZtWuUPl0</guid>
       <pubDate>Sat, 07 Nov 2026 21:14:09 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Terry Pratchett's Study</title>
+      <link>https://simonwillison.net/2026/Nov/7/hn-50407316/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/7/hn-50407316/</guid>
+      <pubDate>Sat, 07 Nov 2026 19:34:24 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
     <item>
       <title>Reading List 11/7/2026</title>
@@ -389,6 +452,13 @@
       <guid isPermaLink="true">https://www.wheresyoured.at/running-dry/</guid>
       <pubDate>Tue, 03 Nov 2026 17:16:20 +0000</pubDate>
       <description>Ed Zitron's Where's Your Ed At</description>
+    </item>
+    <item>
+      <title>AI is destroying my CS degree</title>
+      <link>https://simonwillison.net/2026/Nov/3/hn-50354278/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/3/hn-50354278/</guid>
+      <pubDate>Tue, 03 Nov 2026 16:42:02 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
     <item>
       <title>Qwen 3.8 27B on my laptop can interpret model weights, too</title>
@@ -774,76 +844,6 @@
       <guid isPermaLink="true">https://www.dwarkesh.com/p/robert-caro</guid>
       <pubDate>Fri, 30 Oct 2026 16:56:02 +0000</pubDate>
       <description>Dwarkesh Podcast</description>
-    </item>
-    <item>
-      <title>Rejoice, leap seconds are dead!</title>
-      <link>https://www.jeffgeerling.com/blog/2026/rejoice-the-utc-leap-second-is-dead/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/rejoice-the-utc-leap-second-is-dead/</guid>
-      <pubDate>Fri, 30 Oct 2026 14:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
-      <title>The Microsoft building that was reportedly haunted</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20261030-00/?p=112815/</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261030-00/?p=112815/</guid>
-      <pubDate>Fri, 30 Oct 2026 14:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Book Review: The God of Small Things by Arundhati Roy ★★☆☆☆</title>
-      <link>https://shkspr.mobi/blog/2026/10/book-review-the-god-of-small-things-by-arundhati-roy/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/10/book-review-the-god-of-small-things-by-arundhati-roy/</guid>
-      <pubDate>Fri, 30 Oct 2026 12:34:22 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Signing and Attestations Across Package Registries</title>
-      <link>https://nesbitt.io/2026/10/30/signing-and-attestations-across-package-registries.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/10/30/signing-and-attestations-across-package-registries.html</guid>
-      <pubDate>Fri, 30 Oct 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Elegance and intelligence are anticorrelated</title>
-      <link>https://seangoedecke.com/elegance-and-intelligence-are-anticorrelated/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/elegance-and-intelligence-are-anticorrelated/</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>API credits benefit for eligible ChatGPT subscriptions</title>
-      <link>https://simonwillison.net/2026/Oct/29/api-credits/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/29/api-credits/</guid>
-      <pubDate>Thu, 29 Oct 2026 22:48:29 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Apple Drops App Store Commission by a Whopping 4 Percentage Points in Taiwan</title>
-      <link>https://developer.apple.com/news/?id=w9mxlhek</link>
-      <guid isPermaLink="true">https://developer.apple.com/news/?id=w9mxlhek</guid>
-      <pubDate>Thu, 29 Oct 2026 22:03:42 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>A Health Update From Craig Hockenberry</title>
-      <link>https://furbo.org/2026/10/28/a-health-update/</link>
-      <guid isPermaLink="true">https://furbo.org/2026/10/28/a-health-update/</guid>
-      <pubDate>Thu, 29 Oct 2026 20:57:21 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Rolfe Winkler at The WSJ: ‘The Beleaguered Chip Sellers Getting Their Revenge on Apple’</title>
-      <link>https://www.wsj.com/tech/apple-iphone-memory-chips-ai-c0084cc9?st=FNAyaT</link>
-      <guid isPermaLink="true">https://www.wsj.com/tech/apple-iphone-memory-chips-ai-c0084cc9?st=FNAyaT</guid>
-      <pubDate>Thu, 29 Oct 2026 20:44:11 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Celebrating SIM Cards</title>
-      <link>https://blog.jim-nielsen.com/2026/celebrating-sim-cards/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/celebrating-sim-cards/</guid>
-      <pubDate>Thu, 29 Oct 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
     </item>
   </channel>
 </rss>
