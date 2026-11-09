@@ -208,11 +208,11 @@ Last Updated: Monday, November 9th, 2026, 10:55:23 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [The Web Is More Than Enough, by Paul Ford](https://simonwillison.net/2026/Nov/9/hn-50421091/) — *Simon Willison's Weblog* `11-09`
-- [Hide your slop PR descriptions behind <details><summary>](https://simonwillison.net/2026/Nov/9/details-summary/) — *Simon Willison's Weblog* `11-09`
-- [Yak-Shaving Overload](https://feed.tedium.co/link/15204/17518143/yak-shaving-ai-mental-health-effects) — *Tedium: The Dull Side of the Internet.* `11-09`
-- [Jensen Huang Betrayed Nvidia, Not Just His Family](https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html?unlocked_article_code=1.O1E.DRyO.9mNcxhaxhtlI) — *Daring Fireball* `11-08`
-- [Finite Projective Planes](https://www.johndcook.com/blog/2026/11/08/finite-geometries/) — *John D. Cook* `11-08`
+- [Finite hyperbolic planes](https://www.johndcook.com/blog/2026/11/09/finite-hyperbolic-planes/) — *John D. Cook* `11-09`
+- [Finite Affine Planes](https://www.johndcook.com/blog/2026/11/09/finite-affine-planes/) — *John D. Cook* `11-09`
+- [Blunt Banhammer Blocks Basic Bots Ballistically](https://shkspr.mobi/blog/2026/11/blunt-banhammer-blocks-basic-bots-ballistically/) — *Terence Eden’s Blog* `11-09`
+- [Introducing Ninety](https://nesbitt.io/2026/11/09/introducing-ninety.html) — *Andrew Nesbitt* `11-09`
+- [Pluralistic: America cannot undo Trumpism (09 Nov 2026)](https://pluralistic.net/2026/11/09/brunch-is-canceled-forever/) — *Pluralistic: Daily links from Cory Doctorow* `11-09`
 <!--BLOG_RADAR:end-->
 
 ---
