@@ -185,10 +185,12 @@ As **Founder & CEO**, I operate **Nebutra Intelligence** as an **AI-Native OPC (
 ### 🕒 **Recent Activity**
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 10th, 2026, 9:03:26 AM
+Last Updated: Tuesday, November 10th, 2026, 10:08:00 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+- ⭐ Starred [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)<br>
+- ⭐ Starred [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop)<br>
 - ⭐ Starred [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)<br>
 - ⭐ Starred [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design)<br>
 - ⬆️ Pushed updates to [Nebutra/Sailor-Template](https://github.com/Nebutra/Sailor-Template)<br>
@@ -197,8 +199,6 @@ Last Updated: Tuesday, November 10th, 2026, 9:03:26 AM
 - ⬆️ Pushed updates to [Nebutra/Nebutra-Sailor](https://github.com/Nebutra/Nebutra-Sailor)<br>
 - ⬆️ Pushed updates to [Nebutra/Nebutra-Sailor](https://github.com/Nebutra/Nebutra-Sailor)<br>
 - ⬆️ Pushed updates to [Nebutra/provider-factory](https://github.com/Nebutra/provider-factory)<br>
-- ⬆️ Pushed updates to [Nebutra/code-execution](https://github.com/Nebutra/code-execution)<br>
-- ⬆️ Pushed updates to [Nebutra/agents](https://github.com/Nebutra/agents)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
