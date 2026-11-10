@@ -208,11 +208,11 @@ Last Updated: Tuesday, November 10th, 2026, 10:08:00 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Weekly Update 529: Kids Social Media Bans (and Everything Else)](https://www.troyhunt.com/weekly-update-529/) — *Troy Hunt* `11-10`
-- [llm-anthropic 0.31](https://simonwillison.net/2026/Nov/9/llm-anthropic/) — *Simon Willison's Weblog* `11-09`
-- [Locating the source of a mysterious beep with Claude](https://simonwillison.net/2026/Nov/9/mysterious-beeps/) — *Simon Willison's Weblog* `11-09`
-- [Bloomberg Was Onto Megaspeed’s Game a Year Ago](https://www.bloomberg.com/news/features/2025-12-22/nvidia-partner-megaspeed-draws-china-chip-smuggling-concerns-in-us) — *Daring Fireball* `11-09`
-- [Short-Seller Culper Research Published Information on Jensen Huang’s Affair Back in May](https://culperresearch.com/wp-content/uploads/2026/05/Culper_NVDA_5-13-2026.pdf) — *Daring Fireball* `11-09`
+- [‘A Scandal at the Center of the Economy’](https://www.theatlantic.com/technology/2026/11/jensen-huang-chinese-spy/689357/?gift=aQyUJR7AIw1mJWdQ6Ed6yPI8n1FlV88MR9f9IZruvFA&) — *Daring Fireball* `11-10`
+- [U.S. Commerce Dept. Inquiry Into Megaspeed Was Halted After Nvidia Name-Dropped Trump Appointee](https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html?unlocked_article_code=1.PVE.GxBL.iBpBoc8Y4tnb) — *Daring Fireball* `11-10`
+- [Balanced Incomplete Block Designs](https://www.johndcook.com/blog/2026/11/10/bibd/) — *John D. Cook* `11-10`
+- [Book Review: The Unfinished Harauld Hughes - Richard Ayoade ★★★⯪☆](https://shkspr.mobi/blog/2026/11/book-review-the-unfinished-harauld-hughes-richard-ayoade/) — *Terence Eden’s Blog* `11-10`
+- [Introducing Our Smallest, Most Efficient Model: Muse Ember](https://simonwillison.net/2026/Nov/10/muse-ember/) — *Simon Willison's Weblog* `11-10`
 <!--BLOG_RADAR:end-->
 
 ---
