@@ -4,7 +4,70 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 09 Nov 2026 15:52:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 01:23:50 +0000</lastBuildDate>
+    <item>
+      <title>Weekly Update 529: Kids Social Media Bans (and Everything Else)</title>
+      <link>https://www.troyhunt.com/weekly-update-529/</link>
+      <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-529/</guid>
+      <pubDate>Tue, 10 Nov 2026 00:42:35 +0000</pubDate>
+      <description>Troy Hunt</description>
+    </item>
+    <item>
+      <title>llm-anthropic 0.31</title>
+      <link>https://simonwillison.net/2026/Nov/9/llm-anthropic/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/9/llm-anthropic/</guid>
+      <pubDate>Mon, 09 Nov 2026 23:58:46 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Locating the source of a mysterious beep with Claude</title>
+      <link>https://simonwillison.net/2026/Nov/9/mysterious-beeps/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/9/mysterious-beeps/</guid>
+      <pubDate>Mon, 09 Nov 2026 23:57:21 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Bloomberg Was Onto Megaspeed’s Game a Year Ago</title>
+      <link>https://www.bloomberg.com/news/features/2025-12-22/nvidia-partner-megaspeed-draws-china-chip-smuggling-concerns-in-us</link>
+      <guid isPermaLink="true">https://www.bloomberg.com/news/features/2025-12-22/nvidia-partner-megaspeed-draws-china-chip-smuggling-concerns-in-us</guid>
+      <pubDate>Mon, 09 Nov 2026 23:46:17 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Short-Seller Culper Research Published Information on Jensen Huang’s Affair Back in May</title>
+      <link>https://culperresearch.com/wp-content/uploads/2026/05/Culper_NVDA_5-13-2026.pdf</link>
+      <guid isPermaLink="true">https://culperresearch.com/wp-content/uploads/2026/05/Culper_NVDA_5-13-2026.pdf</guid>
+      <pubDate>Mon, 09 Nov 2026 20:57:04 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Tesla Brain Drain</title>
+      <link>https://electrek.co/2026/11/09/tesla-deep-bench-gone-musk-admits-talent-shortage/</link>
+      <guid isPermaLink="true">https://electrek.co/2026/11/09/tesla-deep-bench-gone-musk-admits-talent-shortage/</guid>
+      <pubDate>Mon, 09 Nov 2026 20:32:27 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Rubio Warned Officials About Jensen Huang’s Affair With a Chinese Spy</title>
+      <link>https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html?unlocked_article_code=1.PFE.dLW7.D8C1YUYhNooj</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html?unlocked_article_code=1.PFE.dLW7.D8C1YUYhNooj</guid>
+      <pubDate>Mon, 09 Nov 2026 17:47:22 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Steiner Systems</title>
+      <link>https://www.johndcook.com/blog/2026/11/09/steiner-systems/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/11/09/steiner-systems/</guid>
+      <pubDate>Mon, 09 Nov 2026 17:01:43 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>If the Windows Update hot patcher checks that the function hasn’t already been patched, does that mean you can’t install two hot-patches?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20261109-00/?p=112841/</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261109-00/?p=112841/</guid>
+      <pubDate>Mon, 09 Nov 2026 15:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
     <item>
       <title>Finite hyperbolic planes</title>
       <link>https://www.johndcook.com/blog/2026/11/09/finite-hyperbolic-planes/</link>
@@ -67,6 +130,13 @@
       <guid isPermaLink="true">https://dynomight.net/android/</guid>
       <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
       <description>DYNOMIGHT</description>
+    </item>
+    <item>
+      <title>AI and Irontown</title>
+      <link>https://lucumr.pocoo.org/2026/11/9/irontown/</link>
+      <guid isPermaLink="true">https://lucumr.pocoo.org/2026/11/9/irontown/</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
       <title>Jensen Huang Betrayed Nvidia, Not Just His Family</title>
@@ -622,6 +692,13 @@
       <description>Daring Fireball</description>
     </item>
     <item>
+      <title>Prove you are not a child</title>
+      <link>https://idiallo.com/blog/prove-you-are-not-a-child</link>
+      <guid isPermaLink="true">https://idiallo.com/blog/prove-you-are-not-a-child</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Software and Tech stories from an Insider - iDiallo.com</description>
+    </item>
+    <item>
       <title>LLMs are not superhuman at reading and writing neural network weights</title>
       <link>https://seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/</link>
       <guid isPermaLink="true">https://seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/</guid>
@@ -634,13 +711,6 @@
       <guid isPermaLink="true">https://seangoedecke.com/audience-capture/</guid>
       <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>Prove you are not a child</title>
-      <link>https://idiallo.com/blog/prove-you-are-not-a-child</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/prove-you-are-not-a-child</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Software and Tech stories from an Insider - iDiallo.com</description>
     </item>
     <item>
       <title>I wish tech companies knew more about me</title>
@@ -774,76 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/</guid>
       <pubDate>Sat, 31 Oct 2026 23:15:22 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>datasette-llm 0.1a9</title>
-      <link>https://simonwillison.net/2026/Oct/31/datasette-llm/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Oct/31/datasette-llm/</guid>
-      <pubDate>Sat, 31 Oct 2026 22:10:01 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Pray for Chaos</title>
-      <link>https://geohot.github.io//blog/jekyll/update/2026/11/01/pray-for-chaos.html</link>
-      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/11/01/pray-for-chaos.html</guid>
-      <pubDate>Sat, 31 Oct 2026 16:00:00 +0000</pubDate>
-      <description>the singularity is nearer</description>
-    </item>
-    <item>
-      <title>Pluralistic: Formalities (31 Oct 2026)</title>
-      <link>https://pluralistic.net/2026/10/31/burn-berne/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/10/31/burn-berne/</guid>
-      <pubDate>Sat, 31 Oct 2026 15:15:59 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Reading List 10/31/26</title>
-      <link>https://www.construction-physics.com/p/reading-list-103126</link>
-      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-103126</guid>
-      <pubDate>Sat, 31 Oct 2026 12:34:23 +0000</pubDate>
-      <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>Gig Review: The Witcher in Concert ★★★★☆</title>
-      <link>https://shkspr.mobi/blog/2026/10/gig-review-the-witcher-in-concert/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/10/gig-review-the-witcher-in-concert/</guid>
-      <pubDate>Sat, 31 Oct 2026 12:34:18 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>This Week in Package Management: 31 October 2026</title>
-      <link>https://nesbitt.io/2026/10/31/this-week-in-package-management.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/10/31/this-week-in-package-management.html</guid>
-      <pubDate>Sat, 31 Oct 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Notes from October 2026</title>
-      <link>https://evanhahn.com/notes-from-october-2026/</link>
-      <guid isPermaLink="true">https://evanhahn.com/notes-from-october-2026/</guid>
-      <pubDate>Sat, 31 Oct 2026 06:00:00 +0000</pubDate>
-      <description>Evan Hahn (dot com)</description>
-    </item>
-    <item>
-      <title>College will only cost $20 a month</title>
-      <link>https://idiallo.com/blog/college-will-cost-20-dollars</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/college-will-cost-20-dollars</guid>
-      <pubDate>Fri, 30 Oct 2026 23:35:13 +0000</pubDate>
-      <description>Software and Tech stories from an Insider - iDiallo.com</description>
-    </item>
-    <item>
-      <title>Sponsorship Openings for Daring Fireball (Including The Talk Show)</title>
-      <link>https://daringfireball.net/feeds/sponsors/</link>
-      <guid isPermaLink="true">https://daringfireball.net/feeds/sponsors/</guid>
-      <pubDate>Fri, 30 Oct 2026 23:30:54 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>★ MacBook Pro Pricing and Configurations for M6, M5 Pro, and M5 Max</title>
-      <link>https://daringfireball.net/2026/10/macbook_pro_pricing_and_configurations_for_m6_m5_pro_and_m5_max</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/10/macbook_pro_pricing_and_configurations_for_m6_m5_pro_and_m5_max</guid>
-      <pubDate>Fri, 30 Oct 2026 22:56:10 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>

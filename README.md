@@ -208,11 +208,11 @@ Last Updated: Tuesday, November 10th, 2026, 9:03:26 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Finite hyperbolic planes](https://www.johndcook.com/blog/2026/11/09/finite-hyperbolic-planes/) — *John D. Cook* `11-09`
-- [Finite Affine Planes](https://www.johndcook.com/blog/2026/11/09/finite-affine-planes/) — *John D. Cook* `11-09`
-- [Blunt Banhammer Blocks Basic Bots Ballistically](https://shkspr.mobi/blog/2026/11/blunt-banhammer-blocks-basic-bots-ballistically/) — *Terence Eden’s Blog* `11-09`
-- [Introducing Ninety](https://nesbitt.io/2026/11/09/introducing-ninety.html) — *Andrew Nesbitt* `11-09`
-- [Pluralistic: America cannot undo Trumpism (09 Nov 2026)](https://pluralistic.net/2026/11/09/brunch-is-canceled-forever/) — *Pluralistic: Daily links from Cory Doctorow* `11-09`
+- [Weekly Update 529: Kids Social Media Bans (and Everything Else)](https://www.troyhunt.com/weekly-update-529/) — *Troy Hunt* `11-10`
+- [llm-anthropic 0.31](https://simonwillison.net/2026/Nov/9/llm-anthropic/) — *Simon Willison's Weblog* `11-09`
+- [Locating the source of a mysterious beep with Claude](https://simonwillison.net/2026/Nov/9/mysterious-beeps/) — *Simon Willison's Weblog* `11-09`
+- [Bloomberg Was Onto Megaspeed’s Game a Year Ago](https://www.bloomberg.com/news/features/2025-12-22/nvidia-partner-megaspeed-draws-china-chip-smuggling-concerns-in-us) — *Daring Fireball* `11-09`
+- [Short-Seller Culper Research Published Information on Jensen Huang’s Affair Back in May](https://culperresearch.com/wp-content/uploads/2026/05/Culper_NVDA_5-13-2026.pdf) — *Daring Fireball* `11-09`
 <!--BLOG_RADAR:end-->
 
 ---
