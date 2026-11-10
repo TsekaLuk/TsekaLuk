@@ -208,11 +208,11 @@ Last Updated: Wednesday, November 11th, 2026, 6:43:39 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [‘A Scandal at the Center of the Economy’](https://www.theatlantic.com/technology/2026/11/jensen-huang-chinese-spy/689357/?gift=aQyUJR7AIw1mJWdQ6Ed6yPI8n1FlV88MR9f9IZruvFA&) — *Daring Fireball* `11-10`
-- [U.S. Commerce Dept. Inquiry Into Megaspeed Was Halted After Nvidia Name-Dropped Trump Appointee](https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html?unlocked_article_code=1.PVE.GxBL.iBpBoc8Y4tnb) — *Daring Fireball* `11-10`
-- [Balanced Incomplete Block Designs](https://www.johndcook.com/blog/2026/11/10/bibd/) — *John D. Cook* `11-10`
-- [Book Review: The Unfinished Harauld Hughes - Richard Ayoade ★★★⯪☆](https://shkspr.mobi/blog/2026/11/book-review-the-unfinished-harauld-hughes-richard-ayoade/) — *Terence Eden’s Blog* `11-10`
-- [Introducing Our Smallest, Most Efficient Model: Muse Ember](https://simonwillison.net/2026/Nov/10/muse-ember/) — *Simon Willison's Weblog* `11-10`
+- [Gary Marcus: ‘Just Say No to Anthropic’s IPO’](https://garymarcus.substack.com/p/just-say-no-to-anthropics-ipo?r=3k69a0) — *Daring Fireball* `11-10`
+- [Microsoft Fixes Nearly 1,100 Security Vulnerabilities](https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/) — *Krebs on Security* `11-10`
+- [Altar II Keyboard on Kickstarter](https://www.kickstarter.com/projects/electronicamaterials/altar-ii/) — *Daring Fireball* `11-10`
+- [Finally, Payment by Bank Transfer Comes to Have I Been Pwned](https://www.troyhunt.com/finally-payment-by-bank-transfer-comes-to-have-i-been-pwned/) — *Troy Hunt* `11-10`
+- [llm-gemini 0.36](https://simonwillison.net/2026/Nov/10/llm-gemini/) — *Simon Willison's Weblog* `11-10`
 <!--BLOG_RADAR:end-->
 
 ---
