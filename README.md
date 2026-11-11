@@ -208,11 +208,11 @@ Last Updated: Wednesday, November 11th, 2026, 12:13:27 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Monads in Lean](https://eli.thegreenplace.net/2026/monads-in-lean/) — *Eli Bendersky's website* `11-11`
+- [Glue work is still harmful in the age of AI](https://seangoedecke.com/glue-work-is-still-harmful-in-the-age-of-ai/) — *seangoedecke.com RSS feed* `11-11`
+- [20 years of blogging](https://www.gilesthomas.com/2026/11/20-years-of-blogging) — *Giles' blog* `11-10`
 - [Gary Marcus: ‘Just Say No to Anthropic’s IPO’](https://garymarcus.substack.com/p/just-say-no-to-anthropics-ipo?r=3k69a0) — *Daring Fireball* `11-10`
 - [Microsoft Fixes Nearly 1,100 Security Vulnerabilities](https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/) — *Krebs on Security* `11-10`
-- [Altar II Keyboard on Kickstarter](https://www.kickstarter.com/projects/electronicamaterials/altar-ii/) — *Daring Fireball* `11-10`
-- [Finally, Payment by Bank Transfer Comes to Have I Been Pwned](https://www.troyhunt.com/finally-payment-by-bank-transfer-comes-to-have-i-been-pwned/) — *Troy Hunt* `11-10`
-- [llm-gemini 0.36](https://simonwillison.net/2026/Nov/10/llm-gemini/) — *Simon Willison's Weblog* `11-10`
 <!--BLOG_RADAR:end-->
 
 ---

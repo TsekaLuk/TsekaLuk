@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 10 Nov 2026 23:04:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 05:44:29 +0000</lastBuildDate>
+    <item>
+      <title>Monads in Lean</title>
+      <link>https://eli.thegreenplace.net/2026/monads-in-lean/</link>
+      <guid isPermaLink="true">https://eli.thegreenplace.net/2026/monads-in-lean/</guid>
+      <pubDate>Wed, 11 Nov 2026 03:25:00 +0000</pubDate>
+      <description>Eli Bendersky's website</description>
+    </item>
+    <item>
+      <title>Glue work is still harmful in the age of AI</title>
+      <link>https://seangoedecke.com/glue-work-is-still-harmful-in-the-age-of-ai/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/glue-work-is-still-harmful-in-the-age-of-ai/</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>20 years of blogging</title>
+      <link>https://www.gilesthomas.com/2026/11/20-years-of-blogging</link>
+      <guid isPermaLink="true">https://www.gilesthomas.com/2026/11/20-years-of-blogging</guid>
+      <pubDate>Tue, 10 Nov 2026 23:00:00 +0000</pubDate>
+      <description>Giles' blog</description>
+    </item>
     <item>
       <title>Gary Marcus: ‘Just Say No to Anthropic’s IPO’</title>
       <link>https://garymarcus.substack.com/p/just-say-no-to-anthropics-ipo?r=3k69a0</link>
@@ -377,6 +398,13 @@
       <description>Terence Eden’s Blog</description>
     </item>
     <item>
+      <title>LLMs are terrible at designing AI systems</title>
+      <link>https://seangoedecke.com/llms-are-terrible-at-designing-ai-systems/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/llms-are-terrible-at-designing-ai-systems/</guid>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
       <title>Horrible public key tricks:</title>
       <link>https://maurycyz.com/projects/badcert/</link>
       <guid isPermaLink="true">https://maurycyz.com/projects/badcert/</guid>
@@ -384,11 +412,11 @@
       <description>Maurycy's Blog</description>
     </item>
     <item>
-      <title>LLMs are terrible at designing AI systems</title>
-      <link>https://seangoedecke.com/llms-are-terrible-at-designing-ai-systems/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/llms-are-terrible-at-designing-ai-systems/</guid>
+      <title>The great software IP writedown</title>
+      <link>https://martinalderson.com/posts/the-great-software-ip-writedown/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
+      <guid isPermaLink="true">https://martinalderson.com/posts/the-great-software-ip-writedown/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
       <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
+      <description>Martin Alderson</description>
     </item>
     <item>
       <title>datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages</title>
@@ -545,18 +573,18 @@
       <description>Mitchell Hashimoto</description>
     </item>
     <item>
-      <title>A bit about email</title>
-      <link>https://maurycyz.com/misc/email/</link>
-      <guid isPermaLink="true">https://maurycyz.com/misc/email/</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
-    </item>
-    <item>
       <title>A database is a store for global variables</title>
       <link>https://seangoedecke.com/a-database-is-a-store-for-global-variables/</link>
       <guid isPermaLink="true">https://seangoedecke.com/a-database-is-a-store-for-global-variables/</guid>
       <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>A bit about email</title>
+      <link>https://maurycyz.com/misc/email/</link>
+      <guid isPermaLink="true">https://maurycyz.com/misc/email/</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Maurycy's Blog</description>
     </item>
     <item>
       <title>Salon Ceases Publication</title>
@@ -734,6 +762,13 @@
       <description>Daring Fireball</description>
     </item>
     <item>
+      <title>New Article, Annual LFP Charity Discount</title>
+      <link>https://buttondown.com/hillelwayne/archive/new-article-annual-lfp-charity-discount/</link>
+      <guid isPermaLink="true">https://buttondown.com/hillelwayne/archive/new-article-annual-lfp-charity-discount/</guid>
+      <pubDate>Tue, 03 Nov 2026 18:06:44 +0000</pubDate>
+      <description>Computer Things</description>
+    </item>
+    <item>
       <title>Running Dry</title>
       <link>https://www.wheresyoured.at/running-dry/</link>
       <guid isPermaLink="true">https://www.wheresyoured.at/running-dry/</guid>
@@ -809,41 +844,6 @@
       <guid isPermaLink="true">https://pluralistic.net/2026/11/03/nobody-is-home/</guid>
       <pubDate>Tue, 03 Nov 2026 14:19:29 +0000</pubDate>
       <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Just a little AI resistance, as a treat</title>
-      <link>https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/</guid>
-      <pubDate>Tue, 03 Nov 2026 12:34:31 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Euclidean, Spherical, and Projective Geometry</title>
-      <link>https://www.johndcook.com/blog/2026/11/03/spherical-and-projective-geometry/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/11/03/spherical-and-projective-geometry/</guid>
-      <pubDate>Tue, 03 Nov 2026 12:33:10 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>How a programming might reinvent the projective plane</title>
-      <link>https://www.johndcook.com/blog/2026/11/03/hack-to-rigor/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/11/03/hack-to-rigor/</guid>
-      <pubDate>Tue, 03 Nov 2026 10:45:19 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>I discovered a sound that leaks your exact location (and it's everywhere) - YouTube</title>
-      <link>https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/</guid>
-      <pubDate>Tue, 03 Nov 2026 05:32:25 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>October sponsors-only newsletter</title>
-      <link>https://simonwillison.net/2026/Nov/3/october-newsletter/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/3/october-newsletter/</guid>
-      <pubDate>Tue, 03 Nov 2026 05:28:59 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
