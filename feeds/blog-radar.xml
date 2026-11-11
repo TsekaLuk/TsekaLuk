@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 11 Nov 2026 05:44:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 13:56:38 +0000</lastBuildDate>
+    <item>
+      <title>HowTo: Fix Eufy HomeBase 2 Storage Full Issues</title>
+      <link>https://shkspr.mobi/blog/2026/11/howto-fix-eufy-homebase-2-storage-full-issues/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/11/howto-fix-eufy-homebase-2-storage-full-issues/</guid>
+      <pubDate>Wed, 11 Nov 2026 12:34:05 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>This Week in Source Control: 11 November 2026</title>
+      <link>https://nesbitt.io/2026/11/11/this-week-in-source-control.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/11/11/this-week-in-source-control.html</guid>
+      <pubDate>Wed, 11 Nov 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
     <item>
       <title>Monads in Lean</title>
       <link>https://eli.thegreenplace.net/2026/monads-in-lean/</link>
@@ -18,6 +32,13 @@
       <guid isPermaLink="true">https://seangoedecke.com/glue-work-is-still-harmful-in-the-age-of-ai/</guid>
       <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Ms. Bashkansky, Please Do Not Build The Torment Nexus</title>
+      <link>https://jyn.dev/ms-bashkansky-please-do-not-build-the-torment-nexus/</link>
+      <guid isPermaLink="true">https://jyn.dev/ms-bashkansky-please-do-not-build-the-torment-nexus/</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <description>the website of jyn</description>
     </item>
     <item>
       <title>20 years of blogging</title>
@@ -67,6 +88,13 @@
       <guid isPermaLink="true">https://berthub.eu/articles/posts/revisiting-leander-and-big-brother/</guid>
       <pubDate>Tue, 10 Nov 2026 19:10:00 +0000</pubDate>
       <description>Bert Hubert's writings</description>
+    </item>
+    <item>
+      <title>Making a Website in 2026</title>
+      <link>https://blog.jim-nielsen.com/2026/making-websites-in-2026/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/making-websites-in-2026/</guid>
+      <pubDate>Tue, 10 Nov 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
     </item>
     <item>
       <title>Jensen's Bizarre Adventure</title>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://9to5mac.com/2026/11/03/new-ipad-mini-a20-pro-review/</guid>
       <pubDate>Tue, 03 Nov 2026 14:51:14 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Fraction comparison trick revisited</title>
-      <link>https://www.johndcook.com/blog/2026/11/03/fraction-comparison-trick-revisited/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/11/03/fraction-comparison-trick-revisited/</guid>
-      <pubDate>Tue, 03 Nov 2026 14:41:25 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Apple’s Analyst Calls Have Been Scripted for Decades</title>
-      <link>https://9to5mac.com/2026/11/03/apple-ceo-john-ternus-criticized-for-scripted-approach-to-first-earnings-call/</link>
-      <guid isPermaLink="true">https://9to5mac.com/2026/11/03/apple-ceo-john-ternus-criticized-for-scripted-approach-to-first-earnings-call/</guid>
-      <pubDate>Tue, 03 Nov 2026 14:39:03 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Apple’s New iPhone Release Schedule Seems to Pay Off</title>
-      <link>https://x.com/asymco/status/2117379158087278697</link>
-      <guid isPermaLink="true">https://x.com/asymco/status/2117379158087278697</guid>
-      <pubDate>Tue, 03 Nov 2026 14:30:40 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Pluralistic: Separable (03 Nov 2026)</title>
-      <link>https://pluralistic.net/2026/11/03/nobody-is-home/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/11/03/nobody-is-home/</guid>
-      <pubDate>Tue, 03 Nov 2026 14:19:29 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
     </item>
   </channel>
 </rss>
