@@ -4,7 +4,70 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 12 Nov 2026 00:24:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 14:57:39 +0000</lastBuildDate>
+    <item>
+      <title>Technology as a Search Problem</title>
+      <link>https://www.construction-physics.com/p/technology-as-a-search-problem</link>
+      <guid isPermaLink="true">https://www.construction-physics.com/p/technology-as-a-search-problem</guid>
+      <pubDate>Thu, 12 Nov 2026 13:01:45 +0000</pubDate>
+      <description>Construction Physics</description>
+    </item>
+    <item>
+      <title>Book Review: This Is for Everyone - Tim Berners-Lee ★★★☆☆</title>
+      <link>https://shkspr.mobi/blog/2026/11/book-review-this-is-for-everyone-tim-berners-lee/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/11/book-review-this-is-for-everyone-tim-berners-lee/</guid>
+      <pubDate>Thu, 12 Nov 2026 12:34:10 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Semafor: ‘Nvidia Board Preparing to Oust CEO Jensen Huang, Name Interim CEO’</title>
+      <link>https://www.semafor.com/article/11/11/2026/nvidia-board-preparing-to-oust-ceo-huang-wsj</link>
+      <guid isPermaLink="true">https://www.semafor.com/article/11/11/2026/nvidia-board-preparing-to-oust-ceo-huang-wsj</guid>
+      <pubDate>Thu, 12 Nov 2026 04:59:59 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>How to install an app on your Commodore 64</title>
+      <link>https://anildash.com/2026/10/08/install-an-app-commodore-64/</link>
+      <guid isPermaLink="true">https://anildash.com/2026/10/08/install-an-app-commodore-64/</guid>
+      <pubDate>Thu, 12 Nov 2026 04:24:15 +0000</pubDate>
+      <description>Anil Dash</description>
+    </item>
+    <item>
+      <title>NYC’s venture capitalists need to love themselves</title>
+      <link>https://anildash.com/2026/11/03/nyc-venture-capitalists-love-themselves/</link>
+      <guid isPermaLink="true">https://anildash.com/2026/11/03/nyc-venture-capitalists-love-themselves/</guid>
+      <pubDate>Thu, 12 Nov 2026 04:24:15 +0000</pubDate>
+      <description>Anil Dash</description>
+    </item>
+    <item>
+      <title>Nvidia Working With Outside Firm to Identify CEO Candidates</title>
+      <link>https://www.bloomberg.com/news/articles/2026-11-11/nvidia-working-with-outside-firm-to-identify-ceo-candidates</link>
+      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-11-11/nvidia-working-with-outside-firm-to-identify-ceo-candidates</guid>
+      <pubDate>Thu, 12 Nov 2026 03:57:43 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>WSJ: ‘Nvidia Is Preparing to Oust CEO Jensen Huang’</title>
+      <link>https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad?st=S84MQZ</link>
+      <guid isPermaLink="true">https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad?st=S84MQZ</guid>
+      <pubDate>Thu, 12 Nov 2026 03:42:05 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Jensen Huang Was Banging an Nvidia Vice President Too</title>
+      <link>https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html?unlocked_article_code=1.P1E.pIe6.C65KRlbTa4MW</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html?unlocked_article_code=1.P1E.pIe6.C65KRlbTa4MW</guid>
+      <pubDate>Thu, 12 Nov 2026 03:35:21 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>SSA from bytecode: imperative pearl</title>
+      <link>https://bernsteinbear.com/blog/ssa-bytecode/?utm_source=rss</link>
+      <guid isPermaLink="true">https://bernsteinbear.com/blog/ssa-bytecode/?utm_source=rss</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Max Bernstein's Blog</description>
+    </item>
     <item>
       <title>Gemini Decisions API</title>
       <link>https://simonwillison.net/2026/Nov/11/gemini-decisions-api/</link>
@@ -81,6 +144,20 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/</guid>
       <pubDate>Wed, 11 Nov 2026 15:11:59 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>I didn’t write a program with emoji, but I did use a control character</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20261111-00/?p=112848/</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261111-00/?p=112848/</guid>
+      <pubDate>Wed, 11 Nov 2026 15:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>Possible Futures</title>
+      <link>https://borretti.me/article/possible-futures</link>
+      <guid isPermaLink="true">https://borretti.me/article/possible-futures</guid>
+      <pubDate>Wed, 11 Nov 2026 13:00:00 +0000</pubDate>
+      <description>Fernando Borretti</description>
     </item>
     <item>
       <title>HowTo: Fix Eufy HomeBase 2 Storage Full Issues</title>
@@ -664,13 +741,6 @@
       <description>Software and Tech stories from an Insider - iDiallo.com</description>
     </item>
     <item>
-      <title>How to install an app on your Commodore 64</title>
-      <link>https://anildash.com/2026/10/08/install-an-app-commodore-64/</link>
-      <guid isPermaLink="true">https://anildash.com/2026/10/08/install-an-app-commodore-64/</guid>
-      <pubDate>Fri, 06 Nov 2026 02:32:14 +0000</pubDate>
-      <description>Anil Dash</description>
-    </item>
-    <item>
       <title>Libghostty 1.0</title>
       <link>https://mitchellh.com/writing/libghostty-1-0</link>
       <guid isPermaLink="true">https://mitchellh.com/writing/libghostty-1-0</guid>
@@ -773,76 +843,6 @@
       <link>https://apple.news/Afq6SKrYkTcCEHrCEQmxm5A?web_embed_link=aHR0cHM6Ly9uZXdzLWFzc2V0cy5hcHBsZS5jb20vZW1iZWRzLzY2ZDQzYzg0LTMyMWYtNGQ0Ny05Mzk4LWE3NjE3NDgwZWE2Yi9pbmRleC5odG1sI2NvbnRleHQ9TU9EQUwmc3RpY2t5PWZhbHNlJmVmZmVjdD1ub25lJmxpZ2h0X2JnX2NvbG9yPWU5ZWNmMiZkYXJrX2JnX2NvbG9yPTJkM2Q1NCZzY29wZT11cyZvcmlnaW49c2hhcnJvdyZsaXZlYWN0aXZpdGllcz10cnVlJm5mZl9jaWQ9NTZjMjQ1OTQtNDIxNC00NDM0LTlhNTgtNWE1YTIxM2ZkMTBi</link>
       <guid isPermaLink="true">https://apple.news/Afq6SKrYkTcCEHrCEQmxm5A?web_embed_link=aHR0cHM6Ly9uZXdzLWFzc2V0cy5hcHBsZS5jb20vZW1iZWRzLzY2ZDQzYzg0LTMyMWYtNGQ0Ny05Mzk4LWE3NjE3NDgwZWE2Yi9pbmRleC5odG1sI2NvbnRleHQ9TU9EQUwmc3RpY2t5PWZhbHNlJmVmZmVjdD1ub25lJmxpZ2h0X2JnX2NvbG9yPWU5ZWNmMiZkYXJrX2JnX2NvbG9yPTJkM2Q1NCZzY29wZT11cyZvcmlnaW49c2hhcnJvdyZsaXZlYWN0aXZpdGllcz10cnVlJm5mZl9jaWQ9NTZjMjQ1OTQtNDIxNC00NDM0LTlhNTgtNWE1YTIxM2ZkMTBi</guid>
       <pubDate>Wed, 04 Nov 2026 15:15:51 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>There are things with ranks, but it’s not always clear what the ranks mean</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20261104-00/?p=112830/</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261104-00/?p=112830/</guid>
-      <pubDate>Wed, 04 Nov 2026 15:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>‘Political Reckoning Shatters Trump’s Grip on Washington’</title>
-      <link>https://www.wsj.com/politics/elections/a-political-reckoning-shatters-trumps-grip-on-washington-bd3c7705?st=xABDit</link>
-      <guid isPermaLink="true">https://www.wsj.com/politics/elections/a-political-reckoning-shatters-trumps-grip-on-washington-bd3c7705?st=xABDit</guid>
-      <pubDate>Wed, 04 Nov 2026 14:56:47 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Book Review: Practice by Rosalind Brown ★★★★☆</title>
-      <link>https://shkspr.mobi/blog/2026/11/book-review-practice-by-rosalind-brown/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/11/book-review-practice-by-rosalind-brown/</guid>
-      <pubDate>Wed, 04 Nov 2026 12:34:07 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Pluralistic: The AI fatfinger economy has come for my receipts app (04 Nov 2026)</title>
-      <link>https://pluralistic.net/2026/11/04/genius-scan-is-neither/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/11/04/genius-scan-is-neither/</guid>
-      <pubDate>Wed, 04 Nov 2026 11:45:02 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>This Week in Source Control: 4 November 2026</title>
-      <link>https://nesbitt.io/2026/11/04/this-week-in-source-control.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/11/04/this-week-in-source-control.html</guid>
-      <pubDate>Wed, 04 Nov 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Goodhart's Law, but We Already Spent All Our Money</title>
-      <link>https://idiallo.com/blog/we-spent-all-our-money-goodharts-law</link>
-      <guid isPermaLink="true">https://idiallo.com/blog/we-spent-all-our-money-goodharts-law</guid>
-      <pubDate>Wed, 04 Nov 2026 08:00:00 +0000</pubDate>
-      <description>Software and Tech stories from an Insider - iDiallo.com</description>
-    </item>
-    <item>
-      <title>datasette-apps 0.3a0</title>
-      <link>https://simonwillison.net/2026/Nov/4/datasette-apps/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/4/datasette-apps/</guid>
-      <pubDate>Wed, 04 Nov 2026 00:29:36 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Apple Begins Opening Siri AI to Developers</title>
-      <link>https://developer.apple.com/news/?id=gdk2umrf</link>
-      <guid isPermaLink="true">https://developer.apple.com/news/?id=gdk2umrf</guid>
-      <pubDate>Tue, 03 Nov 2026 23:58:49 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>iPad Mini (A20 Pro) Review Roundup</title>
-      <link>https://www.techmeme.com/261103/p15#a261103p15</link>
-      <guid isPermaLink="true">https://www.techmeme.com/261103/p15#a261103p15</guid>
-      <pubDate>Tue, 03 Nov 2026 23:45:18 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>MKBHD on the New A20 Pro iPad Mini</title>
-      <link>https://www.youtube.com/watch?v=g6Die8gVFn0</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=g6Die8gVFn0</guid>
-      <pubDate>Tue, 03 Nov 2026 23:25:25 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
   </channel>

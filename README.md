@@ -208,11 +208,11 @@ Last Updated: Thursday, November 12th, 2026, 10:29:14 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Gemini Decisions API](https://simonwillison.net/2026/Nov/11/gemini-decisions-api/) — *Simon Willison's Weblog* `11-11`
-- [aws-emulator](https://simonwillison.net/2026/Nov/11/aws-emulator/) — *Simon Willison's Weblog* `11-11`
-- [Apple Shutters Their Longstanding ‘Apple Support Community’](https://sixcolors.com/link/2026/11/ding-dong-the-apple-support-community-is-dead/) — *Daring Fireball* `11-11`
-- [Austin Mann’s iPhone Duo Review](https://www.austinmann.com/trek/iphone-duo) — *Daring Fireball* `11-11`
-- [Browse tools.simonwillison.net by tag](https://simonwillison.net/2026/Nov/11/tools-tags/) — *Simon Willison's Weblog* `11-11`
+- [Technology as a Search Problem](https://www.construction-physics.com/p/technology-as-a-search-problem) — *Construction Physics* `11-12`
+- [Book Review: This Is for Everyone - Tim Berners-Lee ★★★☆☆](https://shkspr.mobi/blog/2026/11/book-review-this-is-for-everyone-tim-berners-lee/) — *Terence Eden’s Blog* `11-12`
+- [Semafor: ‘Nvidia Board Preparing to Oust CEO Jensen Huang, Name Interim CEO’](https://www.semafor.com/article/11/11/2026/nvidia-board-preparing-to-oust-ceo-huang-wsj) — *Daring Fireball* `11-12`
+- [How to install an app on your Commodore 64](https://anildash.com/2026/10/08/install-an-app-commodore-64/) — *Anil Dash* `11-12`
+- [NYC’s venture capitalists need to love themselves](https://anildash.com/2026/11/03/nyc-venture-capitalists-love-themselves/) — *Anil Dash* `11-12`
 <!--BLOG_RADAR:end-->
 
 ---
