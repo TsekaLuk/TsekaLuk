@@ -208,11 +208,11 @@ Last Updated: Friday, November 13th, 2026, 7:04:52 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Technology as a Search Problem](https://www.construction-physics.com/p/technology-as-a-search-problem) — *Construction Physics* `11-12`
-- [Book Review: This Is for Everyone - Tim Berners-Lee ★★★☆☆](https://shkspr.mobi/blog/2026/11/book-review-this-is-for-everyone-tim-berners-lee/) — *Terence Eden’s Blog* `11-12`
-- [Semafor: ‘Nvidia Board Preparing to Oust CEO Jensen Huang, Name Interim CEO’](https://www.semafor.com/article/11/11/2026/nvidia-board-preparing-to-oust-ceo-huang-wsj) — *Daring Fireball* `11-12`
-- [How to install an app on your Commodore 64](https://anildash.com/2026/10/08/install-an-app-commodore-64/) — *Anil Dash* `11-12`
-- [NYC’s venture capitalists need to love themselves](https://anildash.com/2026/11/03/nyc-venture-capitalists-love-themselves/) — *Anil Dash* `11-12`
+- [Jensen Huang Agrees to Testify Before Congress, But Not Publicly (Yet)](https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/) — *Daring Fireball* `11-12`
+- [Scott Colom Flips Mississippi](https://talkingpointsmemo.com/live-blog/new-congress-gets-underway-with-hegseth-impeachment-effort) — *Daring Fireball* `11-12`
+- [The Dream of Quibi Lives On](https://www.nbcuniversal.com/article/peacock-extends-its-vertical-video-leadership-reimagined-mobile-experience) — *Daring Fireball* `11-12`
+- [Pluralistic: Uber's labor crash (12 Nov 2026)](https://pluralistic.net/2026/11/12/starvation-wages/) — *Pluralistic: Daily links from Cory Doctorow* `11-12`
+- [And Every New Boy That You Meet / He Doesn’t Know the Real Surprise](https://www.wsj.com/tech/ai/a-mystery-businessman-introduced-jensen-huang-to-his-paramourher-husband-1ec3b581?st=yBFeMY) — *Daring Fireball* `11-12`
 <!--BLOG_RADAR:end-->
 
 ---
