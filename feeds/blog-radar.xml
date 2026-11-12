@@ -4,7 +4,84 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 11 Nov 2026 13:56:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 00:24:17 +0000</lastBuildDate>
+    <item>
+      <title>Gemini Decisions API</title>
+      <link>https://simonwillison.net/2026/Nov/11/gemini-decisions-api/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/11/gemini-decisions-api/</guid>
+      <pubDate>Wed, 11 Nov 2026 22:03:25 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>aws-emulator</title>
+      <link>https://simonwillison.net/2026/Nov/11/aws-emulator/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/11/aws-emulator/</guid>
+      <pubDate>Wed, 11 Nov 2026 21:18:30 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Apple Shutters Their Longstanding ‘Apple Support Community’</title>
+      <link>https://sixcolors.com/link/2026/11/ding-dong-the-apple-support-community-is-dead/</link>
+      <guid isPermaLink="true">https://sixcolors.com/link/2026/11/ding-dong-the-apple-support-community-is-dead/</guid>
+      <pubDate>Wed, 11 Nov 2026 19:17:32 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Austin Mann’s iPhone Duo Review</title>
+      <link>https://www.austinmann.com/trek/iphone-duo</link>
+      <guid isPermaLink="true">https://www.austinmann.com/trek/iphone-duo</guid>
+      <pubDate>Wed, 11 Nov 2026 19:02:58 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Browse tools.simonwillison.net by tag</title>
+      <link>https://simonwillison.net/2026/Nov/11/tools-tags/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/11/tools-tags/</guid>
+      <pubDate>Wed, 11 Nov 2026 18:42:50 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Quinn Nelson: ‘The iPhone Duo Doesn’t Feel Like an iPhone’</title>
+      <link>https://www.youtube.com/watch?v=cxjdVVVryC4</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=cxjdVVVryC4</guid>
+      <pubDate>Wed, 11 Nov 2026 18:36:34 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>‘Dangerous or Unusual’</title>
+      <link>https://www.nytimes.com/interactive/2026/11/10/us/supreme-court-guns-misquote.html?unlocked_article_code=1.PlE.-Nhp.CaLpsgMqdWf3</link>
+      <guid isPermaLink="true">https://www.nytimes.com/interactive/2026/11/10/us/supreme-court-guns-misquote.html?unlocked_article_code=1.PlE.-Nhp.CaLpsgMqdWf3</guid>
+      <pubDate>Wed, 11 Nov 2026 18:29:17 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Why Am I So Tired If AI Is Doing All the Work?</title>
+      <link>https://terriblesoftware.org/2026/11/11/why-am-i-so-tired-if-ai-is-doing-all-the-work/</link>
+      <guid isPermaLink="true">https://terriblesoftware.org/2026/11/11/why-am-i-so-tired-if-ai-is-doing-all-the-work/</guid>
+      <pubDate>Wed, 11 Nov 2026 18:23:50 +0000</pubDate>
+      <description>Terrible Software</description>
+    </item>
+    <item>
+      <title>Who Runs the Ransomware Group Qilin?</title>
+      <link>https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/</link>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/</guid>
+      <pubDate>Wed, 11 Nov 2026 18:06:01 +0000</pubDate>
+      <description>Krebs on Security</description>
+    </item>
+    <item>
+      <title>llm 0.37.2</title>
+      <link>https://simonwillison.net/2026/Nov/11/llm/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/11/llm/</guid>
+      <pubDate>Wed, 11 Nov 2026 17:19:52 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Anthropic's IPO roadshow video</title>
+      <link>https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/</guid>
+      <pubDate>Wed, 11 Nov 2026 15:11:59 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>HowTo: Fix Eufy HomeBase 2 Storage Full Issues</title>
       <link>https://shkspr.mobi/blog/2026/11/howto-fix-eufy-homebase-2-storage-full-issues/</link>
@@ -363,18 +440,18 @@
       <description>Tedium: The Dull Side of the Internet.</description>
     </item>
     <item>
-      <title>Optimal virulence and the Android lockdown</title>
-      <link>https://dynomight.net/android/</link>
-      <guid isPermaLink="true">https://dynomight.net/android/</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
-    </item>
-    <item>
       <title>AI and Irontown</title>
       <link>https://lucumr.pocoo.org/2026/11/9/irontown/</link>
       <guid isPermaLink="true">https://lucumr.pocoo.org/2026/11/9/irontown/</guid>
       <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
       <description>Armin Ronacher's Thoughts and Writings</description>
+    </item>
+    <item>
+      <title>Optimal virulence and the Android lockdown</title>
+      <link>https://dynomight.net/android/</link>
+      <guid isPermaLink="true">https://dynomight.net/android/</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>Jensen Huang Betrayed Nvidia, Not Just His Family</title>
@@ -766,83 +843,6 @@
       <link>https://www.youtube.com/watch?v=g6Die8gVFn0</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=g6Die8gVFn0</guid>
       <pubDate>Tue, 03 Nov 2026 23:25:25 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>datasette-agent 0.5a0</title>
-      <link>https://simonwillison.net/2026/Nov/3/datasette-agent/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/3/datasette-agent/</guid>
-      <pubDate>Tue, 03 Nov 2026 23:13:45 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>llm 0.37.1</title>
-      <link>https://simonwillison.net/2026/Nov/3/llm/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/3/llm/</guid>
-      <pubDate>Tue, 03 Nov 2026 21:41:42 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Safari 27.3 Beta Adds Vertical Tabs and Adaptive Dark Mode</title>
-      <link>https://www.macrumors.com/2026/11/03/ios-27-3-safari/</link>
-      <guid isPermaLink="true">https://www.macrumors.com/2026/11/03/ios-27-3-safari/</guid>
-      <pubDate>Tue, 03 Nov 2026 19:26:41 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>New Article, Annual LFP Charity Discount</title>
-      <link>https://buttondown.com/hillelwayne/archive/new-article-annual-lfp-charity-discount/</link>
-      <guid isPermaLink="true">https://buttondown.com/hillelwayne/archive/new-article-annual-lfp-charity-discount/</guid>
-      <pubDate>Tue, 03 Nov 2026 18:06:44 +0000</pubDate>
-      <description>Computer Things</description>
-    </item>
-    <item>
-      <title>Running Dry</title>
-      <link>https://www.wheresyoured.at/running-dry/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/running-dry/</guid>
-      <pubDate>Tue, 03 Nov 2026 17:16:20 +0000</pubDate>
-      <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>AI is destroying my CS degree</title>
-      <link>https://simonwillison.net/2026/Nov/3/hn-50354278/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/3/hn-50354278/</guid>
-      <pubDate>Tue, 03 Nov 2026 16:42:02 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Qwen 3.8 27B on my laptop can interpret model weights, too</title>
-      <link>https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/</guid>
-      <pubDate>Tue, 03 Nov 2026 16:29:48 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>The New York Times (et al.) Sues Brave for Copyright Infringement, Selling Scraped Content to AI Companies for Model Training</title>
-      <link>https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times</guid>
-      <pubDate>Tue, 03 Nov 2026 15:46:25 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Steve Jobs on His Final Quarterly Analyst Call: ‘We Think the Open Versus Closed Argument Is Just a Smokescreen’</title>
-      <link>https://www.macworld.com/article/208438/jobs_transcript.html</link>
-      <guid isPermaLink="true">https://www.macworld.com/article/208438/jobs_transcript.html</guid>
-      <pubDate>Tue, 03 Nov 2026 15:40:34 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>How do you implement a random-access database when you don’t have random-access external storage?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20261103-00/?p=112825/</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261103-00/?p=112825/</guid>
-      <pubDate>Tue, 03 Nov 2026 15:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Chance Miller Reviews the New A20 Pro iPad Mini</title>
-      <link>https://9to5mac.com/2026/11/03/new-ipad-mini-a20-pro-review/</link>
-      <guid isPermaLink="true">https://9to5mac.com/2026/11/03/new-ipad-mini-a20-pro-review/</guid>
-      <pubDate>Tue, 03 Nov 2026 14:51:14 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
   </channel>

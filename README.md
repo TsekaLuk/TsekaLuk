@@ -208,11 +208,11 @@ Last Updated: Thursday, November 12th, 2026, 7:56:27 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [HowTo: Fix Eufy HomeBase 2 Storage Full Issues](https://shkspr.mobi/blog/2026/11/howto-fix-eufy-homebase-2-storage-full-issues/) — *Terence Eden’s Blog* `11-11`
-- [This Week in Source Control: 11 November 2026](https://nesbitt.io/2026/11/11/this-week-in-source-control.html) — *Andrew Nesbitt* `11-11`
-- [Monads in Lean](https://eli.thegreenplace.net/2026/monads-in-lean/) — *Eli Bendersky's website* `11-11`
-- [Glue work is still harmful in the age of AI](https://seangoedecke.com/glue-work-is-still-harmful-in-the-age-of-ai/) — *seangoedecke.com RSS feed* `11-11`
-- [Ms. Bashkansky, Please Do Not Build The Torment Nexus](https://jyn.dev/ms-bashkansky-please-do-not-build-the-torment-nexus/) — *the website of jyn* `11-11`
+- [Gemini Decisions API](https://simonwillison.net/2026/Nov/11/gemini-decisions-api/) — *Simon Willison's Weblog* `11-11`
+- [aws-emulator](https://simonwillison.net/2026/Nov/11/aws-emulator/) — *Simon Willison's Weblog* `11-11`
+- [Apple Shutters Their Longstanding ‘Apple Support Community’](https://sixcolors.com/link/2026/11/ding-dong-the-apple-support-community-is-dead/) — *Daring Fireball* `11-11`
+- [Austin Mann’s iPhone Duo Review](https://www.austinmann.com/trek/iphone-duo) — *Daring Fireball* `11-11`
+- [Browse tools.simonwillison.net by tag](https://simonwillison.net/2026/Nov/11/tools-tags/) — *Simon Willison's Weblog* `11-11`
 <!--BLOG_RADAR:end-->
 
 ---
