@@ -208,11 +208,11 @@ Last Updated: Friday, November 13th, 2026, 12:39:35 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [So you want to buy AI for your company](https://idiallo.com/byte-size/buying-ai-for-your-company) — *Software and Tech stories from an Insider - iDiallo.com* `11-13`
+- [llm-gemini 0.37](https://simonwillison.net/2026/Nov/12/llm-gemini/) — *Simon Willison's Weblog* `11-12`
 - [Jensen Huang Agrees to Testify Before Congress, But Not Publicly (Yet)](https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/) — *Daring Fireball* `11-12`
 - [Scott Colom Flips Mississippi](https://talkingpointsmemo.com/live-blog/new-congress-gets-underway-with-hegseth-impeachment-effort) — *Daring Fireball* `11-12`
 - [The Dream of Quibi Lives On](https://www.nbcuniversal.com/article/peacock-extends-its-vertical-video-leadership-reimagined-mobile-experience) — *Daring Fireball* `11-12`
-- [Pluralistic: Uber's labor crash (12 Nov 2026)](https://pluralistic.net/2026/11/12/starvation-wages/) — *Pluralistic: Daily links from Cory Doctorow* `11-12`
-- [And Every New Boy That You Meet / He Doesn’t Know the Real Surprise](https://www.wsj.com/tech/ai/a-mystery-businessman-introduced-jensen-huang-to-his-paramourher-husband-1ec3b581?st=yBFeMY) — *Daring Fireball* `11-12`
 <!--BLOG_RADAR:end-->
 
 ---

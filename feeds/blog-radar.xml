@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 12 Nov 2026 23:26:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 06:08:51 +0000</lastBuildDate>
+    <item>
+      <title>So you want to buy AI for your company</title>
+      <link>https://idiallo.com/byte-size/buying-ai-for-your-company</link>
+      <guid isPermaLink="true">https://idiallo.com/byte-size/buying-ai-for-your-company</guid>
+      <pubDate>Fri, 13 Nov 2026 00:34:41 +0000</pubDate>
+      <description>Software and Tech stories from an Insider - iDiallo.com</description>
+    </item>
+    <item>
+      <title>llm-gemini 0.37</title>
+      <link>https://simonwillison.net/2026/Nov/12/llm-gemini/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/12/llm-gemini/</guid>
+      <pubDate>Thu, 12 Nov 2026 22:55:19 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Jensen Huang Agrees to Testify Before Congress, But Not Publicly (Yet)</title>
       <link>https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/</link>
@@ -53,6 +67,13 @@
       <guid isPermaLink="true">https://truthsocial.com/@realDonaldTrump/posts/117604177898784579</guid>
       <pubDate>Thu, 12 Nov 2026 17:32:42 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>First Strike</title>
+      <link>https://geohot.github.io//blog/jekyll/update/2026/11/13/first-strike.html</link>
+      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/11/13/first-strike.html</guid>
+      <pubDate>Thu, 12 Nov 2026 16:00:00 +0000</pubDate>
+      <description>the singularity is nearer</description>
     </item>
     <item>
       <title>Jensen Huang’s Advice to His Successor: ‘They’ll Just Have to Reshape the Company’</title>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://seangoedecke.com/a-database-is-a-store-for-global-variables/</guid>
       <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>A bit about email</title>
-      <link>https://maurycyz.com/misc/email/</link>
-      <guid isPermaLink="true">https://maurycyz.com/misc/email/</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
-    </item>
-    <item>
-      <title>Salon Ceases Publication</title>
-      <link>https://www.salon.com/2026/11/05/goodbye-from-salon/</link>
-      <guid isPermaLink="true">https://www.salon.com/2026/11/05/goodbye-from-salon/</guid>
-      <pubDate>Thu, 05 Nov 2026 21:31:04 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The benchmark where AIs have to lie to win</title>
-      <link>https://www.dwarkesh.com/p/clocktower</link>
-      <guid isPermaLink="true">https://www.dwarkesh.com/p/clocktower</guid>
-      <pubDate>Thu, 05 Nov 2026 21:05:50 +0000</pubDate>
-      <description>Dwarkesh Podcast</description>
     </item>
   </channel>
 </rss>
