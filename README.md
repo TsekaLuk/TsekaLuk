@@ -208,11 +208,11 @@ Last Updated: Friday, November 13th, 2026, 9:46:28 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [So you want to buy AI for your company](https://idiallo.com/byte-size/buying-ai-for-your-company) — *Software and Tech stories from an Insider - iDiallo.com* `11-13`
-- [llm-gemini 0.37](https://simonwillison.net/2026/Nov/12/llm-gemini/) — *Simon Willison's Weblog* `11-12`
-- [Jensen Huang Agrees to Testify Before Congress, But Not Publicly (Yet)](https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/) — *Daring Fireball* `11-12`
-- [Scott Colom Flips Mississippi](https://talkingpointsmemo.com/live-blog/new-congress-gets-underway-with-hegseth-impeachment-effort) — *Daring Fireball* `11-12`
-- [The Dream of Quibi Lives On](https://www.nbcuniversal.com/article/peacock-extends-its-vertical-video-leadership-reimagined-mobile-experience) — *Daring Fireball* `11-12`
+- [Inside Jensen Huang’s Final Hours as the CEO of Nvidia](https://www.bloomberg.com/news/articles/2026-11-13/inside-jensen-huang-s-final-hours-as-the-ceo-of-nvidia?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDU0NzgxNSwiZXhwIjoxNzk1MTUyNjE1LCJhcnRpY2xlSWQiOiJUT0YxQVBOM04wOUIwMCIsImJjb25uZWN0SWQiOiI1RkQyNjU1NTA2QTI0NjM2QjM1NzBEQkQ5MTY1RkI1NCJ9.8RulazBTaUuCgwysfQ4dlu-dhQIe3yvK-2UHLcm3hWc&leadSource=article-gifting) — *Daring Fireball* `11-13`
+- [The avalanche that hit math is coming for AI development](https://www.dwarkesh.com/p/rsi) — *Dwarkesh Podcast* `11-13`
+- [Premium: The Hater’s Guide To Megaspeed](https://www.wheresyoured.at/hg-megaspeed/) — *Ed Zitron's Where's Your Ed At* `11-13`
+- [Microsoft, and Its Customers, Are Suffering a Global Cloud Outage](https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/) — *Daring Fireball* `11-13`
+- [David Sacks Is Fucked Too](https://x.com/DavidSacks/status/2121070881258504395) — *Daring Fireball* `11-13`
 <!--BLOG_RADAR:end-->
 
 ---
