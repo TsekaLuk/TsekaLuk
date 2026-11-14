@@ -208,11 +208,11 @@ Last Updated: Saturday, November 14th, 2026, 12:34:23 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [datasette-cluster-map 0.19](https://simonwillison.net/2026/Nov/13/datasette-cluster-map/) — *Simon Willison's Weblog* `11-13`
+- [datasette-leaflet 0.3](https://simonwillison.net/2026/Nov/13/datasette-leaflet/) — *Simon Willison's Weblog* `11-13`
+- [Andrew Sharp: ‘Jensen Huang Was Always Going to Lose’](https://sharptext.net/2026/jensen-huang-was-always-going-to-lose/) — *Daring Fireball* `11-13`
+- [Pluralistic: I told you so (13 Nov 2026)](https://pluralistic.net/2026/11/13/outlookpocalypse/) — *Pluralistic: Daily links from Cory Doctorow* `11-13`
 - [Inside Jensen Huang’s Final Hours as the CEO of Nvidia](https://www.bloomberg.com/news/articles/2026-11-13/inside-jensen-huang-s-final-hours-as-the-ceo-of-nvidia?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDU0NzgxNSwiZXhwIjoxNzk1MTUyNjE1LCJhcnRpY2xlSWQiOiJUT0YxQVBOM04wOUIwMCIsImJjb25uZWN0SWQiOiI1RkQyNjU1NTA2QTI0NjM2QjM1NzBEQkQ5MTY1RkI1NCJ9.8RulazBTaUuCgwysfQ4dlu-dhQIe3yvK-2UHLcm3hWc&leadSource=article-gifting) — *Daring Fireball* `11-13`
-- [The avalanche that hit math is coming for AI development](https://www.dwarkesh.com/p/rsi) — *Dwarkesh Podcast* `11-13`
-- [Premium: The Hater’s Guide To Megaspeed](https://www.wheresyoured.at/hg-megaspeed/) — *Ed Zitron's Where's Your Ed At* `11-13`
-- [Microsoft, and Its Customers, Are Suffering a Global Cloud Outage](https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/) — *Daring Fireball* `11-13`
-- [David Sacks Is Fucked Too](https://x.com/DavidSacks/status/2121070881258504395) — *Daring Fireball* `11-13`
 <!--BLOG_RADAR:end-->
 
 ---

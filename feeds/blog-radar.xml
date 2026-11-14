@@ -4,7 +4,35 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 13 Nov 2026 19:28:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 05:54:50 +0000</lastBuildDate>
+    <item>
+      <title>datasette-cluster-map 0.19</title>
+      <link>https://simonwillison.net/2026/Nov/13/datasette-cluster-map/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/13/datasette-cluster-map/</guid>
+      <pubDate>Fri, 13 Nov 2026 23:02:45 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>datasette-leaflet 0.3</title>
+      <link>https://simonwillison.net/2026/Nov/13/datasette-leaflet/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/13/datasette-leaflet/</guid>
+      <pubDate>Fri, 13 Nov 2026 22:30:54 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Andrew Sharp: ‘Jensen Huang Was Always Going to Lose’</title>
+      <link>https://sharptext.net/2026/jensen-huang-was-always-going-to-lose/</link>
+      <guid isPermaLink="true">https://sharptext.net/2026/jensen-huang-was-always-going-to-lose/</guid>
+      <pubDate>Fri, 13 Nov 2026 20:01:25 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Pluralistic: I told you so (13 Nov 2026)</title>
+      <link>https://pluralistic.net/2026/11/13/outlookpocalypse/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/11/13/outlookpocalypse/</guid>
+      <pubDate>Fri, 13 Nov 2026 19:44:37 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
     <item>
       <title>Inside Jensen Huang’s Final Hours as the CEO of Nvidia</title>
       <link>https://www.bloomberg.com/news/articles/2026-11-13/inside-jensen-huang-s-final-hours-as-the-ceo-of-nvidia?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDU0NzgxNSwiZXhwIjoxNzk1MTUyNjE1LCJhcnRpY2xlSWQiOiJUT0YxQVBOM04wOUIwMCIsImJjb25uZWN0SWQiOiI1RkQyNjU1NTA2QTI0NjM2QjM1NzBEQkQ5MTY1RkI1NCJ9.8RulazBTaUuCgwysfQ4dlu-dhQIe3yvK-2UHLcm3hWc&amp;leadSource=article-gifting</link>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://pluralistic.net/2026/11/07/aeiou-but-sometimes-why/</guid>
       <pubDate>Sat, 07 Nov 2026 13:03:46 +0000</pubDate>
       <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Book Review: When the Dust Settles - Stories of Love, Loss and Hope from an Expert in Disaster by Lucy Easthope ★★★★★</title>
-      <link>https://shkspr.mobi/blog/2026/11/book-review-when-the-dust-settles-stories-of-love-loss-and-hope-from-an-expert-in-disaster-by-lucy-easthope/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/11/book-review-when-the-dust-settles-stories-of-love-loss-and-hope-from-an-expert-in-disaster-by-lucy-easthope/</guid>
-      <pubDate>Sat, 07 Nov 2026 12:34:34 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>This Week in Package Management: 7 November 2026</title>
-      <link>https://nesbitt.io/2026/11/07/this-week-in-package-management.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/11/07/this-week-in-package-management.html</guid>
-      <pubDate>Sat, 07 Nov 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Working with designers</title>
-      <link>https://seangoedecke.com/working-with-designers/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/working-with-designers/</guid>
-      <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>★ Touch and Glow</title>
-      <link>https://daringfireball.net/2026/11/touch_and_glow</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/11/touch_and_glow</guid>
-      <pubDate>Fri, 06 Nov 2026 19:50:46 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
