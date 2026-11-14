@@ -208,11 +208,11 @@ Last Updated: Saturday, November 14th, 2026, 8:50:56 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [datasette-cluster-map 0.19](https://simonwillison.net/2026/Nov/13/datasette-cluster-map/) — *Simon Willison's Weblog* `11-13`
-- [datasette-leaflet 0.3](https://simonwillison.net/2026/Nov/13/datasette-leaflet/) — *Simon Willison's Weblog* `11-13`
-- [Andrew Sharp: ‘Jensen Huang Was Always Going to Lose’](https://sharptext.net/2026/jensen-huang-was-always-going-to-lose/) — *Daring Fireball* `11-13`
-- [Pluralistic: I told you so (13 Nov 2026)](https://pluralistic.net/2026/11/13/outlookpocalypse/) — *Pluralistic: Daily links from Cory Doctorow* `11-13`
-- [Inside Jensen Huang’s Final Hours as the CEO of Nvidia](https://www.bloomberg.com/news/articles/2026-11-13/inside-jensen-huang-s-final-hours-as-the-ceo-of-nvidia?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDU0NzgxNSwiZXhwIjoxNzk1MTUyNjE1LCJhcnRpY2xlSWQiOiJUT0YxQVBOM04wOUIwMCIsImJjb25uZWN0SWQiOiI1RkQyNjU1NTA2QTI0NjM2QjM1NzBEQkQ5MTY1RkI1NCJ9.8RulazBTaUuCgwysfQ4dlu-dhQIe3yvK-2UHLcm3hWc&leadSource=article-gifting) — *Daring Fireball* `11-13`
+- [Peeking inside the bash rabbit hole](https://www.johndcook.com/blog/2026/11/14/bash-rabbit-hole/) — *John D. Cook* `11-14`
+- [Theatre Review: FrankenTacit ★★☆☆☆](https://shkspr.mobi/blog/2026/11/theatre-review-frankentacit/) — *Terence Eden’s Blog* `11-14`
+- [This Week in Package Management: 14 November 2026](https://nesbitt.io/2026/11/14/this-week-in-package-management.html) — *Andrew Nesbitt* `11-14`
+- [Spreadsheets and other models of morality](https://blog.coredump.cx/p/spreadsheets-and-other-models-of) — *lcamtuf’s thing* `11-14`
+- [What could possibly go wrong? Nationwide FAA Ground Stop edition](https://garymarcus.substack.com/p/what-could-possibly-go-wrong-nationwide) — *Marcus on AI* `11-14`
 <!--BLOG_RADAR:end-->
 
 ---

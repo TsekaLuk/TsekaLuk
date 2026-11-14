@@ -4,7 +4,49 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 14 Nov 2026 05:54:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 13:19:30 +0000</lastBuildDate>
+    <item>
+      <title>Peeking inside the bash rabbit hole</title>
+      <link>https://www.johndcook.com/blog/2026/11/14/bash-rabbit-hole/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/11/14/bash-rabbit-hole/</guid>
+      <pubDate>Sat, 14 Nov 2026 13:09:57 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Theatre Review: FrankenTacit ★★☆☆☆</title>
+      <link>https://shkspr.mobi/blog/2026/11/theatre-review-frankentacit/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/11/theatre-review-frankentacit/</guid>
+      <pubDate>Sat, 14 Nov 2026 12:34:35 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>This Week in Package Management: 14 November 2026</title>
+      <link>https://nesbitt.io/2026/11/14/this-week-in-package-management.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/11/14/this-week-in-package-management.html</guid>
+      <pubDate>Sat, 14 Nov 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>Spreadsheets and other models of morality</title>
+      <link>https://blog.coredump.cx/p/spreadsheets-and-other-models-of</link>
+      <guid isPermaLink="true">https://blog.coredump.cx/p/spreadsheets-and-other-models-of</guid>
+      <pubDate>Sat, 14 Nov 2026 08:36:24 +0000</pubDate>
+      <description>lcamtuf’s thing</description>
+    </item>
+    <item>
+      <title>What could possibly go wrong? Nationwide FAA Ground Stop edition</title>
+      <link>https://garymarcus.substack.com/p/what-could-possibly-go-wrong-nationwide</link>
+      <guid isPermaLink="true">https://garymarcus.substack.com/p/what-could-possibly-go-wrong-nationwide</guid>
+      <pubDate>Sat, 14 Nov 2026 00:20:10 +0000</pubDate>
+      <description>Marcus on AI</description>
+    </item>
+    <item>
+      <title>How to find meaning in large tech companies</title>
+      <link>https://seangoedecke.com/how-to-find-meaning-in-large-tech-companies/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/how-to-find-meaning-in-large-tech-companies/</guid>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
+    </item>
     <item>
       <title>datasette-cluster-map 0.19</title>
       <link>https://simonwillison.net/2026/Nov/13/datasette-cluster-map/</link>
@@ -46,6 +88,13 @@
       <guid isPermaLink="true">https://www.dwarkesh.com/p/rsi</guid>
       <pubDate>Fri, 13 Nov 2026 18:37:51 +0000</pubDate>
       <description>Dwarkesh Podcast</description>
+    </item>
+    <item>
+      <title>The great Generative AI unraveling</title>
+      <link>https://garymarcus.substack.com/p/the-great-generative-ai-unraveling</link>
+      <guid isPermaLink="true">https://garymarcus.substack.com/p/the-great-generative-ai-unraveling</guid>
+      <pubDate>Fri, 13 Nov 2026 18:26:49 +0000</pubDate>
+      <description>Marcus on AI</description>
     </item>
     <item>
       <title>Premium: The Hater’s Guide To Megaspeed</title>
@@ -216,6 +265,13 @@
       <description>The Old New Thing</description>
     </item>
     <item>
+      <title>Jensen Huang resigns.</title>
+      <link>https://garymarcus.substack.com/p/jensen-huang-resigns</link>
+      <guid isPermaLink="true">https://garymarcus.substack.com/p/jensen-huang-resigns</guid>
+      <pubDate>Thu, 12 Nov 2026 14:44:04 +0000</pubDate>
+      <description>Marcus on AI</description>
+    </item>
+    <item>
       <title>Technology as a Search Problem</title>
       <link>https://www.construction-physics.com/p/technology-as-a-search-problem</link>
       <guid isPermaLink="true">https://www.construction-physics.com/p/technology-as-a-search-problem</guid>
@@ -228,6 +284,13 @@
       <guid isPermaLink="true">https://shkspr.mobi/blog/2026/11/book-review-this-is-for-everyone-tim-berners-lee/</guid>
       <pubDate>Thu, 12 Nov 2026 12:34:10 +0000</pubDate>
       <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Breaking: Eli Lilly CEO becomes latest to push back on Dario Amodei’s ludicrous, Elizabeth Holmes-like medical claims</title>
+      <link>https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest</link>
+      <guid isPermaLink="true">https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest</guid>
+      <pubDate>Thu, 12 Nov 2026 12:25:55 +0000</pubDate>
+      <description>Marcus on AI</description>
     </item>
     <item>
       <title>Semafor: ‘Nvidia Board Preparing to Oust CEO Jensen Huang, Name Interim CEO’</title>
@@ -277,6 +340,13 @@
       <guid isPermaLink="true">https://bernsteinbear.com/blog/ssa-bytecode/?utm_source=rss</guid>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
       <description>Max Bernstein's Blog</description>
+    </item>
+    <item>
+      <title>Jensen is reportedly about to get fired</title>
+      <link>https://garymarcus.substack.com/p/jensen-is-reportedly-about-to-get</link>
+      <guid isPermaLink="true">https://garymarcus.substack.com/p/jensen-is-reportedly-about-to-get</guid>
+      <pubDate>Wed, 11 Nov 2026 23:53:06 +0000</pubDate>
+      <description>Marcus on AI</description>
     </item>
     <item>
       <title>Gemini Decisions API</title>
@@ -382,6 +452,13 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/11/11/this-week-in-source-control.html</guid>
       <pubDate>Wed, 11 Nov 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>It came from the token void!</title>
+      <link>https://blog.coredump.cx/p/it-came-from-the-token-void</link>
+      <guid isPermaLink="true">https://blog.coredump.cx/p/it-came-from-the-token-void</guid>
+      <pubDate>Wed, 11 Nov 2026 03:44:15 +0000</pubDate>
+      <description>lcamtuf’s thing</description>
     </item>
     <item>
       <title>Monads in Lean</title>
@@ -524,6 +601,13 @@
       <description>Daring Fireball</description>
     </item>
     <item>
+      <title>Just say no to Anthropic’s IPO</title>
+      <link>https://garymarcus.substack.com/p/just-say-no-to-anthropics-ipo</link>
+      <guid isPermaLink="true">https://garymarcus.substack.com/p/just-say-no-to-anthropics-ipo</guid>
+      <pubDate>Tue, 10 Nov 2026 14:37:21 +0000</pubDate>
+      <description>Marcus on AI</description>
+    </item>
+    <item>
       <title>‘A Scandal at the Center of the Economy’</title>
       <link>https://www.theatlantic.com/technology/2026/11/jensen-huang-chinese-spy/689357/?gift=aQyUJR7AIw1mJWdQ6Ed6yPI8n1FlV88MR9f9IZruvFA&amp;</link>
       <guid isPermaLink="true">https://www.theatlantic.com/technology/2026/11/jensen-huang-chinese-spy/689357/?gift=aQyUJR7AIw1mJWdQ6Ed6yPI8n1FlV88MR9f9IZruvFA&amp;</guid>
@@ -585,6 +669,13 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Nov/10/yonkers-rises/</guid>
       <pubDate>Tue, 10 Nov 2026 03:53:04 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Ontology #2: wish you were here</title>
+      <link>https://blog.coredump.cx/p/ontology-2-wish-you-were-here</link>
+      <guid isPermaLink="true">https://blog.coredump.cx/p/ontology-2-wish-you-were-here</guid>
+      <pubDate>Tue, 10 Nov 2026 03:16:45 +0000</pubDate>
+      <description>lcamtuf’s thing</description>
     </item>
     <item>
       <title>Combinatorial designs</title>
@@ -685,6 +776,13 @@
       <description>John D. Cook</description>
     </item>
     <item>
+      <title>Jensen is cooked</title>
+      <link>https://garymarcus.substack.com/p/jensen-is-cooked</link>
+      <guid isPermaLink="true">https://garymarcus.substack.com/p/jensen-is-cooked</guid>
+      <pubDate>Mon, 09 Nov 2026 12:47:02 +0000</pubDate>
+      <description>Marcus on AI</description>
+    </item>
+    <item>
       <title>Blunt Banhammer Blocks Basic Bots Ballistically</title>
       <link>https://shkspr.mobi/blog/2026/11/blunt-banhammer-blocks-basic-bots-ballistically/</link>
       <guid isPermaLink="true">https://shkspr.mobi/blog/2026/11/blunt-banhammer-blocks-basic-bots-ballistically/</guid>
@@ -727,6 +825,13 @@
       <description>Tedium: The Dull Side of the Internet.</description>
     </item>
     <item>
+      <title>The Huang Affair: What did they know and when did they know it?</title>
+      <link>https://garymarcus.substack.com/p/the-huang-affair-what-did-they-know</link>
+      <guid isPermaLink="true">https://garymarcus.substack.com/p/the-huang-affair-what-did-they-know</guid>
+      <pubDate>Mon, 09 Nov 2026 02:04:38 +0000</pubDate>
+      <description>Marcus on AI</description>
+    </item>
+    <item>
       <title>AI and Irontown</title>
       <link>https://lucumr.pocoo.org/2026/11/9/irontown/</link>
       <guid isPermaLink="true">https://lucumr.pocoo.org/2026/11/9/irontown/</guid>
@@ -739,111 +844,6 @@
       <guid isPermaLink="true">https://dynomight.net/android/</guid>
       <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
       <description>DYNOMIGHT</description>
-    </item>
-    <item>
-      <title>Jensen Huang Betrayed Nvidia, Not Just His Family</title>
-      <link>https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html?unlocked_article_code=1.O1E.DRyO.9mNcxhaxhtlI</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html?unlocked_article_code=1.O1E.DRyO.9mNcxhaxhtlI</guid>
-      <pubDate>Sun, 08 Nov 2026 23:56:32 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Finite Projective Planes</title>
-      <link>https://www.johndcook.com/blog/2026/11/08/finite-geometries/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/11/08/finite-geometries/</guid>
-      <pubDate>Sun, 08 Nov 2026 23:23:49 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>parse_number() as a SQLite extension: C vs Rust</title>
-      <link>https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/</guid>
-      <pubDate>Sun, 08 Nov 2026 22:26:00 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Nvidia CEO Jensen Huang Was Banging a Chinese Spy, Who Was Feeding Information Back to Beijing</title>
-      <link>https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html?unlocked_article_code=1.O1E.Soow.6UjrM7Ch-C8L</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html?unlocked_article_code=1.O1E.Soow.6UjrM7Ch-C8L</guid>
-      <pubDate>Sun, 08 Nov 2026 21:50:31 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Addition By Subtraction</title>
-      <link>https://blog.jim-nielsen.com/2026/addition-by-subtraction/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/addition-by-subtraction/</guid>
-      <pubDate>Sun, 08 Nov 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
-      <title>Reverse engineering a vintage diode-transistor logic chip</title>
-      <link>http://www.righto.com/2026/11/signetics-st680a-dtl-nand.html</link>
-      <guid isPermaLink="true">http://www.righto.com/2026/11/signetics-st680a-dtl-nand.html</guid>
-      <pubDate>Sun, 08 Nov 2026 16:12:25 +0000</pubDate>
-      <description>Ken Shirriff's blog</description>
-    </item>
-    <item>
-      <title>Some thoughts on restaurant menu QR codes</title>
-      <link>https://shkspr.mobi/blog/2026/11/some-thoughts-on-restaurant-menu-qr-codes/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/11/some-thoughts-on-restaurant-menu-qr-codes/</guid>
-      <pubDate>Sun, 08 Nov 2026 12:34:01 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>LLMs are terrible at designing AI systems</title>
-      <link>https://seangoedecke.com/llms-are-terrible-at-designing-ai-systems/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/llms-are-terrible-at-designing-ai-systems/</guid>
-      <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>Horrible public key tricks:</title>
-      <link>https://maurycyz.com/projects/badcert/</link>
-      <guid isPermaLink="true">https://maurycyz.com/projects/badcert/</guid>
-      <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Maurycy's Blog</description>
-    </item>
-    <item>
-      <title>The great software IP writedown</title>
-      <link>https://martinalderson.com/posts/the-great-software-ip-writedown/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
-      <guid isPermaLink="true">https://martinalderson.com/posts/the-great-software-ip-writedown/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
-      <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Martin Alderson</description>
-    </item>
-    <item>
-      <title>datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages</title>
-      <link>https://simonwillison.net/2026/Nov/7/link-rel-next/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/7/link-rel-next/</guid>
-      <pubDate>Sat, 07 Nov 2026 23:57:46 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Yours Truly on Full Stack Creator, Talking About the New MacBook Pros With PROLED XDR Displays</title>
-      <link>https://www.youtube.com/watch?v=f2GZtWuUPl0</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=f2GZtWuUPl0</guid>
-      <pubDate>Sat, 07 Nov 2026 21:14:09 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Terry Pratchett's Study</title>
-      <link>https://simonwillison.net/2026/Nov/7/hn-50407316/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/7/hn-50407316/</guid>
-      <pubDate>Sat, 07 Nov 2026 19:34:24 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Reading List 11/7/2026</title>
-      <link>https://www.construction-physics.com/p/reading-list-1172026</link>
-      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-1172026</guid>
-      <pubDate>Sat, 07 Nov 2026 13:23:36 +0000</pubDate>
-      <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>Pluralistic: JS Tan and Clarissa Redwine's "Against Tech Oligarchy" (07 Nov 2026)</title>
-      <link>https://pluralistic.net/2026/11/07/aeiou-but-sometimes-why/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/11/07/aeiou-but-sometimes-why/</guid>
-      <pubDate>Sat, 07 Nov 2026 13:03:46 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
     </item>
   </channel>
 </rss>
