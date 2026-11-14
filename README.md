@@ -208,11 +208,11 @@ Last Updated: Sunday, November 15th, 2026, 5:53:16 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Peeking inside the bash rabbit hole](https://www.johndcook.com/blog/2026/11/14/bash-rabbit-hole/) — *John D. Cook* `11-14`
-- [Theatre Review: FrankenTacit ★★☆☆☆](https://shkspr.mobi/blog/2026/11/theatre-review-frankentacit/) — *Terence Eden’s Blog* `11-14`
-- [This Week in Package Management: 14 November 2026](https://nesbitt.io/2026/11/14/this-week-in-package-management.html) — *Andrew Nesbitt* `11-14`
-- [Spreadsheets and other models of morality](https://blog.coredump.cx/p/spreadsheets-and-other-models-of) — *lcamtuf’s thing* `11-14`
-- [What could possibly go wrong? Nationwide FAA Ground Stop edition](https://garymarcus.substack.com/p/what-could-possibly-go-wrong-nationwide) — *Marcus on AI* `11-14`
+- [Joanna Stern Reviews the HomeView](https://www.youtube.com/watch?v=yVTcVtLn2o4) — *Daring Fireball* `11-14`
+- [Jason Snell’s HomeView Review](https://sixcolors.com/post/2026/11/homeview-review-a-late-arrival-with-promise-but-still-showing-some-seams/) — *Daring Fireball* `11-14`
+- [Patrick McGee on Johny Srouji and Nvidia](https://x.com/patrickmcgee_/status/2120799867140550999) — *Daring Fireball* `11-14`
+- [Ops needs friction](https://www.jeffgeerling.com/blog/2026/ops-needs-friction/) — *Jeff Geerling* `11-14`
+- [Reading List 11/14/2026](https://www.construction-physics.com/p/reading-list-11142026) — *Construction Physics* `11-14`
 <!--BLOG_RADAR:end-->
 
 ---
