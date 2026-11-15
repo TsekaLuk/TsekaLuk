@@ -208,11 +208,11 @@ Last Updated: Sunday, November 15th, 2026, 12:23:22 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [datasette-llm 0.1a11](https://simonwillison.net/2026/Nov/14/datasette-llm/) — *Simon Willison's Weblog* `11-14`
 - [Joanna Stern Reviews the HomeView](https://www.youtube.com/watch?v=yVTcVtLn2o4) — *Daring Fireball* `11-14`
 - [Jason Snell’s HomeView Review](https://sixcolors.com/post/2026/11/homeview-review-a-late-arrival-with-promise-but-still-showing-some-seams/) — *Daring Fireball* `11-14`
 - [Patrick McGee on Johny Srouji and Nvidia](https://x.com/patrickmcgee_/status/2120799867140550999) — *Daring Fireball* `11-14`
-- [Ops needs friction](https://www.jeffgeerling.com/blog/2026/ops-needs-friction/) — *Jeff Geerling* `11-14`
-- [Reading List 11/14/2026](https://www.construction-physics.com/p/reading-list-11142026) — *Construction Physics* `11-14`
+- [datasette-vega 0.7](https://simonwillison.net/2026/Nov/14/datasette-vega/) — *Simon Willison's Weblog* `11-14`
 <!--BLOG_RADAR:end-->
 
 ---

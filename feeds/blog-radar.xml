@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 14 Nov 2026 22:12:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 05:56:35 +0000</lastBuildDate>
+    <item>
+      <title>datasette-llm 0.1a11</title>
+      <link>https://simonwillison.net/2026/Nov/14/datasette-llm/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/14/datasette-llm/</guid>
+      <pubDate>Sat, 14 Nov 2026 23:59:28 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Joanna Stern Reviews the HomeView</title>
       <link>https://www.youtube.com/watch?v=yVTcVtLn2o4</link>
@@ -25,6 +32,13 @@
       <guid isPermaLink="true">https://x.com/patrickmcgee_/status/2120799867140550999</guid>
       <pubDate>Sat, 14 Nov 2026 17:40:39 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>datasette-vega 0.7</title>
+      <link>https://simonwillison.net/2026/Nov/14/datasette-vega/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/14/datasette-vega/</guid>
+      <pubDate>Sat, 14 Nov 2026 17:09:09 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
     <item>
       <title>Ops needs friction</title>
@@ -60,6 +74,13 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/11/14/bash-rabbit-hole/</guid>
       <pubDate>Sat, 14 Nov 2026 13:09:57 +0000</pubDate>
       <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Taking AI Seriously</title>
+      <link>https://borretti.me/article/taking-ai-seriously</link>
+      <guid isPermaLink="true">https://borretti.me/article/taking-ai-seriously</guid>
+      <pubDate>Sat, 14 Nov 2026 13:00:00 +0000</pubDate>
+      <description>Fernando Borretti</description>
     </item>
     <item>
       <title>Theatre Review: FrankenTacit ★★☆☆☆</title>
@@ -811,13 +832,6 @@
       <description>Tedium: The Dull Side of the Internet.</description>
     </item>
     <item>
-      <title>The Android lockdown seems under-theorized</title>
-      <link>https://dynomight.net/android/</link>
-      <guid isPermaLink="true">https://dynomight.net/android/</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-      <description>DYNOMIGHT</description>
-    </item>
-    <item>
       <title>AI and Irontown</title>
       <link>https://lucumr.pocoo.org/2026/11/9/irontown/</link>
       <guid isPermaLink="true">https://lucumr.pocoo.org/2026/11/9/irontown/</guid>
@@ -825,25 +839,11 @@
       <description>Armin Ronacher's Thoughts and Writings</description>
     </item>
     <item>
-      <title>Jensen Huang Betrayed Nvidia, Not Just His Family</title>
-      <link>https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html?unlocked_article_code=1.O1E.DRyO.9mNcxhaxhtlI</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html?unlocked_article_code=1.O1E.DRyO.9mNcxhaxhtlI</guid>
-      <pubDate>Sun, 08 Nov 2026 23:56:32 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Finite Projective Planes</title>
-      <link>https://www.johndcook.com/blog/2026/11/08/finite-geometries/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/11/08/finite-geometries/</guid>
-      <pubDate>Sun, 08 Nov 2026 23:23:49 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>parse_number() as a SQLite extension: C vs Rust</title>
-      <link>https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/</guid>
-      <pubDate>Sun, 08 Nov 2026 22:26:00 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
+      <title>The Android lockdown seems under-theorized</title>
+      <link>https://dynomight.net/android/</link>
+      <guid isPermaLink="true">https://dynomight.net/android/</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
     </item>
   </channel>
 </rss>
