@@ -208,11 +208,11 @@ Last Updated: Monday, November 16th, 2026, 12:21:37 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [What’s Next For Nvidia?](https://steveblank.com/2026/11/15/whats-next-for-nvidia/) — *Steve Blank* `11-15`
-- [The Legion of PCAST](https://www.whitehouse.gov/ostp/presidents-council-of-advisors-on-science-and-technology/) — *Daring Fireball* `11-15`
-- [WorkOS: Let Agents Use Your Tools Without Giving Them Free Rein](https://www.workos.com/airlock?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q42026) — *Daring Fireball* `11-15`
-- [ASI as a Black Box](https://borretti.me/article/asi-as-a-black-box) — *Fernando Borretti* `11-15`
-- [Variable Electricity Pricing - the Highs and the Lows](https://shkspr.mobi/blog/2026/11/variable-electricity-pricing-the-highs-and-the-lows/) — *Terence Eden’s Blog* `11-15`
+- [Orbital footnote](https://www.johndcook.com/blog/2026/11/15/orbital-footnote/) — *John D. Cook* `11-16`
+- [People will lose their jobs over GTA 6](https://idiallo.com/blog/losing-your-job-over-a-video-game) — *Software and Tech stories from an Insider - iDiallo.com* `11-16`
+- [datasette-maplibre 0.1a0](https://simonwillison.net/2026/Nov/15/datasette-maplibre/) — *Simon Willison's Weblog* `11-15`
+- [datasette 1.0a43](https://simonwillison.net/2026/Nov/15/datasette/) — *Simon Willison's Weblog* `11-15`
+- [datasette 0.65.6](https://simonwillison.net/2026/Nov/15/datasette-2/) — *Simon Willison's Weblog* `11-15`
 <!--BLOG_RADAR:end-->
 
 ---
