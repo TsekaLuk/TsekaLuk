@@ -208,11 +208,11 @@ Last Updated: Monday, November 16th, 2026, 10:31:33 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Taxis and hash functions](https://www.johndcook.com/blog/2026/11/16/taxis-and-hash-functions/) — *John D. Cook* `11-16`
+- [Gig Review: ABBA Voyage ★★★★☆](https://shkspr.mobi/blog/2026/11/gig-review-abba-voyage/) — *Terence Eden’s Blog* `11-16`
+- [Weekly Update 530: Email Dependencies & Apps](https://www.troyhunt.com/weekly-update-530/) — *Troy Hunt* `11-16`
 - [Orbital footnote](https://www.johndcook.com/blog/2026/11/15/orbital-footnote/) — *John D. Cook* `11-16`
 - [People will lose their jobs over GTA 6](https://idiallo.com/blog/losing-your-job-over-a-video-game) — *Software and Tech stories from an Insider - iDiallo.com* `11-16`
-- [datasette-maplibre 0.1a0](https://simonwillison.net/2026/Nov/15/datasette-maplibre/) — *Simon Willison's Weblog* `11-15`
-- [datasette 1.0a43](https://simonwillison.net/2026/Nov/15/datasette/) — *Simon Willison's Weblog* `11-15`
-- [datasette 0.65.6](https://simonwillison.net/2026/Nov/15/datasette-2/) — *Simon Willison's Weblog* `11-15`
 <!--BLOG_RADAR:end-->
 
 ---
