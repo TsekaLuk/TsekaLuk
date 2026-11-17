@@ -208,11 +208,11 @@ Last Updated: Tuesday, November 17th, 2026, 11:21:59 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [llm 0.37.3](https://simonwillison.net/2026/Nov/16/llm/) — *Simon Willison's Weblog* `11-16`
-- [‘Meet the Anthropic Researcher Behind Silicon Valley’s “Consensual Non-Consent” Orgies’](https://freebeacon.com/america/horrifying-meet-the-anthropic-researcher-behind-silicon-valleys-consensual-non-consent-orgies/) — *Daring Fireball* `11-16`
-- [[Sponsor] Ivy: The To-do List That Ends](https://apps.apple.com/app/apple-store/id6747921058?pt=1363339&ct=Daring-Fireball-Post&mt=8) — *Daring Fireball* `11-16`
-- [Developers Continue to Optimize iPhone Apps for the Duo](https://x.com/arinwaichulis/status/2122397676767522942) — *Daring Fireball* `11-16`
-- [Irish Goodbye / French Leave / Leave the English Way](https://terriblemaps.co.uk/leaving-a-party-without-saying-goodbye/) — *Daring Fireball* `11-16`
+- [The NVIDIA Bubble](https://www.wheresyoured.at/the-nvidia-bubble/) — *Ed Zitron's Where's Your Ed At* `11-17`
+- [Pluralistic: Remembrance of proteins past (17 Nov 2026)](https://pluralistic.net/2026/11/17/mississippi-gosh-darn/) — *Pluralistic: Daily links from Cory Doctorow* `11-17`
+- [HomeAssistant - shrink a HAOS qcow2 filesystem](https://shkspr.mobi/blog/2026/11/homeassistant-shrink-a-haos-qcow2-filesystem/) — *Terence Eden’s Blog* `11-17`
+- [Beyond Linux: A Journey Through the Open Source Ecosystem](https://it-notes.dragas.net/2026/11/17/beyond-linux-a-journey-through-the-open-source-ecosystem/) — *IT Notes* `11-17`
+- [Quoting Go Proverbs](https://simonwillison.net/2026/Nov/17/go-proverbs/) — *Simon Willison's Weblog* `11-17`
 <!--BLOG_RADAR:end-->
 
 ---
