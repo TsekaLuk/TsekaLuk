@@ -4,7 +4,112 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 16 Nov 2026 15:32:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 01:47:51 +0000</lastBuildDate>
+    <item>
+      <title>llm 0.37.3</title>
+      <link>https://simonwillison.net/2026/Nov/16/llm/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/16/llm/</guid>
+      <pubDate>Mon, 16 Nov 2026 23:57:26 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>‘Meet the Anthropic Researcher Behind Silicon Valley’s “Consensual Non-Consent” Orgies’</title>
+      <link>https://freebeacon.com/america/horrifying-meet-the-anthropic-researcher-behind-silicon-valleys-consensual-non-consent-orgies/</link>
+      <guid isPermaLink="true">https://freebeacon.com/america/horrifying-meet-the-anthropic-researcher-behind-silicon-valleys-consensual-non-consent-orgies/</guid>
+      <pubDate>Mon, 16 Nov 2026 23:51:54 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>[Sponsor] Ivy: The To-do List That Ends</title>
+      <link>https://apps.apple.com/app/apple-store/id6747921058?pt=1363339&amp;ct=Daring-Fireball-Post&amp;mt=8</link>
+      <guid isPermaLink="true">https://apps.apple.com/app/apple-store/id6747921058?pt=1363339&amp;ct=Daring-Fireball-Post&amp;mt=8</guid>
+      <pubDate>Mon, 16 Nov 2026 23:18:35 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Developers Continue to Optimize iPhone Apps for the Duo</title>
+      <link>https://x.com/arinwaichulis/status/2122397676767522942</link>
+      <guid isPermaLink="true">https://x.com/arinwaichulis/status/2122397676767522942</guid>
+      <pubDate>Mon, 16 Nov 2026 23:09:05 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Irish Goodbye / French Leave / Leave the English Way</title>
+      <link>https://terriblemaps.co.uk/leaving-a-party-without-saying-goodbye/</link>
+      <guid isPermaLink="true">https://terriblemaps.co.uk/leaving-a-party-without-saying-goodbye/</guid>
+      <pubDate>Mon, 16 Nov 2026 22:55:38 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>MacOS Golden Gate 27.3b2 Includes New Privacy Controls for Full Disk Access (and More)</title>
+      <link>https://9to5mac.com/2026/11/16/macos-27-3-includes-new-privacy-controls-for-full-disk-access-and-more/</link>
+      <guid isPermaLink="true">https://9to5mac.com/2026/11/16/macos-27-3-includes-new-privacy-controls-for-full-disk-access-and-more/</guid>
+      <pubDate>Mon, 16 Nov 2026 20:27:34 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Is there a case for impeaching Trump over Jensengate?</title>
+      <link>https://garymarcus.substack.com/p/is-there-a-case-for-impeaching-trump</link>
+      <guid isPermaLink="true">https://garymarcus.substack.com/p/is-there-a-case-for-impeaching-trump</guid>
+      <pubDate>Mon, 16 Nov 2026 19:34:40 +0000</pubDate>
+      <description>Marcus on AI</description>
+    </item>
+    <item>
+      <title>‘Unlock With Front Camera’ — New Feature for iPhone Duo in iOS 27.3 Beta 2</title>
+      <link>https://www.macrumors.com/2026/11/16/iphone-duo-face-unlock/</link>
+      <guid isPermaLink="true">https://www.macrumors.com/2026/11/16/iphone-duo-face-unlock/</guid>
+      <pubDate>Mon, 16 Nov 2026 19:22:38 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Ben Thompson on Nvidia</title>
+      <link>https://stratechery.com/2026/obituaries/</link>
+      <guid isPermaLink="true">https://stratechery.com/2026/obituaries/</guid>
+      <pubDate>Mon, 16 Nov 2026 18:44:02 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Paul Christiano – We could be 12 months away from AIs that can overthrow the government</title>
+      <link>https://www.dwarkesh.com/p/paul-christiano-2</link>
+      <guid isPermaLink="true">https://www.dwarkesh.com/p/paul-christiano-2</guid>
+      <pubDate>Mon, 16 Nov 2026 17:46:28 +0000</pubDate>
+      <description>Dwarkesh Podcast</description>
+    </item>
+    <item>
+      <title>WSJ: ‘Nvidia’s Days as an Open Checkbook for the AI Economy Are Numbered’</title>
+      <link>https://www.wsj.com/tech/ai/nvidias-days-as-an-open-checkbook-for-the-ai-economy-are-numbered-90c7b388</link>
+      <guid isPermaLink="true">https://www.wsj.com/tech/ai/nvidias-days-as-an-open-checkbook-for-the-ai-economy-are-numbered-90c7b388</guid>
+      <pubDate>Mon, 16 Nov 2026 17:37:48 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Here's how anyone can easily use private, open weight models</title>
+      <link>https://micahflee.com/heres-how-anyone-can-easily-use-private-open-weight-models/</link>
+      <guid isPermaLink="true">https://micahflee.com/heres-how-anyone-can-easily-use-private-open-weight-models/</guid>
+      <pubDate>Mon, 16 Nov 2026 16:35:27 +0000</pubDate>
+      <description>Micah Lee</description>
+    </item>
+    <item>
+      <title>Game over, man?</title>
+      <link>https://garymarcus.substack.com/p/game-over-man</link>
+      <guid isPermaLink="true">https://garymarcus.substack.com/p/game-over-man</guid>
+      <pubDate>Mon, 16 Nov 2026 16:29:36 +0000</pubDate>
+      <description>Marcus on AI</description>
+    </item>
+    <item>
+      <title>Oprah Gives Everyone in Her Audience a ‘Duo iPhone’</title>
+      <link>https://youtu.be/j0Rsv1U3Q7A</link>
+      <guid isPermaLink="true">https://youtu.be/j0Rsv1U3Q7A</guid>
+      <pubDate>Mon, 16 Nov 2026 16:05:18 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Robert Pattinson Is the Next James Bond</title>
+      <link>https://variety.com/2026/film/global/robert-pattinson-new-james-bond-007-1236946655/</link>
+      <guid isPermaLink="true">https://variety.com/2026/film/global/robert-pattinson-new-james-bond-007-1236946655/</guid>
+      <pubDate>Mon, 16 Nov 2026 15:36:52 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>Taxis and hash functions</title>
       <link>https://www.johndcook.com/blog/2026/11/16/taxis-and-hash-functions/</link>
@@ -202,6 +307,20 @@
       <description>Andrew Nesbitt</description>
     </item>
     <item>
+      <title>Spreadsheets and other models of morality</title>
+      <link>https://blog.coredump.cx/p/spreadsheets-and-other-models-of</link>
+      <guid isPermaLink="true">https://blog.coredump.cx/p/spreadsheets-and-other-models-of</guid>
+      <pubDate>Sat, 14 Nov 2026 08:36:24 +0000</pubDate>
+      <description>lcamtuf’s thing</description>
+    </item>
+    <item>
+      <title>What could possibly go wrong? Nationwide FAA Ground Stop edition</title>
+      <link>https://garymarcus.substack.com/p/what-could-possibly-go-wrong-nationwide</link>
+      <guid isPermaLink="true">https://garymarcus.substack.com/p/what-could-possibly-go-wrong-nationwide</guid>
+      <pubDate>Sat, 14 Nov 2026 00:20:10 +0000</pubDate>
+      <description>Marcus on AI</description>
+    </item>
+    <item>
       <title>How to find meaning in large tech companies</title>
       <link>https://seangoedecke.com/how-to-find-meaning-in-large-tech-companies/</link>
       <guid isPermaLink="true">https://seangoedecke.com/how-to-find-meaning-in-large-tech-companies/</guid>
@@ -256,6 +375,13 @@
       <guid isPermaLink="true">https://www.dwarkesh.com/p/rsi</guid>
       <pubDate>Fri, 13 Nov 2026 18:37:51 +0000</pubDate>
       <description>Dwarkesh Podcast</description>
+    </item>
+    <item>
+      <title>The great Generative AI unraveling</title>
+      <link>https://garymarcus.substack.com/p/the-great-generative-ai-unraveling</link>
+      <guid isPermaLink="true">https://garymarcus.substack.com/p/the-great-generative-ai-unraveling</guid>
+      <pubDate>Fri, 13 Nov 2026 18:26:49 +0000</pubDate>
+      <description>Marcus on AI</description>
     </item>
     <item>
       <title>Premium: The Hater’s Guide To Megaspeed</title>
@@ -426,6 +552,13 @@
       <description>The Old New Thing</description>
     </item>
     <item>
+      <title>Jensen Huang resigns.</title>
+      <link>https://garymarcus.substack.com/p/jensen-huang-resigns</link>
+      <guid isPermaLink="true">https://garymarcus.substack.com/p/jensen-huang-resigns</guid>
+      <pubDate>Thu, 12 Nov 2026 14:44:04 +0000</pubDate>
+      <description>Marcus on AI</description>
+    </item>
+    <item>
       <title>Technology as a Search Problem</title>
       <link>https://www.construction-physics.com/p/technology-as-a-search-problem</link>
       <guid isPermaLink="true">https://www.construction-physics.com/p/technology-as-a-search-problem</guid>
@@ -438,6 +571,13 @@
       <guid isPermaLink="true">https://shkspr.mobi/blog/2026/11/book-review-this-is-for-everyone-tim-berners-lee/</guid>
       <pubDate>Thu, 12 Nov 2026 12:34:10 +0000</pubDate>
       <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Breaking: Eli Lilly CEO becomes latest to push back on Dario Amodei’s ludicrous, Elizabeth Holmes-like medical claims</title>
+      <link>https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest</link>
+      <guid isPermaLink="true">https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest</guid>
+      <pubDate>Thu, 12 Nov 2026 12:25:55 +0000</pubDate>
+      <description>Marcus on AI</description>
     </item>
     <item>
       <title>Semafor: ‘Nvidia Board Preparing to Oust CEO Jensen Huang, Name Interim CEO’</title>
@@ -487,6 +627,13 @@
       <guid isPermaLink="true">https://bernsteinbear.com/blog/ssa-bytecode/?utm_source=rss</guid>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
       <description>Max Bernstein's Blog</description>
+    </item>
+    <item>
+      <title>Jensen is reportedly about to get fired</title>
+      <link>https://garymarcus.substack.com/p/jensen-is-reportedly-about-to-get</link>
+      <guid isPermaLink="true">https://garymarcus.substack.com/p/jensen-is-reportedly-about-to-get</guid>
+      <pubDate>Wed, 11 Nov 2026 23:53:06 +0000</pubDate>
+      <description>Marcus on AI</description>
     </item>
     <item>
       <title>Gemini Decisions API</title>
@@ -594,6 +741,13 @@
       <description>Andrew Nesbitt</description>
     </item>
     <item>
+      <title>It came from the token void!</title>
+      <link>https://blog.coredump.cx/p/it-came-from-the-token-void</link>
+      <guid isPermaLink="true">https://blog.coredump.cx/p/it-came-from-the-token-void</guid>
+      <pubDate>Wed, 11 Nov 2026 03:44:15 +0000</pubDate>
+      <description>lcamtuf’s thing</description>
+    </item>
+    <item>
       <title>Monads in Lean</title>
       <link>https://eli.thegreenplace.net/2026/monads-in-lean/</link>
       <guid isPermaLink="true">https://eli.thegreenplace.net/2026/monads-in-lean/</guid>
@@ -690,160 +844,6 @@
       <guid isPermaLink="true">https://www.experimental-history.com/p/we-need-more-goat-sacrifices</guid>
       <pubDate>Tue, 10 Nov 2026 17:21:43 +0000</pubDate>
       <description>Experimental History</description>
-    </item>
-    <item>
-      <title>Bloomberg: ‘Nvidia Intervened in U.S. Probe of Megaspeed Chip Smuggling’</title>
-      <link>https://www.bloomberg.com/news/articles/2026-11-09/nvidia-intervened-in-us-probe-of-megaspeed-chip-smuggling</link>
-      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-11-09/nvidia-intervened-in-us-probe-of-megaspeed-chip-smuggling</guid>
-      <pubDate>Tue, 10 Nov 2026 17:06:01 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Regarding Graveyards and Indispensable Men</title>
-      <link>https://www.youtube.com/watch?v=vydmUCGQnyI</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=vydmUCGQnyI</guid>
-      <pubDate>Tue, 10 Nov 2026 17:01:06 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Steven Levy on John Ternus</title>
-      <link>https://www.wired.com/story/i-spent-30-minutes-with-apples-ceo-now-i-know-why-john-ternus-got-the-job/</link>
-      <guid isPermaLink="true">https://www.wired.com/story/i-spent-30-minutes-with-apples-ceo-now-i-know-why-john-ternus-got-the-job/</guid>
-      <pubDate>Tue, 10 Nov 2026 16:32:26 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>OurCal</title>
-      <link>https://ourcal.com/?utm_source=daringfireball&amp;utm_medium=sponsorship&amp;utm_content=post-thankyou</link>
-      <guid isPermaLink="true">https://ourcal.com/?utm_source=daringfireball&amp;utm_medium=sponsorship&amp;utm_content=post-thankyou</guid>
-      <pubDate>Tue, 10 Nov 2026 15:15:17 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Microsoft employee price list from 1987</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20261110-00/?p=112843/</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261110-00/?p=112843/</guid>
-      <pubDate>Tue, 10 Nov 2026 15:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Safari 27.3 Adds Support for Global Privacy Control</title>
-      <link>https://pxlnv.com/linklog/safari-global-privacy-control/</link>
-      <guid isPermaLink="true">https://pxlnv.com/linklog/safari-global-privacy-control/</guid>
-      <pubDate>Tue, 10 Nov 2026 14:47:10 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>‘A Scandal at the Center of the Economy’</title>
-      <link>https://www.theatlantic.com/technology/2026/11/jensen-huang-chinese-spy/689357/?gift=aQyUJR7AIw1mJWdQ6Ed6yPI8n1FlV88MR9f9IZruvFA&amp;</link>
-      <guid isPermaLink="true">https://www.theatlantic.com/technology/2026/11/jensen-huang-chinese-spy/689357/?gift=aQyUJR7AIw1mJWdQ6Ed6yPI8n1FlV88MR9f9IZruvFA&amp;</guid>
-      <pubDate>Tue, 10 Nov 2026 14:36:18 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>U.S. Commerce Dept. Inquiry Into Megaspeed Was Halted After Nvidia Name-Dropped Trump Appointee</title>
-      <link>https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html?unlocked_article_code=1.PVE.GxBL.iBpBoc8Y4tnb</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html?unlocked_article_code=1.PVE.GxBL.iBpBoc8Y4tnb</guid>
-      <pubDate>Tue, 10 Nov 2026 14:35:38 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Balanced Incomplete Block Designs</title>
-      <link>https://www.johndcook.com/blog/2026/11/10/bibd/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/11/10/bibd/</guid>
-      <pubDate>Tue, 10 Nov 2026 14:26:21 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Book Review: The Unfinished Harauld Hughes - Richard Ayoade ★★★⯪☆</title>
-      <link>https://shkspr.mobi/blog/2026/11/book-review-the-unfinished-harauld-hughes-richard-ayoade/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/11/book-review-the-unfinished-harauld-hughes-richard-ayoade/</guid>
-      <pubDate>Tue, 10 Nov 2026 12:34:31 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Introducing Our Smallest, Most Efficient Model: Muse Ember</title>
-      <link>https://simonwillison.net/2026/Nov/10/muse-ember/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/10/muse-ember/</guid>
-      <pubDate>Tue, 10 Nov 2026 07:28:21 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>The classic console corner's CRT changeover</title>
-      <link>https://oldvcr.blogspot.com/2026/11/the-classic-console-corners-crt.html</link>
-      <guid isPermaLink="true">https://oldvcr.blogspot.com/2026/11/the-classic-console-corners-crt.html</guid>
-      <pubDate>Tue, 10 Nov 2026 06:23:17 +0000</pubDate>
-      <description>Old Vintage Computing Research</description>
-    </item>
-    <item>
-      <title>Quoting Prompting Claude Fable 5.2</title>
-      <link>https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/</guid>
-      <pubDate>Tue, 10 Nov 2026 05:34:14 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Yonkers Rises</title>
-      <link>https://simonwillison.net/2026/Nov/10/yonkers-rises/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/10/yonkers-rises/</guid>
-      <pubDate>Tue, 10 Nov 2026 03:53:04 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Combinatorial designs</title>
-      <link>https://www.johndcook.com/blog/2026/11/09/combinatorial-designs/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/11/09/combinatorial-designs/</guid>
-      <pubDate>Tue, 10 Nov 2026 01:38:48 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Weekly Update 529: Kids Social Media Bans (and Everything Else)</title>
-      <link>https://www.troyhunt.com/weekly-update-529/</link>
-      <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-529/</guid>
-      <pubDate>Tue, 10 Nov 2026 00:42:35 +0000</pubDate>
-      <description>Troy Hunt</description>
-    </item>
-    <item>
-      <title>I am searching for a coffee alternative</title>
-      <link>https://bernsteinbear.com/blog/coffee-alternative/?utm_source=rss</link>
-      <guid isPermaLink="true">https://bernsteinbear.com/blog/coffee-alternative/?utm_source=rss</guid>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Max Bernstein's Blog</description>
-    </item>
-    <item>
-      <title>llm-anthropic 0.31</title>
-      <link>https://simonwillison.net/2026/Nov/9/llm-anthropic/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/9/llm-anthropic/</guid>
-      <pubDate>Mon, 09 Nov 2026 23:58:46 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Locating the source of a mysterious beep with Claude</title>
-      <link>https://simonwillison.net/2026/Nov/9/mysterious-beeps/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/9/mysterious-beeps/</guid>
-      <pubDate>Mon, 09 Nov 2026 23:57:21 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Bloomberg Was Onto Megaspeed’s Game a Year Ago</title>
-      <link>https://www.bloomberg.com/news/features/2025-12-22/nvidia-partner-megaspeed-draws-china-chip-smuggling-concerns-in-us</link>
-      <guid isPermaLink="true">https://www.bloomberg.com/news/features/2025-12-22/nvidia-partner-megaspeed-draws-china-chip-smuggling-concerns-in-us</guid>
-      <pubDate>Mon, 09 Nov 2026 23:46:17 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Claude Code token cost explorer</title>
-      <link>https://entropicthoughts.com/claude-code-token-cost-explorer</link>
-      <guid isPermaLink="true">https://entropicthoughts.com/claude-code-token-cost-explorer</guid>
-      <pubDate>Mon, 09 Nov 2026 23:00:00 +0000</pubDate>
-      <description>Entropic Thoughts</description>
-    </item>
-    <item>
-      <title>Short-Seller Culper Research Published Information on Jensen Huang’s Affair Back in May</title>
-      <link>https://culperresearch.com/wp-content/uploads/2026/05/Culper_NVDA_5-13-2026.pdf</link>
-      <guid isPermaLink="true">https://culperresearch.com/wp-content/uploads/2026/05/Culper_NVDA_5-13-2026.pdf</guid>
-      <pubDate>Mon, 09 Nov 2026 20:57:04 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>

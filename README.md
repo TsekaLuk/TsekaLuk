@@ -208,11 +208,11 @@ Last Updated: Tuesday, November 17th, 2026, 9:26:29 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Taxis and hash functions](https://www.johndcook.com/blog/2026/11/16/taxis-and-hash-functions/) — *John D. Cook* `11-16`
-- [Gig Review: ABBA Voyage ★★★★☆](https://shkspr.mobi/blog/2026/11/gig-review-abba-voyage/) — *Terence Eden’s Blog* `11-16`
-- [Weekly Update 530: Email Dependencies & Apps](https://www.troyhunt.com/weekly-update-530/) — *Troy Hunt* `11-16`
-- [Orbital footnote](https://www.johndcook.com/blog/2026/11/15/orbital-footnote/) — *John D. Cook* `11-16`
-- [People will lose their jobs over GTA 6](https://idiallo.com/blog/losing-your-job-over-a-video-game) — *Software and Tech stories from an Insider - iDiallo.com* `11-16`
+- [llm 0.37.3](https://simonwillison.net/2026/Nov/16/llm/) — *Simon Willison's Weblog* `11-16`
+- [‘Meet the Anthropic Researcher Behind Silicon Valley’s “Consensual Non-Consent” Orgies’](https://freebeacon.com/america/horrifying-meet-the-anthropic-researcher-behind-silicon-valleys-consensual-non-consent-orgies/) — *Daring Fireball* `11-16`
+- [[Sponsor] Ivy: The To-do List That Ends](https://apps.apple.com/app/apple-store/id6747921058?pt=1363339&ct=Daring-Fireball-Post&mt=8) — *Daring Fireball* `11-16`
+- [Developers Continue to Optimize iPhone Apps for the Duo](https://x.com/arinwaichulis/status/2122397676767522942) — *Daring Fireball* `11-16`
+- [Irish Goodbye / French Leave / Leave the English Way](https://terriblemaps.co.uk/leaving-a-party-without-saying-goodbye/) — *Daring Fireball* `11-16`
 <!--BLOG_RADAR:end-->
 
 ---
