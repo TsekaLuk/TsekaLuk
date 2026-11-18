@@ -4,7 +4,49 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Tue, 17 Nov 2026 15:48:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 00:50:28 +0000</lastBuildDate>
+    <item>
+      <title>External sandboxes for coding agents</title>
+      <link>https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/</guid>
+      <pubDate>Tue, 17 Nov 2026 22:52:29 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>GPT‑6.2 Astra and GPT‑6.2 Sol</title>
+      <link>https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/</guid>
+      <pubDate>Tue, 17 Nov 2026 22:38:52 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>SetShot 1.0 (and a Personal Tale of Defaults System Spelunking)</title>
+      <link>https://tidbits.com/2026/11/13/setshot-1-0-tracks-even-more-macos-settings/</link>
+      <guid isPermaLink="true">https://tidbits.com/2026/11/13/setshot-1-0-tracks-even-more-macos-settings/</guid>
+      <pubDate>Tue, 17 Nov 2026 18:41:12 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Apple’s Cloud Services Are Having a Bad Day, Including Their Status Page</title>
+      <link>https://www.macrumors.com/2026/11/17/apple-accounts-experiencing-issues/</link>
+      <guid isPermaLink="true">https://www.macrumors.com/2026/11/17/apple-accounts-experiencing-issues/</guid>
+      <pubDate>Tue, 17 Nov 2026 18:21:23 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Running the full server-side Datasette Python app in the browser with service workers and Pyodide</title>
+      <link>https://simonwillison.net/2026/Nov/17/datasette-lite/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/17/datasette-lite/</guid>
+      <pubDate>Tue, 17 Nov 2026 16:48:33 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>My Empire of Sunshine and Roses</title>
+      <link>https://geohot.github.io//blog/jekyll/update/2026/11/18/my-empire-of-sunshine-and-roses.html</link>
+      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/11/18/my-empire-of-sunshine-and-roses.html</guid>
+      <pubDate>Tue, 17 Nov 2026 16:00:00 +0000</pubDate>
+      <description>the singularity is nearer</description>
+    </item>
     <item>
       <title>The NVIDIA Bubble</title>
       <link>https://www.wheresyoured.at/the-nvidia-bubble/</link>
@@ -70,15 +112,15 @@
     </item>
     <item>
       <title>[Sponsor] Ivy: The To-do List That Ends</title>
-      <link>https://apps.apple.com/app/apple-store/id6747921058?pt=1363339&amp;ct=Daring-Fireball-Post&amp;mt=8</link>
-      <guid isPermaLink="true">https://apps.apple.com/app/apple-store/id6747921058?pt=1363339&amp;ct=Daring-Fireball-Post&amp;mt=8</guid>
+      <link>https://semantical.com/?utm_campaign=df-2026-12</link>
+      <guid isPermaLink="true">https://semantical.com/?utm_campaign=df-2026-12</guid>
       <pubDate>Mon, 16 Nov 2026 23:18:35 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
     <item>
       <title>Developers Continue to Optimize iPhone Apps for the Duo</title>
-      <link>https://x.com/arinwaichulis/status/2122397676767522942</link>
-      <guid isPermaLink="true">https://x.com/arinwaichulis/status/2122397676767522942</guid>
+      <link>https://x.com/gregjoz/status/2122393925080252469</link>
+      <guid isPermaLink="true">https://x.com/gregjoz/status/2122393925080252469</guid>
       <pubDate>Mon, 16 Nov 2026 23:09:05 +0000</pubDate>
       <description>Daring Fireball</description>
     </item>
@@ -776,25 +818,11 @@
       <description>Giles' blog</description>
     </item>
     <item>
-      <title>Gary Marcus: ‘Just Say No to Anthropic’s IPO’</title>
-      <link>https://garymarcus.substack.com/p/just-say-no-to-anthropics-ipo?r=3k69a0</link>
-      <guid isPermaLink="true">https://garymarcus.substack.com/p/just-say-no-to-anthropics-ipo?r=3k69a0</guid>
-      <pubDate>Tue, 10 Nov 2026 22:16:25 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
       <title>Microsoft Fixes Nearly 1,100 Security Vulnerabilities</title>
       <link>https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/</link>
       <guid isPermaLink="true">https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/</guid>
       <pubDate>Tue, 10 Nov 2026 21:55:03 +0000</pubDate>
       <description>Krebs on Security</description>
-    </item>
-    <item>
-      <title>Altar II Keyboard on Kickstarter</title>
-      <link>https://www.kickstarter.com/projects/electronicamaterials/altar-ii/</link>
-      <guid isPermaLink="true">https://www.kickstarter.com/projects/electronicamaterials/altar-ii/</guid>
-      <pubDate>Tue, 10 Nov 2026 20:59:25 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
     <item>
       <title>Finally, Payment by Bank Transfer Comes to Have I Been Pwned</title>
@@ -816,34 +844,6 @@
       <guid isPermaLink="true">https://berthub.eu/articles/posts/revisiting-leander-and-big-brother/</guid>
       <pubDate>Tue, 10 Nov 2026 19:10:00 +0000</pubDate>
       <description>Bert Hubert's writings</description>
-    </item>
-    <item>
-      <title>Making a Website in 2026</title>
-      <link>https://blog.jim-nielsen.com/2026/making-websites-in-2026/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/making-websites-in-2026/</guid>
-      <pubDate>Tue, 10 Nov 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
-      <title>Jensen's Bizarre Adventure</title>
-      <link>https://www.wheresyoured.at/jensens-bizarre-adventure/</link>
-      <guid isPermaLink="true">https://www.wheresyoured.at/jensens-bizarre-adventure/</guid>
-      <pubDate>Tue, 10 Nov 2026 17:43:27 +0000</pubDate>
-      <description>Ed Zitron's Where's Your Ed At</description>
-    </item>
-    <item>
-      <title>Pluralistic: The EU should go big and hard over border IT failure (10 Nov 2026)</title>
-      <link>https://pluralistic.net/2026/11/10/worst-of-all-worlds/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/11/10/worst-of-all-worlds/</guid>
-      <pubDate>Tue, 10 Nov 2026 17:34:21 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>We need more goat sacrifices</title>
-      <link>https://www.experimental-history.com/p/we-need-more-goat-sacrifices</link>
-      <guid isPermaLink="true">https://www.experimental-history.com/p/we-need-more-goat-sacrifices</guid>
-      <pubDate>Tue, 10 Nov 2026 17:21:43 +0000</pubDate>
-      <description>Experimental History</description>
     </item>
   </channel>
 </rss>

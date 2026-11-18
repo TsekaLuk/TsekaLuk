@@ -208,11 +208,11 @@ Last Updated: Wednesday, November 18th, 2026, 8:22:45 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [The NVIDIA Bubble](https://www.wheresyoured.at/the-nvidia-bubble/) — *Ed Zitron's Where's Your Ed At* `11-17`
-- [Pluralistic: Remembrance of proteins past (17 Nov 2026)](https://pluralistic.net/2026/11/17/mississippi-gosh-darn/) — *Pluralistic: Daily links from Cory Doctorow* `11-17`
-- [HomeAssistant - shrink a HAOS qcow2 filesystem](https://shkspr.mobi/blog/2026/11/homeassistant-shrink-a-haos-qcow2-filesystem/) — *Terence Eden’s Blog* `11-17`
-- [Beyond Linux: A Journey Through the Open Source Ecosystem](https://it-notes.dragas.net/2026/11/17/beyond-linux-a-journey-through-the-open-source-ecosystem/) — *IT Notes* `11-17`
-- [Quoting Go Proverbs](https://simonwillison.net/2026/Nov/17/go-proverbs/) — *Simon Willison's Weblog* `11-17`
+- [External sandboxes for coding agents](https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/) — *Simon Willison's Weblog* `11-17`
+- [GPT‑6.2 Astra and GPT‑6.2 Sol](https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/) — *Simon Willison's Weblog* `11-17`
+- [SetShot 1.0 (and a Personal Tale of Defaults System Spelunking)](https://tidbits.com/2026/11/13/setshot-1-0-tracks-even-more-macos-settings/) — *Daring Fireball* `11-17`
+- [Apple’s Cloud Services Are Having a Bad Day, Including Their Status Page](https://www.macrumors.com/2026/11/17/apple-accounts-experiencing-issues/) — *Daring Fireball* `11-17`
+- [Running the full server-side Datasette Python app in the browser with service workers and Pyodide](https://simonwillison.net/2026/Nov/17/datasette-lite/) — *Simon Willison's Weblog* `11-17`
 <!--BLOG_RADAR:end-->
 
 ---
