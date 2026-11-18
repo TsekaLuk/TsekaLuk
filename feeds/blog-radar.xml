@@ -4,7 +4,49 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 18 Nov 2026 00:50:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 15:28:00 +0000</lastBuildDate>
+    <item>
+      <title>The PSF end-of-year fundraiser</title>
+      <link>https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/</guid>
+      <pubDate>Wed, 18 Nov 2026 14:44:48 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Once More Unto The Breach - Another Year In Review</title>
+      <link>https://shkspr.mobi/blog/2026/11/once-more-unto-the-breach-another-year-in-review/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/11/once-more-unto-the-breach-another-year-in-review/</guid>
+      <pubDate>Wed, 18 Nov 2026 12:34:00 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>This Week in Source Control: 18 November 2026</title>
+      <link>https://nesbitt.io/2026/11/18/this-week-in-source-control.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/11/18/this-week-in-source-control.html</guid>
+      <pubDate>Wed, 18 Nov 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>Pluralistic: Enshittifiers groom us for scammers (18 Nov 2026)</title>
+      <link>https://pluralistic.net/2026/11/18/malice-v-incompetence/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/11/18/malice-v-incompetence/</guid>
+      <pubDate>Wed, 18 Nov 2026 08:28:46 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Attackers Used Optimizely to A/B Test Malware on Top Websites</title>
+      <link>https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/</link>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/</guid>
+      <pubDate>Wed, 18 Nov 2026 02:52:04 +0000</pubDate>
+      <description>Krebs on Security</description>
+    </item>
+    <item>
+      <title>Are vibe-coded games making me a substance dualist?</title>
+      <link>https://rakhim.exotext.com/are-vibe-coded-games-making-me-a-substance-dualist</link>
+      <guid isPermaLink="true">https://rakhim.exotext.com/are-vibe-coded-games-making-me-a-substance-dualist</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Rakhim's blog</description>
+    </item>
     <item>
       <title>External sandboxes for coding agents</title>
       <link>https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/</link>
@@ -53,6 +95,20 @@
       <guid isPermaLink="true">https://www.wheresyoured.at/the-nvidia-bubble/</guid>
       <pubDate>Tue, 17 Nov 2026 15:43:58 +0000</pubDate>
       <description>Ed Zitron's Where's Your Ed At</description>
+    </item>
+    <item>
+      <title>I joined the NTP Pool, but not with my Stratum 1 Pi</title>
+      <link>https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/</guid>
+      <pubDate>Tue, 17 Nov 2026 15:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
+    </item>
+    <item>
+      <title>In the Microsoft employee price list, why did the BASIC compiler cost less than the BASIC interpreter?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20261117-00/?p=112866/</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261117-00/?p=112866/</guid>
+      <pubDate>Tue, 17 Nov 2026 15:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Pluralistic: Remembrance of proteins past (17 Nov 2026)</title>
@@ -788,62 +844,6 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/11/11/this-week-in-source-control.html</guid>
       <pubDate>Wed, 11 Nov 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Monads in Lean</title>
-      <link>https://eli.thegreenplace.net/2026/monads-in-lean/</link>
-      <guid isPermaLink="true">https://eli.thegreenplace.net/2026/monads-in-lean/</guid>
-      <pubDate>Wed, 11 Nov 2026 03:25:00 +0000</pubDate>
-      <description>Eli Bendersky's website</description>
-    </item>
-    <item>
-      <title>Glue work is still harmful in the age of AI</title>
-      <link>https://seangoedecke.com/glue-work-is-still-harmful-in-the-age-of-ai/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/glue-work-is-still-harmful-in-the-age-of-ai/</guid>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>Ms. Bashkansky, Please Do Not Build The Torment Nexus</title>
-      <link>https://jyn.dev/ms-bashkansky-please-do-not-build-the-torment-nexus/</link>
-      <guid isPermaLink="true">https://jyn.dev/ms-bashkansky-please-do-not-build-the-torment-nexus/</guid>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <description>the website of jyn</description>
-    </item>
-    <item>
-      <title>20 years of blogging</title>
-      <link>https://www.gilesthomas.com/2026/11/20-years-of-blogging</link>
-      <guid isPermaLink="true">https://www.gilesthomas.com/2026/11/20-years-of-blogging</guid>
-      <pubDate>Tue, 10 Nov 2026 23:00:00 +0000</pubDate>
-      <description>Giles' blog</description>
-    </item>
-    <item>
-      <title>Microsoft Fixes Nearly 1,100 Security Vulnerabilities</title>
-      <link>https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/</link>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/</guid>
-      <pubDate>Tue, 10 Nov 2026 21:55:03 +0000</pubDate>
-      <description>Krebs on Security</description>
-    </item>
-    <item>
-      <title>Finally, Payment by Bank Transfer Comes to Have I Been Pwned</title>
-      <link>https://www.troyhunt.com/finally-payment-by-bank-transfer-comes-to-have-i-been-pwned/</link>
-      <guid isPermaLink="true">https://www.troyhunt.com/finally-payment-by-bank-transfer-comes-to-have-i-been-pwned/</guid>
-      <pubDate>Tue, 10 Nov 2026 20:26:15 +0000</pubDate>
-      <description>Troy Hunt</description>
-    </item>
-    <item>
-      <title>llm-gemini 0.36</title>
-      <link>https://simonwillison.net/2026/Nov/10/llm-gemini/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/10/llm-gemini/</guid>
-      <pubDate>Tue, 10 Nov 2026 20:09:44 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Revisiting Leander v Sweden and Big Brother Watch</title>
-      <link>https://berthub.eu/articles/posts/revisiting-leander-and-big-brother/</link>
-      <guid isPermaLink="true">https://berthub.eu/articles/posts/revisiting-leander-and-big-brother/</guid>
-      <pubDate>Tue, 10 Nov 2026 19:10:00 +0000</pubDate>
-      <description>Bert Hubert's writings</description>
     </item>
   </channel>
 </rss>
