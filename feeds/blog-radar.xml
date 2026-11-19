@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 18 Nov 2026 15:28:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 00:08:28 +0000</lastBuildDate>
+    <item>
+      <title>★ The 50-Yard Line</title>
+      <link>https://daringfireball.net/2026/11/the_50-yard_line</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/11/the_50-yard_line</guid>
+      <pubDate>Wed, 18 Nov 2026 20:42:23 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Quoting Daniel Stenberg</title>
+      <link>https://simonwillison.net/2026/Nov/18/daniel-stenberg/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/18/daniel-stenberg/</guid>
+      <pubDate>Wed, 18 Nov 2026 15:58:27 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Jensen Huang Tweets</title>
+      <link>https://x.com/JensenHuang/status/2122726005219737649</link>
+      <guid isPermaLink="true">https://x.com/JensenHuang/status/2122726005219737649</guid>
+      <pubDate>Wed, 18 Nov 2026 15:39:16 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
     <item>
       <title>The PSF end-of-year fundraiser</title>
       <link>https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/</link>
@@ -39,6 +60,13 @@
       <guid isPermaLink="true">https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/</guid>
       <pubDate>Wed, 18 Nov 2026 02:52:04 +0000</pubDate>
       <description>Krebs on Security</description>
+    </item>
+    <item>
+      <title>"No way to prevent this" say users of only language where this regularly happens</title>
+      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-123633/</link>
+      <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-123633/</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
     </item>
     <item>
       <title>Are vibe-coded games making me a substance dualist?</title>
@@ -783,13 +811,6 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>‘Dangerous or Unusual’</title>
-      <link>https://www.nytimes.com/interactive/2026/11/10/us/supreme-court-guns-misquote.html?unlocked_article_code=1.PlE.-Nhp.CaLpsgMqdWf3</link>
-      <guid isPermaLink="true">https://www.nytimes.com/interactive/2026/11/10/us/supreme-court-guns-misquote.html?unlocked_article_code=1.PlE.-Nhp.CaLpsgMqdWf3</guid>
-      <pubDate>Wed, 11 Nov 2026 18:29:17 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
       <title>Why Am I So Tired If AI Is Doing All the Work?</title>
       <link>https://terriblesoftware.org/2026/11/11/why-am-i-so-tired-if-ai-is-doing-all-the-work/</link>
       <guid isPermaLink="true">https://terriblesoftware.org/2026/11/11/why-am-i-so-tired-if-ai-is-doing-all-the-work/</guid>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261111-00/?p=112848/</guid>
       <pubDate>Wed, 11 Nov 2026 15:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Possible Futures</title>
-      <link>https://borretti.me/article/possible-futures</link>
-      <guid isPermaLink="true">https://borretti.me/article/possible-futures</guid>
-      <pubDate>Wed, 11 Nov 2026 13:00:00 +0000</pubDate>
-      <description>Fernando Borretti</description>
-    </item>
-    <item>
-      <title>HowTo: Fix Eufy HomeBase 2 Storage Full Issues</title>
-      <link>https://shkspr.mobi/blog/2026/11/howto-fix-eufy-homebase-2-storage-full-issues/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/11/howto-fix-eufy-homebase-2-storage-full-issues/</guid>
-      <pubDate>Wed, 11 Nov 2026 12:34:05 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>This Week in Source Control: 11 November 2026</title>
-      <link>https://nesbitt.io/2026/11/11/this-week-in-source-control.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/11/11/this-week-in-source-control.html</guid>
-      <pubDate>Wed, 11 Nov 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
     </item>
   </channel>
 </rss>
