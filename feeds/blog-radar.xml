@@ -4,13 +4,90 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 19 Nov 2026 00:08:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 15:34:31 +0000</lastBuildDate>
+    <item>
+      <title>Pluralistic: How to forfeit one of copyright's best labor policies (19 Nov 2026)</title>
+      <link>https://pluralistic.net/2026/11/19/loan-out-companies/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/11/19/loan-out-companies/</guid>
+      <pubDate>Thu, 19 Nov 2026 14:10:14 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Theatre Review: FORT – a new opera ★★★☆☆</title>
+      <link>https://shkspr.mobi/blog/2026/11/theatre-review-fort-a-new-opera/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/11/theatre-review-fort-a-new-opera/</guid>
+      <pubDate>Thu, 19 Nov 2026 12:34:32 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>SO Is Back! No, Not Stack Overflow, but Its Spirit</title>
+      <link>https://idiallo.com/byte-size/stackoverflow-is-back-in-spirit</link>
+      <guid isPermaLink="true">https://idiallo.com/byte-size/stackoverflow-is-back-in-spirit</guid>
+      <pubDate>Thu, 19 Nov 2026 07:27:09 +0000</pubDate>
+      <description>Software and Tech stories from an Insider - iDiallo.com</description>
+    </item>
+    <item>
+      <title>How to install an app on your Commodore 64</title>
+      <link>https://anildash.com/2026/10/08/install-an-app-commodore-64/</link>
+      <guid isPermaLink="true">https://anildash.com/2026/10/08/install-an-app-commodore-64/</guid>
+      <pubDate>Thu, 19 Nov 2026 03:52:10 +0000</pubDate>
+      <description>Anil Dash</description>
+    </item>
+    <item>
+      <title>NYC’s venture capitalists need to love themselves</title>
+      <link>https://anildash.com/2026/11/03/nyc-venture-capitalists-love-themselves/</link>
+      <guid isPermaLink="true">https://anildash.com/2026/11/03/nyc-venture-capitalists-love-themselves/</guid>
+      <pubDate>Thu, 19 Nov 2026 03:52:10 +0000</pubDate>
+      <description>Anil Dash</description>
+    </item>
+    <item>
+      <title>Supersequences and Superpermutations</title>
+      <link>https://www.johndcook.com/blog/2026/11/18/supersequences/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/11/18/supersequences/</guid>
+      <pubDate>Thu, 19 Nov 2026 00:10:21 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Inside PyPy: first contact with RPython</title>
+      <link>https://bernsteinbear.com/blog/inside-pypy-first-contact-with-rpython/?utm_source=rss</link>
+      <guid isPermaLink="true">https://bernsteinbear.com/blog/inside-pypy-first-contact-with-rpython/?utm_source=rss</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Max Bernstein's Blog</description>
+    </item>
+    <item>
+      <title>llm-gemini 0.38</title>
+      <link>https://simonwillison.net/2026/Nov/18/llm-gemini/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/18/llm-gemini/</guid>
+      <pubDate>Wed, 18 Nov 2026 23:59:20 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Unburden yourself of the backlog</title>
+      <link>https://entropicthoughts.com/unburden-yourself-of-the-backlog</link>
+      <guid isPermaLink="true">https://entropicthoughts.com/unburden-yourself-of-the-backlog</guid>
+      <pubDate>Wed, 18 Nov 2026 23:00:00 +0000</pubDate>
+      <description>Entropic Thoughts</description>
+    </item>
     <item>
       <title>★ The 50-Yard Line</title>
       <link>https://daringfireball.net/2026/11/the_50-yard_line</link>
       <guid isPermaLink="true">https://daringfireball.net/2026/11/the_50-yard_line</guid>
       <pubDate>Wed, 18 Nov 2026 20:42:23 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Email Dumpster Diving</title>
+      <link>https://blog.jim-nielsen.com/2026/email-dumpster-diving/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/email-dumpster-diving/</guid>
+      <pubDate>Wed, 18 Nov 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
+    </item>
+    <item>
+      <title>datasette-arrows 0.1a0</title>
+      <link>https://simonwillison.net/2026/Nov/18/datasette-arrows/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/18/datasette-arrows/</guid>
+      <pubDate>Wed, 18 Nov 2026 17:09:59 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
     <item>
       <title>Quoting Daniel Stenberg</title>
@@ -25,6 +102,13 @@
       <guid isPermaLink="true">https://x.com/JensenHuang/status/2122726005219737649</guid>
       <pubDate>Wed, 18 Nov 2026 15:39:16 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>If the Windows documentation doesn’t list a particular technology as supporting an operation, does that mean that it doesn’t support it?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20261118-00/?p=112870/</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261118-00/?p=112870/</guid>
+      <pubDate>Wed, 18 Nov 2026 15:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>The PSF end-of-year fundraiser</title>
@@ -125,18 +209,18 @@
       <description>Ed Zitron's Where's Your Ed At</description>
     </item>
     <item>
-      <title>I joined the NTP Pool, but not with my Stratum 1 Pi</title>
-      <link>https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/</guid>
-      <pubDate>Tue, 17 Nov 2026 15:00:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
       <title>In the Microsoft employee price list, why did the BASIC compiler cost less than the BASIC interpreter?</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20261117-00/?p=112866/</link>
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261117-00/?p=112866/</guid>
       <pubDate>Tue, 17 Nov 2026 15:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
+    </item>
+    <item>
+      <title>I joined the NTP Pool, but not with my Stratum 1 Pi</title>
+      <link>https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/</guid>
+      <pubDate>Tue, 17 Nov 2026 15:00:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
     </item>
     <item>
       <title>Pluralistic: Remembrance of proteins past (17 Nov 2026)</title>
@@ -727,20 +811,6 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>How to install an app on your Commodore 64</title>
-      <link>https://anildash.com/2026/10/08/install-an-app-commodore-64/</link>
-      <guid isPermaLink="true">https://anildash.com/2026/10/08/install-an-app-commodore-64/</guid>
-      <pubDate>Thu, 12 Nov 2026 04:24:15 +0000</pubDate>
-      <description>Anil Dash</description>
-    </item>
-    <item>
-      <title>NYC’s venture capitalists need to love themselves</title>
-      <link>https://anildash.com/2026/11/03/nyc-venture-capitalists-love-themselves/</link>
-      <guid isPermaLink="true">https://anildash.com/2026/11/03/nyc-venture-capitalists-love-themselves/</guid>
-      <pubDate>Thu, 12 Nov 2026 04:24:15 +0000</pubDate>
-      <description>Anil Dash</description>
-    </item>
-    <item>
       <title>Nvidia Working With Outside Firm to Identify CEO Candidates</title>
       <link>https://www.bloomberg.com/news/articles/2026-11-11/nvidia-working-with-outside-firm-to-identify-ceo-candidates</link>
       <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-11-11/nvidia-working-with-outside-firm-to-identify-ceo-candidates</guid>
@@ -774,76 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Nov/11/gemini-decisions-api/</guid>
       <pubDate>Wed, 11 Nov 2026 22:03:25 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>aws-emulator</title>
-      <link>https://simonwillison.net/2026/Nov/11/aws-emulator/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/11/aws-emulator/</guid>
-      <pubDate>Wed, 11 Nov 2026 21:18:30 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Apple Shutters Their Longstanding ‘Apple Support Community’</title>
-      <link>https://sixcolors.com/link/2026/11/ding-dong-the-apple-support-community-is-dead/</link>
-      <guid isPermaLink="true">https://sixcolors.com/link/2026/11/ding-dong-the-apple-support-community-is-dead/</guid>
-      <pubDate>Wed, 11 Nov 2026 19:17:32 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Austin Mann’s iPhone Duo Review</title>
-      <link>https://www.austinmann.com/trek/iphone-duo</link>
-      <guid isPermaLink="true">https://www.austinmann.com/trek/iphone-duo</guid>
-      <pubDate>Wed, 11 Nov 2026 19:02:58 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Browse tools.simonwillison.net by tag</title>
-      <link>https://simonwillison.net/2026/Nov/11/tools-tags/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/11/tools-tags/</guid>
-      <pubDate>Wed, 11 Nov 2026 18:42:50 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Quinn Nelson: ‘The iPhone Duo Doesn’t Feel Like an iPhone’</title>
-      <link>https://www.youtube.com/watch?v=cxjdVVVryC4</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=cxjdVVVryC4</guid>
-      <pubDate>Wed, 11 Nov 2026 18:36:34 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Why Am I So Tired If AI Is Doing All the Work?</title>
-      <link>https://terriblesoftware.org/2026/11/11/why-am-i-so-tired-if-ai-is-doing-all-the-work/</link>
-      <guid isPermaLink="true">https://terriblesoftware.org/2026/11/11/why-am-i-so-tired-if-ai-is-doing-all-the-work/</guid>
-      <pubDate>Wed, 11 Nov 2026 18:23:50 +0000</pubDate>
-      <description>Terrible Software</description>
-    </item>
-    <item>
-      <title>Who Runs the Ransomware Group Qilin?</title>
-      <link>https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/</link>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/</guid>
-      <pubDate>Wed, 11 Nov 2026 18:06:01 +0000</pubDate>
-      <description>Krebs on Security</description>
-    </item>
-    <item>
-      <title>llm 0.37.2</title>
-      <link>https://simonwillison.net/2026/Nov/11/llm/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/11/llm/</guid>
-      <pubDate>Wed, 11 Nov 2026 17:19:52 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Anthropic's IPO roadshow video</title>
-      <link>https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/</guid>
-      <pubDate>Wed, 11 Nov 2026 15:11:59 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>I didn’t write a program with emoji, but I did use a control character</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20261111-00/?p=112848/</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261111-00/?p=112848/</guid>
-      <pubDate>Wed, 11 Nov 2026 15:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
     </item>
   </channel>
 </rss>

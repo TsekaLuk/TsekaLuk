@@ -208,11 +208,11 @@ Last Updated: Thursday, November 19th, 2026, 11:03:13 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [★ The 50-Yard Line](https://daringfireball.net/2026/11/the_50-yard_line) — *Daring Fireball* `11-18`
-- [Quoting Daniel Stenberg](https://simonwillison.net/2026/Nov/18/daniel-stenberg/) — *Simon Willison's Weblog* `11-18`
-- [Jensen Huang Tweets](https://x.com/JensenHuang/status/2122726005219737649) — *Daring Fireball* `11-18`
-- [The PSF end-of-year fundraiser](https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/) — *Simon Willison's Weblog* `11-18`
-- [Once More Unto The Breach - Another Year In Review](https://shkspr.mobi/blog/2026/11/once-more-unto-the-breach-another-year-in-review/) — *Terence Eden’s Blog* `11-18`
+- [Pluralistic: How to forfeit one of copyright's best labor policies (19 Nov 2026)](https://pluralistic.net/2026/11/19/loan-out-companies/) — *Pluralistic: Daily links from Cory Doctorow* `11-19`
+- [Theatre Review: FORT – a new opera ★★★☆☆](https://shkspr.mobi/blog/2026/11/theatre-review-fort-a-new-opera/) — *Terence Eden’s Blog* `11-19`
+- [SO Is Back! No, Not Stack Overflow, but Its Spirit](https://idiallo.com/byte-size/stackoverflow-is-back-in-spirit) — *Software and Tech stories from an Insider - iDiallo.com* `11-19`
+- [How to install an app on your Commodore 64](https://anildash.com/2026/10/08/install-an-app-commodore-64/) — *Anil Dash* `11-19`
+- [NYC’s venture capitalists need to love themselves](https://anildash.com/2026/11/03/nyc-venture-capitalists-love-themselves/) — *Anil Dash* `11-19`
 <!--BLOG_RADAR:end-->
 
 ---
