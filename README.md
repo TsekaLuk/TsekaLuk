@@ -208,11 +208,11 @@ Last Updated: Saturday, November 21st, 2026, 7:34:23 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Connect a USB Zigbee Device to HAOS](https://shkspr.mobi/blog/2026/11/connect-a-usb-zigbee-device-to-haos/) — *Terence Eden’s Blog* `11-20`
-- [Pluralistic: Lisa Hanawalt's "I Can't Stop Thinking About Horses and Sex" (20 Nov 2026)](https://pluralistic.net/2026/11/20/intrusive-horse-thoughts/) — *Pluralistic: Daily links from Cory Doctorow* `11-20`
-- [Token fraud is here and it’s BAD (YouTube)](https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/) — *Simon Willison's Weblog* `11-20`
-- [Another company I've never heard of lost my Data](https://idiallo.com/byte-size/another-company-lost-my-data-and-free-credit-monitoring) — *Software and Tech stories from an Insider - iDiallo.com* `11-19`
-- [★ Jon McCormack Retires From Apple](https://daringfireball.net/2026/11/mccormack_retires_from_apple) — *Daring Fireball* `11-19`
+- [Why output caching doesn't work](https://seangoedecke.com/why-output-caching-doesnt-work/) — *seangoedecke.com RSS feed* `11-21`
+- [The Talk Show: ‘A Whoopsie Treason’](https://daringfireball.net/thetalkshow/2026/11/20/ep-457) — *Daring Fireball* `11-20`
+- [Quoting Ravi Vakil](https://simonwillison.net/2026/Nov/20/ravi-vakil/) — *Simon Willison's Weblog* `11-20`
+- [Diablo II](https://www.filfre.net/2026/11/diablo-ii/) — *The Digital Antiquarian* `11-20`
+- [Premium: Bursting Bubbles](https://www.wheresyoured.at/premium-bursting-bubbles/) — *Ed Zitron's Where's Your Ed At* `11-20`
 <!--BLOG_RADAR:end-->
 
 ---

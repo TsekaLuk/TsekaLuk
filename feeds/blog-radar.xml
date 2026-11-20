@@ -4,7 +4,56 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 20 Nov 2026 15:13:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 23:53:29 +0000</lastBuildDate>
+    <item>
+      <title>Why output caching doesn't work</title>
+      <link>https://seangoedecke.com/why-output-caching-doesnt-work/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/why-output-caching-doesnt-work/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>The Talk Show: ‘A Whoopsie Treason’</title>
+      <link>https://daringfireball.net/thetalkshow/2026/11/20/ep-457</link>
+      <guid isPermaLink="true">https://daringfireball.net/thetalkshow/2026/11/20/ep-457</guid>
+      <pubDate>Fri, 20 Nov 2026 23:28:51 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Quoting Ravi Vakil</title>
+      <link>https://simonwillison.net/2026/Nov/20/ravi-vakil/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/20/ravi-vakil/</guid>
+      <pubDate>Fri, 20 Nov 2026 19:21:49 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Diablo II</title>
+      <link>https://www.filfre.net/2026/11/diablo-ii/</link>
+      <guid isPermaLink="true">https://www.filfre.net/2026/11/diablo-ii/</guid>
+      <pubDate>Fri, 20 Nov 2026 17:03:57 +0000</pubDate>
+      <description>The Digital Antiquarian</description>
+    </item>
+    <item>
+      <title>Premium: Bursting Bubbles</title>
+      <link>https://www.wheresyoured.at/premium-bursting-bubbles/</link>
+      <guid isPermaLink="true">https://www.wheresyoured.at/premium-bursting-bubbles/</guid>
+      <pubDate>Fri, 20 Nov 2026 16:41:55 +0000</pubDate>
+      <description>Ed Zitron's Where's Your Ed At</description>
+    </item>
+    <item>
+      <title>Quoting Levent Alpöge</title>
+      <link>https://simonwillison.net/2026/Nov/20/levent-alpoge/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/20/levent-alpoge/</guid>
+      <pubDate>Fri, 20 Nov 2026 16:30:48 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Re: Riemann</title>
+      <link>https://borretti.me/article/re-riemann</link>
+      <guid isPermaLink="true">https://borretti.me/article/re-riemann</guid>
+      <pubDate>Fri, 20 Nov 2026 13:00:00 +0000</pubDate>
+      <description>Fernando Borretti</description>
+    </item>
     <item>
       <title>Connect a USB Zigbee Device to HAOS</title>
       <link>https://shkspr.mobi/blog/2026/11/connect-a-usb-zigbee-device-to-haos/</link>
@@ -81,6 +130,13 @@
       <guid isPermaLink="true">https://buttondown.com/hillelwayne/archive/my-least-favorite-example-in-software-engineering/</guid>
       <pubDate>Thu, 19 Nov 2026 15:40:32 +0000</pubDate>
       <description>Computer Things</description>
+    </item>
+    <item>
+      <title>Why do I get inconsistent results when I ask for the icon for the .. parent folder?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20261119-00/?p=112879/</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261119-00/?p=112879/</guid>
+      <pubDate>Thu, 19 Nov 2026 15:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Pluralistic: How to forfeit one of copyright's best labor policies (19 Nov 2026)</title>
@@ -788,62 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Nov/12/llm-gemini/</guid>
       <pubDate>Thu, 12 Nov 2026 22:55:19 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Jensen Huang Agrees to Testify Before Congress, But Not Publicly (Yet)</title>
-      <link>https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/</guid>
-      <pubDate>Thu, 12 Nov 2026 21:32:07 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Scott Colom Flips Mississippi</title>
-      <link>https://talkingpointsmemo.com/live-blog/new-congress-gets-underway-with-hegseth-impeachment-effort</link>
-      <guid isPermaLink="true">https://talkingpointsmemo.com/live-blog/new-congress-gets-underway-with-hegseth-impeachment-effort</guid>
-      <pubDate>Thu, 12 Nov 2026 21:20:29 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The Dream of Quibi Lives On</title>
-      <link>https://www.nbcuniversal.com/article/peacock-extends-its-vertical-video-leadership-reimagined-mobile-experience</link>
-      <guid isPermaLink="true">https://www.nbcuniversal.com/article/peacock-extends-its-vertical-video-leadership-reimagined-mobile-experience</guid>
-      <pubDate>Thu, 12 Nov 2026 20:54:43 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Pluralistic: Uber's labor crash (12 Nov 2026)</title>
-      <link>https://pluralistic.net/2026/11/12/starvation-wages/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/11/12/starvation-wages/</guid>
-      <pubDate>Thu, 12 Nov 2026 20:50:53 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>And Every New Boy That You Meet / He Doesn’t Know the Real Surprise</title>
-      <link>https://www.wsj.com/tech/ai/a-mystery-businessman-introduced-jensen-huang-to-his-paramourher-husband-1ec3b581?st=yBFeMY</link>
-      <guid isPermaLink="true">https://www.wsj.com/tech/ai/a-mystery-businessman-introduced-jensen-huang-to-his-paramourher-husband-1ec3b581?st=yBFeMY</guid>
-      <pubDate>Thu, 12 Nov 2026 20:41:35 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Reuters Raises the Jensen Huang Affair Tally to Three</title>
-      <link>https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/</link>
-      <guid isPermaLink="true">https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/</guid>
-      <pubDate>Thu, 12 Nov 2026 20:12:11 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Trump Weighs in on Huang’s Successor</title>
-      <link>https://truthsocial.com/@realDonaldTrump/posts/117604177898784579</link>
-      <guid isPermaLink="true">https://truthsocial.com/@realDonaldTrump/posts/117604177898784579</guid>
-      <pubDate>Thu, 12 Nov 2026 17:32:42 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>First Strike</title>
-      <link>https://geohot.github.io//blog/jekyll/update/2026/11/13/first-strike.html</link>
-      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/11/13/first-strike.html</guid>
-      <pubDate>Thu, 12 Nov 2026 16:00:00 +0000</pubDate>
-      <description>the singularity is nearer</description>
     </item>
   </channel>
 </rss>
