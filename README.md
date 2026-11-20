@@ -208,11 +208,11 @@ Last Updated: Friday, November 20th, 2026, 8:10:01 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Pluralistic: How to forfeit one of copyright's best labor policies (19 Nov 2026)](https://pluralistic.net/2026/11/19/loan-out-companies/) — *Pluralistic: Daily links from Cory Doctorow* `11-19`
-- [Theatre Review: FORT – a new opera ★★★☆☆](https://shkspr.mobi/blog/2026/11/theatre-review-fort-a-new-opera/) — *Terence Eden’s Blog* `11-19`
-- [SO Is Back! No, Not Stack Overflow, but Its Spirit](https://idiallo.com/byte-size/stackoverflow-is-back-in-spirit) — *Software and Tech stories from an Insider - iDiallo.com* `11-19`
-- [How to install an app on your Commodore 64](https://anildash.com/2026/10/08/install-an-app-commodore-64/) — *Anil Dash* `11-19`
-- [NYC’s venture capitalists need to love themselves](https://anildash.com/2026/11/03/nyc-venture-capitalists-love-themselves/) — *Anil Dash* `11-19`
+- [Another company I've never heard of lost my Data](https://idiallo.com/byte-size/another-company-lost-my-data-and-free-credit-monitoring) — *Software and Tech stories from an Insider - iDiallo.com* `11-19`
+- [★ Jon McCormack Retires From Apple](https://daringfireball.net/2026/11/mccormack_retires_from_apple) — *Daring Fireball* `11-19`
+- [Google’s Spark AI Agent Becomes ‘Tasks’](https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IksyWGFvWkdyWVIiLCJwIjoiL3RlY2gvMTAzNTc1Ni9nb29nbGUtc3BhcmstYWktdGFza3MtZnJlZSIsImV4cCI6MTc5NTU1MzQxMiwiaWF0IjoxNzk1MTIxNDEyfQ.GdsUKdRXeGBskw7-FDgCXEmIYhdLPPexImzdWhJqA-c&utm_medium=gift-link) — *Daring Fireball* `11-19`
+- [PostgreSQL 19 Released](https://simonwillison.net/2026/Nov/19/postgresql-19/) — *Simon Willison's Weblog* `11-19`
+- [Grand Theft Auto 6](https://www.theverge.com/games/1035801/grand-theft-auto-6-review?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjJ2dm1YT25YaEwiLCJwIjoiL2dhbWVzLzEwMzU4MDEvZ3JhbmQtdGhlZnQtYXV0by02LXJldmlldyIsImV4cCI6MTc5NTU1MTkzNiwiaWF0IjoxNzk1MTE5OTM2fQ.XQt8Qcs5vUE3Paa_aDtLGeZOo2ZDaOU7mB0dTBzXrrQ&utm_medium=gift-link) — *Daring Fireball* `11-19`
 <!--BLOG_RADAR:end-->
 
 ---
