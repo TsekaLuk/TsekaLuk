@@ -185,10 +185,11 @@ As **Founder & CEO**, I operate **Nebutra Intelligence** as an **AI-Native OPC (
 ### 🕒 **Recent Activity**
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 20th, 2026, 8:10:01 AM
+Last Updated: Friday, November 20th, 2026, 10:45:11 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
+- ⭐ Starred [openspug/spug](https://github.com/openspug/spug)<br>
 - ⭐ Starred [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)<br>
 - ⭐ Starred [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop)<br>
 - ⭐ Starred [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)<br>
@@ -198,7 +199,6 @@ Last Updated: Friday, November 20th, 2026, 8:10:01 AM
 - ⬆️ Pushed updates to [Nebutra/Nebutra-Sailor](https://github.com/Nebutra/Nebutra-Sailor)<br>
 - ⬆️ Pushed updates to [Nebutra/Nebutra-Sailor](https://github.com/Nebutra/Nebutra-Sailor)<br>
 - ⬆️ Pushed updates to [Nebutra/Nebutra-Sailor](https://github.com/Nebutra/Nebutra-Sailor)<br>
-- ⬆️ Pushed updates to [Nebutra/provider-factory](https://github.com/Nebutra/provider-factory)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ---
