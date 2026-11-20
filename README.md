@@ -208,11 +208,11 @@ Last Updated: Friday, November 20th, 2026, 10:45:11 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Connect a USB Zigbee Device to HAOS](https://shkspr.mobi/blog/2026/11/connect-a-usb-zigbee-device-to-haos/) — *Terence Eden’s Blog* `11-20`
+- [Pluralistic: Lisa Hanawalt's "I Can't Stop Thinking About Horses and Sex" (20 Nov 2026)](https://pluralistic.net/2026/11/20/intrusive-horse-thoughts/) — *Pluralistic: Daily links from Cory Doctorow* `11-20`
+- [Token fraud is here and it’s BAD (YouTube)](https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/) — *Simon Willison's Weblog* `11-20`
 - [Another company I've never heard of lost my Data](https://idiallo.com/byte-size/another-company-lost-my-data-and-free-credit-monitoring) — *Software and Tech stories from an Insider - iDiallo.com* `11-19`
 - [★ Jon McCormack Retires From Apple](https://daringfireball.net/2026/11/mccormack_retires_from_apple) — *Daring Fireball* `11-19`
-- [Google’s Spark AI Agent Becomes ‘Tasks’](https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IksyWGFvWkdyWVIiLCJwIjoiL3RlY2gvMTAzNTc1Ni9nb29nbGUtc3BhcmstYWktdGFza3MtZnJlZSIsImV4cCI6MTc5NTU1MzQxMiwiaWF0IjoxNzk1MTIxNDEyfQ.GdsUKdRXeGBskw7-FDgCXEmIYhdLPPexImzdWhJqA-c&utm_medium=gift-link) — *Daring Fireball* `11-19`
-- [PostgreSQL 19 Released](https://simonwillison.net/2026/Nov/19/postgresql-19/) — *Simon Willison's Weblog* `11-19`
-- [Grand Theft Auto 6](https://www.theverge.com/games/1035801/grand-theft-auto-6-review?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjJ2dm1YT25YaEwiLCJwIjoiL2dhbWVzLzEwMzU4MDEvZ3JhbmQtdGhlZnQtYXV0by02LXJldmlldyIsImV4cCI6MTc5NTU1MTkzNiwiaWF0IjoxNzk1MTE5OTM2fQ.XQt8Qcs5vUE3Paa_aDtLGeZOo2ZDaOU7mB0dTBzXrrQ&utm_medium=gift-link) — *Daring Fireball* `11-19`
 <!--BLOG_RADAR:end-->
 
 ---

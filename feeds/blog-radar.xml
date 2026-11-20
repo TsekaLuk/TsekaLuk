@@ -4,7 +4,28 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 20 Nov 2026 00:30:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 15:13:32 +0000</lastBuildDate>
+    <item>
+      <title>Connect a USB Zigbee Device to HAOS</title>
+      <link>https://shkspr.mobi/blog/2026/11/connect-a-usb-zigbee-device-to-haos/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/11/connect-a-usb-zigbee-device-to-haos/</guid>
+      <pubDate>Fri, 20 Nov 2026 12:34:19 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Pluralistic: Lisa Hanawalt's "I Can't Stop Thinking About Horses and Sex" (20 Nov 2026)</title>
+      <link>https://pluralistic.net/2026/11/20/intrusive-horse-thoughts/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/11/20/intrusive-horse-thoughts/</guid>
+      <pubDate>Fri, 20 Nov 2026 10:44:20 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Token fraud is here and it’s BAD (YouTube)</title>
+      <link>https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/</guid>
+      <pubDate>Fri, 20 Nov 2026 02:49:57 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Another company I've never heard of lost my Data</title>
       <link>https://idiallo.com/byte-size/another-company-lost-my-data-and-free-credit-monitoring</link>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/11/13/first-strike.html</guid>
       <pubDate>Thu, 12 Nov 2026 16:00:00 +0000</pubDate>
       <description>the singularity is nearer</description>
-    </item>
-    <item>
-      <title>Jensen Huang’s Advice to His Successor: ‘They’ll Just Have to Reshape the Company’</title>
-      <link>https://www.ycombinator.com/library/Tq-jensen-huang-the-mindset-that-built-nvidia</link>
-      <guid isPermaLink="true">https://www.ycombinator.com/library/Tq-jensen-huang-the-mindset-that-built-nvidia</guid>
-      <pubDate>Thu, 12 Nov 2026 15:55:12 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Jensen Huang Resigns From Nvidia</title>
-      <link>https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition</link>
-      <guid isPermaLink="true">https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition</guid>
-      <pubDate>Thu, 12 Nov 2026 15:19:07 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>How can I pass more than one parameter to co_await?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20261112-00/?p=112851/</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261112-00/?p=112851/</guid>
-      <pubDate>Thu, 12 Nov 2026 15:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
     </item>
   </channel>
 </rss>
