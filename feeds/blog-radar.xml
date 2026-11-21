@@ -4,7 +4,21 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 20 Nov 2026 23:53:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 06:43:21 +0000</lastBuildDate>
+    <item>
+      <title>What is the Generalized Riemann Hypothesis?</title>
+      <link>https://www.johndcook.com/blog/2026/11/20/grh/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/11/20/grh/</guid>
+      <pubDate>Sat, 21 Nov 2026 03:35:05 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>CTO of ‘RansomwareHelp’ Indicted for Wire Fraud</title>
+      <link>https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/</link>
+      <guid isPermaLink="true">https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:36:39 +0000</pubDate>
+      <description>Krebs on Security</description>
+    </item>
     <item>
       <title>Why output caching doesn't work</title>
       <link>https://seangoedecke.com/why-output-caching-doesnt-work/</link>
@@ -46,6 +60,13 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Nov/20/levent-alpoge/</guid>
       <pubDate>Fri, 20 Nov 2026 16:30:48 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Another failed attempt to get the icon for the icon for the .. parent folder</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20261120-00/?p=112883/</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261120-00/?p=112883/</guid>
+      <pubDate>Fri, 20 Nov 2026 15:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Re: Riemann</title>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://shkspr.mobi/blog/2026/11/gadget-review-thermal-master-p3-lite-p2-max-and-linux-instructions/</guid>
       <pubDate>Fri, 13 Nov 2026 12:34:48 +0000</pubDate>
       <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>Long permutations and long cycles</title>
-      <link>https://www.johndcook.com/blog/2026/11/13/long-cycles/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/11/13/long-cycles/</guid>
-      <pubDate>Fri, 13 Nov 2026 11:59:31 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>So you want to buy AI for your company</title>
-      <link>https://idiallo.com/byte-size/buying-ai-for-your-company</link>
-      <guid isPermaLink="true">https://idiallo.com/byte-size/buying-ai-for-your-company</guid>
-      <pubDate>Fri, 13 Nov 2026 00:34:41 +0000</pubDate>
-      <description>Software and Tech stories from an Insider - iDiallo.com</description>
-    </item>
-    <item>
-      <title>llm-gemini 0.37</title>
-      <link>https://simonwillison.net/2026/Nov/12/llm-gemini/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/12/llm-gemini/</guid>
-      <pubDate>Thu, 12 Nov 2026 22:55:19 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>

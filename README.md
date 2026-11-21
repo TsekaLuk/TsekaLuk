@@ -208,11 +208,11 @@ Last Updated: Saturday, November 21st, 2026, 1:13:03 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [What is the Generalized Riemann Hypothesis?](https://www.johndcook.com/blog/2026/11/20/grh/) — *John D. Cook* `11-21`
+- [CTO of ‘RansomwareHelp’ Indicted for Wire Fraud](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/) — *Krebs on Security* `11-21`
 - [Why output caching doesn't work](https://seangoedecke.com/why-output-caching-doesnt-work/) — *seangoedecke.com RSS feed* `11-21`
 - [The Talk Show: ‘A Whoopsie Treason’](https://daringfireball.net/thetalkshow/2026/11/20/ep-457) — *Daring Fireball* `11-20`
 - [Quoting Ravi Vakil](https://simonwillison.net/2026/Nov/20/ravi-vakil/) — *Simon Willison's Weblog* `11-20`
-- [Diablo II](https://www.filfre.net/2026/11/diablo-ii/) — *The Digital Antiquarian* `11-20`
-- [Premium: Bursting Bubbles](https://www.wheresyoured.at/premium-bursting-bubbles/) — *Ed Zitron's Where's Your Ed At* `11-20`
 <!--BLOG_RADAR:end-->
 
 ---
