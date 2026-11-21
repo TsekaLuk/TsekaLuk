@@ -4,7 +4,42 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sat, 21 Nov 2026 06:43:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 18:59:03 +0000</lastBuildDate>
+    <item>
+      <title>The U.S. — Utterly Predictably — Has Lost Measles Elimination Status Under Trump and RFK Jr.</title>
+      <link>https://www.wsj.com/health/measles-is-back-it-will-take-years-to-eliminate-it-again-9971736e?st=GKiu3E</link>
+      <guid isPermaLink="true">https://www.wsj.com/health/measles-is-back-it-will-take-years-to-eliminate-it-again-9971736e?st=GKiu3E</guid>
+      <pubDate>Sat, 21 Nov 2026 18:28:22 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Apple Documents Extra Apple Intelligence Usage Limits Per iCloud+ Paid Tier</title>
+      <link>https://support.apple.com/en-us/127901</link>
+      <guid isPermaLink="true">https://support.apple.com/en-us/127901</guid>
+      <pubDate>Sat, 21 Nov 2026 18:02:51 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Reading List 11/21/2026</title>
+      <link>https://www.construction-physics.com/p/reading-list-11212026</link>
+      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-11212026</guid>
+      <pubDate>Sat, 21 Nov 2026 13:04:03 +0000</pubDate>
+      <description>Construction Physics</description>
+    </item>
+    <item>
+      <title>Relicensing to CC BY-SA and making it visible in Schema metadata</title>
+      <link>https://shkspr.mobi/blog/2026/11/relicensing-to-cc-by-sa-and-making-it-visible-in-schema-metadata/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/11/relicensing-to-cc-by-sa-and-making-it-visible-in-schema-metadata/</guid>
+      <pubDate>Sat, 21 Nov 2026 12:34:40 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>This Week in Package Management: 21 November 2026</title>
+      <link>https://nesbitt.io/2026/11/21/this-week-in-package-management.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/11/21/this-week-in-package-management.html</guid>
+      <pubDate>Sat, 21 Nov 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
+    </item>
     <item>
       <title>What is the Generalized Riemann Hypothesis?</title>
       <link>https://www.johndcook.com/blog/2026/11/20/grh/</link>
@@ -809,41 +844,6 @@
       <guid isPermaLink="true">https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/</guid>
       <pubDate>Fri, 13 Nov 2026 15:40:52 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>NYT: ‘Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher Controls Grew’</title>
-      <link>https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html?unlocked_article_code=1.QFE.hj_X.iLppRX0Ec_Jj</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html?unlocked_article_code=1.QFE.hj_X.iLppRX0Ec_Jj</guid>
-      <pubDate>Fri, 13 Nov 2026 15:31:22 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>How can I make it easier to use the helper class that lets me pass more than one parameter to co_await?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20261113-00/?p=112856/</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261113-00/?p=112856/</guid>
-      <pubDate>Fri, 13 Nov 2026 15:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Kepler and the dwarf</title>
-      <link>https://www.johndcook.com/blog/2026/11/13/kepler-and-the-dwarf/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/11/13/kepler-and-the-dwarf/</guid>
-      <pubDate>Fri, 13 Nov 2026 14:54:38 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>So all software is free as in money now?</title>
-      <link>https://matduggan.com/so-all-software-is-free-as-in-money-now/</link>
-      <guid isPermaLink="true">https://matduggan.com/so-all-software-is-free-as-in-money-now/</guid>
-      <pubDate>Fri, 13 Nov 2026 14:16:16 +0000</pubDate>
-      <description>matduggan.com</description>
-    </item>
-    <item>
-      <title>Gadget Review: Thermal Master P3 Lite - and Linux Instructions ★★★★⯪</title>
-      <link>https://shkspr.mobi/blog/2026/11/gadget-review-thermal-master-p3-lite-p2-max-and-linux-instructions/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/11/gadget-review-thermal-master-p3-lite-p2-max-and-linux-instructions/</guid>
-      <pubDate>Fri, 13 Nov 2026 12:34:48 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
   </channel>
 </rss>

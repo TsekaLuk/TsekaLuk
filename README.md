@@ -208,11 +208,11 @@ Last Updated: Saturday, November 21st, 2026, 10:00:54 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [What is the Generalized Riemann Hypothesis?](https://www.johndcook.com/blog/2026/11/20/grh/) — *John D. Cook* `11-21`
-- [CTO of ‘RansomwareHelp’ Indicted for Wire Fraud](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/) — *Krebs on Security* `11-21`
-- [Why output caching doesn't work](https://seangoedecke.com/why-output-caching-doesnt-work/) — *seangoedecke.com RSS feed* `11-21`
-- [The Talk Show: ‘A Whoopsie Treason’](https://daringfireball.net/thetalkshow/2026/11/20/ep-457) — *Daring Fireball* `11-20`
-- [Quoting Ravi Vakil](https://simonwillison.net/2026/Nov/20/ravi-vakil/) — *Simon Willison's Weblog* `11-20`
+- [The U.S. — Utterly Predictably — Has Lost Measles Elimination Status Under Trump and RFK Jr.](https://www.wsj.com/health/measles-is-back-it-will-take-years-to-eliminate-it-again-9971736e?st=GKiu3E) — *Daring Fireball* `11-21`
+- [Apple Documents Extra Apple Intelligence Usage Limits Per iCloud+ Paid Tier](https://support.apple.com/en-us/127901) — *Daring Fireball* `11-21`
+- [Reading List 11/21/2026](https://www.construction-physics.com/p/reading-list-11212026) — *Construction Physics* `11-21`
+- [Relicensing to CC BY-SA and making it visible in Schema metadata](https://shkspr.mobi/blog/2026/11/relicensing-to-cc-by-sa-and-making-it-visible-in-schema-metadata/) — *Terence Eden’s Blog* `11-21`
+- [This Week in Package Management: 21 November 2026](https://nesbitt.io/2026/11/21/this-week-in-package-management.html) — *Andrew Nesbitt* `11-21`
 <!--BLOG_RADAR:end-->
 
 ---
