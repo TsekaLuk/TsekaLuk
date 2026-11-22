@@ -208,11 +208,11 @@ Last Updated: Sunday, November 22nd, 2026, 12:39:33 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [The U.S. — Utterly Predictably — Has Lost Measles Elimination Status Under Trump and RFK Jr.](https://www.wsj.com/health/measles-is-back-it-will-take-years-to-eliminate-it-again-9971736e?st=GKiu3E) — *Daring Fireball* `11-21`
-- [Apple Documents Extra Apple Intelligence Usage Limits Per iCloud+ Paid Tier](https://support.apple.com/en-us/127901) — *Daring Fireball* `11-21`
-- [Reading List 11/21/2026](https://www.construction-physics.com/p/reading-list-11212026) — *Construction Physics* `11-21`
-- [Relicensing to CC BY-SA and making it visible in Schema metadata](https://shkspr.mobi/blog/2026/11/relicensing-to-cc-by-sa-and-making-it-visible-in-schema-metadata/) — *Terence Eden’s Blog* `11-21`
-- [This Week in Package Management: 21 November 2026](https://nesbitt.io/2026/11/21/this-week-in-package-management.html) — *Andrew Nesbitt* `11-21`
+- [Weekly Update 531: Optimizely. Script Dependencies & Third Parties](https://www.troyhunt.com/weekly-update-531/) — *Troy Hunt* `11-22`
+- [To code well, avoid blunders](https://seangoedecke.com/to-code-well-avoid-blunders/) — *seangoedecke.com RSS feed* `11-22`
+- [Muru](https://simonwillison.net/2026/Nov/21/muru/) — *Simon Willison's Weblog* `11-21`
+- [Notes on the discrete Fourier transform (DFT)](https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/) — *Eli Bendersky's website* `11-21`
+- [★ A Week With the New Privacy Controls in MacOS 27.3 Beta 2](https://daringfireball.net/2026/11/a_week_with_the_new_privacy_controls_in_macos_273) — *Daring Fireball* `11-21`
 <!--BLOG_RADAR:end-->
 
 ---
