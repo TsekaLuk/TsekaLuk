@@ -4,7 +4,14 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 22 Nov 2026 06:13:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 19:21:55 +0000</lastBuildDate>
+    <item>
+      <title>I don't enjoy being pampered</title>
+      <link>https://shkspr.mobi/blog/2026/11/i-dont-enjoy-being-pampered/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/11/i-dont-enjoy-being-pampered/</guid>
+      <pubDate>Sun, 22 Nov 2026 12:34:51 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
     <item>
       <title>Weekly Update 531: Optimizely. Script Dependencies &amp; Third Parties</title>
       <link>https://www.troyhunt.com/weekly-update-531/</link>
@@ -104,6 +111,13 @@
       <description>Max Bernstein's Blog</description>
     </item>
     <item>
+      <title>unpublished blog posts</title>
+      <link>https://jyn.dev/unpublished-blog-posts/</link>
+      <guid isPermaLink="true">https://jyn.dev/unpublished-blog-posts/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+      <description>the website of jyn</description>
+    </item>
+    <item>
       <title>The Talk Show: ‘A Whoopsie Treason’</title>
       <link>https://daringfireball.net/thetalkshow/2026/11/20/ep-457</link>
       <guid isPermaLink="true">https://daringfireball.net/thetalkshow/2026/11/20/ep-457</guid>
@@ -144,13 +158,6 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261120-00/?p=112883/</guid>
       <pubDate>Fri, 20 Nov 2026 15:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Breaking: Anthropic stock is crashing, and AI stocks have lost over 50% in 5 months.</title>
-      <link>https://garymarcus.substack.com/p/breaking-anthropic-stock-is-crashing</link>
-      <guid isPermaLink="true">https://garymarcus.substack.com/p/breaking-anthropic-stock-is-crashing</guid>
-      <pubDate>Fri, 20 Nov 2026 14:20:06 +0000</pubDate>
-      <description>Marcus on AI</description>
     </item>
     <item>
       <title>Re: Riemann</title>
@@ -214,13 +221,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Nov/19/postgresql-19/</guid>
       <pubDate>Thu, 19 Nov 2026 20:43:57 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Breaking: It doesn’t look Anthropic’s IPO is going to save the tech industry</title>
-      <link>https://garymarcus.substack.com/p/breaking-it-doesnt-look-anthropics</link>
-      <guid isPermaLink="true">https://garymarcus.substack.com/p/breaking-it-doesnt-look-anthropics</guid>
-      <pubDate>Thu, 19 Nov 2026 20:36:26 +0000</pubDate>
-      <description>Marcus on AI</description>
     </item>
     <item>
       <title>Grand Theft Auto 6</title>
@@ -319,13 +319,6 @@
       <guid isPermaLink="true">https://entropicthoughts.com/unburden-yourself-of-the-backlog</guid>
       <pubDate>Wed, 18 Nov 2026 23:00:00 +0000</pubDate>
       <description>Entropic Thoughts</description>
-    </item>
-    <item>
-      <title>Is Anthropic’s IPO a bad bet, both for investors and society?</title>
-      <link>https://garymarcus.substack.com/p/is-anthropics-ipo-a-bad-bet-both</link>
-      <guid isPermaLink="true">https://garymarcus.substack.com/p/is-anthropics-ipo-a-bad-bet-both</guid>
-      <pubDate>Wed, 18 Nov 2026 21:45:04 +0000</pubDate>
-      <description>Marcus on AI</description>
     </item>
     <item>
       <title>★ The 50-Yard Line</title>
@@ -482,13 +475,6 @@
       <description>The Old New Thing</description>
     </item>
     <item>
-      <title>Wake up! America’s infrastructure is melting. And AI appears to be partly responsible.</title>
-      <link>https://garymarcus.substack.com/p/wake-up-americas-infrastructure-is</link>
-      <guid isPermaLink="true">https://garymarcus.substack.com/p/wake-up-americas-infrastructure-is</guid>
-      <pubDate>Tue, 17 Nov 2026 14:21:39 +0000</pubDate>
-      <description>Marcus on AI</description>
-    </item>
-    <item>
       <title>Pluralistic: Remembrance of proteins past (17 Nov 2026)</title>
       <link>https://pluralistic.net/2026/11/17/mississippi-gosh-darn/</link>
       <guid isPermaLink="true">https://pluralistic.net/2026/11/17/mississippi-gosh-darn/</guid>
@@ -580,13 +566,6 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Is there a case for impeaching Trump over Jensengate?</title>
-      <link>https://garymarcus.substack.com/p/is-there-a-case-for-impeaching-trump</link>
-      <guid isPermaLink="true">https://garymarcus.substack.com/p/is-there-a-case-for-impeaching-trump</guid>
-      <pubDate>Mon, 16 Nov 2026 19:34:40 +0000</pubDate>
-      <description>Marcus on AI</description>
-    </item>
-    <item>
       <title>‘Unlock With Front Camera’ — New Feature for iPhone Duo in iOS 27.3 Beta 2</title>
       <link>https://www.macrumors.com/2026/11/16/iphone-duo-face-unlock/</link>
       <guid isPermaLink="true">https://www.macrumors.com/2026/11/16/iphone-duo-face-unlock/</guid>
@@ -620,13 +599,6 @@
       <guid isPermaLink="true">https://micahflee.com/heres-how-anyone-can-easily-use-private-open-weight-models/</guid>
       <pubDate>Mon, 16 Nov 2026 16:35:27 +0000</pubDate>
       <description>Micah Lee</description>
-    </item>
-    <item>
-      <title>Game over, man?</title>
-      <link>https://garymarcus.substack.com/p/game-over-man</link>
-      <guid isPermaLink="true">https://garymarcus.substack.com/p/game-over-man</guid>
-      <pubDate>Mon, 16 Nov 2026 16:29:36 +0000</pubDate>
-      <description>Marcus on AI</description>
     </item>
     <item>
       <title>Oprah Gives Everyone in Her Audience a ‘Duo iPhone’</title>
@@ -844,6 +816,34 @@
       <guid isPermaLink="true">https://nesbitt.io/2026/11/14/this-week-in-package-management.html</guid>
       <pubDate>Sat, 14 Nov 2026 10:00:00 +0000</pubDate>
       <description>Andrew Nesbitt</description>
+    </item>
+    <item>
+      <title>Porting Rockbox to an undocumented $9 Aliexpress ‘YP3’ MP3 Player with LLMs</title>
+      <link>https://jayd.ml/2026/11/14/rockbox-on-yp3.html</link>
+      <guid isPermaLink="true">https://jayd.ml/2026/11/14/rockbox-on-yp3.html</guid>
+      <pubDate>Sat, 14 Nov 2026 08:55:00 +0000</pubDate>
+      <description>Jayden’s Blog</description>
+    </item>
+    <item>
+      <title>How to find meaning in large tech companies</title>
+      <link>https://seangoedecke.com/how-to-find-meaning-in-large-tech-companies/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/how-to-find-meaning-in-large-tech-companies/</guid>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Of Course People Hate Data Centres</title>
+      <link>https://hugotunius.se/2026/11/14/of-course-people-hate-data-centres.html</link>
+      <guid isPermaLink="true">https://hugotunius.se/2026/11/14/of-course-people-hate-data-centres.html</guid>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Hugo Tunius - Blog</description>
+    </item>
+    <item>
+      <title>datasette-cluster-map 0.19</title>
+      <link>https://simonwillison.net/2026/Nov/13/datasette-cluster-map/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/13/datasette-cluster-map/</guid>
+      <pubDate>Fri, 13 Nov 2026 23:02:45 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>

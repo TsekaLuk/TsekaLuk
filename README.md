@@ -208,11 +208,11 @@ Last Updated: Sunday, November 22nd, 2026, 9:54:59 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [I don't enjoy being pampered](https://shkspr.mobi/blog/2026/11/i-dont-enjoy-being-pampered/) — *Terence Eden’s Blog* `11-22`
 - [Weekly Update 531: Optimizely. Script Dependencies & Third Parties](https://www.troyhunt.com/weekly-update-531/) — *Troy Hunt* `11-22`
 - [To code well, avoid blunders](https://seangoedecke.com/to-code-well-avoid-blunders/) — *seangoedecke.com RSS feed* `11-22`
 - [Muru](https://simonwillison.net/2026/Nov/21/muru/) — *Simon Willison's Weblog* `11-21`
 - [Notes on the discrete Fourier transform (DFT)](https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/) — *Eli Bendersky's website* `11-21`
-- [★ A Week With the New Privacy Controls in MacOS 27.3 Beta 2](https://daringfireball.net/2026/11/a_week_with_the_new_privacy_controls_in_macos_273) — *Daring Fireball* `11-21`
 <!--BLOG_RADAR:end-->
 
 ---
