@@ -208,11 +208,11 @@ Last Updated: Tuesday, November 24th, 2026, 1:07:01 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Zenith Data Systems, Part II](https://www.abortretry.fail/p/zenith-data-systems-part-ii) — *Abort Retry Fail* `11-23`
-- [When in doubt, flail about](https://seangoedecke.com/when-in-doubt-flail-about/) — *seangoedecke.com RSS feed* `11-23`
-- [Ivy](https://semantical.com/?utm_campaign=df-2026-12) — *Daring Fireball* `11-22`
-- [Select Styling Specimens](https://simonwillison.net/2026/Nov/22/select-styling/) — *Simon Willison's Weblog* `11-22`
-- [slopcore](https://geohot.github.io//blog/jekyll/update/2026/11/23/slopcore.html) — *the singularity is nearer* `11-22`
+- [Ladybird's first alpha release](https://simonwillison.net/2026/Nov/23/ladybird/) — *Simon Willison's Weblog* `11-23`
+- [Two generators suffice](https://www.johndcook.com/blog/2026/11/23/two-generators-suffice/) — *John D. Cook* `11-23`
+- [Donald Trump on Jensen Huang’s Reinstatement at Nvidia](https://truthsocial.com/@realDonaldTrump/posts/117666713950631493) — *Daring Fireball* `11-23`
+- [Semafor: ‘Hours Before Huang’s Reinstatement, Trump Called Nvidia’s Board to Argue for His Return’](https://www.semafor.com/article/11/23/2026/jensen-huang-reinstated-as-nvidia-ceo) — *Daring Fireball* `11-23`
+- [Government Regulation and Demand](https://stratechery.com/2026/obituaries/) — *Daring Fireball* `11-23`
 <!--BLOG_RADAR:end-->
 
 ---

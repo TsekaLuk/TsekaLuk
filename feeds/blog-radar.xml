@@ -4,7 +4,84 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 23 Nov 2026 07:04:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 23:42:09 +0000</lastBuildDate>
+    <item>
+      <title>Ladybird's first alpha release</title>
+      <link>https://simonwillison.net/2026/Nov/23/ladybird/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/23/ladybird/</guid>
+      <pubDate>Mon, 23 Nov 2026 21:46:35 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Two generators suffice</title>
+      <link>https://www.johndcook.com/blog/2026/11/23/two-generators-suffice/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/11/23/two-generators-suffice/</guid>
+      <pubDate>Mon, 23 Nov 2026 17:28:34 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Donald Trump on Jensen Huang’s Reinstatement at Nvidia</title>
+      <link>https://truthsocial.com/@realDonaldTrump/posts/117666713950631493</link>
+      <guid isPermaLink="true">https://truthsocial.com/@realDonaldTrump/posts/117666713950631493</guid>
+      <pubDate>Mon, 23 Nov 2026 17:22:03 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Semafor: ‘Hours Before Huang’s Reinstatement, Trump Called Nvidia’s Board to Argue for His Return’</title>
+      <link>https://www.semafor.com/article/11/23/2026/jensen-huang-reinstated-as-nvidia-ceo</link>
+      <guid isPermaLink="true">https://www.semafor.com/article/11/23/2026/jensen-huang-reinstated-as-nvidia-ceo</guid>
+      <pubDate>Mon, 23 Nov 2026 16:00:29 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Government Regulation and Demand</title>
+      <link>https://stratechery.com/2026/obituaries/</link>
+      <guid isPermaLink="true">https://stratechery.com/2026/obituaries/</guid>
+      <pubDate>Mon, 23 Nov 2026 15:31:50 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Elon Musk Claims to Be Unfamiliar With MAGA</title>
+      <link>https://www.usatoday.com/story/opinion/columnist/2026/11/19/musk-maga-trump-republicans-billionaires/92855121007/</link>
+      <guid isPermaLink="true">https://www.usatoday.com/story/opinion/columnist/2026/11/19/musk-maga-trump-republicans-billionaires/92855121007/</guid>
+      <pubDate>Mon, 23 Nov 2026 15:16:35 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Nvidia Board Reinstates Jensen Huang</title>
+      <link>https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director</link>
+      <guid isPermaLink="true">https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director</guid>
+      <pubDate>Mon, 23 Nov 2026 14:43:27 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Pluralistic: The Debt Trap (23 Nov 2026)</title>
+      <link>https://pluralistic.net/2026/11/23/grasshoppers-v-ants/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/11/23/grasshoppers-v-ants/</guid>
+      <pubDate>Mon, 23 Nov 2026 13:18:44 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Gadget Review: Cheap Zigbee Environmental Sensors ★★★☆☆</title>
+      <link>https://shkspr.mobi/blog/2026/11/gadget-review-cheap-zigbee-environmental-sensors/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/11/gadget-review-cheap-zigbee-environmental-sensors/</guid>
+      <pubDate>Mon, 23 Nov 2026 12:34:29 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Gravity on an oblate planet</title>
+      <link>https://www.johndcook.com/blog/2026/11/23/oblate-spheroid-gravity/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/11/23/oblate-spheroid-gravity/</guid>
+      <pubDate>Mon, 23 Nov 2026 10:17:22 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Here's Why Data Breach Disclosure is so Hard: Lessons from Hundreds of Emails with Hacked Companies</title>
+      <link>https://www.troyhunt.com/heres-why-data-breach-disclosure-is-so-hard-lessons-from-hundreds-of-emails-with-hacked-companies/</link>
+      <guid isPermaLink="true">https://www.troyhunt.com/heres-why-data-breach-disclosure-is-so-hard-lessons-from-hundreds-of-emails-with-hacked-companies/</guid>
+      <pubDate>Mon, 23 Nov 2026 07:58:47 +0000</pubDate>
+      <description>Troy Hunt</description>
+    </item>
     <item>
       <title>Zenith Data Systems, Part II</title>
       <link>https://www.abortretry.fail/p/zenith-data-systems-part-ii</link>
@@ -13,11 +90,39 @@
       <description>Abort Retry Fail</description>
     </item>
     <item>
+      <title>datasette-charts 0.1a0</title>
+      <link>https://simonwillison.net/2026/Nov/23/datasette-charts/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/23/datasette-charts/</guid>
+      <pubDate>Mon, 23 Nov 2026 00:37:20 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
       <title>When in doubt, flail about</title>
       <link>https://seangoedecke.com/when-in-doubt-flail-about/</link>
       <guid isPermaLink="true">https://seangoedecke.com/when-in-doubt-flail-about/</guid>
       <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Notes on OpenAI's perplexity reveal</title>
+      <link>https://seangoedecke.com/notes-on-openais-perplexity-reveal/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/notes-on-openais-perplexity-reveal/</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Nerd Quiz #5</title>
+      <link>https://susam.net/code/news/nq/5.0.0.html</link>
+      <guid isPermaLink="true">https://susam.net/code/news/nq/5.0.0.html</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Susam Pal</description>
+    </item>
+    <item>
+      <title>Two graphs</title>
+      <link>https://martinalderson.com/posts/two-graphs/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
+      <guid isPermaLink="true">https://martinalderson.com/posts/two-graphs/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Martin Alderson</description>
     </item>
     <item>
       <title>Ivy</title>
@@ -608,13 +713,6 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>Ben Thompson on Nvidia</title>
-      <link>https://stratechery.com/2026/obituaries/</link>
-      <guid isPermaLink="true">https://stratechery.com/2026/obituaries/</guid>
-      <pubDate>Mon, 16 Nov 2026 18:44:02 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
       <title>Paul Christiano – We could be 12 months away from AIs that can overthrow the government</title>
       <link>https://www.dwarkesh.com/p/paul-christiano-2</link>
       <guid isPermaLink="true">https://www.dwarkesh.com/p/paul-christiano-2</guid>
@@ -745,104 +843,6 @@
       <link>https://shkspr.mobi/blog/2026/11/variable-electricity-pricing-the-highs-and-the-lows/</link>
       <guid isPermaLink="true">https://shkspr.mobi/blog/2026/11/variable-electricity-pricing-the-highs-and-the-lows/</guid>
       <pubDate>Sun, 15 Nov 2026 12:34:58 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>datasette-apps 0.4a0</title>
-      <link>https://simonwillison.net/2026/Nov/15/datasette-apps/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/15/datasette-apps/</guid>
-      <pubDate>Sun, 15 Nov 2026 04:02:45 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>datasette-agent 0.6a0</title>
-      <link>https://simonwillison.net/2026/Nov/15/datasette-agent/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/15/datasette-agent/</guid>
-      <pubDate>Sun, 15 Nov 2026 03:49:47 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>datasette-llm 0.1a11</title>
-      <link>https://simonwillison.net/2026/Nov/14/datasette-llm/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/14/datasette-llm/</guid>
-      <pubDate>Sat, 14 Nov 2026 23:59:28 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Joanna Stern Reviews the HomeView</title>
-      <link>https://www.youtube.com/watch?v=yVTcVtLn2o4</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=yVTcVtLn2o4</guid>
-      <pubDate>Sat, 14 Nov 2026 17:50:00 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Jason Snell’s HomeView Review</title>
-      <link>https://sixcolors.com/post/2026/11/homeview-review-a-late-arrival-with-promise-but-still-showing-some-seams/</link>
-      <guid isPermaLink="true">https://sixcolors.com/post/2026/11/homeview-review-a-late-arrival-with-promise-but-still-showing-some-seams/</guid>
-      <pubDate>Sat, 14 Nov 2026 17:45:00 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Patrick McGee on Johny Srouji and Nvidia</title>
-      <link>https://x.com/patrickmcgee_/status/2120799867140550999</link>
-      <guid isPermaLink="true">https://x.com/patrickmcgee_/status/2120799867140550999</guid>
-      <pubDate>Sat, 14 Nov 2026 17:40:39 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>datasette-vega 0.7</title>
-      <link>https://simonwillison.net/2026/Nov/14/datasette-vega/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/14/datasette-vega/</guid>
-      <pubDate>Sat, 14 Nov 2026 17:09:09 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Ops needs friction</title>
-      <link>https://www.jeffgeerling.com/blog/2026/ops-needs-friction/</link>
-      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/ops-needs-friction/</guid>
-      <pubDate>Sat, 14 Nov 2026 16:30:00 +0000</pubDate>
-      <description>Jeff Geerling</description>
-    </item>
-    <item>
-      <title>Reading List 11/14/2026</title>
-      <link>https://www.construction-physics.com/p/reading-list-11142026</link>
-      <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-11142026</guid>
-      <pubDate>Sat, 14 Nov 2026 16:09:38 +0000</pubDate>
-      <description>Construction Physics</description>
-    </item>
-    <item>
-      <title>Microsoft Says Cloud Outage Was ‘Not Related to Cyber or AI / Agents’</title>
-      <link>https://x.com/microsoft/status/2121282013600907325</link>
-      <guid isPermaLink="true">https://x.com/microsoft/status/2121282013600907325</guid>
-      <pubDate>Sat, 14 Nov 2026 16:00:00 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>The longest polynomial level set</title>
-      <link>https://www.johndcook.com/blog/2026/11/14/erdos-lemniscate/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/11/14/erdos-lemniscate/</guid>
-      <pubDate>Sat, 14 Nov 2026 15:54:10 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Peeking inside the bash rabbit hole</title>
-      <link>https://www.johndcook.com/blog/2026/11/14/bash-rabbit-hole/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/11/14/bash-rabbit-hole/</guid>
-      <pubDate>Sat, 14 Nov 2026 13:09:57 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Taking AI Seriously</title>
-      <link>https://borretti.me/article/taking-ai-seriously</link>
-      <guid isPermaLink="true">https://borretti.me/article/taking-ai-seriously</guid>
-      <pubDate>Sat, 14 Nov 2026 13:00:00 +0000</pubDate>
-      <description>Fernando Borretti</description>
-    </item>
-    <item>
-      <title>Theatre Review: FrankenTacit ★★☆☆☆</title>
-      <link>https://shkspr.mobi/blog/2026/11/theatre-review-frankentacit/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/11/theatre-review-frankentacit/</guid>
-      <pubDate>Sat, 14 Nov 2026 12:34:35 +0000</pubDate>
       <description>Terence Eden’s Blog</description>
     </item>
   </channel>
