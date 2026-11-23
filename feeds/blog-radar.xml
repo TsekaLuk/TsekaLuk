@@ -4,7 +4,42 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Sun, 22 Nov 2026 19:21:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 07:04:00 +0000</lastBuildDate>
+    <item>
+      <title>Zenith Data Systems, Part II</title>
+      <link>https://www.abortretry.fail/p/zenith-data-systems-part-ii</link>
+      <guid isPermaLink="true">https://www.abortretry.fail/p/zenith-data-systems-part-ii</guid>
+      <pubDate>Mon, 23 Nov 2026 02:25:14 +0000</pubDate>
+      <description>Abort Retry Fail</description>
+    </item>
+    <item>
+      <title>When in doubt, flail about</title>
+      <link>https://seangoedecke.com/when-in-doubt-flail-about/</link>
+      <guid isPermaLink="true">https://seangoedecke.com/when-in-doubt-flail-about/</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>Ivy</title>
+      <link>https://semantical.com/?utm_campaign=df-2026-12</link>
+      <guid isPermaLink="true">https://semantical.com/?utm_campaign=df-2026-12</guid>
+      <pubDate>Sun, 22 Nov 2026 23:04:30 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Select Styling Specimens</title>
+      <link>https://simonwillison.net/2026/Nov/22/select-styling/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/22/select-styling/</guid>
+      <pubDate>Sun, 22 Nov 2026 19:45:06 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>slopcore</title>
+      <link>https://geohot.github.io//blog/jekyll/update/2026/11/23/slopcore.html</link>
+      <guid isPermaLink="true">https://geohot.github.io//blog/jekyll/update/2026/11/23/slopcore.html</guid>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 +0000</pubDate>
+      <description>the singularity is nearer</description>
+    </item>
     <item>
       <title>I don't enjoy being pampered</title>
       <link>https://shkspr.mobi/blog/2026/11/i-dont-enjoy-being-pampered/</link>
@@ -25,6 +60,13 @@
       <guid isPermaLink="true">https://seangoedecke.com/to-code-well-avoid-blunders/</guid>
       <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
       <description>seangoedecke.com RSS feed</description>
+    </item>
+    <item>
+      <title>mass destruction of weapons</title>
+      <link>https://computer.rip/2026-11-22-mass-destruction-of-weapons.html</link>
+      <guid isPermaLink="true">https://computer.rip/2026-11-22-mass-destruction-of-weapons.html</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <description>computers are bad</description>
     </item>
     <item>
       <title>Muru</title>
@@ -531,13 +573,6 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>[Sponsor] Ivy: The To-do List That Ends</title>
-      <link>https://semantical.com/?utm_campaign=df-2026-12</link>
-      <guid isPermaLink="true">https://semantical.com/?utm_campaign=df-2026-12</guid>
-      <pubDate>Mon, 16 Nov 2026 23:18:35 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
       <title>Developers Continue to Optimize iPhone Apps for the Duo</title>
       <link>https://x.com/gregjoz/status/2122393925080252469</link>
       <guid isPermaLink="true">https://x.com/gregjoz/status/2122393925080252469</guid>
@@ -809,41 +844,6 @@
       <guid isPermaLink="true">https://shkspr.mobi/blog/2026/11/theatre-review-frankentacit/</guid>
       <pubDate>Sat, 14 Nov 2026 12:34:35 +0000</pubDate>
       <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>This Week in Package Management: 14 November 2026</title>
-      <link>https://nesbitt.io/2026/11/14/this-week-in-package-management.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/11/14/this-week-in-package-management.html</guid>
-      <pubDate>Sat, 14 Nov 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Porting Rockbox to an undocumented $9 Aliexpress ‘YP3’ MP3 Player with LLMs</title>
-      <link>https://jayd.ml/2026/11/14/rockbox-on-yp3.html</link>
-      <guid isPermaLink="true">https://jayd.ml/2026/11/14/rockbox-on-yp3.html</guid>
-      <pubDate>Sat, 14 Nov 2026 08:55:00 +0000</pubDate>
-      <description>Jayden’s Blog</description>
-    </item>
-    <item>
-      <title>How to find meaning in large tech companies</title>
-      <link>https://seangoedecke.com/how-to-find-meaning-in-large-tech-companies/</link>
-      <guid isPermaLink="true">https://seangoedecke.com/how-to-find-meaning-in-large-tech-companies/</guid>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-      <description>seangoedecke.com RSS feed</description>
-    </item>
-    <item>
-      <title>Of Course People Hate Data Centres</title>
-      <link>https://hugotunius.se/2026/11/14/of-course-people-hate-data-centres.html</link>
-      <guid isPermaLink="true">https://hugotunius.se/2026/11/14/of-course-people-hate-data-centres.html</guid>
-      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Hugo Tunius - Blog</description>
-    </item>
-    <item>
-      <title>datasette-cluster-map 0.19</title>
-      <link>https://simonwillison.net/2026/Nov/13/datasette-cluster-map/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/13/datasette-cluster-map/</guid>
-      <pubDate>Fri, 13 Nov 2026 23:02:45 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>

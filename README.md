@@ -208,11 +208,11 @@ Last Updated: Monday, November 23rd, 2026, 1:16:26 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [I don't enjoy being pampered](https://shkspr.mobi/blog/2026/11/i-dont-enjoy-being-pampered/) — *Terence Eden’s Blog* `11-22`
-- [Weekly Update 531: Optimizely. Script Dependencies & Third Parties](https://www.troyhunt.com/weekly-update-531/) — *Troy Hunt* `11-22`
-- [To code well, avoid blunders](https://seangoedecke.com/to-code-well-avoid-blunders/) — *seangoedecke.com RSS feed* `11-22`
-- [Muru](https://simonwillison.net/2026/Nov/21/muru/) — *Simon Willison's Weblog* `11-21`
-- [Notes on the discrete Fourier transform (DFT)](https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/) — *Eli Bendersky's website* `11-21`
+- [Zenith Data Systems, Part II](https://www.abortretry.fail/p/zenith-data-systems-part-ii) — *Abort Retry Fail* `11-23`
+- [When in doubt, flail about](https://seangoedecke.com/when-in-doubt-flail-about/) — *seangoedecke.com RSS feed* `11-23`
+- [Ivy](https://semantical.com/?utm_campaign=df-2026-12) — *Daring Fireball* `11-22`
+- [Select Styling Specimens](https://simonwillison.net/2026/Nov/22/select-styling/) — *Simon Willison's Weblog* `11-22`
+- [slopcore](https://geohot.github.io//blog/jekyll/update/2026/11/23/slopcore.html) — *the singularity is nearer* `11-22`
 <!--BLOG_RADAR:end-->
 
 ---
