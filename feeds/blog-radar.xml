@@ -4,13 +4,69 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Mon, 23 Nov 2026 23:42:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 09:29:35 +0000</lastBuildDate>
+    <item>
+      <title>Comments and emails</title>
+      <link>https://herman.bearblog.dev/comments-and-emails/</link>
+      <guid isPermaLink="true">https://herman.bearblog.dev/comments-and-emails/</guid>
+      <pubDate>Tue, 24 Nov 2026 07:16:00 +0000</pubDate>
+      <description>Herman's blog</description>
+    </item>
+    <item>
+      <title>datasette-charts 0.2a0</title>
+      <link>https://simonwillison.net/2026/Nov/24/datasette-charts/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/24/datasette-charts/</guid>
+      <pubDate>Tue, 24 Nov 2026 04:24:29 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>datasette-agent 0.7a1</title>
+      <link>https://simonwillison.net/2026/Nov/24/datasette-agent/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/24/datasette-agent/</guid>
+      <pubDate>Tue, 24 Nov 2026 03:45:57 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>[Sponsor] Finalist Daily Planner Meets iPhone Duo</title>
+      <link>https://www.finalist.works/iphone-duo-planner/?utm_source=df-nov-2026</link>
+      <guid isPermaLink="true">https://www.finalist.works/iphone-duo-planner/?utm_source=df-nov-2026</guid>
+      <pubDate>Tue, 24 Nov 2026 00:03:56 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Jensen Huang Returns to Work</title>
+      <link>https://www.businessinsider.com/jensen-huang-returns-to-nvidia-hq-im-terribly-sorry-2026-11</link>
+      <guid isPermaLink="true">https://www.businessinsider.com/jensen-huang-returns-to-nvidia-hq-im-terribly-sorry-2026-11</guid>
+      <pubDate>Mon, 23 Nov 2026 23:53:25 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Finite Projective Spaces</title>
+      <link>https://www.johndcook.com/blog/2026/11/23/finite-projective-spaces/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/11/23/finite-projective-spaces/</guid>
+      <pubDate>Mon, 23 Nov 2026 23:49:05 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>GLM-5.4: Toward Generalized Coding with Our First Loop Transformer</title>
+      <link>https://simonwillison.net/2026/Nov/23/glm-54/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/23/glm-54/</guid>
+      <pubDate>Mon, 23 Nov 2026 23:40:49 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
     <item>
       <title>Ladybird's first alpha release</title>
       <link>https://simonwillison.net/2026/Nov/23/ladybird/</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Nov/23/ladybird/</guid>
       <pubDate>Mon, 23 Nov 2026 21:46:35 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Am I A Design Engineer?</title>
+      <link>https://blog.jim-nielsen.com/2026/am-i-a-design-engineer/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/am-i-a-design-engineer/</guid>
+      <pubDate>Mon, 23 Nov 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
     </item>
     <item>
       <title>Two generators suffice</title>
@@ -53,13 +109,6 @@
       <guid isPermaLink="true">https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director</guid>
       <pubDate>Mon, 23 Nov 2026 14:43:27 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Pluralistic: The Debt Trap (23 Nov 2026)</title>
-      <link>https://pluralistic.net/2026/11/23/grasshoppers-v-ants/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/11/23/grasshoppers-v-ants/</guid>
-      <pubDate>Mon, 23 Nov 2026 13:18:44 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
     </item>
     <item>
       <title>Gadget Review: Cheap Zigbee Environmental Sensors ★★★☆☆</title>
@@ -321,13 +370,6 @@
       <description>Terence Eden’s Blog</description>
     </item>
     <item>
-      <title>Pluralistic: Lisa Hanawalt's "I Can't Stop Thinking About Horses and Sex" (20 Nov 2026)</title>
-      <link>https://pluralistic.net/2026/11/20/intrusive-horse-thoughts/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/11/20/intrusive-horse-thoughts/</guid>
-      <pubDate>Fri, 20 Nov 2026 10:44:20 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
       <title>llm-gemini 0.38.1</title>
       <link>https://simonwillison.net/2026/Nov/20/llm-gemini/</link>
       <guid isPermaLink="true">https://simonwillison.net/2026/Nov/20/llm-gemini/</guid>
@@ -403,13 +445,6 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261119-00/?p=112879/</guid>
       <pubDate>Thu, 19 Nov 2026 15:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Pluralistic: How to forfeit one of copyright's best labor policies (19 Nov 2026)</title>
-      <link>https://pluralistic.net/2026/11/19/loan-out-companies/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/11/19/loan-out-companies/</guid>
-      <pubDate>Thu, 19 Nov 2026 14:10:14 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
     </item>
     <item>
       <title>Theatre Review: FORT – a new opera ★★★☆☆</title>
@@ -531,13 +566,6 @@
       <description>Andrew Nesbitt</description>
     </item>
     <item>
-      <title>Pluralistic: Enshittifiers groom us for scammers (18 Nov 2026)</title>
-      <link>https://pluralistic.net/2026/11/18/malice-v-incompetence/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/11/18/malice-v-incompetence/</guid>
-      <pubDate>Wed, 18 Nov 2026 08:28:46 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
       <title>Attackers Used Optimizely to A/B Test Malware on Top Websites</title>
       <link>https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/</link>
       <guid isPermaLink="true">https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/</guid>
@@ -620,13 +648,6 @@
       <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261117-00/?p=112866/</guid>
       <pubDate>Tue, 17 Nov 2026 15:00:00 +0000</pubDate>
       <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Pluralistic: Remembrance of proteins past (17 Nov 2026)</title>
-      <link>https://pluralistic.net/2026/11/17/mississippi-gosh-darn/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/11/17/mississippi-gosh-darn/</guid>
-      <pubDate>Tue, 17 Nov 2026 13:01:56 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
     </item>
     <item>
       <title>HomeAssistant - shrink a HAOS qcow2 filesystem</title>
@@ -823,27 +844,6 @@
       <guid isPermaLink="true">https://www.whitehouse.gov/ostp/presidents-council-of-advisors-on-science-and-technology/</guid>
       <pubDate>Sun, 15 Nov 2026 17:14:42 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>WorkOS: Let Agents Use Your Tools Without Giving Them Free Rein</title>
-      <link>https://www.workos.com/airlock?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q42026</link>
-      <guid isPermaLink="true">https://www.workos.com/airlock?utm_source=daringfireball&amp;utm_medium=newsletter&amp;utm_campaign=q42026</guid>
-      <pubDate>Sun, 15 Nov 2026 15:52:01 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>ASI as a Black Box</title>
-      <link>https://borretti.me/article/asi-as-a-black-box</link>
-      <guid isPermaLink="true">https://borretti.me/article/asi-as-a-black-box</guid>
-      <pubDate>Sun, 15 Nov 2026 13:00:00 +0000</pubDate>
-      <description>Fernando Borretti</description>
-    </item>
-    <item>
-      <title>Variable Electricity Pricing - the Highs and the Lows</title>
-      <link>https://shkspr.mobi/blog/2026/11/variable-electricity-pricing-the-highs-and-the-lows/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/11/variable-electricity-pricing-the-highs-and-the-lows/</guid>
-      <pubDate>Sun, 15 Nov 2026 12:34:58 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
     </item>
   </channel>
 </rss>

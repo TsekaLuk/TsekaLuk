@@ -208,11 +208,11 @@ Last Updated: Tuesday, November 24th, 2026, 11:42:23 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Ladybird's first alpha release](https://simonwillison.net/2026/Nov/23/ladybird/) — *Simon Willison's Weblog* `11-23`
-- [Two generators suffice](https://www.johndcook.com/blog/2026/11/23/two-generators-suffice/) — *John D. Cook* `11-23`
-- [Donald Trump on Jensen Huang’s Reinstatement at Nvidia](https://truthsocial.com/@realDonaldTrump/posts/117666713950631493) — *Daring Fireball* `11-23`
-- [Semafor: ‘Hours Before Huang’s Reinstatement, Trump Called Nvidia’s Board to Argue for His Return’](https://www.semafor.com/article/11/23/2026/jensen-huang-reinstated-as-nvidia-ceo) — *Daring Fireball* `11-23`
-- [Government Regulation and Demand](https://stratechery.com/2026/obituaries/) — *Daring Fireball* `11-23`
+- [Comments and emails](https://herman.bearblog.dev/comments-and-emails/) — *Herman's blog* `11-24`
+- [datasette-charts 0.2a0](https://simonwillison.net/2026/Nov/24/datasette-charts/) — *Simon Willison's Weblog* `11-24`
+- [datasette-agent 0.7a1](https://simonwillison.net/2026/Nov/24/datasette-agent/) — *Simon Willison's Weblog* `11-24`
+- [[Sponsor] Finalist Daily Planner Meets iPhone Duo](https://www.finalist.works/iphone-duo-planner/?utm_source=df-nov-2026) — *Daring Fireball* `11-24`
+- [Jensen Huang Returns to Work](https://www.businessinsider.com/jensen-huang-returns-to-nvidia-hq-im-terribly-sorry-2026-11) — *Daring Fireball* `11-23`
 <!--BLOG_RADAR:end-->
 
 ---
