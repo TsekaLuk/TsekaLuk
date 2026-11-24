@@ -208,11 +208,11 @@ Last Updated: Wednesday, November 25th, 2026, 12:51:13 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Comments and emails](https://herman.bearblog.dev/comments-and-emails/) — *Herman's blog* `11-24`
-- [datasette-charts 0.2a0](https://simonwillison.net/2026/Nov/24/datasette-charts/) — *Simon Willison's Weblog* `11-24`
-- [datasette-agent 0.7a1](https://simonwillison.net/2026/Nov/24/datasette-agent/) — *Simon Willison's Weblog* `11-24`
-- [[Sponsor] Finalist Daily Planner Meets iPhone Duo](https://www.finalist.works/iphone-duo-planner/?utm_source=df-nov-2026) — *Daring Fireball* `11-24`
-- [Jensen Huang Returns to Work](https://www.businessinsider.com/jensen-huang-returns-to-nvidia-hq-im-terribly-sorry-2026-11) — *Daring Fireball* `11-23`
+- [Patriotism, Trump-Style](https://nypost.com/2026/11/23/us-news/trump-suggests-jensen-huang-could-have-moved-to-china-if-not-reinstated-as-nvidia-ceo-sex-sells-fellas/) — *Daring Fireball* `11-24`
+- [Responding to objections to recursive self-improvement](https://www.dwarkesh.com/p/rsiobjections) — *Dwarkesh Podcast* `11-24`
+- [Blogger broke the lightbox](https://oldvcr.blogspot.com/2026/11/blogger-broke-lightbox.html) — *Old Vintage Computing Research* `11-24`
+- [Advent of Microarchitecture 2026](http://xania.org/202611/advent-of-what?utm_source=feed&utm_medium=rss) — *Matt Godbolt’s blog* `11-24`
+- [‘The Economy Is a Hostage Situation’](https://www.theatlantic.com/technology/2026/11/ai-hostage-economy-nvidia-huang/689552/?gift=aQyUJR7AIw1mJWdQ6Ed6yMQrokNaYAmgr0aVusAzQCY&) — *Daring Fireball* `11-24`
 <!--BLOG_RADAR:end-->
 
 ---
