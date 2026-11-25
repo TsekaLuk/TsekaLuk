@@ -4,13 +4,62 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 25 Nov 2026 08:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 21:29:41 +0000</lastBuildDate>
     <item>
-      <title>How did pinwheel calculators work?</title>
-      <link>https://blog.coredump.cx/p/how-did-pinwheel-calculators-work</link>
-      <guid isPermaLink="true">https://blog.coredump.cx/p/how-did-pinwheel-calculators-work</guid>
-      <pubDate>Wed, 25 Nov 2026 01:44:11 +0000</pubDate>
-      <description>lcamtuf’s thing</description>
+      <title>Have You Tried Using Your Agent?</title>
+      <link>https://blog.jim-nielsen.com/2026/have-you-tried-your-agent/</link>
+      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/have-you-tried-your-agent/</guid>
+      <pubDate>Wed, 25 Nov 2026 19:00:00 +0000</pubDate>
+      <description>Jim Nielsen’s Blog</description>
+    </item>
+    <item>
+      <title>‘The Life of a Composer’</title>
+      <link>https://composer.pablostanley.com/#1</link>
+      <guid isPermaLink="true">https://composer.pablostanley.com/#1</guid>
+      <pubDate>Wed, 25 Nov 2026 17:04:06 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>20 Percent He Has Other Problems, Which This Margin Is Too Narrow to Contain</title>
+      <link>https://www.wsj.com/politics/policy/trump-says-he-protects-brilliant-ceos-like-elon-musk-and-jensen-huang-b977cfda</link>
+      <guid isPermaLink="true">https://www.wsj.com/politics/policy/trump-says-he-protects-brilliant-ceos-like-elon-musk-and-jensen-huang-b977cfda</guid>
+      <pubDate>Wed, 25 Nov 2026 16:22:27 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Covering a body with eight smaller copies of itself</title>
+      <link>https://www.johndcook.com/blog/2026/11/25/hadwiger-covering/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/11/25/hadwiger-covering/</guid>
+      <pubDate>Wed, 25 Nov 2026 14:51:58 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Polynomials and Planets</title>
+      <link>https://www.johndcook.com/blog/2026/11/25/polynomials-and-planets/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/11/25/polynomials-and-planets/</guid>
+      <pubDate>Wed, 25 Nov 2026 13:44:21 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Pluralistic: New York vs auto-enshittification (25 Nov 2026)</title>
+      <link>https://pluralistic.net/2026/11/25/empire-state-strikes-back/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/11/25/empire-state-strikes-back/</guid>
+      <pubDate>Wed, 25 Nov 2026 13:42:12 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Book Review: Slow Gods by Claire North ★★★★⯪</title>
+      <link>https://shkspr.mobi/blog/2026/11/book-review-slow-gods-by-claire-north/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/11/book-review-slow-gods-by-claire-north/</guid>
+      <pubDate>Wed, 25 Nov 2026 12:34:34 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>This Week in Source Control: 25 November 2026</title>
+      <link>https://nesbitt.io/2026/11/25/this-week-in-source-control.html</link>
+      <guid isPermaLink="true">https://nesbitt.io/2026/11/25/this-week-in-source-control.html</guid>
+      <pubDate>Wed, 25 Nov 2026 10:00:00 +0000</pubDate>
+      <description>Andrew Nesbitt</description>
     </item>
     <item>
       <title>Abolish Lock Poisoning</title>
@@ -18,6 +67,13 @@
       <guid isPermaLink="true">https://lucumr.pocoo.org/2026/11/25/poisoning/</guid>
       <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
       <description>Armin Ronacher's Thoughts and Writings</description>
+    </item>
+    <item>
+      <title>Has Jevons paradox broken down?</title>
+      <link>https://martinalderson.com/posts/has-jevons-paradox-broken-down/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</link>
+      <guid isPermaLink="true">https://martinalderson.com/posts/has-jevons-paradox-broken-down/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feed</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Martin Alderson</description>
     </item>
     <item>
       <title>Engadget Scoop Claims iPhone 18e Will Have a Camera Plateau</title>
@@ -132,13 +188,6 @@
       <description>Daring Fireball</description>
     </item>
     <item>
-      <title>BREAKING: Employees at OpenAI and Anthropic are panicking</title>
-      <link>https://garymarcus.substack.com/p/breaking-employees-at-openai-and</link>
-      <guid isPermaLink="true">https://garymarcus.substack.com/p/breaking-employees-at-openai-and</guid>
-      <pubDate>Tue, 24 Nov 2026 16:06:27 +0000</pubDate>
-      <description>Marcus on AI</description>
-    </item>
-    <item>
       <title>Jason Zengerle Profiles Treasury Secretary Scott Bessent for The New Yorker</title>
       <link>https://www.newyorker.com/magazine/2026/11/30/scott-bessent-profile</link>
       <guid isPermaLink="true">https://www.newyorker.com/magazine/2026/11/30/scott-bessent-profile</guid>
@@ -151,13 +200,6 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/11/24/password-joke/</guid>
       <pubDate>Tue, 24 Nov 2026 15:16:48 +0000</pubDate>
       <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Breaking: When it comes to generative AI, the bump from rehiring Jensen doesn’t appear to be holding</title>
-      <link>https://garymarcus.substack.com/p/breaking-when-it-comes-to-generative</link>
-      <guid isPermaLink="true">https://garymarcus.substack.com/p/breaking-when-it-comes-to-generative</guid>
-      <pubDate>Tue, 24 Nov 2026 15:06:30 +0000</pubDate>
-      <description>Marcus on AI</description>
     </item>
     <item>
       <title>What happens to entries in the CoreApplication Properties when the source apartment shuts down?</title>
@@ -272,13 +314,6 @@
       <description>Jim Nielsen’s Blog</description>
     </item>
     <item>
-      <title>Could Jensengate take down the President?</title>
-      <link>https://garymarcus.substack.com/p/could-jensengate-take-down-the-president</link>
-      <guid isPermaLink="true">https://garymarcus.substack.com/p/could-jensengate-take-down-the-president</guid>
-      <pubDate>Mon, 23 Nov 2026 18:46:14 +0000</pubDate>
-      <description>Marcus on AI</description>
-    </item>
-    <item>
       <title>Two generators suffice</title>
       <link>https://www.johndcook.com/blog/2026/11/23/two-generators-suffice/</link>
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/11/23/two-generators-suffice/</guid>
@@ -291,13 +326,6 @@
       <guid isPermaLink="true">https://truthsocial.com/@realDonaldTrump/posts/117666713950631493</guid>
       <pubDate>Mon, 23 Nov 2026 17:22:03 +0000</pubDate>
       <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Breaking: Jensen is back. And the market is way up. But things will never be the same.</title>
-      <link>https://garymarcus.substack.com/p/breaking-jensen-is-back-and-the-market</link>
-      <guid isPermaLink="true">https://garymarcus.substack.com/p/breaking-jensen-is-back-and-the-market</guid>
-      <pubDate>Mon, 23 Nov 2026 16:38:04 +0000</pubDate>
-      <description>Marcus on AI</description>
     </item>
     <item>
       <title>Semafor: ‘Hours Before Huang’s Reinstatement, Trump Called Nvidia’s Board to Argue for His Return’</title>
@@ -363,13 +391,6 @@
       <description>Troy Hunt</description>
     </item>
     <item>
-      <title>Tranquility</title>
-      <link>https://blog.coredump.cx/p/tranquility</link>
-      <guid isPermaLink="true">https://blog.coredump.cx/p/tranquility</guid>
-      <pubDate>Mon, 23 Nov 2026 03:39:30 +0000</pubDate>
-      <description>lcamtuf’s thing</description>
-    </item>
-    <item>
       <title>Zenith Data Systems, Part II</title>
       <link>https://www.abortretry.fail/p/zenith-data-systems-part-ii</link>
       <guid isPermaLink="true">https://www.abortretry.fail/p/zenith-data-systems-part-ii</guid>
@@ -424,13 +445,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Nov/22/select-styling/</guid>
       <pubDate>Sun, 22 Nov 2026 19:45:06 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Levent Alpöge has solved the Riemann Hypothesis with help of Claude! What does it mean?</title>
-      <link>https://garymarcus.substack.com/p/levent-alpoge-has-solved-the-riemann</link>
-      <guid isPermaLink="true">https://garymarcus.substack.com/p/levent-alpoge-has-solved-the-riemann</guid>
-      <pubDate>Sun, 22 Nov 2026 18:37:02 +0000</pubDate>
-      <description>Marcus on AI</description>
     </item>
     <item>
       <title>slopcore</title>
@@ -601,13 +615,6 @@
       <description>The Old New Thing</description>
     </item>
     <item>
-      <title>Breaking: Anthropic stock is crashing, and AI stocks have lost over 50% in 5 months.</title>
-      <link>https://garymarcus.substack.com/p/breaking-anthropic-stock-is-crashing</link>
-      <guid isPermaLink="true">https://garymarcus.substack.com/p/breaking-anthropic-stock-is-crashing</guid>
-      <pubDate>Fri, 20 Nov 2026 14:20:06 +0000</pubDate>
-      <description>Marcus on AI</description>
-    </item>
-    <item>
       <title>Re: Riemann</title>
       <link>https://borretti.me/article/re-riemann</link>
       <guid isPermaLink="true">https://borretti.me/article/re-riemann</guid>
@@ -669,13 +676,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Nov/19/postgresql-19/</guid>
       <pubDate>Thu, 19 Nov 2026 20:43:57 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Breaking: It doesn’t look Anthropic’s IPO is going to save the tech industry</title>
-      <link>https://garymarcus.substack.com/p/breaking-it-doesnt-look-anthropics</link>
-      <guid isPermaLink="true">https://garymarcus.substack.com/p/breaking-it-doesnt-look-anthropics</guid>
-      <pubDate>Thu, 19 Nov 2026 20:36:26 +0000</pubDate>
-      <description>Marcus on AI</description>
     </item>
     <item>
       <title>Grand Theft Auto 6</title>
@@ -762,13 +762,6 @@
       <description>Entropic Thoughts</description>
     </item>
     <item>
-      <title>Is Anthropic’s IPO a bad bet, both for investors and society?</title>
-      <link>https://garymarcus.substack.com/p/is-anthropics-ipo-a-bad-bet-both</link>
-      <guid isPermaLink="true">https://garymarcus.substack.com/p/is-anthropics-ipo-a-bad-bet-both</guid>
-      <pubDate>Wed, 18 Nov 2026 21:45:04 +0000</pubDate>
-      <description>Marcus on AI</description>
-    </item>
-    <item>
       <title>★ The 50-Yard Line</title>
       <link>https://daringfireball.net/2026/11/the_50-yard_line</link>
       <guid isPermaLink="true">https://daringfireball.net/2026/11/the_50-yard_line</guid>
@@ -844,6 +837,13 @@
       <guid isPermaLink="true">https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/</guid>
       <pubDate>Wed, 18 Nov 2026 02:52:04 +0000</pubDate>
       <description>Krebs on Security</description>
+    </item>
+    <item>
+      <title>"No way to prevent this" say users of only language where this regularly happens</title>
+      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-123633/</link>
+      <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-123633/</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Xe Iaso's blog</description>
     </item>
   </channel>
 </rss>

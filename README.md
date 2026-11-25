@@ -208,11 +208,11 @@ Last Updated: Thursday, November 26th, 2026, 12:39:17 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [How did pinwheel calculators work?](https://blog.coredump.cx/p/how-did-pinwheel-calculators-work) — *lcamtuf’s thing* `11-25`
-- [Abolish Lock Poisoning](https://lucumr.pocoo.org/2026/11/25/poisoning/) — *Armin Ronacher's Thoughts and Writings* `11-25`
-- [Engadget Scoop Claims iPhone 18e Will Have a Camera Plateau](https://www.engadget.com/2325828/new-leaks-reveal-the-iphone-18e-will-have-a-redesigned-camera-plateau/) — *Daring Fireball* `11-24`
-- [Trump Made Up to $15M on Nvidia Stock After Huang’s Return](https://www.theguardian.com/technology/2026/nov/24/donald-trump-nvidia-stock-jensen-huang-stock-market) — *Daring Fireball* `11-24`
-- [Three LLM inflection points in twelve months](https://simonwillison.net/2026/Nov/24/llm-inflection-points/) — *Simon Willison's Weblog* `11-24`
+- [Have You Tried Using Your Agent?](https://blog.jim-nielsen.com/2026/have-you-tried-your-agent/) — *Jim Nielsen’s Blog* `11-25`
+- [‘The Life of a Composer’](https://composer.pablostanley.com/#1) — *Daring Fireball* `11-25`
+- [20 Percent He Has Other Problems, Which This Margin Is Too Narrow to Contain](https://www.wsj.com/politics/policy/trump-says-he-protects-brilliant-ceos-like-elon-musk-and-jensen-huang-b977cfda) — *Daring Fireball* `11-25`
+- [Covering a body with eight smaller copies of itself](https://www.johndcook.com/blog/2026/11/25/hadwiger-covering/) — *John D. Cook* `11-25`
+- [Polynomials and Planets](https://www.johndcook.com/blog/2026/11/25/polynomials-and-planets/) — *John D. Cook* `11-25`
 <!--BLOG_RADAR:end-->
 
 ---
