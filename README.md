@@ -208,11 +208,11 @@ Last Updated: Wednesday, November 25th, 2026, 9:49:46 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Patriotism, Trump-Style](https://nypost.com/2026/11/23/us-news/trump-suggests-jensen-huang-could-have-moved-to-china-if-not-reinstated-as-nvidia-ceo-sex-sells-fellas/) — *Daring Fireball* `11-24`
-- [Responding to objections to recursive self-improvement](https://www.dwarkesh.com/p/rsiobjections) — *Dwarkesh Podcast* `11-24`
-- [Blogger broke the lightbox](https://oldvcr.blogspot.com/2026/11/blogger-broke-lightbox.html) — *Old Vintage Computing Research* `11-24`
-- [Advent of Microarchitecture 2026](http://xania.org/202611/advent-of-what?utm_source=feed&utm_medium=rss) — *Matt Godbolt’s blog* `11-24`
-- [‘The Economy Is a Hostage Situation’](https://www.theatlantic.com/technology/2026/11/ai-hostage-economy-nvidia-huang/689552/?gift=aQyUJR7AIw1mJWdQ6Ed6yMQrokNaYAmgr0aVusAzQCY&) — *Daring Fireball* `11-24`
+- [How did pinwheel calculators work?](https://blog.coredump.cx/p/how-did-pinwheel-calculators-work) — *lcamtuf’s thing* `11-25`
+- [Abolish Lock Poisoning](https://lucumr.pocoo.org/2026/11/25/poisoning/) — *Armin Ronacher's Thoughts and Writings* `11-25`
+- [Engadget Scoop Claims iPhone 18e Will Have a Camera Plateau](https://www.engadget.com/2325828/new-leaks-reveal-the-iphone-18e-will-have-a-redesigned-camera-plateau/) — *Daring Fireball* `11-24`
+- [Trump Made Up to $15M on Nvidia Stock After Huang’s Return](https://www.theguardian.com/technology/2026/nov/24/donald-trump-nvidia-stock-jensen-huang-stock-market) — *Daring Fireball* `11-24`
+- [Three LLM inflection points in twelve months](https://simonwillison.net/2026/Nov/24/llm-inflection-points/) — *Simon Willison's Weblog* `11-24`
 <!--BLOG_RADAR:end-->
 
 ---
