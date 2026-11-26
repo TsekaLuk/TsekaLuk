@@ -208,11 +208,11 @@ Last Updated: Friday, November 27th, 2026, 12:12:06 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [sqlite3_rsync: Database Remote-Copy Tool For SQLite](https://simonwillison.net/2026/Nov/26/sqlite3-rsync/) — *Simon Willison's Weblog* `11-26`
-- [Electrek Speculates on Trump’s Claim He ‘Protected’ Elon Musk After a ‘Very Tough Incident’ During His First Term](https://electrek.co/2026/11/24/trump-protected-elon-musk-first-term-tough-incident/) — *Daring Fireball* `11-26`
-- [Quoting Scott Aaronson](https://simonwillison.net/2026/Nov/25/scott-aaronson/) — *Simon Willison's Weblog* `11-25`
-- [1Password’s Backend Systems Were Compromised, Revealing Only Customer Account Metadata](https://1password.com/blog/update-on-nov-2026-security-incident) — *Daring Fireball* `11-25`
-- [‘Trump Wanted Jensen Huang Back. Now, the President Is Alone in Washington’](https://www.cnbc.com/2026/11/24/trump-jensen-huang-nvidia.html) — *Daring Fireball* `11-25`
+- [★ Obvious Affordances Are Due for a Comeback](https://daringfireball.net/2026/11/obvious_affordances_are_due_for_a_comeback) — *Daring Fireball* `11-26`
+- [Quoting Jack Despain Zhou](https://simonwillison.net/2026/Nov/26/jack-despain-zhou/) — *Simon Willison's Weblog* `11-26`
+- [Las Vegas, Monte Carlo, and Integer Factorization](https://www.johndcook.com/blog/2026/11/26/las-vegas-monte-carlo/) — *John D. Cook* `11-26`
+- [OGP Image Format Support on Major Sites and Apps](https://shkspr.mobi/blog/2026/11/ogp-image-format-support-on-major-sites-and-apps/) — *Terence Eden’s Blog* `11-26`
+- [Pluralistic: Charles Koch is a cult leader (26 Nov 2026)](https://pluralistic.net/2026/11/26/science-of-liberty/) — *Pluralistic: Daily links from Cory Doctorow* `11-26`
 <!--BLOG_RADAR:end-->
 
 ---

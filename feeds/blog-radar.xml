@@ -4,7 +4,42 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Thu, 26 Nov 2026 07:51:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 21:17:23 +0000</lastBuildDate>
+    <item>
+      <title>★ Obvious Affordances Are Due for a Comeback</title>
+      <link>https://daringfireball.net/2026/11/obvious_affordances_are_due_for_a_comeback</link>
+      <guid isPermaLink="true">https://daringfireball.net/2026/11/obvious_affordances_are_due_for_a_comeback</guid>
+      <pubDate>Thu, 26 Nov 2026 15:11:46 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Quoting Jack Despain Zhou</title>
+      <link>https://simonwillison.net/2026/Nov/26/jack-despain-zhou/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/26/jack-despain-zhou/</guid>
+      <pubDate>Thu, 26 Nov 2026 15:09:31 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Las Vegas, Monte Carlo, and Integer Factorization</title>
+      <link>https://www.johndcook.com/blog/2026/11/26/las-vegas-monte-carlo/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/11/26/las-vegas-monte-carlo/</guid>
+      <pubDate>Thu, 26 Nov 2026 13:14:07 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>OGP Image Format Support on Major Sites and Apps</title>
+      <link>https://shkspr.mobi/blog/2026/11/ogp-image-format-support-on-major-sites-and-apps/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/11/ogp-image-format-support-on-major-sites-and-apps/</guid>
+      <pubDate>Thu, 26 Nov 2026 12:34:04 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Pluralistic: Charles Koch is a cult leader (26 Nov 2026)</title>
+      <link>https://pluralistic.net/2026/11/26/science-of-liberty/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/11/26/science-of-liberty/</guid>
+      <pubDate>Thu, 26 Nov 2026 12:31:19 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
     <item>
       <title>sqlite3_rsync: Database Remote-Copy Tool For SQLite</title>
       <link>https://simonwillison.net/2026/Nov/26/sqlite3-rsync/</link>
@@ -13,11 +48,25 @@
       <description>Simon Willison's Weblog</description>
     </item>
     <item>
+      <title>The New York Times warns photographers not to update Photoshop over AI features</title>
+      <link>https://simonwillison.net/2026/Nov/26/hn-50651685/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/26/hn-50651685/</guid>
+      <pubDate>Thu, 26 Nov 2026 05:08:46 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
       <title>Electrek Speculates on Trump’s Claim He ‘Protected’ Elon Musk After a ‘Very Tough Incident’ During His First Term</title>
       <link>https://electrek.co/2026/11/24/trump-protected-elon-musk-first-term-tough-incident/</link>
       <guid isPermaLink="true">https://electrek.co/2026/11/24/trump-protected-elon-musk-first-term-tough-incident/</guid>
       <pubDate>Thu, 26 Nov 2026 00:16:54 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Underrated reasons to be thankful VI</title>
+      <link>https://dynomight.net/thanks-6/</link>
+      <guid isPermaLink="true">https://dynomight.net/thanks-6/</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <description>DYNOMIGHT</description>
     </item>
     <item>
       <title>Quoting Scott Aaronson</title>
@@ -795,55 +844,6 @@
       <guid isPermaLink="true">https://idiallo.com/byte-size/stackoverflow-is-back-in-spirit</guid>
       <pubDate>Thu, 19 Nov 2026 07:27:09 +0000</pubDate>
       <description>Software and Tech stories from an Insider - iDiallo.com</description>
-    </item>
-    <item>
-      <title>Supersequences and Superpermutations</title>
-      <link>https://www.johndcook.com/blog/2026/11/18/supersequences/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/11/18/supersequences/</guid>
-      <pubDate>Thu, 19 Nov 2026 00:10:21 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Inside PyPy: first contact with RPython</title>
-      <link>https://bernsteinbear.com/blog/inside-pypy-first-contact-with-rpython/?utm_source=rss</link>
-      <guid isPermaLink="true">https://bernsteinbear.com/blog/inside-pypy-first-contact-with-rpython/?utm_source=rss</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Max Bernstein's Blog</description>
-    </item>
-    <item>
-      <title>llm-gemini 0.38</title>
-      <link>https://simonwillison.net/2026/Nov/18/llm-gemini/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/18/llm-gemini/</guid>
-      <pubDate>Wed, 18 Nov 2026 23:59:20 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Unburden yourself of the backlog</title>
-      <link>https://entropicthoughts.com/unburden-yourself-of-the-backlog</link>
-      <guid isPermaLink="true">https://entropicthoughts.com/unburden-yourself-of-the-backlog</guid>
-      <pubDate>Wed, 18 Nov 2026 23:00:00 +0000</pubDate>
-      <description>Entropic Thoughts</description>
-    </item>
-    <item>
-      <title>★ The 50-Yard Line</title>
-      <link>https://daringfireball.net/2026/11/the_50-yard_line</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/11/the_50-yard_line</guid>
-      <pubDate>Wed, 18 Nov 2026 20:42:23 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Email Dumpster Diving</title>
-      <link>https://blog.jim-nielsen.com/2026/email-dumpster-diving/</link>
-      <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/email-dumpster-diving/</guid>
-      <pubDate>Wed, 18 Nov 2026 19:00:00 +0000</pubDate>
-      <description>Jim Nielsen’s Blog</description>
-    </item>
-    <item>
-      <title>datasette-arrows 0.1a0</title>
-      <link>https://simonwillison.net/2026/Nov/18/datasette-arrows/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/18/datasette-arrows/</guid>
-      <pubDate>Wed, 18 Nov 2026 17:09:59 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
     </item>
   </channel>
 </rss>
