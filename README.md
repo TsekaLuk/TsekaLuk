@@ -208,11 +208,11 @@ Last Updated: Thursday, November 26th, 2026, 9:26:40 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Have You Tried Using Your Agent?](https://blog.jim-nielsen.com/2026/have-you-tried-your-agent/) — *Jim Nielsen’s Blog* `11-25`
-- [‘The Life of a Composer’](https://composer.pablostanley.com/#1) — *Daring Fireball* `11-25`
-- [20 Percent He Has Other Problems, Which This Margin Is Too Narrow to Contain](https://www.wsj.com/politics/policy/trump-says-he-protects-brilliant-ceos-like-elon-musk-and-jensen-huang-b977cfda) — *Daring Fireball* `11-25`
-- [Covering a body with eight smaller copies of itself](https://www.johndcook.com/blog/2026/11/25/hadwiger-covering/) — *John D. Cook* `11-25`
-- [Polynomials and Planets](https://www.johndcook.com/blog/2026/11/25/polynomials-and-planets/) — *John D. Cook* `11-25`
+- [sqlite3_rsync: Database Remote-Copy Tool For SQLite](https://simonwillison.net/2026/Nov/26/sqlite3-rsync/) — *Simon Willison's Weblog* `11-26`
+- [Electrek Speculates on Trump’s Claim He ‘Protected’ Elon Musk After a ‘Very Tough Incident’ During His First Term](https://electrek.co/2026/11/24/trump-protected-elon-musk-first-term-tough-incident/) — *Daring Fireball* `11-26`
+- [Quoting Scott Aaronson](https://simonwillison.net/2026/Nov/25/scott-aaronson/) — *Simon Willison's Weblog* `11-25`
+- [1Password’s Backend Systems Were Compromised, Revealing Only Customer Account Metadata](https://1password.com/blog/update-on-nov-2026-security-incident) — *Daring Fireball* `11-25`
+- [‘Trump Wanted Jensen Huang Back. Now, the President Is Alone in Washington’](https://www.cnbc.com/2026/11/24/trump-jensen-huang-nvidia.html) — *Daring Fireball* `11-25`
 <!--BLOG_RADAR:end-->
 
 ---

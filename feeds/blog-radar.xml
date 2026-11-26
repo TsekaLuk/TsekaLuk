@@ -4,13 +4,62 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Wed, 25 Nov 2026 21:29:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 07:51:58 +0000</lastBuildDate>
+    <item>
+      <title>sqlite3_rsync: Database Remote-Copy Tool For SQLite</title>
+      <link>https://simonwillison.net/2026/Nov/26/sqlite3-rsync/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/26/sqlite3-rsync/</guid>
+      <pubDate>Thu, 26 Nov 2026 06:08:25 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>Electrek Speculates on Trump’s Claim He ‘Protected’ Elon Musk After a ‘Very Tough Incident’ During His First Term</title>
+      <link>https://electrek.co/2026/11/24/trump-protected-elon-musk-first-term-tough-incident/</link>
+      <guid isPermaLink="true">https://electrek.co/2026/11/24/trump-protected-elon-musk-first-term-tough-incident/</guid>
+      <pubDate>Thu, 26 Nov 2026 00:16:54 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Quoting Scott Aaronson</title>
+      <link>https://simonwillison.net/2026/Nov/25/scott-aaronson/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/25/scott-aaronson/</guid>
+      <pubDate>Wed, 25 Nov 2026 23:26:32 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
+    </item>
+    <item>
+      <title>1Password’s Backend Systems Were Compromised, Revealing Only Customer Account Metadata</title>
+      <link>https://1password.com/blog/update-on-nov-2026-security-incident</link>
+      <guid isPermaLink="true">https://1password.com/blog/update-on-nov-2026-security-incident</guid>
+      <pubDate>Wed, 25 Nov 2026 22:52:37 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>‘Trump Wanted Jensen Huang Back. Now, the President Is Alone in Washington’</title>
+      <link>https://www.cnbc.com/2026/11/24/trump-jensen-huang-nvidia.html</link>
+      <guid isPermaLink="true">https://www.cnbc.com/2026/11/24/trump-jensen-huang-nvidia.html</guid>
+      <pubDate>Wed, 25 Nov 2026 22:31:10 +0000</pubDate>
+      <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Ansible Fails waiting for privilege escalation on Ubuntu 26</title>
+      <link>https://www.jeffgeerling.com/blog/2026/ansible-fails-become-ubuntu2604/</link>
+      <guid isPermaLink="true">https://www.jeffgeerling.com/blog/2026/ansible-fails-become-ubuntu2604/</guid>
+      <pubDate>Wed, 25 Nov 2026 21:43:00 +0000</pubDate>
+      <description>Jeff Geerling</description>
+    </item>
     <item>
       <title>Have You Tried Using Your Agent?</title>
       <link>https://blog.jim-nielsen.com/2026/have-you-tried-your-agent/</link>
       <guid isPermaLink="true">https://blog.jim-nielsen.com/2026/have-you-tried-your-agent/</guid>
       <pubDate>Wed, 25 Nov 2026 19:00:00 +0000</pubDate>
       <description>Jim Nielsen’s Blog</description>
+    </item>
+    <item>
+      <title>datasette-charts 0.3a0</title>
+      <link>https://simonwillison.net/2026/Nov/25/datasette-charts/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/25/datasette-charts/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:16:50 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
     <item>
       <title>‘The Life of a Composer’</title>
@@ -21,10 +70,17 @@
     </item>
     <item>
       <title>20 Percent He Has Other Problems, Which This Margin Is Too Narrow to Contain</title>
-      <link>https://www.wsj.com/politics/policy/trump-says-he-protects-brilliant-ceos-like-elon-musk-and-jensen-huang-b977cfda</link>
-      <guid isPermaLink="true">https://www.wsj.com/politics/policy/trump-says-he-protects-brilliant-ceos-like-elon-musk-and-jensen-huang-b977cfda</guid>
+      <link>https://www.wsj.com/politics/policy/trump-says-he-protects-brilliant-ceos-like-elon-musk-and-jensen-huang-b977cfda?st=7ctVgP</link>
+      <guid isPermaLink="true">https://www.wsj.com/politics/policy/trump-says-he-protects-brilliant-ceos-like-elon-musk-and-jensen-huang-b977cfda?st=7ctVgP</guid>
       <pubDate>Wed, 25 Nov 2026 16:22:27 +0000</pubDate>
       <description>Daring Fireball</description>
+    </item>
+    <item>
+      <title>Why did it seem that the entries in the CoreApplication Properties expired when the source application shut down?</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20261125-00/?p=112895/</link>
+      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261125-00/?p=112895/</guid>
+      <pubDate>Wed, 25 Nov 2026 15:00:00 +0000</pubDate>
+      <description>The Old New Thing</description>
     </item>
     <item>
       <title>Covering a body with eight smaller copies of itself</title>
@@ -249,6 +305,13 @@
       <guid isPermaLink="true">https://herman.bearblog.dev/comments-and-emails/</guid>
       <pubDate>Tue, 24 Nov 2026 07:16:00 +0000</pubDate>
       <description>Herman's blog</description>
+    </item>
+    <item>
+      <title>datasette-charts 0.2a1</title>
+      <link>https://simonwillison.net/2026/Nov/24/datasette-charts-2/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/24/datasette-charts-2/</guid>
+      <pubDate>Tue, 24 Nov 2026 06:07:19 +0000</pubDate>
+      <description>Simon Willison's Weblog</description>
     </item>
     <item>
       <title>datasette-charts 0.2a0</title>
@@ -781,69 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Nov/18/datasette-arrows/</guid>
       <pubDate>Wed, 18 Nov 2026 17:09:59 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Quoting Daniel Stenberg</title>
-      <link>https://simonwillison.net/2026/Nov/18/daniel-stenberg/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/18/daniel-stenberg/</guid>
-      <pubDate>Wed, 18 Nov 2026 15:58:27 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Jensen Huang Tweets</title>
-      <link>https://x.com/JensenHuang/status/2122726005219737649</link>
-      <guid isPermaLink="true">https://x.com/JensenHuang/status/2122726005219737649</guid>
-      <pubDate>Wed, 18 Nov 2026 15:39:16 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>If the Windows documentation doesn’t list a particular technology as supporting an operation, does that mean that it doesn’t support it?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20261118-00/?p=112870/</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261118-00/?p=112870/</guid>
-      <pubDate>Wed, 18 Nov 2026 15:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>The PSF end-of-year fundraiser</title>
-      <link>https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/</guid>
-      <pubDate>Wed, 18 Nov 2026 14:44:48 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Once More Unto The Breach - Another Year In Review</title>
-      <link>https://shkspr.mobi/blog/2026/11/once-more-unto-the-breach-another-year-in-review/</link>
-      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/11/once-more-unto-the-breach-another-year-in-review/</guid>
-      <pubDate>Wed, 18 Nov 2026 12:34:00 +0000</pubDate>
-      <description>Terence Eden’s Blog</description>
-    </item>
-    <item>
-      <title>This Week in Source Control: 18 November 2026</title>
-      <link>https://nesbitt.io/2026/11/18/this-week-in-source-control.html</link>
-      <guid isPermaLink="true">https://nesbitt.io/2026/11/18/this-week-in-source-control.html</guid>
-      <pubDate>Wed, 18 Nov 2026 10:00:00 +0000</pubDate>
-      <description>Andrew Nesbitt</description>
-    </item>
-    <item>
-      <title>Pluralistic: Enshittifiers groom us for scammers (18 Nov 2026)</title>
-      <link>https://pluralistic.net/2026/11/18/malice-v-incompetence/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/11/18/malice-v-incompetence/</guid>
-      <pubDate>Wed, 18 Nov 2026 08:28:46 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>Attackers Used Optimizely to A/B Test Malware on Top Websites</title>
-      <link>https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/</link>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/</guid>
-      <pubDate>Wed, 18 Nov 2026 02:52:04 +0000</pubDate>
-      <description>Krebs on Security</description>
-    </item>
-    <item>
-      <title>"No way to prevent this" say users of only language where this regularly happens</title>
-      <link>https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-123633/</link>
-      <guid isPermaLink="true">https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-123633/</guid>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Xe Iaso's blog</description>
     </item>
   </channel>
 </rss>
