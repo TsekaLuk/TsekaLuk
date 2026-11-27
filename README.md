@@ -208,11 +208,11 @@ Last Updated: Friday, November 27th, 2026, 9:23:56 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [Remotely unplugging a USB device on my Mac, without touching it](https://www.jeffgeerling.com/blog/2026/remote-control-usb-hub/) — *Jeff Geerling* `11-27`
+- [Who gets to decide if something is written by AI?](https://seangoedecke.com/who-gets-to-decide-if-something-is-written-by-ai/) — *seangoedecke.com RSS feed* `11-27`
 - [★ Obvious Affordances Are Due for a Comeback](https://daringfireball.net/2026/11/obvious_affordances_are_due_for_a_comeback) — *Daring Fireball* `11-26`
 - [Quoting Jack Despain Zhou](https://simonwillison.net/2026/Nov/26/jack-despain-zhou/) — *Simon Willison's Weblog* `11-26`
-- [Las Vegas, Monte Carlo, and Integer Factorization](https://www.johndcook.com/blog/2026/11/26/las-vegas-monte-carlo/) — *John D. Cook* `11-26`
-- [OGP Image Format Support on Major Sites and Apps](https://shkspr.mobi/blog/2026/11/ogp-image-format-support-on-major-sites-and-apps/) — *Terence Eden’s Blog* `11-26`
-- [Pluralistic: Charles Koch is a cult leader (26 Nov 2026)](https://pluralistic.net/2026/11/26/science-of-liberty/) — *Pluralistic: Daily links from Cory Doctorow* `11-26`
+- [What happens when you put a non-agile object in the CoreApplication Properties?](https://devblogs.microsoft.com/oldnewthing/20261126-00/?p=112899/) — *The Old New Thing* `11-26`
 <!--BLOG_RADAR:end-->
 
 ---
