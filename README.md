@@ -208,11 +208,11 @@ Last Updated: Friday, November 27th, 2026, 11:58:09 PM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
-- [Remotely unplugging a USB device on my Mac, without touching it](https://www.jeffgeerling.com/blog/2026/remote-control-usb-hub/) — *Jeff Geerling* `11-27`
-- [Who gets to decide if something is written by AI?](https://seangoedecke.com/who-gets-to-decide-if-something-is-written-by-ai/) — *seangoedecke.com RSS feed* `11-27`
-- [★ Obvious Affordances Are Due for a Comeback](https://daringfireball.net/2026/11/obvious_affordances_are_due_for_a_comeback) — *Daring Fireball* `11-26`
-- [Quoting Jack Despain Zhou](https://simonwillison.net/2026/Nov/26/jack-despain-zhou/) — *Simon Willison's Weblog* `11-26`
-- [What happens when you put a non-agile object in the CoreApplication Properties?](https://devblogs.microsoft.com/oldnewthing/20261126-00/?p=112899/) — *The Old New Thing* `11-26`
+- [Opus 5.5 and Fable 5.2 made my overoptimized Rust code even more overoptimized](https://minimaxir.com/2026/11/opus-fable/) — *Max Woolf's Blog* `11-27`
+- [AI researchers debate what we should do next – Daniel Kokotajlo and Ege Erdil](https://www.dwarkesh.com/p/daniel-kokotajlo-ege-erdil) — *Dwarkesh Podcast* `11-27`
+- [Protect Your Web Forms Against Spam Bots](https://blog.miguelgrinberg.com/post/protect-your-web-forms-against-spam-bots) — *Miguel Grinberg's Blog* `11-27`
+- [This Week on The Analog Antiquarian](https://www.filfre.net/2026/11/this-week-on-the-analog-antiquarian/) — *The Digital Antiquarian* `11-27`
+- [The Invention Algorithm](https://www.construction-physics.com/p/the-invention-algorithm) — *Construction Physics* `11-27`
 <!--BLOG_RADAR:end-->
 
 ---

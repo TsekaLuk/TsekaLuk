@@ -4,7 +4,77 @@
     <title>TsekaLuk Blog Radar</title>
     <link>https://github.com/TsekaLuk/TsekaLuk</link>
     <description>Merged feed from 92 subscriptions</description>
-    <lastBuildDate>Fri, 27 Nov 2026 07:52:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 20:58:53 +0000</lastBuildDate>
+    <item>
+      <title>Opus 5.5 and Fable 5.2 made my overoptimized Rust code even more overoptimized</title>
+      <link>https://minimaxir.com/2026/11/opus-fable/</link>
+      <guid isPermaLink="true">https://minimaxir.com/2026/11/opus-fable/</guid>
+      <pubDate>Fri, 27 Nov 2026 20:10:00 +0000</pubDate>
+      <description>Max Woolf's Blog</description>
+    </item>
+    <item>
+      <title>AI researchers debate what we should do next – Daniel Kokotajlo and Ege Erdil</title>
+      <link>https://www.dwarkesh.com/p/daniel-kokotajlo-ege-erdil</link>
+      <guid isPermaLink="true">https://www.dwarkesh.com/p/daniel-kokotajlo-ege-erdil</guid>
+      <pubDate>Fri, 27 Nov 2026 18:01:14 +0000</pubDate>
+      <description>Dwarkesh Podcast</description>
+    </item>
+    <item>
+      <title>Protect Your Web Forms Against Spam Bots</title>
+      <link>https://blog.miguelgrinberg.com/post/protect-your-web-forms-against-spam-bots</link>
+      <guid isPermaLink="true">https://blog.miguelgrinberg.com/post/protect-your-web-forms-against-spam-bots</guid>
+      <pubDate>Fri, 27 Nov 2026 17:48:35 +0000</pubDate>
+      <description>Miguel Grinberg's Blog</description>
+    </item>
+    <item>
+      <title>This Week on The Analog Antiquarian</title>
+      <link>https://www.filfre.net/2026/11/this-week-on-the-analog-antiquarian/</link>
+      <guid isPermaLink="true">https://www.filfre.net/2026/11/this-week-on-the-analog-antiquarian/</guid>
+      <pubDate>Fri, 27 Nov 2026 17:46:58 +0000</pubDate>
+      <description>The Digital Antiquarian</description>
+    </item>
+    <item>
+      <title>The Invention Algorithm</title>
+      <link>https://www.construction-physics.com/p/the-invention-algorithm</link>
+      <guid isPermaLink="true">https://www.construction-physics.com/p/the-invention-algorithm</guid>
+      <pubDate>Fri, 27 Nov 2026 15:58:24 +0000</pubDate>
+      <description>Construction Physics</description>
+    </item>
+    <item>
+      <title>How many triangles can a graph with no pentagons have?</title>
+      <link>https://www.johndcook.com/blog/2026/11/27/triangles-without-pentagons/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/11/27/triangles-without-pentagons/</guid>
+      <pubDate>Fri, 27 Nov 2026 15:27:19 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Pluralistic: Taylorism and AI's shared sales-pitch (27 Nov 2026)</title>
+      <link>https://pluralistic.net/2026/11/27/taylor-made/</link>
+      <guid isPermaLink="true">https://pluralistic.net/2026/11/27/taylor-made/</guid>
+      <pubDate>Fri, 27 Nov 2026 13:38:29 +0000</pubDate>
+      <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Counterexamples to proof by example</title>
+      <link>https://www.johndcook.com/blog/2026/11/27/counterexample-to-proof-by-example/</link>
+      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/11/27/counterexample-to-proof-by-example/</guid>
+      <pubDate>Fri, 27 Nov 2026 13:03:22 +0000</pubDate>
+      <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>Gadget Review: WiFi Carbon Monoxide Alarm (JKD-625W) ★★★★⯪</title>
+      <link>https://shkspr.mobi/blog/2026/11/gadget-review-wifi-carbon-monoxide-alarm-jkd-625w/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/11/gadget-review-wifi-carbon-monoxide-alarm-jkd-625w/</guid>
+      <pubDate>Fri, 27 Nov 2026 12:34:56 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
+      <title>Het succesvolle Fieldlab van de Nederlandse Digitale Dienst deze week</title>
+      <link>https://berthub.eu/articles/posts/fieldlab-is-van-de-it/</link>
+      <guid isPermaLink="true">https://berthub.eu/articles/posts/fieldlab-is-van-de-it/</guid>
+      <pubDate>Fri, 27 Nov 2026 11:35:00 +0000</pubDate>
+      <description>Bert Hubert's writings</description>
+    </item>
     <item>
       <title>Remotely unplugging a USB device on my Mac, without touching it</title>
       <link>https://www.jeffgeerling.com/blog/2026/remote-control-usb-hub/</link>
@@ -46,6 +116,13 @@
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/11/26/las-vegas-monte-carlo/</guid>
       <pubDate>Thu, 26 Nov 2026 13:14:07 +0000</pubDate>
       <description>John D. Cook</description>
+    </item>
+    <item>
+      <title>OGP Image Format Support on Major Sites and Apps</title>
+      <link>https://shkspr.mobi/blog/2026/11/ogp-image-format-support-on-major-sites-and-apps/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/11/ogp-image-format-support-on-major-sites-and-apps/</guid>
+      <pubDate>Thu, 26 Nov 2026 12:34:04 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>Pluralistic: Charles Koch is a cult leader (26 Nov 2026)</title>
@@ -165,6 +242,13 @@
       <guid isPermaLink="true">https://pluralistic.net/2026/11/25/empire-state-strikes-back/</guid>
       <pubDate>Wed, 25 Nov 2026 13:42:12 +0000</pubDate>
       <description>Pluralistic: Daily links from Cory Doctorow</description>
+    </item>
+    <item>
+      <title>Book Review: Slow Gods by Claire North ★★★★⯪</title>
+      <link>https://shkspr.mobi/blog/2026/11/book-review-slow-gods-by-claire-north/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/11/book-review-slow-gods-by-claire-north/</guid>
+      <pubDate>Wed, 25 Nov 2026 12:34:34 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>This Week in Source Control: 25 November 2026</title>
@@ -342,6 +426,13 @@
       <description>Anil Dash</description>
     </item>
     <item>
+      <title>Virgin Media Hub 5 API</title>
+      <link>https://shkspr.mobi/blog/2026/11/virgin-media-hub-5-api/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/11/virgin-media-hub-5-api/</guid>
+      <pubDate>Tue, 24 Nov 2026 12:34:52 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>Pluralistic: Free lunches (24 Nov 2026)</title>
       <link>https://pluralistic.net/2026/11/24/move-fast-break-kings/</link>
       <guid isPermaLink="true">https://pluralistic.net/2026/11/24/move-fast-break-kings/</guid>
@@ -482,6 +573,13 @@
       <description>Pluralistic: Daily links from Cory Doctorow</description>
     </item>
     <item>
+      <title>Gadget Review: Cheap Zigbee Environmental Sensors ★★★☆☆</title>
+      <link>https://shkspr.mobi/blog/2026/11/gadget-review-cheap-zigbee-environmental-sensors/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/11/gadget-review-cheap-zigbee-environmental-sensors/</guid>
+      <pubDate>Mon, 23 Nov 2026 12:34:29 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>Gravity on an oblate planet</title>
       <link>https://www.johndcook.com/blog/2026/11/23/oblate-spheroid-gravity/</link>
       <guid isPermaLink="true">https://www.johndcook.com/blog/2026/11/23/oblate-spheroid-gravity/</guid>
@@ -559,6 +657,13 @@
       <description>the singularity is nearer</description>
     </item>
     <item>
+      <title>I don't enjoy being pampered</title>
+      <link>https://shkspr.mobi/blog/2026/11/i-dont-enjoy-being-pampered/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/11/i-dont-enjoy-being-pampered/</guid>
+      <pubDate>Sun, 22 Nov 2026 12:34:51 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>Weekly Update 531: Optimizely. Script Dependencies &amp; Third Parties</title>
       <link>https://www.troyhunt.com/weekly-update-531/</link>
       <guid isPermaLink="true">https://www.troyhunt.com/weekly-update-531/</guid>
@@ -620,6 +725,13 @@
       <guid isPermaLink="true">https://www.construction-physics.com/p/reading-list-11212026</guid>
       <pubDate>Sat, 21 Nov 2026 13:04:03 +0000</pubDate>
       <description>Construction Physics</description>
+    </item>
+    <item>
+      <title>Relicensing to CC BY-SA and making it visible in Schema metadata</title>
+      <link>https://shkspr.mobi/blog/2026/11/relicensing-to-cc-by-sa-and-making-it-visible-in-schema-metadata/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/11/relicensing-to-cc-by-sa-and-making-it-visible-in-schema-metadata/</guid>
+      <pubDate>Sat, 21 Nov 2026 12:34:40 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
     </item>
     <item>
       <title>This Week in Package Management: 21 November 2026</title>
@@ -713,6 +825,13 @@
       <description>Fernando Borretti</description>
     </item>
     <item>
+      <title>Connect a USB Zigbee Device to HAOS</title>
+      <link>https://shkspr.mobi/blog/2026/11/connect-a-usb-zigbee-device-to-haos/</link>
+      <guid isPermaLink="true">https://shkspr.mobi/blog/2026/11/connect-a-usb-zigbee-device-to-haos/</guid>
+      <pubDate>Fri, 20 Nov 2026 12:34:19 +0000</pubDate>
+      <description>Terence Eden’s Blog</description>
+    </item>
+    <item>
       <title>Pluralistic: Lisa Hanawalt's "I Can't Stop Thinking About Horses and Sex" (20 Nov 2026)</title>
       <link>https://pluralistic.net/2026/11/20/intrusive-horse-thoughts/</link>
       <guid isPermaLink="true">https://pluralistic.net/2026/11/20/intrusive-horse-thoughts/</guid>
@@ -725,125 +844,6 @@
       <guid isPermaLink="true">https://simonwillison.net/2026/Nov/20/llm-gemini/</guid>
       <pubDate>Fri, 20 Nov 2026 03:01:57 +0000</pubDate>
       <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Token fraud is here and it’s BAD (YouTube)</title>
-      <link>https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/</guid>
-      <pubDate>Fri, 20 Nov 2026 02:49:57 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Another company I've never heard of lost my Data</title>
-      <link>https://idiallo.com/byte-size/another-company-lost-my-data-and-free-credit-monitoring</link>
-      <guid isPermaLink="true">https://idiallo.com/byte-size/another-company-lost-my-data-and-free-credit-monitoring</guid>
-      <pubDate>Thu, 19 Nov 2026 23:27:30 +0000</pubDate>
-      <description>Software and Tech stories from an Insider - iDiallo.com</description>
-    </item>
-    <item>
-      <title>★ Jon McCormack Retires From Apple</title>
-      <link>https://daringfireball.net/2026/11/mccormack_retires_from_apple</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/11/mccormack_retires_from_apple</guid>
-      <pubDate>Thu, 19 Nov 2026 22:25:12 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Google’s Spark AI Agent Becomes ‘Tasks’</title>
-      <link>https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IksyWGFvWkdyWVIiLCJwIjoiL3RlY2gvMTAzNTc1Ni9nb29nbGUtc3BhcmstYWktdGFza3MtZnJlZSIsImV4cCI6MTc5NTU1MzQxMiwiaWF0IjoxNzk1MTIxNDEyfQ.GdsUKdRXeGBskw7-FDgCXEmIYhdLPPexImzdWhJqA-c&amp;utm_medium=gift-link</link>
-      <guid isPermaLink="true">https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IksyWGFvWkdyWVIiLCJwIjoiL3RlY2gvMTAzNTc1Ni9nb29nbGUtc3BhcmstYWktdGFza3MtZnJlZSIsImV4cCI6MTc5NTU1MzQxMiwiaWF0IjoxNzk1MTIxNDEyfQ.GdsUKdRXeGBskw7-FDgCXEmIYhdLPPexImzdWhJqA-c&amp;utm_medium=gift-link</guid>
-      <pubDate>Thu, 19 Nov 2026 20:54:10 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>PostgreSQL 19 Released</title>
-      <link>https://simonwillison.net/2026/Nov/19/postgresql-19/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/19/postgresql-19/</guid>
-      <pubDate>Thu, 19 Nov 2026 20:43:57 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Grand Theft Auto 6</title>
-      <link>https://www.theverge.com/games/1035801/grand-theft-auto-6-review?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjJ2dm1YT25YaEwiLCJwIjoiL2dhbWVzLzEwMzU4MDEvZ3JhbmQtdGhlZnQtYXV0by02LXJldmlldyIsImV4cCI6MTc5NTU1MTkzNiwiaWF0IjoxNzk1MTE5OTM2fQ.XQt8Qcs5vUE3Paa_aDtLGeZOo2ZDaOU7mB0dTBzXrrQ&amp;utm_medium=gift-link</link>
-      <guid isPermaLink="true">https://www.theverge.com/games/1035801/grand-theft-auto-6-review?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjJ2dm1YT25YaEwiLCJwIjoiL2dhbWVzLzEwMzU4MDEvZ3JhbmQtdGhlZnQtYXV0by02LXJldmlldyIsImV4cCI6MTc5NTU1MTkzNiwiaWF0IjoxNzk1MTE5OTM2fQ.XQt8Qcs5vUE3Paa_aDtLGeZOo2ZDaOU7mB0dTBzXrrQ&amp;utm_medium=gift-link</guid>
-      <pubDate>Thu, 19 Nov 2026 20:30:10 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>Closing The Sandwich Shop</title>
-      <link>https://feed.tedium.co/link/15204/17535724/salon-media-ownership-tech-destiny</link>
-      <guid isPermaLink="true">https://feed.tedium.co/link/15204/17535724/salon-media-ownership-tech-destiny</guid>
-      <pubDate>Thu, 19 Nov 2026 18:38:35 +0000</pubDate>
-      <description>Tedium: The Dull Side of the Internet.</description>
-    </item>
-    <item>
-      <title>Anthropic IPOs, Topping SpaceX for the Largest Ever</title>
-      <link>https://www.techmeme.com/261118/p34#a261118p34</link>
-      <guid isPermaLink="true">https://www.techmeme.com/261118/p34#a261118p34</guid>
-      <pubDate>Thu, 19 Nov 2026 16:33:16 +0000</pubDate>
-      <description>Daring Fireball</description>
-    </item>
-    <item>
-      <title>My Least Favorite Example in Software Engineering</title>
-      <link>https://buttondown.com/hillelwayne/archive/my-least-favorite-example-in-software-engineering/</link>
-      <guid isPermaLink="true">https://buttondown.com/hillelwayne/archive/my-least-favorite-example-in-software-engineering/</guid>
-      <pubDate>Thu, 19 Nov 2026 15:40:32 +0000</pubDate>
-      <description>Computer Things</description>
-    </item>
-    <item>
-      <title>Why do I get inconsistent results when I ask for the icon for the .. parent folder?</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20261119-00/?p=112879/</link>
-      <guid isPermaLink="true">https://devblogs.microsoft.com/oldnewthing/20261119-00/?p=112879/</guid>
-      <pubDate>Thu, 19 Nov 2026 15:00:00 +0000</pubDate>
-      <description>The Old New Thing</description>
-    </item>
-    <item>
-      <title>Pluralistic: How to forfeit one of copyright's best labor policies (19 Nov 2026)</title>
-      <link>https://pluralistic.net/2026/11/19/loan-out-companies/</link>
-      <guid isPermaLink="true">https://pluralistic.net/2026/11/19/loan-out-companies/</guid>
-      <pubDate>Thu, 19 Nov 2026 14:10:14 +0000</pubDate>
-      <description>Pluralistic: Daily links from Cory Doctorow</description>
-    </item>
-    <item>
-      <title>SO Is Back! No, Not Stack Overflow, but Its Spirit</title>
-      <link>https://idiallo.com/byte-size/stackoverflow-is-back-in-spirit</link>
-      <guid isPermaLink="true">https://idiallo.com/byte-size/stackoverflow-is-back-in-spirit</guid>
-      <pubDate>Thu, 19 Nov 2026 07:27:09 +0000</pubDate>
-      <description>Software and Tech stories from an Insider - iDiallo.com</description>
-    </item>
-    <item>
-      <title>Supersequences and Superpermutations</title>
-      <link>https://www.johndcook.com/blog/2026/11/18/supersequences/</link>
-      <guid isPermaLink="true">https://www.johndcook.com/blog/2026/11/18/supersequences/</guid>
-      <pubDate>Thu, 19 Nov 2026 00:10:21 +0000</pubDate>
-      <description>John D. Cook</description>
-    </item>
-    <item>
-      <title>Inside PyPy: first contact with RPython</title>
-      <link>https://bernsteinbear.com/blog/inside-pypy-first-contact-with-rpython/?utm_source=rss</link>
-      <guid isPermaLink="true">https://bernsteinbear.com/blog/inside-pypy-first-contact-with-rpython/?utm_source=rss</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Max Bernstein's Blog</description>
-    </item>
-    <item>
-      <title>llm-gemini 0.38</title>
-      <link>https://simonwillison.net/2026/Nov/18/llm-gemini/</link>
-      <guid isPermaLink="true">https://simonwillison.net/2026/Nov/18/llm-gemini/</guid>
-      <pubDate>Wed, 18 Nov 2026 23:59:20 +0000</pubDate>
-      <description>Simon Willison's Weblog</description>
-    </item>
-    <item>
-      <title>Unburden yourself of the backlog</title>
-      <link>https://entropicthoughts.com/unburden-yourself-of-the-backlog</link>
-      <guid isPermaLink="true">https://entropicthoughts.com/unburden-yourself-of-the-backlog</guid>
-      <pubDate>Wed, 18 Nov 2026 23:00:00 +0000</pubDate>
-      <description>Entropic Thoughts</description>
-    </item>
-    <item>
-      <title>★ The 50-Yard Line</title>
-      <link>https://daringfireball.net/2026/11/the_50-yard_line</link>
-      <guid isPermaLink="true">https://daringfireball.net/2026/11/the_50-yard_line</guid>
-      <pubDate>Wed, 18 Nov 2026 20:42:23 +0000</pubDate>
-      <description>Daring Fireball</description>
     </item>
   </channel>
 </rss>
