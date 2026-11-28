@@ -208,11 +208,11 @@ Last Updated: Saturday, November 28th, 2026, 8:57:16 AM
 *What I'm reading — auto-updated from 80+ subscribed tech blogs.*
 
 <!--BLOG_RADAR:start-->
+- [datasette-charts 0.4a0](https://simonwillison.net/2026/Nov/27/datasette-charts/) — *Simon Willison's Weblog* `11-27`
+- [OpenAI Countersues Apple for Stealing Trade Secrets](https://www.ft.com/content/af599e07-d44c-4068-ab84-6ee3c85551d4?syn-25a6b1a6=1) — *Daring Fireball* `11-27`
+- [Serial Numbers in Chinese Filings Reveal That Nvidia’s Restricted Blackwell Chips Were Installed at a Shanghai Datacenter Linked to Alice Huang and Megaspeed](https://www.bloomberg.com/news/articles/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTc4ODgyMywiZXhwIjoxNzk2MzkzNjIzLCJhcnRpY2xlSWQiOiJUUDFVMFJUOU5KTFMwMCIsImJjb25uZWN0SWQiOiI3QTcxRTEyQjY2RTM0RkI3ODlCQTA5NEZBQzVGMkE0OSJ9.tcyYBUyKr7A_4Qyf4S69z95uT1ZiyuOyOOZi73bhQ7Q&leadSource=article-gifting) — *Daring Fireball* `11-27`
+- [UI style guides](https://aresluna.org/ui-style-guides) — *Aresluna* `11-27`
 - [Opus 5.5 and Fable 5.2 made my overoptimized Rust code even more overoptimized](https://minimaxir.com/2026/11/opus-fable/) — *Max Woolf's Blog* `11-27`
-- [AI researchers debate what we should do next – Daniel Kokotajlo and Ege Erdil](https://www.dwarkesh.com/p/daniel-kokotajlo-ege-erdil) — *Dwarkesh Podcast* `11-27`
-- [Protect Your Web Forms Against Spam Bots](https://blog.miguelgrinberg.com/post/protect-your-web-forms-against-spam-bots) — *Miguel Grinberg's Blog* `11-27`
-- [This Week on The Analog Antiquarian](https://www.filfre.net/2026/11/this-week-on-the-analog-antiquarian/) — *The Digital Antiquarian* `11-27`
-- [The Invention Algorithm](https://www.construction-physics.com/p/the-invention-algorithm) — *Construction Physics* `11-27`
 <!--BLOG_RADAR:end-->
 
 ---
